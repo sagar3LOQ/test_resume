@@ -1,0 +1,185 @@
+Varun Kumar Allam
+7702176529
+Summary 
+Having great ease and willingness to learn new technologies, strong and effective verbal and written 
+communication skills, good decision making skills, responsible and organized. Having 8 years of 
+experience in IT industry and highly adaptable to different roles required by the organization.
+Experience 
+ 
+●
+●
+●
+●
+●
+●
+●
+●
+
+8 years of experience in IT in various roles. 
+Worked as Senior System Analyst for 2 years 5 months (WaveCrest Payment Technologies Ltd). 
+Worked as Technology Lead for 10 months (Infosys Ltd). 
+Worked as Technology Analyst for 1 year 5 months (Infosys Ltd). 
+Worked as Software Engineer for 3 years 2 months (Infosys Ltd). 
+Expertise includes technical knowledge and experience in E­Banking domain,Payment domain and 
+Java/J2EE Technologies.  
+Worked as Release Manager which needed facilitating coordination between different teams 
+( Product, Development, QA and Release Management)  
+Worked as Build And Deployment engineer during which had some exposure to scripting languages 
+Ruby and Groovy. 
+
+Educational Qualifications 
+ 
+        B.E(Hons) Mechanical from BITS Pilani (2002­2006) 
+ 
+Technical Skills 
+ 
+Primary Skill Set                  : Core Java 
+Other Skills                          : DataStructures and Algorithms, Design Patterns, J2EE,SQL, C, and XML. 
+Web Technologies               : AngularJS, JSP and HTML. 
+Frameworks & Standards   : OOP,JPA, REST, Spring, Hibernate and Apache Log4j. 
+Servers
+                    : Tomcat and IBM WebSphere Application Server. 
+Database                               : My SQL, Redis and MS SQL. 
+Operating Systems              : Windows, Windows Server, UNIX and Ubuntu. 
+              Tools Used                           : Eclipse IDE, Gradle, Jenkins, Vagrant, Tortoise SVN,GIT, VSS. 
+ 
+Professional Experience  
+ 
+ WaveCrest Payment Technologies: 
+         WaveCrest is into cloud based e­money business. It provides multi currency digital payments 
+platform for clients to meet financial and disbursement needs. Business to Business payouts, employee 
+student disbursements, mobile wallets and prepaid cards are some of the programs offered. 
+ 
+● Jan 2012 to till date: Senior System Analyst 
+Team :  Platform Architecture and Tools 
+ 
+Major Projects/Modules :  Production Application Support, User and Buddy Management, 
+Continuous Integration, Health Check, REST API design, ECS/CCSI, Log Analytics etc 
+Responsibilities: My responsibilities included participation in requirement discussions, design 
+discussions, development and testing. 
+
+ 
+ 
+ FINACLE:  
+        Universal Banking Solution provided by Infosys.  E­banking solution is the internet banking and 
+mobile banking solution for retail and corporate customers. 
+●
+
+●
+ 
+
+April 2011 to Jan 2012: Technology Lead 
+ 
+Project: FINACLE (E­banking ­ INFINITY) 
+Responsibilities:  My  responsibilities   included  participation  in  requirements  gathering,  mentoring 
+and  providing  pseudo  code  to  the  team,  assign  and  review   tasks,  effort  estimation  of  the  tasks, 
+scheduling  of tasks, documentation, tracking  of  SLAs  and coordinating with other  team  members. 
+I have mentored a team of 3.  
+ 
+December 2009 ­ April 2011: Technology Analyst 
+Project: FINACLE (E­banking ­ INFINITY) 
+Responsibilities:  My  responsibilities   included  analysis  of  customer  requirements,  design, 
+development,  testing  and  release  management.  I  have  mentored  new  team  members  about  the 
+e­banking  architecture  of  FINACLE.  Delivering  new  enhancements  for  the   e­banking  application 
+and supporting existing application form major responsibility. 
+
+ 
+●
+ 
+
+4th November 2006 – December 2009 : Software Engineer 
+Project: FINACLE (E­banking ­ INFINITY) 
+Responsibilities:  My  responsibilities   included  development,  testing  and  providing  support  for 
+production bugs. 
+
+ 
+●
+ 
+
+17th July 2006 ­ 4th December 2006: Training at Infosys, Mysore. 
+ 
+Training  included  C,  UNIX,  RDBMS,  SQL,  ORACLE,  Java,  Jsp,  Servlets, HTML, JavaScript, 
+Banking  Fundamentals  during  4  ½   months  of  basic  orientation.  I  have  scored  an overall  CGPA  of 
+4.82 on a scale of 5. 
+
+ 
+Work in Brief: 
+ 
+ 
+Key  modules   which  I  worked  on  are   REST  API  URL  Design,  User  and  Buddy  Management, 
+Health   Check,  Continuous  Integration,  Mobile  banking,  Corporate  Internet  Banking  and  Security 
+Features. 
+1. I  have worked on  setting  up Jenkins  CI  environment.  (Jenkins,  Gradle, Apache Tomcat  Server, 
+Stand alone java batches, test suites, nodes/slaves setup) 
+2. I  have  worked  on  redesigning  the  URLs  to  conform  to   REST,  exposed  for  different 
+functionalities to the external parties. (Spring’s MVC Framework for REST) 
+3. I  have  worked  on  User  and  Buddy  Management  in  the  system.  (Spring 
+MVC,AngularJS,Hibernate)  
+4. I  have  worked  on  Java  and  C  batches.  Involved  in  enhancements,  fixing  bugs  for  existing 
+programs and creation of new batches for some requirements. 
+Technologies Used: C, Java, SQC, JDBC, PL/SQL. 
+5. Development   and  implementation  of  Mobile   banking  in  Corporate  Internet  Banking.  This 
+enhancements  majorly  included   providing  SMS   and  GPRS  users  with  facilities  like  bill  
+enquiry, bill payment etc. Technologies Used: Java/J2EE and JSP. 
+6. Creation  of  instant  online  e  banking  users   for  Corporate   Internet   Banking.  This enhancement  
+is  to  provide  every  corporate   account  holder  with  the  option  of creating an  e banking  account 
+online.  
+Technologies Used: Java/J2EE and JSP. 
+
+7.
+
+8.
+9.
+
+Bulk  Creation  of  Corporate  Users  automates the process  of  opening  the  accounts,  creation  of 
+roles, limits creation etc. for corporate account holders.  
+Technologies Used: Java/J2EE and JSP. 
+Migration of various C batch programs on Windows plat form to Solaris. 
+Technologies Used: UNIX building of C programs 
+Maintenance and modification of SMTP Server. There is an existing SMTP service which can 
+communicate with only one machine and customization involved it to communicate it multiple 
+machines. This customization involved more of understanding of existing SMTP service 
+functionality and SMTP protocol.  
+Technologies Used: C and SQC.  
+
+ 
+Achievements 
+ 
+●
+●
+
+Recipient  of  “Pratibha” Scholarship  and  Award  for  excellence in Intermediate  by State  Government 
+of Andhra Pradesh. 
+Secured District 2nd and Town 1st in Intermediate. 
+
+ 
+Strengths 
+ 
+● Ability to work under pressure and minimum supervision. 
+● Good analytical capability, debugging skills and aptitude. 
+ 
+Other Details 
+ 
+     Current Employer: Wave Crest Payment Technologies Limited. 
+     Current Position   : Senior System Analyst. 
+     Current Location  : Hyderabad. 
+ 
+Personal Details 
+ 
+       Name 
+ :  Varun Kumar Allam 
+       Address 
+ :  Flat No 101, Uma Residency, 
+   Gudimalkapur, Hyderabad – 500067. 
+       E­mail
+ : varunkumar.allam@gmail.com 
+       Nationality   : Indian 
+       Gender 
+ : Male 
+       DOB                : 24­08­1985 
+       Marital Status : Single 
+ 
+Declaration
+I here by declare that the above mentioned particulars are true to the best of my knowledge and belief.
+
+

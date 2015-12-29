@@ -1,0 +1,401 @@
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate                                             -  1.5                                               
+
+Spring                                                    -  2 Years                                               
+
+Web Services                                       -  1 years                                                
+
+Core Java                                              -  3 years                
+
+Design Patterns                                   -  1 Years            
+
+UML design                                          -   
+
+Build Tools (Maven/Ant)                   -    maven
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+Apache Tomcat , junit
+
+
+
+DB- Mysql
+
+
+
+NP:15days
+
+		                                                                                                                             
+
+		                                                        Ravuri Venkata reddy 
+
+		                                                        Ph:9052017241                                                                                                                                                                                                                                    
+
+		                                                       venkatareddy.ravuri@gmail.com
+
+		
+
+		
+
+Career Synopsis
+
+	3 year of professional experience as Software Engineer in developing enterprise applications using Spring Framework based on Java & Spring Technologies.
+
+	Strong working knowledge of end-to-end software development life cycles and processes.
+
+	Extensive experience in coordinating development effort, responsible for development deliverables, status reporting to management, issue escalations.
+
+	Has working experience and knowledge on UML.
+
+	Has good knowledge on Object Oriented Programming concepts.
+
+	Has working experience with Scrum Development Process.
+
+	Strong working knowledge and ability to debug complex problems.
+
+	Understanding the Business requirements, Functional specifications and analyzing the change Requests.
+
+	Has hands-on experience in integrating Spring , Hibernate, Spring MVC, jQuery, AngularJs.
+
+		
+
+
+
+Career Objective & Strengths
+
+	Aspiring to work in a challenging environment which encourages Innovation, Learning, and Creativity and provides exposures to new ideas, professional growth with my key strengths comprising as:
+
+Strong technical skills in Core java, Servlets.
+
+Has experience in development of web based applications using Spring Framework.
+
+Having experience in ORM technologies like Hibernate.
+
+Experience in working with Tomcat Web server.
+
+Having excellent analytical, problem solving, communication and interpersonal skills.
+
+Quick learner of new technologies & positive attitude towards the changes in the Industry.
+
+Ability to meet deadlines and projects specifications.
+
+
+
+
+
+            
+
+Career Path
+
+Software Developer (Aug 2011 – till  date),
+
+Prokarma Softech Private Limited,
+
+Hyderabad , India.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Projects Handled
+
+Project #1
+
+
+
+
+
+Title 
+
+Insta Rounds
+
+Role
+
+Software Developer
+
+Duration
+
+Oct-2011 to Jan-2013
+
+Team Size 
+
+3 
+
+Environment 
+
+Spring , Spring WebMVC, Spring Web Services, Hibernate , Apache Tomcat , MySql 
+
+
+
+Description :
+
+The most comprehensive mobile and web platform for physicians to communicate with one another, share call schedules, follow their appointments, allow cross coverage and for the first time ever give physicians a mobile patient sign-out application. The product management has now come up with a new idea to build a system that will have the common data of the employee and if any system requires this common information it will going to provide it. By this way all the application can use the same data across the network eliminating employee data dependency. The system which will provide this service to the other system is called Master Data-management system (MDM)
+
+
+
+Responsibilities: 
+
+Involved in requirements gathering and database design.
+
+Involved in configuring the Spring Web Service.
+
+Involved in form validations Using Java Script and JQuery.
+
+Ensure timely project deliveries as per project plan.
+
+
+
+Project #2
+
+
+
+Title
+
+mBanking
+
+Role
+
+Software Developer
+
+Duration
+
+Feb-2013 to till date.
+
+Team Size
+
+3
+
+Environment
+
+Spring , Spring MVC,  Hibernate , Apache Tomcat , MySQL ,Angular Js.
+
+
+
+Description :
+
+mBanking   is a software product suite designed to serving Bank customers with access to financial services even when they are on the move through mobile apps (android, iOS Blackberry or Windows), WAP,SMS and USSD . It provides Core Banking with different modules like Setup- Admin, Admin and Self-Care. In Setup-Admin we creates Institutions and its Admins . In Admin level we are creating Institution users, Customers, Agencies, Agents, IAgents, Merchants ,Corporates and Branch Teller along with their Admins. Self Care is used as login for above users.
+
+,
+
+
+
+Responsibilities: 
+
+Implemented the server side of the contract using Spring Webservices and JaxB.
+
+Designed and Developed the Façade Layer for the Service Request Processors.  
+
+Developed the Remote Procedure Calls using HTTP Invoker for Inter component communication.
+
+Documented the Project and gave KT Sessions to rest of the development team.
+
+Responsible for the maintenance of the project  till date
+
+
+
+
+
+
+
+
+
+			
+
+Qualification
+
+Institution/Board
+
+Year of Passing
+
+MCA
+
+Bsc
+
+Nalanda Institute of Engineering and Technology,  Guntur.
+
+Rvvn Colleage, Acharya Nagarjuna University , Guntur.
+
+2011
+
+                   2008
+
+12th
+
+T.G.L PolyTechnic Government College /Board of Technical Education
+
+2006
+
+10th
+
+N.M.M.High School /Board of Secondary Education
+
+2003
+
+
+
+	Technical Skills
+
+
+
+
+
+		Java Technologies
+
+		Java, Servlets,, Web Services.
+
+		Frameworks
+
+		Spring, Hibernate
+
+		Tools
+
+		Maven, SVN, Spring Source Tool
+
+		Database
+
+		MySQL
+
+		Web/Application Server
+
+		Apache Tomcat
+
+		Operating System
+
+		Ubuntu 
+
+		Markup Language
+
+		XML, HTML
+
+		Scripting Language                     
+
+		JavaScript, Jquery, angularJs.
+
+		
+
+		
+
+		
+
+
+
+
+
+Personal Detail
+
+
+
+Address
+
+Near Mehadipatnam, Hyderabad-500028
+
+Date Of Birth
+
+06/06/88
+
+Marital Status
+
+Single 
+
+Languages Known
+
+English  and Telugu
+
+Nationality
+
+Indian 
+
+
+
+
+
+
+
+
+
+		
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Structured Testing And Reporting Tool
+
+
+
+		
+
+		
+
+Structured Testing And Reporting Tool
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Structured Testing And Reporting Tool

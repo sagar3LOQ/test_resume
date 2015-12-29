@@ -1,0 +1,339 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                 -  3
+year                                  
+             
+
+Spring                  
+                                 -  3
+year&current                              
+                 
+
+Web
+Services                                
+       -  7 year &
+c  urrent                              �
+�               
+
+Core
+Java                                  
+            -  4 years                
+
+Design
+Patterns                                
+   -  yes            
+
+UML
+design                                 
+         -   yes
+
+Build Tools (Maven/Ant)                   -   
+Maven   /ant
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Tomcat/weblogic/eclipse
+
+DB:oracle/SQL
+
+                   
+
+Surendra Nath D 
+
+Mobile: +91 9493294533
+
+E Mail:   HYPERLINK "mailto:suren1290@gmail.com"  suren1290@gmail.com 
+
+	                                                                       
+              SUN CERTIFIED PROGRAMMER
+
+                                                                        
+                         (For java 2 platform 1.4)
+
+Summary:
+
+Around 9 years of design and development experience of robust and
+scalable financial server products which are multi-tenant and
+multi-platform.
+
+Specialist in building products based on Payment technologies and
+cryptography concepts.
+
+Expert level experience in building products that were deployed on the
+cloud based on multi-tenant architecture (SaaS) with high availability
+and scalability.
+
+Extensive SOA and WebServices experience on different technology stacks.
+
+Experience with Java technologies like Servlets, JSP, Struts, Spring
+Framework, EJB, JSF, Hibernate, Webservices, JPOS, JMS, JavaScript,
+HTML, XML and having a good knowledge of OOP concepts.
+
+Extensive experience of development, integration and deployment on
+Oracle iPlanet Web server, Windows IIS 5.0, Apache 2.2, Tomcat 5.5,
+Jetty 4.2.12, Weblogic 9.2, Apache Active MQ 4.1.0 and Sonic ESB 6.0.
+
+Experience in end to end configuration of nShield Connect network HSM
+500.
+
+Experience in planning the agile sprint using IBM RTC tool for following
+Agile Scrum Methodology.
+
+A Sun certified Java programmer.
+
+Work Experience:
+
+Working as Principal Software Engineer for CA Technologies (Arcot R&D
+Software Pvt. Ltd.), Hyderabad from October’10.
+
+Worked as Senior Software Engineer for mChek India Payment Systems Pvt.
+Ltd., Bangalore from June’07 to June’10.
+
+Worked as Software Engineer for Tavant Technologies India (PVT) Ltd.,
+Bangalore from July’05 to May’07.
+
+Educational Qualification: 
+
+BTech. in Electronics and Communications Engineering from JNTU in 2005.
+
+Intermediate from State Board in 2000.
+
+S.S.C. from Board of Secondary Education in 1998.
+
+Software Skills:
+
+Languages                   : C, C++ and Java.
+
+Java Technologies      : Servlets, JSP, JSF, RMI, JDBC, Webservices
+(Xfire and Axis), and JMS.
+
+Framework                  : Jakarta Struts, Spring and JPOS Frameworks
+
+Persistence Layer        : JPA, EJB and Hibernate.
+
+GUI		                    : Flex, Swing and AWT.
+
+Message Queue	        : Sonic ESB6.0 and Apache Active MQ 4.1.0.
+
+Web Servers	        : Tomcat5.5, Apache 2.2, iPlanet, IIS 5.0 and Jetty
+4.2.12
+
+Application Servers    : JBOSS3.2.3 and WebLogic 9.2.
+
+Crypto Device 	        : nShield Connect network HSM 500
+
+Development Tools     : Eclipse 3.2.3 and Intellij5.1.
+
+Markup Languages    : Java script, HTML and XML (SAX, DOM and XMLBeans).
+
+Databases	                    : Oracle 9i and Mysql 5.1.
+
+Version Control           : Clear Case, SVN and CVS
+
+Bug tracking Tools      : Clear Quest, Salesforce and Bugzilla
+
+Operating Systems      : Windows, Solaris, UNIX and Linux.
+
+Development Methodologies : Waterfall model and Agile methodologies such
+as                     extreme programming and scrum.
+
+Project Profile:
+
+PaymentMinder (TransFort)
+
+CA Technologies (Arcot R&D Software Pvt. Ltd.), Hyderabad
+
+Environment : Servlets, JSP, Struts, Webservices, JMS, Tomcat 5.5, IIS
+6.0, Weblogic 9.2.
+
+Duration : October 2010 to tilldate.
+
+Team size : 18
+
+Description: Based on 3-D Secure protocol by Visa, Arcot TransFort is
+the de-facto standard for online credit card authentication and fraud
+reduction for all players involved, which includes cardholders, Issuers,
+and Merchants. It supports all the major credit card brands Visa
+(Verified By Visa or VbV), MasterCard (MasterCard SecureCode), JCB
+(J/Secure) and American Express (American Express SafeKey). To use the
+security offered by TransFort, credit-card holders must first register
+their cards in the 3-D Secure program. In return, they receive a
+secondary authentication password, known as secret password. When they
+shop on participating merchant Web sites, these registered cardholders
+must provide this secret password to ensure a secure shopping
+experience.
+
+Role & Responsibilities:
+
+Responsible for the engineering activities of Transfort which is doing
+more than million transactions per day, serving about 13000 customers
+and has more than 120M users.
+
+Analyzing the requirements, designing components keeping multi tenancy
+in mind and planning the agile sprint by splitting the requirements into
+multiple tasks in IBM RTC tool and working closely with the team to
+provide high quality releases in time.
+
+Architectured integration of PaymentMinder with AuthMinder to implement
+features such as 3D secure authentication with One Time Passwords (OTP)
+generated by ArcotOTP application and 2nd factor authentication of the
+web application with ArcotID.
+
+Responsible for implementing the solution by providing onsite support
+for In-house customers like ICICI India (debit), CITI India, JCC Cyprus
+and ANZ Singapore
+
+CloudPass
+
+CA Technologies (Arcot R&D Software Pvt. Ltd.), Hyderabad
+
+Environment : JDK 1.7, JSF, JPA, Webservices, Apache TomEE 1.5.2 Plus,
+nShield Connect network HSM 500 and Oracle 11.2.0.2
+
+Duration : May 2013 to Nov 2013.
+
+Team size : 6
+
+Description: CloudPass significantly simplifies the online shopping
+experience of internet buyers with versatile card/user authentication
+because they do not need to access their physical card every time they
+make a purchase. They can specify the required card details once, and
+can then subsequently access them by logging in to CloudPass by
+specifying their CloudPass password. CloudPass Solution is implemented
+as a customizable button that appears during checkout in the end
+user’s cart. When they click this button, they are prompted to log in
+with the registered credentials (username and CloudPass password). On
+successfully logging in to CloudPass Solution, their card information
+and shipping and billing addresses are pre-populated on the checkout
+page, as a result, the checkout process is faster and simpler. With
+minimal coding required for integration, merchants can also benefit from
+reduced shopping cart abandonment and increased conversions.
+
+Role & Responsibilities:
+
+Responsible for the engineering activities of product CloudPass.
+
+Planning and designing the components of CloudPass.
+
+Building a simple and seamless interface for merchants to integrate.
+
+mChek Payment Systems
+
+mChek India Payment Systems Pvt. Ltd., Bangalore (  HYPERLINK
+"http://www.mchek.com"  www. mchek.com )
+
+Environment : JPOS framework, Spring, Hibernate, XML(XML Beans),
+Webservices using XFire and Axis, Cajo, ActiveMQ, JMS, Jetty 4.2.12 and
+Click frame work.
+
+Duration : June 2007 to June 2010.
+
+Team size : 4
+
+Description: mChek is a mCommerce application which provides an
+on-demand solution for mobile payments and two-factor authentication.
+mChek lets you put your credit card in your mobile phone and use it in a
+safe, smart and simple manner for over-the-counter and Internet
+purchases, and person to person payments. mChek is a simple and secure
+product that augments the way people currently transact with their
+money. With mChek you can use your mobile phone to make credit and debit
+card payments. It completely integrates into the already deployed mass
+infrastructure of mobile operators and banks, bringing about a powerful
+convergence of both these businesses through the mobile phone. mChek
+provides a host of financial transactions for customers and merchants
+with unparalleled security.
+
+Personalization (PERSO) : Perso-Server supports mission-critical
+applications such as Key generation and Key maintenance, data
+authentication, crypto functionalities like encryption and decryption
+and other key functions running round the clock. It is used for the pre
+and post personalization of the SIM cards, which are issued through
+mChek platform.
+
+Key Management System (KMS) : A Key Management System is a system to
+securely generate, store, distribute and delete cryptographic Key Values
+and attributes. A Key Management System is typically a software based
+system making use of hardware based cryptographic processor HSM for
+secure operations. HSM ensures the secrecy and integrity of the Key
+Values and attributes.
+
+Smart Card Management System (SCMS) : SCMS typically manage card
+inventories, new accounts, account setup, cardholder risk and customer
+service. The main purpose of SCMS is to track the smart card’s life
+cycle events, from the point when it is created, to the point of its
+removal from the system.
+
+Virtual Terminal (VT) : mChek virtual terminal is a server, which serves
+various mobile originated transaction requests. Requests are either
+initiated by the merchant or by the customer. Virtual terminal supports
+different functionalities of the mChek transaction processes like online
+sale, balance Inquiry, online/offline void, online/offline refund and
+offline sale.
+
+Role & Responsibilities:
+
+Responsible for the engineering activities of multiple components
+including Personalization System (Perso), Key Management System (KMS)
+and Smart Card Management System (SCMS) which are the core components
+for personalization of cards (credit/debit) on various mChek clients and
+mobile payments.
+
+Enhancing the product to handle both Card Present/Card Not Present
+transactions using USSD and making the above mentioned components highly
+scalable and robust.
+
+Solely responsible for all the developments in Personalization module
+and providing support in all the environments (including production
+support).
+
+Written Ant and Unix scripts for creating one click installers and
+automating the patch process.
+
+ASAP (Advanced Sales Accelerated Production)
+
+Tavant Technologies India Pvt Ltd., Bangalore (  HYPERLINK
+"http://www.tavant.com/"  http://www.tavant.com )
+
+Client : Ameriquest Mortgage Company Inc.
+
+Environment : Struts, Servlets, JSP, EJB, JMS, Sonic ESB and Weblogic
+8.1 SP3.
+
+Duration : August 2005 to May 2007.
+
+Team Size : 10.
+
+Description: ASAP is a service-oriented application tailored to fit
+Ameriquest Mortgage Company’s (AMC) business model so that AMC can
+streamline processes and increase efficiency. ASAP plays a key role in
+the retail workflow of Ameriquest Mortgage. To best understand the
+context of ASAP in the enterprise, it is important to understand the
+high-level retail loan workflow. ASAP is constructed to expose services
+and processes in a way that will allow expanded use and support for
+wholesale loan processing at some future date.
+
+Role & Responsibilities:
+
+Core Development of the Credit Engine in the project ASAP. It includes
+development of both web layer and business Layer for the credit module
+using JSP’s, EJB’s, DAO’s, JMS and Struts Framework and deployment
+of the application on WebLogic. 
+
+Production and QA support for the developed components including bug
+fixing and enhancements.
+
+Creating clustered Weblogic domains and deploying all the modules of the
+application and integrating all the modules.
+
+Deploying and integrating every release in Onsite environments. 
+
+Written ant scripts for creating clustered domains and deploying all the
+modules.
+
+Automating the process of build and deployment using ant and also
+involved in the development of Automatic Patch Process for CVS using
+Java and Ant.
+

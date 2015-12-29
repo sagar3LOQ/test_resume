@@ -1,0 +1,236 @@
+Sprin
+
+17/20/60days
+
+BALAJI GARIMELLA
+
+	
+
+                                            					  
+
+                      				                   
+
+						                                 Mobile 9740665561	
+
+Bangalore                                                               
+e-mail: balu_mailme@yahoo.co.in
+
+KARNATAKA	          				                          balu.mailme@gmail.com
+
+							         
+
+EXPERIENCE SUMMARY
+
+An experience of 10 years in design and development of Java/J2EE based
+software applications.
+
+Working as Senior Software Engineer in Manhattan Associates from
+December 2011
+
+Worked  in Goldman Sachs, Bangalore from January 2010 till November 2011
+
+Worked in Amdocs, Pune from April 2007 to December 2009
+
+Worked in National Informatics Centre, Hyderabad (June 2005 -  March
+2007)
+
+ACADEMIC PROFILE
+
+B.Tech (CS)     –  April 2005 – JNTU, Hyderabad
+
+Class XII         –  April 2000 – BIE, Hyderabad
+
+Class X (SSC)  –  May 1998  – SSC, Hyderabad         
+
+       
+
+CORE TECHNICAL SKILLS
+
+Java, Spring, Hibernate and Struts
+
+ADDITIONAL SKILLS
+
+     Agile Development and Test Driven Development (TDD) (JUnit and
+JMock), JSON, EXT-JS
+
+PROJECT SUMMARY
+
+#1 Supply Chain Management Product (Manhattan Associates)
+
+ The flagship product of Manhattan Associates providing end-to-end
+automation of the supply chain lifecycle right from Transportation
+Procurement to Shipment delivery to the customer
+
+Role(s)
+
+Senior Software Engineer
+
+Scrum member    
+
+Work(s) delivered
+
+Designed and developed Business Classes in Java
+
+Developed Unit test classes for Test driven development
+
+Developed web application using struts framework
+
+Designed REST back-end based User interface using EXT JS (A product from
+Sencha), developed back-end supporting service classes in Java.
+
+Guided junior developers on the above tasks, provided design
+suggestions.
+
+#2 Margining System 
+
+Profile A high volume high availability system designed to compute
+Margin numbers for end clients. It is a strategic real-time system to
+generate margin numbers for all businesses of the firm envisaged to
+replace many existing non-real-time legacy systems currently under
+operation. 
+
+Role(s)
+
+Senior Software Engineer
+
+Scrum member    
+
+Work(s) delivered
+
+Developed code modules (calculators) to enable margin number generation
+for few businesses
+
+Developed and configured Autosys jobs
+
+Followed Test Driven Development Approach. 
+
+Used JUnit and JMock extensively in TDD
+
+Used Tibco infrastructure extensively (EMS, RV etc) during development
+
+#3 CRAMER OSS (Amdocs - May -2007 to Jan-2008, April -2009)
+
+Profile CRAMER OSS suite is an operations stack that automates the
+telecom providers’ network inventory.
+
+Role(s)
+
+Senior SME (Senior developer)
+
+A member of Scrum Development Team
+
+Work(s) delivered
+
+Implemented webservices over HTTPS on Websphere Application server:
+
+    Developed plesiochronous web service invocation functionality on
+Oracle AQ and MDB on Websphere app server – The webservice caller
+sends the request message to oracle AQ listened by the MDB which makes
+the web service request by preparing a SOAP message and the response XML
+is pushed to the response queue, a Thread polls this queue for a
+specified time and returns the response message to the web service
+caller. Performed keytool operations to process the server certificate
+into a client keystore to enable HTTPS call 
+
+Developed Java classes to incorporate new products into the OSS suite.
+
+Designed and developed JUnit Test classes – Test Driven development
+(TDD)
+
+Designed and executed test cases in Quality Center
+
+Implemented Struts framework for Web tier.
+
+Product customisation  - Development and Support
+
+#4 Service Management Suite – A Middleware Application (Feb-2008 to
+March-2009)
+
+  
+
+Profile A fault management middleware application. The system
+orchestrates the OSS (Operations Support System), BSS (CRM) and other
+systems to progress and complete new orders. The Business flow is
+defined in a BPM environment 
+
+Role  
+
+Senior SME (Senior Developer)
+
+Work(s) Delivered
+
+Designed and developed multi-threaded server side java classes
+
+Defined bean configurations in Spring and Developed system interfaces
+using Spring framework
+
+Developed Java classes for Spring Beans
+
+Developed GUI using JSPs
+
+Product customisation  - Development and Support
+
+#5 NATIONAL TRANSPORT PROJECT (SARATHI 2.0-Govt. of India) (NIC)
+
+     (June-2005 to March-2006)
+
+Profile The National Transport Project – an RMI based workflow
+automation based Application aimed at the simplification of the Vehicle
+Licence delivery process in the RTOs all over the country. The software
+accomplishes this through a well-defined lifecycle for each and every
+service that a person requests. 
+
+Role
+
+Programmer
+
+Work(s) delivered
+
+Developed Business classes and interfaces for License Backlog, NOC and
+Metadata modules
+
+Developed Java Swings based forms and core Java classes with
+Multi-threading on Netbeans IDE
+
+#4 NATIONAL TRANSPORT PROJECT-ON-WEB (SARATHI-ON-WEB-Govt. of India)
+(NIC)
+
+(September-2005 to January-2006)
+
+Profile The National Transport Project on Web - an Enterprise Web
+Application aimed at the provision of citizen centric Licence services
+through web all over the country. This project brings the Licence
+services at the doorsteps of the citizens by decoupling the stages of
+the lifecycle of various services that are offered at the RTO.
+
+Role
+
+Programmer
+
+Work(s) delivered
+
+Designed classes useful for design and development of the system.
+
+Designed and developed Business Objects, Presentation Tier Objects for
+Licence Application, Licence Data Editor and Master Modules.
+
+Implemented Struts Framework 
+
+Personal Info
+
+Name			: 	Garimella Bala Balaji
+
+          Father Name		:         G K Krishna Somayajulu
+
+Date of Birth		:	23 January 1983.
+
+	Gender		:	Male.
+
+Languages known	:         Telugu, Hindi and English.
+
+Marital Status	:	Single.
+
+	Nationality		:	Indian.
+
+Religion		:	Hindu.
+

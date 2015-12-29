@@ -1,0 +1,337 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+          -  1 year
+
+Spring                  
+                   -
+2years                                 
+              
+
+Web
+Services                                
+    1years                             
+                   
+
+Core
+Java                                  
+     -  4 years                
+
+Design
+Patterns                              - �
+�4 years            
+
+UML
+design                                 
+    -   3 Years
+
+Build Tools (Maven/Ant)                   -    2.5
+maven 
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Eclipse, Sonar 
+
+                                                     
+
+Code    70% design 30%
+
+	 
+
+                     SRIDHAR R (E-Mail:rayana.sreedhar84@gmail.com)
+
+                          CELL: +91-9618272836, Hyderabad, India
+
+	
+
+CAREER OBJECTIVE:
+
+To be part of an esteemed organization in an area of software
+development, support or maintenance and prove myself as an individual
+and a person who would be able to apply his resources and his variant
+skills in a mutually symbiotic atmosphere.
+
+PROFILE SUMMARY:
+
+4+ years of experience and expertise in analysis, design, development
+and implementation of web based applications using Java and J2EE
+technologies.
+
+Experience in phases of project life-cycle development (SDLC) from
+Requirements gathering & Analysis to Conceptual Design & Development to
+Documentation, Testing, Implementation and Deployment. 
+
+Deployment Working areas include the implementation of Java and J2EE
+Technologies (Servlets, Jsps).
+
+Strong working Experience in using Struts and Springs Framework S/w’s.
+
+
+Having good exposure on basic concepts of Hibernate.
+
+Working Experience in using DB S/ws like Oracle and PostGreSQL.
+
+Good experience in working with Web and Application servers likes OC4J
+Server, Apache Tomcat.
+
+Having good analytical and programming skills.
+
+Result-Driven professional with good experience in working with teams.
+
+Dedicated fast Learner and self motivated with good communications and
+Interpersonal skills.
+
+PROFESSIONAL SKILLS:
+
+Languages	Java(J2SE,J2EE)
+
+J2EE Technologies	JSPs, Servlets, JDBC
+
+Web Technologies	HTML,XML
+
+Development Tools	spring tool suite,MyEclipse6.0,NetBeans
+
+Databases	PostGreSQL,Oracle 9i,MySql 5.1
+
+Servers	OC4J Server, Apache Tomcat, VMware vfabric tc server.
+
+Frameworks	Struts, Springs
+
+Scripting Language	Java Script
+
+Testing 	JUnit
+
+Special software’s	SVN, RSA, SoapUI, Toad, Maven.
+
+
+
+Experience PROFILE:
+
+Working with Tata Consultancy Services Ltd, Hyderabad as Systems
+Engineer (Feb’11 to till date).
+
+Worked with Alriche Software Solutions Pvt Ltd, Pune as Jr Software
+Engineer (Oct’09 to Jan’11).
+
+EDUCATION:
+
+MCA (Master of Computer Applications) from S.V.K.P & Dr K.S Raju A&S
+College, A.U in 2007 with aggregate 71%.
+
+Project Details:
+
+PROJECT # 1:
+
+Name             : State Farm – Base Event
+
+Client             : State Farm Insurance, USA
+
+Environment   : Java, J2EE, Spring MVC, SFX, Apache CXF Web services
+
+Duration         : Feb'13 to Till Date
+
+Project Description:
+
+State Farm wants to build a dedicated Hub and Bundle application as part
+of CDE (Customer Driven Evolution) program. Hub and Bundle is one of the
+Customer Driven Evolution (CDE) goals for phase 1 to deliver Cross-Sell
+functionality, which is a structured set of activities and messages that
+guides the user through a multiple product quote and application process
+allowing them to make a single purchase decision in a seamless and
+transparent experience. The high level concepts that make up the entire
+Cross-Sell framework consists of opportunity messaging,multi product new
+acquisition quote and application flow, the agreement hub integrating
+with the payment process and purchase confirmation.
+
+The Agreement Hub Management logical service is one piece of the overall
+Cross-Sell framework. The team “hub” is a navigational display of
+all the product quotes and applications a user may be working on or has
+expressed an interest in purchasing within a single view that are on the
+Integrated Customer Platform (ICP).In some cases, where the combination
+of products provides a financial benefit to the user, a total discount
+savings will be displayed to the user.
+
+Roles/Responsibilities:
+
+Involve in the end to end development of projects covering all phases of
+Software Development Life Cycle including Requirement Analysis,
+Designing, Build/Construction, Unit /Assembly Testing and Deployment.
+
+Providing High Level & low level Design and attending the design review
+meetings with customer's architect team.
+
+Build the code based on the requirements using spring framework, CXF Web
+services, SFX (Client customized framework) and RSA editor.
+
+  Carrying out everyday tasks based on customer’s prioritization of
+work.
+
+Responsible for unit & integration testing of the above modules.
+
+PROJECT # 2:
+
+Name             : CEG – SEF (Customer Engineering Group)
+
+Client             : TCS Internal
+
+Environment   : Java, J2EE, Spring ORM 
+
+Duration         : Jan'12 to Jan’13
+
+Project Description:
+
+A HOB (Hosted OSS BSS Solutions) is a product intended to fulfill all
+the basic needs of any Telecom service providers. Collections and CLM
+(Credit Limit Monitoring) are the two sub modules designed for the
+Billing module for HOBS. These two modules perform the automation for
+the back end operations related to the credit limit for the post-paid
+users.
+
+Roles/Responsibilities:
+
+Interacting with the clients for requirement gathering and business
+related clarifications.
+
+Direct interaction with the client for gathering requirements.
+
+Involved in the coding and implementation of Collections and CLM module.
+
+Responsible for unit & integration testing of the above modules.
+
+PROJECT # 3:
+
+Name             : VMI Flexi Pay
+
+Client             : Virgin Mobile of India
+
+Environment   : Oracle DB, SQL, PL/SQL, putty, WinScp402
+
+Duration         : Oct'11 to Dec’11
+
+Project Description:
+
+The Flexi Pay system will be an upcoming system to provide the customer
+a facility which is a trade off between prePaid systems and postpaid
+systems. Here the customer receives an itemized bill like that of a
+postPaid customer, yet he has the ability to top up his mobile using
+recharge coupons. This type of system has been designed by adding a
+billing module namely vBill to the existing prepaid system. This vBill
+module is further divided into various sub-modules based on their
+functionalities and purpose.
+
+Roles/Responsibilities:
+
+Handling end-to-end billing activities on 1st and 15th   of every month.
+
+LPC Viewer, Set Clearence flag, reset the suppression flags.
+
+Uploading payment files into VBILL system.
+
+Handling the production issues like suspension, unsuspension, uploading
+of rejected INDRs, Pre Bill Run before bill run dates, etc.
+
+PROJECT # 4:
+
+Name             : ITSME
+
+Client             : TataTeleServices Ltd
+
+Environment   : Struts, Oracle, OC4J Server
+
+Duration         : Feb'11 to Sep’11
+
+Project Description:
+
+IT service management enabler (ITSME or IT services) is a discipline
+for managing IT systems, philosophically centered on the customer's
+perspective of IT's contribution to the business. ITSM stands in
+deliberate contrast to technology-centered approaches to IT management
+and business interaction. 
+
+Roles/Responsibilities:
+
+Providing High Level & low level Design and attending the design review
+meetings with customer's architect team.
+
+Developed the business logic with the Struts framework consisting of
+Action Classes and Action forms.
+
+Worked in Development of Incident Management and Event Management
+Modules.
+
+PROJECT # 5:
+
+Name             : E-Govt Procurement
+
+Client             : Govt of Bangladesh
+
+Environment   : Struts, Oracle
+
+Duration         : May'10 to Jan’11
+
+Project Description:
+
+E-GP System is  a web based system which includes the total  procurement
+lifecycle and also  record the procurment activities.The purpose of this
+System is to maintain complete and up-to-date  Public Procurement System
+activities of all public agencies as well as provide Tender
+opportunities to all potential Tenderers from Bangladesh and Abroad.The
+Vision of the e-GP is to enhance the efficiency and tranparency in
+public procurement through the implementation of a comprahensive e-GP
+solution to be used by all government organizations in Country. E-Gp
+Administrator creates Dept Administrator and defines and manages the
+Master entities.
+
+Roles/Responsibilities:
+
+Developed JSP’s with Struts Tag libraries.
+
+Involved in the DataAccess Classes (DAO) to access the Data Base.
+
+Developed the business logic with the Struts framework consisting of
+Action Classes and Action forms
+
+Unit and integration testing of the incorporated code considering
+different conditions and accordingly writing the test cases.
+
+PROJECT # 6:
+
+Name             : Sales & Service Management System 
+
+Client             : Zero degrees, Mumbai
+
+Environment   : Struts, Tomcat, MySql
+
+Duration         : Oct'09 to Apr'10
+
+Project Description:
+
+SSMS is a complete Business Solution to entire Sales and Service
+activities.Administrators defines and manage the Master
+entities.Customer logs in and track their purchases order, delivery
+status and also Service Status.Users can track and manage the Products
+and Parts status from Received to Delivery Status.This Application also
+includes with Accounting, Payrole, Reports and Money Management
+Sections. 
+
+Roles/Responsibilities:
+
+Developed JSP’s with Struts Tag libraries.
+
+Understanding the requirement and design documents.
+
+Server side validations using validator framework.
+
+Worked in Development of delivery Module.
+
+                                     
+
+                                                                        
+                                                                        
+                                                                        
+                                                             
+
+		Page   PAGE  5  of   NUMPAGES  5 
+

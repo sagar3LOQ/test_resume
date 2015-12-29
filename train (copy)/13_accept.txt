@@ -1,0 +1,167 @@
+s.v. surya Narayana Reddy
+
+	                         E-Mail ID: surya5a76@gmail.com
+
+		                                   Phone: +91-9665769941
+
+PROFESSIONAL SUMMARY
+
+
+
+With more than 4 years of IT experience in design, development and testing of Web based applications using object-oriented methodologies and application servers such as IBM Web Sphere. 
+
+Good Experience in Agriculture and Automobile Domain using Java, J2EE and J2EE design patterns like MVC, Factory, Abstract Factory, Builder, Prototype and Proxy.
+
+Expertise on Core Java, JSP/Servlet, Hibernate and Spring Frameworks, JavaScript, XML, DB2, MYSQL SERVER 5.0 Databases.
+
+Good exposure on MVC patterns in web architecture.
+
+Strong exposure of complete project development life cycle developing expertise including designing/modeling, programming/coding of server side components.
+
+Strong skills include J2EE Specification, J2EE Design Patterns, Hibernate, XML and JUnit Framework.  
+
+Experience with Web Sphere, Tomcat, Eclipse, RAD7.5, Net Beans, and Rational Rose, and backend MSSQL Server, DB2 database accessing using JDBC.
+
+Hands on experience with database design, entity relationship, and database analysis/programming. Experienced in writing SQL Queries, Stored Procedures etc. in DB2 and Oracle.
+
+Hands on experience on Mercurial and Star-team.
+
+Having the experience in unit testing and component testing.
+
+Have the experience in bug fixing.
+
+Ability to work independently with minimum supervision in a team environment.
+
+Working in Agile for more than 2 Years.
+
+Hands on experience in ATDD using cucumber.
+
+
+
+
+
+QUALIFICATIONS
+
+
+
+Earned Bachelor of Technology, from Pragati Engineering College in year 2010.
+
+Earned Post Graduate Diploma from CDAC ACTS, Pune in year 2011.
+
+Ability to solve analytical problems, and ease to learn new concepts.
+
+
+
+EXPERIENCE
+
+
+
+Working as Software Engineer for John Deere India private ltd, Pune from February 2011 to Till Date.
+
+
+
+TECHNICAL SKILLS
+
+
+
+
+
+Programming Languages:
+
+Java, J2EE
+
+GUI:
+
+HTML, JSP 
+
+RDBMS:
+
+MYSQL, DB2
+
+Operating Systems:  
+
+Windows XP,98,2000, Windows 7
+
+ORM Technologies
+
+Hibernate 3.0, JPA
+
+Web/Application Servers
+
+Apache Tomcat 6.0, Web Sphere 6.1, Web Sphere 7.0 , JBOSS
+
+Framework:
+
+Struts 1.2, Web Service , REST Web Service , Spring 3.0
+
+IDE’s
+
+Eclipse 3.0, RAD 7.5
+
+
+
+
+
+
+
+PROFESSIONAL EXPERIENCE SUMMARY
+
+
+
+			John Deere private ltd, Pune	February 2011 ~ Till Date
+
+
+
+
+
+Project: JDLink ( February -2011- Till date)
+
+
+
+Description: The JDLink™ equipment management solution is a telematic system designed to remotely connect owners and managers to their equipment, providing alerts and machine information including location, utilization, performance, and maintenance data to manage where and how equipment is being used.
+
+
+
+Responsibilities:
+
+Analysis, Estimation and design of Enhancement.
+
+Understanding business and involve in process map analysis with Team.
+
+Involved in writing the technical documentation by understanding the process
+
+Preparing systematic Plan to investigate problem. 
+
+Requirement Gathering.
+
+Coding, Testing and Deployment.
+
+Responsible for the implementation and unit testing.
+
+Responsible for integration of modules and bug fixing.
+
+Implement ATDD using cucumber.
+
+
+
+Environment: Deere Framework, RAD 7.5, Web Sphere 7.0, DB2, JAVA, JSP, Servlet, Spring AOP & IOC, Hibernate, JUnit, JMS.
+
+
+
+
+
+PERSONNEL DETAILS  
+
+
+
+Fathers Name:		Subba Reddy
+
+Date of Birth:		22-04-1989
+
+Place of birth:		kutukuluru
+
+Languages Known:	English, Hindi & Telugu
+
+			Confidential	Page 2 of 2	
+
+			Confidential	Page 1 of 2

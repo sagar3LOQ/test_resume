@@ -1,0 +1,387 @@
+Spring:4 year & current
+
+	Hibernate: 4 year & current
+
+	Web service: SOAP/REST
+
+	Java: reflection
+
+	DB: oracle/db2/mysql
+
+	Appl server: websphere/tomcat/
+
+	Team Size: 6 ppl
+
+	11/15/30days
+
+	
+
+	
+
+	Jacob Sukumar Uppalapati
+
+	7702470579
+
+	Jacob.uppalapati@gmail.com
+
+
+
+Objective:
+
+Seeking a challenging position where my analytical and problem solving skills can be put in for the successful execution of the organizations projects.
+
+Summary:
+
+																Having ‬8.4 ‬years of IT Experience in implementation of Web Applications. ‬‬‬‬‬‬
+
+																Extensively worked on JSP, ‬Servlets, ‬Struts ‬,Spring(DI,WebFlow,MVC),PrimeFaces, ,JPA,‬Hibernate and EclipseLink,HazelCast. ‬‬‬‬‬‬‬‬
+
+																Extensive work experience in core Java. 
+
+																Experience with IBM websphere,JBOSS, GlassFish ‬and Tomcat. ‬‬‬‬
+
+																Extensive work experience with IDE`s like Eclipse. ‬‬
+
+																Extensive Knowledge in implementation of MVC architecture with Struts1.1 ‬,Spring ‬‬
+
+																  WebFlow and PrimeFaces
+
+																Used configuration management tools like SVN and CVS. ‬‬
+
+																Eager to learn new technologies and flexible enough active role in teams.
+
+																Extensively worked on profiling, analyzing heap dumps, core dumps
+
+																Extensively worked in methodologies like  AGILE,WATERFALL.
+
+
+
+Education:
+
+M.C.A from S.V.University in the year of ‬2006.‬‬
+
+Professional Experience:
+
+	 Working with Sonata Software,Hyd from July2013 to till date.
+
+	Worked with DST worldwide services, Hyd from Aug2011 to July2013.
+
+	Worked with Accenture,Hyderabad from May 2010 to Aug2011.
+
+	Worked with HDFC Bank, Mumbai from Nov 2007 to April 2010.
+
+	Worked with Arrk Solutions Put Ltd,Navi Mumbai from Jan 2007 to Nov 2007.
+
+Technical skills:
+
+Operating Systems
+
+Windows 98/2000/XP, Unix
+
+Java Technologies          
+
+J2SE, J2EE (Jdbc, Servlets, Jsp,JMS,MDB)
+
+RDBMS
+
+Oracle,MySQL,DB2,AS400
+
+Web Servers
+
+Tomcat4.x/5.x
+
+Application Servers          
+
+BOSS 4.2,GlassFish,IBM Websphere
+
+IDE’s
+
+Eclipse
+
+Frameworks   
+
+Struts1.1,Spring WebFlow ,PrimeFaces
+
+Configuration Mgmt Tools    
+
+SVN and CVS
+
+ORM 
+
+Hibernate, EclipseLink
+
+
+
+		
+
+		PROJECT EXPERIENCE
+
+		
+
+		PROJECT EXPERIENCE
+
+		Project # 1          June 2013 to till date.          
+
+Team Size	:    12
+
+Environment   :   ‬Core Java,Multithreading,MDB,IBM MQ,Websphere,AS400 DB,DB2,Spring DI,.‬‬‬‬
+
+Client :Broadridge Financial Solutions
+
+		Description    :
+
+		MSRB is a reporting project where we fulfill the regulatory requirement that every trade be reported within 15 minutes of occurrence. Trade data is received in MQs, and we receive, parse the data, enrich trade data, and then apply business rules to determine which messages need to go to which destinations, and then send data. The project is performance sensitive, since trades have to be reported within 15 minutes of occurrence. 
+
+Roles and responsibilities:
+
+1. Delivery of the project, take care of feature releases. 
+
+2. Interfacing with other teams, taking care of interactions. 
+
+3. Taking care of performance improvements, allocation day where 1L trades can come to the system in a day. 
+
+4. Taking care of memory requirements, memory leak fixing and advanced debugging. 
+
+5. Provided technical leadership and fixed many issues in common code, which helped even other projects.
+
+		
+
+		Project # 2          Jan 2012 to July2013.          
+
+Team Size	:    5
+
+Environment   :   ‬Spring MVC, Hibernate and DB2.‬‬‬‬
+
+		Description    :
+
+Argus has embarked on building a unique data framework in its Open Source Business Intelligence and Data Warehouse environment. Argus key objectives for this initiative are move from a tool dependent reporting solution to a tool agnostic report delivery solution, build an ala-carte solution or options for their clients; For example, provide either a reporting solution or pure data delivery options, Reduce Total Cost of Ownership (TCO) for Argus,build a virtual data instance for their customers/clients and provide them the ability to mine the data with less dependency on the Argus IT group, build a scalable reporting solution which is in-line with Argus technology standards, enable customers to use their own custom reporting tool instead of restricting them to the Argus mandated reporting tool, build a single metadata management tool catering to the enterprise.
+
+
+
+Responsibilities: 
+
+		Designed sequence, class diagrams with Enterprise Architect.
+
+		writing business logic code
+
+		Writing DAO layer with ORM
+
+		Writing and executing Junit test cases using EasyMock.
+
+		Handling team
+
+		Interacting with client in evening calls.
+
+		Writing DB2 queries.
+
+		Doing code reviews
+
+		Understanding client requirements and preparing understanding documents.
+
+		
+
+		
+
+		Project #3          Aug2011 to Dec2011        
+
+Team Size     :    5
+
+Environment   :   CoreJava, DB2..
+
+		Description:
+
+		AMISYS Advance sets the standard for healthcare payer systems. We did the PILOT for migration of business logic which is in MF COBOL to java using the open source tool, by doing changes to the tool, identifying the patterns which we cannot do in the tool and writing the PERL scripts.	
+
+
+
+Responsibilities:	
+
+Developed Actions classes.
+
+Developed validation classes.
+
+Written the presentation logic
+
+Written SQL queries and JPA queries.
+
+Written and executed Junit test cases using EasyMock.
+
+Attended client calls.
+
+Handling team.
+
+Understanding the business logic in COBOL and done the changes in generated Java code.
+
+		
+
+		
+
+PROJECT #4     :  CYC(Connect Your Care)				May 2010 to Aug 2011.  
+
+Client         :   Express Scripts
+
+Team Size      :   7
+
+Environment    :   Spring WebFlow, Hibernate and Oracle.
+
+Description:	
+
+		ConnectYourCare provides an integrated technology platform and services to support the adoption of Consumer Driven Health Care (CDHC) initiatives by insurance carriers, employers, benefits intermediaries, and individuals, such as retirees. The ConnectYourCare solution includes a turnkey web system that offers exhaustive healthcare guidance to employees as well as a completely automated payment system to manage spending accounts through the use of a debit card.  Namely, these spending accounts include: Flexible Spending Accounts (FSAs), Healthcare Reimbursement Accounts (HRAs), and the latest accelerator of CDHC, Healthcare Savings Accounts (HSAs), which allow the rollover and accumulation of funds, ultimately for retirement medical spending.
+
+	Roles & Responsibilities:
+
+	Developed Form Actions and Validations.
+
+	Worked on the tickets.
+
+	Done Unit Testing using mockIt..
+
+	Attended client calls.
+
+	Understanding the requirements and doing the impact analysis and prepare documents.
+
+	Written SQL queries and HQL queries
+
+	Doing code reviews.
+
+		
+
+		
+
+PROJECT #5    :  ESOP						July 2009 to April 2010.  
+
+Client		:  HDFC BANK
+
+Team Size	:   7
+
+Environment	:   Struts , Hibernate, Oracle and JBOSS.
+
+Description	:	
+
+ESOP application manages the Stock options given to employees of the bank (Sr. Manager and above band). Issuance of stock option through various schemes, facilitating employees to exercise the vested option, tracking and maintenance of vested and exercised option by employees, effecting the payments for exercised options are some key functionalities being handled by the ESOP application. All users registered in HDFC Bank Active Directory will be able to login the application. ESOP application can be segregated into 5 main modules: Maintain Scheme Details and Grant Of Option, Demit Approval Module, Recording Fringe Benefit Amount and tax for different Scheme, Exercising Vested Options,LCUP,and Reports.
+
+	Roles & Responsibilities:
+
+Developed struts action, ‬form bean classes.‬‬
+
+Involved in bug & ‬defect fixing. ‬‬‬‬
+
+Involved in Unit Testing.
+
+Handling the team.
+
+Understanding the requirements, doing the impact analysis and preparing the documents.
+
+Communicating with internal clients.
+
+Deploying the code on test servers.
+
+
+
+	
+
+	
+
+PROJECT #6   :  eTDS (Tax Deduction at Source)  		  Aug 2008 to June 2009.  
+
+Client          : HDFC BANK
+
+Team Size       :   6
+
+Environment   :   Struts, jdbc, MySQL,  Oracle  and JBOSS
+
+Description:	
+
+	As per Income Tax Act, 1961, all Banks are compulsorily required to file their TDS returns for the interest paid on Term Deposits on electronic media (i.e. e-TDS returns). All the Returns should be filed only in electronic form by the bank to the Income Tax Department through NSDL (National Securities Depository Limited).
+
+	These reports are to be submitted through Form 26Q (Indian Residents) and Form 27Q (NRO Customers) on a quarterly basis.
+
+	Resident / Corporate Returns, NRO returns, Returns for customers having FD Interest below Rest. 5000/- needs to be filed quarterly. As of now, the Retail Banking System does not have provision to generate the above reports. Therefore, the following outputs are generated from Retail Banking System manually by DPC operator, which is posted on FTP server for users.  
+
+
+
+Roles and Responsibilities:
+
+Involved writing presentation and business logic.
+
+Involved in maintenance activities like support and change requests.
+
+Writing the SQL queries.
+
+Involved in migrating the application from My SQL to Oracle.
+
+Deploying the code on test servers.
+
+Communicating with internal clients.
+
+Understanding the requirements, doing the impact analysis and preparing the documents.
+
+Doing unit testing the code.
+
+
+
+		
+
+		Project #7       
+
+	Title         :   Client Service Portal		         Nov 2007 to July 2008. 
+
+Client        :   HDFC BANK
+
+Team Size    :    4
+
+Environment  :   Servlets, JSP and JBOSS.
+
+		Description:
+
+	   This requirement is being raised to facilitate dissemination of information by a central team (CPU) to the branch users using a central repository. In the existing process the central team at CPU publishes the daily MIS data required by the branches through Lotus Notes application. The central team uploads the details under different categories. These uploaded details are then shown under the different heading to the branch users. Branch users can view their respective cases by using the various search parameters.
+
+	
+
+	  Branch user has to first select the Function. Within the Function it selects the category in which he needs to view the status of a particular item. On selection of the category the branch user is shown the different search parameters basis that the branch users gets the required information from the system. Currently the existing process of publishing MIS and subsequent updating of the same is done through Lotus notes. However due to the increasing volumes, the extant application is not able to handle the workload and hence the requirement is being raised to handle the existing functionality with basic modification for better operational efficiency.
+
+Roles and Responsibilities:
+
+Involved writing presentation and business logic.
+
+Involved in maintenance activities like support and change requests.
+
+Involved in migrating the application from MySQl to Oracle.
+
+Attending the internal client calls.
+
+Written SQL queries.
+
+Unit testing the code.
+
+
+
+
+
+		
+
+		Project #8
+
+	Title		: Royal Automobile Company (eRAC)	      Jan 2007 to Nov 2007
+
+Team Size	: 16
+
+		Environment  : Windows2000, Tomcat, JSP, Struts, Hibernate Oracle.
+
+		Description	:
+
+		eRAC is accountable for all RAC web channels. eRAC provides broad range of products offered by RAC. This includes breakdown cover and traffic/route planning information, vehicle insurance, loans etc. Arrk team is responsible for the support and development activities for eRAC web channels. There is RAC's route planner site. This provides facility to a customer to plan a route providing details of the route along with road maps.
+
+		
+
+Responsibilities:
+
+Developed JSPs in the presentation layer.
+
+Developed Action Classes, ‬Delegate Classes, ‬form beans.‬‬‬‬‬‬
+
+Attending the client calls.
+
+Preparing understanding documents, impact analysis documents.
+
+Doing unit testing.

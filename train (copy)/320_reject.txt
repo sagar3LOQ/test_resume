@@ -1,0 +1,143 @@
+SUJITH KUMAR KUPUNARAPU
+
+ Curriculum Vitae
+
+Work Experience (3 yrs @ cleartrip.com, 
+
+ S&P Capital IQ)
+
+Address: H.No 8-5-154/4, Road No.3, Mallikarjuna Colony, Old Bowenpally,
+Hyderabad, A.P, India -500011
+
+Ph No: +918143130431
+
+Email id:   HYPERLINK "mailto:sujjjith@gmail.com"  sujjjith@gmail.com 
+
+      sujith010987@gmail.com
+
+
+
+May 2014 - Present
+
+Feeds Generation
+
+Technologies Used: Java, Spring, Hibernate, Unit Testing (Mockito,
+Qunit), Javascript, Jquery, SQL server etc
+
+Description: Feeds(zip files) generation by extracting data from a
+central repository.
+
+Jan 2013 – May 2014
+
+Bus API 
+
+Technologies Used: Java, Spring3, Unit Testing(Mockito) and Integration
+testing
+
+Description: RESTFul bus Api     
+
+
+
+  Jun 2012 – Dec 2012
+
+Multi Modal Search
+
+Technologies Used: Java, Spring3, Unit Testing (Mockito) and Integration
+testing
+
+Description: Multi mode search(air, rail, bus, car) from origin to
+destination
+
+Education
+
+2007-2011    VIT University
+
+                        B.Tech (Comp Sc)
+
+                        9.11/10 CGPA
+
+2004-2006    AP Board of Sec Edu
+
+                       St. Patrick’s college
+
+                       93.9/100%
+
+2004             AP Board SSC
+
+                      St. Andrews School
+
+                      88.3/100%
+
+
+
+Jan 2012 – Mar 2012
+
+WebCheckin
+
+Technologies Used: Java, Html Unit(Scraping tool), spring3,Unit Testing
+(Mockito) and Integration testing
+
+Description: Web Scraping of html pages using Html Unit web scraping
+tool  
+
+
+
+                                                                   Aug
+2011 – Nov 2011
+
+Hybrid Automation Framework
+
+Technologies Used: Core Java, Selenium
+
+Description: It is both data and object driven testing framework
+
+
+
+Technologies
+
+Languages: Java, Ant Scripting
+
+Frameworks: Spring3, Selenium, Html Unit
+
+IDE: IntelliJ Idea, Eclipse
+
+Achievements
+
+*Hackathon: Won 1st prize in Water hackathon conducted by World Bank -
+2012
+
+*Hackathon: Won 2nd prize in Cleartrip hackathon – 2012
+
+*University  School (Comp Sc) VICE –PRESIDENT
+
+*Founder, IEEE – Computer Society of VIT University
+
+Apr 2012 – Jun 2012
+
+Auto Deployment
+
+Technologies Used: Ant Scripting
+
+Description: Auto Deployment of web apps in Testing Environments
+
+
+
+
+
+Work Experience (4 months @ artoo.in)
+
+Jan 2011 – Apr 2011
+
+Text Free Authentication – Android app
+
+Technologies Used: Android, ZXing library
+
+Description: Text free authentication system to help micro finance
+agents. 
+
+
+
+
+
+
+

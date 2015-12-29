@@ -1,0 +1,363 @@
+						
+
+Springs:2.6months&currenyt
+
+Hibernate:2.6 n current
+
+Webservices:2.6 year& current
+
+Uml design:no
+
+Design patter:yes
+
+Appln server: jboss/websphere/
+
+IDE: eclipse
+
+Code: sonar
+
+Build tools: maven
+
+DB: oracle
+
+Name:  Pavan Kumar .S                           
+
+Mobile:  +91-8686806993
+
+E-mail:   HYPERLINK "mailto:pavan4950@gmail.com" pavan4950@gmail.com  
+
+CAREER OBJECTIVE
+
+
+
+To work in an innovative and competitive world, intend to build a career
+with leading corporate of hi-tech environment with committed and
+dedicated people.
+
+PROFESSIONAL PROFILE
+
+
+
+Experience of 4.10 years in Software Development (Java 7.0) in
+Enterprise Application.
+
+Proficient in developing Java Web Applications using Wicket, Spring and
+Hibernate.
+
+Experienced in all phases of SDLC.
+
+Have good experience in On site-Offshore delivery model.
+
+Involved in requirements gathering and analysis.
+
+Versatile team player and individual contributor with strong analytical
+and problem solving skills.
+
+Involved in production support activities.
+
+Good communication, interpersonal and team skills. 
+
+Passionate in learning new technologies, enthusiastic and always keen to
+reach an extra mile.
+
+Have experience in java web service ( SOAP, REST) .
+
+Domain knowledge includes E-commerce,Logistics & BSFI: Investment
+banking – Mutual Funds, Portfolio Analytics and Customer Relationship
+Management & Accounting Module.
+
+Having  knowledge in E-Commerce - B2B & B2C Concepts.
+
+Having  knowledge in managing cron job using instance and service and
+impex of various hybris item.
+
+Having  knowledge in Complete cart/order checkout process.
+
+Having  knowledge in voucher (promotional and serial ) and promotions (
+product and order level).
+
+Having knowledge on  Data hub.
+
+ACADEMIC PROFILE:
+
+
+
+Qualification	University/Board	Passing Year	Percentage
+
+M.C.A	Bangalore	May 2009	82%
+
+B.Sc(Electronics)	ANU University	May-2006	70 %
+
+Intermediate	BOIE	May-2003	63%
+
+S.S.C	SSC	May -2001	83 %
+
+
+
+PROFESSIONAL SKILLS:
+
+Languages	Java
+
+Client Technologies	HTML, JSP, JavaScript,
+
+Frameworks and Other API	Wicket, Servlets,Spring, Hibernate, Ext Js, SAP
+– Hybris, Web Services, JMS, Quartz Scheduler,
+JPA,Struts,JSON,JiBx,Multitherading
+
+Servers	Apache Tomcat 6.18, Jetty, Web logic,J boss
+
+Design & Development 
+
+Tools	Eclipse ,Maven, Ant
+
+Data Access & Databases       	JDBC, Oracle 10g
+
+Operating Systems	Windows XP
+
+Version Control	SVN
+
+
+
+Work Experience :
+
+
+
+Working as a Senior Software Engineer in Prokarma Softech Pvt Ltd,
+Hyderabad from Sep 2012 to till date.
+
+Worked as a Software Engineer in Polaris Software Lab. Ltd, Hyderabad
+from June 2010 to Sep 2012.
+
+PROJECT DETAILS:
+
+  
+
+PROJECT # 5:
+
+ 
+
+Project Title	              :	Chapitre
+
+Client			:	Chapitre
+
+Role			: 	Hybris Developer
+
+Environment		:	Hybris 5.2.0.4,Spring MVC,Web services,Quartz,
+Oracle10.0, Maven, B2C Accelerator Eclipse Luna and SVN..
+
+Description:
+
+Chapitre web shop is developed with Hybris Accelerator framework. Hybris
+is a e-Commerce multichannel platform developed with Java frameworks
+Spring MVC, Hibernate and other front end technologies like HTML, XML,
+JSTL, Java Script, JSON and Ajax. Using Hybris framework one can create
+a web shop and customize it’s behavior.
+
+This project is developed completely in Agile development process. We
+have customized Chapitre requirement with Hybris components and
+implemented user registration page, shopping cart, product catalogue,
+order processing, online payment, shipment of goods to customer home,
+etc.
+
+Responsibilities:
+
+1) Implemented my account related functionality (Order History, profile
+update and password update)
+
+2) Implemented Order Management functionality and email templates and
+creation for customer registration, password forgotten, order
+Confirmation, shipment, cancellation, payment successful and payment
+unsuccessful.
+
+3) CMS Components for various templates, page navigation,links, menus.
+
+4) Worked on promotion related functionality.
+
+5) Checkout - Cart, Order confirmation and Order summary functionality.
+
+6) Product carousel functionality using Accelerator Frame Work.
+
+7) Impex files creation.
+
+8) Participating in discussions with client and business .
+
+8)  Involved the changes to import Excel data (that includes all the
+product, variant, classification and product color) to the Hybris
+database
+
+9)Cron jobs creation for data upload.
+
+PROJECT # 4:
+
+ 
+
+Project Title	              :	 Action Tracker
+
+Client			:	UPRR (Union Pacific Rail Roads)
+
+Role			: 	Java Developer
+
+Environment		:	Java, Oracle 10g, Jetty, Spring JDBC, Maven,,SVN
+
+Description:
+
+As a wholly-owned subsidiary of Union Pacific, Union Pacific
+Distribution Services (UPDS) specializes in the design and execution of
+rail-based logistics programs. UPDS provides seamless door-to-door
+transportation products by combining the economies of long-haul rail
+service with the flexibility of over the road movements..
+
+Action Tracker is a web based application which is used to create
+bulletins(Tickets) for the issues. Bulletins are created to ensure that
+hot issues are monitored closely, Action Tracker provides  bulletin
+boards which provides a history of what actions have been taken
+regarding the issues,as well as provides instructions to the subsequent
+shifts.
+
+Responsibilities:
+
+1) Developed user interface using Wicket framework, Java, HTML.
+
+2) Implementing the Business logic.
+
+3) Involved in coding of DAO classes using Spring .
+
+PROJECT #3:
+
+ 
+
+Project Title	              :            TSD
+
+Client			:	UPRR (Union Pacific Rail Road)
+
+Role			: 	Team Member
+
+Environment		:	JDK1.5, Wicket, Spring AOP, spring JMS, Spring JDBC, 
+
+                                                          Oracle10.0,
+Maven, Quartz, XMF, Jibx , Eclipse3.3  and SVN.
+
+Description:
+
+UPDS maintains clear communication with all of its transportation
+suppliers regardless of the services they perform.  UPDS developed the
+Transportation Supplier Dashboard (TSD) to facilitate two-way
+information sharing between UPDS and the carrier.  TSD is used to tender
+loads to Intermodal, Carrier Services and carload solutions drayage
+carriers.  Drays can also fill out the details as they pertain to a
+shipment and report shipment events.  In addition, drays can also
+invoice UPDS for the services rendered.
+
+Responsibilities:
+
+1) Interacting with the client to understand the project and finalize
+its scope.
+
+2) Bug fixing and maintenance of the product
+
+3) Coordinating with other teams working on the same project
+
+PROJECT #2:
+
+ 
+
+Project Title		:	GCTP
+
+Client			:	Citi, US
+
+Role			:	Team Member
+
+Environment		:	Java/J2EE, WebServices, JPA, ExtJs, DWR, IBM DynaCache,
+JMS, 		 	      Quartz Scheduler, Oracle, Websphere & Eclipse.
+
+Description:
+
+Wealth Management System is a product that provides Accounting Module
+(AM), Asset Ledger (AL) and General Ledger (GL) modules as a part of
+GCTP implementation to provide a solution for the Citi Trust Platform.
+
+	AM module will facilitate generating accounting entries for financial
+transactions performed in any Product Processors-PP and handing off
+these entries on a transaction or a consolidated basis to the General
+Ledger. This module will facilitate the definition of Criteria (set of
+transaction attributes) with different Posting Rules for which an
+accounting entry needs to be generated. An accounting entry will then be
+defined for defined Criteria. The accounting entry corresponding to
+Criteria will be generated during transaction processing when the values
+passed by PP would match a Criteria definition. The accounting entry
+generated will be handed off as individual or consolidated entries to
+General Ledger either online or as a batch.
+
+A set of queries will also be configured for the user to view the
+accounting entries and exceptions that have occurred during generation
+or hand-off.
+
+	
+
+Responsibilities:
+
+	
+
+1) Involved in Functional Specifications, Design, Construction, UAT and
+Production support.
+
+2) Implemented generic Upload Frame Work, which uploads transaction feed
+into the system. 
+
+3) Implemented scheduler component that can trigger a specific task
+associated with it at predefined/configured intervals to read
+transaction feed files from the configured staging area.
+
+4) Implemented Transformation engine component to transform CSV to java
+and then pass route the java object to transaction processing handler.
+
+5) Implemented Evaluator component to perform a basic arithmetic or to
+check logical operations.
+
+6) Implemented Audit trial functionality in which  all the data
+modifications /additions are tracked and logged in a generic  table.
+
+PROJECT #1:
+
+ 
+
+Project Title		:	Customer Relationship Management (CRM)
+
+Client			:	RBS
+
+Role			:	Team Member
+
+Environment		:	Java/J2EE, JPA, Oracle, Web services, Ext JS, XML, JSON,
+DWR.
+
+Description:
+
+Customer Relationship Management (CRM) consists of 3 stages: Lead
+Capture, Prospect Creation and finally Customer (Relationship) Creation.
+An RM is required to actively prospect new potential clients and convert
+them into customers of the Bank. It provides Scheduler and Call Reports
+which are the tools used by RM and other users for their day-to-day
+work, for their scheduling and reporting of meetings. It also provides
+facilities for entering Service Requests from customers and these are
+then forwarded to the appropriate departments for resolution.
+
+Responsibilities:
+
+Involved in Functional Specifications, Design, Construction.
+
+Development of prototype, Preparation/review the Unit Test Cases.
+
+Design and development of framework.
+
+Design and development of widgets.
+
+Design and development of Rest full Services.
+
+DECLARATION:
+
+I here by declare that the information furnished above is true to the
+best my knowledge. I am confident of my ability to work in a group.     
+           
+
+											(Kumar)
+

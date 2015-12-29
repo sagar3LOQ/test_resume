@@ -1,0 +1,293 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                 -  2
+year                                  
+             
+
+Spring                  
+                                 - 3 Years&
+current                                �
+�              
+
+Web
+Services                                
+       -  1 years &
+current                                �
+�              
+
+Core
+Java                                  
+            -  9 years                
+
+Design
+Patterns                                
+   -   
+
+UML
+design                                 
+         -   2.5 Years
+
+Build Tools (Maven/Ant)                   -   
+Maven & ANt   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Eclipse,Tomcat,Jboss
+
+ 
+
+Ok for bitchemy
+
+Overview
+
+Have 9 years of experience as a Programmer/Developer with a wide range
+of skills in the IT industry and offer functional experience in
+Java/J2EE technologies in the state of web technologies and server
+applications. Excellent communication and verbal skills coupled with
+strong interpersonal skills.
+
+Education Qualification
+
+Master of Computer Applications (M.C.A), Andhra University.
+
+Bachelor of Computer Science (B.Sc.), Andhra University.
+
+Work experience	
+
+Currently working as Senior Software Engineering in Pramati Technologies
+from October 2006 to till date.
+
+Worked with Systematic Information Research Institute (SIRI, Inc.),
+Seoul, South Korea from July 2005 to July 2006.
+
+Technical Skills
+
+Languages:	Java
+
+J2EE Technologies:	Servlets, JSP, JDBC
+
+Frameworks:	Struts2, Spring4.x, Hibernate, Jersey Rest WebServices
+
+Web Technologies:	HTML, JavaScript, JSTL 
+
+OS/Environment:	Windows and Linux.
+
+Tools:	Eclipse, IntelliJ Idea, Squirrel, Sql Developer. 
+
+Web Server:	Tomcat6, Tomcat7
+
+Application Server:	JBoss4.x, Pramati Server
+
+Databases:	Oracle, MySQL5.x
+
+Testing Tools:	Junit, Selenium, TestNG, JMeter 
+
+Build & CI Tools:     	Ant, Maven, Hudson, Jenkins
+
+Version Control:              SmartCVS, SVN, Git
+
+Project Experience
+
+Project 1:	WaveMaker, Inc.
+
+Team Size:	20
+
+Platform/ Technology:	Java, Spring4.1, Servlets, JSP, Quartz, Jersey,
+MySQL, AngularJS, HTML, CSS,  Ant,  Maven, Pramati Server, Quartz
+
+Tools:	Eclipse, IntelliJ, Git, Squirrel
+
+Client:				Pramati.
+
+Project Description:
+
+WaveMaker is a aPaaS software for development of custom enterprise
+applications on private cloud. It has two main business components,
+WaveMaker Studio and WaveMaker Cloud. Studio is an open source
+development and deployment IDE that enables to create cloud and mobile
+apps. Cloud provides on-demand computing, enterprise app lifecycle
+management and API enabled development using public or private cloud
+infrastructure.   
+
+WaveMakerEnterprise is aPaaS software that enables an enterprise to
+setup and operate a private aPaaS. It includes Studio7, Cloud and
+Launchpad modules. The Launchpad module is used for administering the
+entire WaveMaker platform like managing instances, projects, users etc.
+
+Enterprise Developer Network is a platform for developers in an
+organization to collaborate on projects and share resources. Its a
+platform and single entry point for all the WaveMaker products.
+
+Roles & Responsibilities: 
+
+Used Spring jdbc across all modules for the persistence layer and
+replaced the old custom jdbc framework.
+
+Developed extensions for tomcat to remember the application state.
+
+Added custom argument resolvers and exception handler to wrap responses.
+Added logging interceptor.
+
+Introduced Pagination, Search and Sort features across all the modules
+using Spring.
+
+Involved in the features like restricting email domains and generating
+statistics reporting  for analysis.
+
+Fixed the bugs across various modules in current and production
+environments.
+
+Design and developed a framework to test the Rest APIs using the TestNG.
+
+Performed few load and stress tests with TestNG and tools like JMeter.
+
+Project 2:	ezMarket 
+
+Team Size:	9
+
+Platform/ Technology:	Java, Struts2, Spring, Hibernate, Servlets, JSP,
+Quartz, Stripes,  JBoss, Oracle, JavaScript, Ajax, HTML, CSS, Aspose,
+Spring-Acegi, Ant
+
+Tools:	Eclipse, TortiseSVN, Squirrel, Sql Developer 
+
+Client:				Agentrics.
+
+Project Description:
+
+ezMarket is a solution which helps retailers in sourcing (auctions and
+tenders). It enables buyers to streamline, automate, and standardize
+online negotiations, generating dramatic cost savings and long-term
+efficiency improvements in the purchase of a broad range of merchandise,
+indirect goods, and services. The tool is designed to create
+opportunities for optimal purchase price on merchandise while increasing
+overall efficiency in the buying process.
+
+    This user-friendly web-based application allows buyers to easily
+configure auction events in multiple ways, handling every auction type
+– Reverse, Dutch, Japanese, Parallel Trade, Forward Auctions and
+RFI/RFP/RFQ (Tenders).
+
+Roles & Responsibilities: 
+
+Porting the project to use the Struts2, Spring and Hibernate frameworks
+to replace Commerce Websphere and DB2.
+
+Involved in the design and development of UserManagement, RFx and
+Awarding modules.
+
+Fixed the bugs across various modules in pre and post production
+environments.
+
+Design and developed a framework to automate the whole application using
+selenium.
+
+Added Integration tests to test end-to-end functionality of various
+modules.
+
+Added Junit testcases to the new modules added.
+
+Configured Hudson tool and created jobs to automate the tests on a daily
+basis.
+
+Use code coverage tools like emma to enhance the test coverage.
+
+Project 3:	Network Logistics 
+
+Team Size:	7
+
+Platform/ Technology:	Java, Junit, Spring, Hibernate, JBoss4.0, Oracle,
+JavaScript, HTML, JSP, Windows XP
+
+Tools:	Eclipse, Toad, CVS 
+
+Client:				Click Commerce.
+
+Project Description:
+
+	Network Logistics is an e-commerce application which does the supply
+chain management. It includes the generation of receipts, place orders,
+create inventory and shipment. 
+
+Roles & Responsibilities: 
+
+Changed the queries from SQL to hql and added Junit tests.
+
+Fixed bugs and UI issues.
+
+Updated test scripts for the functionality changes. 
+
+Used the XLTester tool which tests the scripts.
+
+Project 4:	Hotel Reservation System 
+
+Team Size:	7
+
+Platform/ Technology:	EJB, JDBC, Axis, Velocity Servlets, Velocity
+Templates, Tomcat 5.0, JBoss4.0. Oracle9i, JavaScript, HTML, Windows XP
+
+Tools:	Eclipse3.1, Toad, QDesigner 
+
+Client:				SIRI Inc., Seoul.
+
+Project Description:
+
+	The Online Hotel Reservation System includes requirements of
+registration, invitation and making partnership, allocation dealing,
+contraction and reservation for rooms and rates between suppliers and
+distributors. And also, it covers user management and bank transactions.
+
+Roles & Responsibilities: 
+
+Prepared Database queries and developed database connectivity methods.
+
+Implemented methods for the business logic according to Designed Module.
+
+
+Developed wsdl files and generated the required stubs and skeletons for
+the client.
+
+Coded using J2EE technologies like EJB, Web Services and prepared
+Documentation of  Allotment, Reservation modules.
+
+Developed the webservice implementations and tested it with Junit.
+
+Used CVS for version controlling.
+
+Project 5:	Online Trade Show
+
+Team Size:	4
+
+Platform/ Technology:	Java/J2EE, Velocity Templates, Tomcat 5.0,
+Oracle9i, JavaScript, HTML, DHTML, XML, Windows XP.
+
+Tools:	Eclipse3.1, Toad, QDesigner 
+
+Client:				SIRI Inc., Seoul.
+
+Project Description:
+
+	Online Trade Show project is a web based application, and handles the
+member registration, booth creation, adding products to the booth, along
+with the search functionalities of company directory and product
+registry and Online Exhibition of products using flash. 
+
+Roles & Responsibilities: 
+
+Developed methods for connection to the database and business logic
+methods.
+
+Developed the coding of Booth Management and Online Exhibition using the
+technologies like Velocity Servlets and Templates. 
+
+Used CVS for version controlling.
+
+		Pankaj Nawal
+
+		  HYPERLINK "mailto:pankaj.nawal@gmail.com"  pankaj.nawal@gmail.com 
+
+		Mobile: 9949692524
+

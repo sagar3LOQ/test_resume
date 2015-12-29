@@ -1,0 +1,167 @@
+TECHPOINT PROFILE
+
+
+
+	Ayaz Ahmad 	 
+
+
+
+Education Bachelor of Technology - Indian Institute of Information Technology, Allahabad, 
+
+India Completion:  July 2011 | Concentration: Information Technology | Grades: 9.00 of 10 Senior Secondary - 2006 | CBSE | 79% || Secondary - 2004 | CBSE | 82% 
+
+
+
+
+
+Current Designation
+
+Software Developer Engineer at Amazon India Private Limited Hyderabad (Jan 2014 to Present) 
+
+Implementing Machine Learning library 
+
+Presented a comparative study of various machine learning frameworks, their pros and cons.
+
+Writing a machine learning library for performing preprocessing steps(cleaning of HTML content, removing unwanted tags, attributes, lowercasing,  removing stop words, stemming), feature extraction(n-gram generator,  feature scaling, Tf-Idf feature scaling)
+
+
+
+Technology/Framework/Library used: Lucene, Spring Framework, Mockito
+
+
+
+Implemented Classifier Service
+
+Wrote high level design document for supporting various classifier(Machine Learning model for prediction)
+
+Implemented a service which can be used by various client to get classifier(Ecommerce classifier, Category Classifier, Brand Classifier, SKU Count Classifier) values
+
+
+
+Technology/Framework/Library used: Amazon Web Service (Dynamo DB, S3),Spring Framework, Web Services, Mockito, PowerMockito
+
+
+
+Pattern Classifier Utility
+
+A web UI based utility to allow user to update regexes (used in various classification)
+
+Performs various validations like mandatory field check, valid value check
+
+Performs validity of regexes  and updates regexes in Dynamo DB
+
+
+
+Technology/Framework/Library used:Amazon Web Service (Dynamo DB, S3),Spring Framework, Spring MVC, JSP, Tomcat
+
+
+
+Lead Enrichment Tool Dashboard
+
+A web UI dashboard which allows amazon associates to review website with various options(Ecommerce or not, primary category of Ecommerce website,  SKU Count, Quality of products)
+
+
+
+Technology/Framework/Library used:Amazon Web Service (Dynamo DB, S3),Spring Framework, Spring MVC, JSP, Tomcat, Hibernate
+
+
+
+
+
+Detail Page Cleanup Tool
+
+When a seller is on-boarded in amazon and list their products, they need to provide the data in certain format. Amazon has various rules for uploading any product catalog. This tools helps amazon associates to validate the product catalog to be uploaded by a seller on amazon
+
+It performs validation like product title, product description, locale, product id, size, price etc.
+
+
+
+Technology/Framework/Library used: Amazon Web Service (S3),Spring Framework, Spring MVC, JSP, Tomcat, Hibernate
+
+
+
+
+
+Previous Designations
+
+Software Engineer at QUALCOMM India Private Limited Hyderabad (Nov 2011 to Dec 2013) 
+
+Implemented RT Plus Tags Features
+
+Implemented feature for supporting Radio Text in various language
+
+Developed FM HAL layer module
+
+Developed FM performance parameters tuning module
+
+Developed a Command Line Utility to help testing FM basic functionalities at factory
+
+Developed a module for automating FM band sweep testing to measure FM performance, Sensitivity
+
+Software Developer at MAQ Software Hyderabad (July 2011 to Oct 2011).
+
+Developed ASP.NET and HTML based solutions. 
+
+Developed window gadgets
+
+Worked on SharePoint
+
+Developed forms using Microsoft CRM Dynamics
+
+
+
+
+
+Academic Projects
+
+Bug Dashboard
+
+A window gadget to keep track of bugs found and related information in various projects 
+
+A Sequential Data mining using togetherness
+
+Given a database corresponding to various customers and items bought predict the probability of buying a sequence of products. 
+
+Multilayer Multi - resolution Image In painting
+
+In paint the damaged portion using global as well as surroundings and make it more clear using layer separation and layer fusion technique. 
+
+
+
+Online Handwriting Recognition 
+
+Recognize the character while a person is writing on a piece of paper. used HMM for recognizing sequence of hidden characters after individually matching each character 
+
+
+
+Technical Skills
+
+C/C++: >2years, MATLAB: <2, SQL: >1year, C#: <1year, HTML/CSS/JavaScript: <1year, Android: <2year, Java: >2years, Machine Learning: >1years, Spring framework :<2years, AWS: <2years
+
+
+
+
+
+Area of interest
+
+Algorithms and Data Structures 
+
+Machine Learning
+
+Operating System 
+
+Database 
+
+Achievements
+
+Selected among the top 1 percent of students appearing in AIEEE-2007(AIR-4608). 
+
+Attended a Sun Educational Services session on "introduction to java with Net Beans" organized by NIIT at campus. 
+
+I was awarded a scholarship of Rs.18000 for my academic excellence at the college. 
+
+Hobbies
+
+Watching cricket match 
+
+Playing badminton

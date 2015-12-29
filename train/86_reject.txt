@@ -1,0 +1,170 @@
+Sai Krishna Pendyala V
+E-mail: pvsaikrishna@gmail.com
+Contact Number: +919949286857
+
+Education
+
+Master of Science by Research in Computer Science
+International Institute of Information Technology, Hyderabad.
+June 2011.
+A Language Independent Spelling Suggestion System for Search Queries under Prof. Vasudeva Varma
+B.Tech in CSE with Honors in Information Extraction and Retrieval
+International Institute of Information Technology, Hyderabad.
+Jul 2004 – Apr 2008.
+
+Work
+Experience
+
+Team Lead,
+Wavecrest Payment Technologies Pvt. Ltd, Hyderabad.
+
+April 2014 – Current.
+
+Senior Software Engineer,
+Wavecrest Payment Technologies Pvt. Ltd, Hyderabad.
+
+February 2013 – March 2014.
+
+Development Lead,
+SETU Software Systems Pvt. Ltd, Hyderabad.
+
+January 2012 – November 2012.
+
+Senior Software Engineer,
+SETU Software Systems Pvt. Ltd, Hyderabad.
+
+August 2010 – December 2011.
+
+Software Engineer Intern,
+SETU Software Systems Pvt. Ltd, Hyderabad.
+
+May 2008 – July 2010.
+
+Operating Systems:
+Programming Languages:
+
+Basic
+Windows XP
+C
+
+Advanced
+GNU/Linux
+Java (J2SE & J2EE)
+
+Scripting Languages:
+Web Technologies:
+
+Shell
+CGI, PHP
+
+Python
+HTML, CSS, Javascript, AJAX, jQuery,
+RequireJs, BackBone, Angular.
+
+Database Technologies:
+Tools/Libraries/Frameworks:
+
+MySQL, PostGRESQL
+OpenGL, Apache commons,
+
+Hadoop, Nutch, Lucene, HBase
+
+Play Framework, Solr, Android.
+
+GIT, Redis, Spring.
+
+Skill Set
+
+Major Work at
+Wavecrest
+
+Back Office tool for configuration and Fraud detection
+Worked on developing a back office tool for configuring the platform to the needs of different clients.
+Also, developed a decision engine which can detect frauds related to payments or registration. I have
+involved in developing these system from the very beginning and actively participated in designing
+the system and also lead a team to deliver the tool on timely intervals.
+Technologies: Java, Spring, Cassandra, Redis, Angular.
+
+Major Work at
+SETU Software
+Systems
+
+Neooz (News Portal)
+The idea behind this product is to build a real-time news engine, where netizens can track real-time
+news stories and various analytics about a particular entity (persons, organization, locations, etc)
+related to these news. As a lead I have played a major role in architecting the engine as a distributed
+application. Moreover, I have played a vital role in designing and implementing components related
+to crawling and searching.
+Technologies: Java, Hadoop, HBase, Redis, Zookeeper (Netflix Curator), Lucene, Play 2.0.
+Setooz Search Appliance (SSA)
+SSA is an enterprise offering of setooz.com, a web search engine. I have lead the team to make
+the SSA as a programmable platform (using data contract) and added features related to enterprise
+search. I have worked on modules like snippet generation (summarization task), spelling suggestion
+
+for misspelt queries, building parsers, index optimizations and few other core modules for this product.
+This product was successfully delivered to three organizations and I have acted as point of contact in
+all three occasions.
+Technologies: Java, Hadoop, Nutch, Lucene, Tomcat.
+
+Major Projects at
+IIIT Hyderabad
+
+Role-based Query Expansion (B.Tech Hons.)
+This system was developed as a part of Role-based enterprise search engine. The aim of the project
+is to expand the given search query with its related terms. The expansion of query not only helps in
+retrieving relevant results but also helps in disambiguating the query. In this project search queries
+are expanded based on the role of the user. Both local and global document analysis techniques were
+used in building the system.
+Technologies: Java, Nutch.
+Factoid Based Question Answering System
+The aim of the project was to develop a system that can answer queries of factoid nature. An answer
+type profile was built for each query based on heuristics. A candidate list of answers was generated
+using a combination of Lucene and Named Entity Recognizer (NER). Then, the candidate list was
+pruned for final answer(s).
+Technologies: Java, Lucene.
+
+Achievements
+
+• Conducted a three week workshop on Apache Hadoop usage (map reduce programming) and
+internals at Center for Artificial Intelligence and Robotics, Bangalore.
+• Introduced GIT (& Gerrit) and helped everyone use it during my stay at SETU.
+• Came up with a novel approach to load static assets on client(browser) with optimization using
+RequireJs.
+• Developed a simple Android app to read The Hindu News with FlipView. Placed it in play
+store until an official app was released.
+• Successfully participated in Google Summer of Code 2008. As a part of this program I have
+developed a distributed search engine using Lucene for XWiki.org.
+• Successfully lead the team that secured top place in TAC 2008 Opinion Question Answering
+Track (Squishy List) and was part of team which stood first in TAC 2009 for KBP task.
+• Achieved a rank of 2200 in All India Engineering Entrance Examination (AIEEE)-2004 out of
+nearly 0.4 million people.
+• Secured a state rank of 256 in EAMCET-2004.
+
+Publications
+
+• Sai Krishna, Prasad Pingali and Vasudeva Varma, “An information retrieval approach to
+spelling suggestion”, in WWW ’10: Proceedings of the 19th international conference on World
+wide web, Raleigh, North Carolina, USA, April 2010.
+• Kranthi Reddy, Karuna Kumar, Sai Krishna, Prasad Pingali and Vasudeva Varma, “Linking
+Named Entities to a Structured Knowledge Base”, in CicLing ’10: Conference on Intelligent
+Text Processing and Computational Linguistics, Romania, March 21-27, 2010.
+
+Technical
+Reports
+
+• Vasudeva Varma, Prasad Pingali, Rahul Katragadda, Sai Krishna, Surya Ganesh, Kiran Sarvabhotla, Harish Garapati, Hareen Gopisetty, Kranthi Reddy and Rohit Bharadwaj, IIIT Hyderabad at TAC 2008, Text Analysis Conference (TAC) at the joint meeting of the annual
+conferences of TAC and TREC. USA, November, 2008.
+• Sai Krishna, Vinay Appidi, Prasad Pingali and Vasudeva Varma, TREC 2007 Question
+Answering track, Text Retrieval Conference (TREC). USA, November, 2007.
+
+Summary of
+MS Thesis
+
+A Language Independent Spelling Suggestion System for Search Queries
+Spelling suggestion has become an important feature in search engines. However, many search engines rely on query logs for spelling suggestion. Our research focuses on developing the a language
+independent spelling suggestion system for search queries without using query logs. In this thesis, we
+proposed suggestion techniques for both isolated-word and context dependent word errors. In addition
+we also proposed a new string similarity measure which uses the length of the longest common sub
+strings occurring at the beginning and end of the words.
+
+

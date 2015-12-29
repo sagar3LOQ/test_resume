@@ -1,0 +1,327 @@
+Nimish Chaudhari
+
+Email: chaudhary.nimish@gmail.com; Mobile: +91-9560246888
+
+
+
+Strong educational background with proven
+
+Technical Expertise in a Career Spanning  9 Years.
+
+
+
+PROFESSIONAL PROFILE
+
+Highly Self Motivated and Goal-Oriented professional with proven track record of demonstrating strong technical, analytical and communications skills. 
+
+
+
+PROFICIENCY FORTE
+
+
+
+Core competence in designing and development Java based applications.
+
+Inclination towards Telecom & Banking domain - In addition to Master’s specialization in Computer Application (MCA), career spans in Banking and Telecommunication domain with IT majors such as Cisco Systems and Avaya and Sapient.
+
+Area of Specialization includes application architecture and evaluating proposed design as against performance and complying with industry standards. 
+
+
+
+
+
+CAREER HIGHLIGHTS (Select)
+
+
+
+
+
+Successfully Managed following Job Profiles.  
+
+
+
+Sapient Consulting – Manager Software Development
+
+Duration: Jan 2013 – Till Date
+
+Team Size: 30
+
+Role:     Managing application development in Java , Adobe CQ, JMX, Angular UI in Banking domain. 
+
+
+
+
+
+Cisco Systems – Software Engineer Level III
+
+Duration: July 2011 – Till Date
+
+Team Size: 125
+
+Role:     Application development in Java, J2EE (Struts, Hibernate, Spring) in Telecommunications domain. 
+
+
+
+Avaya India Pvt. Ltd – Senior Technical Associate
+
+Duration: November 2008 – July 2011
+
+Team Size: 15
+
+Role:	Application development in Java, J2EE (involving Data Structure, Spring, JAX-WS Web Services, GWT, H2, CSTA) in Telecommunications domain. 
+
+
+
+Nihilent Technologies – System Engineer
+
+Duration: Sep 2006- October 2008
+
+Team Size: 11
+
+Role:  Major role in Electronic payment System Application and NIMS (Nihilent Information Management System ) team involving application development in Java, J2EE (Struts, Hibernate, Spring, PayPal Api). 
+
+
+
+Achievements 
+
+
+
+“Club Stellar Award” for Performance Excellence and Efficient Team Work by AVAYA.
+
+Recognised with “Retention BONUS Award” for Excellent Technical skills and Product Knowledge by Avaya.
+
+
+
+PROJECTS UNDERTAKEN (Select)
+
+
+
+Goldman Sachs Asset Management
+
+Project Overview: GSAM provides institutional and individual investors with investment and advisory solutions, with strategies spanning asset classes, industries, and geographies. Our investment solutions include fixed income, money markets, public equity, commodities, hedge funds, private equity, and real estate. Our clients access these solutions through our proprietary strategies, strategic partnerships, and our open architecture programs
+
+Team Size: 25
+
+Technology Used:  Core Java, Adobe CQ , JMS
+
+Database:                DB2
+
+Web Server:             Apache Tomcat 6
+
+Environment:           Linux
+
+Individual Contributions: 
+
+
+
+Designing Global Search, Fund Finder component.
+
+Application performance optimization i.e. Search optimization, Web Page optimization
+
+Apache Dispatcher Caching Strategies, Static Resources Caching strategies implementation.
+
+Load testing framework design using Jmeter, Loadrunner, web page performance (Page Speed, Yslow) 
+
+
+
+
+
+The Goldman Sachs Global Liquidity Services Portal
+
+The Goldman Sachs Global Liquidity Services Portal delivers streamlined liquidity management capabilities, broad investment opportunities and comprehensive tools and resources for trading, reporting, and researching needs. This trading Portal is part of GSAM’s Global Liquidity Services team which engages with our clients on multiple levels and expands the resources of their organization through expert shareholder services, product management, and operational support and distribution services.
+
+Team Size: 30
+
+Technology Used: Java/J2EE ,Angular UI, JMX, OBJ, Keep Alive
+
+Database:                DB2
+
+Web Server:             Apache Tomcat 6
+
+Environment:           Linux 
+
+
+
+Design & develop Java Framework for FTP files to multiple Hosts with retry mechanism and validation.
+
+Develop trading platform and managing scalability of application.
+
+Develop Messaging platform “OBJ” for trade placed from various Transfer Agents.
+
+Develop Keep alive Monitoring platform  for monitoring all Application processes 
+
+Design and Develop legacy framework to scale for new product requirements and also be compatible with legacy system.
+
+Design and develop Canvas tool for managing virtual machine,  assigning VIP, Load Balancing &  creating and managing system accounts.
+
+
+
+
+
+
+
+Cisco Prime Infrastructure 
+
+Project Overview: Cisco Prime Infrastructure expertly combines the wireless functionality of Cisco Prime Network Control System (NCS) and the wired functionality of Cisco Prime LAN Management Solution (LMS), with the rich instrumentation available in Cisco networking devices, into a single solution.  This enables IT organizations to consolidate tools and converge workflows, reducing operational overhead and increasing productivity.
+
+Team Size: 125
+
+Technology Used: Java/J2EE, Struts, Spring , Hibernate
+
+Database:                Oracle 8
+
+Web Server:             Apache Tomcat 6
+
+Environment:           Linux
+
+Individual Contributions: 
+
+
+
+Ownership of Third Party Device Support (Aruba Controller and Aruba Access Point)
+
+Communicating with PLMs for requirements, Understanding and documenting the same.
+
+Design and Develop legacy framework to scale for new product requirements and also be compatible with legacy system
+
+Collaborating with teams to deliver the component .Make sure Integration is seamless for the product. 
+
+Working with CBC (Customer Briefing Center ) team  to set up product demo , product feature briefing.
+
+
+
+One X Portal for IPOffice 
+
+Project Overview: One X Portal is a browser-based version of Phone Manager, the phone desktop software that allows user to take complete desktop control of your Avaya IP Office telephone (5410 / 5420 / 5610 etc). 
+
+Duration: November 2008 – July 2011
+
+Team Size: 15
+
+Technology Used: Java/J2EE, Spring, GWT, JAX-WS Web Service.
+
+Database:                H2
+
+Web Server:             Apache Tomcat 6
+
+Environment:           Windows XP
+
+Individual Contributions: 
+
+Ownership of complete integration of One X Portal and Voicemail Pro
+
+Supported dropping Voice message to any IP Office user plying of Voice Messages on Phone & User One X Portal login browser.
+
+Supported setting Greeting based on User profile(Office, Home, Away) so that that Greeting played when call received to User extension according to User profile state.
+
+Admin functionality like changing User configuration, talking DB backup & restore DB and monitoring One X Portal component status.
+
+
+
+ My Medical Records (MMR)                                                    
+
+Project Overview: MyMedicalRecords.com, Inc. (MMR) is a leading provider of Web-based personal health record and vital document storage solutions available to consumers, employers, healthcare providers, insurance companies and brokers, unions, professional organizations, and government agencies enabling individuals and their families to have greater control over their health and well-being. MMR also provides physicians with a low cost way to digitize their patient back files and day-forward files on a just-in-time basis. Using proprietary patent-pending technology, MMR offers an easy-to-use, secure and convenient online personal health record (PHR) solution that enables documents, images and voicemail messages to be transmitted in and out of the system using a variety of methods, including fax, file upload and e-mail. 
+
+Team Size: 6
+
+Technology Used: Java/J2EE, Struts, Hibernate, Spring
+
+
+
+ FreePrintManagement.com (Webmart UK)                                                   
+
+	       Project Overview: FreePrintManagement.com TM is a unique service in the print market. It allows clients to 
+
+	       Manage all processes & types of printing- digital printing; offset lithographic printing; web-offset printing;      
+
+	       Publication gravure; screen printing; flex graphic 
+
+       Printing etc. It covers the main product types; magazines, retail flyers, direct mail, point-of-sale, leaflet and    
+
+       packaging.
+
+Team Size: 6
+
+Technology Used: Java/J2EE, Struts, Hibernate, Spring
+
+
+
+NIMS (Nihilent Information Management System)
+
+	       Project Overview: This project is being developed for Nihilent Technology, which is used to manage   
+
+	      HR, RMG, ERS department activities and data. In NIMS there are different roles and there is a role-based  
+
+	      access for various modules. In HRMS (Human Resource Management System), HR person can view, edit any  
+
+	      associate's detail .In ERS (Employee Reimbursement System) module an associate can ask for advance 
+
+	      payment, and various reimbursement forms. In RMG module, resource request for a particular project can be 
+
+	      made and RMG department can do its allocation. In ADMIN module, using different master screen you can 
+
+	      define different parameters to master tables for its use in other modules
+
+	      Team Size: 30
+
+      Technology Used: Java/J2EE, Struts, Hibernate, Spring
+
+
+
+
+
+TECHNICAL SKILLS 
+
+
+
+
+
+Java Core, J2EE , JSP, Servlets , JAX-WS Web services , GWT , Struts, Hibernate, Spring , JDBC, SQL, Tomcat, ANT,  Design Patterns.
+
+CSTA , TCP/IP, Socket
+
+
+
+ACADEMIC CREDENTIALS 
+
+
+
+Master of Computer Application (MCA) from UP Technical University, Gr. Noida.
+
+B.Sc (PCM) from CCS University, Meerut. 
+
+
+
+TECHNICAL CERTIFICATIONS
+
+
+
+Sun Certified Java Programmer (SCJP 1.5).
+
+
+
+ONSITE EXPERIENCE
+
+
+
+New York, USA for project – Goldman Sachs Global Liquidity Portal
+
+San Jose , USA for project – Cisco Prime Infrastructure 
+
+London, U.K for project - One X Portal for IP Office.
+
+
+
+
+
+PERSONAL VITAE
+
+
+
+Date of Birth:         	8th April 1983
+
+Marital Status:        	Married
+
+Father’s Name:        	Mr. N.C. Chaudhary
+
+Languages Known:   	English, Hindi

@@ -1,0 +1,196 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                  -  3 year&
+current                                �
+�              
+
+Spring                  
+                                 -  2
+year                                  
+              
+
+Web
+Services                                
+        - 
+2years (RESTFUL)                           �
+�                   
+
+Core
+Java                                  
+             -  3 year
+
+Design
+Patterns                                
+      -    used
+
+UML
+design                                 
+          -    
+
+Build Tools (Maven/Ant)                    -   
+Maven/SVN   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Apache Tomcat /IDE/codeview
+
+14.5/30%/30days
+
+Db:mysql
+
+ M.Tech IIT-Roorkee 								                 Narra Venu
+
+Contact Details     
+
+Phone:  +91 8885670680 (M)                                              
+            	         Address: LIG 263,
+
+                			                                                 		  
+   	 	 KPHB-7th Phase,
+
+Email ID: nvbiitr@gmail.com			                                         	
+Hyderabad - 500072.
+
+	
+
+Work Experience
+
+Current:
+
+Company  	: Insideview, Hyderabad. ( HYPERLINK
+"C:\\Users\\user\\Downloads\\www.insideview.com" www.insideview.com )
+
+Roles		: Software Developer
+
+Tenure	: March 2014 – Till Date
+
+Previous:
+
+Company	: Snapdeal, New Delhi.(  HYPERLINK "http://www.snapdeal.co" 
+www.snapdeal.co m)
+
+Roles		: Software Developer
+
+Tenure	: July  2012 – March 2014
+
+Qualifications Summary
+
+Passion-driven Java Developer with 3 year  of experience as Software
+Engineer. 
+
+Proven ability to create and deliver software solutions that meet
+objectives tied to business performance and standards while working with
+a wide range of verticals and in a fast-paced environment. 
+
+Excellent problem solving skills with a strong analytical background and
+good interpersonal skills. Positive orientation to expand present
+knowledge base, Active team player with positive and forward-looking
+attitude. 
+
+Ability to work in a fast-paced environment under firm deadline
+schedules to meet cost, quality and timing. 
+
+Easily Adaptable to new concepts and responsibilities and willing to
+learn-experiment-execute new strategies. 
+
+Professional Experience
+
+Software Developer 
+
+Developing Software Applications on focusing High Quality bug free code
+and adhering to coding guidelines.
+
+Insideview (CRM Intelligence)
+
+Integrations of New Vendor Data (Netprospex,Reuters etc) to
+insideview(IV) System.
+
+URL Generation System for 12 million Companies and Validated for the
+Accuracy in System. 
+
+Match and merge, Purge the Companies and Executives of IV inorder to
+improve the Contact Accuracy and Coverage.
+
+Snapdeal.com (Ecommerce Portal)
+
+Developed REST API which enables clients to search for the products on
+website. 
+
+Developed Artificial Elevation of products in Search Results as per
+business requirement. 
+
+Involved in Scaling of Search Servers to handle the high traffic of user
+requests.
+
+Developed Filter, Partial Search feature APIs from the Search Server to
+Clients (Web, Mobile, Apps).
+
+Professional Skills
+
+Computer Languages	C ,  C++ ,Core Java and J2EE
+
+Web  Technologies	Servlets, JSP
+
+Framework	Hibernate
+
+IDE	Eclipse
+
+RDBMS	Mysql
+
+
+
+Academic Qualifications
+
+M.Tech in IT from Indian Institute of Technology Roorkee with CGPA of
+7.8. 
+
+B.Tech in CSE from the Bapatla Engineering College with 78 % 
+
+Intermediate from Board of Intermediate Education, AP with 91.9 %. 
+
+SSC from the Board of Secondary Education, AP with 85%. 
+
+Projects
+
+IIT Roorkee
+
+Enhancement of AODV Routing Protocol for sparse Adhoc Networks(
+Dec'11-June'12 )
+
+Improvement of an existing AODV Routing protocol has been done. We used
+a technique called Store and Forward method to deliver the messages to
+destination when source and destination are not connected. We also
+developed a module which extends AODV in case of partially connected
+networks.
+
+IIT Roorkee	
+
+Performance Evaluation of AODV, DSR, DSDV on different scenarios (
+Aug'11 - Oct'11 )
+
+We compared the performance of On-demand reactive routing protocols
+AODV, DSR and a pro-active routing protocol DSDV. Comparison is made on
+the basis of throughtput, packet loss, packet delivery ratio and
+end-to-end delay. The sceanrios are simulated under NS2.
+
+Extra Curricular
+
+Tarangini (2010)-Organizer of “Tarangini-2010” event in IIT Roorkee.
+
+Personal Profile
+
+Father's Name	:	Narra Purandhara Rao
+
+Gender	:	Male
+
+Permanent Address	:	3-42, Dharanikota, Amaravathi, Guntur,
+
+
+
+Andhra Pradesh- 522020
+
+
+

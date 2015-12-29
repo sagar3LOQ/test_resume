@@ -1,0 +1,25 @@
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate                                              -  5 year& current
+
+Spring                                                     - 5 year & current
+
+Web Services                                        -  worked                                             
+
+Core Java                                               -  8 year
+
+Design Patterns                                    -   singleton/factory 
+
+UML design                                           -    6 year
+
+Build Tools (Maven/Ant)                    -    Ant/gradel
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+Tomcat/netbeans/eclipse
+
+
+
+DB:Casandra/ mysql

@@ -1,0 +1,337 @@
+  
+
+Name:  Ashish Kumar Sonkar                                              
+                        Correspondence Address:                         
+                                                 DOB: 06th, April, 1982 
+                                                                        
+           Ashish Kumar Sonkar
+
+Educational Qualification:                                              
+                               Apt #:K2-701
+
+B.Tech (Electronics & Communication Engg.)                              
+              Pimple Saudagar,
+
+NIT, Calicut, Kerala.                                                   
+                                      Pune,
+
+                                                                        
+                    Maharashtra, India
+
+ E-mail Id:   HYPERLINK "mailto:ashishsonkar@gmail.com" 
+ashishsonkar@gmail.com                                                  
+         Mobile No: 9886023190
+
+                                                                        
+                                                   
+
+Experience Summary
+
+Total 8.5 years of experience in leading team, Software development,
+design, testing and implementation. Have worked on Core Java/J2EE, Perl,
+C technologies, Data structure. Proficient in development of web based
+applications using Java/J2EE technologies, performance & tuning JVM and
+text processing. Onsite (Qwest, USA) experience as Onshore coordinator
+with responsibilities to gather business requirement for release and to
+handle UAT.
+
+
+
+Education
+
+Degree	Major	Year of passing	Institute	Percentage
+
+B.Tech	Electronics & Communication Engg.	2006	NIT Calicut(formerly REC
+Calicut )	61.8
+
+
+
+Certification
+
+Sun Certified Java Programmer(SCJP Java version 5)
+
+
+
+Jobs
+
+Name of Organization	Designation	Period
+
+Barclays	AVP(Technical Lead)	October 2014-till date
+
+British Telecom	Senior Consultant 	June 2013 – October 2014 
+
+Qwest Telecom Software Services Private Limited	Senior Software Engineer
+10-Dec-07 to May 2013
+
+
+
+MindTree Consulting Ltd.	Programmer Analyst	03-July-06 to 07-Dec-07
+
+
+
+Primary Technical skills
+
+Languages	Java (>2.0), C, Perl.
+
+Web Technologies	Spring, Hibernate, JSP/Servlets, AngularJS AJAX,CSS,
+Strut, HTML5,Javascripts, J2EE, Design Patterns, Web Services, XML
+Technologies (XML, XSLT), XML Beans, JNI, JMS, Basics of Bus Services
+(Tibco Rendezvous), Datastructure,Algorithms.
+
+Tools	Eclipse, ACTIVE PERL Komodo, Ant, Putty, Quality Centre, Build
+Forge, CVS,  Dimensions , Calibre  9.1 , Toad
+
+OS	Windows XP, Unix
+
+App Servers	Web Logic 8.1, Tomcat
+
+Design	UML(Methodology)
+
+Databases	Oracle 10g, MySQL
+
+
+
+Experience
+
+
+
+AVP (Technical Lead) at Barclays PLC October 2014 – Till date.
+
+Project	COLLECTIONS
+
+Collections is a payment capture website for Mortgage defaulters.
+
+Its purpose is to collect Account Info and Card details and store these
+in encrypted xml file and send it downstream team for further processing
+.
+
+BIRD
+
+                 Barclays Integration Reporting Dashboard is as
+dashboard kind of tool.
+
+                  It is used by higher level person of Barclays to
+analyze data for various process          across different channel.
+
+Tools and Technologies
+
+	Java/J2EE, Spring, JSP, Eclipse, AngularJS, Maven, Oracle, Highchart,
+HTML.
+
+
+
+Role and Team size	Gathering business requirement
+
+Designing
+
+Managing Team of size 9.
+
+Development
+
+Helping team with my technical skills
+
+
+
+
+
+Experience
+
+
+
+Software Engineer at Qwest Communication December 2007 - May 2013.
+
+Project	Networx
+
+ Networx QOA is an online service delivery platform to provide an
+integrated and a seamless way to order /quote various network services.
+It was a mammoth and challenging project where US federal Government
+aspired to automate the entire sale and delivery of the various networks
+products/services.
+
+The core framework consisted of J2EE struts where extensive use of
+Design patterns, Tiles framework and Web services and Bus services were
+made. The framework was made more flexible with the approach of
+ORAObjects at the back-end.
+
+Tools and Technologies
+
+	Java/J2EE Struts,Spring, JSP/JSTL, EJB, Oracle 9.0, Linux platform,
+Ajax, DWR
+
+Quality Centre, Build Forge ,CVS,  Dimensions , Calibre  9.1 , Toad,
+Eclipse 3.1 ,                                        
+
+Ant, Putty
+
+
+
+Role and Team size	Actively involved in execution of various phases of
+Software Development Life Cycle like Requirements gathering, Design, and
+Coding and Unit Testing process.
+
+As On-Site Coordinator, I had taken the full ownership of requirement
+gathering by coordinating with onsite team. Worked together with
+off-shore team and dependant systems in the impact analysis, design,
+coding, and Unit testing for two releases.
+
+Conceived & developed complete Multi Order File module for huge orders
+using Core JAVA.
+
+Worked on Adapter, Decorator, Builder, State, DAO, Command, Factory,
+Singleton, Visitor, Observer Design Patterns.
+
+Optimized the performance of the location manager module by
+incorporating AJAX via DWR.
+
+Conceived & developed Save Functionality by incorporating Javascript
+across the application.
+
+Improve the critical performance issue of “Contact Page” in Networx
+application.
+
+Conceived & developed Auto Type Ahead feature just like in Google
+application using JQuery in Networx Application.
+
+Developed the complete interaction of the ordering module with pricing
+Bus service.
+
+Designed and developed asynchronous order flow for MOF processing using
+JMS. Later on asynchronous processing was inculcated to other
+functionalities like order submission.
+
+Proactively involved in fixing and closure of critical defects and
+production issues.
+
+Involved in the knowledge transfer among the team members and Business
+Management Group. 
+
+
+
+Experience
+
+
+
+Programmer Analyst at MindTree Consulting July 2007 –December 2007.
+
+Project	CMAP
+
+Development of various text processing and pattern recognition
+components for content management platforms using C, java and JNI :
+
+Auto Categorization: Training and automatic classification of documents
+into different categories by analyzing word density - using Artificial
+intelligence techniques and Bayesian Algorithm.  
+
+EXIF and IPTC data extraction: Extraction of structured text information
+from various images available in EXIF and IPTC formats
+
+Document to Text Conversion: extracting English text from documents in
+different formats like MS word, RTF, PDF, HTML.
+
+Multi-Faceted search: Given documents marked with certain attributes (
+or Tags), multi-faceted search allows users to query and identify
+documents having the set of tags and containing the search query as
+needed
+
+
+
+Tools and Technologies	Java and J2EE, C, JNI, XML, XSLT, Eclipse,
+Hibernate, UNIX.
+
+Role and Team size	Design, development and Implementation
+
+Team Size : 6 
+
+Duration: Nov 06 to Date.
+
+
+
+Project	AIG – SUNAMERICA
+
+Development of ADMS tool which uses advanced text and pattern
+recognition to construct System Mapping of any given Java application by
+browsing its source code.
+
+System Mapping of the NaviSys(Policy Administering system dealing with
+annuities)Application 
+
+Extending ADMS tool for knowledge management and easy maintenance of
+system mapping documentation
+
+Tools and Technologies	Java and J2EE, Perl, Eclipse, Active Perl Komodo
+
+
+
+Role and Team size	Design, development and Implementation
+
+Team Size : 9  ,    Implementation - Onsite 
+
+Duration: Aug 06 to Nov 06
+
+
+
+
+
+B.Tech Project(Coursework Project )
+
+Major Project	Design of algorithm & Implementation of Architecture for
+lossless Image Compression using VHDL Language and FPGA Kit.
+
+Mini Project	Implementation of Digital Thermometer using FPGA Kit.
+
+
+
+Summer Training
+
+Attended 21 days training on Avionics System in HAL Kanpur.
+
+
+
+Awards & Certificate
+
+1. Got Above Expectation appraisal rating in MindTree Consulting Ltd.
+
+2. Played State Level Cricket Tournament
+
+3. Certificate for International Math Competition from Australia.
+
+4. Certificate for District level GK Competition.
+
+
+
+
+
+Extra Circular Activities
+
+1. Playing Cricket.
+
+2. Reading Journal Magazine
+
+3. Playing computer game (Mostly NFS underground).
+
+
+
+Training Attended
+
+TRAINING	About 	Period
+
+1	Java and J2EE	8 Weeks
+
+
+
+2	C	2 months
+
+3	XML,XSLT	        3 days
+
+4	Web Application concepts, Programming concepts, debugging and logging.
+        1 Week
+
+	5		Business English Communication	       2 Weeks
+
+
+
+Ashish Kumar Sonkar  
+
+                                                                      
+Page   PAGE  1  of   NUMPAGES  5 
+

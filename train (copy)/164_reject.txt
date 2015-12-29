@@ -1,0 +1,336 @@
+Spring: 3.5 
+Hibernate:3 year& current
+Webservices: 3 year& current
+Java: 5year
+App server: tomcat
+Build: maven/Ant
+6.8/9.5/60days
+
+CURRICULUMVITAE
+
+K.Sampath Reddy
+
+ 
+Summary:
+
+5 yrs of software development experience, primarily in the area of JAVA, J2EE Technologies in windows environments.
+
+Expertise in developing web applications using Struts, Spring and Hibernate, AJAX frameworks and RabbitMQ,Quarz Scheduler using the tools such as Eclipse 3.x, and SVN.
+
+Developed various integration solutions using Web Services.
+
+Well understanding of functional requirements before starting the development.
+
+Associated with business team and involved in writing the functional design docouments.
+
+Worked with cloud products like OpenStack to provide Storage solutions.
+
+Good Knowledge in Chef Configuration Management tool.
+
+Strong Analytical and programming capabilities with communication skills & Flexibility and Adaptability in regards with new technologies and any Environments 
+
+Professional Experience:
+
+Presently working as a Senior Software Engineer in Value Labs, Hyderabad from Nov 2013.
+
+Worked as a Software Engineer in KnowledgeMatrix, Hyderabad from Nov 2012 to Nov 2013 .
+
+Worked as a Software Engineer in MegaSoft, Hyderabad from Apr 2012 to Oct 2012.
+
+Worked as a Software Engineer in Forceites Pvt Ltd, Hyderabad from Feb 2010 to march 2012
+
+Educational qualification:
+
+B.Tech (Computer science) from Nagarjuna Institute Of Technlogy and Sciences College affiliated to Jawaharlal Nehru Technological University in May-2008 
+
+ Intermediate from Board of Intermediate Education in 2003. 
+
+S.S.C from Secondary school Education in 2001. 
+ 
+
+Technical Skills:
+
+Programing Languages    
+:       
+JAVA,J2EE,Jaxb. 
+Scripting Languages     
+        
+:       
+HTML, Ajax,Jquery, DWR, Java Script,
+,JSON.
+Frameworks      
+        
+        
+:       
+Struts, Spring.
+ORM Tools       
+        
+        
+:       
+Hibernate 3.0 
+WebServices : REST and SOAP based APIs and configurations based on JAXWS API and AXIS Framework
+
+Database        
+        
+        
+:       
+My SQL, Oracle.
+NoSql : MongoDB,CouchDB
+Web/Applicaton Servers  
+:       
+Apache Tomcat 5.x, 6.0, Web Logic,Jboss.
+Build Tools : Ant, Mavne
+ManagementTools : SVN, CVS, GIT
+IDE     
+        
+        
+        
+ :      
+Eclipse 3.X,Eclipse Helios, Net Beans 5.5, Spring Tool Suite.
+Operating System        
+        
+ :      
+Windows 9x, Linux, Ubuntu.
+
+
+
+
+
+Project Profile:
+
+
+PROJECT #1:
+
+Project Title   
+:       
+Snapfish
+Client  
+        
+:       
+Snapfish.
+Duration        
+:       
+Dec 2012 to Till Date.
+Environment     
+:       
+JAVA, REST FUll WebServices, MONGO DB, GIT, CHEF, OPENSTACK.
+ .
+Team Size       
+:       
+2 
+
+Description:
+
+Snapfish is a web-based photo sharing and photo printing service. It provides secure, unlimited online photo sharing and storing and free online photo editing tools.
+ Snapfish by HP is the number one online photo service, with more than 90 million members in over 12 countries and 2 billion unique photos stored online. Snapfish is a division of HP, one of the world's largest and most trusted technology companies.
+
+
+
+
+
+
+Roles and Responsibilities: 
+
+ˇ        
+Responsible for adding new enhancements and fixing bugs.. 
+ˇ        
+worked on creating chef templates and recipes.
+ˇ        
+worked on creating openstack staging envrionment, like creating VM's and installing services through chef and creating swift ring and builder files, swift containers.
+ˇ        
+Implemented logic, that is used to move the records into openstack.
+
+
+PROJECT #2:
+
+Project Title   
+:       
+hmtv 
+Client  
+        
+:       
+Hyderabad Media House Ltd.
+Duration        
+:       
+Nov 2012 to March 2013.
+Environment     
+:       
+JAVA, JSP, Spring, AJAX, JavaScript, My SQL,
+Tomcat 6.x, JSON, CVS.
+Team Size       
+:       
+12 
+
+Description:
+
+HMTV is a erp project. ERP is short for enterprise resource planning.ERP systems integrate internal and external management information across an entire organization. ERP is a business management software that allows an organization to use a system of intergrated applications to manage the business.ERP is an extenstion of material requirements planning (MRP) later Manufacturing Resource Planning. 
+ Integrate the processes of HMTV into a single system. It includes various modules like inventory, purchase, Ad management, production, finance, HRMS.
+
+Roles and Responsibilities: 
+
+ˇ        
+Implemented Spring mvc framework. 
+ˇ        
+Written code in spring with NetBeans7.0.
+ˇ        
+Involved in writing presentation logic.
+ˇ        
+Performing Unittesting.
+
+
+PROJECT #2:
+
+Project Title   
+:       
+PostPaid Agent
+Client  
+        
+:       
+Mobily (Saudi Arabia).
+Duration        
+:       
+Feb 2012 to Till Date.
+Environment     
+:       
+JAVA, MOSF, Oracle,
+ XML, web services,Perforce,SOAP UI 4.5.0.
+Team Size       
+:       
+17 
+
+
+
+
+
+
+
+
+Description:
+
+
+POSTPAID agent provides web services to interact with POSTPAID database for POSTPAID services like policy creation, service creation and attach policies and services to subscribers. The PostPaid Agent must be built to create, delete and update relevant data from Postpaid databases.Application should be able to communicate service consumer and service provider using web service calls.Application should be able to schedule renewals and account debits for configured time frames Application should be designed to mediate (export and import) billing and post paid database during configured times using quartz schedulers
+
+Roles and Responsibilities: 
+
+ˇ        
+Implemented Webservices for exposing API external clients. 
+ˇ        
+Developed an Java based PDF Gen Engine for generating pdfs using Itext flying saucer. 
+ˇ        
+Involved in establishing Business Objects.
+ˇ        
+Developed webservices for accessing xml files from remote location.
+ˇ        
+Implemented Dao layer using proprietary frame work (MOSF) . Creation of Data Transfer Objects and Spring mapping files.
+
+
+PROJECT #3:
+
+Project Title   
+:       
+VT (vantageTrade.com)
+Client  
+        
+:       
+Forceites Pvt Ltd(FITES).
+Duration        
+:       
+Feb 2010 to March 2012.
+Environment     
+:       
+JAVA, JSP, Struts, Hibernate, Spring Ioc, AJAX, DWR, My SQL,
+Java Mail, Tomcat 6.x, XML, JSON, web services,SVN.
+Team Size       
+:       
+9 
+
+Description:
+
+Vantagetrade is a web based revolutionary stock market trend tacking system which is a fusion of technical analysis and technology. This is an automated global stock analysis portal which uses proprietary trend tracking algorithms generating unambiguous Buy and Sell signals, Stock Picks, Suggestions, Analysis and Alerts. The out puts of Vantagetrade enable the investor to Exit or Invest as the trend changes thus making profits by beating market trend. 
+ Vantagetrade incorporates all the features that a stock trader needs to make a trading decision in one portal. This is designed to be a one-stop decision making and trading management tool, customizable to the unique needs of individual investors and traders. The main features of Vantagetrade are Stock picks, Intraday signals, Email alerts, SMS alerts and portfolio management.
+
+Roles and Responsibilities: 
+
+ˇ        
+Implemented DWR framework for AJAX. 
+ˇ        
+Developed an Java based Intraday Engine for picking data and generating signals for application using threads. 
+ˇ        
+Involved in establishing Business Objects.
+ˇ        
+Involved in presentation logic and presistance logic.
+ˇ        
+Concept, Design and implementation of the Data Access Layer for Intraday Module.
+ˇ        
+Creation of Data Transfer Objects and hibernate mapping files.
+
+
+PROJECT #4:
+
+Project Title   
+:       
+Sharekhan FortuneFinder (sk.vantagetrade.com)
+Client  
+        
+:       
+Sharekhan.
+Duration        
+:       
+Apr 2010 to Mar 2012.
+Environment     
+:       
+JAVA, JSP, Struts, Hibernate, Spring Ioc, AJAX, DWR, My SQL,
+Java Mail, Tomcat 6.x, XML, JSON, web services,SVN.
+Team Size       
+:       
+9 
+
+
+
+
+
+
+
+
+Description:
+
+Fortune finder is a web based revolutionary stock market trend tacking system which is a fusion of technical analysis and technology. Fortunefinder is an outcome of rigorous research that went in for building proprietary trend tracking algorithms generating unambiguous Buy and Sell signals, Stock Picks, Suggestions, Analysis and Alerts. The Fortune Finder will help in taking decisions on when to buy, hold or sell any stock. 
+ Fortunefinder incorporates all the features that a stock trader needs to make a trading decision in one portal. The best strategy for the stock market in such volatile times is to ride on the trend . The main features of For are Stock picks, Intraday signals, Analaysis for stocks and portfolio management.
+
+Roles and Responsibilities: 
+
+ˇ        
+Implemented DWR framework for AJAX. 
+ˇ        
+Developed an Java based Intraday Engine for picking data and generating signals for application using threads. 
+ˇ        
+Developed an Java based Delivery Engine for generating xml files and json files.
+ˇ        
+Involved in establishing Business Objects.
+ˇ        
+Developed webservices for accessing xml files from remote location.
+ˇ        
+Concept, Design and implementation of the Data Access Layer for Intraday Module.
+ˇ        
+Creation of Data Transfer Objects and hibernate mapping files.
+
+
+
+
+Personal Details:
+
+Name    
+        
+        
+:       
+k.sampath 
+Contact Numbers 
+:       
+9700132192. (M)
+Languages Known 
+:       
+Telugu and English.
+
+
+
+

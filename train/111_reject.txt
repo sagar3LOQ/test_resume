@@ -1,0 +1,388 @@
+OBJECTIVE
+
+To seek a challenging career in the area of Information Technology where
+I can utilize my experience and enhance my knowledge, apply my creative
+skills.
+
+SUMMARY
+
+7 years of experience in IT field with development and support of web
+based applications
+
+Worked on Banking & insurance domain & Transportation Domain.
+
+Have exposure in the development and maintenance projects.
+
+Have good knowledge of Core Java, J2EE application model to develop
+web-based solutions using Servlets, JSP,
+JDBC,JSF,Spring.Spring-Integration
+
+Have worked on Struts Framework
+
+Have worked on EAR deployment using WAS6.0/6.1
+
+Worked on tools like CVS and Microsoft Visual SourceSafe.
+
+Worked as DB admin for Oracle 10gR2
+
+WORK EXPERIENCE	
+
+Working as Senior Software Engineer in Prokarma Softech , Hyderabad from
+Feb 2012 to till date.
+
+Worked as Senior Software Engineer in Mahindra satyam, Hyderabad from
+Oct 2010 to  Feb 2012.
+
+Worked as Associate Consultant in NeoBytes, Bangalore from Feb 2009 to
+Oct 2010.
+
+Worked as Software Engineer in Infosys Technologies, Bangalore from June
+2007 to Jan  2009 through Modus Information Systems.
+
+QUALIFICATION
+
+B.Tech in Mechanical Engineering from Anna University with 73% in 2005
+
+Diploma in Mechanical Engineering from Andhra University with
+distinction (75%) in 2002
+
+CERTIFICATIONS
+
+Sun Certified Java Programmer (scjp).
+
+TECHNICAL SKILLS
+
+Operating Systems	    	Windows NT/2000, AIX5.3
+
+Java Skills	                	Java, J2EE, JDBC2.0
+
+Web Technologies	JSP, Servlets
+
+App servers 	                	Websphere 6.1,jboss
+
+Web servers	                	Apache Tomcat.Tibco Jms
+
+File Servers 	CVS, Microsoft VSS
+
+Databases 	                	Oracle 10gR2, DB2E
+
+Frame Works	                	Jakarta Struts 1.2,JSF
+
+Tools/IDEs                               	Eclipse 3.4,Ant 6.0, WSAD5.0,
+RAD7.0,HPSD Service Desk
+
+PROJECT SUMMARY
+
+Project# 1	Project Name : ShipCarsNow
+
+Role	Developer
+
+Client	UPRR
+
+Duration	FEB 2012 to  till date
+
+Team Size	2 members
+
+Technologies Used	Java, JSF,Springs IOC,Spring JdbcTemplete,Servlet
+
+Project Description: 
+
+	ShipCarsNow offers reliable, nationwide auto transport. It provides new
+and used car shippers with a robust and responsive auto transport
+network to handle both local and long distance auto shipments.SCN
+multimodal (truck-rail) car hauling resources across the U.S. enable
+auto traders to reach more markets, lower auto transport costs, and
+improve profits. Its customers include auto manufacturers, auto
+remarketers, up fitters, auto auctions, fleet managers, finance
+companies, rental car companies, and used car dealers. ShipCarsNow is a
+subsidiary of Union Pacific Railroad. Formed in 2006, ShipCarsNow was
+created to provide the used car industry with safe and affordable
+multimodal auto transport. It brings advanced logistics technology to
+the auto remarketing industry as a natural extension of Union
+Pacific’s business model for new car distribution.
+
+Responsibilities:
+
+Requirement gathering from business analyst
+
+Invloved as part of writing new services
+
+Invloved as writing junit and mokito TestCase
+
+Involved in as part of code reviews using  tools like sqdbtool.
+
+Involved in as part of BugFixing.
+
+Involved in code merging process
+
+Involved in deployment process like jboss,JHE.
+
+Project# 2	Project Name : Field Service Portal
+
+Role	Developer
+
+Client	General Electrical Company(GE)
+
+Duration	OCT 2010 to  Feb 2012
+
+Team Size	2 members
+
+Technologies Used	Java, JSF,Springs IOC,Spring JdbcTemplete
+
+
+
+Project Description: 
+
+	GE Energy’s Power Services is completely converting to an Oracle ERP
+system which will manage all of its jobs.  This conversion is a phased
+approach that is slowly moving all of the operating units around the
+world from the legacy system of EMIS onto ERP. Due to the complexity of
+Oracle, an end user interface was created called Global Order Entry Tool
+(GOET). GOET is built on a now outdated technology and there is a need
+to upgrade it and to enhance it for the new business needs.There is a
+new initiative to reduce electronic tools that Service Managers use to
+increase productivity. As a result, the plan is to merge all of GOET’s
+functionality into the Field Services Portal (FSP) and create a simple
+to use, one stop outage management tool.
+
+Responsibilities:
+
+Development of few Jsf  Pages for the User Interface.
+
+Involved in as part of code reviews using  tools like sqdbtool.
+
+Involved in as part of BugFixing.
+
+Project# 3	Project Name : Integrated Rating Platform
+
+Role	Developer
+
+Client	Farmers Insurance USA
+
+Duration	Jan 2010 to  Oct 2010
+
+Team Size	6 members
+
+Technologies Used	Java, JSP,Springs
+
+
+
+Project Description: 
+
+required to derive a premium into one single entry point.IRP will
+automate the existing manual process of creating and updating the
+various rating factors and rules.IRP consists of Interfaces like - 
+Project, Rate, Rating VVTs, Rules, Report for updating rates and rules
+which will allow for faster and more accurate changes, as well as
+business friendly access to view current rates. IRP will automate the
+existing manual process of creating
+
+Responsibilities:
+
+Involved in preparation of design documents. 
+
+Involved in enhancements of custom component i.e.  SearchTableTag. 
+
+Involved in development of  RatingVVT’S Tab.
+
+Development of few JSPs for the User Interface.
+
+Project# 4	Project Name : Farmers Fast Quote
+
+Role	Developer
+
+Client	Farmers Insurance USA
+
+Duration	Feb 2009 to  Dec 2009
+
+Team Size	8 members
+
+Technologies Used	Java 1.5, JSF,Faclets,DB2E,Spring IOC ,  ANT, Windows,
+Command Center
+
+
+
+Project Description: 
+
+When a customer interested in purchasing an Insurance policy, before to
+that he might want to know the corresponding premium for his policy of
+interest. To know the premium he has to contact an Agent, after that he
+might be interested for that policy or not. To simplify this problem of
+contacting an agent to know the premium before to do the policy, Farmers
+launched FAST QUOTE for its consumers. So the ultimate purpose of
+Farmers Fast Quote is to help the customers to calculate the premium
+according to the data provided by the user. If the customer will be
+interested to do the insurance then at last the agent will be involved
+to do all the work for that policy. This project helps the customer to
+do a policy in an efficient and effective way any where without wasting
+the time.
+
+Responsibilities:
+
+Initial level designs in each release.
+
+Working on design and development  of various modules and sub-modules.
+
+Involved and developing Web Component using  JSF Framework
+
+Responsible for Sanity Testing and delivery of Code by using clear case.
+
+Involved in Production support.
+
+Project# 5	Project Name : Finacle e-Banking (Baseline Management)
+
+Role	Team member
+
+Duration	Nov 2008 to  Jan 2009
+
+Team Size	8 members
+
+Technologies Used	Java, JSPs, EJBs, JDBC, ANT, basic shell scripting,
+Windows, Fortressware, CVS, VSS, Toad, WAS 6.0/6.1, Eclipse 3.0
+
+
+
+Project Description: 
+
+Finacle e-Banking follows Baseline Area Management process for the
+Software Configuration Management for the product life cycle. This
+project defines how the source code is maintained, DB scripts creation
+and code generation from DB scripts in CVS. This process is to maintain
+documents in VSS for different parallel projects happening for a certain
+product release. Creation of different streams, build area, WAS profiles
+and new DB creation and finally merging them after project completion to
+the baseline.
+
+ 
+
+Responsibilities:
+
+Involved in profile creation, configuration of profile like bus
+creation, JNDI, security configuration, performance fix for applications
+with WAS6.1.
+
+Involved in design and development of few JSPs for the User Interface.
+
+Involved in build and deployment process in UNIX and windows and
+automating these activities
+
+Involved in configuration management Activities for CVS and VSS.
+
+Worked on Fortressware security configuration
+
+Worked for Build, Testing team release and Customer release.
+
+Project# 6	Project Name : Finacle e-Banking (DefectFixing)
+
+Role	Team member
+
+Duration	June 2007 to  Nov  2008
+
+Team Size	15 members
+
+Technologies Used	Java 1.4, Servlets, JSPs, JDBC, ANT, basic shell
+scripting, Windows, Toad, WAS 6.1, RAD 7.0
+
+
+
+Project Description: 
+
+Finacle, the universal banking solution from Infosys, empowers banks to
+transform their business leveraging agile new generation technologies.
+This modular solution addresses the core banking, treasury, wealth,
+management, consumer and corporate e-banking, mobile banking and web
+based cash management requirements of retail, corporate and universal
+banks worldwide.
+
+Responsibilities:
+
+Defects analysis and fixing the defects.
+
+Involved in Sanity Testing of different Modules in the Project to check
+the impact of the fixes delivered by the team.
+
+Involved in the migration activity related to code from WAS6.0 and
+WAS6.1.
+
+Development of few JSPs for the User Interface.
+
+Personal Profile:
+
+	Date of Birth            :	 21 AUG 1984	
+
+	Father’s name          :	 RamaRaju K
+
+	Sex                         : 	 Male
+
+	Marital Status          :	 Married
+
+	Languages Known   :	 English, Telugu 
+
+             Nationality              :	 Indian
+
+                                                                        
+                       
+
+                                                                     		
+Yours Sincerely,                                                        
+         			  			NarayanaRaju K 
+
+Resume of Narayana Raju K	                                -  PAGE  5 -	
+
+ PAGE   
+
+	  PAGE  5 
+
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                  - 
+NA                                   
+             
+
+Spring                  
+                                  -  5
+year &
+current                                �
+�           
+
+Web
+Services                                
+        - 
+NA                                   
+             
+
+Core
+Java                                  
+             -  5 year
+
+Design
+Patterns                                
+    -    yes
+
+UML
+design                                 
+          -    
+
+Build Tools (Maven/Ant)                    -   
+maven/ant   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Jboss/finebug/pnb/eclipse/RAD
+
+DB:oracle
+
+	            Resume
+
+Narayana Raju K
+
+Mobile#+919642135777                           
+Email:narayanar.kammila@gmail.com
+
+		
+
+	  PAGE  1 
+

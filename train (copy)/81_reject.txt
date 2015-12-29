@@ -1,0 +1,427 @@
+TECHPOINT PROFILE
+
+
+
+Mr.Naresh S, SoftwareEngineer
+
+
+
+
+
+			Professional Summary
+
+	
+
+	Have3.7+ yearsof experience in Software Development.
+
+	Experience in developing application using Frame Works. 
+
+	Exposure in STRUTS,SPRINGand HIBERNATE.
+
+	Exposure in WEBSERVICES (SOAP, RESTFUL).
+
+	Exposure in Angular JS.
+
+	Expertise in project deployment using PUTTY and WINSCP.
+
+	Experience in HTML, CSS,JAVASCRIPT,JQUERY,AJAX, JSON, DOJO.
+
+	Expertise in TOMCAT, WEBLOGICand JBOSS application server.
+
+	Good communication skills, accustomed to working in a team environment and capable of working efficiently under pressure.
+
+	
+
+			  Awards and Achievements
+
+	
+
+	Received POB award and manager appreciations.
+
+
+
+    Experience Details
+
+	
+
+Organization
+
+Designation
+
+Duration
+
+CGI
+
+Software Engineer
+
+Feb/2014—Till Date
+
+PLSOFT Pvt. Ltd
+
+Software Engineer
+
+Jan/2012—Feb/2014
+
+	
+
+		  Skills	
+
+	
+
+Primary Skill category
+
+JSE, JEE, STRUTS,SPRING, JPA, HIBERNATE,FTL,WEBSERVICES
+
+Secondary skills
+
+HTML, CSS, JAVASCRIPT, XML, JQUERY, DOJO, AJAX, Angular JS.
+
+Project Acquired skills
+
+JSE, J2EE, STRUTS, SPRING, JPA, HIBERNATE, JSP, FTL,SOAP,RESTFUL, JQUERY, DOJO, AJAX, JSON
+
+Trained Skills
+
+JSE, JEE
+
+	
+
+	
+
+	Work Experience
+
+	
+
+	Project Profile#1:SuitCASE		Team Member	Feb/2014—Till Date
+
+
+
+Organization
+
+CGI
+
+Client
+
+HRTO, LSUC,PSST, LA County
+
+Location
+
+Offshore: Hyderabad
+
+
+
+Team Size
+
+42
+
+
+
+Environment (with skill versions)
+
+Technologies: 
+
+JSE, J2EE,CGI own framework, GWT,JDBC, JSP,WEBSERVICES (SOAP)
+
+
+
+Server:
+
+TOMCAT 7,Glashfish,Jboss,Websphere
+
+
+
+Database :
+
+SQL SERVER 2008 R2, Oracle,DB2
+
+
+
+ProjectDescription:
+
+
+
+SuitCASE is a collaborative, web-enabled case management solution.  SuitCASE involves a Case Management Engine that can be configured to meet any organization’s information management, workflow, document management and reporting needs. The SuitCASE J2EE 3-tier architecture delivers on one of the main challenges of software solutions today – providing a solution that will be extensible and allow clients to configure the way that they want it to run! While providing this flexibility, SuitCASE delivers usability, performance, and scalability.
+
+		
+
+Contribution:
+
+
+
+	I was part of the offshore development team and was actively involved in different work streams as a part of the project
+
+	Understanding flow of specification (requirement) and responsible for the development of the application which is based on MVC architecture.
+
+	Responsible for maintaining quality as per the requirements, SLAs
+
+	Developed code for backend business logic using Java, JDBC
+
+	Perform unit testing and participate in performance testing in order to ensure quality deliverable
+
+	Responded to production issues, arrive at a solution with inputs from client,participate in estimating the effort needed to implement solution or work around, test and implement the solution
+
+	
+
+	Project Profile#2:GoVLE (Go Virtual Learning Environment)	Team Member Apr/2013—Feb/2014
+
+
+
+Organization
+
+PL SOFT
+
+Location
+
+Offshore: Hyderabad
+
+Onsite: --
+
+Team Size
+
+6
+
+
+
+Environment (with skill versions)
+
+Technologies: 
+
+JSE, J2EE, STRUTS 2, SPRING, JPA,FTL
+
+
+
+Server:
+
+JBOSS 7
+
+
+
+Database :
+
+MY SQL
+
+
+
+
+
+ProjectDescription:
+
+
+
+GoVLE  is a product based web application. It manages the webhosting for client this application is intended the online shopping site it is a e learning site the user can purchase the courses. This product is manages the all the clients of GoVLE. 
+
+It providing the features like course creation and selling ,module uploads, webinar dates sending ,creation of groups and assigning the peoples to group. The GoVLEclients information is managed by GoVLE team peoples.
+
+
+
+
+
+
+
+
+
+
+
+Contribution:
+
+
+
+	I was part of offshore development team and active involved in different work streams part of the project
+
+	Understanding flow of specification and responsible for the development of the application which is totally based on MVC architecture.
+
+	Has involved in design user interfaces using FTL
+
+	Has involved in design backend business logic for admin panel with the help of Java, JPA
+
+	Has involved in integrating PAYPAL and EBS payment gateways.
+
+	Prepare KT sessions, documentation to transfer the activities.
+
+	
+
+	
+
+	Project Profile#3:GAQMBOK			Team Member Sep/2012--Mar/2013
+
+
+
+Project Type
+
+Ecommerce
+
+Client 
+
+PIXACORE
+
+Organization
+
+PLSOFT
+
+Location
+
+Offshore: Hyderabad
+
+
+
+Team Size
+
+3
+
+
+
+Environment (with skill versions)
+
+Technologies: 
+
+JSE, J2EE, STRUTS, SPRING, FTL
+
+
+
+Server:
+
+JBOSS7
+
+
+
+Database :
+
+My SQL
+
+
+
+ProjectDescription:
+
+
+
+	GAQMBOK is to educate, empower and prepare candidates for certification exams mainly via e learning and knowledge transfer offered via instructor led sessions. The online shopping web application is intended to provide complete solution for customers through a single gate way using internet as the sole medium. Customers buy the e courses online to prepare for the exams.
+
+
+
+Contribution:
+
+
+
+	I was part of offshore development team and active involved in different work streams part of the project
+
+	Understanding flow of specification and responsible for the development of the application which is totally based on MVC architecture.
+
+	Has involved in design user interfaces using FTL
+
+	Has involved in design backend business logic for admin panel with the help of Java, JPA
+
+	Has involved in integrating PAYPAL and EBS payment gateways.
+
+	Prepare KT sessions, documentation to transfer the activities.
+
+	
+
+	Project Profile#4:TINYMCE			Team Member Feb/2012--Aug/2012
+
+
+
+Project Type
+
+Support & Enhancement
+
+Client 
+
+DISCOUNT EDGAR
+
+Organization
+
+PLSOFT
+
+Location
+
+Offshore: Hyderabad
+
+
+
+Team Size
+
+3
+
+
+
+Environment (with skill versions)
+
+Technologies: 
+
+JAVASCRIPT
+
+
+
+Server:
+
+TOMCAT
+
+
+
+ProjectDescription:
+
+
+
+TINYMCE is a powerful HTML editor for web browsers that enables the user to edit HTML content in a user friendly way. TINYMCE also known as tiny content editor is a platform independent web based JAVASCRIPT/HTML editor control, TINYMCE is very easy to integrate into other content management systems. DISCOUNT EDGAR is needed to use TINYMCE extensively with more features for their internal purpose.
+
+
+
+Contribution:
+
+	I was part of offshore development team and active involved in different work streams part of the project
+
+	Understanding flow of specification and responsible for the development of the application
+
+	Has participated in resolving defects during various test phases of the project.
+
+	
+
+Education
+
+	
+
+Degree
+
+Specialization
+
+University
+
+Year of passing
+
+Graduation
+
+Computer Science And Engineering
+
+JNTUH
+
+
+
+2011
+
+	
+
+Personal Details
+
+	
+
+Particular
+
+Details
+
+Name
+
+Mr.NARESH S
+
+Email ID
+
+
+
+s.naresh553@gmail.com
+
+Contact Number–Mobile
+
++91 9052022695
+
+
+
+1 MSAT Internal

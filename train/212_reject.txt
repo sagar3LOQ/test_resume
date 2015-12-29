@@ -1,0 +1,505 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                  - 
+36months                                
+                
+
+Spring                  
+                                  -  
+
+Web
+Services                                
+        - 
+3years                                 
+               
+
+Core
+Java                                  
+             -  6years
+
+Design
+Patterns                                
+    -    
+
+UML
+design                                 
+          -    6months
+
+Build Tools (Maven/Ant)                    -   
+Maven/Ant   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+IBM Application server, tomcat
+
+Ok to work for start up
+
+Code:   70%    design:30%
+
+Vivek Gupta 								
+
+                  Curriculum Vitae
+
+                       			
+
+Mobile: +91-9010889024
+
+Email:   HYPERLINK "mailto:vivek.guptasam@gmail.com" 
+vivek.guptasam@gmail.com 
+
+Hyderabad (A.P.)
+
+OBJECTIVE
+
+An accomplished software engineer specializing in object-oriented design
+and analysis with extensive experience in the full life cycle of
+software design process including requirement definition, prototyping,
+proof of concept, design, interface implementation, testing, and
+maintenance.
+
+PROFESSIONAL SUMMARY
+
+SUN CERTIFIED (1.5) PROGRAMMER/JAVA 2 PLATEFORM.
+
+Having 5.8 yrs of Java/j2ee Exp with Wipro technologies, VIT, Techshot
+Pvt.Ltd, GVG Bytes Pvt ltd.
+
+Working for Citi Bank project (ESMS and ESMS-BPM) as SSE.
+
+Playing a role of Code Construction & Retrofitting, version control &
+Build through RTC, test Cases Execution, Defect analysis Quality center
+update as per daily basis.
+
+Worked for Citi Bank RUSA (RAINBOW) Country as SSE since Sep 2011 to Jan
+2013.
+
+Played a key role as BAU for RUSA ECRC project production defect
+analysis, Code fixed, Enhancement, end user action, Web Service testing
+with SOAP, version control with clear case.
+
+Worked VIT Internal Project for Excel Reporting System for all activity.
+Used POI jar and technique to fill up calculated data in to pre-defined
+template sheet and available as per login user.
+
+Worked for Techshot Imagine Pvt Ltd as Lead Engineer.
+
+Worked for Elucit S/w Service at Noida.
+
+Worked for NIC & played Developer role in project PPAC.
+
+EDUCATION
+
+Degree/HSC/SSC
+
+	University	Year of passing
+
+
+
+MCA	U.P.T.U	2007
+
+BCA	M.C.R.P.V	2003
+
+
+
+EMPLOYMENT
+
+Organization
+
+	Designation	Duration
+
+	Place
+
+Wipro Technologies	SSE	6’th Feb 20013 to till date	Hyderabad
+
+VIT	SSE	22’nd Aug 20011l to 5’thFeb 2013	Hyderabad
+
+Tech shot Pvt Ltd	Lead	Feb 2009 to 14’th Aug 2011	Jabalpur
+
+Elucit S/w Service	Developer	Feb 2008 to Sep 2008	Noida
+
+GVG Bytes Pvt Ltd	Developer	Jan 2007 to Dec 2007	New Delhi
+
+
+
+TECHNICAL EXPERTIES 
+
+Language 	Java
+
+Frameworks	java (Collection), j2ee, struts, WPF (6.5)
+
+Pattern	MVC 2
+
+Technology	java beans, jsp, Servlet, Struts, JPA2.0, Hibernate, jquery,
+Ajax
+
+Relational DB	MYSQL 5.x, Oracle 10G
+
+Report Tools	Crystal Reports, Birt Reports, and Excel reporting with
+POI.
+
+Web Server	Apache Tomcat 7.x
+
+Version Control	RTC ,Clear case, SVN
+
+Linux Host	SSH techia
+
+XML Technique	DOM, SAX parser
+
+Application Server	IBM application server
+
+Design Pattern	Singleton , Factory , MVC, DTO, DAO
+
+
+
+	
+
+PROJECT:
+
+1	Project Name:
+
+E-BPMs (Eclipse BPM Services )
+
+Client	Citi Bank 
+
+Organization	Wipro Technologies
+
+Duration	     April 2014 to Till Date
+
+Team Size	8
+
+Component	 Portal
+
+Environment with Skill Version	 Jsp, Jquery, DOM Parser, Java Script, 
+Java-Json , BW tool
+
+
+
+Project Description:
+
+	       Eclipse BPM service, is developing as Prototype to eliminate
+direct / indirect MLI calls from java system. as per business demand and
+enhancement of current business requirement Citi has Introduce  BW & BPM
+tool to incorporate all business logic & processing logic as BW
+component and BPM used as mapping flow.  The purpose behind this
+enhancement to overcome the MLI payload and connectivity /
+infrastructure issue . Initially ESMS-BPM team has developing BW & BPM
+with front end display.
+
+Leading Code Construction to invoke WSDL operation and incorporate with
+F/E/
+
+Attending functionality enhancement review call with Business and
+development activity for Portal host.
+
+END to END Testing with User.
+
+Version control with RTC & Enterprise builds activity.
+
+Handling Incident Tickets for SIT & UAT.
+
+Handing all deployment  and verification meeting call.  
+
+2	Project Name:
+
+ESMS (Eclipse Service Management System)
+
+Client	Citi Bank
+
+Organization	Wipro Technologies
+
+Duration	     March 2013 to Till Date
+
+Team Size	15
+
+Component	 Portal and Web Service
+
+Environment with Skill Version	 Jsp, Servlet ,MLI , SOAP , Parser , Java
+Script,  JSON.
+
+
+
+Project Description:
+
+	       Eclipse Service Management system, has designed to serve Card's
+functionality.  ESMS has processes of type predefined and user defined.
+Both processes handling by business as per their need/requirement.
+Thought business also can defined new process .system has designed with
+rule/protocols called business rules.  Rules can be add/modified as per
+demand of business.
+
+ESMS also announced their own web service to other module consumers.
+
+Roles:	
+
+Leading Code Construction & Retrofitting for Portal & Web Services.
+
+Attending functionality enhancement review call with Business and
+development activity for Portal host.
+
+Unit test cases written and execution in Quality control.
+
+Version control with RTC activity.
+
+Leading personal build with Ant script and Integration Build with
+Jenkins tool.
+
+Handling Incident Tickets by assigning to other team members & following
+up towards Resolutions before SLA’s.
+
+Helping business Analysis to prepare Functional Specification for each
+process.
+
+Handing all deployment verification meeting call.  
+
+3	Project Name:
+
+ECRC(Eclipse Customer Resource Center)
+
+Client	Citi Bank(NA)
+
+Organization	VIT
+
+Duration	     Sep 2011 to Jan 2013
+
+Team Size	6
+
+Component	ECRC Portal and Web Service
+
+Environment with Skill Version	IBM WPF 6.5 
+
+
+
+Project Description:
+
+	       Eclipse Customer resource center , Citi online debit / credit
+card’s enquiry system where CPO can register user complaint’s with
+respects to fraud , card stolen , card replacement , card burn , card
+block , secondary card issue , so many. System has designed to retrofit
+currently running mainframe application to in presentable also acting
+service provider for other’s key module, which all wants information
+regarding to user. 
+
+System having capability to detect fraud with respect to credit  / debit
+cards while CPO gathering information during greet.
+
+Roles:	
+
+Code Development for portal using IBM WEB sphere portal server.
+
+Handling production Incident Tickets assigning by client & providing
+Resolutions before SLA’s.
+
+Attending Business review call.
+
+Prepared the Gap-Analysis sheet.
+
+Leading Defect Analysis & cause Investigation with daily Basis.
+
+Unit test cases written and execution in Quality control.
+
+Version control with clear case activity.
+
+Handing all deployment verification meeting call. 
+
+Handling STR, SMT ticket.
+
+Web service code Enhancement and testing using SOAP.
+
+4	Project Name:
+
+VIT Internal project
+
+Client	VIT
+
+Organization	VIT
+
+Duration	     Sep 2011 to Jan 2012
+
+Team Size	6
+
+Component	Web Component
+
+Environment with Skill Version	IBM WPF 6.5
+
+
+
+Roles:	
+
+Code Construction for portal using IBM WEB sphere portal server.
+
+Leading Dynamic Excel reporting generating based on requested Input
+using POI.
+
+Integrate Jquery with Application for navigation purpose.
+
+5	Project Name:
+
+ACS
+
+Client	Nandvandan Group
+
+Organization	Techshot pvt ltd
+
+Duration	     Jan 2011 to Apr 2011
+
+Team Size	4
+
+Component	Web Component
+
+Environment with Skill Version	Jsp, Servlet, java Script, Jquery, Ajax,
+Mysql.
+
+
+
+Project Description: 
+
+Administration Software. It is designed for better interaction between
+students, teachers, parents & management. This management software very
+gracefully handles all the requirements for easy College management. The
+College management system being web based can be accessed from anywhere
+in the world, which enables the students, teachers, parents & the
+management be in touch with each other at all times.
+
+Roles:	
+
+Gathered all the reporting requirements from customer and preparing
+prototype model.
+
+Worked on the blue print and Technical specs documents for all the
+modules
+
+Testing Dev code using Junit Tool.
+
+Coordinating & work assignment b/w team member.
+
+6	Project Name:
+
+premium Calculator
+
+Client	Bajaj Allianz
+
+Organization	Techshot pvt ltd
+
+Duration	Dec 2010 to March 2011
+
+Team Size	3
+
+Component	Mobile Component
+
+Environment with Skill Version	MIDLET (J2ME)
+
+
+
+Client Description: 
+
+Bajaj Allianz General Insurance received the Insurance Regulatory and
+Development Authority (IRDA) certificate of Registration. Mobile based
+customer portal allows managing your insurance policy at finger tips. It
+helps easily and on the go to manage the policy amidst in this busy
+schedule. Mobile application having following feature.
+
+Manage Your Policies, View Premium Calendar, Make Service Requests,
+Branch Locator and Easy Contact Us.
+
+Roles:	
+
+Gathered all the reporting requirements from customer and preparing
+prototype model.
+
+Worked on the blue print and Technical specs documents for all the
+modules
+
+Analysis all Traditional Plans, sub plans.
+
+Coordinating & work assignment b/w team member.
+
+7	Project Name:
+
+                                 Inventory Control System    
+
+Client	Yogmani Group
+
+Organization	Techshot pvt ltd
+
+Duration	Aug 2010 to Dec 2010
+
+Team Size	3
+
+Component	Web Component
+
+Environment with Skill Version	Jsp, Servlet, java Script, Jquery, Ajax,
+Mysql.
+
+
+
+Project Description: 
+
+Inventory management is the active control program which allows the
+management of sales, purchases and payments. 	
+
+Inventory management software helps create invoices, purchase orders,
+receiving lists, payment receipts and can print bar coded labels. An
+inventory management software system configured to your warehouse,
+retail or product line will help to create revenue for your company. The
+Inventory Management will control operating costs and provide better
+understanding. We are your source for inventory management information,
+inventory management software and tools.
+
+Roles:	
+
+Gathered all the reporting requirements from customer and preparing
+prototype model.
+
+Worked on the blue print and Technical specs documents for all the
+modules
+
+Testing Dev code using Junit Tool.
+
+Coordinating & work assignment b/w team member.
+
+8	Project Name:
+
+    Purchase Order System (production and Sales)
+
+Client	NIC
+
+Organization	GVG Bytes Pvt Ltd
+
+Duration	             Jan 2007 to Dec 2007
+
+Team Size	4
+
+Component	Web Component
+
+Environment with Skill Version	Jsp, Servlet, java Script, Ajax, Mysql.
+
+
+
+Project Description: 
+
+The aim of this project is to make the website of PPAC in such a way so
+that it can be accessed very easily by the end user as well as by the
+administrator. The administrator can easily make addition, updating,
+edition and deletion in the website by simply using the interface
+provided. Also a user can interact easily with it and gather the
+required information.  User can also submit his/her feedback. This site
+is being made keeping all the security in mind. No one can directly
+access the admin page without logging in. Also a goggle search has been
+integrated on the website. Also a Download & Upload link has been
+provided on the administrator page to make the uploading and downloading
+of files and images task much easier.
+
+Roles:	
+
+Module testing
+
+Declaration
+
+I hereby declare that the information furnished above is true to the
+best of my knowledge and belief.
+
+		           
+

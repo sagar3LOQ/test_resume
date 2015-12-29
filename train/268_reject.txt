@@ -1,0 +1,298 @@
+Dontula Rajdeep	Hno : 7-134/20
+
+Sri krishna sai nagar colony,
+
+chintalbasthi, Malkajgiri,
+
+Hyderabad,Ap-500047
+
+
+
+Spring and hibernate: 3 years & current
+
+Hib:no
+
+Build tools:maven
+
+Db:mysql/sql server
+
+Uml design:no
+
+Application server: tomcat/weblogic/websphere
+
+IDE: eclipse
+
+To work in associative and challenging environment, which encourages
+continuous learning, provides exposures to new ideas and stimulates
+personal and professional growth.
+
+Summary
+
+3+Year: Presently working with Ebix software india pvt ltd, Since Dec
+2011 as Software  Engineer.
+
+Good exposure in development of web applications using java technologies
+(Core Java, Servlets, JSP), spring and Hibernate.
+
+Good Knowledge in Hibernate Framework, Spring Framework
+
+Good Knowledge in Tomcat, Eclipse and Maven.
+
+Successfully involved in a Product development named TPP which serves
+New Business and Underwriting for Insurance Industry.
+
+Energetic and self-motivated team player. Proven ability to work in both
+Individual and team environments with positive result.
+
+Has the ability to quickly adapt to new environments and technologies.
+
+	
+
+Technical Skills:
+
+Operating Systems	   :    Windows, Ubuntu.
+
+Languages and Script         :    JAVA 
+
+Servers                                 :    Web logic, Apache Tomcat.
+
+Frameworks                        :    Hibernate, Spring, Spring MVC
+
+Scripting	 	   :    UNIX Shell scripting
+
+RDBMS  		   :    Mysql, Mssql
+
+Servers                                 :    Tomcat.
+
+Tools                                     :    Eclipse, Maven.
+
+J2EE Technologies              :     JDBC, Servlets, JSP.
+
+Organizational Experience
+
+Bugolik Software Solutions (Sokrati) , Pune: March 2011 to September
+2011 as Software Engineer.
+
+Ebix Software pvt. Ltd, Hyderabad:  Dec 2011 to till date, as Sr.
+Software Engineer.
+
+Education
+
+M. Tech in Computer Science and Data Processing from IIT Kharagpur,
+April 2010.
+
+M. Sc in Physics from campus S.R.T.M.U, Nanded April 2007.
+
+Work Profile
+
+Company		: Ebix Software India Pvt Ltd, Hyderabad.
+
+Role			: Software Design Engineer
+
+Duration                           : Dec 2011 to Till Date
+
+Responsibilities & Job Profile:
+
+Project #1
+
+             
+
+ Project Title	        :     Liberty Life insurance
+
+ Client	              	        :     Liberty Mutual Insurance
+
+ Role                    	        :     Team Member
+
+ Team Size           	        :     20
+
+ Duration             	        :     July 2014 to till date
+
+ Environment       	        :     Java, GWT, spring, Hibernate, Activiti
+BPMN and MS SQL Server
+
+Description:
+
+Liberty life insurance project depends on our product PSS. Liberty Life
+insurance is an automation process of Liberty life insurance business,
+Where a producer gives the business to company and data will taken in to
+the system either by New business data entry screens or by e-
+application.  Based on the input data we do compensation for various
+Agents. 
+
+Responsibilities:
+
+Implemented Compensation module enhancements
+
+Understanding the functional requirements
+
+Involved in configuration changes
+
+Interacting with Base product team for the functionalities and 
+enhancements
+
+Integration testing, Identifying the issues and fixing them
+
+Analyzing the requirements, getting clarifications from BA, and
+developing accordingly
+
+Bug fixing across the modules
+
+Project #2
+
+             
+
+ Project Title	        :     Liberty Life insurance
+
+ Client	              	        :     Liberty Mutual Insurance
+
+ Role                    	        :     Team Member
+
+ Team Size           	        :     12
+
+ Duration             	        :     January 2013 to July 2014
+
+ Environment       	        :     Java, GWT, spring, Hibernate, Activiti
+BPMN and MS SQL Server
+
+Description:
+
+Liberty life insurance project depends on our product TPP. Liberty Life
+insurance is an automation process of Liberty life insurance business,
+Where a producer gives the business to company and data will taken in to
+the system either by New business data entry screens or by e-
+application.  Based on the input data we do underwriting for decision
+making. Underwriting is the process of Analyzing the Risk and making the
+decision. The Risk evaluation done through HLC (Health and Life Style
+Check).
+
+Responsibilities:
+
+Implemented underwriting module enhancements
+
+Understanding the functional requirements
+
+Involved in configuration changes
+
+Interacting with Base product team for the functionalities and 
+enhancements
+
+Integration testing, Identifying the issues and fixing them
+
+Analyzing the requirements, getting clarifications from BA, and
+developing accordingly
+
+Bug fixing across the modules
+
+Project #3
+
+            
+
+            Product Title		 : TPP (The Policy Processor)
+
+Role                             	 : Team Member
+
+Team Size		 : 8
+
+Duration			 : December 2011 to December 2012
+
+Environment		 : Java, GWT, spring, Hibernate, Activiti BPMN and MS SQL
+Server.
+
+Description:
+
+TPP is a New Business and Underwriting Automating system for Life
+Insurance. New Business captured into TPP either by Data Entry or App
+Import. Underwriting is the process of Analyzing the Risk and making the
+decision. The Risk evaluation done through HLC (Health and Life Style
+Check).As part of Risk evaluation Financial and Reinsurance Risk also
+considered. The system takes the decision by using Preferred Class Based
+or Preferred Point Based or Rating by Standard Tables based on the Risk
+evaluated. System also has manual underwriting where underwriter can
+override system decision according to his analysis.
+
+Responsibilities:
+
+Developed Underwriting module UI and functionality as per requirement.
+
+Written Spring Service Interfaces and their implementations.
+
+Integration testing, identifying the issues and fixing them.
+
+Code refactoring
+
+Developing use cases across modules.
+
+Bug fixes across modules.
+
+Company		: Bugolik Software Solutions (Sokrati) - India.
+
+Role			: Software Design Engineer
+
+Duration                           : March 2011 to September 2011
+
+Responsibilities & Job Profile::
+
+Manual testing of the FPC optimizer which is one of the algorithms to
+show the keyword search engine at the First page. Creating the test
+suite using shell script.
+
+Manual, Automation of the scheduler Application with manual testing and
+Bug reporting.
+
+Created a ubuntu live CD using remastersys with preloaded softwares of
+the company as part of disco project.
+
+Part of Development team in Disco project to develop intranet and social
+network as part of Disco project .
+
+ Vmware ESX server utililization in every project to reduce the number
+of systems to be used while manual Testing and its trouble shooting.
+
+Manual testing of Adscraper,page scrapper which takes a feed(.tsv) from
+a customer and uploads to the server and then checks the urls are
+validated or not using hertrix wrapper.
+
+Manual testing of notification reaper and working condition with
+scheduler. 
+
+Manual testing of rule based optimizer which creates a .tsv and give the
+feed to manual feed loader and creates an entry.
+
+Account level manageability.
+
+Personal Details
+
+Name			    :  Rajdeep Rajbabu Dontula
+
+Email Address		    :     HYPERLINK "mailto:rajdeep.dontula@gmail.com" 
+rajdeep.dontula@gmail.com ,  HYPERLINK
+"../../../../../Downloads/rajdeep.dontula@ebix.com"
+rajdeep.dontula@ebix.com 
+
+Permanent Address           :   H.No. 3-8-19, DRM Nilayam, KotaGalli,
+Nizamabad, Ap-503001.
+
+Marital Status           	    :   Married
+
+Nationality		    :   Indian
+
+Gender                                  :   Male
+
+Date of Birth                        :   11 November 1981
+
+Phone Number                    :   +91-9700052432
+
+
+
+
+
+
+
+
+
+
+
+	rajdeep.dontula@gmail.com
+
+Mob: +91 9700052432
+

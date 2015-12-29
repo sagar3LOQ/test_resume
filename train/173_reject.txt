@@ -1,0 +1,91 @@
+Sharaf. Satish Kumar
+
+Software Engineer,					                            			            
+
+CA Technologies, India.									
+
+Professional Summary
+
+Having around 4+ years of experience in Software development and
+extensively worked on web based applications.
+
+With Innovating thought process with proven track record with one patent
+and product level influenced ideas.
+
+And
+
+Good exposure to AGILE/SCRUM methodology of work.
+
+Good exposure to Test-Driven-Development (TDD) and Pair Programming.
+
+Solid knowledge in Java, OOP`s, Google Web Toolkit Frame Work.
+
+Very basic knowledge on Mainframe operations and RHEL.
+
+Professional Experience:
+
+Over 4+year Experience with CA Technologies since joined as fresher from
+Jan’2011 up to till date.
+
+Education Profile:     
+
+B.Tech in IT, NIT Patna with distinction in Information Technology, 2010
+with CGPA 8.48/10.
+
+Technical Skills:
+
+Java, OOP’s, Google Web toolkit, JUnit, MySQL, Algorithms and Data
+Structures, Web Services, Android SDK, HTML.	
+
+Awards:
+
+Patent: 
+
+ SECURE USER INPUT MODE FOR ELECTRONIC DEVICES USING RANDOMIZED
+MATHEMATICAL OPERATORS AND OPERANDS.
+
+Filed under application number: 14741946 at USPTO by CA Technologies.
+
+Above Award FY14 - For delivering working model of Focus Manager which
+improved the Chorus Investigator User’s 
+
+	Navigation across various panels in Investigator easily.
+
+Product Details:
+
+	
+
+Current Product:         CA Unified Infrastructure Management (CA UIM) 
+
+Environment: Java, UniREST, Jenkins, Maven, MySQL, Eclipse.
+
+CA Unified Infrastructure Management (CA UIM) is a scalable IT
+monitoring solution that provides 360-degree visibility into systems and
+infrastructure performance. It creates a single, unified architecture
+for both traditional and cloud environments, enabling you to proactively
+monitor performance and availability.
+
+Previous Product:          CA Chorus (R & D).
+
+Environment: Java, GWT/GXT v2.4, Teiid v8, H2,CA  DATACOM, CA Top
+Secret, JAX-RS, JBoss v7, System Z, Eclipse.
+
+CA Chorus is a revolutionary mainframe 2.0 management paradigm; it is
+the Next-Generation Mainframe Management Platform, which dramatically
+simplifies mainframe management.
+
+Innovations out of product experience:
+
+Focus Manager: Innovated a new and user friendly feature on the chorus
+platform which improved the user’s navigation experience. This fetch
+me up an above award of the quarter and stood as the first feature from
+India Technology Center which is been approved officially by on shore
+side.
+
+History Reader: Another feather in the hat of investigator which helps
+in getting the summary of historical data by summarizing the 100s of
+breadcrumbs in a single and small popup. Product owners created a User
+facing story.
+
+TECHPOINT PROFILE
+

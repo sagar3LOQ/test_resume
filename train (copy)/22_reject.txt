@@ -1,0 +1,354 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                              -  2
+year,cuurent                              
+                  
+
+Spring                                
+   - 
+5years,cuurent                             
+                   
+
+Web Services                        - 
+7.8years                                
+                
+
+Core Java                              - 
+2.5years
+
+Design Patterns                     -   
+singleton,factory
+
+UML design                          - No    
+
+Build Tools (Maven/Ant)  -    Maven/ant  
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Eclipse,netbean,RAD,PMD,sonar,weblogic,jboss
+
+ok for bitchemy
+
+Mulam Anilkumar 
+
+	
+
+Mobile: 09247592177
+
+Email: manil12121982@gmail.com
+
+Summary:
+
+
+
+7.10 Year’s of work experience in Software Development.
+
+Working as Senior Software Engineer on Java for Prokarma Softech Pvt
+Ltd., Hyderabad. 
+
+Strong skills and Experience in JSP,Servlets, Core Java,Spring ,Struts,
+Hibernate ,JMS,WebService,RestfulService,JSTL,Jquery,Ajax, ,Maven,ant.
+
+Leading a team of five to build and maintain a complex distributed
+Applications.
+
+Working with an Agile, Scrum methodology to ensure delivery of high
+quality work with every monthly iteration.
+
+Expertise in understanding and analyzing the User/Business Requirements
+and Software Requirement Specification.
+
+Good understanding of Software Development Life Cycle(SDLC), Agile
+Methodologies.
+
+Versatile in adapting and implementing the latest technologies in new
+application solutions.
+
+Good communication skills, adaptable to any situation and confident to
+take up Challenges.
+
+Professional Experience:
+
+
+
+Working as a Senior Software Engineer from Sep 2011 - till date in
+Prokarma Softech Pvt Ltd,Hyderabad, India.
+
+Worked as a Software Engineer from Sep 2010 – Sep 2011 in Prokarma
+Softech Pvt Ltd,Hyderabad, India.
+
+Worked as a Software Engineer from Jan 2009 – Apr 2010 in
+KarishmaSoftware, Hyderabad, India.
+
+ Worked as a Java Developer from Aug 2006 – Dec 2008 in Naipunya
+Sourcing, Hyderabad, India.
+
+Educational Qualifications:
+
+	
+
+Masters in Computer Applications from Godavari Institute of Engineering
+&Technology (Rajamundry) affiliated to JNTU-2006.
+
+Technical Proficiency:
+
+   	
+
+Operating Systems	MS-DOS, WIN95/98/00,WIN NT,XP
+
+Languages	CoreJava,SQL
+
+Web Technologies	HTML, JavaScript,Ajax
+
+J2EE Technologies	Servlets,Jsp,Struts,Spring,JDBC,EJB 3.0
+
+RDMBS	MySQL 5.0,Oracle 11g,DB2, SQL Server
+
+Tools	Net Beans 5.5, Net Beans 6.5, Eclipse 3.2
+
+Web Servers	Tomcat 5.5
+
+Application Servers	Weblogic 10.3,JBOSS 5.0
+
+
+
+Projects Exposure:
+
+
+
+Project #1:
+
+Title	: Standard work Management (SWM)
+
+Clients	: UNION PECIFIC RAIL ROAD(UPRR),USA
+
+Duration	       : Oct'13-tillDate
+
+Software	:Spring,java,JMS,WebServices,RestfulServices,
+Jquery,JavaScript,Hibernate,Eclipse, Oracle10g, JBoss
+
+Description:
+
+Standard Work management is standardized a work to Create work sheet is
+called standard work sheet(SWS). It Contains mainly modules like
+SWS,SWES,admin and Dashboard. user can create, edit and delete SWS of
+his SWS. Every SWS having some steps how to do the work. every step
+having some information relating to how to do the step and what are the
+necessary tools and material required is called Standard Work Element
+Sheet(SWES).Admin module has privileged to add common data and his
+department. dashboard is like a to view all information of  SWS. There
+are two type of users. Normal user and Admin.  Admin user can see all
+documents created by Normal Users. He can modify and delete the existing
+SWS and SWES. Reports generating using itext. 
+
+Responsibilities: 
+
+Designed and coded application components in an Agile environment
+utilizing a test driven development approach.
+
+Created and maintained project tasks and schedules.
+
+Worked in close cooperation with project managers and other functional
+team members to form a team effort in development.
+
+Collaborated with other members of the product development team.
+
+Coordinated configuration of back-end components in support of
+application development.
+
+Utilized pair programming approach to ensure high quality code.
+
+Developing Business logic using Spring
+
+Designing using jsp.
+
+Involved in UI testing along with Unit testing of Code.
+
+Project #2:
+
+Title	: Uniform Defect Record(UDR)
+
+Clients	: UNION PECIFIC RAIL ROAD(UPRR),USA
+
+Duration	        : Sep’12-Sep'13
+
+Software
+:Spring,Java/J2EE,JMS,webservices,Jquery,JavaScript,Spring,Eclipse,
+Oracle10g, JMS,weblogic10.3
+
+Description:
+
+Uniform Defect Record to create defects for locomotive based on
+station.UDR Projects is a tool to see all defects of the
+Locomotives.user can see edit the defect.UI  developed using Spring
+MVC,Spring service layer and Spring Jdbc.Dynamic Data populating using
+jquery.
+
+Responsibilities: 
+
+Designed and coded application components in an Agile environment
+utilizing a test driven development approach.
+
+Created and maintained project tasks and schedules.
+
+Provided programming estimates, identified potential problems and
+recommended alternative solutions.
+
+Developing Business logic using spring
+
+Designing using Jsps.
+
+Involved in UI testing along with Unit testing of Code.
+
+Project #3:
+
+Title	: Inbound Locomotive Planner(ILP)
+
+Clients	: UNION PECIFIC RAIL ROAD(UPRR),USA
+
+Duration	       : Sep’10- Sep’12
+
+Software	:Wicket,Java,JMS,web services,Jquery,JavaScript,Spring,Eclipse,
+Oracle10g, weblogic10.3
+
+Description:
+
+Inbound Locomotive Planner to create work Plan and Locomotive plan for
+train and locomotive. Any defects for a locomotive we have to create
+plan for that locomotive having the problem we update the date with
+which defect it is having.ILP having 4 batch jobs run every 15 mins they
+are create automatic work plans, inactivate and update the
+characteristics of locomotive. User also can update work plan.Reports
+generating using itext .
+
+Responsibilities: 
+
+Designed and coded application components in an Agile environment
+utilizing a test driven development approach.
+
+Created and maintained project tasks and schedules.
+
+Developing Business logic using spring
+
+Designing using wicket Pages,Panel,Jsp and HTML
+
+Involved in UI testing along with Unit testing of Code.
+
+Project #4:
+
+Title	: JHIS (Jeeva Healthcare Information System)
+
+Clients	: Life Spring Hospitals, Hyderabad (LHPL).
+
+Duration	       : Jul’09-Mar’10
+
+Software	: Struts1.2,AJAX,Spring,Hibernate,NetBeans6.7,Mysql 5.0,JBOSS
+5.0
+
+Reporting tool	:  iReport
+
+Description:
+
+The main functionality of this project is managing devices, integrating
+and managing various applications, data and business processes within
+and across organizational boundaries .It Contains modules like Masters,
+Outpatient, Inpatient, Maternity, Orw, Lab, Radiology, Pharamacy,
+OperationTheater, Billing, security, personel, payroll. All database
+operations using JPA. Reports of all the modules are generated using
+iReport. Reports of all the modules are generated using iReport. The
+Application incorporates an integrated computerized clinical information
+system for improved hospital administration and patient health care. It
+also provides an accurate, electronically stored medical record of the
+patient
+
+Responsibilities: 
+
+Developing Business logic using Struts Action classes. 
+
+Designing using  JSPs.
+
+Involved in UI testing along with Unit testing of Code
+
+Generated the reports using iReport
+
+Project #5:
+
+  
+
+Title		:  MBOSS (MagnusBackOfficeSupportSystem)
+
+      Client		:  Magnus School of Business
+
+     Software		:  Struts, Ajax, JSP, JavaScript,   
+
+                                  Tomcat5.5, MYSQL5.0, NetBeans5.5
+
+    Reporting tool	:  iReport
+
+    Duration		:  jan’08-Dec’08
+
+Description: Magnus School of Business is one of the business schools.
+It is having around 13 centers all over India. The objective of the
+project is to automate their Business Processes. It is a Web Based
+Application, which is developed using J2EE technologies using MVC
+Framework. It contains modules namely Masters, Marketing, Academics,
+Corporate, HR. Each module has got its own importance and most of the
+modules are based on Marketing, Academics which deals with the complex
+business processes of the Company. All the Database operations are done
+using the Stored Procedures, Views. Reports of all the modules are
+generated using iReport.
+
+Responsibilities:
+
+Developed Java Classes for different modules.
+
+Involved in Java script coding for different Screens.
+
+Generated the reports using iReport.
+
+Involved in UI testing along with Unit testing of Code.
+
+Project #6:
+
+
+
+Title		: Eye Hospital Management System
+
+Client		: Siloam Eye Care Hospital
+
+     Software           	: Servlets, JSP, HTML, JavaScript, Ajax,       
+                                                                        
+                                
+
+             Mysql5.0, NetBeans5.5
+
+     Reporting tool     	: iReport
+
+     Duration		: Aug‘06-Dec’07
+
+Description: This project developed for Siloam Eye Hospital is a one of
+the remote center of L.V.Prasad eye hospital, Hyderabad. It contains
+modules namely community, patient, Prescription, Surgery, Billing and
+Stock. It is a Web Based Application, which is developed using J2EE
+technologies using MVC Framework. Eye Hospital Management System is
+developed with the objective of streamlining the treatment flow of a
+patient in the hospital, while allowing doctors and other staff to
+perform to their peak ability, in an optimize d and efficient manner. It
+uses a network of computers to gather, process, and retrieve patient
+care and administrative information for all hospital activities to
+satisfy the functional requirement of the users.
+
+Responsibilities:
+
+Developed Java Classes for different modules.
+
+Involved in Java script coding for different Screens.
+
+Generated the reports using iReport.
+
+Involved in UI testing along with Unit testing of Code.
+
+      (M.Anilkumar)
+

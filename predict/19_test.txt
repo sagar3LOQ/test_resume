@@ -1,0 +1,217 @@
+ 
+
+Saurabh Pratap 
+Flat No. 101, Sai Samarth Terrace Apartment, 
+Vardayini Society, Pune, Maharashtra 411021 
+ 
+T: 8482930602 
+E: saurabh4808@gmail.com 
+
+ 
+ 
+
+Objective 
+
+Experience 
+
+In quest of career enrichment opportunities in Application Development with 
+an organization of high repute. 
+
+Software Engineer, 3DPLM Software Solutions Ltd.(Dassault Systemes, 
+Simulia Rnd) ​
+http://en.wikipedia.org/wiki/SIMULIA  
+http://www.3ds.com/products­services/simulia/overview/ 
+ 
+Pune, Maharashtra — June, 2012 ­  May 2015 (2 years and 11  months) 
+Domain​
+ ­ CAD/PLM 
+ 
+Platform​
+ ­ Microsoft Visual Studio 
+ 
+I joined as Software Engineer from campus placement in SIMULIA RESULTS APP team. 
+This team works on creating results features like Plots, Sensors, Curves and their 
+visualization etc., using High Performance Visualization (HPViz). Development done mainly 
+using Component Application Architecture(CAA) derived from Component Object Modeler 
+(COM) of Microsoft Object Model using C++ as base language. Shell script, Visual Basic 
+for Application (VBA) too used for overall software design, development and testing. 
+ 
+Projects worked upon: 
+ 
+1)  ​
+Design and development of Tabular Field Export in Simulia 3D Experience 
+related to creating textual dump of variable (pressure, velocity, stress etc ) in c.s.v 
+format and creating it’s PLM document in Enovia server. 
+ 
+2) Held code sessions with team to help them better understand about Client Servant 
+Architecture for Results App team. 
+ 
+3) Design and development of ​
+Enhancement of Legend of Plot in Simulia 3D 
+​
+Experience ​
+. This functionality allows user to interactively play with Legends. 
+            Specially asked by Apple for iPhone design and development in 3D Play. 
+ 
+ 
+Last Project: 
+ 
+Customization of lightweight data generation from Simulation results for 3D play 
+app​
+  ​
+https://itunes.apple.com/us/app/3dplay/id825988585?mt=8   
+ 
+ 
+
+ 
+
+Software Engineer, Siemens PLM Software 
+http://www.plm.automation.siemens.com/en_in/ 
+ 
+Pune, Maharashtra — June, 2015­ Till now (3  months) 
+Domain​
+ ­ CAD/PLM 
+ 
+Platform​
+ ­ Microsoft Visual Studio 
+ 
+I am currently working on Unigraphics/NX Routing platform solutions in C and C++.   
+●
+
+      Skills 
+
+●
+●
+●
+●
+●
+
+Education 
+
+Software Design Pattern: Component Application Architecture and Component 
+Object Modeler 
+Programming Languages: C, C++, FORTRAN, VISUAL BASIC, Pl/Sql ORACLE 9i, 
+Visual Basic, HTML, CSS, JavaScript (​
+http://www.codecademy.com/pratapi_48​
+) 
+Data Structures 
+Operating system: Windows XP/7/8 and Linux 
+Game Engine: Unity 3D 
+3D Modeling Packages:  MATLAB, CATIA V5/V6, Solidworks, 3D Experience 
+
+Graduation ­ National Institute of Foundry and Forge Technology , Ranchi, 
+Jharkhand  
+B.Tech Manufacturing Engineering— 2008­2012 
+Examination  
+
+University for Examination 
+
+Year 
+
+C.G.P.A 
+
+B.Tech 
+
+Ranchi University 
+
+2008­2012 
+
+7.47 
+
+ 
+Schooling ­ Kendriya Vidyalaya No.2, Shahjahanpur, Uttar Pradesh  
+— 1996­2008   
+Examination 
+
+Board of Examination 
+
+Year of Passing   Percentage 
+
+10th 
+
+C.B.S.E 
+
+2006 
+
+83 
+
+12th 
+
+C.B.S.E 
+
+2008 
+
+79.8 
+
+ 
+Subjects in 12th ­ Physics , Chemistry, Maths , Information Practices(Visual Basic 
+6.0 and PL/Sql oracle 9i) and English 
+
+Certification  
+ 
+ 
+
+1 ) HTML & CSS  
+Codecademy 
+ 
+certification URL : ​
+https://www.codecademy.com/pratapi_48 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+2) JavaScript 
+Codecademy 
+ 
+Certification URL : ​
+https://www.codecademy.com/pratapi_48 
+ 
+ 
+●
+
+Achievements 
+
+●
+●
+●
+●
+●
+
+  Developers profile on Hacker Earth 
+http://www.hackerearth.com/users/saurabh4808/ 
+  Won 3rd prize in Robotics in Pranav 2010, NIFFT, Ranchi 
+  Won 2nd prize in Robotics in Pranav 2009, NIFFT, Ranchi. 
+  Won 1st prize in Hindi Kavya Antakshari in 6th Class. 
+  Won 1st prize in Mono Acting in 6th Class. 
+  Played for School/College/Company football teams. 
+
+ 
+
+Hobbies 
+
+Social Activities 
+
+ 
+ 
+ 
+ 
+
+●
+
+Playing football, table tennis and PC games(Fifa , counter strike , Call of duty , 
+Battlefield etc) 
+● Follower of European football Leagues ­ Spanish La Liga , EPL , Serie A,  
+            German Bundesliga 
+●
+●
+
+In past worked with NGO Kartavya: An education project for slum kids. 
+Participated in the Cancer Awareness cum Sponsor Program under Nationwide 
+Cancer Control Program of the Cancer Aid Society. 
+
+

@@ -1,0 +1,210 @@
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate                                              -  2.6year&current                                           
+
+Spring                                                     -  2year&current                                          
+
+Web Services                                        -         1 year                                        
+
+Core Java                                               -   3.6years
+
+Design Patterns                                    -    worked
+
+UML design                                           -    no  
+
+Build Tools (Maven/Ant)                    -    Maven 
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+Tomcat/weblogic
+
+DB:oracle
+
+2ppl
+
+RAMAKRISHNA							
+
+Email: tech.ram.se@gmail.com				                                                                   Mobile: +91-8698015171
+
+
+
+Professional Summary:
+
+Possesses 3.6 years of professional IT experience in development and deployment of the J2EE Client/Server applications.
+
+Strong Level of Expertise in Core Java Concepts.
+
+Area of the expertise in server side programming using Java, JSP, JDBC.
+
+		Extensive exposure to MVC Architecture.
+
+Hands on experience on Application Server like Apache’s Tomcat, JBoss.
+
+Strong knowledge in Object Oriented Concepts (OOPS).
+
+Having good knowledge on ORM tool like Hibernate.
+
+Having good knowledge on Struts, Spring, WebServices
+
+Having good knowledge on AFF (Amdocs Internal)
+
+Having good knowledge on Fitensse Automation, ActiveVos, and Selenium.
+
+Having good communication and interpersonal skill.
+
+Good team member, positive attitude and result oriented self-motivated, quick learner, willing to new challenges & new technologies
+
+Professional Experience:
+
+ 
+
+		Worked as a Software Engineer for Infrasoft Technologies. From May- 2011 to Jan-14.  
+
+		 Working as a Software Engineer for Amdocs Development Center. From Feb- 2014 to till.  
+
+Educational Qualification:
+
+
+
+		M.C.A with 75% from S.K UNIVERSITY, Anantapuram, A.P. in 2011.
+
+		Oracle Certified Professional, Java SE6 Programmer.
+
+Technical Skills:
+
+
+
+ Languages			: Java/J2EE.
+
+ Operating System		: Windows XP / 7.
+
+ Database Server		: Oracle.
+
+ Web Technologies		: HTML, JavaScript, XML, XSL, XSLT, DTD, XSD.
+
+ JSE Technologies		: JDBC, JNDI
+
+ J2EE Technologies		: Servlets, Jsp, JMS.
+
+Application Servers		: Web logic, JBoss, Tomcat, and WebSphere.
+
+ Web Frameworks	   	: Struts, Spring (Core, Context, AOP, JDBC, ORM, Annotation)   
+
+ ORM Software			: Hibernate.
+
+ Distributed Technologies 	: WebServices (JAX-RPC, JAX-WS, JAX-RS)
+
+ IDEs 		     		: Eclipse, STS.
+
+ Tools				: Fitnesse, ActiveVos, Junit, CVS, SVN, Log4j.
+
+
+
+
+
+Project Profile:
+
+
+
+PROJECT -1:		Halo   
+
+Role:			Developer.
+
+Client:			AT & T, USA.
+
+Environment:	OOPS(Java), spring, Hibernate(ORM), Soap Web services, SoapUI, Junit, Oracle, Weblogic, ActiveVos, Fitnesse, EPC (Amdocs), Eclipse and Unix.
+
+      Duration:		 Feb-14 to till date
+
+
+
+Description:
+
+           Halo is a basically telecom Project, for providing services to the customer we need to do provisioning. AFF is a core product on which there is a customization layer OMX. I used to work on OMX. This project we provided MIS, IPFLEX, ACCESS services. 
+MIS (Managed Internet Service) is a transport layer onto which we can provide IPFLE:@BVOIP) services. OMX is a part of Orchestration i.e. the communication between various external platforms goes through OMX.
+
+
+
+ Responsibilities:
+
+Involved in Server-Side Development by Using spring and Web service.
+
+Involved in developing Soap Based Web service interacting WSDL.
+
+Involved in development of Controllers classes in Spring MVC. 
+
+Involved EPC Development and Configurations.
+
+Involved in development of Junit for Unit Testing.
+
+Involved Development of Fitnesse Automation with selenium.
+
+Involved in Development, Defect fixing and Sanity, 
+
+
+
+
+
+PROJECT -2:	Auto Business Maintenance System (ABMS)   
+
+Role:			Developer.
+
+Client:			Met vehicles, USA.
+
+Environment:	OOPS (Java), Spring (Core, MVC, AOP), Hibernate, WebServices (JAX- WS,   JAX-P, JAX-B, XML, XSD, DTD) SOAP, SoapUI, Junit, Log4j, Oracle, Weblogic and Eclipse, STS, Jasper Reports.
+
+      Duration:		 July-12 to Jan-14
+
+
+
+Description:
+
+           The project is basically related to automobiles. Main Aim of this project is to maintain the details of all vehicles which are manufactured by company in the web based Centralized database. It also maintains the distributor’s details. There will be online interaction between distributors and company management taking the orders from distributors and delivering the vehicles to them accordingly like model, color, etc. This will also provide online catalog to customers to choose their preferred choice. Top-level Management can view each distributor’s sales report on daily basis or monthly basis.
+
+
+
+ Responsibilities:
+
+
+
+Used Spring Framework for Dependency injection, Distributed Component, Spring DAO and integrated with Hibernate, Spring and web services API.
+
+Involved in developing STUB based Consumer interacting WSDL.
+
+Involved in development of Controllers classes in Spring MVC. 
+
+Used log4j for tracking errors and debugging the code.
+
+Conducted code reviews against coding standards and made sure the best practices are maintained in development process.
+
+
+
+Project Profile:
+
+
+
+Project # 3		: BRINGMEFOOD
+
+Role			: Developer.
+
+Client		             :  Salivation Delivers, UK.
+
+Technologies		: Core java, JSP, Struts, Hibernate, Oracle, Tomcat and Eclipse. 
+
+Duration		:  Sep-11 to July-12
+
+Description:
+
+Bring me food is a web based enterprise portal, which facilitates the end user to have his favorite item to be delivered to the address specified. The portal will manage all the transactions through a payment gateway. The system basically contains the hierarchical levels as admin, vendor and the customer. The customer can place an order to the nearest restaurant from his place just entering the post code or dish. The system maintains all the history of orders related to the customer, so that it will be helpful for the customer to order the same menu. Also he can choose some of his orders as his favorite orders.
+
+Responsibilities:
+
+	Responsible for testing and validation of application based on the user data.
+
+	Developed different JSP documents and Action Class Using Struts
+
+Involved in development of DAOs, using Hibernate
+
+Conducted code reviews against coding standards and made sure the best practices are maintained in development process.

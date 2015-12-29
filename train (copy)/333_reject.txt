@@ -1,0 +1,190 @@
+Spring:2 year
+
+Hib:2 years
+
+Web services:
+
+6.5/8/30days
+
+11AM
+
+Asutosh Swain									
+
+  asutosh.swn@gmail.com
+
+Phone: +91 7795818182, 91 8884663221
+
+OBJECTIVE:
+
+Seeking an opportunity to utilize career experience, skills and
+education to contribute organizational objectives and excel as an
+accomplished IT professional.
+
+SUMMARY:
+
+Over 3 years 10 months of experience in Java and J2EE technologies. 
+
+Strong working experience in Web development using Java, Servlet/JSP,
+spring, Hibernate & Struts Frameworks.
+
+Good Exposure to Spring MVC as well as Struts MVC.
+
+Good command over Spring IOC module and Hibernate mappings.
+
+Well versed in both JDBC and Hibernate for the database connectivity. 
+
+Well practiced with integrating struts, spring and hibernate. 
+
+Exposure to multithreading, exception and collections.
+
+Worked extensively with Application Servers like Apache Tomcat, Web
+logic. 
+
+Strong expertise in developing user-friendly web interfaces using HTML,
+JSP technology.
+
+Good experience in application development using IDE’s likes Eclipse
+Indigo, My Eclipse.
+
+Knowledge in applying Object Oriented Programming (OOPs) & Design
+Patterns in application development.
+
+SKILLS
+
+Programming Languages:		Java, J2EE
+
+Frameworks:				Spring, Hibernate, Struts
+
+Web Technologies:			HTML/ (HTML-5), Thyme leaf, XML, Java Script, Maven,
+AJAX, JQUERY
+
+Operating System:			Windows XP/7
+
+Database:				Heidi SQL, Oracle 10g (SQL & PL/SQL)
+
+Web servers:				Apache Tomcat 5.0
+
+IDE’s Used:				Eclipse, My Eclipse 6.x
+
+EXPERIENCE SUMMARY:
+
+A total of 3 years 10 months of experience in Java and web applications.
+
+Worked as a Software Engineer at G2 Evolution Pvt Ltd., Bangalore.
+
+Working as a Software Engineer at Mindtree Mind, Bangalore.
+
+PROJECTS:
+
+#1- Avis & Budget Group: - TT-ABG-SEO-UPDATES (Phase – I & II)
+
+Avis
+
+Budget
+
+Technologies: J2SE, J2EE, Spring 3.0, HTML5-Thymeleaf, Maven, WebLogic,
+JS, CSS, Java Script
+
+Project Synopsis:  
+
+          		 It is a SEO-UPDATE projects, the main objective of this
+project is to increase the number of unique pages and Google ranking for
+which the website is more visible to user. For TT-ABG-SEO-UPDATES, we
+are using Spring MVC and Thyme leaf.
+
+Responsibilities: 
+
+Developed the front end design using Spring MVC.
+
+Developed view page using Thyme leaf.
+
+Developed and modify CSS and JS.
+
+#2- Property Bazar
+
+Technologies: J2SE, J2EE, Spring 2.5, Hibernate3.6.5, Heidi SQL, maven,
+tomcat7 to till date
+
+Project Synopsis:  
+
+          		 Property Bazar is a Real Estate project and developed using
+J2EE technologies. The main aim of this project is to provide
+professional services for buying, selling, leasing and renting of
+commercial, industrial, IT, institutional, retail and residential
+properties. Here the web-admin can control the total site through his
+admin panel. It has tie-up with more than 50 Builders. Web-admin is the
+authorized person to add project. He can change the total look of this
+project. User can search by searching required information
+(City/Builder/Project Name).This project mainly classified in to two
+modules.
+
+	
+
+Responsibilities: 
+
+Developed the front end design using Spring MVC.
+
+Written  hibernate to fetch and manipulate data from database
+
+Implemented MVC design pattern. 
+
+#3 – Hotel Portland Integration
+
+Technologies: J2SE, J2EE, Struts1.3, Hibernate3.6.5, Oracle10g, tomcat5 
+
+Project Synopsis:  
+
+		Hotel Portland Integration is an e-commerce enabled portal designed
+and developed using J2EE technologies. The main aim of this project is
+to reserve rooms to Customer by searching required information given by
+customer. Here the web-admin can control the total site through his
+admin panel. It has tie-up with more than 3000 Hotels. Web-admin is the
+authorized person to add clients. He can change the total look of this
+project. Reporting Manager Web application will help web-admin to track
+the bookings of the customer by selecting dates. 
+
+Roles and Responsibilities:
+
+Front end development using Struts1.3 framework.
+
+Developing Presentation layer by using JSP.
+
+developing Java applications using Eclipse and deployed in Tomcat7 web
+server.
+
+  
+
+Strengths
+
+Very active, Positive, logical & more over a good team player.
+
+Having 3Ds (Desire, Determination, Dedication) towards work.
+
+Significant Achievements
+
+Awarded prizes for Math contests.
+
+Bagged trophies as a Cricket all-rounder in School, College and district
+levels.
+
+Educational Profile
+
+ 
+
+BCA, bachelor in computer application in ‘F.M University’ Orissa,
+2009.
+
+CHSE have completed from MHDM College under ‘Council of Higher
+Secondary Education’.
+
+BSE have completed from Chhatia High School, Chhatia under of ‘Board
+of secondary Education’.
+
+				
+
+Java, Spring, Hibernate, Struts				
+
+	
+
+Java, Spring, Hibernate, Struts					
+

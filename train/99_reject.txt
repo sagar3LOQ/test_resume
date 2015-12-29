@@ -1,0 +1,403 @@
+MNNIT Allahabad                                                             
+
+		
+
+Prashant Chauhan
+
+M.Tech. GRS (CSE)  
+
+Email:  pchauhan.sa@gmail.com
+
+Mobile No: +91-991-600-6860
+
+
+
+Career Objective:
+
+
+
+To acquire a challenging Position in an Environment Where I can best utilize my skills and education.
+
+As of now I have 5+ Years of experience in the Information Technology. As part of my assignments, I have been in Requirement Analysis, Application 
+
+, Application Maintenance, Functional Studies, Quality Reviews and deployment. 
+
+
+
+PROFESSIONAL SUMMARY: 
+
+            
+
+Having 5+ years of Experience in IT Industry in Developing JAVA and J2EE applications using Web logic, Jboss, Tomcat and Eclipse.
+
+
+
+Good Experience in Developing Applications using JSP, Servlets, EJB ,JMS and JDBC 
+
+
+
+Good Implementation Knowledge in Struts , Spring  and JSF Framework.
+
+
+
+Good Implementation Knowledge in Hibernate Framework.
+
+
+
+Good Implementation Knowledge in J2EE Design Patterns.
+
+
+
+Good Knowledge in Restful Web Services.
+
+
+
+Good Knowledge in EJB3 and JPA.
+
+
+
+Good Knowledge in XML (SCHEMA, DTD, SAX, DOM , JAXP, JAXB, XSLT).
+
+
+
+PROFESSIONAL EXPERIENCE:
+
+
+
+Working with Marlabs Software Pvt.  Ltd. as an Software Developer from Oct. 2014 to till date.
+
+Worked with Global Space Technology Pvt. Ltd. (July 2013 – Oct. 2014) as Software Engineer (1 Years 3 Month).
+
+Worked with Vision Catalyst Software Services Pvt. Ltd. (January 2008 – July 2011) as Software Engineer (3 Years 6 Month).
+
+
+
+
+
+
+
+
+
+
+
+
+
+SKILL SET SUMMARY:
+
+
+
+Operating System
+
+Windows Family
+
+Languages
+
+Java, SQL, PL/SQL
+
+Application/Web Servers
+
+Weblogic, Tomcat, Jboss, Web Sphere, WildFly, Geo Server
+
+J2EE Technologies
+
+JDBC, Servlets, JSP, EJB, JMS
+
+XML Technologies
+
+Schema, DTD, SAX, DOM,JAXP,JAXB,XSLT
+
+RDBMS
+
+Oracle, MySql
+
+Frameworks
+
+Struts, Hibernate,  Spring, JSF
+
+Tools
+
+Web Technology
+
+IDE
+
+GIS Software
+
+Log4j, ANT, JUnit, Eclipse.
+
+ HTML5, XML,CSS, JAVA Script.
+
+Eclipse, MyEclipse, NetBeans.
+
+ ArcGIS 10, ILWIS, ERDAS IMAGINE. 
+
+
+
+PROJECT SUMMARY:
+
+Project #	 1
+
+		Title	         :   ENotebook
+
+		Client	         :   Sigma Aldrich
+
+		Role             :   Team Member
+
+		Team Size     :   6
+
+Environment        :   Java 1.7, JSF2.x, DataStax 2.1.3, EJB3.2, Cassandra 2.0.7,
+
+      Restful Web Service, Advance Rest Client, XHTML, PMD.                           
+
+Application Server:   Wildfiy 8.2
+
+Role                     :   Team Member
+
+ 
+
+Description: 
+
+                      E Notebook platform, lets users organize their thoughts, ideas and data into the real research story - much as a paper notebook does, but with the benefits of sharing, searching, digital signatures, templates and more. Sigma protects your R&D investment by ensuring researchers can easily create, organize, share and reuse their research records and scientific knowledge. Sigma lets users organize their thoughts, ideas and data into the real research story much as a paper notebook does, but with the benefits of sharing, searching, digital signatures, templates and regulatory compliance.
+
+ 
+
+Roles /Responsibilities:
+
+ 
+
+Responsible for developing Application Front end using XHTML’s.
+
+Developed JPA and DataStax Components for DB interaction.
+
+Implemented Controller Logic using Managed Bean.
+
+Implemented Front Controller and MVC Design Patterns.
+
+Implementing Client Code for Restful Web Services.
+
+Bug Fixing
+
+	
+
+Project #2	
+
+		Title	         :   Health Insurance System
+
+		Client	         :   MediBank, Melbourne.
+
+		Role              :   Team Member
+
+		Team Size     :   8
+
+		Duration	:   July 2013 to Oct. 2014
+
+		Environment:  Java, JSP, Struts, Spring, Hibernate, Oracle and Tomcat
+
+		Description	:	
+
+		HIS (Health Insurance System) Application will be implemented as a product which will be useful various companies offering Health Insurance .Once Customer takes the Health Insurance; we can add all information about customer including personal, insurance details etc. Customer premium details will be stored in HIS and then will be tracked. When customer gets the health problem and joined in the hospital, then customer should collect all the bills and submit to Company. Later company people will verify the details whether it is correct or not and then enter the verification details into the HIS. Credit manager verifies and then sanctions the amount for customers.
+
+		
+
+	Responsibilities:
+
+
+
+Written JSPs and Action Classes as per the Requirement.
+
+Implemented Form Beans and their Validations. 
+
+Implemented Page layouts using Tiles Framework.
+
+Written Spring Service Interfaces and their implementations.
+
+Written DAOs and their implementations With Hibernate.
+
+Written Hibernate Mappings.
+
+Implemented Web services (XML,XSTL) .
+
+
+
+	
+
+Project #3	
+
+Client		:     AIB Bank
+
+	Team Size		:    11
+
+	Role		:    Team Member
+
+	Duration		:    Aug 2009 – July 2011
+
+Environment	:    Java, JSP, Struts, EJB, Hibernate, Oracle and Weblogic
+
+Description     : This application was developed for AIB Bank. This application has 3 modules. One is admin Module, second is Customer Module and third is reporting Module .Admin Module will be used by internal employee of the Bank which provides the facility to admin Login, add, update account etc. Customer Module will be used by Customers online which provide facility for Customer to check their balance, check Address to send various requests to Bank etc. Customer Module again has two Modules. One is Debit card Module and second is credit card Module. 
+
+
+
+	
+
+	Responsibilities:
+
+
+
+Implemented JSPs and Action Classes as per the Requirement.
+
+Implemented Form Beans and their Validations using Validation Framework.
+
+Implemented Custom Validations as per the Requirement
+
+Implemented Page layouts using Tiles Framework.
+
+Written Session Beans and MDB’s.
+
+Written DAOs and their implementations With Hibernate.
+
+Written Hibernate components.
+
+Implemented Web services(XML,XSTL)
+
+
+
+Project #4
+
+	Title			 :  Online Medical Maintenance system			     
+
+Client			 :  Bayer HealthCare
+
+	Role                                 :  Team Member
+
+	Team Size                       :  8
+
+Duration		 : Jan 2008 to July 2009.
+
+Environment		 :  Java, JSP, Struts, JDBC, Oracle and Tomcat
+
+Description:
+
+       The project titled Online Medical Maintenance System is a compressive system that integrates all the departments in a hospital and automates most of its major functions. This project is to keep track the patient medical details in a Hospital Management Systems. It maintains the information of the patients such as the chief complaint of the patient, history of present illness, current medications, patient’s past medical history, family history, allergy history and immunization history, etc.
+
+
+
+Responsibilities:
+
+
+
+Implemented JSPs as per the Requirement.
+
+Implemented Bean Classes.
+
+Implemented Validations for Form Data
+
+Implemented Custom Validations as per the Requirement
+
+Implemented Page layouts using Tiles Framework.
+
+Written Business Services.
+
+Written DAOs and their implementations With JDBC.
+
+Implemented Web services(XML,XSTL)
+
+
+
+
+
+Educational Qualifications:
+
+
+
+U.G.
+
+University
+
+Year
+
+Percentage/Grades
+
+M.Tech.(GRS)CSE
+
+M.N.N.I.T.
+
+2013
+
+7.2/10
+
+B. E. (CSE)
+
+R.G.T.U.
+
+2007
+
+67.31
+
+
+
+Areas of Interest:
+
+
+
+Java Programming 
+
+Database Management System
+
+Operating System
+
+Web Technologies
+
+
+
+M. Tech. Dissertation:
+
+
+
+Title: Transportation Positioning and Navigation system for smart phone based on GPS .
+
+Achievements/Awards:
+
+
+
+NCC Cadet and served as a Sergeant. 
+
+Attend NCC “CATC” camp at Bhopal Madhya Pradesh.
+
+Got “A” grad in AISECT computer exam in 9th class.
+
+Was a Captain of school Basketball and Football team.
+
+.
+
+
+
+Extra-Curricular Activities:
+
+
+
+Worked with “SMART” NGO from 2003 to 2011 in Madhya Pradesh. 
+
+Attend GEOMATRIX 2012 international conference in IIT BOMBAY.
+
+Workshop on ANDROID Application development in MNNIT ALLAHABAD in march-2012.
+
+Training and Placement Coordinator of GIS & RS Branch in MNNIT ALLAHABAD.
+
+
+
+Hobbies:
+
+
+
+Playing Basketball, Football and Badminton. 
+
+Writing Poetry and Story, reading Comics and Novels.
+
+
+
+
+
+I hereby declare that all the information given is correct to the best of my knowledge.
+
+Date: 
+
+Place:Bangalore									(Prashant Chauhan)

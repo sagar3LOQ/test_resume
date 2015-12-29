@@ -1,0 +1,221 @@
+Spring: 3 year& current
+
+	Hibernate: 3 year
+
+	Webservices: 3 year
+
+	DB: oracle
+
+	Size: 4members
+
+	Appl server: tomcat
+
+	20/40%/60days
+
+	Pradeep Kumar C                                    pradeepc.hyd@gmail.com, 9177887783
+
+		Passionate and results-driven professional with expertise in java/j2ee and client side technologies. Hands on experience involving all stages of software development including requirements analysis, design, development, testing and support. Experience in using both waterfall and agile development methodologies.
+
+Summary
+
+Having overall 8+ years of working experience.
+
+Experience in Java/J2ee.
+
+Experience in JavaScript and JS libraries like jquery, Backbone, requireJS etc.
+
+Experience in Spring framework.
+
+Currently working for product development company (KonyLabs) in Hyderabad. 
+
+
+
+Technical Skills
+
+Programming Languages
+
+Java, JavaScript
+
+Server Technologies
+
+Servlets, JSP, Spring, sql, pl/sql
+
+Client Technologies
+
+JavaScript,  jquery, backbone, requireJS, Ajax, json, html, css
+
+Database
+
+Oracle
+
+Version control 
+
+Tortoise SVN
+
+Operating System
+
+Windows, Linux
+
+Development Tools
+
+Eclipse, SQL Developer, Firebug, Code Collaborator, JMeter.
+
+
+
+Education
+
+Bachelor of Engineering (Electronics and Communication) from Birla Institute of   Technology, Mesra, Ranchi in June 2006
+
+
+
+Professional Experience:
+
+	1) KonyLabs (Aug, 2014 - Till date) – Product Development Lead
+
+	2) Ivycomptech (Dec, 2008 - Till date) – Systems Analyst
+
+	3) GlobalLogic (Jun, 2006 - Sept, 2008) – Software Engineer
+
+
+
+Career Highlights:
+
+	Two times exceptional performer award in Ivycomptech.
+
+
+
+
+
+
+
+
+
+Work Experience
+
+
+
+KonyLabs:
+
+KonyLabs develops platforms and products which enable rapid development of mobile applications. I am part of Apps team which uses kony platform to develop various mobile applications.
+
+Kony Mobile Applications (Apps) need to be configurable and customizable with no change done on the generated binary file. By configurable and customizable we mean - UI elements, UI element to DB Table mapping etc. should be tailored to the client needs. Apps built on App-Foundation provide configurability with no change to generated binary file by leveraging capabilities of Kony Visualizer. 
+
+Kony Mobile Customer Relationship Management lets you put account, contact, Activity, opportunity, Leads information right into your sales teams' hands - on any device, anywhere, anytime. Faster access to critical sales data gives you more efficient and more productive sales.
+
+Technologies Used: Java/J2ee, JavaScript
+
+Responsibilities: 
+
+Lead Developer for entire backend integration of CRM SAP app.
+
+Lead for mobile CRM SAP app.
+
+Coding, debugging and bug fixing.
+
+Code reviews. 
+
+
+
+Ivy Comptech:
+
+Ivy Comptech is a product development company with domain expertise in online gaming. Designing core systems based on object oriented design principles, Spring, distributed cache, multi-threading, tuning at all levels with focus on performance and the scale, high volume websites, configurations of servers (tomcat/apache web servers), PLSQL, SQL are few of the important activities at Ivycomptech.
+
+I was a member of casino team which is responsible for casino Game server, casino game clients, various web applications and admin tools. 
+
+
+
+Following are the projects which I was involved with:
+
+Vendor Integrations:
+
+This project involves making third-party games available in bwin.party platform. These games are very popular in gaming world and making these games available to bpty players required integration of two platforms - bpty and vendor. Both systems interact over wire via web service calls using soap messages. 		
+
+	We had to integrate 4 vendors with our system. The system architecture involved creation of core gaming service and adaptors for each of the vendors. I was lead developer involved in writing the gaming service from scratch. This service exposes generic apis which will cater to all operations required by vendors to facilitate game play. All transaction management is done in this service. It does interact with all other bpty platform services to perform operations like authenticate player, debit/credit amount from players account, getting players balance, getting fx rates for currency conversion etc.
+
+Technologies used:
+
+		Core Java, Spring Core.
+
+Responsibilities: 
+
+Owner and lead developer for gaming service and all extension services.
+
+Coding, debugging and bug fixing.
+
+Code reviews. 
+
+
+
+2) Web Applications:
+
+Bwin.party offers various online applications where players can visit and play casino games of all kinds. The websites which offer casino games are:
+
+		1) PartyCasino
+
+		2) Bwin casino and Games
+
+		3) Danskespill casino
+
+		4) Gamebookers casino
+
+		5) Partybets casino
+
+		6) PlayIT
+
+I was involved in the development of all above web apps. The client in all above cases is a single page web application and was totally developed in JavaScript. Backend called as lobby server is a web application developed using spring mvc.	
+
+Responsibilities included requirement analysis, design, development and maintenance of both client and server applications. It also included huge integration effort with various thirdparty websites.	
+
+
+
+Technologies used:
+
+		Backend: Java, Spring mvc.
+
+Client: JavaScript, jquery, backbone, requireJS, Ajax, html5, css.
+
+Responsibilities: 
+
+Lead developer of all web applications.
+
+Coding, debugging and bug fixing.
+
+Code reviews. 
+
+
+
+
+
+3) LMT:
+
+Lobby management Tool is an admin tool which is used to create and customize the lobby content served to the players. Lobbies created using this tool are persisted in DB. Game servers and lobby server pick the contents from db at runtime and serve the same to the players. This tool gives product manager the flexibility to change the content served to players at runtime.   	
+
+Responsibilities included requirement analysis, design, development and maintenance.
+
+Technologies: 
+
+Java, spring mvc, jsp, JavaScript, jquery.
+
+Responsibilities: 
+
+Senior developer.
+
+Coding, debugging and bug fixing.
+
+ 
+
+4) Casino Game Server
+
+Game Server serves is the container hosting all the gaming logic.  The main functionalities of game server include - message processing, front end management, lobby management, configuration management, fraud prevention, reloadable behaviour, asynchronous event handling, synchronous message passing through RMI, game tables for handling the casino game play. Multiple game servers can be deployed to perform the same task allowing load balancing across game servers.		
+
+I was involved with development of event framework where casino got integrated with various other systems like EDS, loyalty etc.
+
+Technologies:
+
+		Core java, Spring Integration, Spring remoting, RMI, JMS.
+
+Responsibilities: 
+
+Senior developer.
+
+Coding, debugging and bug fixing.

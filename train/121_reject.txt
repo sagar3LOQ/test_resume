@@ -1,0 +1,358 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+             -  2
+year                                  
+             
+
+Spring                  
+                              - 5 year &
+current
+
+Web
+Services                                
+    - 
+3years   (REST)                           
+                 
+
+Core
+Java                                  
+         -  9years
+
+Design
+Patterns                               
+-   aware 
+
+UML
+design                                 
+      -    class and sequence diagrams
+
+Build Tools (Maven/Ant)                 -   
+Ant/Maven
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Eclipse,coboltura,TMD,tomcat
+
+Ready to work for bitchemy is aware about the project
+
+Sanjeev Kumar
+
+Contact No: +91-9908991116
+
+Email id:   HYPERLINK "mailto:sanjeevkchopra@gmail.com"
+sanjeevkchopra@gmail.com 
+
+CAREER SUMMARY
+
+Around 9 years of experience in software development.
+
+Currently working as Principal Engineer with Pramati Technologies Pvt
+Ltd, Hyderabad.
+
+Previously worked as Consultant with Sierra Atlantic Software Services
+Ltd, Hyderabad.
+
+TECHNICAL SKILLS
+
+Languages:	Core Java, SQL, HTML, JavaScript
+
+Technologies:	Servlets, JSP, JDBC, Struts, Spring, Spring MVC, Spring
+JDBC, Hibernate, JMS, Lucene, SOLR, JUnit, Ant, Maven, Shell Scripting
+
+Databases:	Oracle, DB2, MS SQL Server, MySQL
+
+Tools: 	Eclipse, Java Service Wrapper by Tanuki Software, Toad, SVN,
+Aqua studio, Perforce
+
+App Servers:         Weblogic 8.1, Tomcat, ActiveMQ
+
+OS: 		MS Windows, Redhat Linux, Solaris 5.9, IBM AIX 4.3
+
+Evaluated Apache ServiceMix for OSGi container 
+
+PROFESSIONAL EXPERIENCE
+
+Client: 		Castlight Health
+
+Project: 	Search and Classification Module (SOA Developer)
+
+Duration:	April 2014 – Till date
+
+Environment:  	Spring, Lucene, Spring JDBC, JUnit, Ant, Tomcat, Eclipse,
+Git
+
+Role and Responsibilities
+
+Responsible for development/enhancement of Search and Classification
+Module. Search service is responsible for various kind of providers
+with/without prices based on query specified by uses. Search uses
+classification service in order to find the right kind of
+ontology(procedures, specialties etc) to use for find ing providers.
+Classification is based on Lucene indexes.
+
+Client: 		RPX Corporation
+
+Project: 	Developing platform for heuristic prediction based on SOLR 
+
+Duration:	Oct 2013 – March 2014
+
+Environment:  	SOLR, Lucene, solrj, Spring, Spring JDBC, JUnit, Maven,
+Tomcat, Eclipse
+
+Role and Responsibilities
+
+Client had working model of SOLR based patent management. It consists of
+finding future trends for possible patent litigations etc based on
+current acquisition and merger of various organizations. We had  develop
+an application which business users can configure and run to see various
+results heuristically. 
+
+Client: 		Epocrates Inc
+
+Project: 	Common Services
+
+Duration:	Nov 2011 – Sept 2013
+
+Environment:  	Spring, Spring JDBC, JMS, Apache HTTP Client, OSGi,
+Oracle, JUnit,  Ant, Maven, Tomcat, ActiveMQ, Apache ServiceMix, JMeter,
+Perforce, Eclipse
+
+Role and Responsibilities
+
+Developed a very complex Labs module of Electronic Health Record
+application. This module can be used to place lab order on behalf of
+patient. Lab order placed can be processed through “paper” process
+in which all medical reports need to be collected by patient.
+Alternatively, orders can be processed electronically in which reports
+will be made available whenever ready. 
+
+Developed APIs for other services such as Patient Service, Lookup
+Service etc.
+
+Developed framework to support communication between client and server
+over HTTP.  As of now it is default mode communication.
+
+Migrated existing project following Ant structure to follow Maven
+project structure conventions.  It includes changing package structure
+and module name of existing services to follow maven conventions while
+assuring all test cases are passing.
+
+Evaluated OSGi framework using Apache ServiceMix. Since we had
+requirement to have backward compatibility and concurrent version
+support for same service we thought of evaluating OSGi.
+
+Converted Collaboration Network API to use full text base search using
+Lucene and SOLR. This involved sever side changes to connect to SOLR
+webapp using solrj.  Wrote queries to work with full-import,
+delta-import and real time update.
+
+Developed load testing script to load test CS server using JMeter.
+
+Client: 		Depotpoint Inc.
+
+Project:	 	Depotpoint REO, Application to Send Image Data
+
+Duration:	Nov 2008 – Oct 2011
+
+Environment:	Struts, Hibernate, JAAS, docx4j, JavaScript, JQuery, MySQL,
+Ant, Tomcat, Tortoise SVN, Windows XP
+
+Roles and Responsibilities
+
+Developed business flow as per requirement for different RMC. This
+involved creating  handlerXML to handle current action, resultXML to
+generated next set of action id and putting view in place for each flow
+depending upon current RMC and action id and role combination. Apart
+from this we had to take care of which part to display in JSP based on
+current RMC, action and current role.
+
+Implemented JAAS layer for authentication. Since user has to go various
+rules such as maximum no of attempts allowed during login, we decided to
+implement authentication as separate JAAS layer.
+
+Developed flow to generate AR/AP reports.  Requirement was to generate
+unique report each time user trigger this report generation with in
+userId. We used ThreadLocal variable to keep user state and DB function
+to get next AR/AP id from DB to generated reports.
+
+Use case was to replace text placed between delimiter with other text
+using docx4j. But tools may generate document where text between
+delimiter may be split into multiple terms but still displayed as single
+term. I worked out algorithm which would take docx document and will
+combine text spread over multiple terms to form single term consist of
+text. This way single term can be easily replaced with other text using
+docx4j apis.
+
+Developed TrackPoint Image service.  TrackPoint REO application would
+send images of different properties to this service. This send process
+is triggered using Quartz job scheduler. On receiving property images
+this will store images in DB which will ultimately displayed by a
+different application.
+
+Developed stored procedure to perform data migration for MySQL.
+
+Client:   	Applimation
+
+Product: 	Applimation Informia Development
+
+Duration: 	Nov 2007 – Aug 2008
+
+Environment: 	Spring, Spring MVC, Spring JDBC, JavaScript, JUnit,
+Tomcat, MS Windows XP, Tortoise SVN, Aqua studio, Oracle, DB2, SQL
+Server
+
+Roles and Responsibilities
+
+Worked on developing User Create/Edit pages using Spring MVC. This page
+takes care of assigning various roles to user.
+
+Worked on developing Data Access classes and service that generate the
+DDL for tables and indexes.
+
+Worked on developing DB specific utility method that gives index and its
+column information for tables.
+
+Developed utility methods that delete the file on session expiration.
+
+Developing Time series Graphs for Informia Archive Dashboard.
+
+Worked on standalone utility that compares the entities current and
+previous version and prepares the report of differences (if any).
+
+Worked on the standalone job that prepares the script using which
+mainframe agent has to be prepared.
+
+This job takes the table structure from Applimation home database (which
+may be Oracle, DB2 etc.) convert its converts these scripts specific to
+DB on ZOS mainframe.
+
+Client:		PRIMEDIA USA
+
+Product: 	OSCAR Implementation
+
+Duration: 	Jul 2007 – Oct 2007
+
+Environment:	Spring, Spring MVC, Hibernate, JavaScript, Tomcat, MS
+Windows XP, Tortoise SVN, Aqua studio
+
+Role and Responsibilities
+
+Worked in developing Magazine module.
+
+Developing Sweepstakes module and Store Admin module.
+
+Client: 		Party Gaming
+
+Product: 	Party Gaming Reconciliation Tool
+
+Duration: 	Apr 2007 – Jun 2007
+
+Environment:	Struts, JDBC, SQL, PL/SQL, JavaScript, Tomcat, MS Windows
+XP
+
+Roles and Responsibilities
+
+Worked as developer in building a reconciliation tool that would
+reconcile the various transactions as recorded by the source system
+(Cashier System, but delivered from the existing warehouse) as well as
+PSP.
+
+Developed three modules of Reconciliation Tool.
+
+Three modules include PSP Definition and File consistency Check, Run
+Report Window.
+
+Client:		Juniper Networks
+
+Product: 	Juniper Maintenance and Support
+
+Duration: 	Oct 2006 – Mar 2007
+
+Environment:	Jakarta Struts framework, Sun Solaris, Windows XP & Windows
+2003 Server, BEA Weblogic 8.1
+
+Roles and Responsibilities
+
+Worked in Struts environment to during various enhancement activities.
+
+Provided maintenance and support.
+
+Client: 		Taxware Inc
+
+Product: 	TAXWARE -OS SERVICE WRAPPER FOR SAP ADAPTOR
+
+Duration: 	Jun 2006 – Sep 2006
+
+Environment:	Java Service Wrapper by Tanuki Software, Shell Scripting, 
+
+OS: Windows, Redhat Linux, Sun Solaris, IBM AIX
+
+Roles and Responsibilities
+
+Involved in research on start-up services and structure of above
+mentioned Operating Systems.
+
+Developed Shell scripts to install and manage the SAP adapter as
+start-up service.
+
+Some of the tasks carried out by shell scripts include installing
+adapter as a start-up service, uninstalling service, setting service to
+start at boot time, setting the service to be started manually after
+boot time 
+
+is over etc.
+
+Client: 		Network Appliances Inc
+
+Project: 		NetApp-LOG4J logging & JMS Cluster to Xterra App, SART Web UI
+Development,
+
+		Now AMS Project
+
+Duration: 	Jul-2005-2006- May-2006
+
+Environment: 	BEA Web logic, JMS, Log4j	, JSP, Servlets, EJB, Oracle,
+People Soft CRM, JMS
+
+Roles and Responsibilities
+
+NetApp-LOG4J logging & JMS Cluster to Xterra App (BEA Web logic, JMS,
+Log4j)
+
+	Involved in R&D on JMS clustering using Web logic,
+
+	Developed UI simulating tree structure using Javascript for assign log
+level on package and class basis.
+
+SART Web UI Development (JSP, Servlets, EJB, Oracle, People Soft CRM)
+
+	Involved in developing JSP, Unit Testing for EJB’s and code review.
+
+Now AMS Project
+
+	Role includes enhancement, testing and developing.
+
+PERSONAL PROFILE
+
+Date of Birth: Dec 5th, 1979
+
+Marital Status: Married
+
+Language Know: Hindi, English
+
+EDUCATION 
+
+Master of Computer Applications passed with 7.7 CGPA from Hyderabad
+Central University, Hyderabad, India.      
+
+Bachelor’s Degree B.Sc. (Computer Science) passed from Kurukshetra
+University, Kurukshetra, India.
+
+	
+
+                                                                        
+                   PAGE  1 
+

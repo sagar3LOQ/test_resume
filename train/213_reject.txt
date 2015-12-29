@@ -1,0 +1,127 @@
+Pavan Kumar Muttigi
+
+Cell: +91-9640844510.                       
+E-mail:pavan534.rock@gmail.com
+
+Professional Summary 
+
+A  graduate in computer science having 2.9 years of experience in the
+field of software design and  developing
+
+Excellent knowledge of all the phases of software development life cycle
+( Requirements gathering, analysis, design, development, testing and
+implementation)
+
+Hands on experience on Java,JMS,Spring,Webservices and Scripting
+languages(JavaScript),Jquery
+
+Good exposure on OOPS and RDBMS
+
+Experience in using the Source control tools like  SVN
+
+Experience in Agile software development
+
+Experience in build tools Apache Maven and Ant.
+
+Prepare  Weekly Status Reports (WSR)
+
+Capable of learning new technology quickly and adapting to a new
+environment.
+
+Excellent troubleshooting skills
+
+Quick learner and excellent team player, ability to meet deadlines and
+work under pressure
+
+Professional Experience
+
+Prokarma Softech India Pvt Ltd.  Hyderabad – Software Engineer
+
+April 2012-till date
+
+ Education
+
+Graduate of Computer Science from Alfa College of Engineering and
+Technology, affiliated to JNTU Anatapur in 2010
+
+Intermediate from Rao’s Junior College affiliated to Board of
+Intermediate Education
+
+SSC from Panyam Cements High School 
+
+ Skills
+
+Languages: 		         Java, SQL. PL/SQL
+
+J2EE Technologies: 	         Servlets, JSP, JDBC, JMS
+
+Frameworks: 	         	         Spring
+
+Database:  		         Oracle 10g
+
+Web Technologies:	         JavaScript, Jquery, HTML5, XML
+
+Web/ Application Server:     JBOSS, Tomcat
+
+IDEs: 		         	         Eclipse
+
+Testing:             	         Junit, TestNG	
+
+Version Control: 	         SVN
+
+Operating Systems:	         Windows 98.2000.XP
+
+ Major Projects
+
+ 
+
+Title:  TNM (Track Network Master)
+
+Duration			:           April 2012 – till date
+
+Team Size			:           8
+
+Technology                               :          JAVA/J2EE, spring,
+Jaxb2, JMS	,XML, JavaScript, Jquey, Ricola, XMF Services (Last two   
+are client specific).
+
+Operating System		:          Windows
+
+App Server			:          Jboss, Tomcat
+
+Company			:          ProKarma Softech Pvt. Ltd.
+
+Description:
+
+The Track Network Master’s (TNM) mission is to provide a comprehensive
+Enterprise GIS environment to be incorporated in support of Union
+Pacific Railroad’s business efforts. It provides various GIS based
+services and web application to the customers					
+
+Responsibilities:
+
+Coding using Java, Ricola,spring,XMF services
+framework,Javascript,Jquery,HTML
+
+Building XMF services and generic UI components for GUI development
+
+Testing - unit testing & integration testing
+
+Responsible for overseeing the Quality procedures related to the project
+
+Personal Information
+
+Name		: M. Pavan Kumar
+
+Marital Status	: Single.
+
+Nationality		: Indian.
+
+Current CTC 	: 4.1 lakhs 
+
+Notice Period 	: 2 months
+
+Date Of Birth	: 11-07-1989
+
+Page   PAGE  1  of   NUMPAGES \*Arabic  2 
+

@@ -1,0 +1,378 @@
+                     									
+
+                                       
+
+Phone: 0091 – 9731612980
+
+Email:   HYPERLINK "mailto:avinashvandhanapu@in.ibm.com" 
+avinashvandhanapu@in.ibm.com 
+
+	         HYPERLINK "mailto:avinashvandhanapu@gmail.com" 
+avinashvandhanapu@gmail.com 
+
+Professional Summary 	 
+
+   Over 5.5+ years of experience in IT industry.
+
+   Leading SWAT program for MIS and BVOIP services, representing IBM to
+interact with client            
+
+      (AT&T) to propose solutions and providing tactical solutions in
+solving business issues 
+
+Expertise in Java/J2EE, DOJO, Spring MVC
+
+Comfortable with UNIX and LINUX environments.
+
+Worked on Web servers like Tomcat 7.0 and Web Sphere 8.5.
+
+Quick adaptability to new technologies, highly flexible and adaptable
+performer.
+
+Good communication skills, problem solving and analytical skills.
+
+Technology Exposure
+
+JAVA Technologies   	 : 	Java/J2EE, JavaScript, JSP, Servlets, JDBC,
+Java Beans
+
+Frameworks 		 : 	Spring MVC, DOJO
+
+Markup Languages 	 :	HTML, XML
+
+Databases		 : 	Oracle, Sybase
+
+Application Servers 	 : 	Apache Tomcat 7.0, Websphere 8.5
+
+Operating Systems	 :	Windows 95/98/2000/XP, UNIX, LINUX
+
+Development Tools 	 : 	Eclipse, RAD, NetBeans & RSA
+
+Configuration Tools 	 : 	SCME, Web SCME integrated to Eclipse & RAD
+
+Others			 : 	JUnit, Business Intelligence Reporting Tool, PMD & SONAR
+
+Certifications:
+
+Oracle Certified Programmer, Java SE 6.
+
+Microsoft Certified IT Professional.
+
+Appreciations:
+
+Received “The Best of IBM” award for leading SWAT program
+
+Got appreciation mails from client for the support provided and
+nominated for BRAVO award.
+
+Professional Experience 
+
+Working as a Software Developer for IBM India Pvt. Ltd. From May 2011
+till date
+
+   Worked for VMC Game Labs , Hyderabad from June 2010 to February 2011.
+
+
+   Worked for Pranava EE Technologies, Hyderabad from June 2009 to May
+2010.
+
+Assignment 1:
+
+Title			: 	JAM – CEEOT (Construction & Engineering Equipment Ordering
+Tool)
+
+Client			: 	AT&T
+
+Duration		: 	From OCT 2012 till date
+
+Team size		: 	20
+
+Technologies		: 	Java/J2EE, DOJO, Spring MVC. 
+
+Platform		: 	UNIX 
+
+Database		: 	Oracle
+
+Description:	AT&T Inc. is the largest communications holding company in
+the United States and worldwide, by revenue. Operating globally under
+the AT&T brand, AT&T is recognized as the leading worldwide provider of
+IP-based communications services to businesses and the leading U.S.
+provider of wireless, high speed Internet access, local and long
+distance voice, and directory publishing and advertising services.
+
+      
+
+  CEEOT is a web application that enables and support AT&T Ordering
+Platforms. AT&T supporting staffs use CEEOT to place orders for the
+equipment in bulk for internal usage. CEEOT is a scratch development
+project, which is rewritten from Oracle forms to Java Web Application.
+
+Responsibilities:
+
+Actively participated in Business Requirements , System Requirements,
+High Level Design, Application    
+
+	Interface Design discussions
+
+Worked with Subject Matter Experts & Clients to understand the
+requirements.
+
+Working as developer for the 2 modules (Location & Help) , built the
+prototype for screens using 
+
+      iRise and developed the GUI using DOJO ,server side implementation
+using Spring MVC 
+
+Responsible for application Deployment in WAS
+
+Used the PERL  scripts for build, installation of  the application in
+WAS which reduced manual effort in 
+
+      deployment.
+
+Generated Reports for all the screens in CEEOT WEB using BIRT. Migrated
+the methods from old fashion 
+
+      of using Oracle forms for report generation to BIRT Reports using
+Java Beans.
+
+Involved in peer to peer reviews for code, Unit Testing and Integration
+Testing 
+
+Implemented agile methodologies for on-time delivery of the product 
+
+Involved in bug fixing for IT ,ST, UAT environments
+
+Module Description :
+
+ 
+
+Location :  AT&T users search for availability of their services in the
+specified location. This module covers the whole geographical
+description of the locations or Sites provided in the search criteria
+and allows users to select the correct location. 
+
+Help : Main functionality of this module is to provide instructions for
+users how to use CEEOT WEB application. Resources & FAQ differentiate
+the Topics , Methods & Procedures, Job Aids for the users with Admin and
+Vendor read and write roles.
+
+Assignment 2:
+
+Title			:   	USRP - Universal Service Request Platform
+
+   Client		: 	AT&T
+
+Duration		:  	From May 2011 to September 2012
+
+Team size		:  	80
+
+Technologies	:  	Java/J2EE, Shell scripting,
+
+Platform		:   	UNIX Solaris8
+
+Database		:  	Sybase
+
+Description:	 Universal Service Request Platform is a client-server
+application that enables and support AT&T Ordering and Provisioning
+Platforms. AT&T supporting staffs use USRP to place
+New/Change/Disconnect orders, modify/SUPP existing orders, and retrieve
+order status information for Frame Relay, ATM, IP, PL and IPL Services.
+Two kinds of orders, which originate from the customers, are regular and
+Correction orders. The ultimate aim of USRP is to ensure that any order
+for the given service has all the relevant data set and it can be sent
+to the provisioning systems.
+
+Responsibilities:
+
+Working as a program lead for SWAT team formed by AT&T for MIS ,BVOIP
+service for analyzing current requirements, proposing new solutions in
+reducing turnaround time for issues and tactically improve
+
+application performance for real time users
+
+Responsible for maintenance/enhancements in over 6 modules within USRP
+
+Worked with System Engineers and Clients to understand the requirements,
+to provide the
+
+	development solutions
+
+Actively participated in High Level Design , Application Interface
+Design discussions
+
+Developed enhancements of GUI  for 2 Modules (IP – Internet Protocol ,
+PL – Private Line) using 
+
+      Swings and Applets. 
+
+Worked as a developer for the interfacing modules INSTAR, ASOC, DSM.
+Used CORBA transactions   
+
+      and enhanced IDLs to interact with other interfacing systems.
+
+Involved in peer to peer reviews for code, UT and IT 
+
+On-time delivery of design, UT and IT deliverables and execution of the
+same
+
+Involved in bug fixing for ST, UAT and Production environments
+
+Direct interaction with the clients for the clarification of new
+requirements, queries and
+
+      to resolve production issues.
+
+	Past Experience:
+
+		VMC GAME LABS 
+
+			Worked for VMC Game Labs through Arctern Consulting Pvt Ltd. ,
+Hyderabad from June 2010 to February 2011.
+
+		VMC provides extensive expertise in video game testing and hardware
+testing. As the world’s leading partner for games quality assurance
+and support, VMC ensures quality throughout the lifecycle of client
+titles. VMC is driven to bring clients the right combination of
+experience, expertise and resources to take on the greatest challenges
+that face with game testing. As real-world problem solvers and
+solutions providers, VMC tailor support to ensure that client’s next
+release is as good for business as it is for game play. Leading Video
+game and entertainment companies rely on VMC for outsource testing
+solutions and Project management needs.
+
+Project 1: Crysis 3 (PlayStation 3 , XBOX 360)
+
+	Crysis 3 is a multi-platform   HYPERLINK
+"http://en.wikipedia.org/wiki/Video_game" \o "Video game"  video game 
+developed by the   HYPERLINK "http://en.wikipedia.org/wiki/Germany" \o
+"Germany"  German  game developer   HYPERLINK
+"http://en.wikipedia.org/wiki/Crytek" \o "Crytek"  Crytek  and is
+published by   HYPERLINK "http://en.wikipedia.org/wiki/Electronic_Arts"
+\o "Electronic Arts"  Electronic Arts  (EA Sports) for   HYPERLINK
+"http://en.wikipedia.org/wiki/Microsoft_Windows" \o "Microsoft Windows" 
+Microsoft Windows ,   HYPERLINK
+"http://en.wikipedia.org/wiki/PlayStation_3" \o "PlayStation 3" 
+PlayStation 3 , and   HYPERLINK "http://en.wikipedia.org/wiki/Xbox_360"
+\o "Xbox 360"  Xbox 360 .
+
+Project 2: Bullet Storm (PlayStation 3 , XBOX 360)
+
+	Bulletstorm is a   HYPERLINK
+"http://en.wikipedia.org/wiki/First-person_shooter" \o "First-person
+shooter"  first-person shooter    HYPERLINK
+"http://en.wikipedia.org/wiki/Video_game" \o "Video game"  video game 
+made by   HYPERLINK "http://en.wikipedia.org/wiki/Poland" \o "Poland" 
+Polish  developer   HYPERLINK
+"http://en.wikipedia.org/wiki/People_Can_Fly" \o "People Can Fly" 
+People Can Fly  and the   HYPERLINK
+"http://en.wikipedia.org/wiki/United_States_of_America" \o "United
+States of America"  American  company   HYPERLINK
+"http://en.wikipedia.org/wiki/Epic_Games" \o "Epic Games"  Epic Games , 
+HYPERLINK "http://en.wikipedia.org/wiki/Bulletstorm" \l
+"cite_note-epicgames.com-1"  [1]  and is published by   HYPERLINK
+"http://en.wikipedia.org/wiki/Electronic_Arts" \o "Electronic Arts" 
+Electronic Arts  for the   HYPERLINK
+"http://en.wikipedia.org/wiki/PlayStation_3" \o "PlayStation 3" 
+PlayStation 3 ,   HYPERLINK "http://en.wikipedia.org/wiki/Xbox_360" \o
+"Xbox 360"  Xbox 360  and   HYPERLINK
+"http://en.wikipedia.org/wiki/Microsoft_Windows" \o "Microsoft Windows" 
+Microsoft Windows .
+
+Project 3: NFL Traning Camp (Nintendo Wii)
+
+EA SPORTS Active NFL Training Camp includes over 70 drills and
+challenges designed to improve strength, power and conditioning, as well
+as reaction skills, agility and first step quickness, which are key
+areas NFL players focus on.
+
+Project 4: NFS Most Wanted (PC)
+
+		Need for Speed (NFS) is a series of   HYPERLINK
+"http://en.wikipedia.org/wiki/Racing_video_game" \o "Racing video game" 
+racing    HYPERLINK "http://en.wikipedia.org/wiki/Video_game" \o "Video
+game"  video games  published by   HYPERLINK
+"http://en.wikipedia.org/wiki/Electronic_Arts" \o "Electronic Arts" 
+Electronic Arts  (EA) and   HYPERLINK
+"http://en.wikipedia.org/wiki/Video_game_developer" \o "Video game
+developer"  developed  by   HYPERLINK
+"http://en.wikipedia.org/wiki/EA_Black_Box" \o "EA Black Box"  EA Black
+Box  and   HYPERLINK "http://en.wikipedia.org/wiki/Criterion_Games" \o
+"Criterion Games"  Criterion Games .
+
+Responsibilities:
+
+Responsible for writing the test scripts and executing them on test
+consoles.
+
+Tested games on PS3 , XBOX 360 and PC
+
+Verify Games outcome and data are correctly shown when games are played.
+
+
+Verify Game functionality such as Game Progress, game outcomes, handling
+of incomplete and re-  
+
+      started games, multi player games.
+
+Check if game win determination aligns with game rules. Procedures will
+be reviewed by System management, player account management, tournaments
+and promotions.
+
+Require to verify all equipment and network implementation. Secure and
+reliable operation like time synchronization, OS reliability and
+security.
+
+Was POC (Point of Contact) for Playstation 3 Testing console while
+testing Crysis3 and BulletStorm.
+
+Worked on web testing for NFL training camp. 
+
+Performed Adhoc ,Compliance , Compatibility, Functionality , Beta , Soak
+and Regression testing for all  
+
+      the projects.
+
+	
+
+PRANAVA EE TECHNOLOGIES
+
+Worked for Pranava EE Technologies, Hyderabad from June 2009 to May 2010
+as a GUI developer for web applications.
+
+Pranava is a progressive organization providing business value products
+and services in information technology cutting across disparate
+technical and functional domains. It has clients across the globe. It
+has many development projects and it also provides all levels of
+services from simple staffing to a complete professional Services
+(Outsource, Web Based) Solution.
+
+Project 1:  HAS (Hospital Automated Software)
+
+    This is a comprehensive solution for Hospital Management providing
+seamless integration of operations across Hospitals, which can be scaled
+as per the growth of the hospital with in the same location or at
+different locations.
+
+Project 2 : EIAS (Educational Institution Automated Software)
+
+   This State of the art school management system empowered with
+automation and collaborative tools targeted to improve the quality of
+education by actively involving teacher, parent and student. 
+
+Responsibilities:
+
+Gained knowledge in SDLC , Waterfall and Agile Methods 
+
+Developed the screens for all the projects using JSPs.
+
+Integrated the code between Client and Server as a part of Integration
+Team.
+
+Coordinated with internal and client testing team to track bugs and
+resolved issues 
+
+	Education:
+
+	Bachelor of Technology from Jawaharlal Nehru Technological University. 
+

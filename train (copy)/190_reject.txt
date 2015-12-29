@@ -1,0 +1,233 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+               -  2
+year&current                              
+                
+
+Spring                  
+                              -  1.5years &
+current                                �
+�               
+
+Web
+Services                                
+        - 
+RESTFUL                                �
+�               
+
+Core
+Java                                  
+             - 3.7years
+
+Design
+Patterns                                
+    -    knoeldege
+
+UML
+design                                 
+          -    
+
+Build Tools (Maven/Ant)                    -   
+Ant-2.5years   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Tomcat/weblogic
+
+Nagalinga  Reddy N
+
+Mobile: + 91-9769701739
+
+Email: nagalingareddy3@gmail.com
+
+     	                
+
+Professional Summary:
+
+3.7 years of experience in developing Java/J2ee Technology for Banking
+Domain.
+
+Currently working as a Software Developer.
+
+Proficient in Core Java, JSF, Spring 3.0, Hibernate 3.0, JDBC, Servlets,
+JSP, Struts,  Oracle, Java Script, Ajax developing the Applications
+using the Application Server WebLogic 11g, and Tomcat.
+
+Manage multiple projects simultaneously. Learn and apply new
+technologies quickly.
+
+Analyzing the Design of the entire system, and preparing the detailed
+design document for different modules.
+
+Team Player with good interpersonal, communication and fast learning
+skills. Highly adaptive to any type of work environment and technology.
+
+Good understanding and analyzing of data model for any project.
+
+Work Summary:
+
+Working as Software Engineer in TRIUMPH SYSTEMS AND SOLUTIONS Pvt Ltd,
+Mumbai from March 2011 to till date.
+
+Education Qualification:
+
+Bachelor of Technology in Computer Science & Engineering from JNTU,
+Hyderabad from October 2004 to May 2008.
+
+Master of Technology in Computer Science & Engineering from JNTU,
+Hyderabad from October 2009 to January 2012.
+
+Technical Exposure:
+
+Description		  Tools/Languages/Software’s
+
+Languages		: Java 
+
+Java Technologies	: Core Java, Servlets,  JSP
+
+ORM Technologies        : Hibernate
+
+Databases		: Oracle 9i/10g.
+
+Operating Systems	: Windows NT, Windows 98.
+
+Patterns & Frameworks	: Struts1.3(MVC2 Pattern), JSF, Spring 3.0.
+
+Tools		: IBM Eclipse 3.0.
+
+Application Servers	: WebLogic 11g.
+
+Web Technologies	: HTML, DHTML, Java Script, Ajax.
+
+Professional Expertise:
+
+TRIUMPH SYSTEMS AND SOLUTIONS Pvt Ltd : March 2011 – Till Date
+
+Responsible for developing and testing components in accordance with the
+company Standards, integrating these components into larger subsystems,
+planning and conducting source code reviews, and reviewing the feedback
+that recommends necessary rework.
+
+Projects:
+
+SFC (Selling Framework Compliance)
+
+Project Duration : July 2013 –  Till Date
+
+Client(s): ICICI Bank Pvt Ltd.
+
+Description:
+
+ICICI Bank offers a wide range of Banking & Wealth Management products
+and services to high net-worth individuals and their families. These
+products are selling through a network of Relationship Managers (RM).In
+this project I involved in FFF (Financial Fact Finding), Master’s and
+Grid and Transactions, Admin.
+
+Modules:FFF, Master’s, Gird, Transactions, Admin.
+
+Technologies: Core Java, JSF 2.1, Spring 3.0, Hibernate 3.0, Servlet,
+Jsp, BIRT, Java Script, Web Services, Eclipse3.1, Oracle 10g, WebLogic
+11g, Tomcat 7.
+
+Responsibilities:
+
+Interacting with the Client, Project Manager, Team Leader and Superiors
+of the team.
+
+Deployment Document and Approach document Preparation.
+
+Designing the project.
+
+Fixing the bugs and Support.
+
+Waiver
+
+Project Duration : April 2012 –  June 2013
+
+Client(s): ICICI Bank Pvt Ltd.
+
+Description:
+
+ 	This is an online project targeted for Branches and Call Centers of
+ICICI Bank Pvt Ltd. Waiver is settlement of dues between the Customer
+and the Bank. This enables us to provide waive off to the delinquent
+customer's outstanding amount in order to close that Account or waive
+off charges from that account. In this project I involved in Loan &
+Card, Transactions.
+
+Modules: Card, Loan, Transactions, Admin.
+
+Technologies:Core Java, Seam Framework, Servlet, JSF, Hibernate 3.0,
+JPA, Jsp, BIRT,Java Script, Eclipse3.1, Oracle 10g, WebLogic 10.3.
+
+Responsibilities:
+
+Interacting with the Project Manager, Team Leader and Superiors of the
+team.
+
+Deployment Document and Approach document Preparation.
+
+Designing the project.
+
+Fixing the bugs and Support.
+
+I-View  
+
+Project Duration : Mar 2011 –  Mar 2012
+
+Client(s): ICICI Bank Pvt Ltd.
+
+Description:
+
+    This is an online project targeted for Branches and Call Centers of
+ICICI Bank Pvt Ltd. I-View is an information system, it will display all
+the account details of the ICICI Bank customers. There are various
+modules such as Relationship Details, Accounts, Loans, Credit Card,
+Debit Card, Demat, Service Request. In this project I involved in
+Accounts, Loans, Service Request.
+
+    I-View is a project which is sophisticatedly designed for Branches
+and Call Centers of ICICI Bank who can log their requests and get all
+account details of the customers. The ICICI Bank branches and Call
+Centers provide the services to the customer using I-View. I-View helped
+the ICICI Bank in getting the business close to the customer and also
+increased the revenue to the business. 
+
+Technologies: Core Java, Servlet, JSP, Struts1.3, Jdbc, JavaScript,
+Ajax, Eclipse3.1, Oracle 10g, Tomcat 5.5.
+
+Responsibilities:
+
+Interacting with the Project Manager, Team Leader and Superiors of the
+team.
+
+Deployment Document and Approach document Preparation.
+
+Involved in presentation layer development using JSP.
+
+Test cases preparation.
+
+Fixing the bugs and Support.
+
+Personal information:
+
+Name:	Nagalinga Reddy.N
+
+Fathers name:	N Sivalinga Reddy
+
+Date of Birth:	10th June 1987
+
+Nationality:	Indian
+
+Permanent Address:	H-No : 2-2, B-19, Sector-1, Vashi, Navi Mumbai.
+
+Contact Number:	9769701739
+
+Languages Known:	English, Telugu and Hindi
+
+
+

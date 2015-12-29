@@ -1,0 +1,177 @@
+Pramod Bhargava
+
+Phone: +91-9989620746                                               
+Ramki Towers, Gachibowli Email:pramodbhar@gmail.com                     
+                 Hyderabad (A.P.), 500032
+
+SUMMARY OF QUALIFICATIONS
+
+Currently associated with Insideview India as a Software Engineer on
+J2EE Technologies.
+
+3.5 years’ experience of developing software throughout lifecycle,
+from identifying requirements to QA/QC in product based companies. 
+
+Good technical skills in Java/J2EE development. SCJP Qualified. 
+
+Strong database concept, Good analytical, time management and
+problem-solving skills.
+
+I am motivated and enthusiastic by new challenges and tasks and take
+innovative approach to achieve success in projects
+
+OBJECTIVE: 
+
+To work in a progressive environment where I may engage my skills to its
+potential and gain the deepest insight into the process, thereby perform
+to the best. Also, to be a significant figure of performance for the
+team and the organization I am part of.
+
+TECHNICAL EXPERTISE
+
+Languages: Java/J2EE, C/C++
+
+Frameworks: Struts 2, Hibernate and Spring. 
+
+DBMS/RDBMS:  Oracle 10g, MS Access, My SQL, SQL-server
+
+Scripting Language: JavaScript, AJAX, JQuery, HTML, XML, XHTML, WML
+
+Web Servers: Apache Tomcat, JBOSS, Jetty
+
+Software/Tools: Eclipse, Net beans, Maven, Ant, Liqubase, AWS, Jenkins
+
+Certification: Sun Certified Java Programmer (SCJP).
+
+Others: Web Services, ActiveMQ, Scrum Based Development, Elastic search,
+Lucean, Data Structure, Data modeling.
+
+PROFESSIONAL EXPERIENCE
+
+InsideView India
+
+A pioneer in CRM Intelligence, InsideView provides a suite of software
+solutions for sales and marketing leaders that delivers critical
+intelligence directly into CRM
+
+SE                                                                      
+  April 2013-PRESENT
+
+Project Undertaken
+
+Marketing Product: InsideView Lead EnrichTM lets you reduce the number
+of required web form fields—therefore improving conversion rates. New
+leads, from any source, are automatically enriched with data from the
+InsideView CRM Intelligence Platform as they are added to the database.
+Enriched leads can be scored and routed faster so your sales team can
+respond quickly. 
+
+Role: Creating new features in product from scratch. Enhancing existing
+functionality of product and integrating product with CRM’s
+
+Technology Used: Complete MVC Architecture with  Spring 3.1, Hibernate
+3.0 as ORM Tool, JSTL/JSP for view , ActiveMQ for message queues ,
+Velocity for sending mails , RESTful services for integrating with
+different CRM’s, Liqubase, MySQL as database, MAVEN for Deploys ,Jetty
+8.0,Junit,TESTNG,Elastic search for Querying large data
+
+Team size: 4
+
+Data Diagnostics Product: It’s in Development phase.
+
+Main focus of this Product is to identify data health and provide a
+better solution 
+
+Role: Developing all features from scratch 
+
+Team size: 3
+
+Technology Used: Complete MVC Architecture with  Spring 3.1, Hibernate
+3.0 as ORM Tool, JSTL/JSP for view , ActiveMQ for message queues ,
+Velocity for sending mails , RESTful services for integrating with
+different CRM’s, Liqubase, MySQL as database, MAVEN for Deploys ,Jetty
+8.0,Junit,TESTNG
+
+Impetus InfoTech India Pvt Ltd
+
+ASE/SE                                                                  
+      July 2011-APRIL 2013
+
+Impetus offers a complete suite of Software Product Development and
+Technology R&D services.
+
+Project Undertaken
+
+BCBSNE/BCBST: These are clients of Connecture where we need to Upgrade
+Whole application from older versions to newer versions .Moreover we
+need to add new features according to client needs 
+
+Role:-Working in teams of 4 to 8 and changing product on basis of
+client’s requirements .In this I am working on upgrading product
+features and changing existing features according to client need.
+
+I have handled a complete module of Medicare and worked on other modules
+as well
+
+Technology Used:-Struts 2.1, Hibernate 3.0, Spring, Jasper, jquery,
+javascript 
+
+Other Projects
+
+Connecture Product development, Exemplar update, Game Wrapper
+Application, Content Management System, Video on demand, Data mining
+tools for CMS
+
+	
+
+Certification/Other Achievements
+
+SCJP/OCJP certification 
+
+Winner of Hackathon 2014 in reinvention Category at insideview.
+
+Star of the months 4 times in row at impetus India.
+
+Our project “www.twistcontent.com” for Twist Mobiles was selected
+among Top 12 projects for e-summit at IIT – Powai.
+
+ 
+
+EDUCATION:
+
+MCA (Masters of Computer Applications)                                  
+   2008 - 2011
+
+IIPS, DAVV Indore, M.P. 
+
+CGPA 9.53 Pointer out of 10 (10 is the highest)
+
+BCA (Bachelors Of Computer Applications)                                
+  2005 - 2008
+
+IIPS, DAVV Indore, M.P.
+
+CGPA 9.22 Pointer out of 10 (10 is the highest)
+
+XII (PCM)                                                               
+                         2004 - 2005
+
+AECS, CBSE Board Indore, M.P. 
+
+Percentage: 71.2%
+
+X                                                                       
+                                2004 - 2005
+
+AECS, CBSE Board Indore, M.P. 
+
+Percentage: 72.4%
+
+Declaration
+
+I hereby declare that all the information provided by me in this is
+factual and correct to the best of my knowledge and belief.
+
+Date: 07/12/2014                                                        
+             Place: Hyderabad
+

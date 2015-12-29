@@ -1,0 +1,158 @@
+AAKASH KUMAR
+Software Engineer
+Mob: +91-9560605588
+
+E-Mail:kumaraakash25@icloud.com
+4A, B-226 Chattarpur Extension,
+Birla Farms -110074(New Delhi)
+
+Career Objectives
+To succeed in an environment of growth and excellence and earn a job which
+provides me job satisfaction, self-development and help me achieve organizational
+as well as personal goals.
+
+Summary
+
+
+
+
+
+
+B.Tech Computer Science (2008-12) +Overall 3.5 years of experience.
+Currently working in Nagarro Software Pvt. Ltd., Gurgaon.
+Acquired good knowledge of OOPS (Java), advanced Java applications, SQL,
+Linux, Shell scripting and network associated tools. Other skills include
+Hibernate, Spring framework, Web services, Threads, Concurrency,
+Algorithms and Data structures
+I am reliable, trustworthy, hardworking, fast learner with good interpersonal
+and analytical skills.
+
+Professional Experience
+Aug 2014-Till Date: Nagarro Software Pvt. Ltd, Gurgaon.
+Position: Associate, Technology
+Project Name: Ephesoft
+Position: Software Developer
+Project Description: Ephesoft is an Intelligent Document Recognition software to
+interpret and extract meaningful content from unstructured data. It makes it easier for
+the end users to file, label and retrieve work material in an orderly manner with ease
+and simplicity.
+Technology: Java, Spring (IOC, AOP, MVC), Hibernate, Threads and Concurrency,
+SQL, Alfresco, SharePoint, Lucene, Spring MVC web services
+Team Size: 40
+Responsibility and Contributions:
+ Developed Ephesoft web services. The Web services are utilized by smart
+devices to perform document recognition related operations efficiently. The
+web services constitute a part of the paid services offered by Ephesoft, which
+are available only with genuine license purchases.
+ Handle client tickets to cater the reported bugs and develop hotfixes to
+address their concerns.
+ Working on patch releases following the Agile methodology to add new
+features/functionalities and bug fixes from the previous releases.
+ Worked on the third party tool IText for generating searchable PDF from the
+input images along with impact analysis
+ Upgraded ImageMagick to the latest available version to make Ephesoft batch
+processing more efficient. ImageMagick is a tool for rendering the images.
+
+
+
+Implicit OAuth2.0 implementation in Ephesoft.
+
+July 2012-Aug 2014: One97 Communications Ltd.
+Position: Software Engineer
+Project Name: USSD Projects
+Project Description: USSD is a protocol used by GSM cellular telephones to
+communicate with the service provider's computers. USSD can be used for prepaid
+callback service, mobile-money services, menu-based information services, and as
+part of configuring the phone on the network.
+Technology: Java, Thread and Concurrency, JAX-RS restful web service, PL/SQL,
+Linux, Shell Scripting, Collections
+Team Size: 5
+Responsibility and Contributions:
+ Requirement gathering and approach documentation
+ Develop USSD short codes for operators Vodafone, Airtel and Idea for UPE,
+UPW, Delhi, Mumbai, ROB and other telecom circles.
+ Unit testing and performance testing of short codes.
+ Deployment of short codes on production servers.
+ Scheduling shell scripts to carry out clean up and monitor system
+performance.
+ Handle client tickets for the reported bugs in the short codes.
+Project Name: Calculators for point calculation, MIS generators
+Project Description: Point calculation utility works on the principle that points are
+credited to the retailers account if certain criteria’s are fulfilled. The more sales a
+retailer or his sub ordinates makes, more points are directly added to his account.
+The calculations are carried out for every individual retailer, PRE, RDSE, ADSE on
+daily, weekly, monthly and yearly basis.
+MIS generators have been developed to display summary report to the client for
+analyzing the complete picture of the sales figure in a particular telecom circle.
+Technology: Java, Spring, BIRT, MySQL
+Responsibility and Contributions:
+ Approach documentation from product requirement document.
+ Develop calculators and MIS reports using Java, MySQL queries and BIRT.
+ Deployment of MIS on production servers.
+ Handle client tickets to address the bugs or issues.
+
+Academic Qualifications
+Amity University – Uttar Pradesh (2008 – 2012)
+ B. Tech in Computer Science with CGPA of 7.96
+Luck now Public School (2008)
+ HSC(ISC Board) in Mathematics, Physics and Chemistry with 92.25%
+Cathedral School (2006)
+ SSC (CBSE Board) with 81.8%
+
+Summer Internship
+Worked on Prison Management System, from 5/5/2011 to 6/7/2011 at E-soft
+Technologies Ltd. Team size 3
+Project Profile: Prison Management System is an MIS for efficient management of
+prisons build implementing J2EE. The application helps to keep a track of prisoners
+and their requirements along with the dates of release, remand etc.
+Job Profile: Responsible for working efficiently in a team of programmers for
+developing the software application within a time bound schedule.
+
+Achievements
+
+
+
+
+
+Awarded Nagarro Orion Award in February 2015, for outstanding performance
+and teamwork.
+Awarded Excellence award to Ephesoft team for dedication and timed
+deliveries.
+Awarded Rock star by One97 Communications Ltd. for outstanding dedication
+and hard-work in delivering several deliverables in tightly bound time frame.
+Rewarded 100% scholarship from Amity University throughout the four year B.
+Tech programme for outstanding performance in academics.
+
+Extra-Curricular Activities
+
+
+
+
+
+Participated in IORC (Indian Open Rubik’s Cube competition) at IIT Kanpur in
+2010 and 2011.
+Participated in Freedom Bicycle Ride on behalf of Nagarro Software Pvt. Ltd.
+Attended various seminars in IIT Kanpur and Amity Lucknow.
+Contributed in ACT (Amity Club of Technology) the official technological club
+of Amity University Lucknow campus formation.
+
+Personal Information
+
+
+
+
+
+
+Date of Birth
+Marital Status
+Nationality
+Languages Known
+Hobbies
+
+25 Sept 1989
+Single
+Indian
+Hindi , English and German
+Reading and physical fitness
+
+

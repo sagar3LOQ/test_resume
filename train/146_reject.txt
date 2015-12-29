@@ -1,0 +1,317 @@
+ 
+
+									
+
+RESUME
+
+Name	Danush Arumugam
+
+Education	Master Of Engineering (Computer Science)
+
+Operating Systems	Windows 9x / 2000 / NT/XP / UNIX
+
+Languages	Core Java and J2EE
+
+Framework	Struts 2.0
+
+Web Technologies	JavaScript, HTML, XML, Ajax
+
+Mobile Technologies	Android 4.2
+
+Databases	Oracle 11g, Sql server 2008
+
+Contact Details	Mobile  –  +91-9940434523
+
+E-mail  –   danusharumugam@gmail.com
+
+
+
+Skills Summary
+
+Around 5.8 years of total IT experience.
+
+Extensive experience in Core Java.
+
+Hands-on experience in Servlets, JSP,CSS, JavaScript, UNIX shell
+script,Ajax, Struts1 and Struts2.0
+
+Basic Knowledge on PL/SQL. 
+
+
+
+PROJECT DETAILS 
+
+FLEXCUBE
+
+FEB 2015 to till date
+
+Operating System
+
+UNIX,Windows 7
+
+Languages
+
+ Java 1.6, XML,Shell script
+
+Framework
+
+Struts 2
+
+Server
+
+WebSphere, Tomcat 7
+
+Database
+
+Oracle 11g
+
+Tools Used
+
+Tectia 4.4 , Serena
+
+Role
+
+Developer
+
+Description:
+
+                   FLEXCUBE is the issuing system for Corporate
+Customers. FLEXCUBE Interface core banking helps banks overcome the
+challenges of intense competition, reduced margins and increased
+customer expectations by creating a unique competitive advantage built
+upon improved profitability and an extended customer reach.
+
+                     FLEXCUBE Interfce application will interact with
+entire internal partner system like JBS, Zbank,COTS etc by sharing
+secured customer data .
+
+Roles and responsibilities:
+
+New Development & testing of interfaces
+
+Modification of existing coding & testing as per the changes in client
+requirement.
+
+Code review.
+
+Defect Fixing.
+
+Deployment.
+
+Unit testing.
+
+   
+
+PROJECT DETAILS 
+
+GRBBC - Global Relationship  Banking Balance  Certificate
+
+September 2014 to till date
+
+Operating System
+
+Windows 7,Unix
+
+Languages
+
+ Java 1.6, XML
+
+Framework
+
+Struts1.3 and Struts 2
+
+Server
+
+WebSphere, Tomcat 7
+
+Database
+
+Sybase Central v6.0
+
+Tools Used
+
+Tectia 4.4 , Serena
+
+Role
+
+Developer
+
+Description:
+
+                   GRBBC is Balance Certification issuing system for
+Corporate Customers. GRBBC system would receive accounting feeds from
+partner systems, store and process this data to deliver the Balance
+Certificates. Based on the role, allows creating and authorizing the
+request.
+
+                     It also facilitates the users to generate various
+kinds of reports. Functionalities grouped in the modules like Customer,
+BCRequest Log, Balance Certificates and Reports. 
+
+Roles and responsibilities:
+
+Migrating application from Struts 1.3 to Struts2 framework.
+
+Modification of existing coding & testing as per the changes in client
+requirement.
+
+Code review.
+
+Deployment.
+
+Unit testing.
+
+   
+
+PROJECT DETAILS
+
+Guidewire center of excellence
+
+January 2014 to August 2014
+
+Operating System
+
+Windows XP
+
+Languages
+
+Gosu, Java 1.6, XML
+
+Databases
+
+Oracle 11g, Sqlserver 2008
+
+Tools Used
+
+Guidewire Studio, Eclipse, SVN
+
+Role
+
+Developer
+
+Description:
+
+                   Guidewire provides a complete set of applications to
+support Insurance core operations—underwriting, policy administration,
+billing, and claims management. Insurance Suite’s comprehensive
+applications are built on a common platform, covering the property and
+casualty insurance lifecycle while providing the deep functionality
+customers require to replace their existing legacy systems.
+
+HCL’s Guidewire Center of Excellence (CoE) is formed to have expertise
+in Guidewire Products, especially in BillingCenter, ClaimCenter and
+PolicyCenter and explore the various techniques in various streams such
+as Configuration, Integration, and Conversion which leads to develop,
+document and deliver Solution accelerators.            
+
+Roles and responsibilities:
+
+Done with Internal training- ClaimCenter 7.0., PolicyCenter 7.0 in both
+Configuration and Integration.
+
+Involved in Accelerator work in ClaimCenter
+
+Project 
+
+eUniv
+
+Period
+
+Sep 2011 to  Dec 2013
+
+Role
+
+Lead Developer
+
+Operating System
+
+Windows 9x / 2000 / NT/XP
+
+Technologies
+
+Android 4.2,JSP, Servlets,   Apache Tomcat 6.0,MySql 5.1
+
+Description:
+
+                      The It is a Complete University management
+Software used within an intranet. It handles almost all modules of
+everyday transactions within the university. It includes Admission,
+Academic, Student, Staff, Transport, Library, Accounts, Exam, Campus and
+Hostel Management.
+
+	Student Attendance Module is developed in Android 4.2.It enables
+tracking and monitoring student’s attendance accurately. Percentage of
+presence, absence calculations and generation of relevant reports are
+fully automated.
+
+Roles and responsibilities:
+
+Conceptualized,designed,developed and deployed mobile applications for
+University Software
+
+New Development & testing of interfaces. 
+
+Modification of existing interfaces & testing as per the changes in
+client requirement.
+
+Code review.
+
+Review the deliverable of the team member.
+
+System Testing
+
+Project 
+
+HR KPI DASHBOARD
+
+Period
+
+Mar 2010 to Aug 2011
+
+Role
+
+Developer
+
+Operating System
+
+Windows-7
+
+Technologies
+
+JSP, Servlets, Sql Server 2008
+
+Description:
+
+                     People & Culture KPI Dashboard for Vestas  in order
+to monitor head count growth, employee activity and recruitment of
+Technology R & D from the single screen. To compute the Key Performance
+Indicators, provide reports, charts to analyze the KPI trends across
+various parameters. It will also handle ad-hoc reporting or charting
+requirements with much ease.  . 
+
+Roles and responsibilities:
+
+Coordinating with the client to ensure compliance with new, ongoing
+changes in functional requirements.
+
+New Development & testing of interfaces. 
+
+Modification of existing interfaces & testing as per the changes in
+client requirement.
+
+Code review.
+
+Review the deliverable of the team member.
+
+System Testing
+
+  
+
+
+
+
+
+	
+
+HCL Technologies India							        Page   PAGE  4  of   NUMPAGES  4 
+

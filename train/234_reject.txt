@@ -1,0 +1,275 @@
+Prashant Gopishetty
+
+Email:   HYPERLINK "mailto:prashanthgopishetty@hotmail.com" 
+prashanthgopishetty@hotmail.com  
+
+prashanthgopishetty@gmail.com
+
+Mobile	: 91-9032008472                                                  
+       
+
+Career Brief:    
+
+Being a self-motivated professional, I can work solo or as a part of a
+team in delivering quality solutions that are customer focused. I’m
+strongly deadline driven, a rapid learner, have excellent problem
+solving skills and a good communicator. I would like my career to
+advance parallel to my knowledge base and this evokes in me, a
+continuous stimulus to gradient my skills.
+
+Professional Summary:    
+
+Good exposure in Requirements understanding and analyzing.
+
+Involved in developing Client Server & Web based applications.
+
+Good expertise at Software Development Life Cycle (SDLC), 
+
+Familiar with Agile methodology.
+
+Experience in Sanity, and Junit Testing.
+
+Involvement in bug fixing, project enhancement and development and
+executing them same.
+
+Experience in java, j2ee, spring, hibernate, GWT and Smart GWT
+technologies.
+
+Familiar with the MySQl, postgre sql and good knowledge in Oracle.
+
+Having the knowledge in shell and perl scripting.
+
+Commitment, result oriented and interested to learn new technologies.
+
+Interaction with the clients.
+
+OCJP Certified with 98%.
+
+Educational Qualifications:    
+
+B-Tech in Indur Institute Of Engg & Tech. affiliated to JNTU Hyderabad
+in 2007.
+
+C-DAC in IACSD pune in 2009.
+
+Work Experience:    
+
+Working as “Specialist” with   Verizon Data Services Pvt. Ltd.
+,Hyderabad since May  2014 to Till date.
+
+Worked as “Team Lead” with   NTT Data Global Delivery Services Pvt.
+Ltd. ,Banglore since Jan  2013 to Mar 2014.(Client : Goldman Sachs)
+
+Worked as “Program Analyst” with   Shris Infotech  pvt.
+Ltd,Hyderabad since August  2009 to January 2013.
+
+Software Skills:    
+
+Operating Systems 		  : Windows,Linux
+
+Bug Tracking Tools		  : Jira
+
+Languages			  : Java.
+
+Scripting languages		  : Shell scripting and Perl Scripting
+
+Technologies			  : J2ee,GWT
+
+Databases               		  : My SQL,Postgre SQL 
+
+Tools		  		  : Autosys 
+
+ORM Tools 			  : Hibernate.	
+
+Frame Works			  : Spring,GWT and Smart GWT.
+
+Project  Name :Damage Claims Web
+
+Client 				 : Verizon Data Services
+
+Role				 : Team member.
+
+Environment             	 : Windows,Linux
+
+Technologies and Tools Used : java,j2ee, spring,DB2 and Websphere app
+server,Tomcat.
+
+Description:
+
+Damages are an award, typically of   HYPERLINK
+"http://en.wikipedia.org/wiki/Money" \o "Money"  money , to be paid  as
+compensation for loss or injury. Here in this application, outside
+plant, if any damage occurs to the Verizon  property then, Verizon will
+claim the money from the damager. Here this application will maintain
+the total records.
+
+Roles & Responsibilities:
+
+Development of new features.
+
+Bug fixing.
+
+Working on the DCWEB-Tablet development.
+
+Worked on the updating of new core package.
+
+Worked on setup of the server for the application.
+
+Worked on the production releases.
+
+Project Name: MRT
+
+Client 				 : Goldman Sachs
+
+Role				 : Team member.
+
+Environment             	 : Windows,Linux
+
+Technologies and Tools Used : java,j2ee, spring, hibernate, GS
+proprietary languages ,My SQL, Sybase, jira and AutoSys.
+
+Description:
+
+Market risk is the   HYPERLINK "http://en.wikipedia.org/wiki/Risk" \o
+"Risk"  risk  of losses in positions arising from movements in market
+prices. The possibility for an investor to experience losses due to
+factors that affect the overall performance of the financial markets.
+Market risk, also called "systematic risk," cannot be eliminated through
+diversification, though it can be hedged against. The risk that a major
+natural disaster will cause a decline in the market as a whole is an
+example of market risk. Other sources of market risk include recessions,
+political turmoil, changes in interest rates and terrorist attacks.
+
+Roles & Responsibilities:
+
+Development of new features.
+
+Bug fixing.
+
+Worked on the bridge between java and slang technologies.
+
+Working on the autosys jobs. 
+
+Worked on the updating of new core package.
+
+worked on GS proprietary language.
+
+Worked on shell scripting.
+
+worked on setup of the server for the application.
+
+Project  Name : EMR
+
+Client 				 : Nightingale,amit
+
+Role				 : Team Member.
+
+Environment             	 : Windows,Linux
+
+Technologies and Tools Used : java,j2ee, spring, hibernate,GWT and
+Smart GWT MySQL and Jira.
+
+Description:
+
+An EMR(Electronic medical Record) also called as electronic health
+record (EHR) is an evolving concept defined as a systematic collection
+of electronic health information about individual patients or
+populations.  It is a record in digital format that is theoretically
+capable of being shared across different health care settings. In some
+cases this sharing can occur by way of network-connected,
+enterprise-wide information systems and other information networks or
+exchanges. EMRs  include a range of data, including   HYPERLINK
+"http://en.wikipedia.org/wiki/Demographics" \o "Demographics" 
+demographics , medical history, medication and allergies,   HYPERLINK
+"http://en.wikipedia.org/wiki/Immunization" \o "Immunization" 
+immunization  status, laboratory test results, radiology images, vital
+signs, personal statistics like age and weight, and billing information.
+
+The system is designed to re-present data that accurately captures the
+state of the patient at all times. It allows for an entire patient
+history to be viewed without the need to track down the patient’s
+previous medical record volume and assists in ensuring data is accurate,
+appropriate and legible.
+
+Roles & Responsibilities:
+
+Development of new features.
+
+Bug fixing.
+
+Worked in ONC certification.
+
+Developed major part of the Scheduling Module.
+
+Developed major part of the Dynamic form creation.
+
+Junit testing.
+
+performance tuning by using JMeter.
+
+Project  Name :OnlineExams
+
+Client 			: Schools in Newzealand
+
+Role			: Team member.
+
+Environment             : Windows,Linux
+
+Technologies and Tools Used : java,j2ee, spring, hibernate,GWT and
+Smart GWT MySQL and Jira.
+
+Description:
+
+Online Examination is an Internet based questionnaire. The questions
+can be categorized according to type, topic etc. The test is compiled
+with questions from different libraries. Tests are created on a random
+basis per student with a particular time limit during which they are to
+be answered. Online examination helps students and its mission is to
+offer a quick and easy way to appear for the exam. It also provides the
+results immediately after the exam and security. The user can enter to
+write the exam only with their valid username and password.
+This examination different type of questions like single option,
+multiple options, fills in the blanks and matches the following and
+subjective questions. There are no limitations on number of options and
+it can be randomized. This provides time limit. 
+
+The user can see their results after completing the exam. This helps the
+students to write the exam from far distance and which can provide
+security and simplicity and other beneficial features to the user. There
+are few other benefits also there like here with their user id they can
+prepare the question paper for conducting the exams. so this application
+is user for any person to write the exam.
+
+Roles & Responsibilities:
+
+Development of the project.
+
+bug fixing.
+
+Deployment of the application in the server.
+
+Guiding the junior developers.
+
+Management of the few modules in the application.
+
+Junit testing.
+
+Development of the template for project.
+
+Involved in low level designing. 
+
+Declaration:
+
+	I hereby declare that all details mentioned above are genuine as per my
+knowledge.
+
+									
+
+ (Prashant.G)
+
+		
+
+ PAGE   
+
+ PAGE   3 
+

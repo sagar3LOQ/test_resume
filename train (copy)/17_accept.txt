@@ -1,0 +1,344 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate   /mybatis  (current)      
+                 -  2.5year 
+
+Spring                  
+                                  -  2
+year &
+current                                �
+�               
+
+Web
+Services                                
+      -  3 years&
+current                                �
+�             
+
+Core
+Java                                  
+             -  4.4year
+
+Design
+Patterns                                
+    -    1 year
+
+UML
+design                                 
+          -    
+
+Build Tools (Maven/Ant)                    -   
+Maven/ant/gradel   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Eclipse,sonar,tomcat
+
+Ok for bitchmey
+
+Worked on DB
+
+Eclipse,static analysis tools,Tomacat,IBM webspher
+
+venugopal allenki
+
+B.Tech Information Technology,VIT Vellore-2010
+
+Address- H.No-10-51/2,Vinayak Nagar, Balanagar, Hyderabad-500037
+
+Contact- primary: +91-9848657840
+
+Email- primary:   HYPERLINK "mailto:venugopal.allenki@imaginea.com" venu
+9528@gmail.com
+
+Career Objective
+
+To explore potentials, develop and implement technical and analytical
+skills towards professional as well as organizational advancement.
+
+Professional Experience
+
+1. Currently working as Senior Development Engineer with Pramati
+Technologies.
+
+2.  31 Months of professional experience in Hewlett-Packard IPG R&D
+working as a Software Developer. 
+
+Experience Summary
+
+Project: CastlightHealth
+
+Description: Castlight’s Enterprise Healthcare Cloud provides
+employers with a complete set of products and services for effective
+healthcare management and employee care. Castlight Health tool is
+through a business to business based subscription model. Only employees
+of companies which have purchased subscriptions are allowed access to
+Castlight Health's pool of pricing data
+
+Technologies and tools used: Java, Junit, Mockito, Spring DI, Mysql,
+Mybatis, Jenkins, Jira, Mongo DB, Velocity template, SOA, Restful API.
+
+Project: Asgard (Open source)
+
+Duration: 5 Months
+
+Description: Asgard is a web interface for application deployments and
+cloud management in Amazon Web Services (AWS). It was initially
+developed by netflix to support aws and we have leveraged the same
+capabilities for other cloud providers like openstack and rackspace.
+
+Technologies and tools used: Amazon Web Services SDK, Openstack, Groovy
+on Grails, Rackspace, Jclouds API. 
+
+Project: Intelligent Cross-Sell
+
+Duration: 3 Months
+
+Description: Intelligent Cross-Sell, a service that allows merchants to
+automate and optimize the targeting of cross-sells and upsells.
+Intelligent Cross-Sell is integrated with CNET Content Solutions of more
+than 5 million technology and consumer-electronics products, enabling
+automatic compatibility-checking of recommendations and targeting by key
+selling features. Intelligent Cross-Sell also supports behavioral data
+for example, recommending based on people who bought this also bought
+that and a site's proprietary attributes such as average user-review
+score or product profitability.
+
+Technologies and tools used: Core Java, Servlets, JSP, Junit, Mockito,
+Sprint Dependency Injection, JDBC, JavaScript, ProtoType, JSF,
+Elastic-search, Velocity Templates, Quartz Schdulars.
+
+Project: HP ePrint (Cloud Print)
+
+Description:  The primary use cases of the cloud print platform are, 
+
+rinter owner registers her/his printer with the cloud,  the printer
+owner is presented with the printer’s Email Id. Then the user can send
+ print request to the printer by sending an E-Mail. Cloud print platform
+renders the content of the Email along with the attachment in to the
+printer understandable format and sends it to the printer. Then Content
+will get  printed on the printer. 
+
+Printing of documents by sending an Email to the printer through a smart
+phone or any device supporting sending Emails. This avoids the printer
+dependency on Printer Driver and computer, user can print on any printer
+from his mobile/computer with out Print driver or any setup. This
+enables printing of a document through the mobile networks from any
+remote locations.
+
+Rendering of content for SIPS (Simple Internet Printing Apps) basic
+printers. These printers can have print apps(SIPS) on the UI, user can
+print the document from these print apps (i.e Sudoku, Disney, Comics).
+
+Cloud Print Rest API's are used by other services like Google print,
+Apple, Copouns.
+
+Module : ePrint Cloud Rendering
+
+Duration: 1 year 8 months 
+
+Role & Responsibilities: 
+
+Responsible for designing and implementing an executable code solution
+which converts documents from one format to another format.
+
+Testing the resulting components, and analyzing runtime profiles to
+debug errors that might exist.
+
+Responsible for creating and maintaining the overall structure and
+layout of a software system's components and their interfaces within and
+outside of the system.
+
+Involved system level and component and Integration testing.
+
+Written all the code with complete unit test coverage.
+
+Reached the time to time deadlines and supported the project for more
+than three releases.
+
+Provided rendering as a Service by using Restful webservices.\
+
+Module Description: Rendering is the core engine in Cloud Printing where
+the submitted documents will be converted to a printer understandable
+format. Rendering Component will be called during Job Flow by Print Job
+Processor. When Rendering gets called different Transformers are
+orchestrated depending upon the input format, output format and printer
+family to which the output is generated.
+
+Work Description: To transform a document into the output format
+specified a series of transformations are performed like a chain. A
+transformers output is given as input to the next transformation in the
+chain and it continues until the current transformation does not have a
+successor. Each transformation will accept a set of processing
+attributes (document properties + device properties) that will be
+applied where ever possible. This works similar
+to Chain-Of-Responsibility design pattern.
+
+Technologies and tools used: Core Java, Testng, Junit, Mockito, iText,
+Ghost Script, Webkit, XML, Eclipse, Mysql, Rest webservices.
+
+Module: ePrint PJP (Print Job Processer) and Large Format Printer Device
+enablement
+
+Duration: 6 Months
+
+Role & Responsibilities:
+
+Responsible for defaulting and validating the print job attributes based
+on Printer type and family. 
+
+Responsible for making the Java Rest based web service calls to connect
+to the various components across the cloud platform.
+
+Written all the code with complete unit test coverage.
+
+Involved in making the dynamic calls to the different components based
+on the user request
+
+involved in complete enablement of the Large Format Printers like
+Mercury, AmperXL with cloud services.
+
+Module Description: Print work flow mainly validates and defaults the
+client input and it provides the interfaces to communicate with the
+other modules like JEF, Offramp, Onramp.
+
+Work Description: 	
+
+PJP is a virtual Printer on the Cloud.
+
+Exposes a well defined API to create and submit Job and check Job
+Status.
+
+Abstracts transformations, rendering technologies and provides API to
+its clients in the cloud service.
+
+Creates Job Workflows and monitors the rendering health parameters.
+
+Uses JEF services to execute the Job flows and Channel services to
+notify device.
+
+Technologies and tools used: Core-Java, Annotations, Testng, Junit,
+Mockito, Hibernates, MySQL, Spring IOC, Log4j, Rest based web services.
+
+Module: ePrint Online Print Job submitter tool
+
+Duration: 2 Months 
+
+Work Description: Dynamic generation of security token by accessing
+printer DB and submitting rest based request for preview, print, Scan,
+and Render requests.
+
+Technologies and tools used: Core Java, JSP, Servlets , XML, HTML, Java
+Script, Multi threading, SQL.
+
+Mini Improvement and projects:
+
+Image Validator:
+
+Description: HP Cloud Print restricts the small size low quality images
+to avoid photo printing. So I have developed an online tool to validate
+the images base on the image quality and other image properties. This is
+very useful to the testers and developers to verify the Images before
+they process for cloud print.
+
+Technologies and tools used: Core Java, JSP, Servlets , XML, HTML, Multi
+threading, SQL.
+
+Technical Proficiency: 
+
+Operating System : Linux and Windows
+
+Database : MySQL
+
+Programming technologies : JAVA, JDBC, JSP, Servlets, Hibernate, iText,
+Junit, Testng, Mockito, EasyMock,Restful web service frame works .
+
+Tools: Eclipse , Subversion, GIT, Quality Center, GhostScript, Xplanner,
+RallyDev, Webkit, Adobe PDF Lib.
+
+Key Strengths
+
+Fast learning and clear grasping abilities.
+
+Analytical ability and attention to detail.
+
+Strong Programming and implementation ability.
+
+Professional Accolades
+
+Got HP Wright Award for creating an improved Web Platform Job Submitter
+tool that is delivering cost savings of 334K per year for Hewlett
+Packard, and improving quality upstream, reducing number of defects, and
+rolling out features more easily by reducing the time to release to
+production. 
+
+Submitted a Defensive Publication: Dynamic Defaulting of Printer
+Attributes for Cloud Printer Based On Automatic Media Type Detection.
+
+Mini Improvement Award for Image Validator.
+
+Got an eAward and appreciation for delivering the user stories in Linux
+path for Large format rendering support.
+
+Got an eAward and appreciation for solving and implementing PDF
+Annotations and the implementation of secured PDF rendering.
+
+LOA (Letter of Appreciation) for completing the user stories and tasks
+before time in the busy agile environment.
+
+Academia:
+
+B. Tech Information Technology from Vellore Institute Of Technology,
+vellore
+
+VIT,Vellore with 8.81 CGPA 
+
+Year of passing 2010
+
+Intermediate from Sri Chaitanya Junior College, Hyderabad 
+
+Board of Intermediate education,AP with 90.4%
+
+Year of passing 2005
+
+High school from Vasavi public School, Kamareddy
+
+State Board of Andhra Pradesh with 88.5%
+
+Year of passing 2003.
+
+Co-Curricular Accolades
+
+Won FIRST PRIZE in “COLLEGE BIZ” event during Phreak’ 08 held at
+VITU, Vellore October 21st to 22rd 2008.
+
+Won a prize in Talent test conducted by Gnanadeep Junior college,
+Kamareddy.
+
+ Part of organizing team of Riviera’09 International cultural fest at
+VITU, Vellore.
+
+Participated in the 1st International conference on Cryptography and
+Network security held in VITU between Feb 18-19, 2009.
+
+Participated in Confer’08 (SCS technical fest) held at VITU, Vellore.
+
+	
+
+Personal Details
+
+Date of Birth                      13-Dec-1987
+
+Father’s name                    Srinivas Allenki
+
+Sex                                     Male
+
+Nationality		       Indian
+
+Hobbies		       Cricket, watching Movies, surfing Internet
+
+Permanent Address            #3-37, Shankrampet® , Medak District,
+AP-502248
+

@@ -1,0 +1,472 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+            -  3 YEAR &
+CUREENT                                �
+�              
+
+Spring                  
+                             -   3
+YEAR                                  
+              
+
+Web
+Services                                
+   -  4
+YEAR(soap/RESTFUL)                           
+                     
+
+Core
+Java                                  
+             -  6years(AWARE)
+
+Design
+Patterns                                
+    -    DONE
+
+UML
+design                                 
+          -    
+
+Build Tools (Maven/Ant)                    -   
+Ant 
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+TOMCAT/JBOSS/WEBLOGIC
+
+Db-ORACLE/MYSQL
+
+Mobile No: +918297198563			                    Email Id:
+hriraga@gmail.com
+
+Summary
+
+			
+
+Hema Reddy has 6+ years of experience in the I.T industry .He has worked
+on BNFS (Banking and Finance Services) and Health care domains. Done
+BNFS (Banking Domain) level1 Certification.He has knowledge of Web based
+Technologies. His core expertise is in Java, JSP, and Servlets along
+with Struts & Spring Frameworks. He is well acquainted with the design,
+development and implementation stages of various projects.
+
+Skills
+
+Languages		       JAVA, J2EE, Ruby on Rails (ROR).
+
+Web Technology	 JDBC, Servlets, JSP, HTML, JavaScript, Web services
+(Axis2), JMS, Javafx
+
+Application Servers	    JBoss, BEA Web logic 10.2, Web sphere 8
+
+Frame works	   Jakarta Struts 1.2, Spring 2.5, Tapestry, Log4j and ANT
+
+Web Servers	   Tomcat
+
+Databases	   Oracle , AS 400-DB2, H2
+
+Operating Systems             Windows 2000/NT/XP/9X, UNIX, Linux
+
+Ide’s                                  Eclipse, My Eclipse, Bea Web
+logic Studio, Net Beans, RAD.
+
+Tools	VSS, SVN, CVS, Clear case, IBM RTC, SSH Tectia, Putty
+
+Professional Profile
+
+ 
+
+Employer	    United Health Group Information Services Private Limited
+(Optum)
+
+Title			       Senior Software Engineer
+
+Date of Employment	       Jan 2014– till date
+
+Project Information
+
+Employer	   UHG (Optum)
+
+Title			      Senior Software Engineer
+
+Date of Employment	      Jan 2014 – till date
+
+Project 		      Ingenix Claim Processor (ICP)
+
+Technologies                      Java, html5, tapestry, EJB, Web
+services, JMS, Oracle, Javafx, H2
+
+Professional Profile
+
+ 
+
+Employer	    UST Global Pvt Ltd
+
+Title			       System Analyst
+
+Date of Employment	       Jan 2013– Jan 2014
+
+Project Information
+
+Employer	   UST Global (Bank of America Continuum India)
+
+Title			      System Analyst
+
+Date of Employment	      Jan 2013 – till date
+
+Project 		      Card Issuance (CPA and PCV)
+
+Client                                 Bank of America.
+
+Technologies                      Java, JSP, Servlets, EJB, Web
+services, AS 400(DB2), Struts, spring
+
+Description      	                   Card Issuance has two applications
+CPA (Card Product Administration) and PCV (Photo Card Admin).CPA
+application will be used by the Operations team in order to define the
+attributes that are to be embossed on a card. In this application we can
+define the product format’s related for a product type, photo type and
+Media type.
+
+PCV (Photo card Admin) application is used by the banking centers and
+Operations in order to maintain the photos of a customer and to validate
+the photos by interaction the system Xerox. And also if the validation
+fails letters can be sent as a notification with the valid reason codes.
+
+
+Roles & Responsibilities:
+
+Implemented Spring IOC or the Inversion of Control 
+
+Involved in implementation of Web Service delegates developed using
+Apache Axis.
+
+ Involved in Analysis, Design, and Development for the C3PM new
+requirements
+
+ Involved in designing the system based on UML concepts, which include
+Use Case diagrams, class diagram and sequence diagram.
+
+ Used struts tags, JSTL, custom tags and extensive JavaScript 
+
+ Developed the presentation layer using Model View Architecture
+implemented in struts
+
+ Assisted in the Junit testing for developing Test Scenarios and Test
+Cases and their documentation.  
+
+Experienced in web application development using RAD.
+
+Professional Profile
+
+ 
+
+Employer	    Syntel Global Pvt Ltd
+
+Title			       Software Engineer
+
+Date of Employment	       Oct 2009 – Jan 2013
+
+Project Information
+
+Employer	   Syntel, Mumbai
+
+Title			      Software Engineer
+
+Date of Employment	   Aug 2012 – till date
+
+Project 		      Regulatory Capital Management (RCAP)
+
+Client                                 State Street Bank & Trust Company
+(SSIT)
+
+Technologies             State street private cloud Environment toolkit
+(CDT), J2SE, Servlets, JSP,   
+
+          Struts, spring, Oracle
+
+Description      	 The Regulatory Capital (RCAP) is a web-based solution
+for regulating the data from staging table to BANCWARE system. This is
+an existing application, needs to migrate it to cloud environment based
+on the principles laid down by cloud team of SSIT.
+
+RCAP Web Application consists of various screens that aids in the data
+upload to BWCM and automation of BWCM process. The raw data from RDR is
+loaded into RCAP staging area based on certain business rules which then
+triggers autosys job to load data into BWCM.Some data fails to qualify
+the prescribed business rules and hence is directed into the exception
+tables which is made available for the business review. Also, the web
+application contains screens that automate the BWCM processes
+eliminating the gruesome work of manual trigger by the users. Also, the
+reference tables of BWCM can be added and updated from the front end.
+
+Roles & Responsibilities:
+
+Done POC’s on State street cloud f/w CDT (Cloud Development Tool Kit).
+
+
+Written TAD for RCAP-Cloud Environment.
+
+Written CDT web services for service components which are re-usable.
+
+Done role Based authorization using eSF f/w which is part of SSIT cloud
+tool.
+
+Project Information
+
+Employer	   Wells Fargo (Client location)
+
+Title			      Analyst programmer
+
+Date of Employment	   Feb 2011 – Aug 2012
+
+Project 		      Commercial Credit Expense Reporting
+
+Client                                 Wells Fargo, USA
+
+Technologies                     J2SE, Servlets, JSP, Struts, spring
+2.5(IOC, AOP), JMS, 
+
+      Web Services (Axis2), Oracle
+
+Description      	 The Commercial Card Expense Reporting (CCER) is a
+web-based solution for purchase-card management. CCER offers program
+administration, reporting and reconciliation. Wells Fargo customers can
+use the unique, single-card to pay for expenses incurred by travelling
+employees, vehicle fuel and corporate purchase. CCER supports for
+Accounts Payable disbursements as well. Cardholders, Reconcilers and
+approvers can view their account and perform regular card maintenance
+with ease. CCER provides monthly statement viewing, reconciling and
+approving, entering out-of-pocket expenses for direct reimbursement to
+your bank account.
+
+We finished the migration of existing EJB Components to spring framework
+compliant. written the new web services which are required for CCER
+Mobile client.
+
+Roles & Responsibilities:
+
+Implemented Spring IOC or the Inversion of Control 
+
+Involved in implementation of Web Service delegates developed using
+Apache Axis.
+
+ Involved in Analysis, Design, and Development and Production phases of
+the application.
+
+ Involved in designing the system based on UML concepts, which include
+Use Case diagrams, class diagram and sequence diagram.
+
+ Used struts tags, JSTL, custom tags and extensive JavaScript 
+
+ Developed the presentation layer using Model View Architecture
+implemented in struts
+
+ Assisted in the Junit testing for developing Test Scenarios and Test
+Cases and their documentation.  
+
+Experienced in web application development using Eclipse.
+
+Project Information
+
+Employer	   Syntel, Mumbai
+
+Title			      Analyst programmer
+
+Date of Employment	   Feb 2010 – Jan2011
+
+Project 		      CFM Data Router
+
+Client                                 Wells Fargo, USA
+
+Technologies                     J2SE, Servlets, JSP, Struts, spring
+2.5(IOC, AOP), JMS, 
+
+      Web Services (Axis2), GEO Integration, Drools, Oracle
+
+Description      	 The objective of this project is to design and
+develop a flexible, scalable, configurable and asynchronous framework
+for routing data between disparate systems. The framework will accept
+data from data source and route the data to external system or log the
+data in database or do both. The framework will implement business rules
+to decide the next action in a XML rules framework. The XML rules
+framework will define rules as plug and play components in configuration
+file.
+
+The system also has a screen to get the GEO information from a given IP
+Address in order to know the information like latitude, longitude,
+country, city, region etc.
+
+The framework will support point to point or publish subscribe
+methodology and will enable sending any type of message to queue or
+topic.
+
+Roles & Responsibilities:
+
+ Done POC on Drools engine
+
+ Done GEO IP integration with CFM.
+
+ Implemented Spring IOC or the Inversion of Control 
+
+Addressed cross-cutting concerns like logging and verification for the
+Web Application using Spring AOP. 
+
+ Involved in implementation of Web Service delegates developed using
+Apache Axis.
+
+ Involved in Analysis, Design, Development and Production phases of the
+application.
+
+ Involved in designing the system based on UML concepts, which include
+Use Case diagrams, class diagram and sequence diagram.
+
+ Develop, implement, and maintain an asynchronous, AJAX based rich
+client 
+
+ Used struts tags, JSTL, custom tags and extensive JavaScript 
+
+ Developed the presentation layer using Model View Architecture
+implemented by 
+
+ Assisted in the Junit testing for developing Test Scenarios and Test
+Cases and their documentation.  
+
+Experienced in web application development using Eclipse.
+
+Project Information
+
+Employer	   Syntel, Mumbai
+
+Title			      Analyst programmer
+
+Date of Employment	   November 2009 – January 2010
+
+Project 		      EServicer
+
+Client                                 Wells Fargo, USA
+
+Technologies                      J2SE, Servlets, JSP, Struts 2, xml,
+XSLT, Oracle
+
+Description      	 	The EServicer application is basically an intranet
+application where it’s going to generate the reports in Excels. There
+are four users for an Eservicer application.The present criterion is to
+suggest better architecture and scalability of the application even
+though the number of users increases.The excel sheet gives the
+information of the loans depends on the searching criteria.
+
+Roles & Responsibilities:
+
+   Performed scalability analysis by running the tools like fortify,
+check style and JMeter to know the performance related issues.
+
+   Designed Jsps for New CR.
+
+Designed action, handler classes as per new CR.
+
+Created xml’s and applied XSlT to generate specific Excel.
+
+Fixed the bugs.
+
+Project Information
+
+Employer	   Syntel, Mumbai
+
+Title			      Analyst programmer
+
+Date of Employment	   October 2009 – November2009
+
+POC 		     	      Sniffer Tool
+
+Client                                 Wells Fargo, USA
+
+Technologies                      J2SE, itext, Batch File 
+
+Description      	 	 This tool generates the report in PDF. By analyzing
+the report the client can estimate regarding time when the applications
+were upgrading. This report gives the information regarding inventory of
+the code base, jars present in the application, jars really used in the
+application and also the version related to the jar files.And also it
+gives the information regarding enum instances, restrictive imports in
+jsp.It also gives number of Connection pools,JMS Server etc.
+
+Roles & Responsibilities:
+
+   Developped the code for all searching criteria’s and generated the
+PDF report.
+
+   Written batch file to run the tool.
+
+Professional Profile
+
+ 
+
+Employer	    Patni Computer Systems Ltd., Mumbai
+
+Title			       Software Engineer
+
+Date of Employment	    Sept 2008 – September 2009
+
+Project Information
+
+Employer	   Patni Computer Systems Ltd., Mumbai
+
+Title			      Software Engineer
+
+Date of Employment	   Sep 2008 – Sep2009
+
+Project 		      MetLife
+
+Client                                 MetLife, USA
+
+Technologies                     J2SE, J2EE, Servlets, JSP, Struts1.2,
+Spring (IOC & AOP), Hibernate
+
+                                          Oracle
+
+Description      	 	DTCC (Depository Trust & Cleaning Corporation) is
+the one of the module in MetLife. This add-on module starts from reading
+the ACORD’S standard xml file from a message queue. There are mainly
+two basic types according to its predefined unique document
+identification code namely
+
+Single page (id - 105)
+
+Multi page (id - 106)
+
+Uploading document from ACORD xml to File Net server. The format of the
+image will be PDF (same format as passed in the xml).If the File Net
+server is not available for any reason or goes down due to heavy
+traffic, then, pre-defined attempts are made to get the connection. Even
+after that if the FileNet server is not available then the application
+will stop the current execution of the case and put the retrieved xml in
+“Error” Queue of MQ and notification would be sent to production
+support.
+
+Roles & Responsibilities:
+
+   Designing Jsps by using struts tiles framework.
+
+Performed server-side validations by using validation framework and
+client-side validations 
+
+      Using JavaScript framework.
+
+Developed Presentation-Tier using Struts html tlds, Struts bean tlds and
+Struts logic tlds.
+
+Developed Action Classes, Action Forms, DAOs, DTOs, and Hibernate
+mapping files and     
+
+      Implementation logic in mapping files.
+
+Involved in unit testing of the application.
+
+(Hema Reddy)
+
+HemaKumar Reddy.I
+

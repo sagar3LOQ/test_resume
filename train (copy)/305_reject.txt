@@ -1,0 +1,298 @@
+Uday kiran Godha
+
+Email:udaykirangodha@gmail.com
+
+                                                             Mobile No:
++91-9642287728
+
+SUMMARY:
+
+Having 4 years of experience in designing and implementing extensible
+and scalable solutions in J2EE Development and passion for designing and
+developing innovative, high quality, high performance, maintainable and
+effective J2EE web Applications. Banking Domain (especially in Global
+Risk, Compliance and Regulatory) and Norkom/Detica Netreveal Case and
+WLM management.
+
+Good command in Core Java,J2EE Technologies like Servlets, JSP ,JDBC,
+Ejb’s, JavaScript, HTML,XML,JSF and Databases like Oracle 10g and
+MySQL 5.0 and frameworks like Struts, Spring, and Hibernate (ORM).
+
+Extensively used various design patterns such as MVC, DAO and Session
+Façade in the development of Multi-Tier distributed Enterprise
+Applications.
+
+Norkom/Detica Netreveal product owned by HSBC to use it as Group
+solution for WLM Management. This product is based on JEE, Struts and
+hibernate.
+
+Experience in installation, configuration, and deployment of Risk based
+software product (Detica Netreveal) and participated in region releases
+and providing live support to them.
+
+Worked extensively in various streams of banking domain within HSBC
+Software development pvt ltd. India as a highly motivated to take on
+responsibilities, an active team player able to contribute efficiently.
+
+Willingness and ability to quickly adapt and learn new technologies and
+to deliver outputs in limited period of time.
+
+Ability to work independently as well as with team members.
+
+WORK EXPERIENCE:
+
+Working as a Sr. Software Engineer for Birla Soft from OCT 2014 to till
+date.
+
+Working as a Software Engineer for HSBC GLT from OCT 2011 to SEP 2014.
+
+Working as a Software Developer for Four-Soft Limited from June 2010 to
+July 2011.
+
+EDUCATIONAL Qualification:
+
+Standard	Year Of Passing	Board/University	CGPA/% of Marks Obtained
+
+ B.Tech(C.S.E)	2010	GITAM College of Engineering	8.42
+
+Intermediate(M.P.C)	2006	Board of Intermediate Education, A.P	94.8
+
+X Class	2004	Board of Secondary Education, A.P	90.6
+
+
+
+TECHNICAL SKILLS:
+
+Operating Systems	Windows, Unix
+
+Databases	 Oracle 10g, My SQL
+
+Programming Languages	 C,C++, Core Java
+
+J2EE Technologies	JDBC, Servlets, JSP, EJB, XML, Ajax, JSF
+
+Frameworks
+
+	Struts ,Springs
+
+
+
+ORM	Hibernate
+
+Scripting Languages
+
+	HTML, JavaScript, CSS
+
+
+
+Application Server	ORACLE OC4J, Web Logic
+
+Web Server
+
+	Tomcat 5.5,Glassfish
+
+
+
+IDE’s/TOOLS	Eclipse, Net Beans, IBM RAD,My Eclipse, Crystal Clear,HP
+QC
+
+
+
+BUILDTOOL                                           ANT
+
+PROJECTS:
+
+ 
+
+Project #1: 
+
+Role                  : Developer				                        (October
+2014 – Till date)
+
+Title	            : Motor Tools
+
+Client	         :   GE
+
+Environment   : Java, Jsp, Servlets, TSF Frame work, Restfulwebservices,
+XML, JDBC, Java Script, Oracle10g, Jboss 5.0, WinScp, Putty,SQL
+developer.
+
+Description:
+
+    Motor Tools contains applications like EBG+,PDA,MMS,PQS 
+
+  
+
+Responsibilities:
+
+Involved in developing the CR’S for the application.
+
+Worked as one of the Core Development member in the team.
+
+Involved to resolve various Production issues.
+
+Interacting with Users on call to understand the requirements/
+troubleshooting / updates on deliveries.
+
+Weekly Reporting to the Manager on issues, achievements, progress, risks
+and projected plan.
+
+Followed Design Patterns while developing and designing the application.
+
+Designed the technical documents and unit test cases for the documents.
+
+Involved in developing the user interface, for invoking the business
+logic, writing data access logic and displaying pages respectively.
+
+Involved in Team Meetings and provided my views in designing the
+application.
+
+Project #2: 
+
+Role                  : Developer				                        (October
+2011 – Septmber 2014)
+
+Title	            : SCION&SCDM
+
+Client	         :   HSBC(US ,EU,ASP,LAM,ARG)
+
+Environment   : Core Java, SQL, HTML, JavaScript, IBM RAD 7, IBM DB2,
+Windows 7, SharePoint, Quality center 9.2, Norkom WLM and Case
+Management Tool, DB Visualizer, WinScp, Putty,MKS .
+
+Description: 
+
+SCION is a Case Management system and Intelligence Database for security
+related incidents and Money Laundering suspicions for use by all Group
+companies on a global basis.  It provides users with access to a central
+source of information to facilitate better informed case management,
+risk management, reporting and analysis. SCION has replaced various
+diverse local end-user systems.
+
+Security Compliance Data Matching (SCDM) is a global client screening
+utility and watch list management system.  Participating
+countries/business entities will pass new and altered customer data to
+SCDM for comparison against Group and local lists of terrorists,
+criminals, sanctioned entities and politically exposed people.
+
+Responsibilities:
+
+Involved in developing the CR’S for the application.
+
+Worked as one of the Core Development member in the team.
+
+Involved to resolve various Production issues.
+
+Interacting with Users on call to understand the requirements/
+troubleshooting / updates on deliveries.
+
+Weekly Reporting to the Manager on issues, achievements, progress, risks
+and projected plan.
+
+Generated Reports for world check list and standard list
+
+Followed Design Patterns while developing and designing the application.
+
+Designed the technical documents and unit test cases for the documents.
+
+Involved in developing the user interface, for invoking the business
+logic, writing data access logic and displaying pages respectively.
+
+Involved in Team Meetings and provided my views in designing the
+application.
+
+Involved in Audit of SCDM project.
+
+Project #3: 
+
+Role                  : Developer				                        (September
+2010 – June 2011)
+
+Title	            : e-Trans2.9
+
+Client	         :   Jacobson, UTC
+
+Environment   : Java, Jsp, Servlets, EJBs, AJAX, XML, JDBC, Java Script,
+Crystal Clear, Oracle10g, OC4J, PL/SQL
+
+Description: 
+
+                 Multi-modal Freight Management System, e-Trans meet all
+the information requirements of freight service providers in moving
+their customer’s shipments across various geographical locations. It
+is a complete B2B enterprise application (ERP) and handles all
+operational and financial information needs of Air and Ocean.
+
+Air and Ocean are two types of Shipments. In this product have two types
+of operations. These two types of operations are done in AIR and OCEAN.
+
+Operation Types:
+
+                   1. Export Operations
+
+	2. Import Operations
+
+Each operation has various types of Modules, which completes the End To
+End operations in e-Trans.
+
+Responsibilities:
+
+Developed the project using EJB2.x, Jsp, Servlets, JavaScript, Ajax and
+Xml.
+
+Involved in developing the CR’S for the application.
+
+Worked as one of the Core Development member in the team.
+
+Involved to resolve various issues.
+
+Followed Session Façade Design Patterns while developing and designing
+the application.
+
+Designed the technical documents for Air and Ocean Operations.
+
+Involved in  develop the user interface, for invoking the business
+logic, writing data access logic and displaying JSP pages respectively.
+
+Involved in Team Meetings and provided my views in designing the
+application.
+
+Deploy & build the Application.
+
+Unit Testing.
+
+ACHIEVEMENTS:
+
+Certification in Java conducted by HSBC. 
+
+TEAM Award by HSBC for Q1 2012.
+
+J2EE Certification from Srikanth Technologies.
+
+Town First in 10th Class.
+
+Got Many Prizes in essay writing at School level.
+
+EXTRA CURRICULAR ACTIVITIES:
+
+Event Organizer in  the event of Denni.s,  Blackswan.c  in Organization
+of National level Technical Fest  Alacrity-09,Conducted by Computer
+Science&Engineering Dept.GITAM.
+
+Actively Participated in many social service activities like serving in
+old age homes, orphanages, blind school etc.
+
+Declaration: 
+
+I hereby declare that the information furnished above is the true to the
+best of my knowledge.
+
+Date:
+
+Place: Hyderabad                                                  	
+[UDAYKIRAN GODHA] 
+
+PUBLIC
+
+PUBLIC
+

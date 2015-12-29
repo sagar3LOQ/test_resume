@@ -1,0 +1,416 @@
+      (: (+91) – 9980375000                      
+
+	                 	  HYPERLINK "mailto:ravishankar.gorthi@gmail.com" 
+ravishankar.gorthi@gmail.com 
+
+   HYPERLINK "http://in.linkedin.com/in/ravishankargorthi/" \o "View
+public profile"  in.linkedin.com/in/ravishankargorthi/ 		     HYPERLINK
+"https://github.com/ravishankar214"  Github.com/ravishankar214   
+
+Ravi Shankar. Gorthi
+
+Professional Summary:
+
+	Technologist having 10 years of total IT experience with proficiency in
+streamlining from inception design, development and deployment of
+desktop, enterprise and web based cutting-edge solutions using Java SE 
+JEE technology stack with a strong forte in Storage, E-Commerce and
+Investment Banking domain knowledge
+
+(Certifications:
+
+Sun Certified Programmer for Java platform (SCJP)
+
+Sun Certified Web Component Developer (SCWCD)
+
+Brain Bench Certified developer in Java - EJB 3.0 
+
+Certification in MongoDB for Java and Node.js developers
+
+NSE Certification in Equity Markets (NCFM - Capital Markets)
+
+Noteworthy Attainment:
+
+Expertise in developing applications with core Java and J2EE technology
+stack 
+
+Hands on programming experience in end-to-end implementations of the
+product features
+
+Awarded several E-Awards for outstanding performance in HP and
+Spotlights in Intuit
+
+Received Business Award for submitting a new idea? in Ideafest session
+held at HP
+
+Achieved Intuit Innovation award for Payments Notification System in
+reducing call volumes
+
+In-depth knowledge on Algorithms, Data Structures, OOPS, SOLID and OOAD
+concepts
+
+Good understanding and implementation of Agile methodologies and Design
+patterns 
+
+Ability to work independently, grasp new ideas and integrate them into
+desired results
+
+Possess result-oriented problem solving skills and commitment to team
+environment dynamics
+
+Strive to understand needs behind the customer’s requests and explore
+alternatives
+
+Active participant in Tech talks, Meetups, JUDCON and hackathons 
+
+Traveled on-site for client interaction to Dallas, USA and holding valid
+B1 visa 
+
+Technical Competencies:
+
+Technologies & Frameworks	: Java SE, Java EE, Hibernate, Struts, Python
+
+Spring 				: Core, AOP, Testing, SpEL, Data access, MVC, Batch, web
+services
+
+Web services			: SOAP, REST, JSON, CXF, Axis, Jersey, SOAP UI, Postman
+
+UI & JavaScript			: HTML, CSS, Ajax, Backbone.js, Angular JS, jQuery,
+JqGrid, Node.js
+
+Servers				: WebLogic, JBoss, Glassfish, Tomcat, Websphere
+
+Database			: SQL Server, MySQL, MongoDB, TOAD, Oracle and PL/SQL
+
+Tools				: Eclipse, Visio, Caliber, Clearcase, svn, Perforce, Log4j
+
+Others                                     	: UML, JUnit, Spock,
+Jenkins, Sonar, Maven, XML, StAX, ActiveMQ 
+
+Experimented                              : BPM tools, Mule ESB, Hadoop,
+MapReduce, Groovy, Cloud Computing
+
+Agile				: Scrum, XP, TDD, Kunagi, Kanban, JIRA Agile (Greenhopper)
+
+Career Chronology:   	
+
+Duration	Role	Location
+
+        Oct13  –  Date	Technical Lead	  HYPERLINK
+"http://metricstream.com/"  MetricStream , Bangalore
+
+Nov 11 – Sep 13	Senior Software Engineer	  HYPERLINK
+"http://www.intuit.com"  Intuit,  Bangalore
+
+ Jan 10  – Nov 11	Systems Software Engineer	  HYPERLINK
+"http://www.jpmorgan.com/pages/jpmorgan"  J.P. Morgan , Bangalore
+
+Sept 08 – Dec 09	Software Analyst Developer	  HYPERLINK
+"http://www2.goldmansachs.com/"  Goldman Sachs , Bangalore
+
+ July 06  – Aug 08	Systems Software Engineer	  HYPERLINK
+"http://www.hp.com/"  Hewlett-Packard , Bangalore
+
+ Sep 04  – June 06	Software Engineer	  HYPERLINK
+"http://www.inforide.com/"  Inforide Technologies , Hyderabad 
+
+Professional Experience:
+
+AppStudio 						                                                        
+    Oct 2013 – Date  
+
+Project Description:
+
+MetricStream AppStudio is a suite of tools, frameworks, best-practices
+and design methods to enable rapid design, development & sustenance of
+highly configurable Governance, Risk and Compliance (GRC) Applications
+on MetricStream Platform. AppStudio enables Rapid Application
+Development (RAD) on MetricStream platform by assembling high-level
+building blocks and re-usable code libraries. Application development
+based on AppStudio suite of tools ensures adherence to standards, higher
+quality and faster time to market. AppStudio is the interface for
+customer's business IT to easily configure and extend the core
+functionality provided by MetricStream platform and applications. Also
+AppStudio is the key enabler for MetricStream partners and vendors to
+build and deliver GRC applications on MetricStream platform.
+
+Responsibilities:
+
+Analyse and translate business requirements into technical
+specifications
+
+Implementing all phases of SDLC processes for the owned modules of the
+application
+
+Lead the design and development of several business critical features
+(ASCI, Data download…)
+
+Involved in technical, code, DB scripts and test case reviews and
+suggesting as applicable 
+
+Manage the Technical Support team for problem solving, patch releases,
+upgrade and compatibility
+
+Release management of the product with proper planning, risk mitigation
+and delivery with-in SLAs
+
+Defines and ensures database, application scalability and performance
+tuning across systems
+
+As Scrum Master, creating product backlogs and sprint backlogs and
+backlog prioritization.
+
+Managing recruitment, training of personnel as well as organising,
+planning, and staffing operations.
+
+Generate and share all the required reports and metrics of the product
+to PMO team
+
+Technologies and Tools:
+
+Java/J2EE, Angular JS, jQuery, Hibernate, spring, web services,
+ActiveMQ, Oracle, svn, Tomcat
+
+Intuit- OASIS						                                                    
+Nov 2011 – Sep 2013  
+
+Project Description:
+
+Oasis is an Intuit propriety application, which is used by Payment’s
+agents to manage customer's information such as Customer Care,
+Chargeback, Collection, Risk, etc. Oasis will deliver a set of tools and
+applications that enable business process improvements. A key
+deliverable will be to automate information flow to all appropriate
+internal and external systems. Oasis will provide self-service
+capability that allows Core Process 3 (CP3) employees (responsible for
+delivering product and service fulfillment to merchants) to make changes
+to appropriate configuration without IT intervention – (e.g. user
+security, roles & permission, merchant preferences). This system will
+hide underlying complexity and provide a reliable, scalable and
+easy-to-use solution that increases CP3 employee efficiency and
+effectiveness. 
+
+Responsibilities:
+
+Converting Business requirements in to functional/technical
+specifications
+
+Responsible for write well designed, testable, efficient code in
+compliance with specification
+
+Implementation of Chargeback & Retrieval functionality from JSF to
+Spring MVC in UI
+
+Hands on coding various functionalities of Account Management and Case
+management 
+
+Involved in technical, code, DB scripts and test case reviews and
+suggesting as applicable 
+
+Specifically worked on Chargeback and Retrievals business
+functionalities with SWIFT, PCI standard
+
+Interactions with customers in identifying pain points, ease of use for
+the fixtures
+
+Documenting the functional and code flows in various aspects related to
+the product
+
+Actively contributed for several POCs in unstructured time 
+
+Deftly handled the Merchant workflow errors end-to-end in identify,
+analysis, fix and release phases
+
+Being in Agile team: user story, effort, velocity, complexity,
+dependency and resource estimates
+
+Technologies and Tools:
+
+Java/J2EE, JavaScript, jQuery, Hibernate, JSF, spring, web services,
+ActiveMQ, Oracle, Perforce, Websphere
+
+JPMorgan- DAC - ADJUSTMENTS						            Mar 2010 – Nov 2011 
+
+The Adjustments Tool was created to better control the quality of data
+being reported by down stream consumers. This is accomplished by
+creating a single point of entry for making adjustments, a standardized
+approval process before adjustments are processed and a robust audit
+trail. The Adjustment Tool is also designed to allow a person making an
+adjustment to retrieve and perform adjustments in a faster, more
+controlled and efficient manner. Corporate Regulatory Policy & Reporting
+is responsible for ensuring that the firm's risk rating systems and
+processes satisfy both Basel II and internal requirements for soundness
+and accuracy.  Per risk policy, the group's functions are supported by
+activities performed by Quantitative Research, Credit Policy, Credit
+Review, Model Review Group, Equities and Technology
+
+Responsibilities:
+
+Consistently deliver high-quality code and design components as per
+schedule, spec and requirements 
+
+Analyse and recommend best practices in database design, performance,
+security and scalability
+
+Develop code which is robust, scalable and maintainable that is
+consistent with IB Tech arch principles
+
+Involved in End-to-End implementation and maintenance of the application
+
+Defines and ensures database performance tuning across systems
+
+Estimate task timelines as well as create and maintain appropriate
+documentation & metrics 
+
+Technologies and Tools:
+
+Java/J2EE, Javascript, Hibernate, Struts, spring, Eclipse, Oracle, Toad,
+Weblogic, Tortoise SVN
+
+Goldman Sachs- BTS Solutions (portal.btssolutions.com)				Sep 2008 –
+Nov 2009 
+
+Project is for Goldman Sachs’s REPIA (Real Estate Principal Investment
+Area) line of business under which it has a considerable amount of
+investment into Hotels across US and Europe. User had wanted some way by
+which they can retrieve and update/publish forecast data related to
+earning and different type of expenses on monthly basis. User can also
+collate and agree upon forecast/budget metrics for various expense and
+earnings.
+
+Apart from this REPIA group has 29 web applications (LMS, Loan Star,
+RMS, Contact, Disposition, Partials, Rules Manager, Reports, QSR etc.)
+used for different line of business for which enhancement/defect work
+requested by user frequently comes to off-shore team. Individuals are
+expected to quickly learn about those application and design and develop
+solution for them.
+
+	AICE Application: The fund accounting capital and financial statements
+package application packages and ftp investor capital and financial
+statements to Goldman Sachs. It allows the user to select certain
+details about the statements being packaged and then validates that
+information prior to packaging and ftps the files to Goldman Sachs
+servers 
+
+Responsibilities:
+
+Analyse and translate business requirements into technical
+specifications
+
+Implementing all phases of SDLC processes for the owned modules of the
+application
+
+Coding from scratch for all the features following the standards and
+involving code/peer reviews
+
+Analyse and recommend known best practices in database design,
+performance, security and scalability
+
+Fully owning the entire AICE application for the end to end design,
+implementation phases
+
+Technologies and Tools:
+
+Java/J2EE, Hibernate, Struts, Jboss, Eclipse, Oracle, TOAD, Jira, VSS,
+Windows
+
+HP Replication Solutions Manager   	                                    
+                                         July 2006 – Aug 2008 
+
+Responsibilities:
+
+Involved in collecting, analysis and design of the requirements using
+CaliberRM
+
+Implementing all phases of SDLC processes for the owned Replication
+Server and JobEngine modules
+
+Recommend and implement the new features and fixing the bugs
+
+Coding new APIs for the hostagent interface and validation classes  
+
+Skilled in preparing comprehensive unit test cases and documenting them
+
+Developed “Proof of concept” product and made presentation to
+management about the Idea
+
+Publishing the defect count metrics and smoke testing the new builds and
+releasing them to partners
+
+Actively participating in customer engagement programs and organization
+wide activities
+
+Involved in code/peer reviews, SCRUM sort of agile programming
+methodologies 
+
+Technologies and Tools:
+
+Java/J2EE, JBuilder, JBOSS, Solid, Quix, Clearcase,
+Caliber-requirements, Doast-automation & Windows                        
+                                                                        
+     
+
+Inforide - Enterprise Application Portal (Technozant, USA)			           
+Sep 2004 -- June 2006                  
+
+Responsibilities:
+
+Based on MVC2 architecture web pages flow designing, Coding, functional
+testing and Integrating
+
+Developed role based authentication design and action forms
+
+Involved in Database designing issues and Implemented the pooling and
+procedures concepts 
+
+Involved in coding of JSP pages.
+
+Actively contributed in implementing Servlets classes.
+
+Involved in Database connections setup.
+
+Technologies and Tools:
+
+Java, Servlets, Jsps, Beans, XML, Edit plus, Oracle 9i, WebLogic 8.1,
+Windows XP
+
+Academic Credentials:                     
+
+Course	University	Year of passing
+
+MS (Software Systems)	BITS, Pilani	2010
+
+		M.C.A	Osmania	2004
+
+B.Sc. (Comp-Sc)	Osmania	2001
+
+Inter (M.P.C)	Inter Board	1998
+
+S.S.C	S.S.C	1996
+
+
+
+Interests:
+
+	Algorithmic trading strategies and techniques 
+
+	Chargeback and retrievals in online payment systems
+
+	Application scaling and performance optimization techniques
+
+Declaration:              
+
+	I hereby declare that the above written particulars are true to the
+best of my knowledge and look forward to a long and mutually beneficial
+association
+
+     Date:
+
+     Place: Bangalore		
+
+  	                    		(RAVI SHANKAR. GORTHI) 
+
+EMPNO: 118984                                         0 page  8 
+
+   PAGE  2 
+

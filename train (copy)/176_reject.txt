@@ -1,0 +1,90 @@
+AMIT KHANDELWAL
+E-Mail Id: - amitkhandelwal0887@gmail.com
+Cell:-08886890011
+Current location: - Hyderabad
+Current Company: - Amazon.com
+Objective:
+Looking for opportunities to design and develop challenging software projects in a good product
+Based company.
+Profile Summary:
+3.5 years of experience in product development (designing, coding, debugging, bug fixing, testing and
+supporting the system) .currently working in Amazon.com as a programmer analyst in Vendorpayments team. Responsible for building/enhancing web-service for vendor returns Application.
+Previously worked in product development team of Infosys banking product Finacle. Actively
+involved in the recruiting technical talent for Amazon and mentoring the new joiners in the team.
+Skill Summary :
+OS/Programming/Coding /Tools skills:
+Expert in Data structures, Algorithm design, problem-solving and coding in C and Core JAVA.
+Intermediate level experience in PHP,MYSQL, RDBMS, JavaScript, HTML, Spring and hibernate
+framework,
+Coding in C/C++ language using HP-UX flavor of Unix.
+Created internal website for team using the PHP and MYSQL in Infosys and college.
+Domain expertise :
+
+1. Good knowledge of finance domain. Modules on which I worked on are payment system,
+loan, and collateral and liquidity management system.
+2. Gained Technical as well as functional knowledge about the complete process of vendor
+payments in Amazon.
+Project/Work Details [Amazon.com] feb-2013 to current
+Vendor-Returns Application( Java using spring and hibernate) :Involving in the enhancement and development of Vendor-Receivable web-Service. This Web-service
+is used by Self-service tool of vendor i.e. Vendor-Central as well as other development team of
+Amazon. I developed some new functions for the service which includes adding new criteria to fetch
+the invoices on website, as well as enhanced existing functions to improve the performance of service.
+Banking-module :Enhanced banking module, which allows vendor to enter their banking information without disclosing
+their sensitive information to anybody. Did coding for front-end, back-end and database. Worked as a
+full-stack web-developer and developed this N-tier web-application. Technologies used in projects are
+Java, HTML, JavaScript, spring, hibernate.
+
+Infosys Limited :- Aug’10 to Feb’12
+Loan-processing system :- Nov’12 to Jan’13
+Redesigned the part of the loan processing engine, which is used for providing loans against
+customer’s accounts. One customer can have multiple and multi-type accounts on which he can take
+the loan. In previous system, information about user’s account is fetched and shown one at a time.
+While new system menu can process and display summary of all these accounts together. It saved the
+user’s time and improves the execution complexity. I did complete coding for the back-end designing
+(C, data-structure, Database) part of this module and used Link list for providing this functionality.
+Past Projects:- (from July’11 to Nov’12 )
+1. Designed and coded a complete new interface for getting and processing the details of
+nominees for a particular customer. This interface will be incorporated in multiple banking
+modules. I handled both the Front-end and Back-end part of this interface. I have created new
+DB tables to store the information and wrote functions for validation, inserting, fetching and
+modification of the record. As one customer can have multiple nominee hence to implement
+this, link list was used both at the Front-end and Back-end.
+2. Added various new fields in collateral module to capture information about different collateral
+types. Added code for validation and processing both in front-end and back-end.
+3. Implemented a report formation based on the customer id. It takes customer id in front-end and
+prepares the report in which all the collaterals lodge by the user are displayed.
+4. Enhanced the existing field searcher by adding one more filter criteria. For this, added field on
+front-end page and a query on the back-end.
+5. To reduce the no of wrong inputs, added one informative field which provides information that
+how much amount is available for the customer so customer can spend only less amount hence
+prevent unnecessary error thrown by back-end.
+Infosys training:- (from Aug’10 to march’11)
+1. Completed training in C/C++, RDBMS, J2EE, SE and other subjects with ‘A’ grade in Dec.
+2011.
+2. Had training for Finacle from Jan’11 to March’11 in which both the Front-end and Back-end of
+Finacle were taught.
+3. Gained good knowledge about the Back-end of Finacle, which is in the C/C++.
+Educational Background :Degree
+Institute
+Year
+Percentage
+1. B.E. [I.T.]
+M.B.M. Engineering College, 2010
+72.60 %
+Jodhpur
+2. Senior
+M. H. S. Jaipur, Rajasthan
+2005
+75.23%
+Secondary
+3. Secondary
+T. V. B. Jaipur, Rajasthan
+2003
+76.33 %
+
+* Got a merit based scholarship in the 3rd year and final year.
+* Got Honors Degree in Engineering.
+* Passed Out from the oldest and Government engineering college of Rajasthan state.
+* was in top-5 student of my department .
+
+

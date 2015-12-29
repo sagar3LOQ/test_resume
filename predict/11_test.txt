@@ -1,0 +1,149 @@
+F. No. 202,
+
+A1 Block, 5th Phase,
+
+Janapriya Apt. Miyapur,
+
+Hyderabad, Telangana.
+
+Mahalingam Iyer
+
+Mob: (+91)766-1046-094
+
+mahalingam.m.iyer@gmail.com
+
+DOB: 9th Dec 1991
+
+
+
+Summary
+
+Passionate, Entrepreneurial thinking 2+ years’ experience as full stack developer specializing in Object Oriented JavaScript, AJAX, HTML, CSS, Angular.js, Backbone.js, jQuery, Less, D3.js, developing REST service using WCF, creating schemas and stored procedure on SQL Server database.
+
+
+
+Employment
+
+Software Engineer
+
+Persistent Systems
+
+13th August 2013- Present
+
+Implemented gamification strategy for HR process automation (used HTML5, SQL server, API, JS), Social Media Marketing.
+
+Developed On-boarding application (created SRS, Design, used SQL server, REST API, HTML5, JS)
+
+Developed E-Learning simulations (using JavaScript, HTML 5, CSS3, Touch events, responsive UI, BackboneJs,)
+
+Implemented tweeting app using AngularJS. 
+
+
+
+Webmaster
+
+JNEC-CSI students Branch.
+
+August 2012 – May 2013
+
+Applied Search Engine Optimization techniques site was ranked at first position on all major search engines
+
+Created and maintained website using Joomla CMS.
+
+
+
+Software Development, Intern
+
+Cadence Datasoft Pvt. Ltd.
+
+June 2012 – July 2012
+
+File Compression file compressed at binary level implemented in C using Run Length Encoding.
+
+Followed company process model while developing and successful implemented lossless compression.
+
+
+
+Hardware Engineer, Intern
+
+The Computer Lab
+
+April 2007 – May 2007
+
+Main function was trouble shooting, repairing; maintenance clients also included some mission critical factories.
+
+Education
+
+Aurangabad, MH
+
+Dr.BAMU
+
+May 2010 – May 2013
+
+Graduation:  B.E. in Computer Science and Engineering 70.33%.
+
+
+
+Technical Experience (Projects)
+
+Gamified HR process (2015). Employee engagement, performance, appraisal, promotion, aspiration, points, rewards automation, on-boarding, using HTML5, CSS3, .NET. Worked on full stack designing architecture of feature, design document, building UI, creating REST Service, DB schema and stored procedures, testing, support and maintenance. Social media marketing of products. Understanding new requirement from stockholders, designing and implementing as per expectations. Extending support by interacting with users answering their queries, quick resolution of live issues.
+
+E-Learning Simulation (2014). E-learning simulations, adaptive learning, online assessment, usingHTML5, CSS3, JS, SVG, BackboneJS, D3 visualization, unit test using Jasmine. Worked on cross browser compatibility issues, touch events, responsive UI, SPA, resolving event conflicts, animations, Matching expectation of client’s strict code reviews. Adapted the new technology and worked on one of the tough project it was believed to be.
+
+Kampus Web Package (2013).Complete web solution; Browser; SEO tool; Split window; Event manager.  .Net, HTML, CSS. Managing whole project from requirement analysis to testing and marketing. Won second prizeat National level Project competition for my project and unique idea.
+
+
+
+Awards and recognition
+
+You Made a Difference (2014). “Great work on picking up the technology and domain on Smart Sparrow and delivering in such a short time.”
+
+Good Performance (2014).  “Thoroughly impressed with the way you investigated and found solutions to multiple issues related to touch devices. Good job!”
+
+Good Performance (2015). “Did a very good presentation to the team as part of tech series. Has always been very proactive and likes doing new things”
+
+Knowledge sharing within team(2015). “Loved the slide deck you shared on the changes in the eMee appraisal module - it was clear and precise, and helped me tremendously in reviewing the functionality” – CEO, eMee.
+
+Participation in company events (2015). “Organizing team events during project party,
+Your efforts & enthusiasm has helped in increasing the collaboration among team members.”
+
+Commitment to quality (2015). “Good job on CPA UI changes and delivering co-appraiser functionality within a given time frame. you have shown great flexibility and dedication, keep it up!!!”
+
+Going extra miles to honor the delivery commitment (2015).“Very good job on promotion workflow implementation & quick response to enhancement given at last moment by HR team. Appreciated your efforts !!!”
+
+Social Media Marketing (2015).We appreciate you actively following Persistent on social media. You’ve been an awesome contributor to our #Persistent25 campaigns. On Facebook, LinkedIn and Twitter you’ve earned some special recognition! Here’s for being a great brand ambassador for Persistent. 
+
+Won second prizeat National level Project competition for my project and unique idea for KAMPUS Web Package.
+
+
+
+My Manager says
+
+Narendra Rajput: “Strength: Confident, Self learning abilities, Commitment, Punctuality”
+
+“Mahalingam has done good job on different simulation, components assigned.Always ready to help other team members, possess good attitude towards work and team”
+
+AshishShinde:“Very good understanding of major features of eMee Application
+Very good team player, always ready to put extra efforts whenever required.
+Ready to take responsibility of own module and helping other team members.
+good debugging skills.”
+
+“Mahalingam is a very good team members, taking ownership of own module, good technical knowledge of ASP.net &JavaScript.”
+
+“Strength: Attitude towards work and team.”
+
+
+
+
+
+Hobbies
+
+Playing football, Running, Cycling, Trekking and Travelling.
+
+
+
+
+
+Languages
+
+English, Hindi, Marathi, Tamil, Telugu.

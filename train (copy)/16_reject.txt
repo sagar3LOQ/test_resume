@@ -1,0 +1,516 @@
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate                                              -  3 year & current                                                
+
+Spring                                                     -  3.5years & current                                                
+
+Web Services                                        -  7years                                                
+
+Core Java                                               -  8 year
+
+Design Patterns                                    -    singleton
+
+UML design                                           -    used
+
+Build Tools (Maven/Ant)                    -    Maven/ANt   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+Tomcat/PMD/eclipse.
+
+Worked on reflection
+
+DB- oracle/MySql db2
+
+9/13/60days(30days buy back)
+
+
+
+Rajendra Barve
+
+Contact:  9763725944
+
+E-Mail: rajendra_barve@yahoo.co.in
+
+A dynamic individual, seeking senior level assignments in the areas of Software Development with an organization of high repute in IT sector
+
+
+
+Profile Snapshot
+
+
+
+
+
+	Core Competencies
+
+	Software Development
+
+	Application Designing
+
+	Client Servicing
+
+	Testing
+
+	Team Management
+
+
+
+	Core Competencies
+
+	Software Development
+
+	Application Designing
+
+	Client Servicing
+
+	Testing
+
+	Team Management
+
+An astute professional with nearly 10+ years; hands-on experience in working on Java/J2EE, Web Service, Oracle, MySQL and DB2 .
+
+Understanding of system development life cycle including study of specifications, requirement gathering, designing, integration, testing, documentation and support.
+
+Adept at mapping requirements, custom designing solutions and troubleshooting complex software & application problems.
+
+Experience in handling all types of clients with effective communication.
+
+Pivotal in system analysis and finalization of technical/ functional specifications in an effective manner.
+
+Demonstrated excellence by handling the projects  from start  till final stage .
+
+An effective communicator with good coordination, planning and analytical skills.
+
+
+
+Employment Details
+
+
+
+Since Oct’10: Persistent System Limited, Goa as Module Lead
+
+Jan’06 to Oct’10: NE Technologies India Pvt. Ltd., Goa as Sr. Software Engineer
+
+Jun’04 to Jun’05: Goa Electronics Limited, Goa as Sr. Software Engineer
+
+
+
+Key Result Areas:
+
+	Expertise in writing effective java code with tested-proven design pattern, optimizing SQL queries and improving response time for client-server application.
+
+	Accountable for carrying out system study, designing architecture, maintaining coordination with team members for SRS, system design & architecture, coding, post maintenance after delivery, etc.
+
+	Responsible for identifying technology limitations & deficiencies in existing systems and associated processes, procedures and methods.
+
+	Managing activities right from conceptualization stage to the execution involving finalization of technical specifications and scheduling.
+
+Delivering & implementing the project as per scheduled deadlines and extending post-implementation support to the client.
+
+	Managing the operations with established protocols, guidelines and quality standards to ensure quality deliverables.
+
+	Administering the activities of software development  to meet system requirements, system designs and technical specifications in accordance with quality accredited standards..
+
+
+
+Highlights:
+
+	Effectively worked with and handled major clients like IBM, USAM & shopping.com,Goa Government and delivered task on time
+
+	Received an appreciation for timely delivering jasper POC for Castlight Project.
+
+	Holds the distinction of developing a pilot project while exploring newly launched blue mix environment of IBM Cloud servicing PaaS (Platform as a Service).
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+Previous Experience
+
+
+
+Jun’03 to May’04: St. Xavier College, Mapusa (Goa)as Lecturer of Computer Science & Technology
+
+
+
+Projects Undertaken
+
+
+
+Persistent System Limited, Goa
+
+Title:				SLOE (The Software License Optimization Engine)
+
+Client:				IBM
+
+Period:				Since Mar’14
+
+Environment:			Java 6.0, Rest API, JSP, DOJO, Spring 2.0, hibernate and IBM RTC plug-in with Jazz repository
+
+Database:			Db2
+
+Role:				Module Lead
+
+Team Size:			15
+
+Module Handled:		Handling back end logic for individual products (Ex RHEL,Oracle,Symantec)
+
+Description:	SLOE enables the collection, presentation and manipulation of deployment data , the population and presentation of license entitlement data. It also automate generation of optimized licensing plan.
+
+
+
+Title:				Lombardi
+
+Client:				IBM
+
+Period:				Nov’12 to Mar’14
+
+Environment:			Lombardi 7.5, 8.0 & 8.5 and db2
+
+Database:			Db2
+
+Role:				Module Lead
+
+Team Size:			10
+
+Module Handled:		Modeling of the various client’s business process using Lombardi
+
+Description:		Lombardi is IBM tool used for Business process modelling (BPM).
+
+
+
+(Refer annexure for rest of the projects)
+
+
+
+Technical Skills
+
+
+
+Operating Systems:			Windows and Linux 
+
+Web Development Framework:	Struts 1.1 and Hibernate 3.0
+
+Workflows:				Open Symphony (OS) and Workflows 2.8
+
+Languages:				Java and visual Basic(VB6)
+
+Scripting Languages:			Extended JavaScript(ExtJs), Ant, HTML, XML, Java Script and Shell Script
+
+Databases:				Oracle 10g, Postgresql and MySQL,DB2
+
+Web Technologies:			JSP, Servlet, EJB, Ajax, Struts 1.1 Tag libraries, Hibernate 3.0, JSTL and 
+
+Web Services:				Rest Client
+
+Web Server:				Apache Server, Oracle 10.1.3.1 and Tomcat
+
+IDE Used:				Jdeveloper 10.1.3, Intellij IDEA and Eclipse
+
+Reporting Tools:			(Jasper Report) iReport-1.3.1 and Crystal Reports
+
+Design Tool:				(Generate ERD) Oracle Designer
+
+Mapping Tool:				Mercator 6.5
+
+SCM:					VOB,GIT and Jazz
+
+Testing Tool:				Mockito,Junit
+
+ Project Management Tool:		Rally
+
+IBM BPM Tool:				Lombardi (BPM 7, 5, 8.0 &8.5)
+
+Mobility:				Android 4.0 with SQLite database
+
+Cloud Computing:			IBM-SAAS
+
+Cont Integration Tool:			Hudson-Jenkins
+
+
+
+
+
+
+
+
+
+Academic Project
+
+
+
+Title:			Taj Hermitage
+
+Organization:		ThywayInfotech Private Limited, Goa
+
+Duration:		6 Months
+
+Environment:		Apache Server, Linux, PostgreSQL and PHP
+
+Role:			Responsible for analyzing, designing and coding of the system
+
+Description:	Under this project handling the activities of designing & development of a client server architecture based system to computerize various activities of multi star hotel; generating KOTs, BOTs, billing, reservation, stock maintenance and reports.
+
+							
+
+Academic Qualifications
+
+
+
+MCA from Goa University, Goa in 2002
+
+B.Sc. (Physics and Electronics) from Goa University,Gao in 1997
+
+
+
+Other Accolade 
+
+
+
+Cleared NCST E-Level examination with 81 percentile
+
+
+
+PERSONAL DETAILS
+
+
+
+Date of Birth:			14th June, 1977
+
+Address:			Satode, Valpoi, TalukaSattari, Goa-403506
+
+Languages:			English, Hindi, Marathi and Konkani
+
+
+
+
+Annexure
+
+
+
+Projects Undertaken
+
+
+
+Persistent System Limited, Goa
+
+Title:			Univision Omniture Support
+
+Client:			Univision
+
+Period:			Oct’12 to Nov’12
+
+Environment:		Android 4.0, Eclipse, ADT and Emulator
+
+Database:		SQLite
+
+Role:			Module Lead
+
+Team Size:		2
+
+Module Handled:	Capture the every event like Video click, Photo Swipe, News Link Click etc. by finding appropriate location in each of their (video, photo, etc.) activity class and send the data to the site catalyst server
+
+Description:	Univision is Mobile Application which is based on Android 4.0 version. The omniture is java library which is used to identify how various content categories are utilized by visitors, track site usage based on established content hierarchies and understand user navigation through Web site sections. The data captured when various events are triggered (Video Clicking, Photo swiping) using Omniture library and are sent to site Catalyst Server. Depending on the data send through omniture, the statistic of visitor’s contents categories is available on site catalyst server.
+
+
+
+Title:			IBM-SAAS
+
+Client:			IBM
+
+Period:			Sep’12 to Oct ’12
+
+Environment:		Core Java 6.0 and DB2 UDB
+
+Database:		Db2
+
+Role:			Module Lead
+
+Team Size:		7
+
+Module Handled:	Handled the entire migration script, loaded new audio parts on development as well as testing server.
+
+Description:	In this project added new 19 audio parts which are available to the customer who has the audio subscriptions and has a prerequisite part assigned. Prerequisite parts are nothing but all parts with an engage entitlement and all meetings parts.
+
+
+
+Title:			 Squash (shopping .com)
+
+Client:			Shopping.com
+
+Period:			Apr’12 to Aug’12
+
+Environment:		MySQL, Ruby on Rail and GIT Repository
+
+Database:		MySQL
+
+Role:			Module Lead
+
+Team Size:		6
+
+Module Handled:	Effectively handling entire project
+
+Description:		Squash is relevance tool used to measure the relevance of search engine.
+
+
+
+Title:			United Sample
+
+Client:			United Sample
+
+Period:			Jan’11 to Feb’12
+
+Environment:	MySQL, Core Java 5.0, Webservice, Maven & Intellij IDE ,Mockito,Rally,Hudson,Apache ActiveMQ,Apache Camel, Hibernate ,Spring 2.0(Core,context.DAO,AOP,Web-MVC Module) Tomcat 7.0 and GIT Repository.
+
+Database:		MySQL
+
+Role:			Module Lead
+
+Team Size:		6
+
+Module Handled:	Responsible for performing the activities of adding new web services  using rest client  as per client requirements ,Adding new modules, refactoring the code, writing test cases, adding new queries and optimizing queries in Mybatis, maintaining the  code  in  GIT Repository, Tracking Logs for Exceptionin production enviroment. Accountable for handling, optimizing response time, writing scripts for site maintenance, writing functional test using ruby, Writing unit test using Java Mockito.
+
+Description:	An innovator in online market research, uSamp offers organizations on-demand access to audiences for developing better products and services by turning online data and feedback into actionable insights. uSamp's solutions transform the way companies gain intelligence to make faster decisions about their products and services by tapping into uSamp's 6.5 million global panel of survey respondents. 
+
+
+
+Title:			OneRackspace_Offshore
+
+Client:			Rackspace U.S., Inc
+
+Period:			Dec’10 to Dec’10
+
+Environment:	Rackspace Enviroment
+
+Database:		MySQL
+
+Role:			Sr. Software Engineer  
+
+Team Size:		6
+
+Module Handled:	Foundation portal is application that will be used by the rackspace support team to raise credit memos to their customers. Our team was basically involved in the portal development 
+
+
+
+Title:			HeartBeat-MTP
+
+Client:			Heartbeat
+
+Period:			Oct’10 to Dec’10
+
+Role:			Sr. Software Engineer  
+
+Team Size:		27
+
+Module Handled:	Responsible for building the Maven Script to download the project from CVS, configure it .So the manual changes what normally done in order to installed the project would be automated using Maven script      
+
+Description:	Heartbeat Profiler is a CRM software solution designed to weave information about opinion leaders and speakers profiles into a unified, meaningful system.Profiler combines all of your important profile data such as speaking history, publication activity, associations, clinical trials, and competitive activity, offering a well-structured, consolidated view of your relationship with each KOL
+
+
+
+NE Technologies India Pvt. Ltd.,Goa
+
+Title:			Goa Project
+
+Client:			Government of Goa
+
+Period:			Oct’06 to Oct’10
+
+Role:			Team Leader      
+
+Framework:		Hibernate 3.0, Strut (1.1) and J2EE Framework
+
+Environment:		Oracle Application Server 10.1.3.1, Red Hat Linux 4 and Windows XP
+
+Database:		Oracle 10g
+
+Architecture:		Model-View-Control (MVC)
+
+Team Size:		27
+
+Description:	It was an attempt to expand its domain the company has undertaken Project from Government of Goa to computerize various departments. Each Department has its account section, Establishment section and domain specific section as per the functionalities of department. Goa project is client/server application with complete security features exposing each section only after authenticating the end-user. It also provide various statistical, MIS, DCP reports as per the requirement of departments.
+
+
+
+Title:			PO (Pre-Order Gateway) Maps
+
+Client:			VE, Qwest, VW
+
+Period:			Jan’06 to Sept’06
+
+Framework:		J2EE Framework
+
+Environment:		Win XP, Mercator 6.5 and XMLSpy
+
+Team Size:		4
+
+Module Handled:	Responsible for developing XSDs, generating Type-trees, coding for mapping data from XML to EDI and vice versa using mercator tool and generating test cases
+
+Description:	US telecom market involves ILEC and CLEC wherein ILEC (Incumbent Local Exchange Carrier) are established telecom service providers (carriers) having its infrastructure   within given area. CLEC (Competitive Local Exchange Carrier) is competitive telecom service provider which services the clients with its own services in addition to the services provided by ILEC.
+
+The PO Gateways associated with each CLEC, which need to transfer collected data from a customer to the ILEC in EDI (electronic Data Interchange) format. ILEC specify certain rules and norms for mapping the data. In order to map this data we have used Mercator 6.5 tool which converts XML data to EDI format.  XSDs created in XML-SPY generate Type-trees which are used by mercator tool to map the data.
+
+
+
+Goa Electronics Limited, Goa
+
+Title:			PWD Water Complaint Centre
+
+Client:			Public Work Department (PWD) –Government of Goa	
+
+Period:			Jan’05 to Jun’05
+
+Framework:		J2EE Framework
+
+Environment:		Windows 2000, MS VB 6.0, MS Access and Seagate Crystal Reports
+
+Team Size:		2
+
+Module Handled:	Handled the activities of analyzing, designing, coding and testing of project
+
+Description:	The system was developed to run a complaint centre of PWD office automating the task of registering, sorting complaints according to Assistant engineers heading PWD office in each taluka of Goa. At the end of day system could generate various reports like pending complaints, response of assistant engineer, etc.
+
+
+
+Title:			Employee Maintenance System
+
+Client:			Directorate of Accounts –Government of Goa
+
+Period:			Aug’04 to Dec’04
+
+Environment:		MS Windows 2000, MS VB 6.0 and MySQL as Database
+
+Team Size:		2
+
+Module Handled:	Handled the activities of analyzing, designing, coding and testing of project
+
+Description:	This application was developed to keep details of government employees and Pensioners with timely calculations of all allowances, basic, pension detail and reduced   pension at regular interval.
+
+
+
+Title:			CyberTran
+
+Client:			Goa Electronics Ltd.
+
+Period:			Jun’04 to Aug’04	
+
+Environment:		Preparing SRS, coding, testing and implementing the software
+
+Team Size:		2
+
+Module Handled:	Handled the activities of analyzing, designing, coding and testing of project
+
+Description:	CyberTran is an in-house Software designed and developed for handling ‘Cyberage Students’ schemes complaints. System provides the facility of receiving, modifying, sorting complaints and sending mails; maintaining track record of total computer system distributed, replacement under warranty and direct purchase of computer spare parts.

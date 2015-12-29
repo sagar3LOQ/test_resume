@@ -1,0 +1,626 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+         -  5+year & current
+project                                �
+�              
+
+Spring                  
+                       -  7
+Years                                 �
+�             
+
+Web
+Services                               - 
+1 year,not used in current
+
+Core
+Java                                  
+    -  8 years                
+
+Design
+Patterns                             -  8
+Years            
+
+UML
+design                                 
+  -   4 Years
+
+Build Tools (Maven/Ant)              -    Maven   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Eclipse,STS,weblogic,websphere
+
+Code ; 70%  Design:30%
+
+Ok for start up
+
+OBJECTIVE  	
+
+I enjoy to lead and contribute to the design and development of
+solutions for challenging business problems that require the latest or
+recent Java/JEE technologies. Have experience working at onsite with
+direct interaction with European and American clients.
+
+PROFESSIONAL EXPERTISE SUMMARY 
+
+Java professional with 8+ years of IT experience which includes
+experience of full end-to-end development projects, upgrades and support
+projects. 
+
+Expertise in various web application development frameworks such as
+Spring and Struts with hands on experience on most of the Spring
+modules.
+
+Good experience and knowledge on various ORM APIs like JPA, Hibernate
+and Toplink.
+
+Actively involved in Requirement Gathering, Technical Feasibility Study,
+Impact Assessment(IA) of the requirements, PoC, Project Effort
+Estimation for Detailed Design (DD) & Realization Phase, Regression
+testing.
+
+Strong technical and analytical skills with an excellent ability to
+grasp and adapt to new concepts and technologies.
+
+Self-motivated with a proactive, resourceful approach to problem solving
+and ability to work independently and to lead or be part of a team.
+
+Excellent cross-cultural communication and interpersonal skills.  
+
+TECHNICAL SKILLS
+
+Languages	Java, PL/SQL
+
+Specifications	JEE (Servlets, JSP, EJB 3.0, JDBC, JSF 2.0)
+
+  HYPERLINK "http://en.wikipedia.org/wiki/Web_application_framework" \o
+"Web application framework"  Web Application Framework 	Spring, Struts,
+JSF, Spring Web Flow, Tiles
+
+ORM	JPA, Hibernate,Toplink
+
+Technologies 	AJAX, PrimeFaces,Freemarker, Spring Security
+
+Database  	Oracle 10g, MySql.
+
+Operating Systems 	Windows 98/NT/2000/XP,Unix(AIX)
+
+Tools	ClearCase, Apache Maven, Apache Ant, SourceForge, TeamCity,
+Intellij
+
+Web/Application Server	Tomcat, BEA Weblogic, IBM Websphere
+
+
+
+ACHIEVEMENTS
+
+Recognition Award for excellent work at “Together Summit 2014” in
+ValueLabs.
+
+Employee of the Month Award in the EIS Technologies within few months of
+joining.
+
+Best Performer Award for the last quarter 2006 in Capgemini.
+
+IT EXPERIENCE SUMMARY
+
+ValueLabs, Hyderabad India May 2012 till date.
+
+EIS Technologies, Hyderabad India April 2011 April 2012.
+
+WIPRO Technologies, Hyderabad, India Dec 2009 to April 2011.
+
+CAPGEMINI Consulting India Pvt Ltd, Mumbai, India June 2006 to Dec 2009.
+
+EXPERIENCE DETAILS
+
+ValueLabs		Jan 2013 – Till Date
+
+
+
+	Client	Benefitfocus (eEnrollment)
+
+	Role	Lead
+
+	Technologies	Java 5
+
+	Frameworks	Struts 2.0, Hibernate 3.5.6, Spring 2.0, Agile, Jfreechart
+1.0.9
+
+	Testing Framework	Junit 3.8, PowerMock 1.2
+
+	Web Server	Apache
+
+	App Server	BEA Weblogic
+
+	Database	Oracle 10g
+
+	OS	Windows
+
+	Tools	IntelliJ, PLSQL Developer, TeamCity, ESB Console, JIRA, Apache
+Maven, JasperReports, Cenzic Hailstorm
+
+	Version Control	SVN
+
+	Description	Benefitfocus is a leading provider of benefits technology.
+More than 20 million consumers manage all types of benefits in the
+Benefitfocus Cloud. By delivering technology that integrates all
+benefits in one place, Benefitfocus provides a better way to engage
+consumers, educate employees and simplify benefit enrollment and
+management.
+
+The   HYPERLINK "http://www.benefitfocus.com/platform/"  BENEFITFOCUS®
+Platform  provides employers, insurance carriers and consumers with
+cloud-based technology to shop, enroll, manage and exchange benefits
+information.
+
+	Roles Performed	Active participation in the analysis and freezing of
+Business requirements.
+
+Writing Low Level Design Document (LLD).
+
+Involved in Technical Design. 
+
+Development and testing of enhancements. 
+
+Allocating and monitoring work of team members.
+
+Involved in unit & Integration Testing.
+
+Provide project training to new joiners.
+
+SPOC at offshore for eEnrollment project.
+
+
+
+	May 2012 – Dec 2012
+
+
+
+	Client	MMN (Mobile Money Network) Monitise
+
+	Role	Sr. J2EE developer
+
+	Technologies	Java 5 , Web Services (SOAP and Rest)
+
+	Frameworks	Spring 3.0, Hibernate 3.5.6, JPA 2.0
+
+	Testing Framework	Junit 3.8, Jbehave 3.5, Mockito 1.8
+
+	Web Server	Jetty 6.1.15
+
+	App Server	Sun GlassFish 2.1.1
+
+	Database	Oracle 10g
+
+	OS	Windows
+
+	Tools	Eclipse Helios Release, PLSQL Developer, Oracle SQL Developer
+2.1.1, Enterprise Architect 8.0.
+
+	Version Control	GIT, Mercurial
+
+	Description	Monitise plc (LSE: MONI.L) is a technology and services
+company delivering mobile banking, payments and commerce networks
+worldwide with the proven technology and expertise to enable financial
+institutions and other service providers to offer a wide range of
+services to their customers in developed and emerging markets.
+
+MMN, with its Simply Tap instant mobile checkout service, is powered by
+the Monitise Enterprise Platform. The network is working with a large
+number of retailers as it brings together banks, advertisers and media
+owners to give consumers a simple way to shop using their mobile phone.
+
+	Roles Performed	Requirement analysis for the development and
+enhancements. 
+
+Writing Low Level Design Document (LLD).
+
+Development and testing of enhancements. 
+
+Implemented I18n on the basis of multiple params rather than just
+locale.
+
+Involved in unit & Integration Testing.
+
+Writing DB scripts for creating and modifying database table.
+
+
+
+EIS Technologies		Oct 2011 – April 2012
+
+
+
+	Product	Orange (BI Tool Suite)
+
+	Role	Java Lead
+
+	Technologies	Java
+
+	Frameworks	Spring 3.0, JSF, Spring Web Flow, Spring Security, JPA,
+Primefaces
+
+	Testing Framework	Junit
+
+	Web Server	Tomcat 5.0
+
+	Database	Mysql
+
+	OS	Windows
+
+	Tools	STS(SpringSource Tool Suite), Pl Sql Developer 7.1
+
+	Version Control	SVN
+
+	Description	Orange is a powerful pure Java reporting tool.  Designed
+from the ground up for business intelligence reporting, Orange offers a
+new standard in information delivery.  It can retrieve data from many
+sources and generate reports in a variety of Web-ready formats.  From
+the simple output of application data, to the sophisticated presentation
+of vital corporate information, Orange is up to the task.
+
+Key Features:
+
+Pure Java Architecture: Deploy on any platform and run with most Java
+supported web servers.
+
+Numerous Output Options: Run reports in applets or generate DHTML, PDF,
+Excel, RTF, XML, text, or CSV files.
+
+Report Scheduler: Schedule reports to be exported and sent via email or
+just saved to disk.
+
+	Roles Performed	Creating Functional & Technical Design Documents.
+
+Creating mockup screens for finalizing the look and feel of the
+application.
+
+Studying technical feasibility, Completing PoC.
+
+Involved in all the activities right from the design, creating ERD,
+designing tables, creating base java packages and development of various
+modules.
+
+Giving knowledge transfer to the team on new technologies and the
+project design.
+
+Guiding the team and helping them out in case of technical difficulties.
+
+Coordinating work among the team.
+
+Fixing bugs reported by QA.
+
+Implemented Multi level security:
+
+Application authentication and access-control using Spring Security
+framework.
+
+Securing Flows using Security attributes of Spring Web Flow.
+
+Implemented Multi level exception handling.
+
+Back end customized exception handling mechanism to properly handle
+exceptions and show custom messages to user instead of exception
+messages.
+
+Front end Exception handling by attaching a custom exception handler at
+the flow and state levels.
+
+		
+
+		April 2011 – Oct 2011
+
+
+
+	Product	EBS Integration With Orange
+
+	Role	Java Lead
+
+	Technologies	Java
+
+	Frameworks	Spring 3.0, JSF, Spring Web Flow, Spring Security, JPA,
+Primefaces
+
+	Testing Framework	Junit
+
+	Web Server	Tomcat 5.0
+
+	Database	Mysql
+
+	OS	Windows
+
+	Tools	STS(SpringSource Tool Suite), Pl Sql Developer 7.1
+
+	Version Control	SVN
+
+	Description	Orange EBS Integration provides a solution to run Reports,
+View and Analyze the data from EBS system. It is Web based application
+developed on Spring frame work, Apache Web server and Mysql database. 
+
+Key Features:
+
+Internationalization supports for Metadata. 
+
+Built on spring frame work and provided spring security.
+
+Easy tab navigation. User can switch one module to another module.
+
+High Scalability,  Partial page rendering via Ajax with JSF 2
+
+Cross browser compatibility    .
+
+Page layout with Blueprint CSS. User can change themes then complete UI
+(all components) will change as per selected theme. 
+
+A declarative navigation model enabling full browser button support and
+dynamic navigation rules
+
+	Roles Performed	Creating Functional & Technical Design Documents.
+
+Creating mockup screens for finalizing the look and feel of the
+application.
+
+Guiding the team and helping them out in case of technical difficulties.
+
+Coordinating work among the team.
+
+Delivering quality Code and involved in every stage of review
+processing.
+
+Development of different modules. 
+
+Involved in project testing phases.
+
+Doing regression testing before release to QA.
+
+Fixing bugs reported by QA.
+
+
+
+Wipro Technologies Ltd 		Dec 2009 – April 2011
+
+	Client	EMC Corporation
+
+	Role	Senior Software Engineer
+
+	Technologies	Java, J2ee, Documentum, Content Management, AJAX.
+
+	Frameworks	Spring2.0.3,TopLink 10g,Freemarker 2.3.10,Tiles,
+
+Castor 1.2, Quartz 1.6.0.
+
+	Testing Framework	JUnit
+
+	Java Build Tool	Maven 2.0.5.
+
+	Database	Oracle 10g
+
+	OS	Windows-XP
+
+	Tools	BEA Workshop 9.2.1, Toad 8.5.3, EMC Documentum Web Publisher.
+
+	App Server	Weblogic 9.2
+
+	Web Server	Tomcat 4.1.31
+
+	Version Control	CVS
+
+
+
+	Description	www.emc.com showcases EMC products, solutions, news
+releases etc. to the general public. The site is made available globally
+in over 54 localized versions, targeting visitors from over 42
+countries. Though the site is largely un-restricted access enabled,
+there are small areas within the site which requires authentication.
+Also this site provides the gateway to Powerlink – EMC enterprise
+portal for allowing its partners, vendors etc. to access EMC information
+in a controlled manner. Originally the website was available only in US
+English language and over the years, evolved to add the sub-sites and
+localized versions, on the same platform 
+
+	Roles Performed	Understanding of the requirement and structure of
+application required to be built.
+
+Creating JUnit test class to test the DB interfaces and afterwards the
+complete flow.
+
+Development of the modules (screen).
+
+Testing & debugging of the same in local environment, before migrating
+the code to different environments.
+
+Monitoring the migration of the changes to different environments
+especially to Production.
+
+Gathering status of the various work requests from the team members, for
+daily status call with business.
+
+Developed various utilities class for the existing website for better
+working.
+
+
+
+CapGemini Consulting India Pvt LTD					Oct 2007 – Dec 2009
+
+
+
+	Client	Einstein
+
+	Role	Developer
+
+	Technologies	Java,J2ee.
+
+	Frameworks	Spring 1.2.6, Hibernate 3.2
+
+	Testing Framework	Junit, HttpUnit
+
+	Web Server	Tomcat 4.1
+
+	Database	Oracle 10g
+
+	OS	Windows
+
+	Tools	Eclipse 3.2, PL SQL Developer 7.1
+
+	Version Control	SVN
+
+
+
+	Description	Einstein is the intranet used internally by staff and
+professionals within the Sogeti. A number of applications can be called
+from Einstein. Currently these applications are ColdFusion applications.
+As the ColdFusion version being used is not supported anymore, a
+decision has been taken to migrate the ColdFusion applications to the
+Java platform along with the addition of new applications.
+
+	Roles Performed	Understanding of the requirement and structure of the
+application to be built.
+
+Testing of the stored procedures provided by DB team through java Junit
+test class.
+
+Development of the modules (screen).
+
+Creating Test class (Junit and HttpUnit) for end to end testing of the
+modules before delivering it to testing team.
+
+Issue resolution along with requirement clarification for respective
+defects.
+
+Creating and maintaining the Traceability matrix for the modules
+developed.
+
+
+
+Feb 2007 – Aug 2007
+
+	Client	Rabo Bank(Netherlands)
+
+	Role	Developer, Application Administrator
+
+	Technology	Java, J2ee, EJB 2.0.
+
+	Middleware Tech	IBM MQ(Message Queue)
+
+	Frameworks	Springs1.2.6, Hibernate 3.0
+
+	App Server	IBM Websphere 5.1
+
+	Web Server	Tomcat 4.1
+
+	OS	Windows, UNIX
+
+	Tools	Eclipse 3.2, Rational Application Developer,
+
+	Version Control	ClearCase
+
+	Description	Rabobank is a leading name in Netherlands for financial
+services. The central Rabobank operates through many co-operative banks
+and a large number of specialized subsidiaries. This project is about
+converting the present distributed mortgage and loan service domain
+system to a new centralized system.
+
+	Roles Performed	Understanding the design and the requirement of the
+module assigned.
+
+Development and then testing of the module.
+
+Creating Test class (Junit and HttpUnit) for end to end testing of the
+modules
+
+Creating and modifying ant build scripts, Jacl deployment scripts, FTP
+scripts, UNIX shell scripts on AIX machines. 
+
+Managing the creation and deployment of builds (EARS) on Web sphere
+Application Server on windows machine and WAS server on AIX machines. 
+
+Creating and modifying Listener ports and logical message queues on WAS
+server using automated scripts or through admin-console. 
+
+Creating and modifying physical queues on IBM WEBSPHERE MQ server. 
+
+The crucial task was of Defect/issue solving during deployment
+activities and during development testing. 
+
+Setting up of a new testing environment (like RABO-3) which included
+installation of RAD6, MQ Series, MQ Workflow, DB2, and ICM.
+
+
+
+Nov 2006 – Jan 2007
+
+	Client	Department for Children, Schools and Families(UK Government)
+
+	Organization	Capgemini India Pvt. Ltd
+
+	Role	Developer
+
+	Environment	Stellent Server
+
+	OS	Windows
+
+	Tools	Stellent tool
+
+	Description	The Cabinet Office, the Department for Children Schools and
+Families (DCSF) and the Department of Health (DH) have undertaken a
+collaborative program with the aim to procure, implement and operate a
+shared managed service for Content Management System (CMS) and e-hosting
+services provision using commercial off-the-shelf software components.
+
+	Roles Performed	To carry out basic re-purposing of migrated content in
+the Stellent CMS. 
+
+Adherence to Quality 
+
+Tried to figure out correct resolution for various roadblocks occurring
+during work and suggested the optimum solution that proved to be useful
+to the team.
+
+Doing QA (Quality Analysis) of team.	
+
+
+
+Trainings And Certifications				
+
+Certification	 SCJP 1.5
+
+Trainings attended	Hibernate.
+
+Springs.
+
+Weblogic.
+
+UNIX.
+
+Web Services.
+
+
+
+EDUCATION					
+
+Bachelor of Engineering in Electronics & Telecommunication (72%), from
+R.G.P.V University, Bhopal.
+
+Class XII : M.G Convent School, Shajapur M.P(2001) - 75%
+
+                    System Analyst Ph: +91-9642827336                   
+                                           	
+
+ HYPERLINK "mailto:vineet1_gupta@yahoo.com" vineet1_gupta@yahoo.com 
+
+                                                                        
+                                                                    Page
+  PAGE  1  of   NUMPAGES  7 
+
+Name 
+
+(Skill: e.g SAP - PM Consultant)
+
+WIPRO                                                                   
+                                                                    
+Page   PAGE  1  of   NUMPAGES  3 
+

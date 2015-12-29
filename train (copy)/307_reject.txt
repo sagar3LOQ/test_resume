@@ -1,0 +1,420 @@
+KOTESWARA RAO BORRA 
+
+  HYPERLINK "mailto:Koteswara.borra@gmail.com" 
+Koteswara.borra@gmail.com  
+
+Cell no: +19 8056207566 
+
+Chennai. 
+
+Career Objective: 
+
+Interested in seeking a responsible and challenging position in
+developing and implementation of web applications/enterprise wide
+applications using information technology tools, which demands the
+display of my technical and analytical expertise and do my best to the
+organization I work. 
+
+Brief Profile 	Am having total 8.1 years of IT experience. 
+
+Working as a Senior Software Engineer at HCL Technologies Ltd.,
+(www.hcl.com) from April 2007 till date. 
+
+ 8.1 years of experience on J2SE and J2EE Technologies. 
+
+Involved in requirement analysis, design, Implementation, Deployment and
+Configuration of Client/Server and Web Technologies using JAVA, JDBC,
+Servlets,  Struts1.x, Spring3.0,   web services and Hibernate. 
+
+Experience on IDE Eclipse and WSAD. 
+
+Knowledge on MVC Architecture, and on other Design Patterns. 
+
+Sound Experience on Application Servers Jboss4.0.5GA, WebSphere5.1.1. 
+
+Flexible, able to work effectively in a team environment or as an
+individual Contributor. 
+
+Hardworking with a quest and zeal to learn new technologies and
+undertake challenging tasks. 
+
+Total Experience 	8.1  years 
+
+Education 	MCA 
+
+Certification 	SCJP1.5 for java programmer, SCWCD 1.5 Web Component
+Developer 
+
+Operating Systems 	Windows family 
+
+Languages 	Java 
+
+Web Technologies 	Servlets, JSP, Struts1.x, Spring3.0,   JDBC,
+Hibernate, web services, Ajax. 
+
+Tools 	VSS, Clear Case, Serena, SVN. 
+
+Databases 	Oracle9i/10g 
+
+
+
+	
+
+Project Name & Description 	Technologies 	Role 	Period 	Team Size 
+
+BDC- Asset Servicing	Java,j2ee, Spring 3.0, Oracle 10g, Hibernate.
+Technical Leader	April 2013 – Till date	15
+
+NEMAS - GEL	Java,j2ee, Spring 3.0, Oracle 10g, Hibernate.	Senior
+Software Engineer	July2011 – April 2013	23
+
+DOT-Aegon 	Java,j2ee, Spring, Oracle 10g, Hibernate. 	Senior Software
+Engineer 	Oct2009-Jun 2011 	9 
+
+eBook 	Java,j2ee, Struts1.2, Oracle 10g, Hibernate 	Software Engineer 
+Sep2008 - 
+
+Aug2009 	15 
+
+P123-WR2-IR0608  
+
+IAL-IR Migration 	Java,j2ee,struts1.2, oracle 	Software Engineer 	April
+2007 - Aug 2008 	15 
+
+PROJECT DETAILS 
+
+Client Name :: BNYMELLON 
+
+Project Name: : BDC 
+
+Operating Software 	Windows family 
+
+Languages 	Java, J2EE , Spring3.0, AND Hibernate 
+
+Databases 	Oracle 11g 
+
+Tools Used 	Serena 
+
+Role 	Technical Leader
+
+Team Size 	15
+
+Project Description: 
+
+  EOD processing the both the BAPI 2040(immediate payment) file and BAPI
+2041(delayed payment file). Generate and store the Record date positions
+and 	determine and create daily anticipated payments based  on payable
+date of securities. Updates security factor information from the BAPI
+file.
+
+ Process Fedwire Notification INTR message and match payment with
+anticipations at P&I
+c湯牴汯捡潣湵⹴猠瑥汴⁥慣桳琠慲獮捡楴湯愠⁴♐⁉�
+�瑮潲⁬捡潣湵ⱴ甠摰瑡⁥♐⁉潣瑮潲⁬捡潣湵⁴慣桳�
+�污湡散മ܇敒灳湯楳楢楬楴獥›
+
+  leading team.
+
+Involved in requirement analysis and designing.
+
+  Involved in Coding of  Hibernate and Spring3.0.
+
+  Understanding existing business model and customer requirements.  
+
+  Involved in manual unit testing. 
+
+  Prepared Unit Test case documents for their Requirements. 
+
+  Involved in code optimization 
+
+Client Name :: GEL 
+
+Project Name: : NEMAS 
+
+Operating Software 	Windows family 
+
+Languages 	Java, J2EE , Spring3.0, AND Hibernate 
+
+Databases 	Oracle 10g 
+
+Tools Used 	Serena 
+
+Role 	Senior Software Engineer 
+
+Team Size 	23
+
+Project Description: 
+
+The E-MAS help the LPs to manage the financial advisory process more
+professionally and competently. All the LPs in GELS have embraced the
+use of this application in submitting their proposals, hence making the
+process faster, more efficient and effectively paperless.
+
+ The FLP module in the New E-MAS incorporating best practices in the
+field of financial planning; 
+
+ The BIPS module aims at providing an accurate and easy-to-use benefit
+illustration and product summary for any plan attached with bundle of
+riders. 
+
+ The objective of proposal module in new EMAS is to generate proposal
+form and manage the proposal packs from other modules such as FLP and
+BIPS and to integrate proposal form and LPCR to
+subm瑩琠敨挠湯潳楬慤整⁤牰灯獯污瀠捡⁫潦⁲湥潤獲�
+�湥⁴祢䤠⹏܇敒灳湯楳楢楬楴獥›
+
+  leading team.
+
+Involved in requirement analysis and designing.
+
+  Involved in Coding of JSP's, Hibernate and Spring3.0.
+
+  Understanding existing business model and customer requirements.  
+
+  Involved in manual unit testing. 
+
+  Prepared Unit Test case documents for their Requirements. 
+
+  Involved in code optimization 
+
+
+
+Client Name :: AEGON 
+
+Project Name: : DOT 
+
+Operating Software 	Windows family 
+
+Languages 	Java, J2EE , Spring AND Hibernate 
+
+Databases 	Oracle 10g 
+
+Tools Used 	Serena 
+
+Role 	Senior Software Engineer 
+
+Team Size 	9
+
+Project Description: 
+
+DOT (AEGON Participant Offering Tool) makes it possible for employees to
+create offers for direct starting pensions (DIP). This offering tool is
+used as part of the capital expiry process to
+create漠晦牥⁳潦⁲慣楰慴⁬硥楰祲挠獡獥‮潆⁲硥整湲
+污挠灡瑩污琠敨䄠䝅乏攠灭潬敹⁥污潳栠獡琠敨瀠獯楳
+楢楬祴琠⁯牣慥整漠晦牥⹳ഠ܇敒灳湯楳楢楬楴獥›
+
+  Involved in the Coding of JSP's, Hibernate and Spring. 
+
+  Involved in designing. 
+
+  Understanding existing business model and customer requirements. 
+
+  Involved in PDM design. 
+
+  Involved in manual unit testing. 
+
+  Prepared Unit Test case documents for their Requirements. 
+
+  Involved in code optimization 
+
+
+
+h
+
+Ë
+
+&
+
+ 
+
+=
+
+I
+
+J
+
+f
+
+h
+
+r
+
+z
+
+‹
+
+–
+
+É
+
+Ë
+
+Ð
+
+mxËÌÜÞßàáâêëôûü	
+
+瑹⑐<̀	
+
+K
+
+L
+
+]
+
+o
+
+p
+
+y
+
+‚
+
+’
+
+£
+
+¬
+
+
+
+¹
+
+º
+
+Ë
+
+Ì
+
+Ø
+
+Ù
+
+ß
+
+á
+
+â
+
+ç
+
+Ff)
+
+Ö0Äÿ
+
+Ö0Äÿ
+
+Ö0Äÿ
+
+Ö0Äÿ
+
+Ö0Äÿ
+
+Ö0Äÿ
+
+Ö0Äÿ
+
+Ö0Äÿ
+
+Ö0Äÿ
+
+Ö0Äÿ
+
+Ö0Äÿ
+
+瑹⑐<̀are Engineer 
+
+Team Size 	15 
+
+Project Description: 
+
+The Pearson eBook Project is an initiative towards building a platform
+which facilitates Instructors and students to access the electronic
+version of the text book in an interactive manner. It has three mode of
+delivery i.e. Online, Web Offline and CD-Rom.  Online eBook can be
+accessed using various Integration scenarios.
+
+Scenarios is nothing but the way how eBook is accessed or launched from
+a calling Learning Management platform. 
+
+Responsibilities: 
+
+  Involved in the Coding of Struts1.2 and Hibernate. 
+
+  Understanding existing business model and customer requirements. 
+
+  Involved in wiring database scripts. 
+
+  Involved in manual unit testing. 
+
+
+
+Client Name:. LexisNexis®
+
+Project Name: P123-WR2-IR0608 
+
+Operating Software 	Windows family 
+
+Languages 	Java, J2EE (JSP, Servlets, JDBC), Struts
+
+Databases 	Oracle 10g
+
+Tools Used 	Clear case, PMSmart
+
+Role 	Software Engineer
+
+Team Size 	15
+
+Project Description: 
+
+LexisNexis is the global legal publishing arm of Reed Elsevier, the
+Anglo-Dutch world-leading information provider to legal, corporate,
+government and academic markets, and publisher of legal, tax and
+regulatory information, via online, hardcopy print and CD-ROM formats. 
+
+Responsibilities: 
+
+  Involved in the Coding of JSP's and Struts. 
+
+  Involved in Support and Enhancement. 
+
+  Understanding existing business model and customer requirements. 
+
+  Involved in manual unit testing and junit testing. 
+
+eir Requirements. 
+
+  Client support for any query.
+
+Degree 	Institution / University 	Year 
+
+MCA 	Nagarjuna University 	2005 
+
+BSC 	Nagarjuna University 	2001 
+
+
+
+Date of Birth 	08-04-80 
+
+Sex 	Male 
+
+Nationality 	Indian 
+
+Marital Status 	Married 
+
+
+
+ä	ä
+
+ä
+
+€D+
+
+€D+
+
+€D+
+
+€D+
+
+  PAGE   \* MERGEFORMAT  3 
+

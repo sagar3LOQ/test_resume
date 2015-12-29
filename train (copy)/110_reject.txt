@@ -1,0 +1,340 @@
+  HYPERLINK "mailto:krishnaphk2@gmail.com"  krishnaphk2@gmail.com 
+
++91 8790083932 
+
+Summary:  
+
+Hands-on information technology leader with 18 years of experience and a
+proven track record of architecting and delivering reliable and scalable
+systems in a variety of areas, such as internet/e-commerce, SCM,
+Projects, Equipment Management, messaging services etc.
+
+Over 9 years of management experience on JavaEE software development
+with open-source technologies. Team management includes co-located
+direct reports as well as remote, offshore resource management. Thorough
+knowledge of software development process and able to take project from
+initial startup, analysis, development, testing, production deployment
+and support. 
+
+Experience in architecting, design and development of applications in
+traditional software delivery model as well as SaaS model. Experience in
+architecting messaging framework using commercial and open-source MOM
+products specifically for EAI and legacy application integration.
+Software development under LINUX including user/kernel module
+application development, and custom kernel modifications.
+
+Having strong technology focus encompassing Java/J2EE, Design Patterns,
+mobile technologies on iPhone & Android, Embedded systems , RTOS, Kiel,
+Tasking cross Compilers, CAN, DAVE Code Generator, VC++ and C.  
+
+Domain Experience:
+
+Construction, Manufacturing, Retail Domain, E-Governance, Telecom,
+Industrial Automation.
+
+Education: M.Tech & B.Tech in computer science – Andhra University
+
+Academics:
+
+M.Tech (Computer Science & Engineering)-1995 – (GATE) – 62%, Andhra
+University, Visakhapatnam, India. 
+
+B.Tech (Computer Science & Engineering)-1992 – 63%, Andhra University,
+Visakhapatnam, India.
+
+Sun Certification on Technical Architect –Part 1.
+
+IBM Certified Solution Designer - IBM Rational Unified Process (RUP)
+V7.0
+
+IBM Certified Administrator - Rational ClearQuest (CQ) v2003
+
+IBM Certified Administrator – Rational ClearCase (CC)
+
+Technology Strengths:
+
+Java,J2EE, EJBs, J2EE Design Patterns 
+
+Android, iPhone,J2ME, Knowledge on Symbian
+
+Entire Rational suite, RUP
+
+Oracle 10g, DB2,MySQL, NoSQL
+
+Microsoft Technologies(VC++)
+
+RTOS, Cross compilers for embedded systems, CAN protocol, TCP/IP socket
+prog.
+
+Google App engine, Cloud.
+
+Frameworks: Web sphere,  , Struts, Spring, Hibernate, ATG Dynamo, Clear
+Case, Clear Quest, Rational Portfolio Manager, RSA, RPT, RFT
+
+Professional Experience:
+
+5m Apps 	 
+
+CTO : Team Size : 30                                                    
+                  java/j2ee, javascript,html5   
+
+  
+
+Responsible for architecting, design & development of applications.
+Manage product development engineering teams, ensuring assigned project
+goals and objectives are achieved while following product established
+development procedures. Work collaboratively with Business Development
+team to define product requirements
+
+Conducted a deep process study, process gap analysis, business process
+reengineering to design UI and develop better SaaS product.
+
+Lead the business process reengineering effort across “Order to
+Cash”, “Procure to Pay”, “Asset Acquire to Retrench” and
+Projects (planning, execution, monitoring, client inspection and
+billing).
+
+Conducted weekly negotiations between business and engineering teams,
+building consensus on the prioritization of bug fixes and feature
+requests.
+
+RA - Retail & Accounting 	PopcornApps
+
+Technical Manager : Team Size : 6                                       
+            java/j2ee, Spring, Hibernate   
+
+  
+
+This project allows managing the accounting, stock management, orders,
+stock reorder notifications for the small & medium retail shops with web
+based backup & accounting management.  It also allows retail chain of
+shops with pos facility. This allows the RA users to advertise regarding
+their shop & availability of stock on web through standard templates.
+This supports various type of accountings in various domains like
+pharmacy, auto,  grocery, etc..
+
+IIML	PopcornApps
+
+Technical Manager : Team Size : 6                                    
+java/j2ee, Google App engine, velocity 
+
+  
+
+The Indian Institute of management Lucknow Alumini services, group
+management, topic wise management & discussions, Social presence,
+alumini verification are developed in this project. 
+
+Kuali                                                                   
+          	PopcornApps
+
+Technical Manager : Team Size : 6                                   
+iPhone, Sqlite, Shibboleth, webservices
+
+  
+
+The Kuali Financial System (KFS) project is a comprehensive suite of
+financial software designed to meet the needs of all Carnegie Class
+institutions. Based on Indiana University's Financial Information System
+(FIS), it is the first of the Kuali projects and incorporates the
+baseline FIS functionality and approved enhancements. It is a 
+
+Collaborative approach to design, an open development platform, and a
+web-based operating environment.
+
+VedicMaths                                                              
+                                           PopcornApps
+
+Technical Manager : Team Size :4                                        
+                    iPhone, Android, Atom                               
+                                                                        
+                                                                        
+                   
+
+Vedic Maths is a social application developed for Android, iPhone and
+Atom platforms. This Application calculates simple and complex
+arithmetic operations in Vedic style and shown results in step wise
+process.
+
+MovieCorn                                                               
+                                                             
+PopcornApps 
+
+Technical Manager : Team Size :6                                        
+iPhone,Android,Facebook,Php,MySql 
+
+This application developed in different platforms FaceBook, Android,
+iPhone simultaneously. Movie corn helps user to find out latest movies
+and ratings. User can share, Favorite, Rate, Want to see movies with his
+friends and Invite them to do the same. It has features include viewing
+friends latest activities, publish  movies list.  Sharing Movies Info. 
+
+Cyclops – ThomasCook                                                  
+                                                       Syntel Ltd       
+                                              
+
+Project Manager : Team Size :35                            
+Java,J2EE,Spring, Websphere,RAD,Oracle 10g                              
+           
+
+Thomas Cook retail network consists Foreign Exchange Bureaus and  Call
+centres. Shops and bureaus use a bespoke point of sale system, called
+RIO (Retail In ONE), and the call centres use an off the shelf package
+called Travel Cat. It is the vision and strategy of TC to have a single,
+central, point of sale system across the entire retail network.
+
+The Cyclops provides the online booking facility for Travel and Foreign
+Exchange across the different consultations. It maintains the Customer,
+Booking information across the different branches in different
+countries.
+
+Rational/IBM Competency Center                                          
+                             Syntel Ltd                                 
+                                                                        
+          
+
+ProjectManager/PrincipalConsultant: TeamSize:15     Rational Tool
+set(ClearQuest, ClearCase,RSA)     
+
+                                     
+
+ICC is responsible to change the process of the projects to RUP across
+Syntel in deferent 
+
+verticals. As Syntel has purchased total suite of all Rational Suite
+there was an urgent need for raising skill set to mentoring level across
+the organization having various verticals. Mentoring top to bottom means
+vertical head to Delivery Directors till Developer, tester. To cater
+various needs of the organization ICC implemented various Rational tools
+Project Console, Build Forge, Clear Quest, Clear Case, Asset Manager,
+Rational Software Architecture (RSA, RSM), RequisitePro, Rational
+Portfolio Management and Rational Testing tools. Implemented various
+workflows aligned with QA processes and defined Configuration Management
+for various projects depends on the project dynamics.
+
+Target DI-Fall                                                          
+                                                                Syntel
+Ltd.                                                                    
+                                                                        
+    
+
+Project Manager : Team Size :27                                    
+Java,J2EE,Spring, EJB,ATG Dynamo,DB2
+
+Target is a chain of Departmental stores. It is one of the top 3 general
+merchandise retailers in USA. Today Target operates more than 1500
+stores in 47 states. Supply chain management (SCM) is a process of
+optimizing delivery of goods, services and information from supplier to
+customer. SCM is a set of business processes that encompasses a
+trading-partner community engaged in a common goal of satisfying the end
+customer. Synchronized & efficient way of managing these SCM activities
+according to Target specific needs and reduced the gap between the
+order, supply & delivery. By doing so reduced the cost, quantity of 
+goods holding in the warehouses and increased the speed of delivery to
+the customer.
+
+XTensa-IDE for Xtensa tools & configurable chips              
+TenSilicaTechnologies Ltd                                               
+                                                                        
+                                                                        
+                                        
+
+IDE Manager : Team Size :30                                           
+Java, J2EE,Eclipse API,CDT, SWT, DB2
+
+Xtensa Xplorer is IDE for all Tensilica configurable chip design
+products as well as various supporting tools for those developed chips
+which can be used to develop embedded systems, DSPs. Etc. The tools
+includes debuggers, compilers, simulators, instruction cycle counters
+which can be configured automatically for those developed chips.
+
+Maharashtra Water Supply & Sanitation Department                      
+Intrinsic Solutions                             Project Manager : Team
+Size :17                                                 Java,
+J2EE,EJB,Websphere, DB2                                                 
+                                   
+
+This System  atomize various  activities in Maharashtra State’s Water
+Supply and Sanitation Department. It includes various works, tenders
+calls, tracking,  minister of the concerned department ‘s tours of
+total state. It generates various reports on different activities and
+keep tracks of various works undertaken. Various levels of officers
+controls the system.
+
+Maharashtra Sugar Information System                                    
+                Intrinsic Solutions                              
+Project Manager : Team Size :13                                         
+         Java,J2EE,EJB,Websphere,DB2                                    
+                                                                        
+                                        
+
+This System tracks all Sugar information from Development to Finance
+i.e. Information regarding cane crushing till actual development of
+sugar. All sugar industries are linked to main Sugar Co-operative office
+at Sakhar Sankul, Pune. 
+
+They can individually view their records i.e. how much ton cane is
+crushed, area available in hector for crushing and development of sugar.
+ 
+
+Net Agents                                                              
+                                                               EMindZone
+
+Project Lead : Team Size :8                                             
+      Java,J2EE,JavaMail,VC++,Winsock                                   
+                                  
+
+These are various tools for all webportals, mail & File transfer
+systems. These  tools are developed to cater various needs of customers.
+ Which contains notifications mechanisms, remainder services,  auto
+forward & auto reply, compressions,  auto 
+
+checking , retansmissions, policy based transmissions to multiple
+locations, auto dialing tools.
+
+ 
+
+Machine Health Monitoring System  (MHS)                    		       
+Infra Engg SDN BHD Project Lead : Team Size :25                   
+Embedded systems, C, Assembly, java, C++, MS Visual C++, Winsock,
+MATLAB, RTOS, Kiel & Tasking cross compilers, CAN, DAVE code generator, 
+ RTOS                                                                   
+  
+
+(MHS) is the main large project under the code named Next Generation
+Data Acquisition, Processing and Distribution System (NGDAPD) under
+which the different sub projects were designed and developed. The
+condition of heavy machines like turbines, aircraft engines etc. can be
+predicted by monitoring and analyzing signals generated by various
+sensors. This project is designed in the lines of common digital
+architecture so that it can be customized for various requirements not
+only for machine monitoring. All this work done by using 16bit micro
+controller units (MCUs) and DSP. CAN & RF, modbus used as communication
+protocols. Added data acquisition and analyzing servers and connected to
+internet. So that the MCUs can be controlled from the net. To cater
+these requirements in house RTOS has been developed.
+
+XeeMail – X.400 Messaging System                       Datapro
+Information Technologies Ltd                        Senior Engineer :
+Team Size :20                              C++, MS Visual C++, Winsock,
+Lex, Yacc, ASN1, SUN Solaris,BSD Unix, Windowsing cross compilers, CAN,
+DAVE code generator, RTOS
+
+The different projects undertaken are part of an X.400 messaging System
+called XeeMail. It is an Mailing product based on the blueprint of CCITT
+X.400 standards. The software is being used for a national E-Mail
+service. The message handling system has three major distributed
+components. The Message Transfer Agent (MTA) is the unit which switches
+the mails based on a powerful policy based routing. The communication
+over different media is being handled by a Real Time Operating System,
+which supports conventional media like Fax/Telex/Tele Printer/RABMN and
+as well as Internet protocols over Ethernet and other media like
+PSTN/X.25 etc. The User agent is the third distributed component of the
+Message Handling System and is the front end tool for the entire
+messaging system. The focus of this project is to integrate the X.400
+standard E-Mail technology with conventional media to give integrated
+access to all the communication media available in an office
+environment.
+
+H Krishna. Penumudi                                                     
+       
+

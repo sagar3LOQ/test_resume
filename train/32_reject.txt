@@ -1,0 +1,290 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                  - 
+2year                                 �
+�             
+
+Spring                  
+                                  -  3
+year
+
+Web
+Services                                
+        - 
+1year                                 �
+�             
+
+Core
+Java                                  
+             -  3years
+
+Design
+Patterns                                
+    -    
+
+UML
+design                                 
+          -    
+
+Build Tools (Maven/Ant)                    -   
+Maven/Ant   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Tomcat,web sphere
+
+Ok to work for start up
+
+Code:   80%    design:20%
+
+Ok to start up
+
+                                  		           RESUME
+
+Girish.K
+
+                       E-mail: girishkoppula@gmail.com
+
+                                  Phone No: +919000595892
+
+PROFESSIONAL SUMMARY:
+
+Experience of around 3 years in various Java technologies encompassing
+web-based application development.
+
+Fluent in Java, Servlets, Spring MVC,  Hibernate.
+
+Expertise in implementation of application system utilizing Servl
+ets, JDBC, Velocity, MVC.
+
+Extensively used Eclipse as Development Tool.
+
+Extensive hands on expertise with web servers and application s
+ervers like Tomcat.
+
+Possess good analytical, problem-solving and communication skills.
+
+Flexible team player. 
+
+ACADEMICS:
+
+Bachelor of Technology Engineering (B-tech (Computer Science)) from DRK
+Institute of Science & Technology, Hyderabad  in May 2009.
+
+TECHNICAL CERTIFICATION:
+
+Sun Certified Java Programmer (SCJP 5.0) .
+
+TECHNICAL  SKILLS:
+
+Elements	Particulars
+
+Operating Systems	Windows, Linux
+
+Java Technologies    	Core Java, JDBC, Servlets, tiles, Velocity, 
+Hibernate , Spring, Spring MVC, Spring security
+
+Web Technologies	HTML and XML
+
+Build and Deployment             	Maven
+
+Databases	PostgresSql, MySql
+
+Web / Application Servers      	Tomcat 
+
+
+
+          
+
+PROFESSIONAL EXPERIENCE:
+
+Working as a Java Developer in Artech Infosystems from August 2014 to
+Present
+
+Working as a Java Developer in TSSS Infotech Pvt Ltd from November  2012
+to October 2013
+
+Worked as Software Engineer in Vess Technology Solutions Pvt Ltd from
+November 2010 to October 2012.
+
+1.	Project Name : Residual Billing Application
+
+Client	IBM
+
+Role	Software Engineer
+
+Duration	Aug2014- Present
+
+Environment (with skill versions)	Java, Struts2.0, JDBC, Jsp, JavaScript
+, IBM DB2, Websphere, Rational Access Center.                           
+                  
+
+
+
+Description:
+
+Residual Billing Application is a tool IBM billing application, where
+IBM projects cost is calculated. There are various projects of various
+clients that are handled by IBM, this requires a tool for IBM to
+calculate the labor and non labor expenses. In RBA we have various roles
+for Project Manager, Centralized Bill Initiator and Approver etc.. .
+There will be a process to calculate the expenses based on parameters
+like Country, location, project, team size etc.. This expenses are
+uploaded in different files like xls sheet or doc etc.. mostly the
+documents are xls sheets. These expenses are uploaded by Project Manager
+and then they are verified by different people. Costs are uploaded are
+different roles then the uploaded costs are verified always. This tool
+is used across the IBM for internal billing purpose. 
+
+        
+
+Roles & Responsibilities: 
+
+Developed various modules regarding taxation which is important for
+Billing purpose .
+
+Implemented different screens for the Project Manager billing module.
+
+Modified various parameters regarding Admin module.
+
+Implemented different procedures for the validations in different
+modules.
+
+Developed batch jobs for populating data on the screens.
+
+Performed different queries to fetch data from DB2 database.
+
+2.	Project Name : Ebates
+
+Client	ebates.ca
+
+Role	Java Developer
+
+Duration	Nov2012- Oct 2013
+
+Environment (with skill versions)	Java, Spring,  Tiles, Velocity,
+JavaScript , Postgres-sql, Tomcat7.X , Spring mvc, Spring security, XML 
+                                     
+
+                                             
+
+              
+
+Description:
+
+Ebates is a online shopping site where it pays to shop online. Every
+time you shop online at your favourite retailers, you earn back a
+percentage of every purchase. From niceties to necessities, members of
+Ebates Canada save with discounts and Cash Back at top-name merchants
+for everything from furniture to fashion and appliances to airfare.
+Shopping with Ebates Canada is hassle-free: no rebate forms to fill out
+and no points or miles to redeem - just straightforward savings plus
+Cash Back.
+
+         
+
+Roles & Responsibilities: 
+
+Construction of Controller and Services . 
+
+Construction of Web components by using necessary API from REST
+Services.
+
+Construction of admin tools using Spring MVC.
+
+Used Maven as build tool and developed build file for compiling the code
+of creating WAR files.
+
+Worked in deadline driven environment with immediate feature release
+cycles.
+
+Performing basic operations on Linux-mint Server.
+
+3.	Project Name : Dealwallet
+
+Client	dealwallet.com
+
+Role	Software Engineer
+
+Duration	November 2011 – October 2012 
+
+Environment (with skill versions)	Java, Spring MVC, Hibernate3, Tiles,
+Velocity, Postgres-sql Tomcat7.X , Spring Social.              
+
+                                             
+
+           
+
+Description:
+
+Dealwallet is the full-fledged online shopping aggregation portal under
+development. We are scraping deals from different sites and displaying
+to users. It provides products, deals and coupons to users based on user
+choices. In Dealwallet we display the products with all the details like
+retail price, dealwallet price, product description, and additional
+information about the products. In dealwallet we are displaying the
+products from Amazon web services as well. We also integrated facebook
+signups/logins in Dealwallet. And we are using spring social to
+integrate various sharing mediums into Dealwallet. 
+
+        
+
+Roles & Responsibilities:
+
+As a java developer, I was actively involved in architecting various
+Business Layer and Data Management components of this multi-tiered web
+based Application.
+
+Responsible for developing core hibernate components. Construction of
+Web components.
+
+Involved in the Analysis, Design and Coding.
+
+Adding permissions, deploying war files in Linux mint server.
+
+3.	Project Name : Cimpler
+
+Client	cimpler.com
+
+Role	Software Engineer
+
+Duration	November 2010- October 2011
+
+Team Size	Project size: 4	Module size: NA
+
+Environment (with skill versions)	Java, Spring MVC, Hibernate3, Tiles,
+Velocity, Postgres-sql Tomcat7.X , Spring security, XML                 
+                      
+
+                                             
+
+             
+
+ Description:
+
+Cimpler is the online real estate service provider.  It is the site to
+choose best property with valuable services. It provides
+services/packages to the users to select proper house based on the
+requirements. Once user selected a particular house, cimpler provides
+certain packages or individual services to user to choose from. Once
+user selected the required services/packages, he will requested for
+payment including house cost and cimpler services/packages costs.  On
+successful payment, it creates order in the cimpler side and cimpler
+people will take care of the user selected product including services. 
+And we used spring security to have multi level user authentication. 
+
+        
+
+Roles & Responsibilities:
+
+Construction of Dao.
+
+Involved in the Analysis, Design and Coding.
+
+Construction of Web components.
+
+Page   PAGE  1  of   NUMPAGES   5 
+

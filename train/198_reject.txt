@@ -1,0 +1,317 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                 -  2 years &
+current                                �
+�              
+
+Spring                  
+                                 -  2 years
+&
+current                                �
+�             
+
+Web
+Services                                
+       -  2 years &
+current                                �
+�             
+
+Core
+Java                                  
+            -  7 years                
+
+Design
+Patterns                                
+   -  2.5 Years            
+
+UML
+design                                 
+         -   no
+
+Build Tools (Maven/Ant)                   -   Maven
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Apache Tomcat , 
+
+DB: oracle
+
+Samiun Saeed				                 Email:   samiunsaeed@gmail.com
+
++91 9959610004						   
+
+				                
+
+Top of Form
+
+Experience Summary 
+
+Have 7+ years of experience in IT industry in design, development of
+enterprise applications using high-end Java/J2EE Technologies. Highly
+motivated, customer-focused performer who is committed to quality of
+work. Valued contributor who performs confidently and effectively under
+pressure and thrives on challenge. Excellent communicator and good
+listener. Enthusiastic learner who quickly grasps new concepts and
+technical skills. Have good understanding of project management
+processes and software development methodologies like AGILE and
+Waterfall. Flexible to work with Environment and Tools.  Have been
+awarded FIMC (Feather In my Cap). 
+
+Technical Experience 
+
+Technology 	Tools 
+
+Databases	Oracle
+
+Development/Productivity Tools	Toad, SQL Developer, Eclipse, SOAP UI,
+QC, Rally, ITG Kintana
+
+Web/J2EE Technologies	Spring, Hibernate, Struts, AJAX, JavaScript, JPA,
+Web Services, JSF, Spring Quartz Scheduler, XML, XSD
+
+Programming Languages	Java, SQL, PLSQL
+
+Methodologies, Version Control, Miscellaneous	AGILE, Waterfall, JUnit,
+Log4J, Tortoise (SVN), PVCS, XML
+
+
+
+Professional Experience
+
+Working as a Senior Software Engineer in United Health Group, Hyderabad
+from May’2011 to till date.
+
+Worked as a Associate Consultant in Capgemini Private India Ltd.
+Hyderabad from June’2010 to May 2011.
+
+Worked as a Project Engineer in Wipro Technologies. Hyderabad from
+Jan’2007 to Jun 2010.
+
+Key Projects
+
+Identity Management Solulions
+
+Description	IMS is a product that identifies a patient/provider uniquely
+based on the algorithm provided in the product. The IMS Admin tool
+allows the Admin/Business to define the algorithm to match an entity.
+The IMS Services provides different web services to  customers  like to
+add/update a patient. This product is used on the Cloud.
+
+Role	Senior Software Engineer
+
+Skills	Java, Spring , Hibernate,,JPA, JSF, Web services, Oracle ,TOAD,
+Eclipse, Tortoise SVN, Quartz Scheduler
+
+Contribution	Conducted KT to the team to understand the product and
+process.
+
+Provided technical support to the team 
+
+Coordinating with the Business to understand the functionality for the
+new enhancements of the product 
+
+Reviewed and approved the code changes made by the team members
+
+Was the primary point of contact to look into product’s high priority
+issues
+
+Handled AGILE (SCRUM) meetings.
+
+Designed and developed major enhancements of the product 
+
+Developed new web services in the product and also worked creating batch
+process using Spring Quartz.
+
+Worked on UI related feature enhancements using JSF
+
+Had written test cases and done unit testing using JUnit.
+
+Bug fixing across all the modules of the product.
+
+Maintained control versions using SVN. 
+
+Deployed the projects to all environments using ITG
+
+Involved in production deployment planning and deployments of the
+product.
+
+Demonstrated new product features to the Product Owner.
+
+Received appreciation for my contribution and commitment from the team
+and senior management.
+
+
+
+
+
+Market Place Application
+
+Description	OptumX Marketplace application is a social networking site
+which would be used by the customers of the UHG with in the Health Care.
+In this application users can view, accept. Send invites with in the
+network. They can display their information based on the privacy
+settings. Users can communicate via chatting, forums etc. Users can also
+create their own group and create their own forums. The application GUI
+is being developed using Adobe Flex 3.0, Cairngorm framework and the
+backend service part is developed using Java,J2EE, hibernate , Spring
+and the database used is Oracle 9i.
+
+Role	Senior Software Engineer
+
+Skills	Java, Spring , Flex 3, Oracle 9i,TOAD, Eclipse, Tortoise SVN,
+Caingorm Framework, Hibernate
+
+Contribution	Have involved in design, implementation, testing of both
+main Application and the ADMIN Application for marketplace. Had worked
+in both Client end and server end implementations using Flex, Java and
+frameworks.
+
+
+
+2. CISCO-C3-Tacticals 
+
+Description	TAC Service Request Tool (TSRT) is the customer-facing web
+application for creating service request (TSRT Create) for Cisco
+customers. This application is developed for English and Japan locale
+websites. Cisco sells the products to the customer with warranty for the
+equipment with valid contract. If any hardware or software problem
+occurs with the equipment it can be replaceable or serviceable with in
+the contract period.  Customer can create service request for the
+particular equipment with all details and also Customer can query or
+update the service requests using customer facing web application (TSRT
+Query). In C3 Tacticals, the issues or the bugs occurred in these tools
+are fixed and deployed to production
+
+
+
+Role	Senior Software Engineer
+
+Skills	Oracle 9i,MS Office, TOAD, Unix Shellscripts, Java, JDBC, Ant,
+CVS, Eclipse, PVCS
+
+Environment	Java, Oracle9i
+
+Contribution	 Have analyzed the issues reported by the support team.
+Involved in bug fixing and enhancements of the TAC tools. Unit testing
+and validation of the QA bugs raised by the QA team and resolving them
+within the stipulated timeframe.
+
+
+
+3. CISCO-SYNERGY-DEV-SCM-R2 
+
+Description	Mass Mat is a custom tool used by CISCO Customer Service
+Representatives (CSR) to handle many of the contract management
+activities on a day-to-day basis. A lot of these contract management
+activities include update to the CIBER contracts. Mass Mat provides mass
+management capability to CS-Ops users. It’s a very effective tool used
+for Service Contract management. C3 instance (Cisco Customer Care
+Center) is being upgraded from 11.5.6 to 11.5.9.
+
+Role	Project Engineer
+
+Skills	Oracle 9i,EditPlus Editor, MS Office, PL/SQL, TOAD, Unix
+Shellscripts, JSP, Java Servlets , Struts, JDBC, Ant, CVS, Eclipse, PVCS
+
+Environment	Java, Oracle Applications AOL Setups, PL/SQL.
+
+Contribution	 Have analyzed the requirements, prepared Technical
+Analysis and Design Documents for two Components (JAVA and PL/SQL).
+Involved in coding, development and unit testing of both the components.
+Involved in validation of the QA bugs raised by the QA team and
+resolving them within the stipulated timeframe to achieve the SLA for
+both the components.
+
+
+
+4. CISCO-Synergy-I2R 
+
+Description	Synergy I2R is upgradation of oracle apps 11.5.8 to 11.5.9
+and implementation of new modules Service Contract Management, Project
+Accounting and Solution Architecture Modules.
+
+Role	Project Engineer
+
+Skills	Oracle 9i,MS Office, Oracle Forms, Oracle Reports, SQL*Plus, Unix
+Shellscripts, PVCS
+
+Environment	Oracle 9i, D2K Forms and Reports, Oracle Applications.
+
+Contribution	Have involved in fixing the bugs which will occur due to
+upgradation and migrated the fixed objects through kintana tool. The
+bugs were raised using the Quality Center tool.
+
+Bottom of Form
+
+5. CISCO-SYNERGY-DEV-SCM-R1 
+
+Description	Cisco (CISCO) is the leading supplier of networking
+equipment & network management for the Internet. Synergy is one of the
+five key initiatives selected in order to align investments and
+prioritization decisions of supporting functions to improve the chances
+of successful delivery of key programs. Fixing the defects introduced
+during upgrade of C3 instance (Cisco Customer Care Center) from 11.5.6
+to 11.5.9. Retirement of CIBER (Contract Install Base and Entitlement
+Repository). Synergy have different tracks, one of them is Service
+Contracts Management (SCM). Mass Mat is a custom tool used by CISCO
+Customer Service Representatives (CSR) to handle many of the contract
+management activities on a day-to-day basis. A lot of these contract
+management activities include update to the CIBER contracts. Mass Mat
+provides mass management capability to CS-Ops users. It’s a very
+effective tool used for Service Contract management.
+
+Role	Project Engineer
+
+Operating System(s)	Windows-XP
+
+Skills	Oracle 9i,EditPlus Editor,MS Office, TOAD, Unix Shellscripts,
+Tomcat Web Server, JDBC, Java, XML, Ant, CVS, Eclipse
+
+Environment	Java, Oracle 9i
+
+Contribution	Team member of Development project as Java Resource. Have
+analyzed the requirements and prepared the Technical Design Document.
+Involved in coding, developing and Unit testing. Coordinated between
+PL/SQL and JAVA teams and involved in supporting for System Testing.
+
+
+
+Personal Details
+
+Educational Qualifications  	1. Bachelor's Degree in Electronics &
+Electrical Engineering from Dr. V.R.K Women's College Of Engineering,
+Hyderabad, J.N.T.U with aggregate of 74%. 
+
+2. Intermediate (M.P.C) at Narayana Junior College, Hyderabad from Board
+of Intermediate Education with aggregate of 94%. 
+
+3. SSC at Sun Rise High School, Hyderabad from Board of Secondary
+Education with aggregate of 82%.
+
+Date of Birth	21-Aug-1985
+
+E-Mail 	  HYPERLINK "mailto:samiunsaeed@gmail.com" 
+samiunsaeed@gmail.com  ,   HYPERLINK "mailto:a.samiun@gmail.com" 
+a.samiun@gmail.com 
+
+Languages Known	English, Hindi, Telugu, Tamil, Kannada, Urdu
+
+Mobile	+91 99596 10004
+
+Postal Address	W/O Vaseem Saeed
+
+Flat no:302, 3rd Floor,
+
+Sree Varun Residency,
+
+Kakatiya Nagar, Rethibowli,
+
+Nanal nagar,
+
+Hyderabad – 500 008.
+
+
+

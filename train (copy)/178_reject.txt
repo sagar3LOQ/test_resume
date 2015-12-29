@@ -1,0 +1,299 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                  -  3
+years                                 �
+�              
+
+Spring                  
+                                  -  6
+year & current
+
+Web
+Services                                
+        -  4
+years                                 �
+�             
+
+Core
+Java                                  
+             -  11 year
+
+Design
+Patterns                                
+    -    singleton/factory
+
+UML
+design                                 
+          -    
+
+Build Tools (Maven/Ant)                    -   
+Maven/Ant   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Apache Tomcat 6.0/ Web Sphere Application Server
+
+NAVEEN 
+
+                                                                        
+                                           E-mail:   HYPERLINK
+"mailto:java.jee.soa@gmail.com"  java.jee.soa@gmail.com 
+
+                                                                        
+                                                  Ph: +91-9949868866
+
+______________________________________________________
+
+Summary:
+
+Around 10 years of experience in Software Analysis, Design, Development
+and Testing in the domain areas of Finance, Telecom, Banking, Logistics
+and e-Commerce using Java EE Platform and middleware technologies.
+
+Developing enterprise applications using Java1.6, JSP, Servlets, Struts,
+Spring, Hibernate, EJB, JMS, JAXB, JMX, XPATH, XML, SOA(JAX-RS, JAX-WS,
+ESB, BPMN/Oracle-BPEL/Activity), UML, Design Patterns, Java Script,
+AJAX, JUnit, Ant, Maven and Agile(scrum) Process.
+
+Strong Experience in using OOPs concepts, Transactions and hands on
+experience in designing SOA (JAX-WS, ESB and Oracle-BPEL/Activity)
+applications.
+
+Experience in Spring Framework (Core, AOP, Security, JDBC, Integration),
+Hibernate technologies.
+
+Extensively used various Design Patterns implementation experience
+(Singleton, Command, Factory, Business Delegate, Session Facade, Service
+Locater and DAO ).
+
+Good Experience developing JMS, JAXB and Web Services(using JAX-RS,
+JAX-WS, SOAP, WSDL).
+
+Design and developing experience of DTDs, XML schemas (XSD), XSLs.
+
+Hands on experience of marshalling and un-marshalling using JAXB,
+parsing XMLs using JAXP (DOM, SAX parsers) and querying XMLs using
+XPATH.
+
+Expertise in developing distributed applications using EJBs with
+Transactions.
+
+Excellent experience in developing Applications, configuring Messaging
+Engines, Queues, Topics, ESB(Enterprise Service Bus) using Websphere &
+JBoss AS.
+
+Experience in designing applications using UML tools such as Rational
+Rose.
+
+Good experience on various Data Bases (Oracle, Sybase) and writing of
+SQL, PL-SQL. 
+
+Experience with testing (JUnit, TestNG) and Quality Metrics tools (PMD,
+FindBugs).
+
+High proficiency in Severs like Webshere5.0/6.0, Weblogic 7.0/8.1 &
+JBoss AS.
+
+Experience in Test Driven and Domain Driven Design, Agile (scrum)
+Methodology.
+
+Experience of configuring Cluster Environment on Websphere Application
+Servers.
+
+Hands on experience in IDE Tool using Eclipse, WSAD and RAD.
+
+Enterprise Application Integration (EAI) using TIBCO (BW) & MQ Series.
+
+Well-versed with operating systems such as Unix, Solaris, Windows NT,
+2000
+
+Exceptional ability to quickly master new concepts and technologies.
+
+Experience:
+
+Working as a Team Lead with Prokarma Softech, India, from June ’10 to
+Till Date
+
+Worked as Project Analyst with Marlabs Inc., USA, from July ’07 to
+September ’09. 
+
+Worked as Senior Software Engineer with Verizon (VDSI), India, from June
+’06 to April ’07.   
+
+Worked as Software Engineer with Wipro Technologies, India, from April
+’05 to May ’06.   
+
+Worked as Consultant with Infosys Technologies, India, from June ’04
+to March ’05.
+
+Education:
+
+Master of Science (Computer Science)-2003, from Osmania University,
+Hyderabad.
+
+Bachelors of Science (Computer Science) from Osmania University,
+Hyderabad
+
+Client/Onsite Experience:
+
+2007 to 2009 with Verizon Business, USA through Marlabs Inc, USA. 
+
+Dec’ 05 to Jan ’06 Orange Telecom, UK through Wipro Technologies,
+India. 
+
+Technical Skills: 
+
+Programming /Scripting Languages	C, C++,  Java,  Servlets, JSP, JDBC,
+JNDI, Struts, Spring Framework, Hibernate, EJB 2.0/3.0, JMS, JTA, JAXB,
+XML,  PL/SQL, UML, Perl,  JavaScript, AJAX and HTML.
+
+Design Patterns	Singleton, Factory,  Command, Observer, Business
+Delegate, Service Locater, Session Façade, DAO, VO.
+
+Databases	Oracle 8.x/7.x/9i/10g, MS SQL Server, Sybase, As400.
+
+Operating Systems	Solaris, Unix, Linux, Windows NT/2000/XP
+
+Application/Web Servers	Jetty, Tomcat, Weblogic8.1 / 7.0, WebSphere
+6.0/5.0 (WAS 6.0/5.0), JBOSS 4.x, JBoss-EWS.
+
+Version Control Tools	VSS 6.0, Win CVS, Rational Clear Case, Serena
+Change Man, PVCS, Perforce, Tortoise SVN.
+
+Distributed Computing	RMI, EJB2.0/3.0, CORBA, JAX-RS, JAX-RPC,
+JAX-WS(Metro, Axis2)
+
+Design	UML(Rational Rose), TIBCO BW (EMS), Oracle BPM, BPMN(Activiti)
+
+Tools	ANT, Maven, Rational Rose, Log4j, PMD, FindBugs,Sonar, TOAD,
+PL/SQL developer, RAD , Eclipse, MQ Series, Hudson, TIBCO, JUnit,
+TestNG, Fortify, JDevloper, VersionOne.
+
+
+
+Professional Experience:
+
+UTI                                                                     
+                            May’10 – Till Date
+
+UPRR, USA                                                               
+                           
+
+Unit Train Interface is to process consist and apply train set for bulk
+commodity trains. The main purpose of UTI is to make automatic TrainSet.
+
+Responsibilities:
+
+Interface with onsite Lead, manager, business analysts and various
+stakeholders. 
+
+Coordinating and assisting team members in design and technical queries
+and issues in application development and fixing issues.
+
+Developed various workflows scenarios using Activiti (BPMN) for UTI
+application.
+
+Developed a toolkit on top of Activiti API. 
+
+Designed and implemented various architectures for Activiti Toolkit.
+
+Maintained the code quality, cleaning the code, refactoring the code,
+running check style, PMD, Find bugs, Fortify and Fisheye.
+
+Generating Sonar reports and sharing with the team on code quality and
+complexity.
+
+Enhanced business process to do more Auto TrainSets.
+
+Leading & working with the other teams for in-house application
+development & train the new resources.
+
+Developed exceptions handling workflows using Oracle BPEL.
+
+Planning the Sprint backlogs, designing the sequence diagrams and use
+cases.
+
+Saving and getting Digital certificates using Cyber Arch.
+
+Application deployments and production support, bug fixing.
+
+Environment: 
+
+Java1.6, Spring 2.5 (Core, MVC, Security), JAXB2.0, SOA (SOAP, JAX-WS,
+JMS, TIBCO-EMS, Oracle BPEL), Activiti 5.12(BPMN), Oracle, JUnit, Sonar,
+Fisheye, Eclipse, MAVEN, Hudson, Tortoise SVN, Jboss-EWS, Jetty and
+Windows-XP.
+
+SET (ESS)                                                               
+                           Oct’10 – Mar’12
+
+UPRR, USA                                                               
+                           
+
+The main purpose for ESS is to consolidate all of the various billing
+rules and program logic currently done to 404's and 417's prior to
+feeding them to the TCS system. These rules are contained in Gateway,
+expert billing rules in TCS, and the Autobill system itself
+
+1. ESS Clients: 
+
+Shipment Editor Terminal (SET) - provides the primary interface for
+internal clients, validates bills using validation services. The
+interface will be used to input new bills, corrections and cancellations
+
+Responsibilities:
+
+Coordinating and assisting team members in design, technical and domain
+related queries in application development and fixing issues.
+
+To lead off-shore team towards the delivery of the high quality product
+worth over a million dollars
+
+Creating the backlogs and assigning tasks, developing and adding the
+backlog stories in to V1. 
+
+Code reviews, cleaning the code and maintained the code quality for the
+team.
+
+Developed Repositories and Service layers by extensively using Java5 new
+features.
+
+Generated Java classes from XML Schemas using JAXB.
+
+Customizing XML Schema-to-Java mappings using binding declarations (XJB)
+files.
+
+Developed XMF Wrapper classes for Marshalling & Un-marshalling. 
+
+Worked on XSL files for removing and modifying the XML files.
+
+Worked on various ESS Web Services (XMF Services) invocations for SET. 
+
+Configured various Spring beans in ctxt files, configured Spring Ehcache
+and retry functionality.
+
+Configured various modules and POM files for application.
+
+Fixing bugs, working on test cases using TestNG and Jmockit.
+
+Configured various Jobs on Hudson for Continuous Integration.
+
+Working in Test Driven Development (TDD) and Domain Driven Design (DDD).
+
+Worked in Agile (scrum) methodology, daily interacting with customer and
+requirements gathering.
+
+Leading a team of size eight and trained juniors in project on various
+technologies.
+
+Delivered the project under budget and on time.
+
+Environment: 
+
+Java1.6, Wicket, Spring2.5 (Core, Security, AOP), JAXB2.0, SOA (SOAP,
+JAX-WS, JMS, TIBCO-EMS, Oracle BPEL), TestNG, Eclipse, MAVEN, Hudson,
+Tortoise SVN, Jetty and Windows-XP.
+

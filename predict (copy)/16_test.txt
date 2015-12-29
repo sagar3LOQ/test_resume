@@ -1,0 +1,163 @@
+MANJEET HARSH
+
+106, Suraksha Millennium, White Fields, Hyderabad | 9618433244 | this.manjeet92@gmail.com
+
+
+
+Software Engineer
+
+Object-Oriented Analysis, Mobile Applications/Desktop Web Development
+
+
+
+	Solutions-driven Software Developer with two-year track record of commended performance in object- oriented programming. Well-versed in all phases of the software development lifecycle, with a strong working knowledge of algorithms and data structures. Proven success engineering customized solutions improving business processes, operations and profitability.
+
+	Known for excellent troubleshooting skills – able to analyse code and engineer well-researched, cost- effective and responsive solutions.
+
+
+
+Technology Summary
+
+
+
+JavaScript, AngularJS, HTML, Bootstrap, XML, JSON, JAVA, MySQL, Tomcat, C, C++
+
+
+
+Professional Experience
+
+
+
+	KMC   Licensing	May - 2015 to Jun - 2015
+
+
+
+Software Engineer, Kony IT Services Pvt Ltd. Hyderabad
+
+
+
+Kreuter Manufacturing Company is an American manufacturer of open, secure, and scalable building automation solutions. Its mobile application (KMC) is developed by Kony. Being its mobile application as paid app, KMC wanted to restrict their users to install app by using only a valid license. Provided object-oriented solution to client. KMC Licensing is a desktop web app through which KMC tracks the licenses distributed to their clients followed by the end users.
+
+
+
+Responsibilities:
+
+
+
+Contributed software engineering expertise in the development of products through the software lifecycle, from requirements definition through successful deployment.
+
+
+
+	Design User Interface.
+
+	Write code for handling client side validations as well server side database.
+
+	Integrate JAVA services by writing JavaScript code.
+
+	Deploying application on the server. Handling and configuring Tomcat Server.
+
+
+
+
+
+	Commonwealth   Edison	Jan - 2015 to April - 2015
+
+
+
+Associate Engineer, Kony IT Services Pvt Ltd. Hyderabad
+
+
+
+Assisted in the design and development of user information solutions for an Electric Utility Company Commonwealth Edison, commonly known as ComEd is the largest electric utility in Illinois, serving the Chicago and Northern Illinois area. The project involved lots of features of them I integrated graphical comparisons of electricity usage, projected usage, showing live tips for the users as part of app enhancement.
+
+
+
+Responsibilities:
+
+
+
+	Develop User Interface (some contained graphs) as per their technical/architectural requirements.
+
+	Review architectural design docs and recommend designs using custom components.
+
+	Design modules to implement services to the screens components and to achieve functionalities as per requirement
+
+
+
+	Citi Global Mobile	Aug - 2013 to Dec - 2014
+
+
+
+Associate Engineer, Kony IT Services Pvt Ltd. Hyderabad
+
+
+
+Assisted in the design and development of Mobile Application for a leading bank Citi Bank which is the consumer division of financial services multinational Citigroup.
+
+
+
+Responsibilities:
+
+
+
+	Developing new features (under product change requirements) and integrating them into existing application.
+
+	Communicate to client over phone calls to gather requirements, to give code review.
+
+	Analysing code, fixing defects across the application and helping in rectifying the performance issues in the application.
+
+	Generate thin client build and deploy on the server.
+
+
+
+
+
+Search for an Immobile Entity on a Static Network
+
+
+
+B.Tech Final Year, NIT Rourkela
+
+
+
+Developed and analysed Heuristic Algorithm to search an entity on a given network (graph) in best minimum possible time and used C code for implementation.
+
+
+
+
+
+
+
+Education
+
+
+
+National Institute of Technology Rourkela
+
+B.Tech, Computer Science and Engineering, 2013, CGPA - 7.08
+
+
+
+
+
+Declaration
+
+
+
+I hereby declare that whole information furnished above is true to best of my knowledge and belief.
+
+
+
+
+
+
+
+
+
+	Place:  Hyderabad	(Signature)
+
+Manjeet Singh Harsh
+
+
+
+2 | P a g e

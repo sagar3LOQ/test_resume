@@ -1,0 +1,244 @@
+Ramakanth Darbha
+
+                                       
+
+                
+
+ 
+
+Objective
+
+To work for an organisation that fosters growth in career and
+personality and at the same time respecting a positive work-lie balance.
+
+Work Experience
+
+April 2014 – Present: Computer Generated Solutions (CGS), Software
+Developer
+
+As a web developer, I have a responsibility to build and maintain a
+stable full stack web application.
+
+January 2012 – April 2014: SemanticBits India, Software Developer
+
+I am a grails web application developer at SemanticBits. 	I am a part of
+development
+
+team building a full-fledged genome sequencing tool, Clinical Genomicist
+Workstation (CGW). My roles include working with bio-informatics experts
+in our team in gathering requirements and converting them into use-cases
+which will be further molded to design artifacts.
+
+Project(s)
+
+April 2014 – Present: Threadvine
+
+Threadvine is a B2B marketing system that enables buyers and reps to
+collaborate. This automated tool allows buyers to view and order
+products online.
+
+	Technologies used:
+
+Web Framework: Grails
+
+Language: Groovy
+
+Database: MySQL
+
+Version Control: Git
+
+Caching Framework: Elasticsearch
+
+Javascript frameworks: jQuery, jQuery UI
+
+Roles and responsibilities:
+
+Development
+
+Maintenance
+
+R & D
+
+Administration
+
+March 2012 – April 2014: Clinical Genomicist Workstation (CGW)
+
+	The main functionality of CGW is to get genetic information of a
+patient and interpret this information to confirm any medically
+actionable case. The genetic information is collected using patient
+samples which are sequenced and then processed to generate patient
+reports. The artifacts used in/by CGW can be divided into:
+
+Patient variants
+
+External variants
+
+Panel
+
+Patient case information
+
+	
+
+	Technologies used in CGW:
+
+Web framework: Grails
+
+Language: Groovy, Java
+
+Database: Oracle 11G
+
+Javascript frameworks: jQuery, prototype
+
+UI Frameworks: Twitter Bootstrap, jQuery UI, YUI
+
+Web technologies: HTML, CSS, Freemarker, Ajax, GSP, XML
+
+Rules framework: Drools
+
+Source version control: SVN
+
+Test frameworks: Spock, Geb
+
+Other tools: Jira, Crucible, Confluence, Sql developer
+
+	
+
+	Roles and Responsibilities:
+
+Feature implementations, bug fixes
+
+Deployments
+
+Documentation
+
+Data model design
+
+Unit and Integration testing
+
+Skills Summary
+
+Languages	Groovy, Java, C++, Python
+
+Frameworks	Grails, GORM, Spring, Hibernate, jQuery, Bootstrap,
+Elasticsearch
+
+Design Patterns	Factory, MVC, Singleton, IOC, Loose coupling and Command
+
+Test environment	Spock, Geb
+
+Version control	Git, SVN
+
+Web servers	Tomcat
+
+Databases	MongoDB, Oracle 10G, Oracle 11G, MySQL 5.5
+
+Operating systems	Linux (CentOS and Ubuntu), Windows NT
+
+IDE	IntelliJ Idea, GGTS, Eclipse
+
+Other tools	Putty, Sql Developer, DbSchema
+
+
+
+Key Areas: agile methodologies, scrum, test-driven development, design
+patterns, administration.
+
+Educational Qualification
+
+	LEVEL	COLLEGE / UNIVERSITY	YEAR OF PASSING	AGGREGATE
+
+1.	Masters in Information Technology	IIIT Hyderabad	2012	86
+
+2.	B.Tech in Information Technology	St. Marys college of Engg. & Tech
+
+J.N.T.U	2009	58
+
+3.	Intermediate	Sri Chaitanya college
+
+B.I.E, A.P	2005	74
+
+4.	Xth Standard	Good Samaritan High School
+
+S.S.C, A.P	2003	84
+
+
+
+Other Projects Details
+
+Successfully completed a major project on bidding systems which
+intelligently sorts out the best bid and automatically intimates the bid
+winner. The entire project was based on C#.net, ASP.net, Adobe Flex, SQL
+Server 2005 and certain algorithms designed for categorizing the bids.
+
+Designed a Facebook application in PHP for MSIT Users which helps the
+MSIT Mentors, Students and Alumni to be connected to one another.
+
+Library Management System project in C.
+
+A fully functional paypal like business back-end modules in JAVA.
+
+Co-Curricular achievements 
+
+MongoDB certified developer, achieved 100% score.
+
+Participated in the technical event as well the concerning workshops in
+BITS PILANI sponsored event “APOGEE 2008”.      
+
+Involved in the technical festival conducted by IIT Chennai called
+"SHAASTRA" 2007.
+
+Constructed a race robot with my team for the event called "ROBOVEDA" in
+Sreenidhi.
+
+Organized the technical festival ‘Illuminati’ at my college with our
+Principal and HOD.
+
+Extra- Curricular Interests
+
+Reading books.
+
+Mountaineering.
+
+Playing and watching football.
+
+Summary
+
+Highly motivated, organized and adaptable person with good communication
+skills.
+
+Competitive technical skills. 
+
+Adaptable to any work environment and culture.
+
+A very enthusiastic and quick learner.
+
+ 
+
+Personal Details
+
+     Name		: Ramakanth Darbha
+
+     Fathers name	: D. Ramalingeswara Rao
+
+       Mothers name	: D. Kamala
+
+       Date of Birth	: 04 November 1987
+
+       Sex		: Male
+
+  PAGE  1 
+
+	
+
+Nabard Quarters,
+
+A.Dasarhalli,
+
+Magadi Main Road,
+
+Bangalore
+
+Mobile	: +91 9703290501
+
+Email	: ramakanth.darbha@gmail.com
+

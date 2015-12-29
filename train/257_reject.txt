@@ -1,0 +1,596 @@
+SRIMANTH REDDY PALEMPALLE.			PH - +91 8978355882
+
+Flat No 102,					srimanth.reddy.palempalli@gmail.com
+
+Saraswathi Arcade,
+
+Plot No 36,
+
+Sai Lakshmi Housing Estate,
+
+Pragathi Nagar,	
+
+Hyderabad, A.P						
+
+PIN – 500090
+
+			           
+
+Summary
+
+Creative, dedicated Information Technology Professional with over 7
+years and 7 months of experience in full life cycle of software design
+process.
+
+To work on technically challenging projects with focus on developing
+leading edge technology and to accomplish every task assigned with fully
+sincerity, honesty and with complete devotion.
+
+Sun Certified Java Programmer 1.5
+
+Proficiency in Programming and DB related Applications including:
+
+Java
+
+JSP/Servlet
+
+Struts
+
+Spring
+
+iBatis
+
+Spring Web Services
+
+Spring Security
+
+	DB2
+
+Oracle
+
+MySQL
+
+	WAS
+
+Tomcat
+
+Glassfish	Unix
+
+VB (Basics)
+
+Power Builder
+
+
+
+Effectively used the following tools:
+
+Eclipse
+
+RSA
+
+Net Beans
+
+SOAPUI
+
+Http Requester
+
+	Toad
+
+Aqua Data Studio 4.7.2
+
+Advanced Query Tool
+
+SQL Query Builder
+
+Spring STS	Visual Source Safe
+
+CA Harvest
+
+SCM Suite
+
+GIT
+
+SVN
+
+
+
+
+
+Professional Experience
+
+In my total 7+ years of experience, I have worked in few of the best
+companies in the industry as below,
+
+Satyam Computers Services Ltd. (Jun'07 - Feb'10)
+
+Scope International Pvt. Ltd. (Feb'10 - Jun'11)
+
+ValueLabs (Jun'11 - Apr'14)
+
+UnitedHealth Group (Apr'14 - Tilldate)
+
+UnitedHealth Group – Hyderabad, India 			     April-2014 – Till Date
+
+PROJECT I	:      HEDIS
+
+Client		:      UnitedHealth Care
+
+Technologies  	:      AngularJS, Spring, JSON Web Token, Hibernate,
+bower, npm, gradle, JUNIT, Karma
+
+Database	:      Oracle 11g
+
+Role          	:      Senior IT Analyst 
+
+Duration	:      Dec 14 to Till Date
+
+Company	:      UnitedHealth Group,
+
+Description:
+
+		HEDIS (a.k.a Health Effectiveness Data and Information Set) is an
+application rates Insurance companies which allows Members and Employers
+choose the best insurance plan according to the ratings. This
+application helps rating both Federal Govt. and Corporate plans.
+
+Responsibilities:
+
+As a Team member, worked on,
+
+Developing POC's.
+
+Design requirements and UI screen layouts.
+
+Decide on technologies and architecture to be used.
+
+Development, Implementation and Testing.
+
+Have daily calls with business team to update the status on currently
+running tasks and pickup new from backlog according to my bandwidth.
+
+Analyse the User Story and create tasks and estimations.
+
+Perform Unit Testing. 
+
+PROJECT II	:      MSP
+
+Client		:      UnitedHealth Care
+
+Technologies  	:     JSF, UI Tool Kit, Spring Batch, Apache POI, Springs
+IOC, Spring JDBC Template, 			      Maven
+
+Database	:      Oracle 11g
+
+Role          	:      Senior IT Analyst 
+
+Duration	:      Apr 14 to Dec 14
+
+Company	:      UnitedHealth Group,
+
+Description:
+
+	Application 1: MSP
+
+		MSP (a.k.a Medicare Secondary Payer) is an application which allows
+users to determines suspects and conduct investigations to determine
+whether the situation is MSP or NOT MSP. It is said MSP, when a
+government sponsored Insurance plan pays first in a case where any
+Self/Employee funded insurance plan is also active during the encounter
+and is responsible for the payment of that encounter. After
+investigating into the suspect, and there is an MSP situation, a
+submission is made to CMS for repayment and the application also allows
+user to track the same and the case is closed.
+
+Responsibilities:
+
+As a Team member, worked on,
+
+Development, Implementation and Testing.
+
+Have daily calls with business team to update the status on currently
+running tasks and pickup new user stories from backlog according to my
+bandwidth.
+
+Analyse the User Story and create tasks and estimations.
+
+Performed Unit Testing. 
+
+Value Labs – Hyderabad, India 			     June-2011 – Till Date
+
+PROJECT III	:      Monitise 
+
+Client		:      Monitise. 
+
+Technologies  	:     Springs Web Services, Spring JDBC Template, Apache
+Camel, JMS, JUNIT, Maven, 			      Ant, IVY
+
+Database	:      Oracle 10g
+
+Role          	:      Team Member 
+
+Duration	:      Jun 11 to Apr 14
+
+Company	:      Value Labs,
+
+Description:
+
+	Application 1: Movida
+
+		Movida is an application where the registered users of Movida App can
+pay their utility bills and movie tickets through basic java mobiles.
+USSD Shortcodes are used to do the transactions like paying utility
+bills such as DTH, Postpaid Telephone charges, Landline Phone charges,
+LPG gas bills etc.. To register to this application, user need to have a
+valid VISA card.
+
+	Application 2: Merchant Plug-In Interface(MPI)
+
+		MPI is a web service which is used to authenticate the payments by
+integrating CORE with third party merchant called Modirum which in-turn
+will connect to Visa ADS server and Issuer bank servers validating the
+card details and the amount being paid.
+
+	Application 3: Peer 2 Peer (P2P) transfers
+
+		P2P is a Rest web service through which peer to peer transfer of money
+is made between 2 accounts holding Visa cards. This service will make
+use of Visa P2P API to make the transactions. There will be of total 4
+core Visa API's for P2P transfers. They are Account Lookup (ACNL),
+Account Funding Transaction (AFT), Original Credit Transaction (OCT) and
+Account Funding Transaction Reversal (AFTR). This service now currently
+will support only domestic transactions but it also supports
+non-domestic transactions in future.
+
+		
+
+Responsibilities:
+
+As a Team member, worked on,
+
+Development, Implementation and Testing at client location.
+
+Have daily calls with client to acquire the new requirements and update
+the status on currently running tasks.
+
+Do the estimations of the new tasks and create the User Stories for
+them.
+
+Performed delegation activites by distributing the tasks in effective
+and organized way.
+
+Performed Code Walkthroughs,  Unit Testing. 
+
+Provided support for System Integration Testing.
+
+Scope International Pvt. Ltd. – Chennai, India 			     Feb-2010 –
+June-2011
+
+PROJECT IV	:      Enterprise Scoring Engine 
+
+Client		:      Standard Chartered Bank. 
+
+Technologies  	:      J2EE, , JSP, JavaScript,PL/SQL, Struts, Spring and
+iBatis
+
+Database	:      Oracle 10g
+
+Role          	:      Team Member 
+
+Duration	:      Jun 10 to June 11
+
+Company	:      Scope International Pvt.  Ltd.,
+
+Description:
+
+		Enterprise Scoring Engine (ESE) is an application where the bankers
+can create a customer profile and evalute their credit limit based on
+their yearly turn over and their behavioral models. This application is
+applicable for enterprises of the ranges, Medium Enterprise(ME), Small
+Business(SB) and Micro Business(MI). It consists of 2 modules, Spread
+and Scorecard. Through this application, New customers as well as
+Exisiting customers, ranging in MI,SB or ME can apply for Credit. 
+
+Responsibilities:
+
+As a Team member, worked on,
+
+Development, Implementation and Testing.
+
+Performed Code Walkthroughs and independent Unit Testing. 
+
+Provided support for System Integration Testing.
+
+Privided Support for UAT.
+
+PROJECT V	:      CREDITMATE 
+
+Client		:      Standard Chartered Bank. 
+
+Technologies  	:      J2EE, , JSP, JavaScript,PL/SQL, Struts, Spring and
+iBatis
+
+Database	:      Oracle 10g
+
+Role          	:      Team Member 
+
+Duration	:      Feb 10 to Jun 10.
+
+Company	:      Scope International Pvt.  Ltd.,
+
+Description:
+
+		CreditMate is the new global system which streamlines and automates
+the credit initiation and approval processes in the bank. It consists of
+various modules like Business Credit Application, Group Mandate,
+Standard Instruction Form etc. Using CreditMate, Sending, receiving and
+routing the credit documents and tracking will be done systematically on
+the new personalised Workspace module.
+
+Responsibilities:
+
+As a Team member, worked on,
+
+Requirements gathering, Estimation.
+
+Development, Implementation and Testing.
+
+Performed Code Walkthroughs and independent Unit Testing. 
+
+Satyam Computer Services Ltd. – Chennai, India 			     Jun-2007 –
+Feb-2010
+
+PROJECT VI	:      P 2 Package (Maintenance and Production Support) 
+
+Client		:      Nissan, North America. 
+
+Technologies  	:      J2EE, Java Bean, Servelets, JSP, Unix, VB
+
+Database	:      DB2, Oracle 10g
+
+Role          	:      Team Member 
+
+Duration	:      Apr 09 to Feb 10
+
+Company	:      Satyam Computer Services Ltd.,
+
+Description:
+
+	Application 1 : POFT
+
+POFT,  Production Ordering and Forecasting Tool, is a decision support
+tool utilized in developing the Regional 3 Month order sent to the
+various production sources each month.
+
+	
+
+	Application 2 : OMS
+
+OMS is a decision-support tool that helps retail Dealerships in the
+vehicle ordering process.
+
+	
+
+	Application 3 : VPIPE
+
+Vehicle Pipeline is an Excel add-in that allows users to query 36 months
+worth of sales, inventory, financial, and demand sensing data by region.
+
+
+	Application 4 : EFLO
+
+EFLO is a Web application that allows users to query information from
+Oracle database by making selections from EFLO screen. 
+
+	Application 5 : PRODPIPE
+
+PRODPIPE is a Web application that allows users to query information
+from Oracle database by making selections from PRODPIPE screens. 
+
+Responsibilities:
+
+As a Team member, worked on developing Design Document, Coding.
+
+Analysis of the issues.
+
+Resolving the incidents before the SLA.
+
+Documenting the old issues, monitoring sheets which helps in easy job
+monitoring.
+
+Keeping the application up well before the SLA.
+
+Given knowledge Transfer within the Team.
+
+Did many Minor enhancements and Major Enhancements to stabilise the
+applications.
+
+PROJECT VII	:      P 2 Package (Major Enhancement OMS – Dealer Order
+Management System) Client		:      Nissan, North America. 
+
+Technologies  	:      Java Bean, Servelets, JSP
+
+Database	:      DB2, Oracle 10g
+
+Role          	:      Team Member 
+
+Duration	:      Dec 08 to Feb 09
+
+Company	:      Satyam Computer Services Ltd.,
+
+Description:
+
+The Dealer Order Management System (OMS) is part of the Integrated
+Customer Order Network (ICON) initiative. ICON was designed to integrate
+Nissan North America’s approach to vehicle ordering, production, and
+allocation, and its mission is simple: Deliver the right vehicle, to the
+right place, at the right time. OMS is a decision-support tool that
+helps retail Dealerships in the vehicle ordering process.
+
+Responsibilities:
+
+As a Team member, worked on developing Design Document, Coding.
+
+Involved in
+
+Enhancement Implementation
+
+Bug Fixing
+
+Testing
+
+I was in charge of following deliverables
+
+Estimating enhancements
+
+Deployment
+
+		
+
+PROJECT VIII		:	Design Change Warehouse (DCW)
+
+Client		: 	Nissan, North America. 
+
+Technologies  	: 	Struts, Spring and iBatis
+
+Database	:	DB2
+
+Role          	: 	Team Member
+
+Duration	: 	May 08 to Dec 08
+
+Company	:	Satyam Computer Services Ltd.,
+
+Description:
+
+Design Change Warehouse system (DCW) is a custom web based application
+to manage cost change proposals. DCW will systematically integrate data
+from Proposal Tracking Management, Budget Requesting, Purchasing Project
+Management, Project Bill of Materials, Part History, Dnote Management,
+Product Development Cost Tracking Form Management and Changing Parts
+Lists into a common database for Design Change Cost reporting. DCW has
+been developed using three-tier architecture with clear separation
+between user interface, business and data objects. This application has
+provision to handle the Authorization of user for a particular screen
+and fields. Based on the roles the user will be allowed to perform with
+the application.
+
+Responsibilities:
+
+As a Team member, had worked on two modules and received “PAT ON
+BACK” for execellent performance and dedication.
+
+Involved in
+
+Implementation
+
+Security logic development and implementation
+
+Review
+
+Testing
+
+Bug Fixing
+
+I was in charge of following deliverables
+
+High level design document
+
+Unit Test cases
+
+Code deliverables
+
+PROJECT IX		: 	POFT Remediation
+
+Client		: 	Nissan North America
+
+Technologies  	: 	HTML, JavaScript, Java, Stuts, JSP, servlets, JDBC
+
+Database	:	DB2,Oracle,SQLServer
+
+Platform	: 	Windows XP
+
+Designation       	: 	Software Engineer
+
+Duration	: 	Feb 2008- May 2008   
+
+Company	:	Satyam Computer Service Ltd.
+
+Description:
+
+POFT,  Production Ordering and Forecasting Tool, is a decision support
+tool utilized in developing the Regional 3 Month order sent to the
+various production sources each month.  The tool provides easy access to
+historical retail sales and current inventory pipeline.  This
+information will assist the user in understanding the current market
+situation for a vehicle, prior to placing new vehicle orders.
+
+Responsibilities:
+
+Involved in major Enhancements of this application, coding. 
+
+Involved in Migration of the application from java1.2 to java1.4. 
+
+Involved in Implementation of Host Bridge. 	
+
+Prepared Detailed Design Document, Code Review Report.
+
+Involved in Unit Testing, System Testing and UAT.
+
+PROJECT X		:	NOVELL NETWARE ELIMINATION FOR OPEN SYSTEM
+
+Technologies  	: 	Power Builder
+
+Database	:	SYBASE
+
+Platform	: 	Windows XP
+
+Designation       	: 	Software Engineer
+
+Duration	: 	Sep 2007-  Feb 2008
+
+Company	:	Satyam Computer Services Ltd.
+
+Description:
+
+Nissan is in the process of eliminating applications pointing to Novell
+Netware and replace it with Windows 2003 AD. This is a project to check
+what are the related items are affected in the application based on the
+change from Novell Netware to Windows 2003 AD.
+
+Responsibilities:
+
+Involved in Business Functionality Analysis. 	
+
+Involved in Preparing Detail Design Documents. 	
+
+Involved in Coding, Unit Testing and System Testing. 	
+
+Involved in Preparing Code Review Report
+
+Highest Education
+
+Bachelor of Engineering							(2003-2007)
+
+College		: RGMCET, A.P
+
+Specialization	: Mechanical Engineering
+
+Aggregate 		: 75%
+
+Personal details
+
+Father’s Name		: Mr. Sudhakar Reddy P
+
+Date of Birth		: June 11, 1986. 
+
+Languages Known 	: English, Telugu  and Hindi 
+
+I here by declare that the information and facts stated above are true
+and correct to the best of my knowledge and belief.
+
+(SRIMANTH REDDY P)	                                                     
+                                                                        
+           
+
+	Page   PAGE  1  of   NUMPAGES \*ARABIC  9 
+

@@ -1,0 +1,296 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                 
+- 5year                                
+             
+
+Spring                  
+                                  - 
+5years                                 
+               
+
+Web
+Services                                
+        -  2
+year                                  
+        
+
+Core
+Java                                  
+             -   7.8years
+
+Design
+Patterns                                
+    -    7year
+
+UML
+design                                 
+          -    4year  
+
+Build Tools (Maven/Ant)                    -   
+Maven
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+  RAD,websphere,Myeclipse,tomcat
+
+80% coding 20% design
+
+Ok for startup
+
+Resume
+
+Jethram Boda             	         	                                
+Email: avajeeth@gmail.com
+
+                                                                        
+           Phone: +91 9701264890
+
+Professional Summary:
+
+7+ years of experience in the field of Java and J2EE technologies.
+
+Strong experience over Servlets, JSP, Struts, Spring, Hibernate, Web
+Services.
+
+Thorough knowledge of OOPS concepts.
+
+Experience in Development and Integration of web-based applications
+using WebSphere Application server and Tomcat.
+
+Good Inter Personal skills, team player and initiator.
+
+Work Profile:
+
+Working as Senior Consultant in Cap Gemini, Hyderabad, Since Nov’12-
+Till Date.
+
+Worked as Senior Software Engineer with Accenture, Hyderabad, From
+July’10- Nov’12.
+
+Worked as Software Engineer with Mahindra Satyam, Hyderabad, from
+Dec’07- Oct’09.
+
+Worked as Software Engineer with Syntel India pvt Ltd, Mumbai, from
+March’06- Dec ‘07.
+
+     
+
+                                        
+
+EDUCATION:
+
+B.Tech in Computer Science & Engineering from Nagarjuna University.  
+
+Technical Profile:
+
+Operating Systems 		  : Windows 98/2000/NT
+
+Languages& Scripting	  : C, C++, Java, HTML, XML
+
+Java Technologies 		  : JDBC, Servlet, JSP, EJB2.0
+
+Framework                           : Struts, Spring, Hibernate, Web
+Services
+
+Web Server	   		  : Apache Tomcat  
+
+Application Server 	   	  : WebSphere Application 7.0
+
+Database 			  : Oracle
+
+PROJECT DETAILS:
+
+Project#1    	:         Claims Underwriting Exchange (CUE)
+(Dec’12-till date)
+
+Client		:	Michelangelo Zurich UK General Insurance(UKGI)
+
+Role		:	Team Member
+
+Responsibility :         Understanding requirements and Coding
+
+Team Size 	:	15
+
+Environment	:	Java, Spring, Hibernate, Guidewire, Web services, Oracle
+
+Server		: 	WebSphere Application 7
+
+Description	:
+
+CUE is the Claims Underwriting Exchange, which is used by insurers to
+support the insurance claims process and the insurance underwriting
+process to assist in identifying fraud around non-disclosure of claims.
+
+The Claims and Underwriting Exchange (CUE) is a central database of
+motor, home and personal injury insurance claims. Insurers add and
+update CUE claims data via batch processes and can now enquire claims
+data using CUE Data Request Service (DRS) web service.
+
+The Zurich’s new claims system, the Guidewire ClaimCenter needs to be
+integrated with Experian’s exposed services to achieve the following
+business requirements:
+
+•	Perform CUE query to retrieve matched claims for fraud detection.
+
+•	Update claims data (new/reopen/amended claims) to CUE database via
+batch process on a daily basis.  
+
+•	Update closed claim details to CUE database via batch process on
+weekly basis
+
+Project#2    	:         Cathay Pacific Airways (CPA)
+(July’11-Nov’12)
+
+Client		:	Cathay Pacific Airways
+
+Role		:	Team Member
+
+Responsibility :         Understanding requirements and Coding
+
+Team Size 	:	25
+
+Environment	:	Java, Spring, Hibernate, RAD 8.0, Oracle
+
+Server		: 	WebSphere Application 7
+
+Description	:
+
+Cathay Pacific Airways web channel Implementation has been redesigned to
+have the services re-used by future channel implementations like Mobile
+etc.
+
+The architecture of the application is designed in such a way that it
+has most of the cross cutting frameworks excluded from the application,
+by thus providing a loosely coupled architecture.
+
+Project#3    	:         User Management Tool (UMT) (July’10-June’11)
+
+Client		:	Mitsubishi Motors Europe
+
+Role		:	Team Member
+
+Responsibility :         Understanding requirements and Coding
+
+Team Size 	:	6
+
+Environment	:	Java, Spring, Hibernate, RAD 8.0, Oracle
+
+Server		: 	WebSphere Application 7.0
+
+Description	:
+
+The user management tool (UMT) in the Mitsubishi Partner Portal (MPP)
+will allow administrative users to create new user accounts for the MPP
+and request for access to other business applications for these user
+accounts. Therefore the UMT will include a workflow to process create
+user and access request to the business application. Administrative
+users will also be able to maintain user accounts, request for new
+application access or remove application access and delete existing user
+account. Additionally Super administrative users will be able to
+maintain overall UMT tool. This will include register for a new
+application, maintain an existing application, maintain email text, get
+an overview of all the requests and their status and get an overview of
+existing portal users and their applications. 
+
+Project#4    	:          Retail Merchandising System
+(Jan’08-July’09)
+
+Client		:	Abercrombie & Fitch, New Albany, USA 
+
+Role		:	Team Member
+
+Responsibility :         Understanding requirements and Coding
+
+Team Size 	:	25
+
+Environment	:	Java, Servlet, JSP, Struts, Oracle
+
+Server		: 	WebSphere Application 5.1
+
+Description	:
+
+                      
+
+The application contains features of tracking Item flow against an order
+right from merchant to customer delivery based on the user login. This
+module will provide search based on the Brand, Department, PO, Key Item,
+Web Set Date and Actual Set Date. User can able to select the fields to
+be displayed by setting his profile for each tab. It has the following
+tabs Merchant, Copywriter, Web Designer, DC Coordinator, DTC Inventory
+Manager, Customer View, Visual Items, Mass KI Update and ITS Profile.
+
+             
+
+              This portal helps clients to do their business from a
+single platform. Through Item Tracking System Users will be able to
+expand the view by clicking on the individual key items. The users will
+be able to page left or right to access all available columns that are
+defined to the view they are accessing. The program should pull in all
+applicable data from the database and build an object that can be used
+to pull in the particular columns that are applicable to the view
+selected.
+
+Project#5    	:         Global New Accounts (NASP) (Jan’07-Dec’07)
+
+Client		:	American Express
+
+Role		:	Team Member
+
+Team Size 	:	25
+
+Responsibility :         Understanding requirements and Coding.
+Providing production support
+
+Environment	:	Java,Servlet,JSP, EJB, IBM Mainframe, DB2, MQ
+
+Server		: 	WebSphere Application 5.1
+
+Description	: 
+
+               The system core function is to process new applications
+for American Express Credit cards. It is designed to process new
+applications for US, Canada and Europe market.
+
+The main processing involves verifying applications for Fraud check
+(Amex Check, Duplicate Check, and other Frauds), real time credit bureau
+review, scoring, decision, card assignment and creating different down
+stream files for further processing of application in various downstream
+systems. Also the system also tracked the source of the application
+merchant wise, commission payment, tracking product Performances for
+future projections. The New Accounts service Portal (NASP) is being
+developed to facilitate the card application process.   The New Accounts
+Portal will be similar to existing portals developed for other Service
+Delivery Utilities and will capitalize on some existing portal
+functionality. 
+
+Project#6   	:         Outside purchasing System (OPS)
+(March’06-Dec’06)
+
+Client		:	DCX, USA
+
+Role		:	Team Member
+
+Responsibility :         Understanding requirements and Coding
+
+Team Size 	:	10
+
+Environment	:	Java, Servlet, JSP, Struts
+
+Server		: 	WebSphere Application 5.1
+
+Description	:
+
+          The DaimlerChrysler outside Purchase Service (OPS) System
+provides a facility for collecting, tracking and reporting information
+related to the projects with different suppliers. The purpose of this
+system is to provide certain details from the supplier end for each
+project as to how the invoiced amount has been utilized on a monthly
+basis. This application enforces some discipline from the supplier to
+assign and maintain the resource types (e.g. Engineer, Program Manager
+Etc.) for a project. This application brings in more accountability for
+the expenses invoiced by the supplier on a monthly / periodic basis.
+

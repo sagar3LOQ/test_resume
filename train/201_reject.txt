@@ -1,0 +1,207 @@
+TECHPOINT PROFILE
+
+
+
+PRASHANT SAHU
+
+Mobile No.: +91 9590179776
+
+E-Mail: prashantsahu312@gmail.com
+
+
+
+
+
+Aspiring for a position where my knowledge, skills and experience can be effectively used for the development of my organization and for personal advancement .
+
+
+
+
+
+Professional Synopsis 
+
+
+
+Having 5 Years of Hands on work experience in software development. 
+
+	Experience in an Agile Software Development environment using AGILE methods SCRUM.
+
+	Having hands on experience in handling Use Cases, Functional Specification, Knowledge Transfers and Business Analysis
+
+	 Hands on experience in Core Java, Servlets, JSP, JDBC, Struts, Spring, Hibernate. 
+
+	Having knowledge in Web Services.
+
+Experience in using the platforms like Windows , UNIX/Linux.
+
+SQL Knowledge and experience in database.
+
+												An effective communicator with excellent relationship building & interpersonal skills. Strong analytical, problem solving & organizational abilities. Possess a flexible & detail oriented attitude.
+
+												Strong experience in Core Java, Servlets, JSP, JDBC, Struts, Spring, Hibernate.
+
+												Very strong experience in UI using JQuery, JSON and javascript.
+
+	Having working experience in REST.
+
+	Having experience in Multithreading, Algorithms and Data Structure.
+
+												Experience in working in Agile methodology.
+
+												Exposure to Tomcat and Maven
+
+												Very strong experience in Java design, coding, testing and debugging techniques
+
+												Very strong experience in enterprise level J2EE platforms using J2EE design patterns
+
+												Good SQL knowledge
+
+												Knowledge of writing Unit test cases and carrying out Unit testing using Junit
+
+												Strong communication skills, both verbal and written
+
+												A proactive approach to problem solving and decision making
+
+	Technical Skill Set 	
+
+Language:   		Java, SQL
+
+Web Technologies:	HTML, JavaScript, AJAX, JQuery, JSON
+
+J2EE technologies:	Struts, Spring, Hibernate, Web Services
+
+Databases:		MySQL, Oracle	
+
+Tools: 			MAVEN, ANT
+
+IDE Used		: Eclipse
+
+Operating System  	: Windows and UNIX    
+
+
+
+Professional Experience
+
+
+
+Currently working for GlobalLogics as Senior Software Engineer from Apr 2015 to till date.
+
+
+
+associated with Tavant Technologies Bangalore as Senior Software Engineer. 
+
+
+
+
+
+
+
+Academic
+
+B.Tech in  Computer Science from Biju Pattanaik University, Orissa with 67% marks.
+
+
+
+Project Details
+
+Project Name  : Communication Engine  
+
+Client              : Snapdeal          
+
+	Role                  : Design and Development.
+
+	Environment   :   Core Java, Kafka, Storm, MySql, Hibernate
+
+	App Server      :  Apache Tomcat 6.0, Kafka
+
+	Duration         : May 2015 to Present
+
+	Description:
+
+	Communication Engine is Project about sending e-mail, SMS to the user events. 
+
+Roles & Responsibilities:
+
+
+
+Involved in the development and design of various functionality module.
+
+Worked on project backend functionality using Spring and Hibernate.
+
+Worked on Storm.
+
+
+
+Project Name  : TiVo Service Gateway  
+
+Client              : TiVo          
+
+	Role                  : Design and Development.
+
+	Environment   :   Core Java, JSP, Struts 2.0, Spring, Hibernate, MySQL, REST
+
+	App Server      :  Apache Tomcat 6.0
+
+	Duration         : Jan 2012 to Feb 2015
+
+	Description:
+
+	The TiVo Service Gateway (TSG) tool lets you publish content to the TiVo Service and to manage users of the TSG tool. You can perform tasks like ,Create of users who can publish applications to a specific TiVo service. Create of permissions and roles to identify which users have access to specific portions of TiVo Service. Publish applications and content to specific portions of the TiVo Service if you are a user with the appropriate access.
+
+Subscription and Billing management, TRP rating computation.STB activation and managements.	
+
+Roles & Responsibilities:
+
+
+
+Involved in the development and design of various functionality module.
+
+Worked on project backend functionality using Spring and Hibernate.
+
+Deploy the application on the Tomcat Server. 
+
+Project #2  : TiVo Authoring Portal  
+
+Client              : TiVo          
+
+			
+
+		Role                  :  Design and Development.
+
+	Environment   :   Java, Jsp, Struts 1.2, Spring, Hibernate, MySQL, Multithreading, Data Structure.
+
+	App Server      :  Apache Tomcat 6.0
+
+	Duration         : Jan 2011 to Feb 2015
+
+	
+
+	Description:
+
+	This project is for set top box management application. Purpose of this web based application is to manage contents that can be delivered to end users through set top box. This application will provide administrative screens to create and manage different contents that need to be delivered to the Set Top Box (STB).	 it provides no of functionalities like Create and publish of EPG(Electronic Program Guide), Execution of Image and Video based advertisements. 
+
+Responsibilities:
+
+Involved in the development and design of various functionality module.
+
+Used multithreading concept to run multiple jobs like EPG, mind station update etc.
+
+Develop web application using Struts Framework
+
+ Develop user interfaces using JSP, HTML and CSS
+
+Use Hibernate framework for the backend persistence
+
+Use Eclipse as IDE tool to develop the application and JIRA for bug and issue tracking
+
+Personal Details
+
+Languages Known	:    English, Hindi and Odia.
+
+		Prashant Sahu
+
+
+
+
+
+			PRASHANT RESUME	Page 1

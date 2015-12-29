@@ -1,0 +1,281 @@
+CURRICULUM VITAE
+
+ Narender Rao Balguri                                           
+
+E–Mail: narenderraobalguri@gmail.com
+
+H.No:2-1-249/2, Plot No: 90,                                    Phone: 9052826444
+
+RoadNo: 4C,
+
+Mamata Nagar,
+
+Nagole,
+
+Hyderabad - 68.	                      	 
+
+
+
+
+
+
+
+OBJECTIVE
+
+To work for a reputed organization in the Information Technology industry which would give me enough opportunities to realize my full potential and serve the firm to its expectation. My goal is give my best to whatever challenges that I personally encounter in order to take myself to a new level, both professionally and personally.
+
+
+
+
+
+
+
+
+
+PROFESSIONAL TIMELINE
+
+ROLE
+
+EXPERIENCE
+
+COMPANY
+
+Applicaton Developer 
+
+1.4 years(June 2014-present)          
+
+Oracle India Pvt Ltd.
+
+Senior Systems Engineer
+
+2.11 years(July 2011-May 2014)
+
+Infosys Ltd.
+
+    
+
+
+
+
+
+
+
+EDUCATIONAL QUALIFICATION
+
+M.Tech (VLSI DESIGN) from NIT Nagpur with Aggregate 8.5 CPI (2009-2011).
+
+B.Tech (ECE) from JNT University, Hyderabad, with Aggregate 66.6% (2004 - 2008).
+
+Intermediate (MPC) from Sri Vijaya Bharathi Jr College with Aggregate 88% (2002-2004).
+
+S.S.C with 86.7% of marks in 2002.
+
+
+
+
+
+
+
+
+
+
+
+SOFTWARE EXPERTISE
+
+Operating Systems
+
+Dos, Windows XP/Vista/7, Mac OS X.
+
+Database
+
+Oracle, SQL Server 2005
+
+Languages
+
+Java, SQL, PL/SQL, Oracle
+
+Internet Technologies
+
+HTML, Javascript, JSP, Servlet, AJAX, J2EE
+
+Frameworks
+
+Backbone, jQuery, Spring 3.0 & Hibernate 4
+
+Certification
+
+Microsoft 70-480 HTML5 Certification.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PROJECT DETAILS
+
+
+
+
+
+PROJECT #1 – 15 months duration(Current Project)
+
+Title
+
+Fuse Plus  HCM  Development
+
+Role
+
+Coding, Developing, fixing UI pages, and Testing
+
+Technologies
+
+Spring, ADF, CSS
+
+Description
+
+	Fuse plus is a product developed by the company. Human capacity Management is a part of Fuse plus product. In this part, we can manage the different person’s social activity reports and his improvement guide lines from the manager.
+
+Responsibilities
+
+Developed front end screens using ADF faces wrote SQL scripts and used ADF VM and Data controls for back end and Testing.
+
+
+
+
+
+
+
+
+
+PROJECT #2 – 1 year duration
+
+Title
+
+RJV (Retail Joint Venture) 
+
+Role
+
+Coding, Developing, fixing UI pages, and Testing
+
+Technologies
+
+Spring, Hibernate, JSP, JQuery, Ajax, Maven, Oracle,Backbone,HTML5, css3.
+
+Description
+
+	Retail Joint Venture Portal for its customers who own small scale companies and who purchases products from them (minimum 5 Macs) and additionally any no. of products. The admin of the company and all the employees of the company will be given a common unique joint venture membership id. We use Spring MVC Framework and Hibernate as ORM tool.
+
+Responsibilities
+
+Developed Restful Services in Spring and using Hibernate as ORM tool to connect to Oracle DB. Developed front end screens using jsp, jQuery ,Ajax, HTML5, Underscore and Backbone.Wrote sql scripts and procedures for back end. UTC, Pseudo Codes and Impact analysis. Documentation and Testing using Rest clients and jUnits.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PROJECT #3 – 1 year duration
+
+Title
+
+Joint Venture Call Center Application
+
+Role
+
+Coding, Developing, fixing UI pages, and Testing
+
+Technologies
+
+Java, HTML5, JavaScript, Spring , Hibernate,  JQuery, CSS3, Oracle , Tomcat  Application server, Backbone, Underscore
+
+Description
+
+This project involves the development, migrating the existing application into new frameworks, enhancing the functionality, resolving issues in the Retail Joint Venture (RJV) Call center application. The business objective of RJV Call Center is, help call center agents to view the reservations created by Customers for iMac, iPad,  iPhone and iPod and contact  customer through softphone. Application also provides support to agent for creating new reservation and editing the reservation on customer request.
+
+Responsibilities
+
+Developed Restful Services in Spring and Using Hibernate as ORM tool to connect to Oracle DB. Developed front end screens using jsp, jQuery, Ajax. Wrote sql scripts and procedures for back end. UTC, Pseudo Codes and Impact analysis, Documentation and Testing using Rest clients and jUnits.
+
+
+
+
+
+PROJECT #4 – 6 months duration
+
+Title
+
+DailyOps
+
+Role
+
+Coding, Developing and fixing UI pages and Testing.
+
+Technologies
+
+Java, HTML5, JavaScript, Spring, Hibernate, backbone, JQuery, CSS3, Oracle , Tomcat Application server.
+
+Description
+
+The project involves development, migrating the existing application into new frameworks, enhancing the functionality. The business objective of DailyOps is to help moderators to view performance of calls handled by different call centers till previous date based on geo locations.
+
+Responsibilities
+
+Developed Restful Services in Spring and Using Hibernate as ORM tool to connect to Oracle DB. Developed front end screens using backbone, jsp , jQuery ,Ajax, underscore. Wrote sql scripts and procedures for back end. UTC, Pseudo Codes and Impact analysis, Documentation and Testing using Rest clients and jUnits.
+
+
+
+
+
+DECLARATION:
+
+
+
+             I, Narender Rao do solemnly declare that the information furnished above is true, complete to the best of my knowledge and belief.
+
+
+
+
+
+Place:	Hyderabad                				
+
+Date:                                                                                               Narender Rao Balguri.
+
+											1
+
+Narender Rao Balguri									2

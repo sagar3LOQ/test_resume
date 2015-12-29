@@ -1,0 +1,422 @@
+Spring: 5 year+
+
+Hibernate: 5 year+
+
+Web services: SOAP
+
+Java: 10 year and current
+
+Design: yes
+
+Oracle/sql server
+
+16.5/17/1 week
+
+Available on Monday(18th May 15)
+
+Aniwesh Vatsal
+
+(E-mail:   HYPERLINK "mailto:talk2aniwesh@gmail.com" 
+talk2aniwesh@gmail.com ) Mob: +91 9701506950
+
+Professional Snapshot
+
+A J2EE application developer with around 9+ years of experience in
+Software Development of client server and Web based applications.
+
+Presently associated with NCR Corporation as a Senior Software Engineer.
+
+Experienced in end-to-end development of software products from
+requirement analysis to system study, designing, coding, testing,
+de-bugging, documentation and implementation.
+
+Strong domain knowledge of ATM, US health care, Supply Chain Management.
+
+Effective communication, proficiency at grasping new technical concepts
+quickly and utilize the same in a productive manner. 
+
+Comfort in working with cross-cultural and Multinational teams, and
+interacting with people across hierarchical levels / globally for smooth
+project execution.
+
+Holding USA B1 visa valid till 2018.
+
+Travelled onsite (U.S.A) three times on B1 for different clients. 
+
+Career Highlights
+
+#	Organization	Designation	Duration
+
+1	NCR Corporation	Sr Software Engineer	17th May 2012 – till date
+
+2	Alliance Global Services	Sr. Consultant	20th Feb 2006 – 16th May
+2012
+
+3	iAxis Ltd.
+
+	Software Engineer trainee	10 March 2005 to 6th Feb 2006
+
+
+
+ACADEMICS
+
+Diploma In Advance Computing from C-DAC Acts Hyderabad. (80%)
+
+MCA from Indra Gandhi National Open University. (64%)
+
+BCA from Indra Gandhi National Open University. (66%)
+
+Achievements
+
+Awarded as Star Of The Quarter award at NCR Corporation (Q1 2014)
+
+Got Special Recognition award at Alliance Global Services (Nov 2011)  
+
+Awarded as Star of the Quarter award twice at Alliance Global Services.
+
+Got Best team award five times at Alliance Global Services.
+
+Brainbench certified in Java 2 Fundamentals (Transcript ID#: 5479710)
+
+Yellow belt certified.
+
+Technical Skills
+
+Programming		: Core Java, Servlet, JSP, JSF, Struts, Spring, Hibernate,
+JMS, and JavaScript, AJAX
+
+			  Spring web services, Adobe Flex.
+
+Application Servers 	: Websphere 6.1, Weblogic, JBoss, Tomcat
+
+IDE			: IBM RAD 7.0, Eclipse (Kepler), My Eclipse, Exadel
+
+Operating Systems	: Windows (XP, 2000 Server, 7), Linux
+
+Database		: Oracle11g, MQ SQL, MS-Sql Server
+
+Tools			: CVS, PVCS, HP Open View, Quick Base, Daptive, Jira.
+
+Scripting Lang		: JavaScript, Jython
+
+Work History:
+
+Project 1:
+
+Title			: APTRA Vision.
+
+Version			: 2.3, 2.4 and 2.5
+
+Client			: NCR Product.
+
+Software				: Java1.5, Spring, Hibernate, JMS, Spring Web Service, Flex
+Sdk 3.6, Flex BlazeDS, Websphere  6.1, Tomcat 6.0.37, Oracle11g, MSSQL
+Server
+
+Duration			: May 2012 to Present.
+
+Role			: Sr. Developer.
+
+Description:
+
+APTRA Vision: APTRA Vision is a next-generation management system that
+combines data from assisted- or selfservice devices of multiple types
+with business and commercial data related to the network. This provides
+unrivaled visibility into what is really happening in your self-service
+network and helps you make significant advances in availability,
+customer experience, and business performance.
+
+Key Features
+
+Combined Business and Operational Data Analysis
+
+Advanced Graphical User Interface (GUI) with Web Access
+
+Real-time Updates of Key Performance Indicators (KPIs)
+
+Geographic Data Correlation
+
+Inventory Management
+
+Incident Management
+
+Multivendor Capability
+
+Software Distribution (SWD)
+
+Different Modes of Operations
+
+Cash Management
+
+Transaction Management
+
+Modes of operations: 
+
+Single Tenant: The more common mode of operation, a single tenant has no
+
+Multi-tenant or partition characteristics.
+
+Multitenant: APTRA Vision offers multi-tenancy support as a purchasable
+feature.
+
+Multi-tenancy allows a single centralized APTRA Vision system to support
+multiple
+
+clients and keep their data separated in virtual partitions.
+
+Business Partitioning: Business Partitioning is a method for segregating
+data across 
+
+multiple customers and users within a single database that ensures that
+each
+
+customer and user can only see the data that they are entitled to see.
+
+Project 2:
+
+Title			: SCRWeb & ZIL IBAT Web.
+
+Client			: HAVI Global Solutions (McDonald)
+
+Software				: Java1.5, Spring, Hibernate, JMS, Spring Web Service, JSP,
+AJAX, JSP, Websphere  6.1, RAD 7.0, Oracle11g
+
+Duration			: June 2009 to Present.
+
+Role			: Sr. Developer, Production Support.
+
+Description:
+
+SCRWeb is the web based application used by Restaurant Operations for
+reviewing order proposals, making changes and approving them. The system
+includes additional functionality such as restaurant specific new,
+general public documents and support for user maintenance as well as
+other miscellaneous functions. 
+
+The day to day operations are broken into the online portion of the
+application and the offline portion. The online portion includes all
+pages that are used by either restaurant operations or by administrators
+of the system. The offline portion includes the ODS2WebMaster pieces
+(PPO, SU, Restaurant, Assortment, and Restaurant SU Attributes), the
+ODS2WebTransaction pieces (Order Proposals, Contingency Orders) and the
+Web2ODS pieces (Auto-approvals, Orders). All the offline portions of the
+system are schedule and run via an internal scheduler built into the
+application.
+
+The Item and BOM Administration Tool (IBAT) is a web based application
+and used by ROP Planners to identify and maintain restaurant menu item
+participation data. The accuracy of this data helps ensure accurate
+demand forecasting, which in turn helps generate accurate restaurant
+order proposals.
+
+Marketing and Event data (MARS) based on McDonald’s planned
+promotional and marketing events is reviewed in IBAT, and updated with
+current restaurant specific information. Users have access to IBAT data
+for one or more DC’s for which they are authorized
+
+Project 3:
+
+Title			: Portico
+
+Client			: Portico Sys.
+
+Software				: Java1.5, Jython, PCL(Portico Configuration
+Language),Oracle 9i
+
+Duration			: feb 2008 to May 2009.
+
+Role			: Sr. Developer
+
+Description: 
+
+Part of the Alliance-Portico engagement in providing
+implementation/customization solutions of Portico product implementation
+to their clients like BCBSMI, BSBSNJ, ACSI, MMM and Care First
+
+Portico offers health plans software solutions extensively focused on
+Provider Network Management, PNO Operations, Portico eService, Portico
+Data services, Portico NPI, Portico Pricing, and Portico Foundation. 
+
+Project 4:
+
+Title			: AT & T Network Integration (3PP Interface)
+
+Client			: Asurion.
+
+Software				: Java1.5, Spring, Hibernate, Struts, Servlet
+
+Duration			: Sep 2007 to Jan 2008.
+
+Role			: Maintenance and bug fixing.
+
+Description: 
+
+Cingular Address Book (CAB) is a network based address book service that
+will allow Cingular customers the ability to synchronize their native
+device address book with a centralized network stored address book. 
+Cingular has selected Asurion as the CAB 3PP vendor. 3PP is AT&T’s
+interface to provide information to 3rd party vendors regarding an AT&T
+subscriber.
+
+Project 5:
+
+Title			: Fasttrack Online Application 
+
+Client			: Toppan Photomask Inc
+
+Software				: JSP, MyFaces JSF 1.1, Tomahawk JSF Component, Spring
+1.2.8, Hibernate3, JDK1.5 JBoss, Oracle 8.1, Toad Eclipse, CVS.
+
+Duration			: Jan 2007 to Aug 2007.
+
+Role			: Developer, and Unit testing.
+
+Description 
+
+Fasttrack online application is designed to allow customers to follow
+the progress of their photomask layers through the processing stages and
+operations that take place at Toppan Photomasks, Inc. (Toppan
+Photomasks). It enables customers to check the status of their orders,
+create custom views of their data, schedule the delivery times and
+specify views for status reports, and link to order delivery information
+at the carrier's site. The Fasttrack application is rewritten with the
+latest technologies.
+
+The application has the following modules: Login, Order Status, Delivery
+Schedules, User Profile, Admin, Super User, Reports.
+
+Project 6:
+
+Title			: Thomson Expedition 
+
+Client			: Thomson Reuters
+
+Software				: JSP, MyFaces JSF 1.1, Tomahawk JSF Component, JSF, Spring,
+Hibernate, JDK1.4, Weblogic, Oracle 9i, Toad Eclipse, CVS.
+
+Duration			: Mar 2006 to Dec 2006.
+
+Role			: Developer, and Unit testing.
+
+Description:
+
+The purpose of this project is to create an online reference solution
+that provides searchable access to information from published books,
+articles and other materials. This project will result in an expansive
+informal learning solution that can be used in corporate, education,
+reseller and consumer markets. The solution encompasses multiple
+components and will be available for delivery through the Knowledge Now
+platform, a stand-alone application, 3rd party Learning Management
+Systems (LMS), corporate intranets and any new delivery options, such as
+mobile devices. A key component of this project is the creation of new
+“reference learning objects” that can be delivered through both
+existing solutions, as well as the new application. Reference learning
+objects may include an entire publication, an abstract of the
+publication, a chapter of a publication or even an excerpt selected from
+within a specific publication. With this application, end-users will
+have the abilities to search, organize, list, access and even purchase
+reference information. This reference information may include published
+content from outside vendors in pre-negotiated arrangements with NETg,
+existing Thomson publications, as well as client’s internal
+publications and information. In addition to publications, the
+application will also have the capabilities to support quick and precise
+access to other learning objects of information including NLO’s,
+courses, mentoring rooms, live learning sessions, ILT materials, and
+more.
+
+Project 7:
+
+Title		: iBridge v2.0 
+
+Client		: iAxis Product 
+
+Software                  : JDK1.4, XML, JavaScript, Tomcat, JSP, Apache
+Struts, 
+
+Oracle and Clear Case.
+
+Duration		: Aug 2005 to Feb 2006.
+
+Role		: Developer, and Unit testing.
+
+Description:
+
+When Corporate Organization having offices spread across the country and
+the world, regularly holds audio and videoconferences for internal
+discussions or with the external customers then iBridge (Conference
+Management Package) is the right solution. 
+
+There are various modules like Conference organizer, Conference,
+Configuration, Master Member, Search and Reports.  There are four types
+of user who can access the system. They are System, Conference
+Organizer, Chief and Member. 
+
+1) System: Under system user there may be Conference organizers user. He
+is the master user.  He can create, modify, view and delete the
+conferences and master members. He can generate the reports and use
+different kind of search option. He is having a high level view.
+
+2) Conference Organizer: He can create, view, modify and delete the
+conferences and master members.
+
+3) Chief: He can manage the ongoing conferences
+
+4) Member: He can only view the scheduled conferences and ongoing
+conference.
+
+Project 8:
+
+Title		: CPMS (Campaign Promotion Management System) 
+
+Client		: iAxis Product 
+
+Software                  : JDK1.4, XML, JavaScript, Tomcat, JSP, Apache
+Struts, 
+
+Oracle and Clear Case.
+
+Duration		: Mar 2005 to Aug 2005.
+
+Role		: Maintenance, and bug fixing.
+
+Description:
+
+CMPS is a total Campaign Manager for a telephone or mobile operators
+with the availability for the adding and managing the following
+features:-
+
+Subscriber Areas
+
+Subscriber Prefix’s 
+
+Subscriber Number’s
+
+Announcements
+
+Users can schedule campaign to be announced on various occasion’s of
+the importance. Announcement file could be uploaded in the *.vox, *.wav
+format. Multiple announcement files can be announced for single
+announcement. 
+
+Main Modules:
+
+Manage Campaign
+
+Manage Setting
+
+User Management
+
+Report 
+
+Global Setting	
+
+Personal Details:
+
+Name		: Aniwesh Vatsal
+
+Father’s name: Dr. Arun Kumar Sinha
+
+Place		: Hyderabad
+
+USA Visa	: B1/B2 (valid till 18th Aug 2018)
+

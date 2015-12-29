@@ -1,0 +1,288 @@
+     					          				Email-ID:   HYPERLINK
+"mailto:swapna.anchuri@yahoo.com"  swapna.anchuri@yahoo.com 
+
+Swapna   			                  				Mobile    : 91-8722137627		 
+
+Summary:
+
+       Having 3+ years  experience in the IT Industry as a Software
+Engineer.
+
+       To apply best of my knowledge and ideas  in the field of Software
+development towards attainment of the business aspirations of the
+Company. Further, I would wish to explore other productive opportunities
+and contribute to overall growth of the organization.
+
+Professional Summary:
+
+Worked in designing, developing web based applications using Core
+Java(Collection framework, Multi Threading), J2EE(JDBC, SERVLET, JSP).
+
+Hands on experienced in Presentation Tier development by using JSP, and
+STRUTS Tiles Framework.
+
+Hands on experience in Persistent Tier development using JDBC, HIBERNATE
+3.0.
+
+Hands on experience in Restfull Web Services.
+
+Hands on experience in Spring 3.0 (IOC Module, ORM Module) Framework.
+
+Hands on experience using web application framework including STRUTS 2.
+
+Hands on experience using Ajax, CSS, Html.
+
+Hands on experience using application Apache Tomcat Server.
+
+Experience in creating Database tables, Triggers, stored procedures,
+function in Oracle.
+
+Good Communication, Interpersonal skills and team player.
+
+Experience in Unit testing tools like TestNG.
+
+Experience on Tools like Putty,WinSCP.
+
+Strong programming, coding, analytical, problem solving and conceptual
+skills.
+
+Ability to work in a fast paced, collaborative environment and handle
+multiple concurrent projects.
+
+Educational Details:
+
+B.Tech(CSE) Sri Sai Insitute of Technolgy and
+Science(JNTUA),Rayachoty,A.p.
+
+Professional Experience:
+
+Currently working as a Software Engineer in Cisco Systems. from April
+2014 to till date.
+
+Worked as a Software Engineer in Aditya Birla Group. from August  2011
+to April 2014.
+
+PROJECTS:
+
+Project #1:
+
+Project Name:	HCS
+
+Role	Team Member
+
+Organization	Cisco Systems
+
+Duration	April ‘14 - till date
+
+Team Size	30
+
+Environment
+
+	Language: Java
+
+FrameWork: Web Services(RestFull)
+
+Testing Tools: TestNG.    
+
+Server : Apache Tomcat.
+
+O/S: Linux.
+
+
+
+Description:
+
+      Cisco Hosted Collaboration Solution (HCS) is a next-generation
+unified communications and
+
+collaboration platform for service providers who want to offer unique
+Cisco collaboration technologies
+
+using hosted and managed models. Cisco HCS is a distributed system,
+consisting of Cisco hardware and
+
+software products, that work together to enable service providers to
+offer the following services to their
+
+customers. 
+
+       
+
+Responsibilities:
+
+Involved in the analysis of the Application.
+
+Involved in Writing web services as per requirement.
+
+Involved in Deployments and Requirement gathering.
+
+Bug Fixing and Maintenance of the product.
+
+Client Side View and Validations using JavaScript and JQuery.
+
+Project #2:
+
+Project Name	Chronic Watch
+
+Role	Developer
+
+Duration	June ‘12 - April ‘14
+
+Team Size	10
+
+Environment 	Technologies        :  SERVLET, JSP
+
+Framework           : WEBSERVICES(Restfull)
+
+                              STRUTS, HIBERNATE
+
+Database              :  MySQL 5.5.0 
+
+
+
+Description:	
+
+      
+
+The main theme of this Application is to monitor patient health through
+online. This project having 4 roles Admin , Case Manager , Physician and
+Patient . Admin and Case Manger using web application for interacting
+this project.Admin will create all other 3 users and map patients to
+physicians.CaseManager will monitor all alerts regarding patients
+abnormal vital signs, abnormal answers for questioner and medication not
+taken alerts. Physician use I pad app for interacting this project using
+web services and schedule for patients and view patients uploaded vital
+signs values. Patients use Android app for interacting this project
+using web services will get all schedules and reminders. Patients can
+upload vital signs manually or through vital device.
+
+Modules of the project:
+
+a. Admin and CareGiver (Web Application).
+
+b. Web services (Service layer).
+
+c. Patient Application (Android app).
+
+d. Physician Application (IOS, Ipad).
+
+e. IVR Calling.
+
+f. Video Calling.
+
+g. Vital Sign Device.
+
+Features of the Chronic Watch:
+
+• Patient alerts (Vital Sign, Medication, Distress, Heart Beat, Daily
+Activity).
+
+• Collecting Vital Sign Data.
+
+• Prescribe Medication.
+
+• Video Conferencing.
+
+• IVR Calling.
+
+• Reminder Mode.
+
+• Vital Sign Monitoring.
+
+• Vital Sign Device.
+
+Responsibilities:
+
+Involved in the analysis of the Application.
+
+Involved in interacting Database using hibernate framework.
+
+Involved in coding at development phase using struts framework.
+
+Involved in Writing web services as per requirement.
+
+Worked on pushing notifications to Android and Iphone devices using
+Urban Airship,GCM and MQTT.
+
+Created Threads to monitor vital/Medical/Questionary Schedules for
+Reminding patients.
+
+Project #3:
+
+Project Name	Cancer Aide Oranganization
+
+Role	Developer
+
+Duration	August ‘11 to June ‘12
+
+Team Size	3
+
+
+
+Description:
+
+      
+
+This Cancer Aide is a health care record which deals with the people
+suffering with cancer .This website helps in giving online help to the
+patients’ .It consists of online registration for both doctors and
+patients. Cancer Aide provides online Health Insurance with provides
+online help.
+
+The objective is "to bring together like minded doctors for providing
+quality care for cancer patients and setting high standards of ethical
+practice", coordinate with other organizations for achieving "consensus
+opinion on contemporary issues affecting the cancer treatment" and to
+achieve "standardization in the field of cancer care".
+
+The vision of the Organization is to achieve "acceptable standardization
+in the field of cancer care in the Indian setting" by evidence based
+consensus opinion amongst the specialists.
+
+Members of the Organization will strive for excellence in the practice
+of oncology, promote clinical research and provide quality care for
+cancer patients with high standards of ethical practice.
+
+Modules of the Project:
+
+• Super Administrator.
+
+• Administrator
+
+• User Management with Patient, Physician Applications.
+
+Roles & Contribution:
+
+Designing the UI part 
+
+Designing and creating tables for database.
+
+Involved in the deployment of various components in test and live
+environments.
+
+Handled the Build Deliveries and leading the team in the absence of
+Lead.
+
+Personal Details:
+
+Name	                       : A.Swapna
+
+Date of birth		: 8th  june 1990
+
+Sex			: Female             
+
+Nationality		: Indian
+
+Language known	: English, Telugu and kannada.
+
+ 
+
+Declaration:
+
+I hereby declare that the above information is correct to the best of my
+knowledge and belief. I have not suppressed any material or factual
+information in above statement.
+
+Place: Bangalore.	                         		                           
+                              Swapna Anchuri.
+

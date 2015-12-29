@@ -1,0 +1,213 @@
+Aakash Kharche
+
+aakashkharche@yahoo.in
+
++91-9600100588
+
+DOB: 4th September, 1991
+
+			Address: 13/8 RR Flats, 2nd floor, School Road, Valluvar Kottam ,Nungambakkam-  Chennai
+
+        Aakash Kharche
+
+aakashkharche@yahoo.in
+
++91-9600100588
+
+DOB: 4th September, 1991
+
+			Address: 13/8 RR Flats, 2nd floor, School Road, Valluvar Kottam ,Nungambakkam-  Chennai
+
+			
+
+Objective
+
+	Developing new ways and techniques for doing things in a simple manner and try to fulfill the goals of the organization and work hard to bring more success to it.
+
+
+
+			
+
+Objective
+
+	Developing new ways and techniques for doing things in a simple manner and try to fulfill the goals of the organization and work hard to bring more success to it.
+
+
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+			
+
+	Tools worked on:
+
+	
+
+
+
+Current Project :
+
+Title: Praksys .
+
+Domain: HealthCare and Life Sciences.
+
+
+
+Praksys is a Health Insurance Product for Denmark. We are following Scrum Agile Development. Praksys is been divided into 4 modules (Provider, Union and Agreements, Payments and Claims). Working in Provider Module, I have worked on functionalities such as creating and updating of a provider , creating and updating of relations , provider cockpit, search provider , creating and updating of practice and provider self-service portal.
+
+
+
+Roles and Responsibilities :
+
+
+
+Creating Technical Documents and Unit Test Case Documents.
+
+Creating UML diagrams.
+
+Deciding the database schema for the backlog.
+
+Developing the server side code using C#.
+
+Developing the client side code using AngularJs, Javascript , Jquery, HTML5 , CSS , Kendo UI , Bootstrap.
+
+Creating Nunit methods for the business layer.
+
+Executing Unit test cases and Nunit tests.
+
+Fixing Bugs for the existing functionalities.
+
+Peer Review.
+
+	
+
+	
+
+	Major Project: 
+
+Title: ChessMasters Club
+
+This project consists of a site for playing two player chess game. Users can watch chess videos ,learn tutorials and various other features.
+
+	
+
+	
+
+	Minor Project: 
+
+Title: Party Management and Destinations
+
+This project provided a site consisting a detailed information about each party organising places and destinations in Indore.
+
+	
+
+
+
+
+
+
+
+				
+
+				
+
+				
+
+				Educational Qualification:
+
+				
+
+				
+
+				
+
+				
+
+Achievements :
+
+Received 5 IIM Calls for CAT -2012
+
+Secured 91.6 percentile SNAP-2012
+
+84th AIR, MP-CET 2009
+
+Attended Microsoft Web Camp 2015
+
+Achievements :
+
+Received 5 IIM Calls for CAT -2012
+
+Secured 91.6 percentile SNAP-2012
+
+84th AIR, MP-CET 2009
+
+Attended Microsoft Web Camp 2015	
+
+				
+
+Hobbies & Interests:
+
+Watching You Channels
+
+Number Crunching
+
+Reading Hindu Mythology
+
+Hobbies & Interests:
+
+Watching You Channels
+
+Number Crunching
+
+Reading Hindu Mythology
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				
+
+				--------All of us don’t have equal talent. But, all of us have equal opportunity to develop our talents. --------

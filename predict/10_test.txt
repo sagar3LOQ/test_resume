@@ -1,0 +1,173 @@
+	  
+
+Hariz	   H 	   R ayyan	  
+
+Full	  Stack	  Web	  &	  Mobile	  Developer	  
+	  
+
+Call	  	  	  	  	  	  	  	  	  	  :	  +91	  9567499028	  
+Email	  	  	  	  	  	  	  :	  	  harizdvlp@gmail.com	  	  	  
+Skype	  	  	  	  	  	  	  :	  hariz_spef	  
+Location	  	  	  :	  Trivandrum,	  India	  
+	  
+
+W h o 	   a m 	   I ? 	  
+I am a passionate Full stack developer focused on Web & Mobile technologies (5+ yrs of experience) and capable
+of leading large teams through the design process, development and delivery of highly functional software solutions.
+I'm able to work at the same time as front-end (HTML5, CSS3/SCSS and JavaScript) and back-end (PHP frameworks
+such as Wordpress or Drupal and Javascript frameworks like NodeJS or MeteorJS) developer.
+My curious and autonomous nature has facilitated the development of a wide range of competencies within the digital
+communication universe:// Project and client management //
+
+UX design //
+
+Programming // Internet marketing
+
+strategy //
+Currently, I am working on developing ambitious web application using tools & framework such as Ember.js,
+CouchDB, HTML5, CSS3, jQuery, D3.js, Node.js, MySQL. In past I have worked on .NET front with C#, WPF, WCF
+etc. and briefly on Java front with Spring MVC, JSP etc.
+
+	  
+
+W O R K 	   E X P E R I E N C E 	  
+
+	  
+
+Full Stack Developer
+
+Jan 2013 – Present
+
+SPEF Software Solutions Pvt Ltd
+Responsible for the full stack (front end development, application logic, services, data persistence)
+Developed new and improved upon existing PHP add-ons for CraftCMS / ExpressionEngine
+Setting-up web servers based on projects needs + writing Bash scripts for specific project needs
+Improvement of design and usability of existing CMS user interfaces depending on project needs
+Development of systems/processes for the purpose of the team efficiency growth
+Responsible for server-side development, server provisioning, database development, and front-end
+development
+Technologies: Ruby on Rails, Ruby Test Unit, RSpec, Capistrano, Linux (Ubuntu), Digital Ocean, Nginx, Unicorn,
+Git, SQL, PostgreSQL, JavaScript, jQuery, Ember JS, Handlebars, Bootstrap, Foundation, HTML, CSS, and SASS
+
+Software Engineering Intern
+
+March 2012 – Dec 2012
+
+GOOGLE
+Worked on the YouTube Captions team, in Javascript and Python to plan, to design and develop the full stack to
+add and edit Automatic Speech Recognition captions. In production.
+Created a backbone.js-like framework for the Captions editor.
+Data and Machine Learning on the Places Search Ranking Team. Works in Hive, Python and C++
+Responsible for developing the full stack (from the Markup, JavaScript, Application Services, Database)
+Technologies: ASP.NET, C#, JavaScript, XML, XSL, XPath, SOAP, Web Services, CSS, Amazon E commerce Web
+Services (ECS) API, HTML, and the .NET Framework 2.0
+
+Web Developer / Software Developer
+
+Nov 2010 – March 2012
+
+Tesera Systems Inc
+Developed and maintained a website for uploading, processing, and sharing GIS data from the ground up
+Responsible for developing the full stack (front-end development, application logic, services, data
+persistence) as well as server setup and maintenance
+Maintained and developed modules on a multi server, e commerce application
+Technologies: JavaScript, Scriptaculous (the Prototype library), CSS, HTML, JavaServer Pages (JSP),
+JavaServer Pages Standard Tag Library (JSTL), Ant, Oracle PL/SQL, Oracle 9i, Borland StarTeam, ATG / Dynamo
+Server Server
+
+E D U C A T I O N 	  
+2014 – Present
+
+	  
+Industrial Psychology (MSPC)
+IGNO Off Campus Trivandrum (Distant Education)
+Indira Gandhi National Open University (IGNOU), INDIA
+
+2006 – 2010
+
+Bachelor Of Technology (B Tech)
+Travancore Engineering College, Kollam , Kerala
+Kerala University INDIA
+
+2004 – 2006
+
+Higher Secondary Education
+Government HSS Anchal West, Kollam, Kerala
+Higher Secondary Board Kerala, INDIA
+
+	  
+Fullstack	  developer	  //	  harizdevlp@gmail.com	  
+
+S K I L L S 	  
+
+	  
+
++
+
+PHP, ASP.NET, Code Igniter
+
++
+
+MySQL, PostgreSQL
+
++
+
+Eclipse, Sublime Text
+
++
+
+HTML5, CSS3, Java Script
+
++
+
+SQLite , JSON
+
++
+
+NetBeans, Visual Studio
+
++
+
+Zend Framework , CakePHP
+
++
+
+JSONP , RSS , XML
+
++
+
+SVN, Git, Notepad++
+
++
+
+jQuery, AJAX backbone.js	  
+
++
+
+C, C++,Java	  
+
++
+
+Selenium, Virtual Box
+
++
+
+angular.js, Node.js,	  
+
++
+
+C#, Swift	  	  
+
++
+
+Photoshop, Illustrator
+
+	  
+	  
+	  
+
+	  
+
+Fullstack	  developer	  //	  harizdevlp@gmail.com	  
+
+

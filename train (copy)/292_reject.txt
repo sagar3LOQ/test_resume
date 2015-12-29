@@ -1,0 +1,125 @@
+Pre-screening Technical Questionnaire :-
+
+
+
+
+
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate                                             -  1.5years
+
+Spring                                                    - 1.5years                                               
+
+Web Services                                       -  1.5 years                                                
+
+Core Java                                              -  6.4 years                
+
+Design Patterns                                   -  10 months            
+
+UML design                                          -   
+
+Build Tools (Maven/Ant)                   -     Maven
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+Junit/sonar
+
+Hands-on skills in the following technologies ?
+
+
+
+Hibernate                                                            -     1.5year
+
+Spring                                                                   -      1.5  Years
+
+Web Services [Restful and/or SOAP]              -      1.5 years
+
+Core Java                                                             -       6.4years
+
+Design Patterns                                                  -       10 months                
+
+Others if any, specify
+
+
+
+
+
+Strongest technology areas of the candidate          -  Core java 
+
+Any certification                                                         -    Pega certification, LIFE RAID 
+
+
+
+Current project type                                                                                      -              Development Or Maintenance [Bugs and/or Enhancements]                                      Development
+
+
+
+Current job role & responsibilities of the candidate along with day-wise work contributions [ % of code; % of design etc.]      -  100% code
+
+
+
+Unit Testing Experience                                                                                -              Manual Or Automation [TestNG or Junit or Others specify] with # months/years     -  J unit,SOAP
+
+
+
+
+
+Any supplement skills and knowledge areas or experience of the candidate that we should know about ?      -  
+
+
+
+Strengths and Weaknesses of the candidate    - 
+
+Does the candidate know about our company?     - Yes , after the telephonic  conversation
+
+
+
+Does the candidate know about the job profile (JD) of the applied position in our company? Yes , after the telephonic  conversation
+
+
+
+Willing to work in Start-ups like us?  - Yes
+
+
+
+How the candidate wanted to GROW in the future (Technology Or Management)?  - Technology
+
+
+
+Problem solving skills?  - Yes
+
+
+
+Experience in guiding the team technically? - No
+
+
+
+Code review experience?  - 
+
+
+
+Does the candidate has any job offers in hand?   - No
+
+
+
+
+
+Note:-
+
+Red colored items are additional mandatories for TL position only.  Having all these are added advantage for SE/SSE positions.
+
+
+
+The following are the minimum technical expectations from the candidates of SE/SSE/TL positions.
+
+Technology                         Topics
+
+Hibernate            -              Mappings, Associations/Relationships, Caching, HQL, Criteria Queries, Others if any
+
+Spring                   -              IOC – Dependency Injection, AOP, MVC, ORM, Security, Others if any
+
+Web Services     -              RESTful WS, SOAP WS, Others if any
+
+Core Java             -              Oops, Exceptions, Collections, Reflection, Others if any

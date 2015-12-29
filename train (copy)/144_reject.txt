@@ -1,0 +1,253 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                 -  1
+year                                  
+             
+
+Spring                  
+                                 - 5 year&
+current
+
+Web
+Services                                
+       -  REST – 4
+ears                                  
+              
+
+Core
+Java                                  
+            -  6 years                
+
+Design
+Patterns                                
+   -  3 years            
+
+UML
+design                                 
+         -   2.5 Years
+
+Build Tools (Maven/Ant)                   -   
+Maven
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Sonar, PMD,J unit, cucmber, weblogic, websphere,sql database
+
+Ok for bitchemy
+
+Shireesh Adla
+
+Hyderabad / + (91)9246081931 /   HYPERLINK
+"mailto:ashireesh43@gmail.com"  ashireesh43@gmail.com 
+
+Profile Summary
+
+Around 6 years of Application Development using Java, J2EE Technologies.
+
+Experience in all aspects including Requirements Analysis, Design,
+Implementation, 
+
+     Integration and Deployment of Java Applications using Java and J2EE
+technologies.
+
+Good exposure in design and implementation of NOSQL database. (Neo4j)
+
+Good knowledge of Spring, Hibernate, Web Services, XML, XSL and XML
+parsers.
+
+Extensively adopted Agile Software Development process.
+
+Good Exposure to Aspect Oriented Programming.
+
+Good communication and analytical skills along with a can do attitude.
+
+Technical Expertise
+
+Languages	Java, J2EE, Aspect Oriented Programming (AOP). 
+
+Query Languages	SQL, PL/SQL, Cypher, Gremlin.
+
+Technologies	JSP, Velocity, Servlets, JDBC, Oracle E-Business Suite
+(PIM).
+
+SOA	RESTful Web services, JAX-RS, Xml , Json
+
+Frameworks	Struts, Spring, Hibernate, Jersey, aspectj.
+
+Application Servers	Weblogic, Apache Tomcat, Jetty, Jboss.
+
+Java Tools	Java Application Profiling (TPTP), Jmeter, Cobertura.
+
+XML Parsers	XML, JAXB, Digester.
+
+JSON Libraries	Gson, Jackson
+
+Test Frameworks	Junit, TetNG, Jmock, Mocito, FEST, REST Assured,
+Cucumber
+
+Build Tools	Ant, Maven.
+
+Continuous Integration Servers	Jenkins/Hudson, Cruise Control. Git
+
+Code Quality Tools	PMD, FindBugs, CheckStyle, Sonar, Bugzilla.
+
+Rule Engine	Drools
+
+Methodologies	Agile Software Development, TDD, BDD, Waterfall Model
+
+Relational Database	Oracle10g/9i, Oracle RAC
+
+NOSQL Database	Neo4j (Graph Database)
+
+
+
+Professional Experience
+
+Working as Senior Software Engineer with ProKarma Softech Ltd from Sept
+2010 to Till Date
+
+Worked as Software Engineer with Virtusa India Pvt Ltd from October 2007
+to Sept 2010
+
+Achievements & Certifications
+
+Successfully adopted NOSQL database solution.
+
+Got client appreciation for providing solution for Spring RAC failover
+feature.
+
+Working under clients lead architect projects.
+
+Achieved Outstanding Contribution Award for the project.
+
+Developed excellent relations with the client and received several
+complimentary emails for work.
+
+Given Knowledge Talk on Aspect Oriented Programming, TPTP.
+
+Given Internal sessions on NoSql Database (Neo4j).
+
+Academics
+
+Master of Science Program (Advanced Software Technology, Java),
+International Institute of Information Technology (IIIT Pune) 2008
+
+B.Tech (Computer Science Engineering), JNTU, Scient Institute of
+Information Technology, Ibrahimpatnam.2006.
+
+Projects @ ProKarma
+
+Project 1 : StarMap
+
+Client: Union Pacific Railways, US (April’2011 to Till Date)
+
+Business Description: 
+
+StarMap: Deployment dependency architecture for analyzing overall
+architectural level dependencies.
+
+Acts as a single point of federated visual information about
+dependencies affecting all project dependencies. 
+
+Star Map Architecture project aims at delivering the complete vision of
+the architectural level dependencies throughout the software ecosystem. 
+
+A better way to manage dependencies, assess impact and transfer
+knowledge.
+
+Roles & Responsibilities:
+
+Closely worked with the client for identifying the most detailed
+requirements possible and shared new ideas and features.
+
+Involved in analyzing and designing the StarMap component : worked on
+creating various design artifacts.(ER Diagram, Sequence Diagrams, DFD)
+
+Worked independently with the client through the major part of the
+project, providing POC for using new technologies. (Neo4j)
+
+Provided technical and business support for the team.
+
+Worked independently with the client by covering roles as BA, Developer
+and QA.
+
+Prepared detailed configuration document for the user.
+
+Environment: Java, Flex, Neo4j, JAX-RS, Jersey, XML, JAXB, Json.
+Jackson, Maven
+
+Project 2 : Spring-Oracle RAC Component
+
+Client: Union Pacific Railways, US (Sept’2010 to April’2011)
+
+Business Description: Oracle RAC failover capability with Spring.
+
+RAC Fast Connection Failover – Retry and Replay Transactions:
+
+The RAC “Fast Connection Failover” provides the ability to have a
+Spring application transparently failover when a database node fails.
+This allows the Spring applications to automatically Retry connection
+and Replay the failed Transactions on an active node.
+
+Roles & Responsibilities:
+
+Provided configurable, loosely coupled solution for Spring-Oracle RAC
+transaction failover component.
+
+Worked independently to propose the new solution.
+
+ Involved in end to end design and implementation of the component.
+
+Worked on low level Spring implementation details for providing the
+custom namespace support.
+
+Studied and documented the detailed usage and analyses of Oracle RAC
+features.
+
+Prepared detailed configuration document and backoff steps for the user.
+
+Provided configuration support to the user in using the component.
+
+Environment: Oracle RAC, Spring: Batch, Transactions, AOP, Custom tags.
+
+Projects @ Virtusa
+
+Project 3 : STeAM (Solution for Thomson ecommerce & Access Management
+
+Client: Thomson Reuters, US (Mar’2009 to Sept’2010)
+
+Environment: Java 1.5, Maven, XML, TPTP, AOP, Digester, Drools,
+Velocity, AOP, Oracle 9i
+
+Project 4 : MDM CPE Automation
+
+Client: British Telecom, UK (July’2008 to Feb’2009)
+
+Environment: Oracle PIM (E-Business Suite), Oracle Workflow, Java,
+PL/SQL
+
+Project 5 : BTGS MDM Reuters
+
+Client: British Telecom, UK (Oct’2007 to June’2008)
+
+Environment: Struts, JSP, JUnit, JDepend, Ant, XML, Web Logic, Oracle 9i
+
+Personal Details
+
+Date of Birth                     	:  Jan 23, 1983
+
+Sex                                 	:  Male
+
+Address For Communication : 8-1-284/OU/218, OU Colony, Shaikpet,
+Hyderabad. AP
+
+DECLARATION
+
+I hereby declare that the information furnished above is true and
+correct to the best of my knowledge and belief.
+
+								      (SHIREESH ADLA)
+

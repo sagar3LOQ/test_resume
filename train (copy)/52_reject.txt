@@ -1,0 +1,329 @@
+Mobile: +91 7204939322
+
+Venki Vazza                                                                                             Email: venki8126@gmail.com
+
+
+
+Career Summary:    
+
+                                                                                                         
+
+Around 4 years of IT experience.
+
+Extensive experience in software development with exposure to different stages of SDLC life cycle like requirement phase, Development Phase, Testing and implementation.
+
+Experience on working with JAVA/JEE Technologies.
+
+Experience on working with ORM technology Hibernate.
+
+Experience on developing the web applications using frameworks Hibernate and spring.
+
+Experience on web technologies HTML5, XML and Java Script.
+
+Knowledge on agile development methodology.
+
+Experience on JSON (Java Script Object Notation).
+
+Excellent team member and very good communicator.
+
+Good exposer on Healthcare and Retail Domain.
+
+Academic Details:
+
+B.Tech in Computer Science and Engineering from JNT U, 2007-2011.
+
+Technical Skills:
+
+Programming Language 
+
+:
+
+JAVA, J2EE.
+
+Frameworks
+
+:
+
+Spring. 
+
+ORM Tools
+
+:
+
+Hibernate.
+
+Database
+
+:
+
+Oracle, MySQL.
+
+Web Technologies
+
+:
+
+JSP, XML, Java Script, Jquery, HTML and Angular Js.
+
+Database Languages       
+
+:
+
+SQL.
+
+Logging Mechanism
+
+:
+
+Log 4j.
+
+Build Tools                         
+
+:
+
+Maven
+
+Application Servers
+
+:
+
+Tomcat. 
+
+IDE
+
+:
+
+Eclipse and Edit plus.
+
+Operating System
+
+:
+
+Windows
+
+
+
+Organization Summary:
+
+Currently working with “Mindtree Ltd” as Software Developer from Sep 2014 to Till Date. 
+
+Worked as a Software Developer in UST Global from May 2013 to Sep 2014.
+
+Worked as a Consultant in Infinite Computer Solutions from May 2011 to April 2013.
+
+Product’s Handled:
+
+
+
+PROJECT#1
+
+
+
+Project Name
+
+:
+
+APEX
+
+Role
+
+:
+
+Sr Software Developer.
+
+Technology Stack            
+
+:
+
+JAVA, JEE, Jsp, Spring, Hibernate, CSS, JavaScript, and SQL.
+
+Servers  
+
+:
+
+Tomcat.
+
+Database   
+
+:
+
+Oracle.
+
+Team Size
+
+:
+
+6
+
+
+
+Description:
+
+
+
+APEX is stands for Assortment Planning Excellence .The main aim of this project is Place a right product in Right place at Right time. It is helpful to CPG (Consumer Packaging Goods) customers to increase their production and market share in competitive world.
+
+
+
+
+
+Roles & Responsibilities:
+
+
+
+Involved in developing the JSP pages.
+
+Written the Spring Managed beans to complete the work flows.
+
+Implementation of rest controller classes using spring MVC Annotations.
+
+Performed unit testing and regression testing.
+
+Participated in creating tables at database side.
+
+Providing the support to clients to resolve the on field issues.
+
+Using JavaScript for applied dynamic nature for Html pages and for client side validation.
+
+Participated spring demos, planning and story grooming sessions.
+
+	
+
+
+
+PROJECT#2
+
+
+
+Project Name
+
+:
+
+OLS HIX
+
+Role
+
+:
+
+Software Developer.
+
+Technology Stack            
+
+:
+
+JAVA, JEE, Jsp, Spring, Hibernate, CSS, JavaScript, and SQL.
+
+Servers  
+
+:
+
+Tomcat.
+
+Database   
+
+:
+
+Oracle.
+
+Team Size
+
+:
+
+9
+
+
+
+Description:
+
+
+
+The OLS HIX (Online Store) enables the user to shop insurance plans in online, the insurance plans related to medical, dental, visionary plans and user can view details of the plans by the plan through online and it well known as OBAMA healthcare.
+
+
+
+Roles & Responsibilities:
+
+
+
+Involving in developing the JSP pages.
+
+Writing the Spring Managed beans to complete the work flows.
+
+Implementation of controller classes using spring MVC Annotations.
+
+Writing the hibernate xml documents for mapping the hbm’s and DAO’s.
+
+Developing the spring xml documents for injecting the beans.
+
+Involving in writing the HQL Queries for interacting with data base.
+
+Using JavaScript for applying dynamic nature for Html pages and for client side validation.
+
+Providing the support to clients to resolve the on field issues.
+
+Preparing the user documentation and technical documentation.
+
+
+
+PROJECT#3
+
+
+
+Project Name
+
+:
+
+Online Payments
+
+Role
+
+:
+
+Software Developer.
+
+Technology Stack            
+
+:
+
+JAVA, JEE, Jsp, Servlets, CSS, JavaScript, and SQL.
+
+Servers  
+
+:
+
+Tomcat.
+
+Database   
+
+:
+
+Oracle.
+
+Team Size
+
+:
+
+6
+
+
+
+Description:
+
+
+
+An online payment is a web application which is used in Healthcare Product. This application provides the services to check bill, pay bills through online.
+
+
+
+Roles & Responsibilities:
+
+
+
+Involved in developing the JSP pages.
+
+Prepare the technical documents and user manuals.
+
+Participated in creating tables at database side.
+
+Providing the support to clients to resolve the on field issues.
+
+Using JavaScript for applied dynamic nature for Html pages and for client side validation.

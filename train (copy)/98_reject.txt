@@ -1,0 +1,429 @@
+GOLAGANI DASAVTAR YADAV
+
+E-mail:    HYPERLINK "mailto:dasavtar@gmail.com"  dasavtar@gmail.com 
+Mobile No: +919908747195
+
+			 
+
+                    	
+
+SYNOPSIS 
+
+Possess 6+ years of experience for providing Application Development &
+Maintenance. I am proficient in
+CoreJava,JDBC,SERVLETS,JSP,JSTL,STRUTS,SPRING,HIBERNATE,WEBSERVICES,AJAX
+,Eclipse, MyEclipse ,NetBeans, Oracle 10g and 11g.
+
+Proficient in Software Development Life Cycle (SDLC) and Agile worked in
+various phases like Requirements Gathering, Analysis, Design,
+Development and Testing and Maintenance and Production Support.
+
+Handling Change Requests and Production Related Issue and Performing
+enhancements in Applications.
+
+Self-motivated and quick learner of new concepts and technologies and
+has the capability to 
+
+Meet deadlines in fast-paced environments.
+
+Extensive knowledge on XML and XSLT
+
+Good Knowledge on Java Script, HTML, CSS 
+
+Have Good exposure on Design Patterns 
+
+Have good exposure on good design principles.
+
+Well-versed with Agile methodology.
+
+Possesses strong analytical skills and always delivered Excellent Team
+Spirit and Leadership Quality 
+
+During the work.
+
+Strong problem solving skills and an energetic self-starter with
+presentation, communication and
+
+Organizational skills. Technical expertise and comprehensive problem
+solving abilities.
+
+PROFESSIONAL EXPERIENCE 
+
+Working as a Software Engineer in IBM India Pvt. Ltd. since 4th July
+2011 to till date.
+
+Worked as a Software Engineer in Birla Soft Pvt. Ltd. since June 2008 to
+August 2011.
+
+Worked as a Software Engineer in Wipro Technologies since June 2007 to
+August 2008.
+
+EDUCATION 
+
+Mtech from Andhra University in 2013.
+
+Btech from JNTU, Hyderabad University in 2007.	
+
+Maintained 70 %  throughout my academics
+
+TECHNICAL SKILL SET 
+
+Languages	     	 : J2SE, J2EE.
+
+Frameworks	        	 : Struts 1.3.8, Spring 3.0, JSF 1.1.
+
+Server Side Technologies	 : Servlet, JSP, JSTL, Ajax and Web Services.
+
+Client Side Technology	 : HTML,HTML5, Java Script, XML;
+
+Application/Web Servers     : Apache Tomcat 5.5.9, JBoss 5.5 and Web
+Logic Server 11g.
+
+ORM Tools              	 : Hibernate.
+
+IDE		         	 : Eclipse, My Eclipse 6.0 and Net Beans 7.0.
+
+Databases	        		 : Oracle10g, MYSQL.
+
+Operating Systems     	 : Windows 98/XP, Linux.
+
+       Version Control		 : TFS, SVN and WinCvs
+
+Quality Tool	      :Test Director 8.0, Quality Center, Microsoft Visual
+Studio.
+
+Configuration Tools	      : Visual Source Safe, MKS,JPROB,CVS and
+Jenkins.
+
+ORGANIZATIONS WORKED 
+
+1.Organization
+
+Currently Working with IBM Company as “Software Engineer” from
+July4th 2011 to till date. IBM is product based and service oriented
+company having IT services worldwide in HCM and different Products.
+
+2.Organization
+
+Worked with BIRLASOFT Limited [www.birlasoft.com]  (SEI CMMi and Six
+Sigma Practices) since Feb 18th  2008 to June27th 2010 date as “
+Software Engineer”. Birlasoft is the global technology services
+division of the CK Birla Group, one of India's premier commercial and
+industrial houses, with Strategic Equity participation by GE Capital.
+Birlasoft offers IT services worldwide from development centers in the
+US, India, and Australia. Birlasoft has 4,000+ technical employees and a
+large number of clients among Fortune 1000 companies.
+
+CERTIFICATIONS 
+
+Sun Certified Java Programmer (SCJP)     
+
+PROJECTS HANDLED 
+
+Project#1      	              Title                        : 2X Onboard.
+
+ 	Technologies        : JSF,Spring,Hibernate,JSP, Struts and Oracle.
+
+Server 		   : JBoss,Tomcat.
+
+                  Duration   	   : July-2011 to Till Date
+
+                                               Team Size	   : 30
+members.
+
+Description:
+
+2X Onboard is an onboarding product which is developed using latest
+technologies. Employees who have been hired by a company will be
+onboarded using this product where in employee needs to submit various
+forms and those forms will be validated by a third party vendor and also
+he will being going through various workflows and processes within the
+company to get onboarded into the company.
+
+Creation of Job Activities (Steps to taken under recruiting Process).
+
+Creation Of workflow.
+
+Creation of jobs.
+
+Creation of Applicants.
+
+Applying the applicants to Job.
+
+Tracking the applicant’s job status, etc.
+
+Role & Responsibility:
+
+Planning the Work requests related to my modules along with my team.
+
+Getting requirements from client, validating its business use, check the
+technical feasibility.
+
+Creating Technical specs for the requirement, and check the leaks in
+prior hand.
+
+End to end code development, following Agile and playing role of scrum
+master.
+
+Maintaining servers, and responsible for release builds throughout the
+development life cycle. 
+
+Responsible for maintaining the Code base using tool Team Foundation
+Server(TFS).
+
+Implementing new functionalities requested by the client based on the
+criticality of the request, which sometimes include developing a new
+tool and integrating it with the existing system.
+
+Fixing client issues and other bugs found in the application.
+
+Upgrading the third party resources used in the product as per the
+release of those third party tools.
+
+Conducting Retrospective after every release, and catching up the
+hanging pieces from previous release to overcome them in the coming
+release.
+
+Project#1      	              Title                        : GE –
+Workstation(GE Money, USA).
+
+ 	Technologies        : Servlet, JSP,JSF, Struts, Spring JSTL,
+Hibernate, Oracle.
+
+Server 		   : JBoss,Tomcat.
+
+                  Duration   	   : July-2011 to Till Date
+
+                                               Team Size	   : 30
+members.
+
+Description:           
+
+GE - Workstation is a Call Center Application. This application provides
+service for credit card holders of Clients such as Wal-Mart, JC Penney
+etc. who have been financed by GE. It supports the credit cards issued
+by the giant shopping malls (around 1250 clients) in US, Canada and
+Mexico. In addition, certain non-GE financed credit cards are also
+serviced through the GE call centers. 
+
+This project is broadly classified into customer collection and customer
+service. Customer collection deals with the collection of money from the
+customer. Customer service deals all the activities that are handled at
+the workstation (call center) to serve the customer requests. Customer
+related data is on mainframes and client information and the business
+rules are on oracle databases. Apollo workstation application and the
+mainframes are connected with the 3rd party application (Mercator). 
+
+The GE call center Agent uses the application for receiving queries from
+credit card holders (Primary, Co-Primary, Authorized users etc.) based
+on the details provided and responds to the same by checking the
+information with the Workstation application. The details given by
+Cardholder are verified and only after verification is completed CSR
+provides relevant information for getting customer requests processed.
+In addition, work requests or change controls can be raised by
+prospective customers for information that will be serviced by queuing
+the requests and service later by using workflow management.
+
+Role & Responsibility:
+
+Planning the Work requests related to my modules along with my team.
+
+Working with the Business / Business Analysts to understand the
+requirements and use it to create technical solutions for the
+application with the technical team.
+
+Programming JDBC connectivity and interaction with middleware (Mercator
+tool.
+
+Developing Java Servlets as middle-tier
+
+Designing layout and coding front-end using jsp’s.
+
+JavaScript and HTML for client side scripting
+
+Used Web Logic as application server for deployment
+
+Perform Unit Testing using JUNIT.
+
+Preparation / Review of the Technical Design documents and client
+sign-off.
+
+Provide technical guidance to the team for development as well as
+support issues during testing and resolving the bugs/issues encountered.
+
+Worked as a Configuration Management Lead with involvement of doing 		
+config management activities from end to end for many releases.
+
+Interaction with the other teams - Testing team, Infra-Team(support
+services),Run team (Production support), Middleware team etc.
+
+Involved in different use case analysis cases like verify, customer
+profile, change information, change credit limit, create request,
+convenience check/balance consolidation, payment arrangement/paybyphone,
+membership transfer/fees, letters, and notes viewing.
+
+Participated in the verification and validation and quality assurance.
+
+Worked on different API’s for the interaction of application and 3rd
+party system.
+
+Project#2
+
+Title                        : 2X_Recruit.
+
+ 	Technologies        : Servlet, JSP,JSF, Struts, Spring JSTL,
+Hibernate, Oracle.
+
+Server 		   : JBoss,Tomcat.
+
+                  Duration   	   : July-2011 to Till Date
+
+                                               Team Size	   : 30
+members.
+
+ 	Description:
+
+A web based application to track the entire Recruiting process of an
+employee in an organization. This product is a combination of several
+sub products like 2X-PlatForm, 2X-Recruit and 2 X-Perform.
+
+Among of them I am working for 2X-Recruit. This application will create
+the jobs and attaché the applicants who applied to that respective jobs
+and also it will track the several data from job creation to till job
+get closed like,
+
+Creation of Job Activities (Steps to taken under recruiting Process).
+
+Creation Of workflow.
+
+Creation of jobs.
+
+Creation of Applicants.
+
+Applying the applicants to Job.
+
+Tracking the applicant’s job status, etc.
+
+ 	Role
+
+ Involving in production support, bug fixing and developments by using
+Agile Process.
+
+Interacting with Client and giving demo for every release.
+
+Project #4   
+
+Project Name	                     : Fleet Management System
+
+Client			        : BATCO (U.S.A) 
+
+Servers		       	        : Apache Tomcat 6.0
+
+Environment		        : JSP, Struts, AJAX, JavaScript.
+
+Database		        : MySQL
+
+Operating System  	        : Windows XP
+
+Role			        : Designing and Development.
+
+Description
+
+This product used by transport organizations to maintain their fleet.
+The BATCO management system is mainly developed to maintain the
+information about the exports and imports to various branches located in
+various places in USA. To share the information from different branches
+every day every branch will get the information whenever they browse the
+information from the web server. It is broadly categorized into several
+modules as Operations, Material Management, Human Resource, Consignment,
+and Billing. The operations module includes all the details related to
+vehicle Management and accomplishes management of Services, The
+Management of Mechanics, Drivers and staff is done in HR module, and
+Consignment module covers the tracking of the consignments and billing
+modules deals with currency related things
+
+Responsibilities:
+
+ 
+
+Designed screens using JSP.
+
+Involved in coding beans for Business Logic.
+
+Involved in JavaScript functions for client side Validations
+
+Involved in developing Web Component using Html, JSP using Struts Frame
+work for certain modules.
+
+Involved in coding, unit testing and implementation.
+
+Project #5
+
+	Project Title                   	: Case Management System
+
+Client                              	: Fan, Fitzpatrick & Thompson, LLP,
+USA.
+
+Servers		 	: Apache Tomcat 6.0
+
+Environment		: Servlets, JSP, JavaScript, AJAX
+
+Database                       	:  MySQL
+
+Operating System         	: Windows XP.
+
+Role		             : Developer
+
+Description:	
+
+ This case management system is intended as an alternative to the
+existing immigration case management systems available in the
+marketplace. Using this system, clients (i.e. Law firms / Petitioners /
+Beneficiaries etc.) can view their case status online and upload, and
+review the documents related to the case. The application provides a
+user interface where Law-firms can manage their Attorneys / Paralegals /
+Petitioner’s / Beneficiaries' details for managing the case. This will
+show various stages in a PERM (Program Electronic Review Management)
+process and let the concerned user perform activities. This application
+also let the associates to communicate with the other associates
+involved in the case through a messaging system.
+
+Responsibilities:
+
+Designed screens using JSP.
+
+Involved in JavaScript functions for client side Validations
+
+Involved in developing Web Component using HTML, JSP and Servlets.
+
+Written the business components using JavaBeans and Controller Servlet
+Classes to invoke the Business logic.
+
+Involved in coding, unit testing and implementation.
+
+ACHIEVEMENTS 
+
+Appreciated multiple times by business for my quick resolution to
+complex issues & business critical Production issues Resolution, in GO
+NO GO call.
+
+Trained in Six Sigma tools and Process Championship.
+
+Awarded two times as the Employee of the Quarter for Q1 2009 and 2010.
+
+Awarded two times as the Employee of the Quarter for Q4 2011 and 2012.
+
+Stepped in as an Associate S/w Engineer in Birla soft and started
+working independently in a team and have got opportunity to work on one
+of the most critical and important applications by name GE, Workstation.
+Slowly mastered in the Workstation and grown to the level wherein I
+could independently handle critical use cases in a span of 6-8 months.
+
+Received Responsiveness award from kenexa for Quarter Q1 in 20012.
+
+Several appreciation mail’s for timely delivery of the product’s
+delivered till date.
+
+Appreciated from management, for completion of my masters in regular
+night classes without disturbing my deliverables.
+

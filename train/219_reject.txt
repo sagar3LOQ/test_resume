@@ -1,0 +1,27 @@
+Pre-screening Technical Questionnaire :-
+
+
+
+
+
+From last how many years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate                                             -  3 years 
+
+Spring                                                    - 3 years and cureent
+
+Web Services                                       -  2 years and current
+
+Core Java                                              -  3.5 years
+
+Design Patterns                	     -   1 years
+
+UML design                                          -   
+
+Build Tools (Maven/Ant)                    - 1 years     
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.] 
+
+My eclipse, websphere, 			Netbeans, FindBugs

@@ -1,0 +1,163 @@
+Team size:  5 ppl
+
+Springs & hibernate: 5 year & current
+
+Web services: 5 years
+
+Uml design : worked
+
+My sql
+
+Application server: jetti,tomcat
+
+22L/30%hike/30days
+
+					Santosh Bhima				
+
+Santosh Bhima,
+9703580509,
+santosh.bhima@gmail.com
+
+PROFESSIONAL SUMMARY
+
+Overall 7 years of experience in development of Web & Enterprise applications using JAVA and J2EE Technologies.
+
+Working currently as Principle Software Engineer in Insideview Technologies for past 4 years.
+
+Worked as Software Engineer in EMC Data Storage Systems for 3 years.
+
+Hands on experience on Core Java, J2EE, Spring MVC, Spring Security, Spring REST, Spring Core, Hibernate, ActiveMQ, Web Services (REST, SOAP).
+
+Worked in JBoss, Apache Tomcat and Jetty Application Servers.
+
+Worked on AWS SQS,EC2,S3,Load Balancing
+
+Worked on other frameworks like Apache Maven, AWS Api’s. 
+
+Hands on experience on integrations like Facebook, Twitter, Salesforce CRM, MS Dynamics CRM and Marketo.
+
+TECHNICAL SKILLS
+
+Operating Systems: Windows XP, Windows 7, Linux
+
+Programming Languages: Java, .Net(Basics)
+
+Databases: MySQL
+
+Frameworks & Others: Spring MVC, Spring Security, Maven, Webservices, SOAP, REST, Facebook Graph API, CRM Integrations (Salesforce, Marketo, MS Dynamics CRM).
+
+Application Servers: Jetty, Apache Tomcat, JBoss.
+
+TECHNICAL PRUBLICATIONS
+
+Santosh Bhima, Anil Gogada, Ramamurthy Garimella “Tsunami Warning System Employing Level Controlled Gossip in Wireless Sensor Networks” paper got published in Springer Link Computer Science.
+
+
+
+Anil Gogada, Santosh Bhima, Ramamurthy Garimella “A Simple Tsunami Warning System based on Wireless Sensor Networks” paper got published in WPMC.
+
+
+
+Santosh Bhima, Anil Gogada, Ramamurthy Garimella “Tsunami Warning System Employing Level Controlled Gossip in Wireless Sensor Networks” paper got published in Journal Sensors Portal.
+
+ACHIEVEMENTS
+
+Got All India Rank of 273 in GATE - 06 with 99 percentile.
+
+Achieved Best product integration award at EMC.
+
+Awarded HALL OF FAME for the present product for the best contribution for the project.
+
+PROJECT DETAILS
+
+Insideview for Marketing (Jan 2013 – Till Date)
+
+Insideview for Marketing delivers automated data enrichment to the CRM’s.
+
+As this is new product which we started so we got the opportunity to setup all the projects by identifying the components.
+
+Proof of concepts for all CRM Integrations
+
+Designed and developed integrations for Salesforce, Marketo and MS Dynamics Integrations. 
+
+Designed and developed multi queue architecture for the product using ActiveMQ
+
+Designed and developed Reporting system for the product.
+
+Technologies Used: Core Java, Spring MVC, Spring Core, Spring Security, Hibernate, Maven, Active MQ, Amazon S3.
+
+Insideview for Sales (June 2011 – Dec 2012)
+
+Insideview for Sales delivers data intelligence for the CRM. It’s a CRM Intelligence platform which provides most accurate data to the CRM’s in the form Connections. CRM Intelligence is integrated with Salesforce, Microsoft Online and OnPremise, SAP, Oracle, NetSuite and SugarCRM.
+
+Axis2 migration for all CRM Integrations
+
+Researched and designed on how to integrate with MS Dynamics OnPremise and extended the same for MS Dynamics Online.
+
+Created a new Design for data sync/export for MS Dynamics CRM using .Net SDK where I have written services at .net layer and are exposed as SOAP Services which are then consumed in Java layer.
+
+Created a Proof of concept for Salesforce as a standalone package installer in Java.
+
+I was part of Twitter Integration for the application.
+
+Designed and Developed Integration for Facebook integration for the application.
+
+Migrated some of the flows in the application from Struts to Spring MVC
+
+I was part of Personal Connections and Private Personal Connections Design and implementation
+
+Designed and Implemented Account Usage Summary email for the customers.
+
+Technologies Used: Core Java, Spring MVC, Spring Core, Hibernate, Maven, SOAP Web Services, REST, Salesforce CRM api’s, MS Dynamics api’s.
+
+RKM Appliance (EMC)
+
+This product does key management in distributed environment.
+
+Building the rPath Operating System for our appliance end to end using rPath Linux
+
+Writing recipes for packages and groups to create an appliance.
+
+Written API’s using Spring MVC, Ajax, Ext JS, JavaScript and JSP’s
+
+
+
+Entitlements Policy Manager (EMC)
+
+Entitlements Policy Manager provides access management on the resources which are deployed on various application containers. There is a centralized policy management server where the policies are propagated from the container to centralized management server.
+
+SNMP support for the product using JMX iReasoning and sysuptime client
+
+Report generation for the resources and users using Java.
+
+Handled policy propagation from WebLogic container through XACML using Java, SQL and servlet’s.
+
+Delegated administration using Java.
+
+CLI’s using Java.
+
+Caching, Load balancing and WCF web services support for .net agent using c#.net.
+
+Worked on policy propagation from .net to WebLogic container.
+
+Worked on policy propagation from SharePoint agent to WebLogic container.
+
+Resource protection of the resources deployed on WebLogic, SharePoint and .net Agents.
+
+
+
+
+
+Education Qualification
+
+
+
+M.Tech IIIT HYDERABAD   ANDHRA PRADESH, INDIA.
+
+B.Tech SNIST HYDERABAD   ANDHRA PRADESH, INDIA
+
+PERSONAL DETAILS
+
+Date of Birth: 13-03-1984
+
+Current Address: Miyapur Hyderabad

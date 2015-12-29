@@ -1,0 +1,399 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                  -  2
+year                                  
+              
+
+Spring                  
+                                  - 
+2.5years                                
+                
+
+Web
+Services                                
+        - 
+3years (RESTFUL)                           �
+�                   
+
+Core
+Java                                  
+             -  6.10
+
+Design
+Patterns                                
+    -    worked(factory,singleton)
+
+UML
+design                                 
+          -    
+
+Build Tools (Maven/Ant)                    -   
+Maven   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Tomcat/weblogic/eclipse
+
+DB -Oracle/mysql
+
+Java – worked on reflection
+
+Curriculum Vitae
+
+ANKA RAO T	                                         
+arthanneeru@gmail.com
+
+				          +919010605999
+
+Summary:
+
+6.10 Years of experience in IT industry, specifically in Application
+Development, Maintenance and product support using Java and J2EE
+Technologies.
+
+Experience in Java, J2EE technologies which includes Core Java,
+Servlets, JSP, Struts, Spring, Hibernate & REST Webservices
+
+Involved in all phases of development activities like Analysis, Coding &
+Testing.
+
+Involved in build and deployment process of the application in different
+environments.
+
+Involved in resolving production issues based on Priority, Severity &
+Criticality.
+
+A committed Team Player, Fast learner, decent Interpersonal skills, good
+problem solving and decision making skills. 
+
+Involved in handling the team and assigning the tasks to the team based
+on the priority.
+
+Educational Qualification:
+
+B.Tech (CSIT) from Jawaharlal Nehru Technological University, Andhra
+Pradesh.
+
+Experience Summary:
+
+Working as a Senior Development Engineer for Pramati Technologies
+Private Limited (  HYPERLINK "http://www.pramati.com/"
+http://www.pramati.com ), Hyderabad (Since Jan’2013 to Till Date)
+
+Worked as a Senior Systems Engineer for Infosys Limited (  HYPERLINK
+"http://www.infosys.com/" http://www.infosys.com ), Hyderabad (From
+June’2011 to Jan’2013).
+
+Worked as a Software Engineer for Evoke Technologies Private Limited ( 
+HYPERLINK "http://www.evoketechnologies.com/"
+http://www.evoketechnologies.com ), Hyderabad (From June’2010 to
+June’2011).
+
+Worked as a Software Engineer for Razorsight Software Private Limited ( 
+HYPERLINK "http://www.razorsight.com/" http://www.razorsight.com ),
+Bangalore. (From January’2008 to June’2010).
+
+Technical skills:
+
+Operating System	: Windows NT/XP/2003, Mac OSX
+
+Languages			: J2SE, J2EE
+
+Technology		: Servlets, JSP, XML, Struts1.2, Hibernate3.0
+
+                                      Spring3.0, RESTful Web services,
+Cocoon, Java Script and AJAX
+
+RDBMS			: Oracle10g
+
+ Servers			: Tomcat7, Weblogic10
+
+Java IDE Tools		: STS, Eclipse3.5, Oracle JDeveloper 11g
+
+Version Control Tools	: Perforce1.4, SVN
+
+Build Tools		: Maven, ANT & Hudson
+
+Bug Tracking Tools	: Zendesk, Jira & Version One
+
+APM Tools   		: Appdynamics & DBTuna
+
+Project # 1: 
+
+Title				: Appdynamics
+
+				  (APM) (Feb’13 to Till Date)
+
+Client 	: Appdynamics, USA.
+
+Environment	: Java, J2EE with application servers/web servers and
+Webservices
+
+Tool	: Appdynamics Controller, AppD4DB & Jira
+
+Team Size	: 20
+
+Description:  AppDynamics is an application performance management
+implementation which provides an ability to monitor application’s
+overall health and performance. Using this we can look for perceptive
+view of live application traffic and can see where bottlenecks exist.
+End user monitoring (EUM) provides information about end users'
+experience starting from the users' web browsers. It gives us visibility
+across geographies and browser types, with information about
+application's heaviest loads, the slowest end-user response times and
+scale for end user performance varies by Web browser. We support
+customers who use AppDynamics in entire globe.
+
+Responsibilities:   
+
+Involved in defect replication, troubleshooting and bug fixing.
+
+Involved in monitoring performance of the application/server.
+
+Involved in doing PoCs on Appdynamics.
+
+Involved in java support and maintenance to customer issues related to
+appdynamics product and for their technical difficulties in using the
+product.
+
+Involved in handling the team and coordinating with the onsite team on
+task division.
+
+Project # 2: 
+
+Title				: GGB (Golden Gate Bridge)  
+
+				  (Retail) (Jan’12 to Jan’13)
+
+Client 	: A major US based mobile client.
+
+Environment	: Mac OS, Spring3.0, Splunk,Java6, Cocoon
+
+                                         RESTful Webservices, Jmeter,
+STS & SVN.
+
+Team Size	: 03
+
+Description:  GGB is the bridge kind of web application between client
+application and the other its internal retail applications. The
+application formats and routes the request to corresponding applications
+based on the requested service. In the same way the response will be
+formatted and send back to the client application. This application is
+responsible for request and response formatting based in the service
+request. The GGB application is purely developed as RESTful web service
+application. 
+
+Responsibilities:   
+
+Involved in developing the services for the application.
+
+Involved in the development of the business logic for request and
+response formatting.
+
+Involved in the cocoon configuration implementation for the application.
+
+Involved in application build and deployment process.
+
+Involved in writing the design document and IT test plan.
+
+Involved in writing the test cases using Junit and also involved in
+manual and integration testing.
+
+Involved in load testing the application with JMeter.
+
+Involved in reviewing the code developed for the application.
+
+Project # 3: 
+
+Title				: MA (Mobile Analytics)  
+
+				  (Retail) (July’11 to Dec’11)
+
+Client 	: A major US based mobile client.
+
+Environment	: Mac OS, Spring3.0, Hibernate3.0, Log4j1.2, Java6, AJAX    
+
+                                         RESTful Web services, STS,
+Oracle10g, Tomcat6 & SVN.
+
+Team Size	: 06
+
+Description: Designed and developed for a mobile device major, this
+application is used to log and consolidate the data regarding the
+crashes, failures or events specific to a user. This also provides
+facility to register the device to be made available for pulling the
+requests.
+
+Responsibilities:   
+
+Involved in developing the RESTful services and DAO’s for device
+logging.
+
+Involved in developing the user interface for crash, current logs and
+for checked in devices.
+
+Involved in writing the design document.
+
+Involved in writing the test cases using Junit and also involved in
+manual testing.
+
+Worked on fixing the bugs across the different layers of the
+application.
+
+Involved in application build and deployment process.
+
+Project # 4: 
+
+Title				: TCC Admin  
+
+				  (E-Governance) (June’10 to June’11)
+
+Client 	: CSC Global, USA.
+
+Environment	: Windows7, Struts1.2, Spring2.1, Hibernate2.x, Log4j1.2,   
+
+
+                                         AJAX, Selenium IDE, Java6,
+MyEclipse3.4, Oracle10g,
+
+                                         Weblogic10.
+
+Team Size	: 09
+
+Description:  TCC Admin is the core back-end system for all the TCC
+applications. It has many tools in it which are used by the call center
+associates and the business management. The tools are designed and
+developed in order to give the better experience to customer with the
+call center. Some of the tools are Order Inquiry, Business Licenses, EIN
+order entry, Payment services, user administration, control panel for
+running the cron jobs, SSO processing, etc.
+
+Responsibilities:   
+
+Involved in developing the user interface of the Payment Inquiry and
+Order Inquiry Tools for the project.
+
+Involved in the development of the business logic for both Payment
+Inquiry and Order Inquiry Tools.
+
+Worked on resolving the production issues on priority basis.
+
+Involved in developing the mock screens for the newly developed modules
+by gathering the requirements from the client and with the BA team.
+
+Involved in writing the test cases using Junit and also involved in
+manual testing.
+
+Involved in the application integration test using Selenium IDE.
+
+Project # 5: 
+
+Title				: Automated Invoice Management – Capture  
+
+				  (Telecom Domain) (March’09 to June’10)
+
+Client 	: Verizon Business, AT&T and Polish Telecom.
+
+Environment	: Windows, J2SE, Java Collections Framework, Xml, SAX, DOM,
+
+	  Log4j 1.2, Oracle9i.
+
+Team Size	: 06
+
+Description:  AIM – Capture is a fully customizable invoice-processing
+product built on Java technology by RAZORSIGHT (  HYPERLINK
+"http://www.razorsight.com/" http://www.razorsight.com ). It employs
+optical character recognition (OCR) and proprietary learning software to
+extract, analyze, validate, and export data from paper to electronic
+formats into a mechanized standard SECAB/CABS Format. Invoices come from
+different providers to the clients. They need to convert those invoices
+to SECAB format as prescribed by the FCC of the US government. The
+system also displays the invoices as per the clients' dynamic request on
+the AIM Capture portal. The invoice is rolled up by using various
+parameters.
+
+Responsibilities:
+
+Development of the parsers for capturing the invoice data, and
+processing the data to generate .bdt file which turns as the input to
+the auditing the invoice.
+
+Interacting with Analysis team and QA team on business level
+requirements understanding and on bug fixing, tracking etc respectively.
+
+Involved in developing the parsers for POC new libraries.
+
+Development and manual testing of the 500 parsers that are developed for
+AT&T, Verizon, Cypress, Polish Telecom, Sprint and First Communications.
+
+Reporting to team lead with effort estimation and approach.
+
+Merging code developed by other team members and integrating it in the
+perforce.
+
+Project # 6:
+
+Title	: Automated Invoice Management – Portal
+
+				  (Telecom Domain) (Jan’08 to Feb’2009)
+
+Client	: Verizon Business
+
+Environment	: Windows, J2EE, Struts1.2, Hibernate2.5, Oracle9i,
+
+		  Tomcat5.5 and ANT Tool.
+
+Team Size	: 07  
+
+Description: This is a web based application to keep track the status of
+vendor wise invoices in the production cycle.  By using this product we
+can identify the invoice status, view the details of invoice, moving the
+invoice from one stage to another stage, generate various reports, edit
+the invoice information which are wrongly staged, assigning the roles to
+different employees and get the artifacts of that particular vendor.
+This Product is developed by using MVC Architecture. 
+
+Responsibilities:   
+
+Involved in developing the ‘View’ part of the AIM portal development
+by using   JSP, HTML and Java Script.
+
+Involved in the development of the controller part by using the servlets
+for server side validations.
+
+Involved in gathering the requirements from the client about their
+convenience in using the portal application by closely working with the
+Business Analysis team.
+
+Involved in the development of BAN Management Module & Vendor Management
+Module.
+
+Involved in the developing the module “RIS ticket information
+System”.
+
+Involved in Manual Testing.
+
+Personal details:
+
+Father Name		:       SUBBA RAO T     
+
+Date of Birth		:       15th September 1984.
+
+Present Address		:        H.No: 4-7-254/2, Road No. 2, Sri Srinivasa
+Colony,
+
+			Hayath Nagar Depot Road, Hayath Nagar, R.R Dist.  
+
+ 			Hyderabad-501505.
+
+I hereby declare that the above mentioned information is true to the
+best of my knowledge.
+
+Station: Hyderabad
+
+Date:                                                                   
+                		(ANKA RAO T)
+

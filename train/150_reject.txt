@@ -1,0 +1,353 @@
+Call at 2.30PM
+
+  BIkash Kumar Nayak
+
++91-8095633264
+
+bikashnayak5482@gmail.com
+
+
+
+
+
+Professional Summary
+
+
+
+	Around 6 years of experience in design, analysis, development and testing of web/enterprise based and client/server applications & extensive relational database based applications. 
+
+	Extensive experience in design and development of J2EE applications using Core Java, Java collection, JDBC, Servlets, JSP,  XML, Java Beans, Struts and JQuery(RIA).
+
+	Expertise in various open source frameworks like Struts1.2, Spring2.5 and ORM Technology like Hibernate,IBatis.
+
+	Experience with multiple Servers like Apache Tomcat, IBM Web Sphere and JBoss.
+
+	Expertise working with standard JAVA Design Patterns (Singleton, Session Facade, Front Controller, DAO, DTO, MVC and Business Delegate).
+
+	Expertise in Web-Development technologies like HTML, JavaScript, CSS, XML  and AJAX.
+
+	Extensive development experience on different IDE’s like Eclipse, My Eclipse, NetBeans and IBM RAD.
+
+	Experience in using Web Services like JAXP – DOM, XSLT - Un-marshalling and marshalling.
+
+	Extensive experience in implementation of the Version control software’s  CVS and Clear Case, SVN, TeamSite 
+
+	Experienced in generating logging by Log4j to identify the errors in production test environment and experienced in Ant Tool.
+
+	Experience in various agile methodologies like Test Driven Development, SCRUM and Pair Programming.
+
+	Involved in Unit Test Cases writing and having good knowledge in JUnit.
+
+	Experience in developing test cases and test plans besides involving in Unit testing, Integration testing and User Acceptance testing extensively.
+
+	Experience in administration and Troubleshooting of ALM with PC 11.5 Environment for Performance Testing.
+
+	Experience in dealing with Customer final Deployment and Demo on Application
+
+	Experience in Performance Monitoring application using HP Tools BAC, ASB Monitoring
+
+	Experience in HPSM  and Service Now tool for Change, Incident, Problem Management
+
+	Experience in administration of Version Control and Content Management System of different application using TeamSite 7.3.1 and OD 6.7.1
+
+	
+
+	
+
+	
+
+
+
+Professional Summary
+
+	Currently working for GE Corporate  through iGATE Global Solutions  from April 2012 – till date as a Tech Lead 
+
+	Worked for iGATE Global Solutions in Association with GE Healthcare  from June 2010 – April 2012 date as a SSE
+
+	Worked with Infinite Computer Solutions from Aug’08 – June 2010 as a Software  Engineer
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+Technical Skills:
+
+	Languages
+
+	C,C++,JAVA
+
+	Database Query Languages
+
+	HQL and SQL.
+
+	Markup/Script Languages
+
+	HTML, JavaScript,JQuery and XML.
+
+	J2EE Technologies
+
+	Servlets, JSP, STRUTS Framework, Hibernate, iBatis, Java Beans and JDBC.
+
+	Web Technologies
+
+	XML, DOM, CSS, HTML, JAVASCRIPT and JQuery Framework.
+
+	Frameworks
+
+	Struts, Spring and Hibernate. I
+
+	Application/Web servers
+
+	Apache Tomcat, IBM Web sphere and JBoss.
+
+	Databases
+
+	Oracle 11g, MYSQL 5x,.
+
+	IDE Tools
+
+	Eclipse, Net Beans, FrontPage, Toad and FTP clients.
+
+	Operating Systems
+
+	Windows 2000/NT/XP and UNIX and Linux.
+
+	HP Tools
+
+	BAC, ASB, TeamSite 7.3,OpenDeploy 7.3.1,ALM with PC11.5
+
+	Tools and Utilities
+
+	Toad, SQL Navigator, SQL Loader, Rational Rose, CVS,  Junit,
+
+	Log4j, ANT.TeamSite, Open Deploy,BAC,ASB,HPSM,RMS
+
+
+
+Professional Experience:
+
+	GSQ COE AM, NYK                                                                                             June’10 – Present                                                                                                
+
+Tech Lead
+
+
+
+GE Corporate account support Monitoring applications of GE Healthcare and GE aviations and also GE Corporate Monitoring team, GE-Water Team. The application for the monitoring team and also supporting the tools which has been given by HP for monitoring team.
+
+Monitoring team monitored for more than 1000 number of sites daily and each and every time it needs to be alerted, as soon as any host is down proper action should be taken care.
+
+GE Corporate team helps GE Water team developing applications using teamsite ,Form publisher,Livesite.
+
+Related to monitoring team required application is developed through the technology team using the high end technologies.
+
+
+
+Responsibilities: 
+
+	Designing, developing, testing and implementation of Monitoring Application in Java, J2EE, JSP, Servlets, Struts, Spring, DAO, JSTL and Oracle database. 
+
+	Using JQuery, CSS,, JavaScript and AJAX techniques for User Interface look and feel.
+
+	Used JQuery extensively for developing and designing the Panels like Grid, Form and Tab.
+
+	Using Struts and Tiles framework developed struts-config.xml and tiles-defs.xml files for various modules in the application. 
+
+	Worked with AJAX and implemented JQuery and JavaScript functionality for client side validations.
+
+	Work using various design patterns such as MVC, Singleton and Session Facade etc.
+
+	Work with Customers and architect to design, code and test major features and work jointly with my team members to deliver complex changes and Bug fixing.
+
+	Using TeamSite  as a Version control tool for daily check-in, checkouts and integrations.
+
+	Using Open Deploy  as a Hot Deployment  tool for  Content Management system.
+
+	Developed server side functionality using Spring and Hibernate frameworks for Admin interface features and access control like RBAC capabilities.
+
+	Implemented Web Services by using SOAP to integrate with other tools from BAC
+
+	Used agile methodology and daily standup scrum meetings in developing the application.
+
+	Responsible for Understanding the Scope of the Project based on the business requirements and specifications.
+
+	Using JBoss for application development and testing.
+
+	Performed the Regression testing and Functional testing for the continuous builds by writing JUnit test cases and also used Bugzilla for Bug tracking.
+
+	Implemented Sonar tool for Code review of our Development Team,
+
+	Administrating and Troubleshoot of ALM and PC11.5 for our Performance Testing Team.
+
+	Integration of BAC to Zenoss tool , Integration of BAC to Service Now using  SOAP UI, WebService.
+
+Environment:  Java, JDK 1.6, Servlet’s, JSP’s, JQuery, Spring 2.5, Struts 1.1, Eclipse 3.7, Hibernate 3.2, Tiles, AJAX, CSS, XML, HTML, JBoss4.2, JavaScript, JSTL, ANT, Oracle SQL developer, Oracle 11g, Linux.
+
+
+
+	MMIS HealthCare,ACS ,NH                                                                                             May’09 – Jun’10                                                                                                   
+
+Sr. Java/J2EE Developer
+
+
+
+ACS Enterprise is a healthcare system developed for maintaining the Medicaid program of different states in the USA. This system allows the poor and senior citizens to enroll as members, allows the service provider (doctors, hospitals, lab technicians, ambulance services, etc) to enroll. The member can visit the doctors/hospitals and get services; the providers will submit the claims to the system through mail/electronically/online through web. The system will validate the claims, prices the services, applies a predefined set of business rules and disposition the claims. The payment process will evaluate the claims further and pay the providers.
+
+The system is very complex with a typical use case base of 30 millions for states like Florida and New Hampshire, with few thousands of Providers, over a million claims processed every week.
+
+
+
+Responsibilities:
+
+	Understanding functional specifications, designing and creating custom solutions to match the requirements.
+
+	Designed and developed the front end using HTML, CSS and JavaScript with Ajax and tag libraries.
+
+	Handled the client side and server side validations using Struts validation framework.
+
+	Designed and developed a ‘Convention Based Coding’ utilizing Hibernates persistence and ORM capability to enable dynamic fetching and displaying of various table data with JSP tag libraries.
+
+	Designed and developed Hibernate configuration and session-per-request design pattern for making database connectivity and accessing the session for database transactions respectively. 
+
+	Used HQL, SQL for fetching and storing data in databases. Created and updated Hibernate Queries.
+
+	Designed and developed the Validators, Controller Classes and Java bean components.
+
+	Designed and Developed Stored Procedures, Triggers in Oracle to cater the needs for the entire application. Developed complex SQL queries for extracting data from the database.
+
+	Used Clear Case for version control and Clear Quest for bug tracking.
+
+	
+
+Environment:  Java, JDK 1.5, Servlets, Hibernate 3.2, Spring 2.5, Java beans,  Ajax, Oracle 10g, Eclipse 3.2, Apache Ant, Apache Axis 2.0, Web Sphere 6.1, JSP Taglibs, JavaScript, HTML, CSS, XML, Clear Case, Clear Quest.
+
+
+
+	CGDA, Indian Army/Airforce,INDIA                                                                               Aug’08 – July’09                                    
+
+	Java Developer
+
+
+
+The Defence Accounts Department (DAD) which is headed by Controller General of Defence Accounts is  responsible for the Payments, Accounting and Internal Audit of the Expenditure and Receipts of the Defence Services and other Defence-related Organizations such as the Border Roads, the Coast Guard and the Canteen Stores Department. CGDA has 9 lots. in which Lot 3 is having 4 modules,such as Army,Airforce.
+
+Each modules having following sections such as- Admin,Accounts Section,M Section, Stores Section,D Section,Imprest Section,E-section.
+
+
+
+Responsibilities:
+
+	Involved in various phases of Software Development Life Cycle (SDLC) of the application like Requirement gathering, Design, Analysis and Code development.
+
+	Developed a prototype of the application and demonstrated to business users to verify the application functionality.
+
+	Developed and implemented the MVC Architectural Pattern using Struts Framework including JSP, Servlets, EJB, Form Bean and Action classes.
+
+	Implemented server side tasks using Servlets and XML.
+
+	Helped developed page templates using Struts Tiles framework.
+
+	Implemented Struts Validation Framework for Server side validation.
+
+	Developed JSP’s with Custom Tag Libraries for control of the business processes in the middle-tier and was involved in their integration.
+
+	Implemented Struts Action classes using Struts controller component.
+
+	Integrated Spring DAO for data access using Hibernate, used HQL and SQL for querying databases.
+
+	Implemented EJB Stateless Session beans for business logic.
+
+	Modified stored procedures, triggers using Oracle PL/SQL.
+
+	Created and deployed web pages using HTML, JSP, JavaScript and CSS.
+
+	Written JUnit Test cases for performing unit testing.
+
+	Used Rational Clear Case as Version control.
+
+	Implemented Java/J2EE Design patterns like Business Delegate and Data Transfer Object (DTO), Data Access Object and Service Locator.
+
+	Worked with QA team for testing and resolving defects.
+
+	Used ANT automated build scripts to compile and package the application.
+
+	
+
+Environment: Java1.5, JSP, JDBC, Spring Core 2.0, Struts 1.2, Hibernate 3.0, Design Patterns, XML, Oracle, PL/SQL Developer, Web logic 10.3, Apache Axis 1.2, ANT, Clear case, JUnit, SOAP, XSLT, JIRA.
+
+
+
+	
+
+	
+
+	
+
+	Rural Bank System,Mysore,INDIA                                                                       July ’06- Aug’08
+
+	Java/J2EE Developer
+
+	                     
+
+Rural banker is facedwith more chanllenges and opportunities then ever before.Aeafsys Technologies for rural development,can help to overcome these challenges and exploit the opportunities they offer.these services can be challenged through the existing branch network.
+
+This  application is used to service cooperative banks,mini banks in the district level. It provides a complete banking facilities to the people who are below poverty line as well as to the normal customers.it is a multi-channel platform used by bankers in branches.It also helps farmers to get loans from bank with less interest..
+
+This application covers three modules Like Deposits, Loans,Financial Accounting
+
+Manager Cell (CS):- This cell focuses on “core” functionality related to the organization,Leavelist,daily process,passing services like SB/CA,Deposits,depositLoans,Loans,Bills,bank account,share,locker facilities.All the customers request are prepared by employess/users and finally sanctioned by Manager.
+
+Deposit Origination Cell (DO):- This cell has flows for Deposit Application, Customer Demographics,Deposit Details like-deposit scheme(individual/society fixed deposit),deposit master,deposit interest,deposit loan interest,opening SB,opening CA incidental,
+
+Close/preclose deposit,deposit interest withdraw.
+
+Responsibilities:
+
+	Actively participated in requirements gathering, analysis, design and testing phases.
+
+	Developed the entire application implementing MVC Architecture with Struts frameworks.
+
+	Designed User Interface using Cascading Style Sheets (CSS) and XML. 
+
+	Developed the Enterprise Java Beans (Stateless Session beans) to handle different transactions such as Safe Deposit, bill payments to the service providers.
+
+	Implemented various J2EE Design patterns like Singleton, Service Locator, Business Delegate, DAO, Transfer Object and SOA.
+
+	Used IBatis to map between database and java objects. 
+
+	Used Subversion to implement version control System.
+
+Environment: JDK 1.5, J2EE, EJB 2.0, JNDI 1.2, Hibernate 2.1, Spring 2.0, HTML, JavaScript, XML,            
+
+
+
+Personal Profile:
+
+   Father’s Name: SYAM Sundar Nayak
+
+   Date of Birth- : 18/07/1983
+
+   Sex: Male
+
+   Marital Status: Married  
+
+   Passport Availibilty: YES 
+
+   VISA Status             :       B1 Visa(Expiry on 2020)
+
+   Nationality	         :     Indian
+
+   Languages Known   :     English,Hindi,Oriya
+
+   Contact Address      :     No-39,Behind Atulya Shop Muneklolla,Marathahallli,Bangalore-37

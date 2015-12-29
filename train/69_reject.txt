@@ -1,0 +1,241 @@
+Imran Khan
+
+imranhkhan1989@gmail.com
+Mobile: +91 9951107294
+Career Objective
+To reach the level of eminence in my career where I can hone my analytical & technical
+skills & gain rich experience in a reputed organization.
+Professional Summary
+
+
+
+
+
+
+
+3.5 years of experience in Core Java and Java Enterprise Technologies –
+Spring Framework, Hibernate, Servlet and JSP.
+Currently working at Pramati Technologies, Hyderabad as Development
+Engineer (13th October 2014 to till date).
+Previously worked at CDAC R&D (from 5th Sept 2011 to 30th Sept 2014) as
+Project Engineer.
+Professional training (DABC) from CDAC Hyderabad (from 24-March-2011 to
+25-Aug-2011).
+Excellent exposure on many open source (LGPL & GPL licensed) tools and
+libraries.
+Strong knowledge and work experience with MVC architecture framework
+and ORM tools.
+
+Educational Summary
+
+
+
+
+B.Tech in Computer Science and Engg. With 69.96% marks from
+Priyadarshini College of Computer Sciences, affiliated to G.B. Technical
+University (formerly U.P. Technical University), Lucknow.
+Intermediate from U.P. Board, Allahabad with 73.4% marks
+10th from U.P. Board, Allahabad with 64.3 % marks
+
+Technologies I worked with
+
+
+
+
+
+
+
+
+
+
+
+
+
+Languages: Java 1.6 and 1.7.
+Enterprise APIs: J2EE 6-7, Servlet 3.0, RESTful Web services, JSP 2.2 & JSTL.
+Web Framework: Spring 3.0 , Spring Security, Spring data, Spring Security
+OAuth, & Hibernate 3.25, Jersey, Spring RESTful web services.
+Java APIs: JavaCv 0.5, Xuggler, Vlcj 2.0, Lti-Civil JUNIT 4.10 & POI 3.9.
+Web Technologies: HTML 5, Websocket XML 1.0, JavaScript, AJAX & JQuery.
+Web & Application Server: Apache tomcat & Glassfish Application Server 4.0,
+Pramati Application Server.
+Database: MySql 5.5, oracle 11g, Elasticsearch.
+IDE: Eclipse, Netbeans
+Version Control: Git repository, Gerrit ,SVN Repository System.
+Platform: Windows XP/7, Ubuntu 11.04.
+Other Technologies: NSIS Script.
+Build Tool: Maven
+
+Project Summary
+
+Project-1
+Technologies
+Team size
+Description
+
+Responsibilities
+
+Project-2
+Technologies
+Team size
+Description
+
+Responsibilities
+
+Wavemaker API gateway
+Spring 4.1.3, Spring Security 3.2.5, Spring Security
+OAuth, Elasticsearch etc
+6
+It is a product of Wavemaker Inc. It provide a way to secure,
+manage, rate limit and publish webservice APIs. It secure the
+APIs based on subscription, rate limit the API calls like 2 hit/sec, 5
+hit/sec etc, allow user to manage the API life cycle i.e prototype,
+Published, Deprecated etc. It also provide a way to manage API
+versions. It expose and represent the APIs through swagger.
+Developer can see API usage statistic and performance of APIs.
+ Implementing OAuth based authentication mechanism
+for API calls.
+ Implementing life cycle management for APIs.
+ Implementing version control for APIs.
+e-Content Quality Tool
+Spring 3.0, JSP, Servlet, MySql 5.5, OpenCv, FFMPEG.
+4
+E-Content Quality Tool project is designed to evaluate the quality
+of any kind of content available for e-learning tools in terms of
+different perspective viz. Instructional Quality, Accessibility,
+Video Quality, Readability and compliance to SCORM. Each
+quality parameter is being evaluated for content in either
+automated or semi-automated manner based on proposed
+evaluation criteria.
+
+
+
+
+Project-3
+Technologies
+Team size
+Description
+
+Responsibilities
+
+Implementing algorithm for assessing the quality of video
+frames with respect to blurriness and blockiness (checker
+board effect in video frames) automatically.
+Extracting technical quality of PPTs viz. fonts quality,
+image quality and contrast ratio of text to its background
+color.
+Video quality and Readability of PPTs module was
+nominated as the finest module in PRSG project review.
+
+Collaborative Class Room (CCR)
+Servlet, JSP, MySQL, Tomcat6.0, Red5 Server
+4
+Collaborative classroom (CCR) is a web-based application
+interfacing with grid resources over high-speed network for
+facilitating collaborative and cooperative learning experience.
+CCR is a Learning Management System (LMS) with audio/video
+conferencing facility. It uses Grid (GARUDA) as content repository.
+
+
+
+
+
+Integrating JAM wiki (wiki API written in Spring MVC) with
+CCR.
+To compile the CCR’s audio /video conferencing module in
+to swf11.
+To add software based acoustic echo cancellation feature
+and support for speex codec in A/V conferencing module
+of CCR using flex SDK 4.6 and Open-Laszlo.
+Development of RESTful webservice and client for
+assessing readability and video quality of ppt and video
+files respectively.
+
+
+
+
+
+Project 4
+Technologies
+Team Size
+Description
+
+Simple Collaborative Online Platform for eLearning
+(SCOPE)
+Spring, JSP, Hibernate, MySQL, NSIS, Openmeetings
+4
+SCOPE is an open source learning management system developed
+by CDAC. It has features like A/V conferencing through
+Openmeetings, LTI support for consumer and provider, file sharing.
+
+Responsibilities
+
+Project 5
+Technologies
+Team Size
+Description
+Responsibilities
+
+To add LTI Basic functionality so that content of LMS can
+be accessed from other LMS.
+Openmeetings integration and maintenance.
+To create NSIS installer for CCR including all dependencies
+so that it can be installed, deployed and managed easily
+by system admin.
+
+
+
+
+
+To Move SCOPE from Servlet to Spring MVC platform.
+To create quality assessment module.
+To create installer for SCOPE.
+
+Quality Assurance Framework (QAF) for LMS
+Servlet, JSP, Webservice
+4
+QAF is quality evaluation tool for Learning Management System. This
+tool assess the LMS on the basis of it Security, Scalability etc.
+ Development of scalability module for QAF.
+ Integrating JMeter with scalability module.
+ Development of webservice for scalability.
+
+Seminars and Workshops
+
+
+
+
+
+
+
+
+Java One and Oracle Develop conference at Hyderabad 2012.
+Organized Workshop on ‘eLearning Standards’ with collaboration of CDAC
+Hyderabad and BIS at Hyderabad 2011.
+Delivered Technical talks on various topics in training programs at CDAC.
+Attended Workshop on “Digital Video Analytics and Processing” at IIT M
+Organized two days workshop on ELearning and ELearning Technologies
+(ELELTECH 2013) in association with DietY Govt of India and JNTU.
+Delivered a session on ‘Video Quality Assessment’ in ‘Mobile Based
+Learning’ workshop at CDAC Hyderabad.
+Delivered a session on ‘ELearning Standards and Content Assessment’ in
+Faculty update program organized by JNTU Hyderabad.
+
+Personal Information
+Father’s Name:
+Mr. Haquiqullah khan.
+Nationality: Indian
+Sex:
+Male
+DOB:
+02/08/1989
+Marital status: Single
+
+Permanent Address
+K Asaiah Priya Colony Mehdipatnum
+Hyderabad 500028
+I hereby declare that all the information given above is true to best of my knowledge &
+I am determined to deliver my best if given a chance.
+Imran Khan
+
+

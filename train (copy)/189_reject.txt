@@ -1,0 +1,238 @@
+Sreekanth Seshadri
+
+E-mail:   HYPERLINK "mailto:dusane.amit@yahoo.co.in" sree4java5@gmail.co
+m                                                       Mobile: +91
+800-800-9828
+
+OBJECTIVE
+
+To work in an environment where I can apply and build upon my technical
+& analytical skills
+
+To add value to the products and services on which I undertake the
+assignments
+
+SUMMARY OF EXPERIENCE
+
+5.2 Yrs of Experience in IT Industry. 
+
+Java developer with good experience in architectonic and designing of
+Java and J2EE based applications using WSAD, Tomcat, Eclipse and RAD.
+
+Good experience in Developing Applications using Java and J2EE (JSP,
+Servlets, JDBC, Struts, Spring MVC and DB2)
+
+Good Knowledge in SQL and PL/SQL coding.
+
+Have involved in phases of the SDLC such as requirements gathering,
+analysing, planning, documenting
+
+Proficiency in programming with different Java IDE's like Eclipse3.2,
+WSAD, MyEclipse5.1 and IBM RAD6.0
+
+Expertise in development of Testcases using JUnit to check expected
+result and experienced in User Acceptance Testing (UAT).
+
+Exposed to application software development and Internet based solutions
+
+Good exposure in Banking and Finance Domain in areas such as New
+Business, Finance, Cards Payments, New Account Servings, Product
+Development and Sales and Marketing Domain in the area of Lead
+Generation and Sales Automations
+
+Have worked with international clients like American Express
+Technologies
+
+Gone through SIT, UAT and Regression Testing
+
+TECHNICAL SKILLS
+
+    Primary Skill set		: Java, J2EE technologies
+
+    Technologies		: Core Java, J2EE, JSP, Servlet, Struts, Spring MVC.  
+                                            
+
+    Database		: Oracle9i, DB2, MySQL, SQL Server
+
+    Frameworks		: MVC, JAXB, JCONFIG, LOG4J, JUICE
+
+    Tools Known		: Web sphere 5.1.2, RAD 7.5, SVN, Rational tools etc
+
+PROFESSIONAL SUMMARY
+
+Syntel Ltd, Chennai from Feb 2010 to till date. 
+
+PROFESSIONAL CERTIFICATIONS
+
+Sun Certified Programmer for Java Platform, Standard Edition 6 (SCJP 6)
+
+EDUCATION
+
+Completed B.Tech in Computer Science engineering from KSRM Engineering
+Collage, Andhra Pradesh.
+
+ 
+
+Roles Played
+
+Developed projects on RAD 7.5, WSAD 5.1.2, Struts, Spring, Hibernate,
+Web Services, Servlets, JSP, JDBC, and JavaScript.
+
+Effectively discharged my duties as a Team Member. Made use of various
+J2EE patterns/techniques.
+
+Have worked on SQL and PL/SQL coding and used Oracle, MySQL, SQL Server
+and DB2 databases. 
+
+Have worked as Module Lead and leaded a team of developers during Build
+phase of the project.
+
+Helped HR's for recruitments by actively participating in recruitment
+process
+
+Project Profile
+
+Project #1: ATS (Acquisition Tracking System)
+
+Client: American Express Technologies
+
+Team Size: 5
+
+Role: Senior Programmer
+
+Technology: Java, Jsp, Front Servlet, DB2, Websphere Application Server
+5.1, RAD7.5.
+
+Description:
+
+ATS it assist marketers in multiple facets of the campaign process.
+
+ATS will assist marketers in setting up campaigns, maintaining them and
+tracking the final results.
+
+Set up necessary source codes for campaigns.
+
+Query the source code database, correct invalid or incorrect source
+codes.
+
+Responsibilities and Achievements: 
+
+Responsible for requirements gathering, analysis, and system design and
+also interacted with business users in analyzing the requirements.
+
+Involved in creation of Prototype design.
+
+Involved in Design documents, coding, unit testing, debugging of
+enhancement, bug fixing and deployment on various environments.
+
+Responsible for Low level designing of documents.
+
+Responsible for performing Unit test cases and effort estimation
+
+Deployment and Standardization of code across the product.
+
+Conducted Trainings for fresher’s on Java technologies
+
+Project #2: NASP (New Account Servicing Portal)
+
+              
+
+Client: American Express Technologies
+
+Team Size: 20
+
+Role: Programmer
+
+Technology: WSAD 5.1.2, RAD 7.5, JSP, Servlets, Struts, Web Services,
+DB2, IBM MQ Series.
+
+Description:
+
+NASP is message oriented, distributed web application.
+
+It is a complete banking solution for customer care professionals to
+open a new account in American express bank.
+
+This application also caters with issuing different types of cards to
+the customer.
+
+It also tracks cards payments and balance transfers.
+
+Responsibilities and Achievements:
+
+Involved in the enhancements of the existing applications to cater to
+the needs of new Business Requirements.
+
+Involved in various support activities as per the project requirement at
+all times  and was always successful for delivering the  work products
+with best satisfaction from Team and from clients.
+
+Involved in Design documents, coding, unit testing, debugging of
+enhancement, bug fixing and deployment on various environments.
+
+Attended SIT, UAT, Regression status calls.
+
+Conducting impact analysis for the customization or enhancements
+
+Generating release notes for periodic releases
+
+Project #3: CSP (Credit Servicing Platform)
+
+	                                      
+
+Client: American Express Technologies
+
+Team Size: 50
+
+Role: Programmer
+
+Technology: WSAD 5.1.2, RAD 7.5, JSP, Servlets, Struts, Web Services,
+Mainframe DB2, IBM MQ Series.
+
+Description:
+
+The Credit Servicing Platform is a global browser-based application.
+
+CSP is a rule driven application that is used by over 3,000 Credit
+Analysts in the US & International Credit Centers and at Credit Partner
+sites.
+
+CSP provides the ability to process the majority of Risk and fraud cases
+from one screen with data that clearly identifies the reason for the
+case setup.
+
+CSP maintains information about customer conversation, treatment
+strategy and actions/decisions based on real-time information.
+
+The system improves quality, increases analyst effectiveness and
+efficiency, by providing the analysts with an intuitive, easy to
+navigate user interface.
+
+Responsibilities and Achievements: 
+
+Interacting with client development team for overall understanding of
+the product Architecture and the scope of the deliverables.
+
+Involved in various support activities as per the project requirement at
+all times  and was always successful for delivering the  work products
+with best satisfaction from Team and from clients.
+
+Involved in design documents, coding, unit testing, debugging of
+enhancement, bug fixing and deployment on various environments.
+
+Attending SIT, UAT, Regression status calls.
+
+Personal Details
+
+Name			: Sreekanth Seshadri
+
+Present Employer	: Syntel Ltd
+
+Date of Birth		: 01-04-1984
+
+Email			: sree4java5@gmail.com
+
+Contact No		: 8008009828
+
+Gender		            : Male
+

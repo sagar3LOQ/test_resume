@@ -1,0 +1,75 @@
+Arun Prakash Sagar
++91-9553257189
+
+arun.prakash.sagar@gmail.com
+
+Professional Experience:
+ORACLE, INDIA
+
+Senior Software Engineer (July’ 2014 – Present)
+ Ethelontiis: A volunteering application to create and organize a cause, project and activities to help the need. In
+addition to the regular activities, volunteers can set up goals in terms of volunteering hours and leading projects.
+Volunteer contribution to the total contribution presented in the form of Bar and Pie charts.
+ I have worked on initial configuration and framework setup with mock implementation. Most of the key features
+such as applying ADF Jazn security, loading images using JSP & Servlets and micro site similar to Facebook are
+implemented by me.
+ HcmConnectV2: This tool provides an end-to-end integration solution that replaces the existing Fusion and
+Taleo middleware with a cloud-hosted integrated solution, which supports planning, scheduling and
+monitoring, all from an easy to use browser-based user interface.
+ The goal of the HCM Connect project is to provide a set of tools to assist Fusion HCM and Taleo customers in
+migrating data between those applications and their legacy HCM and CRM applications. HCM ConnectV1 and
+HCM Connect V2 are two integration solutions and a set of web services available to customers and integrators to
+build their own integration solutions to Fusion HCM and Taleo.
+ Designed a section of UI for creating environments, flows and scheduling flows to migrate data between
+applications.
+Applications Engineer (June’ 2011 – July’ 2014)
+ HcmConnectV1: This was my first front end project by using basic version of JDeveloper. I have designed
+complete UI pages using JSP, JSF, Servlets and Taskflows. It uses MVC architecture to perform basic operations
+including creating configurations, scheduling configurations and displaying results with search functionalities.
+ This solution utilizes existing Fusion middleware to perform migration of business objects into Fusion HCM. It is
+hosted in the cloud and performs the more mundane steps of typical Fusion HCM in-bound integration process by
+performing the file transfer, loading the file into UCM, and triggering the FBL process.
+ Human Workforce Reputation: Worked on building controls using GRC patterns to analyze user participation in
+social media such as Facebook, Twitter, and LinkedIn. These controls analyze and prepare the scores on the
+information (such as posts, likes, shares, tags and etc) from social media.
+ GRC Patterns: Implemented two patterns with the help of already existing patterns framework in GRC. Patterns
+provide a mechanism to find out fraud/risk in an organization by statistical approach.
+Ex: Mean, Normalization, Deviation, etc...
+ GRC (Governance, Risk and Compliance) Work lists: Worked on implementation of work list functionality in
+GRC project. Main idea behind this functionality is to generate email notifications to a particular/group of users
+based on the role or type of task. Email contains pending task(s) if it is newly created or FYI –Notification in case
+if it is sent back to the creator.
+
+Education:
+ MTech in Information Technology, IIT Kharagpur (2009 - 2011)
+ Bachelor of Engineering in CSE, Osmania University, Hyderabad (2005 - 2009)
+
+(CGPA) 8.5/10
+70.02%
+
+Academic Projects:
+
+
+Project title: MAcoSim: A Matlab based Underwater Acoustic Sensor Network Simulator.
+Abstract: A MATLAB based simulator for testing the performance of protocols designed for Underwater Sensor
+Networks. Interdependency among modules is resolved to a great extent and provides GUI for designing
+topologies.
+
+Technical Skills:
+ Technologies worked on:
+ Areas of Interest:
+ Build Tools:
+ Application Servers:
+
+Java, ADF, JSP, spring, JavaScript, CSS, and PL/SQL.
+Algorithms and Data Structures.
+Apache Maven, SVN, Git, Gerit.
+Apache Tomcat, Web logic.
+
+Accolades:
+ IEEE/ACM International Conference (GreenCom’10) has selected my paper on “Detection of Identity based
+attacks in wireless sensor networks using signal prints” and published it in Sep’ 2010 summit.
+ Received a Gold Medal in inter college ‘Power Lifting Championship – 2011, IIT KGP’.
+ Competed for the title ‘Best Physique – 2011, IIT KGP’ and bagged it.
+
+

@@ -1,0 +1,260 @@
+Spring:3 years n current
+
+Hib:3 year
+
+Web service: RESTFUL
+
+Uml design: sequence design( not much)
+
+Design pattern: yes
+
+Build tools : maven/Ant
+
+Application server: weblogic/tpmcat/jboss
+
+8.35/13/60days
+
+12PM sat
+
+Harish Pal Kachhwaha		
+
+E-Mail:    HYPERLINK "mailto:mishragovindi@gmail.com"
+hharishpal@gmail.com 	    			                Address:  Sector 7,HSR
+Layout 
+
+Mobile:  +91 9742743837					   	         Bangalore-560013. 
+
+Objectives
+
+To attain a challenging position to contribute in the business growth of
+an organization, would like to work in creative and challenging
+environment where there is a scope for upgrading my skills and knowledge
+and where I can take active part in growth of the organization.
+
+Experience Summary- Interested Area
+
+	5.10 years of diversified experience in development, design
+implementation and maintenance of software projects.
+
+Hands on experience with JAVA, JDBC,Spring DI,Spring AOP,Spring
+MVC(basics),JMS,Hibernate with JPA,PL/SQL.
+
+Knowledge of Essential Frameworks like Log4J, JUnit, ANT, Clear case,
+Clear Quest.
+
+Hands on experience with Eclipse and NetBeans IDE.
+
+Exposure Oracle PL/SQL coding, Oracle data pump Utilities.
+
+Basic domain knowledge of Telecommunication.
+
+Like to continually learn, mentor and develop my career.
+
+Motivated and ambitious with good interpersonal communication,
+relationship management.
+
+Professional Experience (5.10 years)
+
+BT e-serv Private Limited, Bangalore (  HYPERLINK "http://www.bt.com" 
+www.bt.com ) Working as Consultant in BT e-serv Private
+Limited,Bangalore from May 2013 to till date.
+
+ARICENT Group, Bangalore (  HYPERLINK "http://www.aricent.com" 
+www.aricent.com ) Worked as a Sr. Software Engineer in ARICENT Group,
+Bangalore from May 2010 to April 2013.
+
+Exilant Technologies, Bangalore (  HYPERLINK "http://www.aricent.com" 
+www.exilant.com ) Worked as a Software Engineer in Exilant Technologies,
+Bangalore from Jan 2009 to May 2010.
+
+Technical Summary
+
+Java/J2EE              : Java,JDBC,Swings,Hibernate,Spring DI,Spring
+AOP,Spring MVC(basics),JMS,EJB(Basics)
+
+Databases               : Oracle 11g,PL/SQL blocks.
+
+Development Tools : Eclipse, NetBeans, ClearCase, ClearQuest,Smart Svn
+
+Web/App Server     : Tomcat,Weblogic
+
+Operating System   : Windows Series, LINUX.
+
+Academic Qualifications
+
+ B.E. (Information Technology) - 70.70 % (Honors) from Maharishi Arvind
+Institute of Engineering and Technology, Jaipur, Rajasthan.
+
+2003-Senior Secondary-68.8% from CPS, Jaipur affiliated to CBSE.
+
+2001-Secondary-79.40% from CPS ,Jaipur affiliated to CBSE
+
+Software Project 
+
+Equinox Order Processor
+
+Client		: BT, UK.
+
+Domain                  : Telecom Billing
+
+Technologies	: Java, Linux/Unix, Weblogic, Spring, JMS, Hibernate,
+Oracle11g.
+
+Company	     	: BT e-serve Private Limited, Bangalore
+
+Duration		: May 2013 – Till now.
+
+Description	:  
+
+Framework has been designed for management of order processing. Accepts
+order from CRM and define mechanism for fulfilling the order, internally
+uses the finite state mode. 
+
+     Role & Responsibilities: 	
+
+Design and development of new features using Java. Component Lead
+handling ASG(Application Support Group)
+
+Design, Coding, Unit Testing.
+
+Writing PL/SQL code blocks.
+
+Bug Fixing with RCA.
+
+Order Fulfillment System
+
+Client		: BT, UK.
+
+Domain                  : Telecom Billing
+
+Technologies	: Java, Linux/Unix, WebLogic, Swings, EJB, JMS, Hibernate,
+Oracle11g.
+
+Company	     	: BT e-serve Private Limited, Bangalore
+
+Duration		: May 2013 – Till now.
+
+Description	:  
+
+Framework has been designed for management of order processing. Accepts
+order from CRM and define mechanism for fulfilling the order, internally
+uses the finite state mode. 
+
+     Role & Responsibilities: 	
+
+Design and development of new features using Java.
+
+Design,Coding,Unit Testing.
+
+Writing PL/SQL code blocks.
+
+Bug Fixing with RCA.
+
+Product Catalog
+
+Client		: Comverse, USA.
+
+Domain                  : Telecom Billing
+
+Technologies	: Java, Linux/Unix, JBoss, Swings, Spring, Hibernate,
+Workpoint, Oracle11g.
+
+Company	     	: ARICENT Group, Bangalore
+
+Duration		: Jan 2011 – April 2013.
+
+Description	:  
+
+Framework has been designed for management of Comverse One Billing
+product (it is used by various Telecom service providers for pre-paid
+and post-paid billing).The basic building blocks such as
+offers,bundles,rates etc are provisioned and propagated to online
+database thus following the unified data model.
+
+      Role & Responsibilities: 	
+
+Design and development of new features using Java.
+
+Design,Coding,Unit Testing.
+
+Writing PL/SQL code blocks.
+
+Taking backup of databases using Oracle Utilities.
+
+Mentor and manage other team members(Code reviews, Training new
+resources)
+
+SME for data propagation and provisioning.
+
+Bug Fixing with RCA.
+
+Single API
+
+Client	      	: Comverse, USA
+
+Domain                  : Telecom Billing
+
+Company	      	: ARICENT Group, Bangalore
+
+Duration        	: May 2010 to Dec 2010.
+
+Technologies	: Java, WebLogic, Spring, Hibernate, Oracle11g.
+
+      Description   	:
+
+The Single API is the core of Comverse ONE billing system. All client
+application interact with this centralize business logic. 
+
+	Role & Responsibilities: 	
+
+Design and development of new features.
+
+Coding, Unit Testing.
+
+Bug Fixing with RCA. 
+
+Razor Plan
+
+Client	    	: Exilant Technologies.
+
+Duration        	: Jan 2009 to May 2010.
+
+Technologies	: Java, Hibernate, Oracle,Swings.
+
+            
+
+      Description    	:
+
+     Planning tool for Textile Industry also incorporates features from
+order acquisition to
+
+     Shipping. It is an ERP developed for Textile industry.
+
+	Role & Responsibilities:
+
+Developed code in Java.
+
+Developing Screens in Swings.
+
+Database Study and writing SQL Queries.
+
+Personal Information
+
+Father’s Name 			: Rampal Kachhwaha
+
+Date of Birth 			: 27 Dec 1986 
+
+Alternate Email id		: hharishpal@yahoo.com	
+
+       
+
+Declaration:        
+
+I hereby declare that all the above mentioned information are correct to
+the best of my knowledge and I bear the responsibility for the
+correctness of above mentioned particulars.
+
+Place: Bangalore										Harish Pal 
+
+Date: 
+

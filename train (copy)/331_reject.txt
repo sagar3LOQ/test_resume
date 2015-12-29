@@ -1,0 +1,353 @@
+Rajshekhar P                 		                                         
+
+
+
+Email: rajshekharchowdary212@gmail.com                                       
+
+Phone: +91-9533993053
+
+
+
+PROFESSIONAL OBJECTIVE             
+
+                   Looking to use my experience in Software Industry along with my expertise at Web Applications which will further my career growth and also help me lead and motivate 
+
+My team members and boost the profitability of the company
+
+	
+
+PROFESSIONAL SUMMARY
+
+	Having 3 years of experience in IT industry. 
+
+	Development experience on Java/J2EE. 
+
+	Having experienced in Core Java concepts.
+
+	Strong skills in J2EE concepts like JSP, Servlets, JDBC.
+
+	Having hands on experience in frameworks like  Struts and Hibernate.
+
+	Having good experience in IDE’s  like eclips , myeclips .
+
+	Having good knowledge in HTTPServers .
+
+	Having Work experience in WebServer  Tomcat.
+
+	Having work experience in ApplicationServers WebLogic.
+
+	Excellent knowledge in Application Servers like Weblogic ,Jboss ,WebSphere.
+
+	Excellent Work Experience on DataBase tools Toad , Sqldeveloper .
+
+	Having good knowledge on Oracle , MySql Database.
+
+	Having good knowledge on JNDI , ConnectionPool.
+
+	Having Good Knowledge on Scripting Languages like HTML ,XML .
+
+	Having good Knowledge in ORM Tools .
+
+	Having work experience in WebServices .
+
+	Effective team player with good communication, interpersonal and presentation skills.
+
+	Effectively solve critical problems in Technology and give support to team members.
+
+	Ability to work with any technologies.
+
+   Proven ability to understand business problems and apply suitable technology to   
+
+         formulate optimum solutions.
+
+  Excellent Programming and Analytical skills.
+
+
+
+Education
+
+
+
+ B.Sc(computers) from Sri Krishnadevarya University, Anantapur, A.P.
+
+
+
+
+
+Work Experience                                                                                                                  
+
+
+
+	3+ years of experience in the field of Information Technology, developing web applications using Java, J2EE,  EJB,  JSP, Servlets, Struts, Hibernate, Eclips, Weblogic,Tomcat, Oracle,Mysql Toad, Sqldeveloper, SQL, PL/SQL, XML, HTML, DHTML, UML, JDBC, JNDI.
+
+	
+
+Responsible for the system design, development, testing, documentation, deployment, and production  
+
+              support   for the application within the project release schedule
+
+
+
+Expertise in implementing J2EE technologies (JSP, Servlets, Java Beans, JDBC, JNDI and EJBs) to develop Enterprise software applications
+
+
+
+	Expertise in Framework based application development using Hibernate and Struts. 
+
+
+
+	3+ years in Java, J2EE, Java Beans, Java Servlets, EJBs and JSPs.
+
+
+
+	Expertise in Core java technologies such as Threading, Collections etc
+
+
+
+	Expertise in Java programming using Eclipse and Myeclips.
+
+
+
+	3+ year of experience in Enterprise Java bean Development of experience
+
+
+
+	1  year of experience in Web Services.
+
+
+
+	1 year of experience in Toad and Sqldeveloper.
+
+
+
+	3 years Expertise in    Oracle,Mysq.
+
+
+
+	3 years of experience in web/application servers  Tomcat,Weblogic,IBM websphere
+
+
+
+	Wide exposure in the  Object Oriented Programming
+
+
+
+	3  years of experience in hibernate
+
+
+
+	3 years of experience in Structs.
+
+
+
+	Experience in quality assurance, Integration testing, load testing, stress testing etc
+
+
+
+	3 years of experience in XML, DOM, XML schema.
+
+
+
+	Played different Role as a Team member.
+
+	              A dedicated team player with excellent communication, organizational and interpersonal skills
+
+	
+
+	
+
+	Work Location
+
+	
+
+	Working with Cognizant Technologies ( hydrabad ) Like a PAYROLL (PAYROLL Organization : 
+
+	
+
+	                 MAVIS Software Services)
+
+	 
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+TECHNICL SKILLS                                                                                                   
+
+JAVA Skills
+
+J2EE, Java, Struts, Spring, Hibernate, EJB, JNDI, Java Servlets, Applets, Swing, Java Beans, Java Server Pages (JSP), JSTL, Custom Tag Development, JDBC, XML(SAX, DOM), Multithreaded Applications, Collections API and  Spring Security.
+
+FRAMEWORKS
+
+ Struts
+
+ORM TOOLS 
+
+ Hibernate. 
+
+DATABASE
+
+ Oracle, Mysql
+
+Web Servers
+
+ Apache Tomcat.
+
+Development IDE’s
+
+ Eclipse, My Eclipse.
+
+Scripting Languages
+
+HTML, XHTML,  XML
+
+Web Technologies
+
+JSP, Servlets, EJB,  Struts, JPA.
+
+Operating Systems
+
+Windows7,WindowsXP,Windows98
+
+Programming Methodologies
+
+Object Oriented Analysis, , Design & Programming using Java
+
+SOA
+
+Web Services
+
+Design Tools
+
+RelationalRose2000 ,UML
+
+	DB IDE’s
+
+	TOAD,SQLdeveloper
+
+	Application Servers
+
+	Weblogic, Websphere, GlashFish, Jboss
+
+	
+
+Relevant Project Experience
+
+PROJECT 1:
+
+
+
+Credit Suisse AG, Zurich, Switzerland
+
+Project Name
+
+New Issue Solution (NIS) - Enhancements
+
+Duration
+
+Oct 2012 – till date
+
+Technology
+
+Core Java, J2EE technologies, Eclipse, Oracle,  Weblogic server.
+
+Project Abstract
+
+New Issue Solution (NIS) mainly deals with the Initial Public Offerings (IPOs) released by firms. The main purpose of this application is to administer/monitor the allocation strategy concerning the way the respective bookings against the concerned IPOs are determined. Whenever some new offerings (new issues) are released in the market for public issuance, the users of this application can view their respective details from this application and proceed further as per the respective/governing allocation strategies. The application mainly deals with two categories of Financial Instruments traded in the market namely – Equity (EQT) & Structured Products (both In-House & 3rd Party). The application leverages the potential to provide the following services to its users:
+
+View the new issue details
+
+Determine and correspondingly assign the allocation strategy
+
+Proceed with the market-specific settlement of trades and their execution
+
+Global Administration module to monitor the overall specifics of the application
+
+Reports module consisting of different types of reports
+
+Triggering event in external applications (Valor Switch, Orders Settlement)
+
+Role
+
+Developer 
+
+As a Developer , responsible for requirements analysis, interacting with client-base/onsite developers to validate the understanding and actively involve himself as a team member for the development of the module. 
+
+Enhance several functionalities of the Reports module as per the laid down specifications. The enhancement generically comprised of designing new pages in XHTML, coding the underlying business functionalities (using JSF, EJB 3.0 with annotations, CORBA and Oracle), enhancing existing features, fixing existing bugs (both design and functionality related) and restructuring parts of code using CheckStyle, FindBugs and PMD.
+
+NIS application was purely driven by a unified development and deployment platform called Java Application Platform (JAP) using TIP as the underlying software. It provided the leverage of building and deploying the entire application codebase using relevant commands from Command Line Interface (CLI).
+
+Writing JUnits of existing as well as the newly developed functional modules.
+
+Involved in deployment and integration testing of the overall application in Weblogic server locally and writing deployment-related scripts in SQL.
+
+                                                                                                  
+
+Environment:  J2EE, Servlets, Java Server Pages, Threads, Collections, Tomcat, Struts, Spring, Hibernate,  
+
+
+
+                        Ajax,  Eclipse, HTML, JavaScript, JDBC, Hibernate, Web Services, XML, SAML, JAXB, POJO, 
+
+
+
+                        Spring Security, ORM,, Windows XP, oracle, Toad, JNDI, Connection Pool and MS-Office .
+
+
+
+                        
+
+	PROJECT 2:	
+
+	
+
+JP Morgan Chase International Private Bank, Geneva, Switzerland
+
+Project Name
+
+Automation of Initial Public Offering (IPO) process
+
+Duration
+
+June 2011 – sept2012
+
+Technology
+
+Core Java, JEE Technologies,oracle, Webservers.
+
+Project Abstract
+
+JPMorgan Chase & Co. is one of the oldest and largest financial services firm in the world. JP Morgan has global presence in Investment Banking, Asset Management, Private Banking, Private Wealth Management, and Treasury & Securities Services. The aim of this project was to automate the process of Initial Public Offering by designing a GUI-based tool developed in Java Swing to capture the key set of events as per the laid down business specifications. This consisted of generation of IPO Deals, Client Letters and corresponding business functionalities to upload and download such documents within the system.
+
+Role
+
+Developer 
+
+As a Developer   responsible for requirements gathering by coordinating with Business Analysts at the client site, interacting with client-base/onsite developers to validate the understanding, create a logical segregation within the team (consisting of 3 resources) based on front-end and back-end (SQL based) tasks involved in the initiative and eventually distribute the work evenly amongst team members to meet the incremental delivery schedule.
+
+Once the assignments were done, Basab himself used to divide his allocation into two parts – one in which he worked as a developer himself and the other in which he used to review the work performed by his fellow team-members before the final delivery from the team as a whole.
+
+Involved in integration testing and deployment of the overall application.
+
+
+
+
+
+Environment:  J2EE, Servlets, Java Server Pages, Tomcat, Struts, Spring, Hibernate, Ajax, POJO, ORM, 
+
+
+
+                            Eclipse, HTML, Collections, JavaScript, JDBC, Hibernate, Toad, Web Services, XML, SAML
+
+
+
+                           JAXB, Spring Security, Oracle, Windows XP, SQL, and MS-Office tools .

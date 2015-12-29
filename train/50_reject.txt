@@ -1,0 +1,399 @@
+PHONE : +91 8286713810, +91 932 434 5102
+
+	                                                                                                                            E –MAIL :vipin.migs@gmail.com           
+
+  VIPIN MIGLANI	
+
+	
+
+	                               	CAREER OBJECTIVE
+
+	I look forward to build a career in software world, where I would leverage my abilities, interests and knowledge into a meaningful contribution towards meeting the organizational and personal goals.
+
+.
+
+	
+
+
+
+	WORK EXPERIENCE:  
+
+	                                                                                                          
+
+
+
+
+
+TOTAL EXP                               	                   :          9 yrs
+
+CURRENT ORGANIZATION                      :          JP Morgan Chase (Oct 2012 to till date)
+
+CURRENT DESIGNATION                          :          IT Analyst
+
+CURRENT SALARY                                      :          16.5 Lac per annum (CTC) + Year end bonus
+
+CURRENT LOCATION   		      :	    India
+
+NOTICE PERIOD                                           :          30 days 
+
+PREVIOUS ORGANIZATIONS                   :         TCS (May 2011 to Oct 2012), 
+
+   GE India Pvt. Ltd. (Mar 2008 to May 2011),
+
+   CDAC formerly NCST (Nov 2006 to Mar 2008)
+
+
+
+PROFESSIONAL SKILL SET:                                                                                                            
+
+
+
+PROGRAMMING EXPERTIE                : Core Java, Multithreading, J2EE, Spring, Mule, Hibernate, JSF1.2,   
+
+                                                                        GWT, SmartGWT, Junit, Framework(TestNG, Mockito,  
+
+                                                                        PowerMockito), JSON, Continuous Integration (Jenkins, Cruise Control), XML Frameworks (JDOM, Xerces, JAXB)
+
+DATABASES				    : Oracle, MS.SQL SERVER 2000, Postgres 8.0
+
+OPERATING SYSTEM		    : WINDOWS FAMILY, LINUX.
+
+CORE TECHNOLOGIES		    : Core Java, Maven, spring, Junit, CI, Builders
+
+WEB TECHNOLOGIES                           : J2EE ( JSP, Servlets, JSF), GWT, HTML, ASP 
+
+					      JavaScript
+
+SERVERS				    : JBoss AS 4.x ,Tomcat 5.x, Weblogic 10.3.5
+
+DESIGN ARCHITECTURES		    : OOAD, MVC, J2EE 
+
+IDEs					    : Eclipse 3+,
+
+EDUCATION                                   : B.TECH (Computer Science, U.P. Technical University)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PROJECTS:     
+
+
+
+			PROJECT # 1:
+
+		
+
+		  TITLE                           : PADL
+
+		  CLIENT NAME            : JPMC
+
+		  DURATION                  : Oct 2012 Till Current Date
+
+		  SKILL SET                   : Core Java, J2EE, Spring, Multithreading, Junit, Mockito                                    
+
+		                                           Mule ESB, Hibernate, Oracle, SVN
+
+		  ROLE & Responsibility: Senior Developer
+
+	Application development and Design
+
+	Design discussions and requirement gathering
+
+	Designing framework classes to support application architecture
+
+	Writing unit test cases using Junit and mocking frameworks
+
+	Participation in discussions with stake holders for overall project management
+
+	Rotating Scrum master, Sprint planning, defect management, retrospection etc.
+
+	Maintenance of CI framework.
+
+	Getting work done through team members
+
+							
+
+		  TEAM SIZE                 : 6
+
+  DESCRIPTION      	    :  PADL is predictable Accounting decision layer which accepts messages from up streams, enrich and transform them to sent to down streams and maintains the record of generated accounting entries. Based on incoming message attributes PADL decision layer decides to identify the event to be triggered and based on event to be executed downstream systems are identified to send the accounting entries to them.
+
+
+
+			PROJECT # 2:
+
+		
+
+		  TITLE                           : Banker Desktop Asia
+
+		  CLIENT NAME            : Deutsche Bank (Singapore)
+
+		  DURATION                  : Nov 2011 Till Current Date
+
+		  SKILL SET                   : Core Java, J2EE, Spring, JSF 1.2, Multithreading, Junit, Mockito                                    
+
+		                                           Apache Maven2, Ibatis, Oracle, Jasper, Serena
+
+		  ROLE                           : Lead Developer
+
+	Application development and Design
+
+	Design discussions and requirement gathering
+
+	Designing framework classes to support application architecture
+
+	Writing unit test cases using Junit and mocking frameworks
+
+	Coordination with offshore team.
+
+	Participation in discussions with stake holders for overall project management
+
+	Rotating Scrum master, Sprint planning, defect management, retrospection etc.
+
+	Getting work done through team members
+
+		
+
+		  TEAM SIZE                 : 18
+
+	  DESCRIPTION      	    : Banker Desktop Asia (BD Asia) is an online dashboard to provide the very quick access of necessary information about various portfolios of wealth management to the designated relationship managers (RMs). This summary information on single screens can be further drilled down for detailed analysis of specific transactions. This application is the replacement of existing system known as DB Traders (DBT). DBT was considered to be very slow in terms of accessing information. For single piece of information RM has to spent significant amount of time. Speedy access of information was the motive of developing this application. Application is successfully developed meeting all the expectations and undergoing User acceptance testing, and will be in production soon.
+
+                                                                                              
+
+
+
+			PROJECT # 3:
+
+		
+
+		  TITLE                            : Finance Portal Stats
+
+		  CLIENT NAME             : Deutsche Bank (DKS Manila)
+
+		  DURATION                   : May 2011 To Nov 2011
+
+		  SKILL SET                    : Core Java, J2EE, Spring, GWT, Multithreading, Junit ( TestNG, Mockito, 
+
+		                                            PowerMockito) 
+
+		                                           Apache Maven2, Oracle 11G, SVN
+
+		  ROLE                            : Developer
+
+		  TEAM SIZE                  : 5
+
+	  DESCRIPTION      	     : Finance portal stats is a web application to integrate with Report inventory, Alfresco system and Jira System to identify which reports are being generated and not at all being read by any valid recipients. In the identification of such a reports, the Portal stat system automatically mark them for decommission and advice the user to stop the production of these kind of reports. Application is dynamic enough to cater any kind of business rules to drive the decommission logic as long as the rules are coming in a standard format.
+
+
+
+
+
+			PROJECT # 4:
+
+		
+
+		  TITLE                            : Advance Diagnostic and Optimized Engine
+
+		  CLIENT NAME            : GE Energy (Thick Client)
+
+		  DURATION                   : Mar 2008 Till Current Date
+
+		  SKILL SET                    : Core Java, Swing, Multithreading, Junit(TestNG, Mockito, PowerMockito), Spring, 
+
+		                                           Xml Frameworks (JDOM, Xerces), Ant Builder
+
+		  ROLE                            : Developer
+
+		  TEAM SIZE                  : 25
+
+	  DESCRIPTION      	     : ADOE the abbreviation is used to define a project which is comprised of three different technologies. One is Java client to create Rules which can be applied on machinery or assets of a plant or industry. These rules applied on machinery generate alerts and events on the basis of current state of machinery. The data processed and collected can also be used for further analysis. We have reporting component of project for the same designed using crystal reports. Second the Managed code in c# to load the engine and process the real data coming directly from asset probes. And the third one is C++ which is used to define the framework for serialization and deserialization of data packets across multiple DHPs (Data Hub Plugins). DHPs are the bridge to communicate various data sources like SqlServer, PI, Echo, Postgre, Excel etc. 
+
+	
+
+	My role in this project is to design xmls for various plugins of it. I use spring to load all the plugins dynamically. Therefore to add a new plugin in the Java client the only thing required is a plugin directory at right place. I designed the Plugin Management and licensing for the project. Using Collections, Multithreading. Generics, Swing, awt and Jide soft completed various stories for java client. Written various unit and functional test cases using TestNG, Mockito and PowerMockito.
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	 
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	PROJECT # 5:
+
+		
+
+		  TITLE                            : E-GOVERNANCE
+
+		  CLIENT NAME            : Department of Information Technology, New Delhi
+
+		  DURATION                   : NOV 2006 To Mar 2008
+
+		  SKILL SET                    : Java/J2EE, JSP, Servlet, JDBC, Struts Framework, EJB 3.0, Postgres 8.x, JBoss 4.x
+
+		  ROLE                             : Developer
+
+		  TEAM SIZE                  : 21
+
+	  DESCRIPTION       :   NSDG will assume the role of a messaging middleware in the e-Governance infrastructure being worked out under the 27 Mission Mode Projects governed by DIT. One of the visions of the government is the need to coordinate, collaborate and integrate information across the different departments in the states and the centre, which would help in delivering the services to the citizens, businesses and other government departments in order to simplify government processes. It will provide common access point to SP and SAP to communicate information in a secured manner. SAP initiates communication with gateway by submitting a message to obtain service from SP, and gateway processes message and ensures its delivery to right service provider. SAPs are registered delivery channels, which would be an access mechanism for citizens and businesses, and SPs are enrolled services with the gateway. 
+
+	
+
+	I am involved in development and coding of Administration and Monitoring modules in this project. The module is aimed at designing a user interface for the controllers or administrators of NSDG project. It also provides assistance to NSDG Administrators to control all operations of NSDG, assign different roles and responsibilities to the different users of NSDG, monitoring all services and various users connected to NSDG etc.
+
+	
+
+	I also participated in Designing of User Acceptance Testing document for this project.
+
+	
+
+			PROJECT # 6:
+
+		
+
+		  TITLE                            : ONLINE RECRUITMENT SYSTEM
+
+		  CLIENT NAME            : BHABHA ATOMIC RESEARCH CENTER, MUMBAI
+
+		  DURATION                   : OCT 2006 Till AUG 2007
+
+		  SKILL SET                    : ASP, MS SQL Server 2000 
+
+		  ROLE                              : Maintenance Engineer
+
+		  TEAM SIZE                   : 2
+
+		  DESCRIPTION           :  WBRS is a software that provides a web based interface to the aspiring candidates for the client's recruitment system. The software also provides an interface for the clent's staff to manually process the application forms that arrive through ordinary post.
+
+		This project involves development of the web based application, database design, developing server logic and provision of password based access to the client staff in different forms. The possibility of incorporating Interactive Voice Response System (IVRS) will also be explored jointly with the client.
+
+		The database for the WBRS runs on MS SQL Server and the Web Pages are hosted on Apache/Linux and IIS/Windows 2000. A port to PostgreSQL on Linux with the web interface in PHP has also been done The WBRS System for BARC is available at www.hrdbarc.gov.in 
+
+		
+
+	I was involved in change of coding of modules according to the requirements of client.
+
+	
+
+                            
+
+ACHIEVEMENTS:                                                                                                            
+
+
+
+	Six Sigma Green belt certified.
+
+	SCJP Certified.
+
+	Awarded Winner in Process Excellence category on Annual Engineering Day event of GE Energy on the basis of yearly performance.
+
+	Got 3 appreciation letters from GE Energy, One for setting up the Continuous Integration process for the ongoing project by which whole team realized the benefits of it. And the Second for maintaining and sustaining the CI process as part time without disturbing my development goals for the project.
+
+	
+
+STRENGTHS:                                                                                                            
+
+
+
+	Highly adaptive and fast learner.
+
+	Prompt at analyzing situations and taking initiative to solve problems.
+
+	Able to develop easy environment with people of different backgrounds.
+
+	Excellent Communication Skill.
+
+	I am Punctual and Veracious.
+
+
+
+REFERENCES:                                                                                                            
+
+
+
+
+
+Mr. Danni David                    						Mr. MANAS BEHERA
+
+Senior Software Engineer							Senior Associate Consultant 
+
+GE Energy 									TATA Consultancy Services
+
+Mumbai, India								Manila, Philippines
+
+	   #+919987711227								#+639991659334
+
+
+
+PERSONAL PROFILE:                                                                                                            
+
+
+
+NAME						: VIPIN MIGLANI
+
+FATHER’S NAME				: MR. YASHWANT RAI MIGLANI
+
+DATE OF BIRTH				: 12-AUG-1983
+
+SEX                                                                           : Male
+
+MARITAL STATUS                                                 : Married
+
+LANGUAGE KNOWN                                             : English, Hindi
+
+ NATIONALITY                                                       : Indian
+
+CONTACT NUMBER				 : +91 8286713810, +91 932 434 5102
+
+EMAIL						 : vipin.migs@gmail.com, vipin.miglani@gmail.com, 
+
+  
+
+
+
+ For internal use only
+
+ For internal use only
+
+ For internal use only

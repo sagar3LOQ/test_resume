@@ -1,0 +1,177 @@
+Spring:1.5
+
+Hib:1.5
+
+Web services:1 year
+
+
+
+6 / 9 /60 days
+
+
+
+
+
+CHIRAG PATNI                                                           B.Tech-CSE (2008-2012)         
+
+4th AUG 1989, Male                                                                       VIT University, Vellore                                                                    
+
+Associate (14-Jan-2013-Present)                                                 Email: chirag0408@yahoo.com
+
+Sapient Global Markets, Bangalore                                            Mob: +91-9632809161
+
+
+
+	Educational Qualification
+
+Class						    Board			Marks              
+
+B. Tech., Computer Science and Engineering	 VIT, Vellore                               8.58/10
+
+Class XII		                                          CBSE		                             66%                                        
+
+Class X					                CBSE                                          77%            
+
+
+
+Skills
+
+Programming Languages     : Java-J2EE, C/C++
+
+Frameworks & Libraries       : Spring, Struts, Hibernate, Spring-WS, JUnit, Log4j
+
+Web Technology                 : JSP, HTML, CSS, JavaScript, JQuery
+
+Platforms                            : Databases (Oracle, MySQL), OS (Linux, Windows), Application
+
+                                            Servers (Tomcat)
+
+Design skills                       : OOA (Object Oriented Analysis), OOD (Object Oriented Design),
+
+                                             AOP (Aspect Oriented Programming)
+
+Software Development        : Agile Methodology, TDD (Test Driven Development)
+
+Methodology
+
+Tools    		                  : Eclipse, Visual studio, Microsoft Visio
+
+Other Technology                : Thunderhead
+
+
+
+Work Experience at Sapient Global Markets (From 14 Jan 2013 till Present)
+
+
+
+Attended a training of 4-5 months in Java (Core & Advanced) and in TRM (Trade & Risk Management).And undergone 2 projects as the part of training.
+
+
+
+Real Time Project:
+
+1. Project Name – Passport
+
+Client – Wellington Management Company
+
+Duration – 6 months
+
+Team Size -3
+
+Description – “Passport” is a Single Sign On application, a central authentication system for many of the WMC’s application. Prior to this application WMC had separate authentication process for it’s different application, increasing the overhead of remembering multiple usernames and passwords. Passport helped in reducing overhead of clients by making authentication process centralized.
+
+Role& Responsibilities:
+
+Writing Java code for application development
+
+Creating JSP pages 
+
+Java Script validation on web pages
+
+Preparation & execution of test cases using JUnit
+
+Logging & Bug fixing
+
+Delivery of the project
+
+
+
+Technology used : Java-J2EE, Spring MVC, LDAP, Spring Web-flow, Web services, JSP (servlet),                                JavaScript, Active Directory (used for authentication as DB) NOLIO used as deployment tool and PuTTY as emulator.
+
+
+
+
+
+2. Project Name – CMRS
+
+Client - Northern Trust
+
+Duration – 3 months
+
+Team Size – 2
+
+Description - Northern trust is a financial services company and provides investment management and banking services to its client. It does trading on behalf of its client. So the goal was to create an adaptor. This adaptor captures all the trade in periodic time and presents those trades in a required presentable way. Since it contains details about trades, so the security was also kept in mind to design this application.
+
+Role & Responsibilities:
+
+Writing error free Java code for application development
+
+Creating XSLT transformation for the XML data.
+
+Providing security to the application (Encryption, obfuscation and signing)
+
+Generating reports in PDF format using Java code
+
+Bug fixing
+
+Technology used:Java-J2EE, maven, XML-XSLT, Proguard (for obfuscation), Keytool (to sign the application- for security), ClassGuard(for encryption).
+
+
+
+
+
+3. Project Name – Themes Industrialization (Sapient's Internal Project)
+
+Client - Investment Banks
+
+Duration – 3 months
+
+Team Size – 4
+
+Description - Generating Industry Standard Templates (ISDA standard Trade Confirmation Documents) for different kind of OTC derivatives.
+
+Role & Responsibilities:
+
+Analyzing the business requirement
+
+Developing document templates including Business Object creation and Layout generation
+
+Bug fixing
+
+Technology used: Thunderhead, XML Schema, JavaScript
+
+
+
+
+
+4. Project Name – Global Market Confirmation Processing
+
+Client - ANZ
+
+Duration – 3 months
+
+Team Size – 3
+
+Description – Generating multi channel paper confirmation documents for various financial products across different asset classes like Fixed Income, Commodities, Forex and Emissions. 
+
+Role & Responsibilities:
+
+Gathering and analyzing requirements from the business users
+
+	Developing the templates based on requirements which includes new template development and             modification to existing templates
+
+Performing unit testing parallel to template development. 
+
+Releasing the developed/modified templates into production.
+
+Technology used: XML, Java Script Thunderhead 5.0(BOS, BCS, Admin) Xceptor Murex.

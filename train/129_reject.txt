@@ -1,0 +1,196 @@
+B.S.K.Karthik
+
+Phone: (M) India: +91 9177960120
+Alternative Phone: (A) India: +91 9603096410
+Email: bskkarthik@gmail.com
+
+Professional Objective
+Interested in the field of software development with the main aim being to learn new things, get a
+feel of real world applications, and apply technology that offers professional growth while being
+resourceful, innovative and flexible
+
+Summary
+ Working as Product Developer with total having 5 years and 4 months of experience.
+ Proficient hands-on knowledge in Java.
+ Hands -on experience on Enhancing/Correcting the Functionality reported by client in Core
+Java.
+ Hands -on experience in Web and Native Application Development using technologies like JSF,
+Spring, Hibernate, jQuery, Primefaces, HTML5 and CSS.
+ Received "Long Service Recognition Award" for completing 5 years of service in CSC India,
+Hyderabad.
+ Received "Kudos Award" for all the work that has done which includes quality service cases
+fixing and cases verifications.
+ Received "Key to Success" Award in CSC India for taking care of daily deployment activities
+effectively
+ Received Appreciation from Managers and Client and won Accolades for efficiently handling
+all the tasks assigned to me.
+ Received Pratibha Award from Govt.of Andhra Pradesh for securing 95.7% in Intermediate.
+ Expertise in Debugging the Code in IDE’s like Eclipse.
+ Good Technical, Analytical and Problem Solving skills.
+ Excellent Interpersonal and Communication skills.
+ A quick learner and self-starter.
+ An effective team player with excellent motivating skills
+
+H.NO:2-36, Gowthami Nagar Colony, Chandanagar, Hyd-500050
+
+B.S.K.Karthik
+
+Phone: (M) India: +91 9177960120
+Alternative Phone: (A) India: +91 9603096410
+Email: bskkarthik@gmail.com
+
+Software Proficiency
+Programming Languages : Java, C
+Database
+Application Servers
+IDEs
+Frameworks
+Mobile Technologies
+Internet Technologies
+Web Containers
+Tools and Utilities
+Operating Systems
+
+: DB2, Oracle 9i, SQLLite, Hibernate
+: Web sphere (WAS)
+: Eclipse, RAD, Spring Tool Suite, Microsoft Visual Studio .NET
+: Spring, Hibernate
+: BlackBerry, iPhone, Titanium
+: JSF, HTML5, CSS, jQuery, Primefaces
+: Tomcat 6, 7
+: JIRA, Tortoise SVN
+: Windows XP, Windows 7, Mac
+
+Professional Experience
+Currently working as Professional 1: Product Developer in Computer Sciences Corporation,
+Hyderabad since 9th November 2009.
+
+Academic Summary
+M.E.Software Systems from Birla Institute of Technology & Science (BITS), Pilani in 2009.
+M.Sc. (Hons.) Mathematics and B.E. (Hons.) Civil from Birla Institute of Technology & Science (BITS),
+Pilani in 2006.
+
+Internship Details during Academics
+Organization: IBM India, Hyderabad
+Duration: Jan – June 2009
+Role: Post Graduate Trainee
+
+
+Worked on Static Analysis and Serviceability on Connectivity Component
+
+Organization: Instruction Division (ID), BITS- Pilani
+Duration: July 2006- July 2008
+Role: Project Assistant
+ Involved in software development activities at Instruction Division which includes Timetable
+making, Test Scheduling, Class room Booking, Handout and Project allotment.
+ Web administrator for Instruction Division Website.
+
+H.NO:2-36, Gowthami Nagar Colony, Chandanagar, Hyd-500050
+
+B.S.K.Karthik
+
+Phone: (M) India: +91 9177960120
+Alternative Phone: (A) India: +91 9603096410
+Email: bskkarthik@gmail.com
+
+Organization: BITSunami, Chennai
+Duration: July - Dec 2005
+Role: Graduate Trainee
+
+
+Developed GIS based mapping for Tsunami affected villages at Nagapattinam District.
+
+Organization: Hi Tech Print Systems, Vijayawada
+Duration: May - July 2003
+Role: Summer Trainee
+
+
+Study on water absorption, stress-strain parameters of Fly ash bricks.
+
+Projects in Computer Sciences Corporation (CSC)
+Project - #1 Store brand International Contract System (SICS)
+Duration: Jan 2013 – Till Date
+Environment: Java/J2EE
+Technology Details: Core Java
+Project Description:
+SICS is a standard software product suite for reinsurance and international insurance administration,
+developed and supported by CSC. The system is primarily aimed at large, international reinsurance
+companies that operate on a global basis. Customers include some of the world's largest reinsurance and
+insurance companies, such as Swiss Re, Partner Re and Allianz. Also medium sized companies and small
+companies use the products. Large companies usually buy SICS to replace internal systems and
+consolidate data and processes into one, centralized system. Gains come through reduced IT costs,
+improved and standardized processes, improved data quality, better reporting, and access to new
+features, and ability to monitor the business internationally.
+Role:
+ Working on correction/enhancement cases reported by the client.
+ Working on committing the code to SVN (Version control).
+
+Project - #2: Certificate Management System
+Duration: April 2011– Jan 2013
+Environment: Java/J2EE
+Technology Details: JSF (Java Server Faces), Spring Web Flow, Spring MVC, Primefaces, CSS, Jquery.
+Project Description:
+Exceed is one of the largest insurance product developed by CSC supporting number of clients. The
+Certificate Management System is a new module developed in exceed for Federated Insurance. Exceed’s
+Certificates Management System is a new sub-system being developed to extend the current Insurance
+product called Exceed. This product will be used to create, change, expire, reissue, reinstate, issue and
+distribute the proof of insurance called as Certificates.
+
+H.NO:2-36, Gowthami Nagar Colony, Chandanagar, Hyd-500050
+
+B.S.K.Karthik
+
+Phone: (M) India: +91 9177960120
+Alternative Phone: (A) India: +91 9603096410
+Email: bskkarthik@gmail.com
+
+Role:
+ Worked on Screen design and backing beans for each screen design using JSF and Spring
+Web Flow.
+ Worked on Local Persistence (caching), Spring security
+ Worked on the deployment process
+ Worked on committing the code to SVN (Version control).
+
+Project - #3: Mobile Application Development
+
+Duration: Nov 2009 – April 2011
+Environment: Java/ J2EE
+Technology Details: JSF (Java Server Faces), Spring Web Flow, Spring MVC, HTML5, CSS Jquery,
+Primefaces
+Project Description:
+Mobile Application development Provides a web interface for many (host or products) like Exceed,
+Agency link, Cyber life, Series2.It has policy Inquiry, Claims Inquiry, FNOL process, Bill Payment for almost
+all the hosts. It supports iPhone, Blackberry and Playbook
+Role:
+ Prepared Wireframes for FNOL (First Notice of Loss) Auto, JSF start claim screens for Blackberry
+and iPhone Interface.
+ Completed Documentation on Client Search, Client and Agent portfolio (My policies), DCA
+Inquiry, Rebalance Inquiry, Forgot Password, New User Registration, and Submit Claim.
+ Worked on Screen design and Service tier code for Home Owners Inquiry for Exceed and Agency
+Link.
+ Worked on Screen design and Service tier code for Bill Payment for Exceed (Auto and Home
+Owners).
+ Worked on Internationalization and localization
+ Worked on First Notice of Loss (FNOL) for Native application Blackberry Torch using Blackberry
+Webworks and iPhone.
+
+
+Worked on Screen design for patient in your pocket for Blackberry Playbook and Blackberry
+Torch.
+
+Personal Details
+Date of Birth
+Marital Status
+Permanent Address
+Mobile
+Email
+
+3rd Oct, 1983
+Married
+H.No:2-36, Gowthami Nagar Colony, Chandanagar, Hyderabad-500050
+9177960120
+bskkarthik@gmail.com
+
+H.NO:2-36, Gowthami Nagar Colony, Chandanagar, Hyd-500050
+
+

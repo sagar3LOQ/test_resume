@@ -1,0 +1,86 @@
++91-9176233358.
+Chennai, TN
+varmasaurav11046@gmail.com
+
+SAURAV VARMA | Sr. Dev Engineer
+6.5 years | Java | UI | Recommendation Systems | Product Design
+
+OBJECTIVE
+Use of technology to transform knowledge in head to
+knowledge in world and make information available and
+accessible to all.
+ACCOMPLISHMENTS
+Innovator Award, Q2’12, PayPal India,
+Judged winner for innovating a new
+product idea for PayPal India to enable
+micropayments in India using Aadhaar
+Card and penetrate the Indian market.
+SPOT Award, Q2’12, PayPal India
+For contribution towards the product
+design. (Password recovery Mechanism)
+in PayPal.
+
+CAREER HIGHLIGHTS
+ Design & implement recommendations systems
+ Presented a product idea from APAC region in PayPal,
+US
+
+ACADEMICS
+VSS University of Technology (Former University College of
+Engineering, Odisha) (2004 - 2008)
+Bachelor in Technology in Computer Science and Engineering
+Score: 8.65 out of 10
+Government Junior College, Rourkela, Odisha (2001 - 2003)
+Intermediate (Physics, Chemistry, Mathematics and English)
+Score: 73%
+
+SKILLS
+Technical - Core Java, Data Structures,
+Algorithms, Design Patterns, MongoDB,
+Spring MVC, UI Technologies.
+
+WORK EXPERIENCE
+Pramati Technologies, Oct'2013 - Till date
+Client - Baynote Inc - Designed and implemented recommendations
+systems handling more than 2000 transactions per minute.
+
+Technical Interests - Recommender
+systems, Machine Learning, Big Data,
+Hadoop, Product Management
+
+Computer Sciences Corporation, Sep'2011 - Sep'2013
+Client - PayPal India - Implemented various features in Send Money,
+Request Money, Password Recovery and Profile Management software
+handling transactions of more than 20 million everyday.
+
+Leadership and Organizing
+ Driven
+product
+design
+and
+implementation.
+ Lead a team and coordinated projects.
+ Organized Hackathon, PayPal.
+ Placement Coordinator and Cultural
+Secretary in college.
+
+INTERESTS
+ Planning vacation trips
+ Music | Driving | Travelling
+ Cricket | Badminton | Cooking
+ Writing quotes and poems
+
+Amazon India, May'2011 - Sep'2013
+Overlooked and developed the design and implementation of test
+automation framework for kindle synchronization software serving
+more than 2 million active kindle users
+Computer Sciences Corporation, Jun'2008 - May'2011
+Client - PayPal India - Developed consumer facing front end serving
+190 countries supporting 20 languages.
+INDEPENDENT COURSEWORK
+ Introduction to Hadoop Fundamentals – Big Data University
+ Introduction to Machine Learning – Coursera
+ MongoDB with Java – 10gen Education
+ Introduction to Recommender Systems – Coursera
+
+

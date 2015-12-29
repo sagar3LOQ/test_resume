@@ -1,0 +1,241 @@
+Spring: 1 year
+
+Hib: 2 year
+
+web services: not workd
+
+Build tools : ant
+
+DB: sql
+
+Appl server: tomcat/jboss/websphere
+
+
+
+5/9/90days
+
+
+
+CURRICULUM VITAE
+
+
+
+Shruti Goyal				                                       Mobile no: - 08588805109
+
+     B.Tech                                                                     		    E-mail:goyalshruti1010@gmail.com
+
+                                                                                                           
+
+		
+
+Professional Summary
+
+	
+
+3 year Experience in software industry as  Software Engineer.
+
+3 year relevant experience in  JAVA , J2EE ,Struts , Spring , JSP ,SERVLET, SQLITE DATABASE , SQL.
+
+	Have exposure to SQL .
+
+Knowledge of Spring and Hibernate.
+
+Have exposure on agile methodology.
+
+Have experience on SVN.
+
+
+
+Summary of Work experience
+
+
+
+                    
+
+Company Name
+
+Designation
+
+Duration
+
+United Health Group
+
+    Software Engineer
+
+Working from Dec 2013
+
+VISESH INFOTECHNICS Pvt Ltd
+
+    Software Developer
+
+November 2012 to 20 Dec 2013
+
+BazaarDekho Web Pvt Ltd
+
+    Jr. JAVA Programmer
+
+ June 2011 to November 2012
+
+
+
+Technical Expertise
+
+
+
+Languages:                     JAVA , J2EE , OOPS concepts.
+
+
+
+Operating System:          LINUX- Ubuntu 12.04, Windows Xp, Window -7, Vista.
+
+
+
+Skills:                              Java, J2EE, Struts , Spring , tiles,  JDBC , JSP, Servlets , C , SQL , XML , CURL
+
+
+
+RDBMS:                         MYSQL
+
+
+
+Web Server:                   Apache Tomcat
+
+
+
+IDE:                                RAD, Eclipse,  NetBeans
+
+
+
+Project Details
+
+	
+
+EPS (Electronic payment and statement): it is a practical solution to provide the delivery of electronic claims payments and remittance advice information. Main purpose is to resolve the problem of manual processing of claims instead process them electronically via the Automated Clearinghouse (ACH) network to the financial institution.
+
+       Technology: JAVA ,Struts, Spring , JDBC ,JavaScript, JSP , SQL.
+
+	     My Role: To Analyse the requirements, Coding, Unit Testing , Bug Fixing.
+
+	
+
+	 AADHAAR AUTHENTICATION SYSTEM FOR CLIENT VERIFICATION:- Aadhaar  authentication for verifying the customer details using the demographic , biometric details. It is window based application based on java platform.
+
+	     Technology: JAVA , SQL.
+
+	     My Role: Analysis of project , coding &  Testing.
+
+	
+
+CUSTOMER DATA VERIFICATION SYSTEM :- This project is for Business Excellence Team to manage customers details and verify  those details by Business Excellence Team
+
+      Technology: - Java, JSP, Servlet , MYSQL, HIBERNATE.
+
+		      My Role: Involved in Testing and Bug Fixing.
+
+			               Involved with the coding and implementation of the modules used in the portal.
+
+		                    Involved in code reviewing and bug fixing of all other team members.
+
+	
+
+	Ecommerce website:- It is an ecommerce application which promotes their business benefits. 
+
+	         Advertisements on related portals, Websites & Blogs in order to maintain traffic through the
+
+	            Website.
+
+	     Technology:  JSP , SERVLET , JDBC.  
+
+	     My Role:  Involved in coding.
+
+	                               Involved in Bug Fixing.
+
+	                 Involved in code reviewing and bug fixing of all other team members.
+
+	  
+
+Education 
+
+
+
+Degree
+
+Institute
+
+Year
+
+%of Marks
+
+           B.Tech(EI)
+
+B.M.A.S Engineering college, Agra
+
+          2007-2011
+
+71.7%
+
+           XII std.
+
+   Kids Corner School, Firozabad
+
+2006-2007
+
+68.4%
+
+           X std.
+
+   M.G.M School, Firozabad
+
+2004-2005
+
+60.6%
+
+
+
+ Activities and Achievement’s 
+
+   
+
+Actively Participated in office extracurricular activities.
+
+	Participated in blood donation camps.
+
+	Stood secretary in branch fest “falcon” held at B.M.A.S engineering college.
+
+	Have participated in the “decoration” in the “eureka” of my college fest
+
+ Strength
+
+   
+
+Self-Motivator, Self-Starter and team player.
+
+Willing to learn new technologies.
+
+Positive Attitude 
+
+Dynamic and always ready to accept challenges.
+
+
+
+
+
+ Personal Details
+
+   
+
+   Father’s Name:		            Mr. Arvind Goyal
+
+   Date of Birth:		            10 October, 1989
+
+   Sex:			            Female		
+
+   Marital Status:		            Single	
+
+   Address:		            F-16, sec 56,
+
+                                                       Noida-201301 
+
+                                                         U.P
+
+	 					(Shruti Goyal)

@@ -1,0 +1,435 @@
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate                                             -  2.5year                                               
+
+Spring                                                    - 3.5 Years                                               
+
+Web Services                                       -  1.5 years                                                
+
+Core Java                                              -  5.7years years                
+
+Design Patterns                                   -  5.7 years            
+
+UML design                                          -   2.5 Years
+
+Build Tools (Maven/Ant)                   -    3years maven 
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+Tomcat,j unit
+
+
+
+Code70% , Design: 30%
+
+
+
+Ok to work with start up
+
+
+
+Suneel P								            suneel.psm@gmail.com
+
+Mobile no: +91-9966316536
+
+______________________________________________________________________________________
+
+
+
+SUMMARY
+
+	Having 5+ years of experience in software development life cycle process which includes Analysis, Design, Development, Testing and Implementation. My core areas of skills are design and development using Java 5, JSP, Servlets, Struts, Spring, Web Services, Hibernate and JSF. 
+
+Experience in using Struts, Spring, Hibernate and JSF.
+
+Expertise in J2EE technologies Servlet, JSP.
+
+Experience in developing and deploying REST Web Services.
+
+						Expert in Core Java with strong understanding of OOPS, Collections, Multithreading and Exception handling.
+
+Experience in using Design Patterns like MVC, Front Controller, Business Delegator, Service Locator, Singleton, Data Access Objects (DAO), Data Transfer Object etc. 
+
+Proficient in Front End Technologies: AJAX, JSON, JSTL, JSP, HTML, XML, JavaScript, JQuery and CSS.
+
+Experience in using IDE such as Eclipse.
+
+Extensive experience in application servers Jboss/Weblogic and web server Tomcat.
+
+Ability to learn quickly and apply the emerging tools and technology.
+
+	Has a strong interpersonal skill, which provides the ability to interact with End-Users, Managers, Technical Personnel, etc. Good team player. Skillful in managing time, prioritizing tasks, meeting deadlines and in producing quality work.
+
+	
+
+
+
+PROFESSIONAL EXPERIENCE
+
+Working as Senior Software Engineer in Synopsys India Pvt Ltd, Hyderabad from April’11 to Till Date.
+
+Worked as  Associate Consultant in Polaris Software Lab Ltd., Hyderabad from Oct’10 to April‘11
+
+Worked as Technical Associate in Tech Mahindra Ltd., Bangalore from May’10 to Oct’10.
+
+Worked as Software Engineer in Patni Computer Systems Ltd., Pune from Feb’09 to April’10
+
+
+
+
+
+CERTIFICATIONS
+
+Sun Certified Java Programmer for Java 5.0 (SCJP) 
+
+
+
+
+
+QUALIFICATION
+
+		Bachelor of Technology in Electrical and Electronical Engineer from SVCET affiliated to Jawaharlal Nehru Technological University, Hyderabad, AP, and India.
+
+TECHNICAL COMPETENCIES
+
+
+
+Programming Languages		: 	Java, C
+
+Web Technologies			: 	JSP, Servlets, CSS, HTML, XML
+
+Scripting Languages			: 	Java Script 3.x
+
+Frameworks/ Technologies		: 	Struts 2.0, Tiles and Validator, Spring IOC,
+
+                                              	Spring MVC, Hibernate.                                                                                                                                                                       Database				:  	Oracle, SAP, MySql 5.0.
+
+Design Patterns			: 	Singleton, MVC, Front Controller, DTO, 
+
+DAO,Business Delegator, Session factory
+
+Operating Systems			: 	Windows, Linux
+
+Application and Web Servers	: 	JBoss, WebLogic and Apache Tomcat
+
+SOA Technologies         		: 	Web Services
+
+Testing Tools				: 	Junit, Log4J
+
+
+
+
+
+PROFESSIONAL SUMMARY:
+
+	
+
+	Project		: POI
+
+	Client		: Synopsys, Hyderabad 
+
+	Duration	: February 2013 – till date
+
+	Role		: Developer
+
+
+
+Technology Stack / Tools Used : Java 1.7, J2EE, JSF 2.1, spring 3.0, Tomcat 7.0, Maven, Prime Faces, Log 4j, JUnit, SAP.
+
+
+
+Responsibilities:
+
+Involved in analysis of business requirements and compose them into use cases.
+
+	Designed Web pages using JSF Component Prime Faces.
+
+	Developed Managed bean classes in JSF to handle presentation logic.
+
+	Used JSF Validations and Converters for validating the inputs and data conversions.
+
+	Used SAP JCO Connector to connect to SAP and to get the data.
+
+	Implemented business logic in JSF managed bean Controller class.
+
+	Developed DAO classes for data access. 
+
+	Used Log4j for logging.
+
+	Prepared and executed test cases for unit testing by using JUnit.
+
+_____________________________________________________________________________
+
+
+
+	Project		: WEB CHANNELS
+
+	Client		: Synopsys, Hyderabad 
+
+	Duration	: July, 2012 to April, 2013
+
+	Role		: Developer
+
+
+
+Technology Stack / Tools Used: Java 1.7, J2EE, JSF 2.1, Spring 3.0, Tomcat 7.0, Prime Faces, Log 4j, JUnit, SAP.
+
+
+
+Responsibilities:
+
+		Involved in gathering of requirements and analysis. 
+
+		Designed Web pages using JSF Component Prime Faces.
+
+		Designed and developed the application based on MVC framework.
+
+		Involved in writing client side validations using Java Script, AJAX.
+
+		Used SAP JCO Connector to connect to SAP and to get the data
+
+		Developed JSF Managed bean classes for implementing business logic.
+
+		Wrote DAO classes for getting the data from backend.
+
+		Identify and written Junit test cases for all the modules.
+
+		Implemented Log4j for logging of the application.
+
+______________________________________________________________________________________
+
+		
+
+	Project		: ESS
+
+	Client		: Synopsys, Hyderabad 
+
+	Duration	: January, 2012 to August, 2012
+
+	Role		: Developer
+
+
+
+Technology Stack / Tools Used: Java 1.7, J2EE, JSF 2.1, Spring 3.0, Tomcat 7.0, Prime Faces, Log 4j, JUnit, SAP.
+
+
+
+Responsibilities:
+
+		Involved in gathering of requirements and analysis. 
+
+		Designed Web pages using JSF Component Prime Faces.
+
+		Designed and developed the application based on MVC framework.
+
+		Used JSF Validations and Converters for validating the inputs and data conversions.
+
+		Used SAP JCO Connector to connect to SAP and to get the data.
+
+		Developed JSF Managed bean classes for implementing business logic.
+
+		Wrote DAO classes for getting the data from backend.
+
+		Developed and executed the unit test cases by using JUnit.
+
+		Implemented log4j for logging of the application.
+
+______________________________________________________________________________________
+
+
+
+	
+
+	Project		: SFTS
+
+	Client		: Synopsys, Hyderabad 
+
+	Duration	: September, 2011 to March, 2012
+
+	Role		: Developer
+
+
+
+Technology Stack / Tools Used: Java 1.7, J2EE, JSF 2.1, Spring 3.0, Tomcat 7.0, Prime Faces, Log 4j, JUnit, SAP.
+
+
+
+Responsibilities:
+
+		Designed Web pages using JSF Component Prime Faces.
+
+		Designed and developed the application based on MVC framework.
+
+		Used JSF Validations and Converters for validating the inputs and data conversions.
+
+		Used SAP JCO Connector to connect to SAP and to get the data.
+
+		Developed JSF Managed bean classes for implementing business logic.
+
+		Wrote DAO classes for getting the data from backend.
+
+		Developed and executed the unit test cases by using JUnit
+
+______________________________________________________________________________________
+
+	
+
+	Project		: EST4
+
+	Client		: Synopsys, Hyderabad 
+
+	Duration	: May, 2011 to December, 2011
+
+	Role		: Developer
+
+
+
+Technology Stack / Tools Used: Java 1.6, J2EE, Struts 2.0, Tomcat 6.0, Log 4j, Struts 2.0, JUnit, My SQL 5.0.
+
+
+
+
+
+Responsibilities:
+
+		Gathered requirements for the project and involved in analysis phase.
+
+		Built web-tier components using JSP, Struts Tag Libraries (html, bean, logic etc), JavaScript, Action and Form Beans.
+
+		Involved in writing client side validations using Java Script.
+
+		Developed the application by implementing Struts Framework based on MVC Architecture, simple Java Beans as a Model, and JSP as View and Action Servlet as a Controller.
+
+		Developed the Jsp’s and implementing business logic in Struts Action classes.
+
+		Employed JDBC in persistent service to connect to MySQL and perform database operations.
+
+		Tested code using JUNIT.
+
+______________________________________________________________________________________
+
+	
+
+	
+
+	Project		: CNS (Cargo Network Services) – Bottom Line
+
+	Client		: Citibank, North America 
+
+	Duration	: October, 2010 to April, 2011
+
+	Role		: Developer
+
+
+
+Technology Stack / Tools Used : Java 1.5, J2EE, Struts 1.1, Hibernate 3.0, spring 2.0, SVN, Web Sphere 6.x, SQL Developer, Oracle 9i, PL/SQL, JUnit.
+
+
+
+Description:
+
+This is developed for Citi Bank (e-billing system) for Cargo Network Services (CNS), which is a secure, interactive system for complex business-to-business transactions that allows companies to provide standard technologies to present, adjust, rebill, and pay airway bills.
+
+
+
+Responsibilities:
+
+		Worked on struts and hibernate Framework for the project.
+
+		Designed front end using Struts and JSP.
+
+		Wrote Java script functions for performing client side validations in the entire application.
+
+		Configured struts-config.xml and web.xml and properties file provided by Struts framework.
+
+		Development of DAOs for the project
+
+		Involved in developing POJO classes for data model and created Hibernate XML mapping files between Java objects and database tables.
+
+______________________________________________________________________________________
+
+	
+
+	Project		: SQE – British Telecom (UK)
+
+	Client		: British Telecom (UK)
+
+	Duration	: May,2010 to October, 2010 
+
+	Role		: Developer
+
+
+
+Technology Stack / Tools Used : Java 1.5, J2EE, Struts 1.1, Hibernate, spring 2.0, SVN, Tomcat 6.0, SQL Developer, Oracle 9i, JUnit.
+
+
+
+Description:
+
+SQE will be used by the profiles like Sales User, Bid Managers, Super sales User etc. The PROD SQE fulfils the lead to quote/order scenario of the Lead to Cash (L2C) journey. PROD SQE uses Customer Management LITE (CMLITE) application to manage customers and their sites. PROD SQE users can use these details of customer and sites for placing orders for BT products like MPLS. Once the customer approve the quote details, the sales user will convert the status like "Sales User Approved" and send the email to Bid Manager with all quote details.
+
+
+
+Responsibilities:
+
+Involved in the writing of struts Action class methods.
+
+Involved in DAO Implementation classes.
+
+Developed Form Beans and JSP’s by using core tag libraries and user defined tag libraries.
+
+Involved in the writing of DOJO, Service classes, Struts configuration file.
+
+Involved in writing Hibernate Configuration files.
+
+Involved in coding JavaScript for client side validation.
+
+	
+
+______________________________________________________________________________________
+
+
+
+	Project		: Interconnect
+
+	Client		: Equifax, NJ
+
+	Duration	: March, 2009 to April, 2010
+
+	Role		: Developer
+
+
+
+Technology Stack / Tools Used : Struts 1.1,Java 1.5, JavaScript, Html, Servlets , JSP,  Log4J, SVN, Eclipse 3.2, Orcale9i, Web Sphere 5.x, JUnit 4.4, Maven, Versata, Windows XP.
+
+
+
+Description:
+
+
+
+Equifax is a credit reporting company, which will provide value-added information solutions to businesses and consumers .Equifax offers credit reports and facility for prevention of ID theft using alert system .For Business solutions ,Equifax offers Business to consumers information solution, Business-to-Business solutions, Decision Systems and Direct marketing solutions .When a person applies for a new credit card ,loan, mortgage , lease or a new telephone connection or any similar services ,the institution(bank or service provider )does a credit check to evaluate the risk and after which the institution will decide if applicants(s) is/are eligible for the service applied for.
+
+
+
+Responsibilities:
+
+
+
+	Configured Struts Framework for this application.
+
+	Developed control interface with HTML, JavaScript, CSS ,Java, JSP
+
+	Developed JSP pages for control flow using Struts Tag Libraries.
+
+	Presentation layer was implemented using Versata Tool.
+
+	Used both Struts validation and JavaScript validation depending on requirements.
+
+	Involved in writing of struts Action class methods for implementing business logic. 
+
+	Creation of POJO Beans to build Data Model for the Application
+
+	Tested persistence layer and service layer with transactions using JUnit test cases.

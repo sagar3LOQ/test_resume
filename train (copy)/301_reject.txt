@@ -1,0 +1,220 @@
+                                                           
+
+                               
+
+                        a.      
+Hibernate                           
+                  - 2 years 
+
+b.      Spring                  
+                                 - 2
+years                  
+
+c.       Web
+Services                                
+        - 2  years                        
+                 
+
+d.      Core
+Java                                  
+            -  3.4 years
+
+e.      Design
+Patterns                                
+     -  3.4 years 
+
+f.        UML
+design                                 
+        -  3.4 years
+
+g.       Build Tools (Maven/Ant)                  
+  - 3.4 years(Ant)
+
+h.      Others if any, specify [Application Servers, IDE, Code
+Quality Tools etc.]
+
+                   i.  Weblogic
+server                                 
+    2 years
+
+                  j.
+eclipse                                �
+�                   3.4 years
+
+Name: Mallesh
+
+Mobile No: +91-09860552448
+
+E-mail id:malleshv2java@gmail.com
+
+ 
+
+Professional Summary
+
+Having 3+ years of experience in software development of various
+commercial applications using Java/J2EE
+
+Have working knowledge in Java,  Servlets, JSP, JDBC,Spring, Struts and
+J2EE applications .
+
+Good conceptual understanding and experience of developing applications
+with Spring framework.
+
+Experience in using IDE such as Eclipse.
+
+Having good working experience on spring framework.
+
+Skillful with dedication to work independently as well as a team member
+to solve the end user issues with 
+
+             my analytical and technical knowledge
+
+Keen to handle challenging role in the Software Industry.
+
+Academics:
+
+Master of Science: M.sc (M.P.Cs) from AVPG College , affiliated to
+Osmania University , Hyderabad.
+
+IT – Experience Summary: 
+
+Currently working as a Senior Software Engineer for SymphonyTeleca ,
+Pune from Dec-2012.
+
+Worked as a Software Engineer for L&T infotech , Pune from Feb-2012 to
+Sep 2012.
+
+ worked as a Associate Consultant for Polaris, Pune from June-2011 to
+Feb-2012.
+
+Technical Skills:	                          
+
+Primary Skills                       : Core JAVA, Servlets, JSP, JDBC, 
+
+Frameworks	                       : Spring framework, Struts 1.x.
+
+Web Technologies	           :  HTML, Java Script,
+
+ORM Tool                                : Hibernate 3.0                 
+                         
+
+Web Servers	                         : Tomcat5.5
+
+Application Servers                 : weblogic 11g.
+
+IDE’s			            : Eclipse, 
+
+Database		            : Oracle10G,Sql.
+
+Operating Systems	           :  Windows 2000, Windows XP     
+
+PROJECT#3
+
+Description:   
+
+Broadband is a Test and Diagnostic BTW tool to diagnose broadband
+faults.  
+
+Mainly used by CP agents, and it is a product provided by BT for
+domestic and international (Specific countries) customer.It helps to
+connect customer’s various locations with Ethernet.
+
+It performs test and diagnostic of any network fault reported by the
+customer by interacting with various upstream and downstream components.
+
+This system includes various tests on demand for new customer or faults
+detection tests by existing one.
+
+There are different workflows and executions held based on the type of
+requests received from upstream components.
+
+With help of downstream components data the diagnosis is achieved and
+the respective reply is then passed on to the upstream 
+
+Key Responsibilities:
+
+Worked on Development for GTCJ  BB in restricted timelines.
+
+Analyzing issues in IVVT and production and fixing them ASAP.
+
+Impact Analysis of the new requirements on the application.
+
+As a team member involved in coding,
+
+Configured spring bean files as per the requirement.
+
+Used Spring Jdbc Template to interact with the Database 
+
+PROJECT#2
+
+Project Description:
+
+ Client Agreement And Registration (CAR) is one of the applications
+within the G-20 suite. It helps in creation and renewals of Agreements
+for Marsh. It also helps in generating renewals and Amendments for Marsh
+Clients. The data from CAR is used for Sales Forecasting.
+
+Key Responsibilities:
+
+As a developer writing the servlets and  jsps .
+
+Involved in developing Form Beans and Action classes.
+
+Configured Struts Configuration file as per the requirement.  
+
+Used Spring Jdbc Template to interact with the Database 
+
+PROJECT#1
+
+Description: Royal Force Alliance is one of the reputed insurance
+companies in UK. It provides a wide range of insurance policies such as
+Life Insurance, Fire Insurance, Motor Vehicle Insurance, Accidental and
+healthcare Insurance etc. The main modules being contained in this
+project are Production Processing, Production Definition, Customer
+Services, Customer Policy, Cashier, Claims, Billing, Banking, Rep
+Remuneration and Underwriting. Production Processing: This is the entry
+point to start the business processes. PP mainly comprises the UI
+screens used to enter the Policies/UCDs as batches from the sales
+representatives on weekly basis. PP involves the control, keying or
+alternatively scanning of the applications, renewals and reinstatements
+in a week of work by the field reps.
+
+Roles and Responsibilities: 
+
+Analyze the Business Requirements.
+
+Developed Front End screens using JSP.
+
+Involved in developing Form Beans and Action classes.
+
+Configured Struts Configuration file as per the requirement.
+
+Projects Title:                  Broad Band(BB)
+
+Client Name: 	             BritishTelicom.
+
+Technology: 		 Core java,Jsp, Springframework, Oracle10g,
+Weblogic11g,javascript.
+
+Duration:		 From  Dec-2012 to  till date.
+
+Projects Title:                  Client Agreement Registration(CAR)
+
+Client Name: 	               Marsh &  McLennan.
+
+Technology: 		 Core java,
+Servlets,Jsp,Struts1.x,SpringJdbcTemplate,WebSphere6.0,Html,javascript.
+
+Duration:		 From  Feb-2012 to Sep-2012.
+
+Projects Title:   :  Insurance Management System.
+
+Designation     :  Associate Consultant.
+
+Client               : Royal Force Alliance, UK.
+
+Technology     :  Core java, Servlets,Jsp,Struts1.x, Jdbc, Oracle9i.1,
+Tomcat5.5,Html,javascript.
+
+Duration         :	 From  June-2011 to Sep-2012.
+

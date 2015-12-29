@@ -1,0 +1,294 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                 -  2 year
+                                    
+           
+
+Spring                  
+                                 -  4
+Years                                 �
+�             
+
+Web
+Services                                
+       -  4
+years                                 �
+�              
+
+Core
+Java                                  
+            -  4 years                
+
+Design
+Patterns                                
+   -  2 Years            
+
+UML
+design                                 
+         -   4 Years
+
+Build Tools (Maven/Ant)                   -    4
+Year in both   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Apache Tomcat , 
+
+Divya Bharatha    	      	 		            
+
+                                                                 Phone
+No: 9962961468
+
+                                                                  
+Email:  HYPERLINK "mailto:diviyabharatha@gmail.com" 
+diviyabharatha@gmail.com                                                
+                     
+
+Experience and Skills Summary: 
+
+Having 4+ years of experience in analysis, design, implementation and
+testing of Internet based 3-tier and N-tier Object Oriented Applications
+using Java/J2EE. 
+
+Highly Skilled Java Developer.
+
+Involved in Use Case Analysis and UML Modeling,
+
+Experience in j2ee application model to develop web based solution using
+CORE JAVA, Servlets and Jsp, Struts, Spring and Oracle
+
+Worked extensively in Top Link, Hibernate, Web services and JDBC.
+
+Knowledge on Design Patterns.
+
+Having good Hands on experience in using a My Eclipse, RSA 7.5 and RSA 8
+IDE for writing the java code.
+
+Ability to reach the short term customer schedules, in both planning and
+executing the technical activities.
+
+Ability to learn Domain Knowledge, related to the application within a
+short period of time.
+
+ Ability to learn new technologies with minimal time period and Team
+Player with excellent communication skills.
+
+Experience on Rally as well as Agile process.
+
+Awards:
+
+Award from FORD for Best Performer in the BOMF Project for the year 2013
+
+Award from FORD for Best Appreciation in the BOMF WAS8 Migration Project
+for the year 2014
+
+Employment History:
+
+Presently working at Computer Science Cooperation, Chennai as a Software
+Engineer from June 2012 to   till date handling J2EE projects.
+
+Presently worked at 3i InfoTech technologies, Chennai as a Software
+Engineer from June 2010 to May 2012.
+
+Academic Profile:
+
+Bachelor of Electronics and Communication Engineering in 2010 from 
+Mahatma Gandhi Institute Of Technology with an aggregate of 71.75%
+
+Technical Skills:
+
+Operating Systems			: Windows-95/98/XP/2000/7
+
+Application/Web Servers		: Web sphere, Tomcat
+
+Languages				: Java 1.5
+
+J2EE Technologies			: JSP, Servlets, JDBC
+
+RDBMS				: Oracle 10g
+
+Web & Application Servers		: Apache Tomcat, Web Sphere 6.1
+
+IDE Tools		                   : My Eclipse, SQL Developer, Beyond
+Compare, 
+
+                                                 RSA7.5 and RSA8 
+
+Open source tools			: SOAP UI, Log4j, Junit
+
+Frame Works				: Struts, spring, Hibernate and Top link. 
+
+Project Profile: 
+
+Current Project
+
+Project Title : Bill of Material and Foundation (BOMF) 
+
+Client			: Ford Motor Company 
+
+Role			: Team member
+
+Duration		: Jul 12 - till Now
+
+Team Size		: 8
+
+Environments	: Java, J2ee, Top Link, Web Service, AccuRev, Rally, Oracle
+10g, WAS 8 , RSA8 and Windows 7.
+
+Description
+
+Bill of Material Foundation (BOMF) is a Ford global initiative that aims
+to store and consistently represent a vehicle Bill of Material across
+all global divisions of the company. In order to achieve this BOMF has
+been very well integrated to Ford Top hats like AVBOMII (early Bill of
+Materials), ASAP (Advanced Sourcing Automated Process), F@ST (Finance @
+speed of thought) and WERS (Worldwide Engineering Release System) via
+Web Services and excel based front end. BOMF has been recognized as a
+pioneer program at Ford Motor Company with a significant ability to
+directly influence the product development and manufacturing lifecycle. 
+
+Technically to support this initiative BOMF has been built on top of
+established Ford Java, Web service and Persistence frameworks running on
+an Oracle powered Database with a global and standard hosting solution.
+BOMF uses some of the best practices that have been fine-tuned at Ford
+over a period of time viz. agile methodologies, Test Driven Development,
+Structure Requirements, JADF, J2EE and DB design practices. BOMF was one
+of the early adopter programs to standardize and build a web services
+framework (WSCORE), which is now leveraged throughout the Company for
+its consistency, maintainability and ease of use.
+
+Given the global nature of the Program, resources are located across
+worldwide Ford locations including Ford of Australia, Ford of India,
+Ford of Europe and Ford NA. Challenges of concurrent product and process
+development and global nature of resources and requirements are managed
+by a well trained and equipped Global program management team.
+
+Roles and Responsibilities:
+
+Involved in Daily, pre-sprint/post-sprint Scrum(Agile Methodology) 
+meetings
+
+Involved in writing Junit Test Cases.
+
+Involved in writing SOAP UI Test Cases.
+
+Developed web service providers
+
+Developed Controllers, declarative validation and programmatic
+validations.
+
+Developed BOs, ROs for database tables.
+
+Configured top link mappings using work bench
+
+Developed persistence logic and query configurations.
+
+Project Title	:  Banking Management System
+
+Client			: Apex Bank, Karnataka
+
+Role			: Team member
+
+Duration		: Mar 11 – May 12
+
+Team Size		: 8
+
+Environments	: Java, J2ee, spring with Hibernate, Oracle 10g, Tomcat, My
+Eclipse and Windows XP.
+
+       
+
+Description
+
+         Core Banking is the heart of the system, which covers the
+typical functionality of any Financial Institution, needed top support
+its primary operations. This functionality can be adopted according to
+the strategic needs and operational requirements of the Financial
+Institution. Core Banking System; it is a centralized database system
+that covers the entire banking transactions needed.
+
+Roles and Responsibilities:
+
+Understanding the Requirements.
+
+Used Java Beans, service Layer and Dao’s implementing Business logic.
+
+Coordinating with team members.
+
+Development of Screen Shots using JSP’s.
+
+3. Project Title  : Travel and Tourism Router
+
+Client                     : WebEx, USA
+
+Role                       : Team member
+
+Duration                 : Aug 10 to Mar 11
+
+Team Size               : 6
+
+Environments	: Java, J2ee, Spring, Struts 1.2, Hibernate, Oracle 10g,
+Tomcat, My Eclipse and Windows XP.
+
+Description:
+
+ It is online protocol for travel and hotel industry, where travel
+companies 
+
+and hotel owners can freely publish the services they are offering to
+customers, for example travel operator can list out all the bus / air
+routes they are operating, and 
+
+hotel companies can list their rooms and services availability from time
+to time on a 
+
+daily basis. Users who are looking for travel operators / hotel search
+and find out the 
+
+availability of bus / air routes, hotels services provided by different
+service providers.
+
+Roles and Responsibilities:
+
+Understanding the flow specifications and responsible for the
+development of the application which is totally based on MVC
+architecture.
+
+Interaction with the client, gathering requirements and identify The Use
+Cases.
+
+Designed and developed the presentation layer which includes JSP and the
+various classes used in Struts framework.
+
+Coordinating with team members.
+
+Involved in development of model component to implement business logic.
+
+Participate in client side and server side data using the Struts
+Validations.
+
+Involved in writing Service Layer and Dao’s Layer.
+
+                                                                        
+                  
+
+                                         
+
+                                                                        
+                           Signature 
+
+             
+
+                                                                        
+                             (B. Divya) 
+
+	
+
+	 
+
+          	                                                             
+                                                                		
+

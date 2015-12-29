@@ -1,0 +1,665 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                  - 
+2year                                 �
+�              
+
+Spring                  
+                                  - 
+2year                                 �
+�              
+
+Web
+Services                                
+        - 
+1year                                 �
+�           
+
+Core
+Java                                  
+             -  9 year
+
+Design
+Patterns                                
+    -    5 year
+
+UML
+design                                 
+          -    
+
+Build Tools (Maven/Ant)                    -   
+Ant and Maven   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+IBM,Tomcat,RAT,SOAP
+
+Ok to work with start up.
+
+Manoj Nomula
+
+Manojn369@gmail.com
+
++91 9704990369 
+
+SUMMARY		
+
+9 years of extensive experience in OOA, OOD and Web application
+development using Java, J2EE, Struts,Spring,Hibernate and related
+technologies.
+
+Extensive experience in design, development and implementation of Model-
+View – Controller (MVC, MVC2) using Struts   
+
+1.01/1.02/2.0,  Spring Framework 2.5, and ORM (Object-relational
+Mapping) Frameworks.
+
+Extensive experience of architecting, implementing maintaining large
+content driven and ecommerce based applications. 
+
+Extensive knowledge of Front End Technologies : SmartClient,JSP,JQuery,
+HTML,JavaScript, CSS and Scriptaculos.
+
+Experience in Servlets, JSP, JDBC, SAOP - Apache Axis 2,XML, XSL,
+SLT,ANT,Gradle,Log4j, Junit, JNDI, JMS,  SQL, Oracle, SQL Server and
+Unix Shell Scripting.
+
+Hands on experience with several databases like Oracle 8.x/9.x/10g, DB2,
+Ms-Access, MYSQL and SQL Server 7.x/2000/2008.
+
+Experience in Object Oriented Design, analysis and modeling using
+UML/RUP/Rational Rose and Microsoft Visio.
+
+Configuring and monitoring of build like Cruise Control and deploy
+systems like Ant and Maven (1 and 2).
+
+Document major projects for technical and functional design.
+
+Superb trouble-shooting and tenacious problem solving skills.
+
+Fast learner with excellent analytical,interpersonal and communication
+skills.
+
+Team Leader – Leading several projects for more than 3 years on J2EE
+expertise in different phases of SDLC.
+
+HARDWARE & SOFTWARE
+
+Methodologies	: 	Agile, Scrum, Model and Test Driven Development (MDD,
+TDD). 	
+
+Operating Systems	:	Windows 7 Professional, UNIX (AIX), Linux (Ubuntu/
+Redhat), MS-DOS.
+
+IDE Tools	:	Eclipse,Spring Tool Suite,NetBeans and MyEclipse. 
+
+Servers	:	WebLogic Server 9.2/10, WebSphere Server 7, JBoss 5,3.2.x,
+Apache Web and Tomcat.
+
+Reporting Tools	:	MSProject, MS-Excel, MS-PowerPoint, Adobe Report
+writer.
+
+Version Control	:	Apache SVN, CVS,SubVersion.
+
+Testing Tools	:	Junit, Jmock
+
+PROFESSIONAL EXPERIENCE
+
+Java Tech Lead, Aufait Technologies Pvt Ltd,Banglore Sep  ‘13 – Till
+date
+
+Senior Software Engineer, IVY Comptech Pvt Ltd,Hyderabad,Nov  ‘11 –
+Sep  ‘13
+
+Associate Process Manager, Broadridge Financial Solutions, Hyderabad,
+April ‘07 –  Nov  ‘11
+
+Member Technical, ADP Private Limited, Hyderabad, Nov ‘05 – March
+‘07
+
+Client Name             		    AUFAIT TECHNOLOGIES
+
+Location            			Hyderabad		     			     	Date : Sep-2013
+
+PROJECT : ERP Migration  (Mainframe – Java/J2EE)
+
+Project Details
+
+The main objective of this project was to develop an online portal by
+upgrading the existing Mainframe system to Java/J2EE.The Business
+functionalities includes Purchase Requisition to the Vendor, Purchase
+Order, Item Reception to the store, Item Issue to the employees, Invoice
+Verification and Payment Processing.The technical functionalities like
+automatic work flow Management system which includes email / mobile
+notification and approval cycles with high level of security and
+authentication.
+
+Work Environment
+
+JDK 1.6, JSP, JSTL, J2EE , Log4J,CSS Style Sheets, XML,DB2,Smart
+Client,IBM RAD and Websphere
+
+Responsibilities :  
+
+Involed in design and database analysis.
+
+Participating in the team meetings and business requirements gathering
+sessions.
+
+Develop, maintain, troubleshoot, enhance and document components by self
+and others as per the requirements.
+
+Good interpersonal and team working skills. 
+
+Client Name             		IVY COMPTECH PVT LTD
+
+Location            		Hyderabad		     			     		Date : Feb-2012
+
+PROJECT : Casino Framework Integration 
+
+Project Details
+
+Third party Live Dealer product supplied by Evolution Gaming is
+intregated into the PartyGaming Casino products. The Live Dealer product
+allows our players to play in live games with the video streamed to the
+Player’s computer.They use their existing PartyGaming held account to
+play the games.
+
+The Lobby Management Tool (LMT) is a Web based Application tool designed
+to enable individual teams to plug their product specific Web Interface
+functionality into a common web application. It enables ease
+accessibility of data related to production environment and to perform
+operations that help in controlling run time behavior of production
+systems.
+
+HtmlLobby layout is flexible and each layout block renders actual
+metadata provided by backoffice.
+
+GeoLocationService contain APIs required to retrieve the country and
+location mapping to the ip address. This service will internally call
+either MaxMind supplied data source or the  database to retrieve the
+appropriate mappings.
+
+Geo Restriction Framework currently supports to block or unblock
+countries for various products at country level. This document captures
+the details about how this framework will be extended to be able to
+block at state and game level.
+
+Multicurrency support is offered to the players which enables the game
+to be played irrespective of account currency. 
+
+GameLogs is a Web based Application enables the player to keep track of
+the detailed game play.The Main Objective of this is to provide reliable
+and authentic data to the player.
+
+Regulatory Interface Service is use to provide daily and montly game
+summary reports to various vendors.
+
+Work Environment
+
+JDK 1.6, JSP, JSTL, JDBC, J2EE , Log4J 1.2.14, HTML, Java Script,Jquery,
+Servlets, CSS Style Sheets, XML,Apache ANT 1.7.0, Junit, Oracle
+10g,Spring Web MVC 3.0,Spring Framework API 2.5.
+
+Responsibilities :  
+
+Finding a conceptual element in the casino system that starts becoming
+critical / hectic to operate on live.
+
+Participating in the team meetings and business requirements gathering
+sessions.
+
+Involed in design and database analysis. 
+
+Prepare builds for DEV and UAT environments.
+
+Code verification with each developer to make sure that we follow
+standards.
+
+Review the test cases and functional requirement changes periodically
+and enhance accordingly.
+
+Follow up of bugs during QA builds.
+
+Client Name             		Broadridge
+
+Location            		Hyderabad		     			     	    	Date : Jul-2011
+
+Job Title			Associate Process Manager
+
+PROJECT :  Asset Management System (ASM)
+
+Project Details
+
+	The Asset Management System (ASM) is a web based application to
+increase the productivity, efficiency 	and accuracy of 
+
+	the assets being captured online. To provide MIS Reporting in different
+forms to all the stake holders involved, for better decision making and
+tracking purpose of assets purchased for an organization.
+
+Work Environment
+
+JDK 1.4/1.5, Microsoft Visio 2007,  JSP, JSTL, JDBC, J2EE , Log4J
+1.2.14, HTML, Java Script, Servlets, CSS Style Sheets, Websphere
+5.0/6.0, Maven,Apache SVN,Junit,Apache POI 3.0,Oracle 10g , Spring
+Framework API 2.5.
+
+Responsibilities
+
+Utilized Agile methodology to streamline development process with
+iterative development
+
+Leading the development Team and conducting scrum meetings with the
+development team.
+
+Working with the business people to give the right product on time .
+
+Participating in the team meetings and business requirements gathering
+sessions.
+
+Designing the application and distribute the work between the
+developers.
+
+Code verification with each developer to make sure that we follow
+standards.
+
+Review the test cases and functional requirement changes periodically
+and enhance accordingly.
+
+Execute the test cases with in the stipulated time with high precision
+while understanding the business requirement. 
+
+Prepare the database and application for the review cycle.
+
+Prepare builds for DEV and UAT environments.
+
+Creating Tickets for Production releases and prepare workorders for the
+right departments.
+
+Working with the Production Engineers for Production deployments.
+
+Client Name			Broadridge
+
+Location            		Hyderabad		 		     			Date : Jan-2011
+
+PROJECT :  COMPASS
+
+Project Details
+
+COMPASS is a BR India initiative to empower associates to shape their
+career growth. In expanded form it stands for Conceptualize your
+Objectives, Measure your Performance and Add Skills for Success.COMPASS
+helps associates set career development milestones and gives an
+opportunity to work with their managers in tracking their progress on
+these milestones.The COMPASS workflow resembles the Performance
+Management process. As  and when a milestone is reached, the associate
+can setup a meeting with their managers to discuss their
+progress.COMPASS empowers associates to take control of their career and
+accomplish their goals.It describes the features and functionality of
+the COMPASS application for associates to effectively use for planning
+their career. 
+
+Work Environment
+
+JDK 1.5, Struts 2, Microsoft Visio 2007,   JSP, J2EE , Hibernate 3.5,
+Log4J 1.2.16,  HTML, Java Script, Jquery,  CSS Style Sheets,Maven,Apache
+SVN,Apache POI 3.0,  Junit,  Oracle 10g,Spring Application Context.
+
+Responsibilities
+
+Participating in the team meetings and business requirements gathering
+sessions.
+
+Creating Tickets for Production releases and prepare workorders for the
+right departments.
+
+Working with the Production Engineers for Production deployments.
+
+Intimate outage of the application  to the internal teams regarding the
+production deployements.
+
+Working with the middleware team and DBAs regarding the production
+issues and code deployments.
+
+Ensure team achieves the core metrics and maintain their quality
+parameters. Helping the team and shadowing him/her to   
+
+       developing team strategy so that the team works towards achieving
+the Efficiency and Business targets.
+
+Build process management.
+
+Client Name			Broadridge
+
+Location   	         		Hyderabad		 		     			Date : Aug-2010
+
+PROJECT :  Procurement
+
+Project Details
+
+It is a web based application to provide procurement team to track the
+details like raising Query Request, Purchase Request, and Purchase Order
+and to get the approval from the higher officials for the purchasing
+goods and also transparency is provided to the requestor about the
+status of their request
+
+Work Environment
+
+JDK 1.5, Struts 2, Microsoft Visio 2007,   JSP, J2EE , Log4J 1.2.16, 
+HTML, Java Script, Jquery, CSS Style Sheets,Websphere 7.0, Maven,Apache
+SVN,Apache POI 3.0,  Junit, Oracle 10g.
+
+Responsibilities
+
+Designing the application and distribute the work between the
+developers.
+
+Working with the middleware team and DBAs regarding the production
+issues and code deployments.
+
+Prepare the weekly schedule tasks and adherence reports
+
+WorkFlow System Driven through databases.
+
+Client Name			Broadridge - US
+
+Location            		Hyderbad	    			     			Date Jan-2010
+
+Job Title			Senior Member Technical
+
+PROJECT :  MOSS 2007 and MOSS 2010
+
+Project Details
+
+SharePoint is a browser-based platform from Microsoft that allows for
+easier, timely and effective documents management. Often used to
+facilitate collaboration, provide content management features, implement
+business processes, and supply access to essential information by
+developing a portal for clients in New York Team.
+
+Work Environment
+
+ASP.Net, C Sharp, EXT (Javascript AJAX Library), HTML, Microsoft Dot Net
+Framework, SQL Server 2008,  JQuery and Windows Communications
+Foundation (WCF).
+
+Responsibilities
+
+Distribute the work to the Dot Net developers.
+
+Setup Scrum meetings with the team and resolve developers issues
+quickly.
+
+Setup knowledge transfer meetings within the team.
+
+Planning the tasks for each release schedule.
+
+Send requests to the build engineer to promote code to Production.
+
+Installation and setup of Moss 2007 server Using VMware
+
+Ensure dependencies list for migration of 2010
+
+Web Parts Development and Deployment.
+
+Designing layout for portal and access permissions to client.
+
+Configure search facet. 
+
+Co-ordinate training on Microsoft SharePoint 2010
+
+Client Name			Broadridge
+
+Location            		Hyderabad		 		     			Date : May-2009
+
+PROJECT :  Recognition for Associates Contribution and Excellence 
+(RACE)
+
+Project Details
+
+RACE is an online shopping portal where associates can purchase and
+order products. Associates will be awarded points as and when the award
+receives for the excellent performance from the respective manager. In
+this portal associates can redeem the points and block the products
+based on the available points.
+
+Work Environment
+
+JDK 1.5, Eclipse 3.5.0, Microsoft Visio 2003,  JSP, JSTL,  JDBC, J2EE ,
+Log4J 1.2.14, HTML, Java Script, Servlets, CSS Style Sheets, Struts
+1.2.6, Apache Tomcat, Apache ANT 1.7.0,  Apache POI 3.0, Weblogic 9.2
+and  Oracle 10gi.
+
+Responsibilities
+
+Analysis, design and coding of Use Cases, Sequences and Class diagrams.
+
+Involves all team members contribute ideas and support one another when
+making changes.
+
+Designed and delivered the project well before the deadline with minimal
+defects.
+
+Helped the team to make them understand the database design and workflow
+structure.
+
+Participating in the team meetings and business requirements gathering
+sessions.
+
+Designing the application and distribute the work between the
+developers.
+
+Code verification with each developer to make sure that we follow
+standards.
+
+Prepare builds for DEV and UAT environments.
+
+Client Name			Broadridge
+
+Location            		Hyderabad		 		     			Date : Nov-2008
+
+ PROJECT :  Online Submission of Appraisals (OSP)
+
+Project Details
+
+The Online Submission of Appraisals System for organization is a web
+based Application to submit the online appraisals to the managers. The
+project consists of Reviews of Appraise and Discussions comments. The
+main objective of these projects involves rating system which enables
+the HR to process the Appraisal easily.
+
+Work Environment
+
+JDK 1.5, Eclipse 3.5.0, Microsoft Visio 2003,  JSP, JSTL,  JDBC, J2EE ,
+Log4J 1.2.14, HTML, Java Script, Servlets, CSS Style Sheets, Struts
+1.2.6, Apache Tomcat, Apache ANT 1.7.0, CVS, Apache POI 3.0, Weblogic
+9.2 and  Oracle 10gi.
+
+Client Name			Broadridge
+
+Location            		Hyderabad		 		     			Date : Apr-2008
+
+PROJECT :  India Partnership Engagement Survey (IPES)
+
+Project Details
+
+India Partnership Engagement Survey (IPES)  is a web based application
+of online surveys.It is well structured and organized to support any
+type of survery.User can customize the survey in different forms.
+
+Work Environment
+
+JDK 1.4.2_13, Eclipse 3.2.0, Microsoft Visio 2003,  JSP, JSTL,  JDBC,
+J2EE , Log4J 1.2.14, HTML, Java Script, Servlets, CSS Style Sheets, XML
+, XSLT, Struts 1.2.4, Tiles, JUnit 3.8.1, Apache ANT 1.6.5, CVS, Apache
+POI 3.0 and Oracle 10g
+
+Client Name			Broadridge
+
+Location  	          		Hyderabad		 		     			Date : Dec-2007
+
+PROJECT :  Telephone Usage Tracking System
+
+Project Details
+
+       Telephone Usage Tracking System is a web based solution to
+highlight the Outgoing calls made from their extensions and the 
+features of submitting the details to finance. The finance team will be
+able to deduct the amount of submitted personal call 	charges from their
+salaries.The project consists of Outgoing call usage report, Max
+telephone usage report.
+
+       The main objective of this is to get reliable and authentic data
+available at any time to finance department and 	
+
+       also for the mangers so that they keep track of the associate
+work.
+
+Work Environment
+
+JDK 1.4.2_13, Eclipse 3.2.0, Microsoft Visio 2003,  JSP, JSTL,  JDBC,
+J2EE , Log4J 1.2.14, HTML, Java Script, Servlets, CSS Style Sheets, XML
+, XSLT, Struts 1.2.4, Tiles, JUnit 3.8.1, Apache ANT 1.6.5, CVS, Apache
+POI 3.0 and Oracle 10g
+
+Client Name			Broadridge
+
+Location            		Hyderabad		 		     			Date :Apr - 2007
+
+PROJECT :  Resource Tracking System (RTS)
+
+Project Details
+
+Enables the Administrator of the organization keeping track of the
+employee details, Branch details, Designation details of the employee,
+Transfer details, Department details, Leave Structure, Payment structure
+etc. This project also maintains the reports to verify all the details
+of the employees present in the organization including the resigned
+employees.
+
+Work Environment
+
+JDK 6, Struts 1.6,Apache Tomcat,Eclipse 3.2.0, Microsoft Visio 2003, 
+JSP, JSTL,  J2EE , Log4J 1.2.14, HTML, Java Script, CSS,Ajax, CVS,
+Weblogic 10 and Oracle.
+
+Client Name			ADP Private Limited
+
+Location            		Hyderabad		 		     			Date : Oct- 2006
+
+PROJECT :  Transport Online System (TOS)
+
+Project Details
+
+This system enables the users to book, modify, and cancel transport
+requests through online. This system is very helpful for transport team
+to book ad hoc and regular transport requests On Behalf of at any point
+of time. This system will automatically prepares the ROTA based on the
+users addresses. This System enables the Transport Team to keep track of
+the employee transport requests and provides MIS reports to the higher
+management. 
+
+Work Environment
+
+JDK 6, Struts 1.6,Apache Tomcat,Eclipse 3.2.0, Microsoft Visio 2003, 
+JSP, JSTL,  J2EE , Log4J 1.2.14, HTML, Java Script, CSS,Ajax, CVS,
+Weblogic 10 and Oracle.
+
+Client Name			ADP Private Limited
+
+Location            		Hyderabad		 		     			Date : Apr- 2006
+
+PROJECT :  Travel 
+
+Project Details
+
+This application facilitates smooth transition of some of the critical
+manual process steps into the automated system. The application
+facilitates initiation of travel request,process and approval for
+domestic and international travel by air. This application facilitates
+capturing the travel details like origination place, destination place,
+warm clothing allowances, passport details, visa details, cab bookings,
+accommodation, insurance, cross charging details, different types of
+advances paid to the traveler etc... This application generates an
+output with all the travel details in a printable format (will be given
+to the traveler) after the travel request is completely processed. This
+application also facilitates to create itineraries for approved
+requests. For normal flow it will go to manager’s queue for approval
+once user creates a request. Then after manager approval, it will go
+travel desk. Then once travel desk have done it job, it will go to
+Travel admin queue and once admin have processed the request it will go
+to finance. Then finance can update all details and close the request.
+
+Work Environment
+
+JDK 6, Struts 1.6,Apache Tomcat,Eclipse 3.2.0, Microsoft Visio 2003, 
+JSP, JSTL,  J2EE , Log4J 1.2.14, HTML, Java Script, CSS,Ajax, CVS,
+Weblogic 10 and Oracle.
+
+Client Name			ADP Private Limited
+
+Location 	           	Hyderabad		 		     			Date : Nov-2005
+
+PROJECT :  Compensation
+
+Project Details
+
+Compensation Module enables the HR Team to keep track of the employee
+shift details and Flexible Benefits Declarations submitted by the user.
+
+The main objective of this is to get reliable and authentic data
+available at any time to HR department and helps for including the shift
+allowance amount and associate Flexible Benefits Declarations amount in
+the associate payroll.
+
+The Application shows the previous submitted Flexible Benefits
+Declarations and so that it will be easy for an associate for submitting
+the current Flexible Benefits Declarations.
+
+Work Environment
+
+JDK 6, Struts 1.6,Apache Tomcat,Eclipse 3.2.0, Microsoft Visio 2003, 
+JSP, JSTL,  J2EE , Log4J 1.2.14, HTML, Java Script, CSS,Ajax, CVS,
+Weblogic 10 and Oracle.
+
+Gathered Business Requirements from the business people.
+
+Prepared prototype as per the business requirements.
+
+Coding done within the timeframe as per the standards of Edwardjones and
+using software development methodologies like AGILE and WATERFALL.
+
+Designed  application as per the requirements.
+
+EDUCATION
+
+Bachelors Degree from JNT University, Hyderabad, India
+
+Special Diploma in Electronics with specialization in Electronics &
+Communication Engineering (2002-2005) from Government Institute of
+Electronics (GIOE), Secunderabad.
+
+Trainings: 
+
+Quality Management – SQA Process Auditor              
+
+Time Management & Six Thinking Hats
+
+Awards: 
+
+Value Addition Information Office awards :
+
+Automation of Appraisal Process
+
+Automation of Lucene Search
+
+Migration of Microsoft SharePoint 2010
+
+  PAGE  1  Of   NUMPAGES  7 
+
+  PAGE  1  of   NUMPAGES  10 
+

@@ -1,0 +1,253 @@
+RESUME
+
+DINESH KUMAR.V
+
+S/o Mr. Veeramalai P (late)
+
+#9, Good shed road,
+
+Mudhaliyar chatram,
+
+Trichy - 620 001.
+
+Mobile No    :   +91-9944556155
+
+E-Mail ID     :   dsdinesh555@yahoo.com 
+
+OBJECTIVE :
+
+                      To work in competitive and challenging environment
+and hence to prove my credibility in the field, where I can apply my
+analytical and technical skills to attain an optimum perfection for the
+development of my career and company.
+
+EXPERIENCES :Currently  working with TCS from Last Week,now looking for
+change .
+
+ORGANIZATION	DESIGNATION	DURATION
+
+Amazon.com	Tech Support Analyst	MAY 2014 to Till Date
+
+HCL Technologies	Software Engineer	JUN 2011 to MAY 2014
+
+
+
+TECHNICAL SKILLS  :
+
+ 
+
+LANGUAGES	C, C++, Java
+
+WEB TECHNOLOGIES	J2EE, HTML, JSP, Servlet, JavaScript, JQuery, Ajax
+
+DATABASES	Oracle, MySQL
+
+OPERATING SYSTEMS	MS Windows, Unix, Linux
+
+FRAMEWORK	Selenium, Struts 2.0 with Hibernate
+
+TOOLS	Eclipse, SQL Developer, SVN, WinSCP
+
+DOMAIN	Banking, E-Commerce
+
+
+
+EXPERIENCE AT AMAZON :
+
+Project Name	CMT  - Competitive Monitoring Tool
+
+Role	Catalog Lead
+
+
+
+Description	Map Amazon's products with competitor and to compare price
+of both. This process helps Amazon to be more competitive with other
+competitors by providing price suggestions.
+
+Technical Environment	JAVA, Linux, SQL
+
+
+
+Responsibilities	Leading small team of five members for giving price
+suggestions and to keep up benchmarking standards.
+
+Developing tools & configuration to automate the mapping process.
+
+Developing applications internally to reduce the manual effort of the
+team.
+
+Debugging, Code fix and Deployment of configurations to the
+production/test environment.
+
+Supporting and modifying internal end user tools/applications.
+
+Ownership of one or more operational tools or components.
+
+Handling business tickets responsibly and provide root cause to avoid
+the same in future.
+
+
+
+Achievements	Received an Automation Award for developing tool which used
+for tracking productivity of the team.
+
+Developed below tools which helped the team and process for better
+performance.
+
+Deep Crawler - Used for scraping information from competitor sites even
+navigating through pages.
+
+GetChildProducts - This is to retrieve all child products with its
+information from competitor.
+
+NoLoginTool - Used for scraping data from competitor without signing in
+to their site.
+
+Redirection Tool - Simple tool helps to get redirected URLs of given
+URLs.
+
+Splitter - Used to split large files of any format into small based on
+given input numbers.
+
+Written Macros for tasks like preparing input feed to automation,
+Consolidating the output file and generating summary, Converting file
+format for final upload and even more small tasks.
+
+
+
+EXPERIENCE AT HCL TECHNOLOGIES :
+
+Project Name	VISA
+
+Role	Developer – Java
+
+Description	Visa Processing Service (VPS) – Maintain the complete life
+cycle of prepaid cards.
+
+Technical Environment	JAVA, PL/SQL, UNIX
+
+
+
+Responsibilities	Handling the Production Problem Requests-PPR, incidents
+& tasks, resolving it on time or providing temporary workarounds.
+
+Enhancements & automations are suggested and implemented.
+
+Ensure all PPRs, Tasks & Incident met SLA.
+
+Code Fix & Deployment.
+
+
+
+Project Name	CITI BANK
+
+Role	Developer – Java
+
+Description	Global Billing System is maintained through Revenue
+Management Billing (RMB)  product from oracle.
+
+Technical Environment	JAVA, ORACLE, UNIX
+
+
+
+Responsibilities	Coordinating with onsite team to support Global Billing
+System by using RMB product.
+
+To provide the better performance of  batch jobs.
+
+Ensure all tasks met SLA.
+
+Lead the offshore team to support and code level fix.
+
+L2 & L3 support and maintenance.
+
+Providing On-call support for high priority issues.
+
+Achievements	Successful completion of OUT Environment
+
+
+
+Project Name	UBS
+
+Role	Developer – Java
+
+Description	In Development of Applications
+
+Technical Environment	JAVA, J2EE, ORACLE
+
+
+
+Responsibilities	Complete all the given task on time.
+
+Attended domain trainings.
+
+Ensure all tasks met SLA.
+
+Developing the web application by using struts2.0
+
+Handling small team for developing application.
+
+Also developed an Online Test Application on my own to conduct small
+tests and evaluate our team periodically.
+
+Achievements	Developed an Online Test Application
+
+
+
+EDUCATIONAL QUALIFICATION  :
+
+COURSE	NAME OF THE INSTITUTION	YEAR OF PASSING	PERCENTAGE
+
+
+
+MCA	Bharathidasan University, 
+
+Trichy- 24.	
+
+2011-2013	
+
+72.3%
+
+
+
+BCA	St. Joseph’s College,Trichy-2.	
+
+2008-2011	
+
+78%
+
+
+
+HSC	R.C. Higher Secondary School, Trichy-1.	
+
+2007-2008	
+
+81.5%
+
+
+
+SSLC	R.C. Higher Secondary School, Trichy-1.	
+
+2005-2006	
+
+83.6%
+
+                	
+
+ACHIEVEMENTS :
+
+Received an “AFM Award” at Amazon for excellence in performance.
+
+Awarded an “Outstanding Performer” at HCL appraisals.
+
+Completed Internal Java Certification.
+
+Got 3 times 1st prize and once 2nd Prize in Quiz at State level
+inter-college competition.
+
+Place : Trichy-1.                                             				    
+Faithfully yours,
+
+Date  :                                                         			 	  (
+Dinesh Kumar.V )
+

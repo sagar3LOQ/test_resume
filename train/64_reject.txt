@@ -1,0 +1,339 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate        ADS technology   
+                                  -  3
+year 
+
+Spring                  
+                                  -  3
+year & 
+
+Web
+Services                                
+        -  using
+                                    
+           
+
+Core
+Java                                  
+             -  5.4 year
+
+Design
+Patterns                                
+    -   
+
+UML
+design                                 
+          -    
+
+Build Tools (Maven/Ant)                    -   
+Ant   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+eblogic
+
+12/15/30days
+
+DB:oraclel
+
+7 people    
+
+Available on tuesday                      
+
+Name: BHARGAV T. SONI
+
+Phone: 9985647236-(C) 
+
+Email: akshar2004@yahoo.com
+
+Objective
+
+
+
+To leverage 7 years of professional experience with good opportunity.
+
+Experience Insight
+
+
+
+Ability to work on multiple projects.
+
+Ability to prepare design documents based on project requirement.
+
+Work Experience with small to large scale project suites.
+
+Excellent communication, problem solving skill set as a good team
+player.
+
+Work experience with foreign teams.
+
+Onsite training and work experience.
+
+Technical Skills
+
+
+
+Operating Systems	            :	Linux, Windows, SunOS.                  
+               
+
+Languages (Hands On)         :         Java, PHP, PERL, JavaScript,
+HTML, CSS
+
+ 
+
+Known Frameworks               :          ADF, JSF, Hibernate, Spring,
+GWT
+
+Professional and Educational Qualifications
+
+
+
+S.S.C Marks (Year 2000)    : 86%. 
+
+H.S.C Marks (Year 2002)   : 77%.
+
+Aggregate of Engineering  : 70.20% [Distinction, Gujarat University]
+
+Sun Certified Java Programmer (SCJP) Exam in November, 2009
+
+Current Employer   : Oracle India PVT Ltd.      [May 2010 – till date]
+
+Previous Employer : Synopsys India PVT Ltd.  [Jun 2006 – May 2010]
+
+Projects at Oracle India PVT Ltd : 
+
+Document Factory
+
+Document Factory is a system to generate documents based on defined
+templates. It can generate document in batch mode or immediate. It is
+multithreaded application and resembles assembly line concept to
+generate document.
+
+Language : Java 
+
+Framework : JMS, JMX.
+
+Database : Oracle
+
+Team Members : 4
+
+Role : Team Lead /Developer.
+
+Documaker Dashboard
+
+Document Factory Dashboard is web based application to show statistics
+of each stage of document generation. It keeps track of number of jobs
+to generate document with its status of complete,pending, or error . it
+has strong searching capability to search from chunk of jobs in last
+year.
+
+Langauge : java
+
+Database : Oracle
+
+Framework : ADF [Application Development Framework ]
+
+Team Member : 4
+
+Role : Team Lead / Developer .
+
+Documaker Interactive
+
+Documaker Interactive is a web based application which is intended to
+generate on the fly document based on user request. It does have
+capabilities to communicate with other system through workflow. It does
+have functionality of correspondence after document is generated.
+
+Language : Java, BPEL
+
+Database : Oracle
+
+Framework : ADF
+
+Team Member : 4
+
+Role: Team Lead / Developer
+
+Component Database Application
+
+This application keeps record of all the components that are needed to
+build a installer of a product .component is consist of files which
+needs to be included in the build of installer . Through this interface
+user can easily do all operations related to components and files.
+Administrator and normal user roles are assigned as per the need.
+
+Langauge: PHP and DOJO
+
+Database: MySQL
+
+Team Member:1
+
+Role: Developer and Designer.	
+
+Projects at Synopsys India PVT Ltd :
+
+Compute Farm Health Monitoring (CFHM)
+
+This project is intended to monitor the LSF farm. It reports all the
+statistics for monitoring a farm. Different monitoring field’s report
+generation, Custom Report generation and Custom web view are some of the
+unique feature available in the CFHM.
+
+Language: JAVA, C, PERL, PHP.
+
+Database: MySQL.
+
+Framework: GWT (Google Web Toolkit).
+
+Charting Tool: RRD.
+
+Team Members: 3
+
+Role: System Designer, Developer
+
+Priority Based Allocation (PBA)
+
+This system is useful to make the job allocation in the LSF farm on
+specified priorities. Priority allocation, job requeue, Additional slot
+allocation as per specified requirements that are peculiar features of
+the system.
+
+Language: C
+
+Database: MySQL.
+
+Team Members: 2
+
+Role: System Designer, Developer.
+
+MICE Upgrade
+
+Monitoring Infrastructure and Compute Environment project intended to
+view all infrastructure health and performance statistics. It provides
+one interface through which all services’ information available for
+whole organization.
+
+Language: JAVA.
+
+Framework: JSF, Spring, Hibernate.
+
+Database: Oracle.
+
+Charting Tool: Fusion Charts.
+
+Role: System Designer, Developer.
+
+License Server Monitoring:
+
+This project is developed to monitor each and every activity done on
+license server.
+
+Alerts, Reports, Charts are generated to monitor the license server.
+Project helps out to diagnose the critical condition of License Server.
+
+Language: PHP, PERL, AJAX.
+
+Database: MySQL.
+
+Team Member: 4
+
+Role: System Designer, Developer.
+
+On Call System:
+
+This System help to schedule employees who are suppose to be on the call
+duty. Graphical representation of the scheduled call is the core of the
+system. Through interface users and groups are scheduled, added and
+deleted.
+
+Language: PHP, AJAX.
+
+Database: MySQL.
+
+Team Member: 1
+
+Role:  Developer.
+
+Business Rules Monitoring [BRM]:
+
+This System is intended to notify users in compute farm for their
+excessive usage of CPU/Memory. Worked on one of the module of BRM to
+enhance capability such that specified user would be notified for
+specified parameter with flexible configuration file parameters.
+
+Language: PERL, 
+
+Database: Flat File.
+
+Team Member: 3
+
+Role: Developer.
+
+Weekly Report Generator:
+
+This Project provides the way by which employee can generate the weekly
+activity reports.  Employee has to just provide the information by
+category wise and it will generate the report in html format for
+specified week.
+
+Language: PHP.
+
+Database: MySQL.
+
+Team Member: 1
+
+Role: Developer.
+
+Personal Information
+
+
+
+Date of Birth			: 20th January, 1985.
+
+Sex				: Male.
+
+Marital Status			: Married.
+
+Nationality			: Indian.
+
+Spoken Languages		: English, Hindi, and Gujarati.
+
+Visa Status                            : B1 Visa Valid up to 2020.
+
+Project Profile (Academic Projects)
+
+
+
+Project Name		 : Web based System administration and System monitoring
+(8th semester)
+
+Company Name          :  Physical Research Laboratry (PRL).
+
+Year		             :  Eight Semester
+
+Platform/Tools           :  Linux, Perl, PHP, Mysql, Apache
+
+Description	: This project maintains the important files of each system
+to server. Daily all the important files are transferred to server and
+generate graphs by extracting data from file. 			
+
+System Administrator can maintain availability and reach ability of any
+system from the server as well as can run several commands from server
+to remote machine shell from web to get data about machine.
+
+System monitoring is concerned to manage the user/group, Backup etc
+features of a system.
+
+			
+
+Bhargav T.Soni
+
+		                                                                      
+                                  	                                     
+   
+
+  PAGE  1 
+

@@ -1,0 +1,241 @@
+Hibernate                           
+                 -  2
+year                                  
+             
+
+Spring                  
+                                 - 2
+Years                                 �
+�             
+
+Web
+Services                                
+       -  8
+months                                 
+               
+
+Core
+Java                                  
+            -  2.9year 
+
+Design
+Patterns                                
+   -   
+
+UML
+design                                 
+         -   
+
+Build Tools (Maven/Ant)                   -    
+Maven 
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.] 
+
+eclipse,sonar
+
+Code : 70%
+
+Ready to work for startup
+
+Hema.B                                                              
+E-Mail:   HYPERLINK "mailto:hemamalleswari.battu@gmail.com" 
+hemamalleswari.battu@gmail.com 
+
+                                                                        
+                      Mobile No:+918106223792
+
+Objective:
+
+Looking forward for an opportunity in a challenging environment, where I
+can utilize my experience and skills in contributing effectively to the
+success of the organization and also for the improvement of my personal
+skills.
+
+Professional Summary:
+
+      Working as a  Software Developer in Arkin Software Technologies.
+
+2.9  years of Experience in developing Web based, Client/Server
+Applications using Java and J2EE Technologies.
+
+Proficient in developing Web-based applications using Servlets,JSP,
+Strusts, Spring Framework(Core), Hibernate.
+
+Experience in implementing Hibernate ORM tool.
+
+Knowledge on RESTful based web services.
+
+Excellent working knowledge in Tomcat server, Oracle10g, Apache HTTP
+server and Eclipse.
+
+Absolutely capable of working in a fast paced, dynamic, team-oriented
+environment.
+
+Strong ability to learn, absorb and use new technologies quickly.
+
+Technical Skills:                                                       
+                                                                        
+                 
+
+Programming Languages		:  	JAVA 1.7
+
+J2EE Technologies			:  	JDBC,Servlets, JSP. 
+
+Web technologies			:  	HTML, JavaScript
+
+Web Services				:	Restful based webservices
+
+Data base				:  	Oracle10g. 
+
+Frameworks				:  	Struts, Spring Core                                   
+                                                                 
+
+ORM Tools                              		:  	Hibernate.
+
+Web/Application Servers		: 	Tomcat & Jboss.
+
+IDE Tools			:  	Eclipse,MyEclipse.
+
+Configuration Management		: 	Tortoise SVN
+
+Defect tracking Tool			: 	Mantis
+
+Professional Experience:
+
+Working as a Software engineer in Arkin Software Technologies, Hyderabad
+from 20th December 2011 to till date.
+
+Education Qualification:
+
+Master of Computer Applications from Andhra University, Visakapatnam
+(2007-2010) with an aggregate of 70%.
+
+Bachelor Science from Andhra University with an aggregate of 72%.
+
+Intermediate from Board of Intermediate with an aggregate 84%.
+
+S.S.C from Board of Secondary Education with an aggregate 70%.
+
+Projects Profiles: 
+
+Project 1: 
+
+Project Name	Cevaldom
+
+Client From	Peru
+
+Team Size	8
+
+Environment		Java,Servlets,Spring Framework,Hibernate,Eclipse,SVN,
+JBoss,Maven,Oracle
+
+	
+
+Description:
+
+	This  is a depository services related project. Its main function is to
+holding securities either in certificated or uncertificated
+(dematerialized) form, to enable book entry transfer of securities. This
+project contains approximately 12 modules. Security Module is the Entry
+point for accessing of anyother module in the application. They are
+maintaining a central repository. In this repository main actors are
+Holders and Issuers. Here Issuer issues the securities and Holder can
+holds them. Who wants to buy or sell the shares from the repository they
+need to be first registered in the form of a bond. This bond is taken
+from the brokers in the repository.
+
+Roles and Responsibilities:
+
+Involved in implementing some modules from end to end in the
+Depository(such as GeneralParameters, Coroporative Events, Funds
+Modules).
+
+Involved in writing the validations of the modules in the application.
+
+Involved in designing the Screens using Prime Faces.
+
+Implemented the business logic using EJB’s. 
+
+Project 2:
+
+Project Name	Cadrage
+
+Client Name	Renault, France.
+
+Team Size	4
+
+Environment		Java,javascript, CSS, JSON, Struts, Hibernate,
+
+Oracle 10g, Maven, Eclipse, SVN, JBOSS.
+
+
+
+Description:	        	
+
+	This is an intranet and automobile application. This application has
+two modules security and cadrage module. The security module is used to
+authorize, authentication, audit and trace the application and also used
+to provide the access to the user on the screen components. The is the
+information gathering commercial capability of Renault short-term
+system. This is used to maintain the dealers and orders of their
+vehicles and daily consumed details. For information, Pronos provide
+processing time at the request of manufacturing a vehicle is designed
+to.
+
+Project 3:
+
+Project Name	Sunat
+
+Client Name	Sunat, Peru
+
+Team Size	2
+
+Environment		Java, javascript, CSS, AngularJs,Web Services,Spring,Oracle
+10g,Eclipse, SVN, JBOSS.
+
+
+
+Description:	        	
+
+	This is a internal Company project. One of our company client is from
+Peru given to us. It is a migration project. The code which was
+developed in JGoodies and flex, Spring. We converted it into the
+AngularJS using web services. Only we worked on front tier. We didn’t
+touch any code related to backened. We have written web services(JSON)
+to connect to the business tier and display the data into front-end(Html
+pages).
+
+Roles and Responsibilities:
+
+Involved in Writing the Presentation logic in view layer. 
+
+Involved in coding and Functional unit testing
+
+Involved in Code review and bug fixing.
+
+Personal Information:
+
+Name                 		: HemaMalleswari. Battu
+
+Fathers Name             	: Suryanarayana
+
+Date of Birth                	: 05-08-1987	
+
+Sex                              	:  Female
+
+Nationality        	             	:  Indian
+
+Languages Known         	:  English, Hindi and Telugu.
+
+Present Location            	:  Hyderabad, Andhrapradesh.
+
+Declaration:
+
+Hereby, I declare that the above information furnished by me is true to
+the best of my knowledge and belief. I assure you that if I am given an
+opportunity I will execute my work to the fullest satisfaction of my
+superiors.           																				B.H.D.Malleswari
+
+								            	 Signature.                          		
+

@@ -1,0 +1,523 @@
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+	Springs: 4 years
+
+	Hibernate: 4 years
+
+Webservices: REST/SOAP
+
+Build tools: maven/ant
+
+Java: 9 year
+
+Application server: tomcat/jboss,IDE: eclipse and idea
+
+UML: yes
+
+DB:oracle/ mysql
+
+
+
+	
+
+	Name :  Sudheer Varma D
+
+email  : sudheer.dantuluri@gmail.com
+
+Mobile : 9908566650
+
+skype_id: sudheervd
+
+
+
+		Synopsis
+
+
+
+	A Dedicated, Assertive and Qualified Technology Professional Working as a software developer.
+
+9 years of development experience in Java , J2EE technologies.
+
+	Expert in development of enterprise web applications (both frontend and backend)
+
+	Hands on experience in Java, J2EE technologies like Spring, Hibernate, Struts, REST, Web 2.0, XML, Web services, JMS etc.
+
+	Having experience on working for UI technologies like JavaScript, JQuery, bootstrap etc 
+
+	Exposure on TDD on worked with automation of testing backed with tools like Junit, TestNG, Mockito and fronted automation with tools like FuncUnit, Jasmine. 
+
+	Experience in Devops, build tools like Ant , Maven, Gradle and Continuous Integration tools like Jenkins, TeamCity.
+
+	Having experience with Containers(Virtualization) tools like OpenVZ and Docker setting up continuous deployment.
+
+	Flexible and versatile to adapt to any new environment and work on any project.
+
+	Self-motivated and quick learner of new concepts and Technologies.
+
+Having more than 4 years of working agile experience.
+
+
+
+		Achievements
+
+
+
+	Awarded with Gold Performer for the quarter in BACI for outstanding deliverables.
+
+	Got appreciation for developing innovation tool which helped testing team save more than 90% of testing time. 
+
+	Awarded Star Performer of the month twice in my tenure with Cognizant.
+
+	Awarded MVP (Most valuable performer of the year 2008) for my services to the project E-apply in Cognizant Technologies Hyderabad.
+
+
+
+		Certifications
+
+
+
+Sun Certified Java Programmer 1.5
+
+IKM Java and J2ee certified. 
+
+
+
+		Education
+
+
+
+	Bachelor of Technology (B-Tech) in Information Technology from JNTU.
+
+
+
+		Employment History
+
+	
+
+	Working with IVY Comptech (Bwin Party) as a Senior System Analyst from Oct 2012 to till date.
+
+	Worked as Analyst Applications Programmer for BA Continuum India Pvt Ltd from 2nd July 2010 to Oct 9th 2012.
+
+	Worked as Senior Development Engineer for Pramati Technologies from 4th Aug 08 to 30th June 2010.
+
+	Worked as Programmer Analyst in Cognizant Technologies Pvt. Ltd from 5th Sep 2005 to 1st Aug 2008.
+
+
+
+		Technical Skills
+
+
+
+Languages
+
+Java, Scala
+
+Databases 
+
+Oracle, DB2 
+
+Deployment Environments
+
+Linux, Unix, Windows.
+
+J2EE Technologies
+
+JDBC, WebServices (REST & SOAP), JPA, Axis, JiBx, JMS, REST
+
+Frameworks
+
+Struts1.2, Spring 3.X, ExtJS, JQuery, Hibernate 3.5,
+
+Servers
+
+JBoss.4.0.1, WAS 5.1,WebLogic 10.1, Tomcat 7.X
+
+Scripting
+
+Java Script, HTML5, Groovy and XML
+
+Build Tools
+
+Maven, Gradle, Jenkins, Chef
+
+IDE 
+
+Eclipse, IntelliJ
+
+
+
+		Projects
+
+
+
+Core-Accounts: Part of core accounts platform development team which takes care of development of core and compliance services. Worked for the release, party poker MGM label changes.
+
+
+
+Contribution:
+
+Developing new Risk service which will have rules to execute pre-deposit and withdrawal.
+
+Making KYC changes adhering to the regulations in NJ.
+
+
+
+Role: Senior Systems Analyst, developer in the agile scrum team.
+
+
+
+Core-Technology: Part of Core Technology - Tech Stacks and Frameworks COE (Center of Excellence) team, has to involve in different projects.
+
+    
+
+Continuous Build and Deploy: 
+
+Description: As part of agile transformation building a new CD pipeline to get rid of existing legacy tools that we did research and implementation.
+
+
+
+Tools: Jenkins (CI tool), OpenVZ containers (for creating virtual containers for automating setups), Chef Solo(infrastructure management)  
+
+
+
+Contribution: 
+
+Involve in research and analysis of different open source tools to gather info and compare to choose better tool.
+
+As a senior developer part of implementing CI and CD and part of organizational change.
+
+
+
+Smart Test Automation Tool Building
+
+Description: Building a tool for automating the test case execution E2E with MultiBrowser support and Multi OS support. The challenge is to be able to automate test cases on legacy VC clients, embedded browsers, flex flash applications and also Web applications.
+
+
+
+Contribution: 
+
+Involve in the E2E design and development in the Modules built in java.
+
+Managing and mentoring juniors in the team. Leading a team of 5
+
+
+
+
+
+Role: Senior Systems Analyst, Leading a team of 5 people.
+
+
+
+Global Liquidity Platform:
+
+
+
+Description:  
+
+The Global Liquidity Platform is a centralized technology hub that enables the company to provide consistent, seamless and integrated liquidity solutions to clients around the world. Also encompasses operational, liquidity and product-specific components, or modules that offer clients robust liquidity concentration products, global account connectivity and enhanced reporting capabilities.
+
+
+
+Bank of America is dedicated to delivering innovative global liquidity solutions to clients in a timely fashion.
+
+
+
+GLP v4 Products: 
+
+
+
+Physical Cash Concentration:
+
+The PCC project will deliver domestic and cross-border automated cash concentration of BAML client accounts, The impacted platform is GBS and in scope are all IMS locations and branches as well as current and future currencies supported.
+
+
+
+The project will impose initial constraints by means of only covering GBS Accounts and not taking information on other DDA platforms such as IDS or WBS.
+
+
+
+PCC will be integrated into existing (and concurrently developed) Liquidity solutions/projects and touch points in GLP of the estimated initial volume of accounts are 6,500 .The project will define future processes to support the project solution and specify the core roles and responsibilities within the processes identified. The project will adhere to regulatory requirements and not reduce the bank’s ability in the market to perform as an organization.
+
+
+
+Role: Sr. Developer and individual Contributor.
+
+Duration: Nov’ 11 – till date.
+
+
+
+Contribution:
+
+Collecting requirement form BA and analyzing the stories.
+
+Major participation in the story level technical design and analysis.
+
+Writing test cases and coding TDD approach.
+
+Writing Integration test cases and building the test suite using BDD (Jbehave).
+
+Preparing documentation / wiki pages for the stories.
+
+
+
+Environment: Spring3.X, Hibernate3.5, REST (Jersey), Oracle 11g, JQuery, StringTemplate, Spring MVC, Quartz, Guava Collections, java 1.6, ActiveMQ, logback, JMX, JUnit, Mockito.
+
+
+
+GLP v3 Products:
+
+Interest Optimization: 
+
+Product to customers whereby a benefit payment is made to a single nominated account over the interest earned on a number of accounts within and across multiple branches/territories that form a pool. This creates an end of day global position of client balances on a series of Bank of America demand accounts owned by the client. Enhanced interest benefit is calculated daily on these balances and paid to the client monthly.
+
+
+
+Multi Bank Sweep: 
+
+Product to customers whereby maintaining accounts in different regions and getting benefit by timely moving the funds from one account to other account .
+
+Funds move between Third party banks and BOA accounts in the arrangement of MBS.
+
+
+
+Global Funds Sweep: 
+
+Product to customers whereby maintaining accounts in different regions and getting benefit by timely moving the funds from one account to other account .Funds move between BOA accounts in the arrangement of GFS.
+
+
+
+Role: Sr. Developer and individual Contributor.
+
+Duration: July’ 10 – Nov 11.
+
+
+
+Contribution:
+
+Agile developer role
+
+Participate in the story development and writing the test cases.
+
+Unit testing the code.
+
+Part of the deployment process in different environment DevInt, SIT, UAT.
+
+
+
+Environment: struts1.X, Spring 2.5, Hibernate 3.X, REST (CXF) Oracle 10g, Ajax, JSP.
+
+
+
+Returns and Repairs (R & R)
+
+
+
+Description:  
+
+	The Click Commerce R&R is an SCM product and Returns and Repair provides order management, asset tracking, order processing, financial reporting, billing and crediting, capacity utilization and vendor management. These transaction-processing capabilities facilitate the information capture and work flow processes required to manage repairable parts.
+
+
+
+Role: Sr. Developer
+
+
+
+Duration:  Apr’ 09 – June’ 10
+
+
+
+Contribution:
+
+	Worked on improvements for the core functionality like Routes, WorkCenter Operations and 	Business Transaction Workflow functionality.
+
+	Active participation in the API implementation for the Webservices for the modules.
+
+	Bug fixing and participated in the UI related implementations in different modules across the 	project.
+
+	Worked on writing and improving the unit and integration test cases for the new functionality.
+
+
+
+Environment: 
+
+	Java, Servlets, JSP, HTML, Ajax, JavaScript, XML, log4j and ANT, Oracle 10g, Session Beans, Web Services.
+
+
+
+	MyGenSource (MGS 2.5)
+
+
+
+Description:  
+
+	The Agentrics Sourcing online negotiations service is the most widely used in the retail industry. We host hundreds of RFx and auction events every day. Customers claim savings of more than $1 billion a year through the system, which increases buyer productivity and brings optimal purchase prices through fair and transparent methods. Five of the world’s top 10 retailers and more than 20 of the top 100 are on Agentrics Sourcing.
+
+
+
+Role: Sr.Developer
+
+
+
+Duration:  Aug’ 08 – Apr’ 09
+
+
+
+Contribution:
+
+	Participated in the implementation of the supplier and user search modules in the MGS.
+
+	Bug fixing and participated in the UI related implementations in different modules across the 	project.
+
+	Created selenium test framework for functional testing of the application and written test cases 	for some of the modules.
+
+
+
+ Environment: 
+
+	Java, Servlets, JSP, HTML, Ajax, JavaScript, XML, log4j and ANT, Hibernate, Spring, ExtJS, Struts,               Selenium , Oracle 10g.
+
+
+
+
+
+International Next Generation Apply (Intl. Eapply)
+
+
+
+	Description: 
+
+		International E-application (Eapply) is an ‘Apply for Card / Loan’ application, which enables American Express to capture user data online for 18 international markets. Eapply provides the following online applications for the following types of cards.
+
+	
+
+	•	Credit Card
+
+	•	Charge Card
+
+	•	Bank Loans
+
+	•	Supplementary / Additional Cards
+
+	
+
+	In all, Eapply hosts around 230 online applications across 18 international markets. The Customer data captured on the web is stored in the E-acquisition database.  
+
+	
+
+	For most markets / products, the data that is stored in the database is sent to GNA / APS / SWAP through Stratus. This is an offline batch process, triggered at regular intervals through cron jobs.
+
+	
+
+	For certain markets / products the submission and decision is instant where the applicant gets an instant approved decision and the data is send to GNA / APS at real time.
+
+	
+
+	IBM provides the infrastructure support for the existing system. The present application runs on Websphere 3.5 and IBM is in the process of decommissioning support for all applications running on this environment.  
+
+	
+
+	The objective of the project is to migrate/ rewrite the existing International Eapply application from its current Websphere 3.5 environment to the Websphere 5.1 environment. The migration to the new platform is intended to:
+
+	
+
+	Deliver faster time to market for new products.
+
+	Lower costs towards new products 
+
+	Improve the performance of the system.
+
+	Ensure International eApplication is supported by IBM
+
+	
+
+Role: Developer
+
+
+
+Duration:  Feb’ 07 – Aug’ 08
+
+
+
+Contribution:
+
+	Involved in the batch process of picking up of the data from E-acquisition database and transferring the data to the STRATUS in the predefined formats based on the market specific requirements. 
+
+	Involved in the application development also for one of the market’s UK. 
+
+	Provided programming with respect to design, which pertains to the identification, and application of: development, upgrades, enhancements, requested changes, and fixes. Was responsible to analyze, design the system, coordinate discussions, code and deliver solutions as per the requirements. 
+
+	Gather requirements from the client; based on the client’s specifications design and develop the application.
+
+ 
+
+Technologies used: Java, J2EE, XML, Apache Struts 1.2.4, Tiles, JSTL, EJB 2.0 session beans, MDB, DB2 and WAS 5.1.
+
+
+
+Warehouse Management System (WMS)
+
+
+
+	Description: 
+
+		WMS project is a Re-Engineering Project, the older version of the WMS project was developed with  oracle forms3.0. The current version of the WMS project is the development of a web-application using the latest java open source technologies. Current version of the WMS project is capable for future modifications and included more additional features. The users of the WMS System feels comfortable while using the project in real-time compared to the character application. 
+
+			WMS enables to control and track the movement and storage of materials through warehouse and provide the information for make daily business decisions that make impact on customers, suppliers. This project is developed using Java Technologies like Jsp, Jakarta Struts, and Java Beans. The development of the WMS project uses Eclipse and JBoss server.
+
+
+
+Role:  Developer
+
+
+
+Duration:  Aug’ 05 – Feb’ 07
+
+
+
+Contribution:
+
+
+
+	As a Team Member involved in full Implementation Cycle from the Development Stage to Live stage.
+
+	Involved in Design, Development, Testing of Project  
+
+	Involved in the design and development of Client side and Server side coding Using EJB 2.0 and Struts framework.
+
+	Implementation of business logic and business objects client modules using beans.
+
+	Coded reusable Java business components, which abstracted the data in the database and provided a common interface for database access and business functionality.
+
+	Implementation of front-end application and Validations using Struts Framework.
+
+	Coordinating with the onsite team for analyzing the client feedback.
+
+	Involved in bug fixing for basis on client feedback.
+
+	Involved in Reports of client module using jasper Reports.
+
+	Used Sahi web test automated tool for Regression testing.
+
+	Testing the functionality of the Application with respect to existing system.
+
+	
+
+	Technologies used: Jakarta Struts 1.2, JSP, EJB 2.0, Oracle 10g, PL/SQL, Jasper Reports, Sahi web test tool.
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+					- 6 -

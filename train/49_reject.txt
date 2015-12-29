@@ -1,0 +1,156 @@
+Resume
+
+Sudheer Kumar.K	                                                        
+Mail saisudheer2016@gmail.com
+
+                                                                        
+                    Mobile: +91-8332065109
+
+Professional Summary:   
+
+Over 3+ years of Experience in Information Technology Industry with
+Client-Server Based Applications in Java & J2EE technologies.
+
+Strong emphasis and in-depth knowledge of JDBC, Servlets, JSP. 
+
+Strong knowledge on Object Oriented Programming.
+
+Good exposure on Apache Struts Framework and MVC architecture.
+
+Good experience in developing DAO, VO, DTO, Singleton design pattern
+classes. 
+
+Hands on experience Struts, Hibernate and Spring Framework.
+
+Having experience in developing all design pattern classes.
+
+Having experience in using JSTL tag libraries. 
+
+Efficiency in using different kinds of servers like Tomcat, Web Logic,
+JBOSS.
+
+Working Experience on Eclipse and MyEclipse.
+
+Flexible, able to work effectively in a team environment or as an
+individual Contributor.
+
+Easy learning and flexible to work on different kinds of API’s and
+Technologies.
+
+Excellent analytical, communication and mentoring skills prove an asset
+to Organization.
+
+Versatile Team Player with Good Communications and Problem Solving
+Skills.
+
+Experience in development and support.
+
+Work Experience:.
+
+Worked as a Java Developer in Birlasoft india pvt ltd from Feb 2011 to
+Till date.
+
+Educational Qualification:
+
+  Bachelor of Degree from Osmania University.
+
+Technical skills:
+
+     Languages		: Java and JEE (Servlets, JSP) Technologies
+
+     Web Technologies	: Html,  JavaScript.
+
+     RDBMS	: Oracle, MySQL
+
+      Database Connectivity	         : JDBC and Hibernate
+
+     Frameworks	: Struts, Spring.
+
+     IDEs	: Eclipse, My Eclipse.
+
+     Application Server	: Weblogic Server 
+
+     Web Server		: Tomcat, JBOSS.
+
+     Operating Systems		: Windows XP/07.
+
+PROJECTS DETAILS:
+
+Project #1:
+
+Project Name        	:	V-Store				
+
+Team Size		:	8
+
+Environment		:	Struts, Hibernate, Servlets, JSP, Tomcat and Oracle
+
+Role			:	Java Developer
+
+Duration                      :           May 2012 to till now
+
+Description: 
+
+V-Store is a Tanzania based Company which import goods from U.S and
+distributes the items under various categories like Laptops, E-Commerce,
+Tool Kits, Electrical Accessories, DIY Tools, Satellite Cable
+accessories and Leather Goods. Through this site, the client can take
+orders against various products from the buyers in quick time.
+
+Store is a web base application, which maintains the information of the
+customer by registering in this site. The customer can contact the
+operator by mail or by phone. Customer can order the products by posting
+the URL, documents to oracle database, and delivery is provided to the
+residence.
+
+Roles & Responsibilities:
+
+The application was designed on Struts  Framework with Hibernate to make
+use of its MVC pattern.
+
+Used design patterns like MVC, DAO, DTO, Template Design Pattern and
+Singleton Pattern.
+
+Involved in Developing User module, which includes User registration,
+viewing and updating User profile. 
+
+Involved in coding to implement search functionality
+
+Done validations using JavaScript.       
+
+Project#2:
+
+Title         		:	Deals
+
+Environment		:	Spring, Hibernate, Servlets, JSP, Tomcat and Oracle.
+
+Duration		:           Feb 2011 to May2012.
+
+Description:   
+
+	This Project is developed for the insurance company, Farmers Insurance
+Group. This project contains agent module, Customer module and insurer
+module. Agent module contains registration, mailing services, insurer
+details, agent process and claiming process. In customer module we have
+registration, search criteria for best-fit Insurance, payment details
+and documentation details and insurer module contains administrative
+services and reports. Using this customer can choose the policy and he
+will file the documents through agent to the insurer.
+
+Responsibilities:
+
+The application was designed on Spring  Framework with Hibernate to make
+use of its MVC pattern
+
+Used design patterns like MVC, DAO, DTO, Template Design Pattern and
+Singleton Pattern
+
+Involved in Developing User module, which includes User registration,
+viewing and updating User profile. 
+
+Involved in coding to implement search functionality.
+
+Done Server-side validations using Spring.
+
+                                                                        
+                                          K Sudheer Kumar
+

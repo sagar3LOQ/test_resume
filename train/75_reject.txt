@@ -1,0 +1,538 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                  - 
+2years                                 
+              
+
+Spring                  
+                                  - 
+3years
+
+Web
+Services                                
+        - 
+2years                                 
+               
+
+Core
+Java                                  
+             -  8years(JSP,servlets)
+
+Design
+Patterns                                
+    -    5years
+
+UML
+design                                 
+          -    
+
+Build Tools (Maven/Ant)                    -   
+Maven/Ant   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+weblogic/ Web Sphere Application Server/jboss
+
+                                                                       
+
+RAJIV SINHA
+
+	                                                Email id:    HYPERLINK
+"mailto:Rajiv742@yahoo.com"  Rajiv742@yahoo.com 
+
+	                                                Mobile:     
+09175440538	
+
+				         Company: 	IBM India Pvt Ltd. ( Pune )
+
+EXPERIENCE SUMMARY:
+
+11 years of experience in Development and Implementation of Application
+Software using Client-Server and Internet Technologies.
+
+Involved as Tech Lead in requirement gathering and design phase.
+
+Used Rational Rose 7.0.0 and UML 2.0 for HLD and LLD
+
+Strong programming experience in Java, J2EE 
+
+Web/Application Servers like WebLogic 6.1, WebSphere5.1,6.1,7
+
+Extensive experience in using SQL.
+
+Used Struts, Spring and Hibernate framework for development of code
+
+Java Batch jobs using shell and perl scripts.
+
+Ability to work in a team and accept responsibility, an excellent team
+member with strong inter-personal and communication skills.
+
+OS: 	Windows NT//2000//95//98//XP//7, UNIX
+
+Languages: 	Java (1.6), SQL, XML, XSD
+
+Web Tech:	Servlets, JSP, XHTML, EL, JSTL, JDBC, JNDI, JavaBeans, Multi
+Threading, Javascript  - jQuery
+
+Database: 	Oracle 8i/9i/10g/11i, DB2
+
+Design:	Rational Rose, UML for preparing HLD and LLD (High level domain
+class diagram and state/Activity diagram/class diagram and sequence
+diagram)
+
+SDLC:	Waterfall, Agile – Scrum, Sprint
+
+Framework:     Struts 1.3.8, 2.0
+
+                          Spring MVC 2.0.1, IOC, Spring – DAO
+
+                          Spring WebFlow 3.0,
+
+	JSF, Ajax & Reverse Ajax (DWR, Comet, Server Push),
+
+                          Hibernate 3.0
+
+                         	XML Parsing (SAX/DOM), Xerces
+
+	Web Service – JAX-WS, JAX-RS, Dispatch API, JAXB
+
+	EJB 3.0, JPA
+
+                          
+
+Testing:            LoadRunner, WebSpec, Watij, Selenium, JUnit,
+WinRunner
+
+App Servers:   WebSphere (5.1, 6.1), Tomcat, glassfish
+
+IDE:	 	Rational Application Developer (RAD),
+
+		Websphere Studio Application Developer 5.1(WSAD), 
+
+		Eclipse, Netbeans 6.1, 6.9, Toad, SQL Developer
+
+Build Tool:	ANT, Maven
+
+Scheduler:	Tivoli Web Scheduler (Java Batch on UNIX box using shell
+script (ksh) and perl script)
+
+Tools: 	ClearCase, Visual Source Safe,  
+
+	HP Service Manager 9, Defect Tracking Systems (Bugzilla)
+
+CERTIFICATION:   Sun certified Programmer for the Java 2 Platform 1
+(SCJP)
+
+		Candidate ID: SR1857491
+
+		Registration Number: L58SYD52B6
+
+EDUCATION:	       B.E, Mechanical, Nagpur University
+
+WORK EXPERIENCE
+
+IBM India Pvt Ltd.                                                      
+                               May 10 – Contd..
+
+Advisory System Analyst                                                 
+                       
+
+Pune
+
+KPITCummins InfoSystems pvt. Ltd.                                       
+              Aug 06 – May 10
+
+SSE, Tech Lead
+
+MIDC,Hinjawadi,Pune
+
+MphasiS Software & Services(I) Pvt. Ltd.                                
+             May 0’6 – Aug 0’6
+
+SSE
+
+Andheri(E),Mumbai
+
+Kanbay Software(India) pvt ltd                                          
+                     Jan 0'4 – April 0’6
+
+Consultant
+
+Talwade,Pune
+
+Ellipse International							Feb’03 - Jan'04
+
+Software Engineer
+
+Vashi, New Mumbai
+
+PROJECT DETAILS
+
+IBM INDIA PVT LTD.  							Dec 10 …Nov 13.
+
+Airbus – eBird
+
+	Preparation of AID (Application Information Document) for Airbus RMM
+(Reliability Management Module) and AWK (Framework).
+
+AIRMAN-web is composed of three separated but interacting modules:
+
+HMM, the Health Management Module dedicated to fault messages reporting
+and analysis. It is dedicated to troubleshooting and maintenance action
+help for Airline.
+
+RMM, the Reliability Management Module dedicated to eLogbook ground
+reporting and analysis
+
+Admin, the Administration Module dedicated to manage a common
+functionalities for each module
+
+AWK (Framework) is common set of libraries on which HMM and RMM Modules
+are implemented.
+
+Volkswagen						
+
+ 
+
+Worked as a Tech Lead for following application.
+
+E Tag
+
+APT
+
+AIM VIM
+
+A) E Tag Application                                                    
+    Client: Volkswagen/AUDI
+
+           This application allows employee as well as retiree to lease
+company vehicle.
+
+            System includes following functionality
+
+Creating new request for lease or surrender
+
+Creating request for place a factory order
+
+Admin functionality for Approval or denial
+
+Admin functionality to upload vehicle for lease
+
+	             This is a support and maintenance project
+
+             Duration: 		Nov 2010 Continued
+
+             Responsibilities: 	Tech Lead and Java Developer
+
+             Environment:    		Struts, LDAP, CORBA, 
+
+			Java Batch jobs using shell and perl scripts,
+
+		Websphere Server, RAD, Clearcase, Oracle 10g 
+
+		HP Service Manager 9
+
+             B) APT Allocation Planning Tool               Client:
+Volkswagen/AUDI
+
+The Allocation Planning Tool (APT) system identifies the number of
+vehicles that Volkswagen and Audi dealers are eligible to receive based
+on a calculation process that includes Production Volumes, Current
+period sales, dealer inventory, and in transit vehicles.  The system
+determines each dealers fair share allocation of vehicles for the next
+allocation period by parsing the numbers from the national, region, and
+area to arrive at each dealer’s allocation.  The system also tracks
+the dealer’s consumption of vehicles to insure that they do not exceed
+the allocation number.  
+
+            
+
+	 This is a support and maintenance project
+
+           
+
+             Duration: 		Nov 2010 Continued
+
+             Responsibilities: 	Tech Lead and Java Developer
+
+             Environment:   		 Struts, LDAP, CORBA, 
+
+			Java Batch jobs using shell and perl scripts,
+
+			Websphere Server, RAD, Clearcase, Oracle 11i 
+
+			HP Service Manager 9
+
+             B) AIM VIM               				Client: Volkswagen/AUDI
+
+             AIMVIM [Audi Inventory Management and Volkswagen Inventory
+Management]
+
+             Is a Java Based Web Application tool through which Audi and
+Volkswagen Dealer 
+
+             Manages their own Vehicles. This web application handles
+Vehicle Ordering, Vehicle
+
+             Order management, sale of vehicle and search functionality.
+
+                          
+
+	 This is a support and maintenance project
+
+           
+
+             Duration: 		Nov 2010 Continued
+
+             Responsibilities: 	Tech Lead and Java developer
+
+             Environment:   		Java, LDAP, CORBA, 
+
+			Java Batch jobs using shell and perl scripts,
+
+			Websphere Server, RAD, Clearcase, Oracle 11i 
+
+			HP Service Manager 9
+
+Barclays Retail Origination System     Client: Barclays Bank        May
+10 .. Nov10
+
+This application is all about the data captured for the Barclays banking
+system. This data is used for issuing a loan and credit card.
+
+The application is build over JSF and Spring Framework using Spring
+webflow 2.0 and Hibernate used for DAO Layer. This system interacts with
+the core banking system flex and uses web services to connect to that.
+
+Duration: 		June 2010 to Oct 2010
+
+Responsibilities: 	Design and  Development 
+
+             Environment:      	XHTML, Spring-faces , Spring Webflow
+2.0, 
+
+			  	 Hibernate, Oracle11i, 
+
+			  	 WebSphere, Clearcase
+
+KPITCummins InfoSystems pvt. Ltd.        Client: CUMMINS
+
+             
+
+Project: Form Migration and Modernization from 6.1 to 10g
+
+             This application converts oracle forms in 6.1 to oracle 10g
+compatible forms.
+
+Along with conversion it also modifies the basic properties like
+background color etc. during conversion. The compilation at run time was
+also done and if there is some errors during Conversion or modernization
+or compilation an error log for that file was created. This was done
+using oracle provided jar JDAPI.
+
+The processing time was too large (IN HOURS). To handle this http live
+connection was kept open for more then 24 hours using direct web
+remoting reverse ajax technology.
+
+The real time processing messages were displayed to user using Server
+Push Technology.
+
+Duration: January 2010 to May 2010
+
+Responsibilities: Design and  Development 
+
+             Environment:   Struts MVC 1.3.8, Hibernate, JSP, Servlet,
+Oracle10g, 
+
+			 WebSphere6.1, Oracle 6.1, Oracle provided JDAPI (frmjdap jar) 
+
+			 Netbeans 6.5, Loadrunner, VSS, Rational  Rose(UML)
+
+Project : Key Employee Stock Investment plan
+
+This is an application to manage the employee stock investment plan for
+Cummins employees.This application handles all the transaction like
+creating,editing and deleting
+
+of contract,Reammortization,Refinance,Sale,Ownership. There is a report
+section which displays the cumulative data of transaction done in the
+form of HTML Display, PDF and excel sheets.
+
+Duration: June 2008 to Dec 2009.
+
+Responsibilities: Design( preparation of SRS, HLD, LLD) and  Development
+
+
+             Environment:   Struts MVC 1.3.8, Spring Dependency
+Injection and Spring Jdbc 
+
+			DAO  Layer, JSP, Servlet, JSTL, JDBC, Oracle10g, WebSphere6.1, 
+
+			 Netbeans 6.5, Loadrunner, VSS, Rational  Rose(UML)
+
+Project: MyEngine 
+
+	The HHPS-My Engine Service Event Manager Application is an important
+tool that will gather real parts consumption data from service events
+and will allow scheduling of these in advance. 
+
+Duration:	Jan 0’8…June0’8
+
+	Responsibilities: Development 
+
+Environment:  Struts1.2, JSP, Servlet, JDBC, Oracle9i, WebSphere 5.1,
+WSAD 5.1
+
+                         Loadrunner, VSS, Rational  Rose(UML)
+
+Project: Global Standard Quote (GSQ) 
+
+             GSQ Application, for this project, is overviewed, to be an
+application which provides a facility to create and modify Standard
+Quote. A quote, is defined as an estimation of the time it takes to
+perform a repair and the parts that are needed to complete the repair.
+
+             Duration:  Feb 0’7…Dec 0’7
+
+             Responsibilities: Development 
+
+Environment:  Struts1.2, JSP, Servlet, JDBC,Oracle 9i, WebSphere5.1,
+WSAD 5.1
+
+                         Loadrunner, VSS, Rational  Rose(UML)    
+
+      
+
+Project: Webparts
+
+	This project migrate existing WebParts Web Application from ATG Dynamo
+to 
+
+             J2EE.The WebParts application renders long list as a result
+of                     
+
+             parts/order/shipment/Invoice inquiries.
+
+             Duration: September 0’6 … February 0’7
+
+             Responsibilities: Development
+
+             Environment:  Struts1.2, JSP, Servlet, JDBC,Oracle 9i,
+WebSphere 5.1, WSAD 5.1,
+
+                                       Loadrunner, VSS, Rational 
+Rose(UML)
+
+MphasiS Software & Services(I) Pvt. Ltd.
+
+Projects: wwims (world wide identity management system)
+
+This application manages all access to different application running
+under the company globally. It allows to create new user, giving access
+to the user,
+
+And forget password functionality. 
+
+              Duration: May 0’6….Aug0’6
+
+              Responsibilities: Development and Maintenance of the
+product
+
+              Environment:  JSP, Servlet, JDBC,Oracle, WebSphere, WSAD
+5.1,
+
+                                       Loadrunner, Clearcase, ldap
+
+Kanbay Software(India) pvt ltd.              Client: Household Bank now
+HSBC
+
+Project: WebFinance -  HouseHold – HFC (HSBC Credit card Application)
+
+		Web Finance is based on the private Label credit card issued by the 
+
+	retailers. This project includes the maintanence and development of the
+Web 
+
+	based management   system for the credit card issued to the
+customer.The 
+
+	WebFinance website facilitates Household to enable other dealers to
+directly 
+
+	connect with Household. The application is web based application which 
+
+	establishes complete  loan application process.
+
+            Duration: Jan ’04…Dec ’04
+
+            Responsibilities: Development and Maintenance of the product
+
+             Environment:   JSP, Servlet, JDBC,Oracle, WebSphere, WSAD
+5.1  
+
+                                       Loadrunner, Clearcase, Rational 
+Rose(UML)
+
+Project: Web Finance – Merchantweb (HFC) (HSBC Credit card
+Application)
+
+		The Merchantweb application enables the webfinance users to view the 
+
+	documents related to the WebFinance application. 
+
+	Duration: Jan ’05…Apr 0’6 
+
+	Responsibilities: Development and Maintenance of the product
+
+	Environment:   JSP, Servlet, JDBC,Oracle, WebSphere, WSAD 5.1
+
+			Loadrunner, Clearcase, Rational  Rose(UML)
+
+Ellipse International
+
+Project: DAM(Digital asset management system) – Content management
+system
+
+	This application is used to manage heavy file systems integrated with
+web application. There is a tool to build the dynamic static html pages,
+to deploy the pages to the server. Workflow is also an integrated part
+of this application to manage the flow. 
+
+            Duration: July’03 …Jan 0’4
+
+            Responsibilities: Development and Maintenance of the product
+
+	Environment:  JSP, Servlet, JDBC,Oracle, WebLogic, VSS
+
+Project: Pfizer	
+
+			 HYPERLINK "http://www.pfizer.com" www.pfizer.com 
+
+			 HYPERLINK "http://www.pharmaciaalumni.com/" www.pharmaciaalumni.com 
+
+
+		 HYPERLINK "http://www.pharmacia.com/" www.pharmacia.com ;
+
+		Development and Maintanence of web site.
+
+       Various functionalities related to Paharmacia Alumni web site
+were developed. It 
+
+        included various section as keeping profile of all employee in
+the company , Jobposting , 
+
+        Recruiter details , search section , colleagues details etc.
+
+        Duration: Feb’03 …July 0’3
+
+	  Responsibilities: Development and Maintenance of the product
+
+	  Environment:  JSP, Servlet, JDBC,Oracle, WebLogic, VSS
+
+  PAGE \* Arabic  1 
+
+	
+

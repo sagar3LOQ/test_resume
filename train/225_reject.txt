@@ -1,0 +1,185 @@
+Chaitanya V.N.S
+
+Mobile: 9848483719						            Email: chaitu.vns@gmail.com
+
+Professional Summary
+
+Close to 8 years of experience in Java domain and presently working as Associate Architect.
+
+Strong in Object oriented concepts and design patterns for Software development and implementation.
+
+Good understands of Pre-paid Card payments, Banking systems and extensive technical experience in working on various financial interfaces.
+
+Good at writing algorithms and ranked 88 in project eular at hacker rank. 
+
+Worked extensively on performance tuning and scaling application both horizontally and vertically.
+
+Good knowledge in spring and hibernate technologies. 
+
+Designed and implemented zero down time and canary deployments.
+
+Have good analytical and problem solving skills.
+
+
+
+Skill Set
+
+ Programming skills/Frameworks : Java, C, Unix Shell scripting, J2EE, Spring, Hibernate, Java Script, gatling, stubby4j
+
+Servers: Apache Web Server, Apache Tomcat
+
+DB: MySQL, Casandra (1.2), Redis
+
+Education
+
+ Bachelor of Technology in Computer Science and Engineering  (2003-2007) with 70.8%
+
+Professional Experience
+
+Wave Crest Payment Technology Private Limited, Hyderabad				   4.9 years
+
+Wave Crest Payments Technology, a subsidiary of Wave Crest Holdings is a Global player in the Pre-Paid Card Industry specializing in the E-Wallet financial solutions
+
+
+
+Associate Architect						              		Dec 2011 – Present
+
+Currently working as associate architect and working on non-functional requirements like High availability, zero down time and canary deployments.
+
+Guiding a team of 5 members in building real time monitoring for our financial platform and canary deployment automation.
+
+Leading stress testing team and fixing application performance issues.
+
+Designed payment processor integrations in Platform 2.0.
+
+Performed code reviews.
+
+Designed and developed security service.
+
+
+
+Dev Lead								           June 2011 – Dec 2011
+
+Performed the role of Development Lead and guided the team for the implementation of various payment service integrations.
+
+Development and Design lead for O2 e-wallet, payment integrations module.
+
+Performed code reviews.
+
+Taking knowledge transfer sessions.
+
+
+
+Systems Analyst							          June 2010 – June 2011
+
+Worked with small team of developers to Design and Develop the My Monedero (e-Wallet Application).
+
+Analyze, troubleshoot and solve problems in a timely and accurate manner.
+
+Mentoring new members in the team.
+
+
+
+
+
+Pyro Networks Private Limited, Hyderabad					  	     3.2 years
+
+Pyro is a leading mobile technology solutions provider, and an innovative company with global implementations of a wide range of Value Added Services for NGN communication carriers such as Wireless, Wireline and IP.
+
+
+
+Team Lead								          June 2010 – June 2010
+
+Performed the role of Team Lead and guided the team by providing low level designs to various telecom and VOIP solutions.
+
+Mentoring new members in the team.
+
+Performed code reviews.
+
+Performed stress testing and application scaling.
+
+Changing the legacy applications to support High Availability.
+
+
+
+Developer         							 	           May 2007 – May 2008
+
+Developed various telecom solutions 
+
+Analyze, troubleshoot and solve problems in a timely and accurate manner.
+
+
+
+Project Details: 
+
+
+
+Corporate Payments
+
+Wave Crest simplifies corporate payments with a prepaid debit card that allows businesses to streamline commission, business, incentive, and travel payments and control expenditures with convenience, flexibility, and security. It offer hassle-free payment solution for employers, suppliers and agents across the globe without the need of bank accounts. I am involved in taking care of the non-functional requirements like scalability, High availability, real time monitoring, zero downtime deployment and canary deployment. 
+
+
+
+Cashier
+
+This product enabling any system to process payments through direct Banks ACH, Faster Payments , Envoy and Credit/Debit cards. This product provides remote APIs or web hosted pages for its functionality. We will be integrating with different card processors and bank processors to process payments like RBS, Global Collect, Fifth Third Bank ,ACH Direct , Meta Bank , World Pay , FIS and RED Hence warping all the different third pay integration modules with a single call. My roles were to design and develop this product from scratch
+
+
+
+E-Wallet
+
+This is online wallet product with a web interface implementation in the lines of PayPal or Neteller. This application also provides all the functionality as service enabling the customers to implement their wallet web , mobile wallet or just white label our site. A wallet holder can load or unload amount with the payment options provided and use it, this wallet also issues virtual or plastic cards in the name of the wallet holder to access wallet assets online or offline i.e. in open loop with prepaid card issued against his/her wallet. My roles were to design and develop this wallet from scratch
+
+
+
+GTech
+
+Wave Crest partnered with GTECH in offering a player club card product which the lotteries in the US operate for the players to play lottery by paying directly from the card and the winnings would be transferred to the card automatically. This is the first of its kind of product in the US to launch IW in the US. Currently operating for GA and MI states and won several industry awards in the category. I am involved in payment processor integrations and performance improvements.
+
+
+
+Security Service
+
+Security service manages and safeguards and manages digital keys for encrypting all sensitive data. It supports program based keys, key versions and key rotation. My roles were to collect requirement from INFOSEC team, design and develop this product from scratch. 
+
+
+
+Dynamic Charging System
+
+Dynamic charging system allows cellular network companies to do dynamically charge the customers based on network traffic. My role is to design and help developers in development. 
+
+
+
+Roaming Hub
+
+Roaming Hub enables International Roaming for prepaid and post-paid users, facilitates Financial Settlement and Clearing, and allows Airtime Transfer and Mobile Commerce transactions between countries. It also provides many configurations like pref-roam, instant billing etc. My roles were to design, develop and guide developers.
+
+
+
+Speech Services Platform
+
+ A Java based Voice XML and Call control XML interpreter on which IVR (Interactive Voice Response) and auto dialler solutions can be deployed. It supports changing the call flows dynamically making. I am involved in make enhancements by adding support for new tags and making major performance enhancements and scaling the application from 90 parallel call to 1800 parallel calls.
+
+
+
+VXML and CCXML IDE 
+
+A Drag and drop IDE to built Voice pages (Call Control XML and Voice XML), using which the business people can define new call flows without any development knowledge. My roles were to design and develop this product from scratch.
+
+
+
+Sip Client
+
+Sip Client is VOIP Soft phone that uses SIP protocol, using which we can do chatting, make voice calls, conference calls and collaborate using white board. Designed and developed this VOIP client from scratch.
+
+
+
+Achievements
+
+Extra miler award at Wave Crest.
+
+Won a trip to chosen place in India from Pyro for completing a six month project in 2 months.
+
+Got all India 4th place for the project File Tracking System in ” The Great Mind Challenge Contest 2006” conducted by IBM in which over 21000 students participated.
+
+Got certificate of appreciation in JavaFX project contest for developing Widget Wall.

@@ -1,0 +1,333 @@
+CURRICULUM VITAE
+
+	
+
+Prabhakaran Prashant                                                            
+
+			                                                         PRESENT ADDRESS
+
+: prabhakaran.prashant09@gmail.com		               Pandav Nagar complex     	
+
+:  +91-9555709762           	                                              New Delhi-110092
+
+
+
+Experience Summary:-
+
+2.5+ years of work experience in software development in Core JAVA/J2EE, UNIX and MySQL PL/SQL.
+
+Working as Software Engineer at IBM INDIA Pvt. Ltd, Noida (UP).
+
+TECHNICAL SKILLS:
+
+	Operating Systems		   :    Windows - 98/2000/Xp, and Linux.
+
+		Programming Languages    :    Core Java, J2EE,JavaScript,
+
+Tools (IDEs)		             :     Eclipse, Net beans 6.0
+
+Databases			   :     MySQL, Oracle 10g.
+
+Version Tools                       :     clear case 
+
+Framework                           :     Hibernate, struts,Spring
+
+Application servers              :     Tomcat 6 and Jboss 6.0
+
+Build Tool                              :     ANT
+
+1. Professional Experience:
+
+Period
+
+Employer 
+
+Location
+
+Designation
+
+June -2015 – Till date
+
+IBM INDIA Pvt. Ltd.
+
+Noida
+
+Software Engineer
+
+July-2013 – June 2015
+
+F-ONE CONSULTANCY SERVICES
+
+Noida
+
+Software Engineer
+
+Jan 2013 - June 2013
+
+Aricent Group
+
+Gurgaon
+
+Trainee
+
+
+
+EDUCATIONAL PROFILE:
+
+	Master of Computer Application from The Bansal Institute of Science and Technology, Bhopal affiliated to RGPV, Bhopal with a percentage of 72%.
+
+	
+
+PROJECTS DETAILS:
+
+Project : Recharge & Billing system (LAPU)  	      Client: Bharti Airtel Limited, India.
+
+Description
+
+LAPU is an easy charge system is a Voucher Less Top up Distribution System built by Utiba well known as Lapu in BHARTI-Airtel facilitates prepaid and postpaid customers to charge their account electronically.
+
+
+
+Duration
+
+ june 2015 to Till date
+
+Team size
+
+13
+
+Role &      Responsibilities
+
+Writing quality business code in JAVA, J2EE and UI development using JSP, Java Scripts.
+
+Integration of various modules.
+
+Unit Testing and integration testing.
+
+ Bug fixing.
+
+ Writing Junit Test cases. 
+
+ Buliding and deploying the application on server.
+
+Language/OS/Tools
+
+Core JAVA, J2EE, , Hibernate, struts, JavaScript, HTML,.
+
+MYSQL and Oracle 10g.
+
+Tomcat, Jboss 6,
+
+
+
+Software Process 
+
+Agiles
+
+
+
+Versioning tool 
+
+Clear Case,SVN
+
+
+
+
+
+
+
+   Project : Material Tracking Visi  bility (MTV)  
+
+ 	      
+
+Description
+
+Material Tracking Visibility (MTV) Application is web-based, designed to monitor the current status of material and gives details of good for global purchasing. The aim of the project is to automate the flow process of goods and placement to final delivery at destination.  MTV provides user friendly applications which consist of different modules like Tracking, Admin, and Report Module. 
+
+
+
+Duration
+
+ june 2015 to Till date
+
+Team size
+
+8
+
+Role &      Responsibilities
+
+Writing quality business code in JAVA, J2EE and UI development using JSP, Java Scripts.
+
+Integration of various modules.
+
+Unit Testing and integration testing.
+
+  Bug fixing.
+
+  Writing Junit Test cases. 
+
+  Buliding and deploying the application on server.
+
+Language/OS/Tools
+
+Core JAVA, J2EE, , Hibernate, struts,Spring, JavaScript, HTML,.
+
+MYSQL and Oracle 10g.
+
+Tomcat, Jboss 6,
+
+ANT
+
+Software Process 
+
+Agiles
+
+
+
+Versioning tool 
+
+Clear Case
+
+
+
+2. PROJECTS DETAILS:
+
+
+
+Project: Hamdan Awards Management System
+
+
+
+Description
+
+Hamdan is a UAE based organization gives awards in education field in every season. The aim of this project is to automate the flow process of nomination, evaluation and declaration of final results. End user Nominees can fill up nomination forms and submit it to nomination controller. Nomination controller analyze all these forms and submit it to evaluation controller, evaluation controller evaluate these forms and declare final results.
+
+Duration
+
+JULY 2013 to june 2015
+
+Team size
+
+4
+
+Role &Responsibilities
+
+Writing quality business code in JAVA, J2EE and UI development using JSP.
+
+Integration of various modules.
+
+Bug fixing.
+
+
+
+Language/OS/Tools
+
+Core JAVA, J2EE, , Hibernate, struts,Spring, JavaScript,  
+
+MYSQL and Oracle 10g.
+
+Tomcat, Jboss 6
+
+
+
+Software Pocess
+
+Agiles
+
+
+
+Versioning tool 
+
+Clear Case
+
+
+
+
+
+INTERNSHIP:
+
+AricentGroup,Gurgaon.
+
+      Designation: Trainee
+
+
+
+  Project: HX System						      Client: HNS, US
+
+Description
+
+HX System offers high-speed IP network over satellite link through HX NOC Gateway and HX Satellite Routers. The HX System supports IP applications between HX NOC Gateway and satellite routers or between different satellite routers. All HX satellite routers communicate with NOC Gateway over the out route HX NOC Gateway HX Satellite Routers and in routes.
+
+Duration
+
+ 31 Jan 2013 to 28 June 2013
+
+Team size
+
+10
+
+Role &      Responsibilities
+
+Involved in coding & testing of this project. Prepare lab setup, installation of software, VLAN protocol, router configuration.
+
+Language/OS/Tools
+
+C, C++, Core Java,J2ee,UNIX , Visual Basics
+
+Protocol
+
+TCP/IP
+
+
+
+
+
+Academic Achievements:
+
+Participated in Inter-college tech competition on corporate institute of science & technology Bhopal.
+
+
+
+Other Achievements:
+
+	Member of National Guide in Graduation.
+
+	Member of College cricket team.
+
+Hobbies and Interest:
+
+	Listening music.
+
+	Reading novels
+
+	Sports like Cricket, kabaddi and volley ball etc.
+
+
+
+Extra Curricular Activities:
+
+	
+
+	Been the Class representative in college for 3 years, during this, acted as a liaison for my class with the faculty and college management facilitating smooth coordination between the two sides
+
+	Entrepreneurship Development Program from central financial institutions & Govt. of Bihar During graduation.
+
+
+
+PERSONAL DETAILS:
+
+Father’s Name	: Mr. Taranand Prasad Yadav.
+
+Mother’s name         :  Sheela Devi
+
+Nationality		:  Indian
+
+Date of Birth		:  03 Jan 1988.
+
+DECLARATION:
+
+I here by declare that the details furnished above are true to the best of my knowledge.
+
+ Place: 
+
+New Delhi                                          	                                       Prabhakaran  Prashant

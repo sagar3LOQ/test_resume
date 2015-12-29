@@ -1,0 +1,335 @@
+																							          												
+
+Pre-screening Technical Questionnaire :-
+
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate  :   7.6yrs                      
+                  
+
+Spring         :     7.6yrs    
+                                 
+
+Web
+Services   :4.0yrs                         �
+�            
+
+Core
+Java         :8.6yrs                     �
+�              
+
+Design
+Patterns    :Yes                          
+     
+
+UML
+design        :      Yes                 
+            
+
+Build Tools (Maven/Ant)     :Both              
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Database - Oracle
+
+EXPERIENCE SUMMARY
+
+Over 8.6 years of  IT experience in Software Development ,Maintenance
+and Client/Server 
+
+	  Technologies.
+
+Having worked on variety of web application systems and Enterprise
+applications, has good skills in the areas of Business Analysis, Design,
+Documentation and Coding.
+
+Having good domain knowledge in Insurance, Banking,
+SuppyChainManagement, Logistics,
+
+and Hospitality.
+
+ 
+
+TECHNICAL SUMMARY
+
+Skills	Tools
+
+Technologies	CoreJava, JDBC, Servlets, JSP,
+JavaScript,JMS,XML,EJB,Restful Webservices, SOAP,Ajax,Junit
+
+Frameworks	Struts, Hibernate, Spring
+
+Database	SQL Server, Oracle
+
+Operating Systems	Windows Family, Linux
+
+Servers	Tomcat, weblogic, Websphere
+
+Tools 	SVN, Eclipse,Maven ANT,CVS,Log4j,WSAD,RAD,GIT
+
+	
+
+		
+
+WORK HISTORY
+
+Organisation	Duration	Role
+
+HCL Technologies Pvt.,Ltd	December2013- Till now	Technical Lead
+
+Accenture India Pvt.,Ltd 	November2009-November 2013	Team Lead
+
+ING Life India Pvt.Ltd 	August 2008 – November 2009	Senior Executive
+
+IBM India Pvt.Ltd 	April 2006 – March 2008	Application Programmer
+
+Covansys India Pvt.Ltd 	August 2005 – April 2006	Associate Project
+
+
+
+	Onsite work experience:
+
+Worked in Denmark for client JyskeBank remediation work 
+
+WORK EXPERIENCE
+
+Organisation	: HCL Technologies Pvt., Ltd 
+
+Project #1	: GFS 
+
+Environment	: Spring,Hibernate,Websphere Portlets,Webservices,
+Websphere, SQL Server
+
+Client		: GIGA, Malaysia
+
+Duration	: Jan 2014-till date
+
+	Giga shipping is an application development and maintenance project.
+Client is involved in RO RO vessel business based out of Malaysia,
+mainly involved in car carrier transportation. 
+
+Project is divided into 2 sets of development, primary application
+development is for Giga shipping to manage their order to delivery
+operations worldwide. Secondary application development is for nexus
+transportation managing their inland transportation business. 
+
+Responsibilities: 
+
+Creation of UI components and POJO
+
+Developed the Websphere Portlets
+
+Involved the application design and database design
+
+Involved in Fixing the Issues
+
+Involved in UI Validations
+
+Involved in Junit Testing and Junit Build
+
+		
+
+Organisation	: Accenture India Pvt., Ltd 
+
+Project #1	: Pulse-iPAD 
+
+Environment	: Spring,Hibernate,Restful Webservices, Tomcat, SQL Server
+
+Client		: Apple, USA
+
+Duration	: May 2013-till date
+
+	Mobile Pulse iPAD project is developed for the user to register to the
+Pulse iPAD application and they will get the pin for authentication
+after enter the pin the registration process is completed.
+
+	Various Surveys are available in the website and the user can
+participate the survey and the user need to provide the answers for all
+mandatory questions to complete the survey.Workshops also available in
+the website for user to participate and user can download the decks
+available in the website before starting the workshop. 
+
+Responsibilities: 
+
+Creation of UI components and POJO
+
+Developed the Restful Webservices
+
+Involved the application design and database design
+
+Involved in Fixing the Issues
+
+Involved in Junit Testing and Maven Build
+
+Involved in UI validations
+
+Project #2	: CRS
+
+Environment	: Java, Struts, Hibernate,Webservices,JSP, Servlets,
+EJB,Websphere,oracle
+
+Client		: STARWOOD, USA
+
+Duration	: Dec 2011-April 2013
+
+Starwood Hotels and Resorts Worldwide Incorporation is the most global
+high-end hotel company in the world.Starwood is one of leading hotel and
+leisure companies in the world with 1,134 properties in nearly 100
+countries and 171,000 employees at its owned and managed properties.
+Starwood is a fully integrated owner, operator and franchisor of hotels,
+resorts and residences.
+
+The internationally renowned brandes are St.Regis, The Luxury
+Collection, W Hotels, Westin, Le Méridien, Sheraton, Four Points by
+Sheraton, Aloft, and Element.The Company boasts one of the industry’s
+leading loyalty program, Starwood Preferred Guest (SPG), allowing
+members to earn and redeem points for room stays, room upgrades and
+flights, with no blackout dates. The head quarters of starwood hotels is
+located in Stanford,US
+
+Responsibilities: 
+
+Creation of UI components and POJO  
+
+Involved in Fixing the Issues
+
+Involved in Junit Testing and Build
+
+Involved in UI validations
+
+Project #3	:  SPLUS
+
+Environment	: Java, Struts,Hibernate,Webservices,JSP, Servlets, EJB,
+WebLogic, Oracle
+
+Client		: UPS, USA
+
+Duration	: Nov 2009 – Nov 2011
+
+   	 UPS is a World's largest package delivery company and a leading
+global provider of specialized transportation and logistics services.
+UPS Headquarters is located in Atlanta, GA. UPS having operations in
+more than 200 countries.
+
+In the  process of creating the order the system takes various input
+parameters from customer like the item details and quantity. In the
+order creation process the UPS system is communicating with RTM system
+through webservices calls. The workflow initiate the synchronous and
+asynchronous communications between UPS and RTS systems. Intially at the
+time of placing the order it communicate with the inventory system for
+available items and pull the data from Warehouse system and publish to
+the user and in the part of the workflow the routing is pulling the
+various transportations available and with vendor and distance details.
+This process carrying all the details from one level to another level to
+till place the order
+
+Responsibilities: 
+
+Creation of UI components and POJO  
+
+Involved in Bug Fixing activities
+
+Involved in Junit Testing 
+
+Involved in Ant configuration
+
+Involved in UI validations
+
+Organisation	: ING, Netherlands
+
+Project	#4	: SCIM
+
+Environment	: Java, Websphere portlets, JSP, Servlets, EJB,WebSphere,
+SQL Server
+
+Duration	: August 2008 – Nov 2009
+
+SCIM is combination of various campaigns. The system calculates the
+incentives of the employees based on their performance. This application
+is designed based on the roles, on branch wise and area wise, the
+proposals sales and the calculation of the premium amount and sum
+assured amount.The agents have to reach their targets on quarterly. The
+key objective of this modernization effort is motivating the employees
+through various campaigns. Every quarter a new campaign will be released
+and the employees participate in the campaigns to achieve the goals. The
+reporting structure is based on the roles.
+
+Responsibilities:
+
+Developing Web-tier Components 
+
+Involved in framework design.
+
+Used Struts validator framework for validation
+
+Involved in debugging activities
+
+Organisation	: IBM India Pvt.,Ltd
+
+Project #5	: Celestica, Canada
+
+Environment	: Java, Websphere portlets, Jsp, Servlets, EJB, TAM, LDAP,
+WAS, WPS, Oracle
+
+Client		: Celestica, Canada 
+
+Duration	: April 2006 – July 2008
+
+	Development of Enterprise Portal and Employee Portal for Celestica.
+Integration of the portlets with other backend applications
+(Datawarehouse, SAP, Lotus Notes, java/j2ee) and providing Single Sign
+On (SSO) for them. Maintain the whole production environment comprising
+of Access Manager, LDAP and other components in a clustered environment.
+
+Responsibilities:
+
+Creating Websphere Portelts, Configuration of Portlets, Performance
+tunning.
+
+Creating the junctions on WebSeal Server
+
+Executing the UNIX commands and server configuration
+
+Providing the mappings between portlets and backend applications.
+
+Unit testing of the developed web-tier components
+
+Involved in WebSphere Portal Administration
+
+Involved in WebSphere Application Server Administration
+
+Organisation	: Covansys India Pvt.,Ltd
+
+Project	#6	: ETABS, USA
+
+Environment	: Java, JSF, EJB, IBM WSAD, WAS, Oracle
+
+Client		: OHIO State Government, USA 
+
+Duration		: August 2005 – July 2008
+
+	The Department of Job and Family Services, Office of Unemployment
+Compensation, Bureau of Unemployment Compensation Tax (UC Tax)
+administers the tax and wage record provisions of the Ohio Unemployment
+Compensation Law. UC Tax is seeking to implement a modernized system for
+processing unemployment compensation taxes to effectively.
+
+Responsibilities:
+
+ Developing Web-tier Components (JSF Pages, Page codes, Form Beans)
+
+	Writing common Components for validations
+
+	Writing Custom data beans
+
+	Configuration of navigation rules, managed beans in faces-config.xml
+file
+
+	Unit testing of the developed web-tier components
+
+EDUCATIONAL QUALIFICATIONS
+
+Master of Computer Applications (M.C.A,).  from S.V. University ,2004. 
+

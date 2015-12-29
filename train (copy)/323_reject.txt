@@ -1,0 +1,214 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                 -  1 year
+                                    
+           
+
+Spring                  
+                                 - 4 year&
+last
+project                                �
+�              
+
+Web
+Services                                
+       -  3
+year                                  
+              
+
+Core
+Java                                  
+            -  8.4 years                
+
+Design
+Patterns                                
+   -  8year            
+
+UML
+design                                 
+         -   4 year
+
+Build Tools (Maven/Ant)                   -   
+Ant   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Eclipse/RAT,tomcat,weblogic
+
+Ok for bitchemy
+
+Dharani Kolukula                    	                                   
+                                                                        
+                      Mob: +91-9704436260                               
+          Email:   HYPERLINK "mailto:geddadi.dharani@gmail.com" \t
+"_blank"  geddadi.dharani@gmail.com 
+
+OBJECTIVE
+
+To utilize the technical and analytical skills assimilated through my
+academic and professional career in a challenging environment and to
+contribute effectively for the organization and for my own career
+growth.
+
+EDUCATION                                
+
+Bachelor of Technology, Chemical Engineering, NIT Warangal              
+       			                       June ’02 - May ’06
+
+EXPERIENCE
+
+Cognizant Technology Solutions, Hyderabad			                    
+
+Associate - Projects								         June '06 –till Date
+
+   
+
+SKILL SET
+
+Programming Languages: Java, J2EE
+
+Concepts: Web services, Spring, Hibernate, JAXB, Ant, Drools, Http
+Client, AJAX,Java Script,CSS and HTML
+
+Platforms: Linux, Windows 98, NT, XP
+
+Servers: Apache Tomcat, Web Sphere, Vignette App Portal
+
+Databases: Oracle 9i, DB2, MS SQL and MSAccess
+
+Software/Tools: Eclipse, RAD, Cvs, Svn, SOAPUI
+
+                  
+
+PROJECTS
+
+Derivative Technologies for Northern Trust								            
+Aug'12-till Date
+
+Responsibilities: As a Senior Developer,
+
+Involved in the analysis, design and development of new dockets.
+
+Understanding the overall project flow.
+
+Prepared high level design document.
+
+Prepared flow charts for the JCAPS component of the entire project.	
+
+CTN-ADT for Amex Financial Services USA								           Mar'12-Aug'12
+
+Responsibilities: As a Senior Developer,
+
+Developed the Entire profile flow of the application
+
+Unit testing of this flow
+
+Worked on implementation of exception handling
+
+Fixed code review comments
+
+Bank Proxy for Ameriprise Financial Services USA.								Dec'11-Feb'12
+
+Responsibilities: As an Onsite Tech Lead,
+
+Daily communicated with offshore team for business clarifications and
+drafting the mails accordingly.
+
+Involved in the development of toggling mechanism using JMX and groovy
+to enable the toggle between old system and new system.
+
+Involved in code review and Unit testing
+
+Columbia R11-P22D for Ameriprise Financial Services USA.						
+Jan'11-Dec'11
+
+Responsibilities: As an Onsite Tech Lead,
+
+Worked closely with the customer and align with the requirements and
+their implementation.
+
+Involved in meetings with Ameriprise Architect for design discussions.
+
+Involved in the Cross Commit calls and co-ordinated with them for quick
+resolutions and clarifications.
+
+Daily communicated with offshore team for business clarifications and
+drafting the mails accordingly 
+
+Provided an effective and efficient solution while working on UAT
+issues.
+
+Involved in soft launch and hard launch of the site.
+
+ServiceOnline for Ameriprise Financial Services USA. 							
+Apr'10-Jan'11
+
+Responsibilities: As a Development Lead,
+
+Review the requirements and freeze on the technical implementation.
+
+Write high level technical documentation of the implementation of
+features.
+
+Mentoring the team under me and help them out in all aspects of SDLC.
+
+Involved in developing the Registration Flow which is the critical and
+challenging part in the application. It includes Web Service calls to
+Third Party applications.
+
+Communicating with Cross commit teams (Third Party Vendors) to get
+clarifications on the process.
+
+Effectively handled the code integration and deploying it in App Server.
+
+Work on the post-production operational issues and get them resolved in
+time.
+
+AAHOnline for Ameriprise Financial Services USA.. 								Feb'09-Mar'10
+
+Responsibilities: As a Senior Developer,
+
+involved in Analysis and Design of the AAH Online application that
+demanded a flexibility of changing user interfacing forms, queries and
+business rules without restart of the application servers.
+
+Designed and developed the complete back end of the application which
+interacts with Third party vendors and saving the user entered answers
+in Database.
+
+Responsible for developing and maintaining the user interface using the
+VAP product that involved development of web interface using JSP,
+Servlets, JavaScript.
+
+Was involved in writing and implementing business rules using the DROOLS
+tool
+
+Early Warning System for Ameriprise Financial Services USA. 						
+Feb'07-Jan'09
+
+Responsibilities: As a Developer,
+
+Involved in understanding and analyzing the basic system requirements.
+
+Involved in Analysis, Design, Construction, Testing phases.
+
+Involved in Onsite interactions on daily basis in getting clarifications
+on requirements. 
+
+Code Reviews. 
+
+Integration and System Testing in E1 Environment
+
+Mutual Fund Sales Process for Ameriprise Financial Services USA. 					
+Sept'06-Jan'07
+
+Responsibilities: As a Developer,
+
+Involved in analyzing the Process Flow and undergone with code
+walk-through.
+
+Involved in Testing phases.
+

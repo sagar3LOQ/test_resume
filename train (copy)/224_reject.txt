@@ -1,0 +1,758 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                 - 
+1.5year                                �
+�              
+
+Spring                  
+                                 - 1.5
+Years                                 �
+�             
+
+Web
+Services                                
+       -  4
+years                                 �
+�              
+
+Core
+Java                                  
+            -  8.years                
+
+Design
+Patterns                                
+   -  6 years            
+
+UML
+design                                 
+         -   2.5 Years
+
+Build Tools (Maven/Ant)                   -    2.5
+maven ant 8yrs   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Eclipse,google code pro,optimisation,sonar 
+
+11.5
+
+CA-16+15%
+
+Second company-16
+
+2nd dec 
+
+CURRICULUM VITAE
+
+Hari Kishan Tammana,			 	           Home No: +91 8672 231399
+
+D.No:12/350-1, Rustumbada,      	       	           Mobile No: +91
+9493800809
+
+Sivalayam, Gandhi Bomma,			           Email:   HYPERLINK
+"mailto:harikishan.tammana@gmail.com"  harikishan.tammana@gmail.com     
+Machilipatnam, Krishna Dt.				 
+
+Andhra Pradesh, India- 521001				
+
+  
+
+Career OBJECTIVE:
+
+To pursue a career which offers me an opportunity to grow professionally
+and to acquire profound collective and individual skills required for
+steady growth and stability which augments the knowledge acquired during
+my graduation. Looking for a career in a progressive organization which
+provides the opportunity to make a strong contribution to organizational
+goals through continued development of professional and personal skills.
+
+
+Educational Overview:
+
+M.Sc (Hons) Mathematics & B.E (Hons) Mechanical	           Aug
+2002–June 2007
+
+Institution		: Birla Institute of Technology and Science
+(BITS–Pilani), Rajasthan
+
+Overall CGPA		: 6.95 
+
+Higher Secondary Education				           June 2000–May 2002
+
+Board			: Board of Intermediate Education, Andhra Pradesh
+
+Institution		: Vignan Vidyalayam Junior College, Guntur, Andhra Pradesh
+
+Percentage		: 96.7%
+
+Secondary School Education				          June 1999–April 2000
+
+Board			: Central Board of Secondary Education, Andhra Pradesh
+
+Institution	: Bharatiya Vidya Bhavan Residential Public School,
+Bhimavaram, Andhra Pradesh
+
+Percentage		: 74.0%
+
+PROFESSIONAL EXPERIENCE:
+
+Organization	Designation	Duration 
+
+Oracle India Pvt Ltd.	Senior Software Engineer	August 2012 to Till date
+
+PASS GCA Solutions Private Ltd, India	Senior Software Engineer	April
+2011 to August 2012
+
+Amdocs Development Center India , Pune	Senior Subject Matter Expert	Sep
+2009 to March 2011
+
+Satyam Computer Services Ltd, Hyderabad	Software Engineer 	Oct  2007 to
+Sep 2009
+
+
+
+TECHNICAL SKILLS:
+
+Operating Systems	Windows 98, 2000 Professional, XP, Vista, Linux
+
+Languages	C, JAVA-J2EE, SQL, UNIX, PL/SQL
+
+Databases	Oracle 9i / 10g, MySQL
+
+GUI	HTML, XML, JavaScript, Oracle ADF Framework
+
+Frameworks	Struts, Hibernate, Spring (Web module), Mule ESB, Smooks, 
+Drools, Mule ESB (Integration Framework), APEX , ADF 
+
+Tools, IDE & Utilities	Eclipse, Net Beans, TOAD 9.7.2, Tomcat Web
+Server, Weblogic 9.2, Glassfish 2.1, MULE ESB, JDeveloper 11g, Oracle
+SOA Suite 11g, 
+
+Domain Knowledge	Telecom, Logistic Management, Software Development,
+Server Side Apps & Rules Engine
+
+
+
+PROJECTS PROFILE:
+
+1. 	Project Name : DEMO MANAGEMENT TOOL (DMT), ZEUS UI (APEX & ADF)
+
+Client	Oracle Technical Operations
+
+Role	Senior Software Engineer
+
+Organization	Oracle India Private Ltd, India
+
+Duration	(08/2012) – till date
+
+Team Size	6
+
+	Module: Fusion Application tools Development
+
+Environment
+
+(with skill versions)	Oracle ADF Framework 
+
+	Technologies: Java, SQL, PL/SQL, APEX
+
+Server: Oracle Weblogic 10.3
+
+O/s: Windows XP.
+
+CVS: Tortoise SVN 
+
+
+
+Project Description: 
+
+The DMT tool provides all the Capabilities for the Technical Operations
+personal to access the Oracle Internal Zeus Database; to fetch the
+Environment related information and Work on the data. Create the Copy of
+the Environments and Restoring the Snap(environment copy) to create bulk
+of similar environments belonging to the same release, which we call
+Archive- Restore Processes. This tool performs Actions via JOB control
+as Job Request and Job Actions per each request to track the processes.
+
+Zeus UI is the internal Oracle website to manage all the Zeus Data
+(Environment, Images and Servers, Image templates), This runs on APEX
+server to provide faster data access and data control mechanisms. This
+again is for the Oracle Build and Infra teams to make there work easier
+and faster.
+
+  Contributions:
+
+Individual Contributor to the development of certain functionalities
+divided among the team, and guide my junior resources to prosper in the
+development environment.
+
+Taking part in all the Business meetings with Oracle technical
+operations and infra personnel, for Scoping the requirement.
+
+Detailed design of Requirements
+
+2. 	Project Name : Sensors Project
+
+Client	PROT & PLANTOUR
+
+Role	Senior Software Engineer
+
+Organization	PASS GCA Solutions Private Ltd, India
+
+Duration	(06/2011) – (08/2012)
+
+Team Size	3
+
+	Module: Sensors & Rules Module
+
+Environment
+
+(with skill versions)	Eclipse IDE 3.6 (Helios), Navicat-Lite
+
+	Technologies: Mule ESB, Drools-JBPM Integration, Smooks, Java, JMS
+(ActiveMQ), JAXB, MySQL
+
+Server: Mule 3.2.0 Standalone, Glassfish 2.1 
+
+O/s: Windows XP.
+
+CVS: Tortoise SVN 
+
+
+
+Project Description: 
+
+The Sensors Project deals with the Sensor data of the Logistic Companies
+Vehicles. We develop an application which receive the Sensor and Sensor
+Type Configurations, based on which we communicate with third party
+interface to get the real time Sensor values information in regular
+intervals and Send those data to the PLANTOUR in written CSV format in
+intervals. At the same we run Alarms on the real time sensor data for
+tracking the uneven situations and intimate the concerned departments
+regarding the logistic emergencies. The Project is also developed to be
+portable and modularized with very loose coupling using JMS
+communication when necessary.
+
+  Contributions:
+
+Team Lead role.
+
+I have been given the complete responsibility of the design and
+development of the Sensors Project.
+
+Taking part in all the Business meetings with client, Scoping and risk
+assessment.
+
+Detailed design of Requirements
+
+2. 	Project Name : AND Server
+
+Client	PROT & PLANTOUR
+
+Role	Senior Software Engineer
+
+Organization	PASS GCA Solutions Private Ltd, India
+
+Duration	(04/2010) – (06/2011)
+
+Team Size	8
+
+	Module: AND Server Performance    & Security.
+
+Environment
+
+(with skill versions)	NetBeans IDE 6.1, Navicat-Lite
+
+	Technologies: Java/J2EE, Jersey, JMS, EJB, JAXB, MySQL
+
+Server: Glassfish 2.1
+
+O/s: Windows XP.
+
+CVS: Tortoise SVN 
+
+
+
+Project Description: 
+
+The AND Server and Mobile Application are the unique application for
+managing the complete logistics management of the Organization which
+deals with the Tours, Package delivering etc.
+
+The Driver has the Mobile and uses the Server to authenticate the User
+to use the device. Driver gets the Data of the Tours from the server
+into the Mobile and updates the status of the tours into server on
+regular basis. 
+
+  Contributions:
+
+The responsibility of the improvement of the Performance of the existing
+Server side application for the Client, which communicates with the
+Mobile for various activities.
+
+Implemented the JSON communication for the transfer of Data between
+Server and Mobile , which decreases the download time and Performance
+
+Similarly GZIP compression of data transfer between Server and Mobile,
+which is applauded by the client for the affect on the performance.
+
+Security JDBC Realms Integration with Server and Mobile using the Basic
+Authentication model. This helps us to authenticate and authorize the
+remote resources as well as user interface components based on the
+roles.
+
+3. 	Project Name : Titan 5.1
+
+Client	AT & T Cingular
+
+Role	Senior Subject Matter Expert
+
+Organization	Amdocs Development Center India, Pune
+
+Duration	(10/2010) – (03/2011)
+
+Team Size	3
+
+	Module: Simulator Development
+
+Environment
+
+(with skill versions)	Software
+
+	Technologies: Java/J2EE, JMS, EJB, JAXB
+
+Server: Weblogic 9.2. 
+
+O/s: Windows XP.
+
+CVS: ExtraC 
+
+
+
+Project Description: 
+
+The Simulator needs to be developed for the Various interface calls with
+different inputs such as the messages or serialized objects. For this
+the simulator will be developed with EJB and JMS implementation to
+handle the remote calls/Queue inputs. This Simulator also needs to
+convert the normal object input to XML output using JAXB. The
+performance of the application is also improved with caching mechanism.
+
+Contributions:
+
+With the minimal team size, I have been given the complete
+responsibility of the design and development of the simulator.
+
+Taking part in all the Business meetings with client, Scoping and risk
+assessment.
+
+Detailed design of Requirements for the Customer time and time
+
+4. 	Project Name : MetroPCS ASAP
+
+Client	MetroPCS
+
+Role	Senior Subject Matter Expert
+
+Organization	Amdocs Development Center India, Pune
+
+Duration	(04/2010) – (06/2010)  & (07/2010) – (09/2010)
+
+Team Size	15
+
+	Module: Application Front End Development
+
+Environment
+
+(with skill versions)	Software
+
+	Technologies: Java 1.5, SQL, PL/SQL, UNIX. 
+
+Framework : STRUTS
+
+Database: Oracle 10g.
+
+Server: Weblogic 9.2. 
+
+O/s: Windows XP.
+
+CVS: ExtraC 
+
+
+
+
+
+	
+
+Project Description: 
+
+Metro PCS is the Organization with big market Northern America with high
+expectations started its business with Amdocs to capture the large share
+market which is not in its possession. And the OMS implementation is
+required for achieving it which is provided by my team. In my current
+project, I am working with the development team for client’s specific
+requirements. Along with CDMA it also started high speed technology
+which is also implemented in the project OMS requirements.
+
+I designed and developed customization of Order Management System.
+
+Contributions:
+
+Taking part in all the Business meetings with client, Scoping and risk
+assessment.
+
+Mentor role for all the junior developers to enhance their skills and
+business knowledge.
+
+I also have a good experience working in the client environment (Onsite)
+for the big release which is very successful and with high quality.
+
+Detailed design of Requirements for the Customer time and time
+
+Implementation of requirements in the Front-end portal of the
+Application.
+
+Defect fixing of the UT, SST and ST Stages of the Project.
+
+Identified as the good performer very early (9 months) and had been
+promoted to Senior Subject Matter Expert.
+
+5. 	Project Name : Risk Management API 
+
+Client	BELL CANADA
+
+Role	Senior Subject Matter Expert
+
+Organization	Amdocs Development Center India, Pune
+
+Duration	(06/2010) – (07/2010)
+
+Team Size	6
+
+	Module: Application Programming Interface
+
+Environment
+
+(with skill versions)	Software
+
+	Technologies: Java 1.5, SQL.
+
+Framework : STRUTS
+
+Database: Oracle 10g.  Server: Web logic 9.2.
+
+
+
+6. 	Project Name : DAVE/MOBILICITY ASAP
+
+Client	MOBILICITY, Canada
+
+Role	Senior Subject Matter Expert
+
+Organization	Amdocs Development Center India, Pune
+
+Duration	(02/2010) – (04/2010)
+
+Team Size	10
+
+	Module: Application Front-end
+
+Environment
+
+(with skill versions)	Software
+
+	Technologies: Java 1.5, SQL. 
+
+Framework : STRUTS
+
+Database: Oracle 10g.
+
+Server: Weblogic 9.2. 
+
+O/s: Windows XP.
+
+CVS: ExtraC 
+
+
+
+Project Description: 
+
+MOBILICITY (Initially known as DAVE) is the Organization which is
+established recently and with high expectations started its business
+with Amdocs to capture the large share market in Canadian market. And
+the OMS implementation is basic requirement for achieving it which is
+provided by us. In my current project we are working on the front-end
+for client’s specific requirements. I took the core part in the design
+and development of the Front-end Order Management System portal. And I
+worked end to end tin this project till the delivery to the customer.
+
+Contributions:
+
+Worked on the Impact Assessment by interacting with the Customer
+delivery units (CDU’s)
+
+Communicated with various back-end application teams for gathering the
+information helpful for the development for escaping the late defects.
+
+Detailed design of Requirements required for the Customer time and time
+
+Implementation of requirements in the Front-end portal of the
+Application.
+
+SST development support for the test case execution
+
+Defect fixing of the UT, SST and ST Stages of the Project.
+
+7. 	Project Name: FDT/SNAP PORTAL
+
+Client	Sprint Nextel Corporation
+
+Role	Senior Subject Matter Expert
+
+Organization	Amdocs Development Center India, Pune
+
+Duration	(09/2009) – (01/2010)
+
+Team Size	30
+
+	Module: Order Management System Frontend
+
+Environment
+
+(with skill versions)	Software
+
+	Technologies: Java 1.5, SQL.
+
+Framework : STRUTS
+
+Database: Oracle 10g.
+
+Server: Weblogic 9.2. 
+
+O/s: Windows XP.
+
+CVS: ExtraC 
+
+
+
+Project Description: 
+
+Sprint Nextel is the most prestigious client of Amdocs and OMS
+customization on top of the core OMS implementation is required. In my
+current project, I am working with the development team for client’s
+specific customization. I designed and developed customization of Order
+Management System.
+
+Contributions:
+
+Detailed design of Order Management System.
+
+Implementation of Order Management System Application.
+
+SST development support for the test case execution
+
+Defect fixing of the UT, SST and ST Stages of the Project.
+
+I Acted as the Mentor for the fresher’s in the Project providing them
+with Continuous Knowledge Transfer sessions.
+
+8. 	Project Name : Quality Maintenance Team	  
+
+Client	Java Work Bench Research
+
+Role	Software Engineer
+
+Organization	Satyam Services Private Ltd.
+
+Duration	(10/2008) – (09/2009)
+
+Team Size	10
+
+	Module: Code Quality and Testing Team
+
+Environment
+
+(with skill versions)	Software
+
+	Technologies: Java 1.5, UNIX.
+
+IDE’s : NetBeans 6.1, Eclipse 3.0 
+
+Tools: FindBugs, CheckStyle, PMD, JProfiler.
+
+Database: Oracle 9i.
+
+Server: Tomcat 5.0. 
+
+O/s: Windows XP.
+
+
+
+
+
+	Project Description: 
+
+As part of JavaWorkBench, we have explored some IDEs like Net Beans 6.1
+and Eclipse Europa. As a team member, I have worked on ‘Profiling on
+Net Beans 6.1’ with different servers like JBoss 4.2, Weblogic 9.1 and
+Glassfish and also on Source Code Analysis tools like ‘PMD, CheckStyle
+and FindBugs to test our web applications in IDE’s like NetBeans 6.1
+and Eclipse 3.3.2. And also performed unit testing for different
+applications using JUnit.
+
+The Net Beans Profiler is a tool for the monitoring of Java
+applications: It helps to find memory leaks and optimize speed. IDE
+includes a powerful profiling tool that can provide important
+information about the runtime behavior of the application
+
+9. 	Project Name : Maintenance of CWT 
+
+Client	Carlson Wagonlit Travels, US
+
+Role	Developer
+
+Organization	Satyam Computer Private Ltd.
+
+Duration	(03/2008) – (10/2008)
+
+Team Size	15
+
+	Module: Logistics management System.
+
+Environment
+
+(with skill versions)	Software
+
+	Technologies: Java 1.5, SQL, PL/SQL, UNIX. 
+
+Framework : STRUTS
+
+Database: Oracle 9i.
+
+Server: BEA Weblogic 9.2. 
+
+O/s: Windows XP.
+
+
+
+Project Description: 
+
+CWT deals with providing services to different Airline travelers across
+the Globe. Webmaint is a web based application to configure CWT’s
+Client’s data and Traveler Counselor data. Portrait is a web-based
+application and accessible across Internet by travelers to view and
+update their profile. PAL is another application which loads the
+traveler profiles from flat files or xml files. Portrait uses Profile
+Distribution Service (PDS) to share traveler’s profile with CWT
+partners (GDS, KDS, Australia, and Mobile). Web Maintenance Application
+(WAP) is to allow designees from around the global to setup new
+clients, modify existing client setup, and grant access to internal CWT
+personnel via a website. New enhancements are added to Portrait, PAL and
+Webmaint application during different phases to increase the
+functionality of these applications.
+
+Contributions:
+
+As a team member, I was responsible for 
+
+Understanding the Portrait, PAL and Webmaint application.
+
+Playing role in the development of Portrait to add on new enhancements
+to the existing functionality of the application.
+
+Development of java classes, interfaces and JSP’s for the Portrait
+development in accordance with CWT Coding Standards.
+
+Providing Solutions/fix to issues identified as technical bugs. 
+
+Intensive round of unit and integration testing of all CR’s and
+PDR’s and to provide solutions to bugs.
+
+Development of Test Cases.
+
+Training at Satyam Learning Centre: 	  			Oct 2007-Mar 2008
+
+Extensive training of five and half months in C, RDBMS, SQL, JAVA, JSP,
+Servlets, HTML /JavaScript and frameworks like Hibernate and Struts 1.1
+was provided.
+
+An internal project named ‘Employee Information Interface in X-Mart’
+was done for 14 days using Struts and Hibernate Frameworks. Also had a
+basic training on the Spring 2.0 framework for a week.
+
+Role: Trainee
+
+Server: Oracle 9i, Apache Tomcat 6.0
+
+Technologies Used: J2EE, HTML/JavaScript, XML
+
+IDE: Net Beans 5.5
+
+                                                
+
+Additional Achievements:
+
+A Sun Certified Java Programmer.
+
+Recipient of State Government’s prestigious Pratibha Scholarship.
+
+Associate Coordinator for a Cultural Event (INBLOOM 2006-07) in
+BITS-Pilani.
+
+Been a leader from my College Days as a Sports Secretary of my
+respective bhawan in BITS-Pilani for two years consecutively.
+
+Apart from having 3 yrs of professional experience in Java, I have
+additional 6 months of experience in C and Java programming during my
+apprentice-ship in ATS Services Private Ltd, Delhi.
+
+Quick Persuasive skills with very good interest to learn various
+technologies.
+
+Always been the top performer in the team gaining the accolades of my
+respective managers. 
+
+Within a short span of time my leader ship skills are recognized and my
+responsibilities as a Focal point and mentor are rewarded.
+
+HOBBIES:
+
+Solving Puzzles & Riddles
+
+Listening Music & Watching Movies and Sports
+
+OTHER RELEVANT DETAILS:
+
+Current Company 	:  Oracle India Pvt Ltd
+
+Current CTC		:  10.5 LPA + BONUS
+
+PERSONAL PROFILE:
+
+	
+
+Father’s name	:  Radha Krishna Murthy Tammana	
+
+Date of Birth		:  24th September, 1985
+
+Gender		:  Male
+
+Nationality		:  Indian
+
+Marital Status		:  Married
+
+DECLARATION
+
+I do here by confirm that the information given in this form is true to
+the best of my knowledge and belief.
+
+Date:  	   								          Hari Kishan T
+
+Place: Hyderabad						 	
+
+Hari Kishan Tammana
+
+Curriculum Vitae Page   PAGE  9  of   NUMPAGES  9 
+

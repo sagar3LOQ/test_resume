@@ -1,0 +1,187 @@
+Ankit Khandelwal
+
+M.Tech(Software Engineering), WILP-‘14, BITS-Pilani 
+B.E. (I.T.), ‘07, Devi Ahilya University, Indore
+
+Address 
+
+S1, Plot 15,3rd cross street, sri sainagar, 
+Thuraipakkam, Chennai – 600097
+
+Mail
+
+ankitkhandelwal6@gmail.com
+
+Phone
+
+ +91-9176077253
+
+
+
+
+
+Full-stack engineer, with 8 years of java/j2ee experience. 6 years of development experience in PaaS & IaaS.
+
+Versed in design of distributed, scalable and multi-tenant/ reseller enabled architecture.
+
+Certified Google cloud developer and java 5 programmer.
+
+Hands on Linux(Ubuntu/debian)
+
+Can contribute independently or with a team.
+
+Skill-set
+
+	Cloud Platforms worked on
+
+Pivotal Cloud Foundry, Google Appengine, Google Cloud, AWS EC2-classic, VMWare
+
+	Cloud Services
+
+Google Bigquery, AWS Redshift, Google Cloud Messaging, AWS S3, Google Cloud Storage, AWS CloudFront, AWS Elastic Load Balancer
+
+	Tools & frameworks
+
+Maven, Jenkins, Google OAuth, OpenTSDB, Tomcat 7, Spring MVC, Spring Cloud, Spring boot, Spring ReST, JQuery, Bootstrap, HAProxy, ActiveMQ, JMeter, Quartz, Talend Bigdata studio for ETL, Pentaho kettle ETL tools
+
+	Languages
+
+Java7, JavaScript, Python, Shell script.
+
+
+
+Professional Experience
+
+June 2012 – till date, GTO, Cognizant Technology Solutions India Pvt. Ltd., Chennai, Tamilnadu
+
+Software engineering and architecture lab experience
+
+Installed on premise Pivotal Cloud Foundry on VMware. Customized java build-pack with add-on native binaries.
+
+Re-designed 2 applications for micro-services architecture & Cloud Foundry PaaS.
+
+Project experience
+
+VideoVantage for North Shore LIJ, U.S. : Distributed video editing and streaming product
+
+Participated in over-all design for VideoVantage product. 
+
+Implemented and documented ReST API for VideoVantage product for upstream integration.
+
+Involved in performance benchmarking and capacity planning.
+
+Google Bigquery evaluation for Taco Bell, U.S.
+
+Designed schema for storing clickstream data into Bigquery and wrote the actual queries.
+
+Evaluation of CDN technology (AWS Cloud Front and Microsoft Azure blob-store) for website of US Bank, U.S.
+
+Used KITE tool for automated global performance testing of candidates.
+
+Google+ moderation platform for Kohl’s Corporation, U.S.:  Policy based moderation for Google+ for enterprises. 
+
+Implemented highly available policy enforcement endpoint proxy for Google+ requests. 
+
+Designed and implemented the policy propagation framework.
+
+Assets created in AWS marketplace: Cognizant Cloud Pattern Studio: Visual wizard for creating cloud formation scripts. 
+
+Conferences Presented ScaleBot (auto-scaling-group on Google Compute Engine) at “Cloud Connect” conference, 2013 in Mumbai.
+
+Minimum viable products/Accelerators worked on
+
+Cloud data analyst: Point and click analytics on top of data stored in AWS Redshift and Google Bigquery.
+
+Implemented frequent item-set, K-means clustering and DBSCAN algorithms on both Redshift and Bigquery.
+
+Implemented template based, reactive Bigquery execution framework on top of Google app-engine.
+
+Comparative analysis of Redshift and Bigquery.
+
+M.Tech. Dissertation title: Implementation of performance monitoring tools for Video-vantage product. Video-vantage is a distributed system. It allows video upload, processing (trim, watermark, etc.) and streaming of uploaded video. An approach paper was submitted for creating mobile-native application for performance monitoring tools. Performance monitoring tools 
+
+Enable support team to check near-real-time/historical load/state of deployment.
+
+Enable support team to be alerted on android mobile in case any servers/services are down/beyond threshold.
+
+March 2009 – May 2012, Software Engineer, India Software Labs, IBM India Pvt. Ltd. Pune, Maharashtra
+
+Was part of a development team of Tivoli Service Automation Manager (TivSAM) TivSAM is an infrastructure cloud management solution. TivSAM supports management of cloud based on all major hypervisors in single deployment. Here is a brief description of tasks handled.
+
+	Contributed to design and implementation of Null Port ID Virtualization for SystemP platform.
+
+	Contributed to design and implementation of Cloud Service Provider/Multi Tenancy feature.
+
+	Created Web 2.0 UI based on Dojo framework for software installation feature. 
+
+	Enhanced performance of development environment by ~40%
+
+	As Level 3 support handled critical client situations and lead root cause analysis.
+
+
+
+March 2009 – Feb 2010, Software Engineer, Relationals InfoTech, Indore, Madhya Pradesh
+
+Relationals InfoTech is a web based PaaS provider. Performance is key factor for Relationals platform LongJump as their customer base is mostly internet based. Here is a brief description of tasks handled:
+
+		Implemented reseller enablement for marketing campaign module.
+
+		Added internationalization/localization support to multiple modules.
+
+		Performed build and deployment of product to production for 1 month 
+
+		Conducted interviews of candidates from time to time.
+
+		Authored feature documents for multiple features
+
+
+
+July 2007 – Feb 2009, Software Engineer, Persistent Systems, Nagpur, Maharashtra
+
+Project Title: Times Group
+
+This project was to develop a portal for students and education experts. The solution designed had discussion forum and chat feature and mailing support for offline questions. Tasks performed are listed under.
+
+Implemented framework for search engine optimized meta-content creation.
+
+Investigated and presented a feature tour of OpenCMS content management Server for client.
+
+Developed enhanced admin capabilities for JForum as per requirements.
+
+Delivered POC for integrating Chat module with the portal.
+
+
+
+Project Title: Identity Management Professional services
+
+This Project involved migration of policies between Identity management solutions.
+
+Designed algorithm for parsing LDAP filters and creating valid LDAP entries accordingly.
+
+Improved time taken to verify migration by ~90 % by implementing verification tool.
+
+
+
+Project Title: Platform Inc.
+
+Platform Inc. product caters to Linux cluster management. The project involved creating eclipse based Rich Client Platform for their python based product. Summary of tasks performed is under.
+
+Maintained and developed various screens for platform manage tool.
+
+Implemented changes for setting LDAP based authentication on managed nodes.
+
+
+
+Personal Details
+
+Born
+
+July 5th 1986
+
+Marital Status
+
+ Married
+
+Passport
+
+J3027175

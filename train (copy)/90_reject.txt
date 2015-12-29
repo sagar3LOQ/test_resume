@@ -1,0 +1,388 @@
+LAVAKUSH KUMAR SHUKLA
+
+Email: loveshukla143@gmail.com
+
+Mobile:  +91-8860548973
+
+Name	Lavakush Kumar Shukla
+
+Professional Qualifications 	B.Tech From PTU
+
+Total IT Experience(In Years)	4.3 years(Approx.)
+
+
+
+Key Skills 
+
+	JAVA, J2EE, SPRING(CORE), HIBERNATE, JSP, ORACLE
+10G,11G,VXML,GRXML,Windows 2008, Windows 2003, Windows 7, Windows xp,
+Aix.
+
+
+
+	Summary
+
+4.3 years’(approx.) experience in software industry, involved in
+requirement gathering, system analysis & design, estimations, coding,
+project planning.
+
+Experience in UAT, Deployment and Production release/rollout support.
+
+Experience in application development using JAVA, J2EE, SPRING (CORE),
+HIBERNATE, JSP.
+
+Hands on experience in database design and development using Oracle 11g,
+SQL Developer, Toad.
+
+
+
+EXPERIENCE SUMMARY
+
+Genpact Headstrong Capital Markets: Senior Software Engineer, September
+2014 – Currently Working.
+
+Infogain India Pvt. Limited: Software Engineer, July 2011 – September
+2014
+
+
+
+Skill Set
+
+Programming Languages	Proficient in: JAVA, J2EE, SPRING (CORE),
+HIBERNATE, JSP, VXML, GRXML.
+
+Database Systems	 MySQL, MongoDB Oracle.
+
+Operating Systems	Windows.
+
+Business Areas/Domains	Telecom, Banking.
+
+Tools	Proficient in: Eclipse, Sql Developer, Toad, Sonar, IBM Remedy.
+
+Familiar with:, Intellicus, Jenkins.
+
+Methodologies	Waterfall, Agile – SCRUM
+
+Project Profile
+
+Furlough Management Solution
+
+Technologies	Java, Spring, Restful Web Services, Angular Js ,CSS3,
+HTML5, Java Script
+
+Company	Genpact Headstrong capital markets.
+
+Client	Morgan Stanley Corporation USA.
+
+Role	Senior Developer  
+
+Duration	November 2014 – Till Yet
+
+
+
+	Brief Description
+
+FMS (Furlough Management Solution) is a tool designed for Morgan Stanley
+Corporation to help them in their one of the initiative taken. Furlough
+is certain days of unpaid mandatory leave, which every contingent
+employee have to take. FMS helps the people as various hierarchies.
+
+At Contingent Level
+
+Contingent Employee can plan furlough.
+
+Can cancel and again plan. 
+
+Can keep the track of furlough
+
+   Assignment Manager Level(AM),Business Manager Level(BM)
+
+Can easily track all the furlough planned by employees working under
+him/her.
+
+Can easily plan furlough for employee if required.
+
+Can cancel the furlough planned
+
+Can check realized, potential and planned furloughs(in terms of monetary
+benefit of organization)
+
+   Chief Operating Officer Level(COO)
+
+Can easily track all the furlough planned by employees working under
+him/her.
+
+Can easily plan furlough for employee if required.
+
+Can cancel the furlough planned
+
+Can check realized, potential and planned furloughs(in terms of monetary
+benefit of organization)
+
+Can check AM and BM wise reports also.
+
+   Administrator Level
+
+Can add the vendors and specify rules for them.
+
+Can set the target for COO, AM, BM for cost saving for a financial year.
+
+Can check overall potential, realized, and opportunity in furlough(For
+Cost Cutting and Monetary benefit of Morgan Stanley Corporation).
+
+Contribution & Responsibilities
+
+Requirement understanding.
+
+Developing end to end modules.
+
+Responsible for Build, Release & Deployment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visibility Solution Asset
+
+Technologies	Java, Spring,Hibernate,Mongodb,MySQL,JSON,Restful Web
+Services, JQuery mobile, KendoUI, CSS3, HTML5, Java Script
+
+Company	Infogain India Pvt.Ltd.
+
+Client	Various Companies(Product of Infogain)
+
+Role	Developer  
+
+Duration	July 2013 – Present
+
+
+
+	Brief Description
+
+AVS provides a way for the Motor Carrier customers to manage terminal
+truck and gate appointments. Apart from appointments, AVS provides
+equipment status and data sharing capabilities to the entire supply
+chain, enabling all members to connect, providing accurate, timely data
+and services on a click.
+
+Motor carrier
+
+Schedule appointments with terminals online
+
+Manage Appointments
+
+Vessel schedules and berthing details
+
+Equipment inquiry and Availability information
+
+Role based access with easy management
+
+Terminal
+
+Seamless integration with Terminal Operating System for TOS data,
+functions, and calculations
+
+Manage users and roles
+
+Improve service to the trucking community and deliver customer
+satisfaction
+
+Less congestion at the terminal gate.
+
+Ease of equipment management
+
+
+
+Contribution & Responsibilities
+
+Requirement understanding.
+
+Developing end to end modules and responsive mobile application.
+
+Responsible for Build, Release & Deployment.
+
+
+
+Aptra Vision Flex Delegates
+
+Technologies	Flex, Hibernate, Spring, Oracle, Maven, Jenkins
+
+Company	Infogain India Pvt.Ltd.
+
+Client	NCR Corporation ,USA
+
+Role	Developer  
+
+Duration	Jan 2013 – July 2013
+
+
+
+	Brief Description
+
+NCR APTRA Vision is multi-vendor self-service ATM management system that
+puts operational performance into context with what really counts
+consumer experience. With a complete and accurate view of your
+self-service network, APTRA Vision will help you to successfully manage
+your business and plan for future development. Improved operational
+performance does not necessarily create improved consumer experience,
+but APTRA Vision’s graphical dashboard unlocks the information needed
+to help you optimize both of these key metrics. NCR APTRA Vision
+improves network availability and in so doing, drives better consumer
+service, attraction and retention therefore improving revenue
+generation, while reducing costs and improving ROI.
+
+
+
+Contribution & Responsibilities
+
+Requirement analysis.
+
+Developing delegate for components.
+
+Responsible for Build, Release & Deployment.
+
+Responsible for interacting with client and demoing them for acceptance 
+
+
+
+Vodafone IVR
+
+Technologies	Aix (UNIX), Java, Pl/Sql, Toad, Sql Developer, Vxml, Grxml.
+
+Client	IBM India Pvt. Ltd.
+
+Duration	July 2012 – Dec 2012
+
+Role	Developer
+
+
+
+Brief Description
+
+It was a Vodafone’s IVR project.  Interactive Voice Response is
+facility provided by Vodafone to solve the user’s problem on IVR
+itself by taking input from user. From IVR user can get information
+regarding VAS (Value Added Services), Data plans, Account Balance and
+can get agent transfer also.  User’s Input was captured by VXML and
+sent to HTTP Server, which was interacting with WAS (Web Sphere
+Application Server) and as per input required information was provided
+to user.
+
+
+
+Contribution & Responsibilities
+
+Performing Unit testing and deploying the package in Development and UAT
+environment.
+
+Development.
+
+Coordinate with testing team to resolve the issue related to report
+generation.
+
+Analysis of the Change requests, scoping the work.
+
+Uploading prompts and checking D2is.
+
+Doing all activities related to WVR (IVR).
+
+
+
+
+
+Jira Plugin Development
+
+Technologies	Windows Server 2003, Java/J2EE, Velocity pages, Apache
+maven, Html, JBoss, Eclipse, Mysql.
+
+Client	Infogain India Pvt.Ltd
+
+Duration	July 2011-June 2012
+
+Role	Developer
+
+
+
+Brief Description
+
+This application was for the purpose of customization of JIRA product
+which is basically used for project tracking, and complete software
+development life cycle. Customization was covering the following points.
+
+To check the productivity of a project and Individual Team member.
+
+To check the size & variance of project.
+
+To generate the report  of the Project/Team/Individual on the basis of 
+
+Time period. & Releases.
+
+It enabled the project manager to check the above said point about the
+project, team and an individual as well.
+
+
+
+Contribution & Responsibilities
+
+Involved in understanding requirement.
+
+Constructions(Development)
+
+Bug Fixing.
+
+Deployment on production.
+
+
+
+Education:
+
+B.Tech. Computer Sciences 	PTU, Punjab 	                    2011
+
+12th  				          CBSE Board		          2007
+
+10th 				          UP Board		          2005
+
+Personal Information:
+
+Name			: Lavakush Kumar shukla
+
+Gender		: Male
+
+ 
+
+Date of Birth		: 30 - 12 – 1990
+
+Phone			: +91-8860548973
+
+Email 			: loveshukla143@gmail.com
+
+Permanent Address: #3366 Sector-37 Chandigarh
+
+Recommended by GlobalHunt India.		.
+
+Contact: 8527653300
+
+E-mail: recruitment30@globalhunt.in
+

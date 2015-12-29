@@ -1,0 +1,164 @@
+VENKATESWARLU DODDA 
+
+Email :venkat.1253@gmail.com                                Mobile No: 801928739
+
+PROESSIONAL SUMMARY: 
+
+ Having over 3+ years of experience in software development, which involves Banking,product,financial and software services domain using technologies like STRUTS, HIBERNATE ,SPRING ,SERVLETS,JSP,ANGULAR JS, SPRING MVC,REST EASY and JAVA etc. 
+
+ Good knowledge of Banking Domain,Financial and Insurance domain. 
+
+ Hands on experience on Struts 1.x,Struts2.x,Spring&MVC,Rest Easy and Hibernate.
+
+. PROFESSIONAL EXPERIENCE: 
+
+ •  Currently Working with “Vsoft Technologies Pvt. Ltd.(India)” Hyderabad, A.P from June 2013 to till date.
+
+ •  Worked with “Enervators Global It Solutions Pvt. Ltd.(India)” Hyderabad, A.P from May. 2011 to May. 2013.
+
+SCHOLASTIC PROILE:
+
+ B.TECH(C.S.I.T) from JNTU in APR,2011 and got 75.4%. 
+
+TECHNICAL SKILLS:
+
+Operating Systems    : Linux Cent OS, Windows’ 2000, NT, XP.
+
+Internet Technologies   : Servlets, JSP, Struts,Spring,Spring MVC,Angular JS.
+
+Programming Languages   : C, JDK 1.6, Oracle (PL/SQL).
+
+Scripting Languages : Java Script.
+
+Markup Languages    : HTML, XML.
+
+Data Base    : Oracle10g, Postgres 8.3.
+
+Tools & IDE : Eclipse3.6, Sql developer, PGAdmin.
+
+ORM Tools    : Hibernate3.3
+
+Repository Tools    : Subversion
+
+Build Tools    : Maven
+
+Unit Testing Framework   : JUnit3.0 
+
+Reporting tool    : Jasper Report 4.2
+
+Web Servers : Tomcat 7.x 
+
+Domain Knowledge : Banking,Financial
+
+PROFESSIONAL PROJECT EXPERIENCE: 
+
+Project # 1: 
+
+Title        : Suvikas(JUN 2013 to current)
+
+Client    : OSCB,DSCB,PUCB,Panipath ,Arihant,Progressive,Andhra Bank ,RCB . 
+
+Software    : Struts2,Hibernate,Spring,Servlets,Jsp, java Script ,JDK 1.6
+
+Framework    : Vsoft UI Frame work
+
+Database    : Postgres 9.2
+
+Server    : Tomcat 6. 
+
+Tools    : Eclipse 3.2
+
+Team size    : 10
+
+Role    : Developer
+
+Description:
+
+Suvikas is a premier,cost-effective and simplified core banking software developed for co-operative banks in India by following the guide lines of RBI. This is user friendly,flexible and self-supporting application, that permits easy performance, improves overall efficiency. This is platform independent and available for both Windows and Linux and best suits for RBI Reports. Modules like KYC, Admin,Cashier,Loans,Deposits,RBI Reports ATM,Mobile Banking, Utility Bill Collection and it supports all type of account opening by defining their own product.The new features implemented for the PACS(Primary Agriculture Cooperate Society),like inventory, pigmy and category ,subcategory definition,which is implemented for the karnataka Govt. 
+
+ •  Defining products,accounts for loans ,deposits .
+
+ •  Bug fixing for the existing product
+
+ •  Migration of the postgres application to oracle .
+
+ •  Developing new enhancements.
+
+Responsibilities:
+
+ •  Given product support and done new enhancements like KYC,LOANS,DEPOSIT,SHARE and Investment Module. . 
+
+ •  Involved in Bug fixing of the application .
+
+ •  Implemented test cases by using Junit as part of unit testing. 
+
+ •  Involved in analysis and design.
+
+Project # 2: 
+
+Title        : KLS AND PACS(FEB 2014 to current)
+
+Client    : OSCB,DSCB,PUCB,Panipath . 
+
+Description:
+
+KLS(Kissan Loan System) and PACS(Primary Agriculture Cooperate Society) new module implements  for co-operative banks in India by following the guide lines of RBI. This is platform independent and available for both Windows and Linux .
+
+Responsibilities: 
+
+ •  Define new products for deposits,loans,investment,share and Accounts for all module 
+
+ •  Angular JS used for front end technology and rest easy webservice used to call different       module in the application.
+
+ •  Implemented test cases by using Junit as part of unit testing. 
+
+Environment: JDK1.7,Angular JS,SPRING3, Hibernate,Rest Easy, HTML, Java Script, Apache Tomee, Eclipse Kepler, Postgres9.2,GSON,Junit. 
+
+
+
+Project Title#3: Vision Application(FEB 2012 to May2013) 
+
+Client: Birla Sun Life Mutual Fund 
+
+Role: Developer 
+
+Description: 
+
+Vision application is a client server web based application which is being developed for Birla SunLife Mutual Fund Company which has 70 locations all over India. Using this application Birla employee will do data entry which will be authorized by superior persons in Head Offices. This application keeps track of mutual fund liquid transactions and non liquid transactions like Purchase, Redemption, Sip and share holders investment amount. Vision application also supports 300 concurrent users working on the system from different locations at a time. 
+
+Responsibilities: 
+
+ Involved in Front-end design using HTML,Jsp. 
+
+ Front-end validation of the modules with JavaScript, Struts validation plug-in. 
+
+ Involved in the server side programming using JSP,STRUTS,SPRING MVC .
+
+ Involved in writing stored function/procedures using SQL/PLSQL in Reporting Module and Hibernate for data persistance. 
+
+Environment: JAVA, JSP, Struts2,SPRING3, HTML, Java Script, Oracle10g, Tomcat6, Net Beans IDE6.7, SQL/PLSQL,Hibernate. 
+
+Project Title#4:MIMO FINANCE (JUN 2011 t0 JAN 2012) 
+Client:Mimo Finance
+Role: Developer
+Description: Mimoza Enterprises Finance Co. Pvt. Ltd. (NBFC) offers its microfinance products under the MIMO Finance brand. A micro finance institutes(MFIs) can have branches at different places in different regions. There are some number (5 to 10 ) of branches in every region. These MFIs branches should collect the due amount weekly . 
+
+Environment:  JSP,Struts,Spring,Hibernate, HTML5, mysql, Tomcat Web Server, MyEcclipse IDE, SQL/PLSQL,Mysql,Junit,servlet,java. 
+
+PERSONAL PROFILE:
+
+Name    : D.Venkateswarlu
+
+Father’s Name    : D.Venkata subba reddy
+
+Date of Birth    : 11th Dec. 1989
+
+Language proficiency    : English, Hindi and Telugu.
+
+Marital Status    : Un Married
+
+DATE : 
+
+PLACE : Hyderabad.
+
+(VENKATESWARLU DODDA)

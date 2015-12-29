@@ -1,0 +1,426 @@
+Lead a team 0f 4
+
+Spring: 5 year & current
+
+Hibernate:5 year& current
+
+Webservices7 year& current
+
+DB: oracle
+
+Application: jboss/weblogic
+
+Maven/Ant
+
+Java:10 year ,used reflection
+
+21.8/20%/30days
+
+Phone 09885863330, • E-mail kmeeraj@gmail.com
+
+Meeraj Kanaparthi
+
+PROFILE
+
+	I have almost 9.5 years’ experience in Java, J2EE technologies. I
+have finished PGDBA (MBA Correspondence) in Banking and Finance from
+Symbiosis.
+
+Aspires to work in a challenging environment with the opportunity to
+grow. 
+
+Well-developed skills in Java, J2EE, Struts, Spring, Hibernate, IBM
+Websphere Portal, JMS and Web services.
+
+Ability to grasp new ideas and integrate them into desired results.
+
+Strong interpersonal and analytical skills with positive work ethics.
+
+Completed PGDBA course from Symbiosis and MSc (IT) course from Kuvempu
+University.
+
+Can combine patience, determination, and persistence to troubleshoot
+client issues. 
+
+TECHNICAL SKILLS
+
+	Languages: Java, C/C++, Java , XML, UML, SQL ,JavaScript, HTML5
+
+Operating Systems: Windows NT/2000, UNIX, Linux
+
+Database Environments: Oracle 9.x, MySQL, MsSQL
+
+Design Tools: MS Visio 
+
+Developing Environments: Eclipse, Netbeans, IntelliJ
+
+Servers: Tomcat, Jboss,  IBM Websphere portal
+
+Framework: Spring 3.0, Hibernate 3.0, Struts 1.2, MVCs,AngularJS,
+jQuer,SOAP
+
+
+
+PROFESSIONAL EXPERIENCE
+
+
+
+
+
+	Project: Banking Application	       Aug 2014 – Till Date
+
+	Organization: Synechron 
+
+
+
+Banking Application software is primarily for management of the ATM.
+This application is based on struts 2 and spring 3 technologies. This
+application  enable users to track costs, invoicing, purchase orders to
+support Business Projects as well as Administrative finance needs. To
+look up ATM and Site information, create and view projects, purchase
+orders and invoices, manage relationships and assign and track tasks.
+Future enhancements may include ways to assign convenience fees and
+manage statements and rent. Because of the size and complexity of this
+new application, it will be developed and implemented in phases. 
+
+
+
+
+
+
+
+
+
+	Project: Enterprise mobile device management 	 Aug 2011 – Aug 2014
+
+	Organization: KONYLABS 
+
+
+
+Enterprise mobile device management (MDM) software is primarily a policy
+and configuration management tool for mobile handheld devices, such as
+smartphones and tablets based on smartphone OSs. It helps enterprises
+manage the transition to a more complex mobile computing and
+communications environment by supporting security, network services, and
+software and hardware management across multiple OS platforms. This is
+especially important as bring your own device (BYOD) initiatives become
+the focus of many enterprises. It can support corporate owned as well as
+personal devices, and helps support a more complex and heterogeneous
+environment.
+
+Research and Development Division of Parent company KONY Solutions. 
+
+Kony Labs develops innovative Mobile Application Platform and Industry
+specific Solutions. 
+
+Kony's approach gives mobile business agility, the capacity to benefit
+from rapidly growing—and changing—mobile opportunities.
+
+Technologies used are AngularJs, Jquery, Spring, Hibernate and SOAP web
+services,HTML 5
+
+
+
+	Project: One View	        May 2010 – Aug 2011
+
+	Organization: CGI 
+
+
+
+One View is development project for CIGNA Health care, which is the
+leading Health care insurance Service Provider in USA. One View
+Application is call center application based on IBM Portlets, DOJO, JSF,
+Hibernate and Chordiant for health care domain. We were given task to
+develop portlets for One View application, integrating with
+Webservice(SOAP), JMS and Chordiant.
+
+
+
+	Project: Cura Software	Nov 2009 – Apr 2010
+
+	Organization: Cura Software
+
+
+
+Cura provides web based solution, which is developed on GWT 1.5 and Gxt
+2.1.0(Ext JS), hibernate as data layer.
+
+Cura, established in 2002, provides smarter software solutions designed
+to enable businesses around the world quickly achieve the bottom-line
+benefits in governance, risk management, compliance (GRC) and
+performance management.
+
+For over six years, Cura has developed enterprise solutions that have
+assisted over 200 organizations meet their Risk and Compliance
+needs.  Cura is considered a leading GRC vendor by Gartner Research and
+Forrester Research. (Link:   HYPERLINK
+"http://www.curasoftware.com/Pages/default.asp"
+http://www.curasoftware.com/Pages/default.asp ) 
+
+It achieves this through fast implementation and easier configurability,
+coupled with true enterprise architecture. Cura is rated as a global
+leader in the GRC field by Forrester Research and Gartner Research.
+
+SoftPro Systems Ltd, headquartered in Hyderabad, India, had acquired
+100% of South African software solutions provider Cura Software. 
+
+
+
+	Project: Order to Settlement(O2S) 	Oct 2007 - Nov 2009
+
+	Client: GE Energy, New York, USA
+
+
+
+Organization: Satyam computer services Ltd.
+
+
+
+The O2S module will enable Purchase Order (PO) presentment, PO
+management, shipping, and settlement interactions between GE ENERGY
+sourcing and Suppliers in a single real-time, web-based extranet
+application. The application will be a global solution, meaning it will
+be a viable solution regardless of known internal purchasing or accounts
+payable systems. It is a J2EE 1.4 application based on Struts and EJB.
+It also contains EJB endpoint to integrate with other business
+application through web service and web(with Javascript)
+
+
+
+	Project: GAMS Toolkit	Aug 2006 – Aug 2009
+
+	Client: Satyam internal project.
+
+
+
+Organization: Satyam computer services Ltd.
+
+
+
+GAMS Toolkit is Satyam’ Internal project which is designed for the
+Project managements of the various applications. The name GAMs toolkit
+was evolved because this project was designed basing on the project
+management of the GAMS project. This project is implemented using Spring
+MVC Framework (including Javascript)and hibernate.
+
+
+
+	Project: Rotor Stacking Program (RSP)	  Nov 2007 – Apr 2008
+
+	Client: GE Power Systems, Atlanta, USA 
+
+
+
+Organization: Satyam computer services Ltd.
+
+
+
+RSP (Rotor Stacking Program) deals with the stacking of rotor parts to
+minimize imbalance. Sliding Window algorithm is employed in the GRSP.GE
+Power Systems Manufactures Turbines and Generators. GE Power Systems
+uses RSP Program to Procure Discs, which are assembled to form a Rotor.
+Rotors for a Turbine or Generator are manufactured by assembling series
+of discs to reduce the mechanical imbalance and eddy current. As there
+will not be perfect disc, having 2 edges parallel to each other, hence
+the disc are rotated at an angle to form a straight rod. The Angle,
+length, width and various other parameters are given to input file to
+check the efficiency of the disc during the assembly. RSP provide a web
+based solution for GE Power System for the Procurement of the disc and
+assembly of the rotor.
+
+This is simple MVC project , with JSP, servlet and JavaScript
+
+
+
+	Project: TradeSphere Energy Services 	  May 2007 – Oct 2007
+
+	Client: GE Power Systems, Greenville, USA  
+
+
+
+Organization: Satyam computer services Ltd.
+
+
+
+The customers give the order to the PTS User’s which is received from
+GE mentors i.e. the customers give the Delivery Information to the GE
+Services which is passed to the PTS User’s. This PTS User’s then
+write this given information into the ERP application. As soon as ERP
+gets the information, it is then passed to the TRADESPERE application
+through the XML files. PTS Users have the access to the TS and these
+perform the task of Export Determination .After the process of ED is
+completed, the Ship Release Date is set automatically in the TS by the
+system and the e-mail or a print copy is send to the Ware House Team
+which does the Physical Packing of the Delivery. WH team then sets the
+Ship Confirm Date in the ERP application which is reflected in the TS
+applications and ERP must work in SYNCRONISATION. TradeSphere is an
+application that checks whether the delivery given by the customers
+satisfy the Rules and Laws given by VASTERA and then creates an
+appropriate document for it.
+
+ These rules and laws may be GE Internal Policies, US Based Laws,
+Export Based Laws or Country Based Rules. These rules and laws are
+normally referred to as PATCHES. These Patches are updated in the
+TRADESPERE using the ADMIN CLIENT TOOL.
+
+Vastera, a leading provider of Web-based solutions for global trade
+management and Unibex, a leading enabler of B2B e-marketplaces and
+provider of e-commerce tools and services, today announced that they
+have partnered to integrate Vastera's TradeSphere B2B global trade
+management solutions into Unibex's platform to offer global trade
+capabilities across multiple industry marketplaces. 
+
+
+
+	Project: Engine Order Shipment (EOS)	  Nov 2006 – Apr 2007
+
+	Client: GE Energy, Houston, USA   
+
+
+
+Organization: Satyam computer services Ltd.
+
+
+
+
+
+The Engine Order & Shipment (EOS) system is an application to manage
+engine demand forecasting and actual orders on Supply Chain Management
+Business for GE Aero Energy Products. It manages 4 modules in ITO
+(Inquiry to Order) and 2 modules in OTR (Order to Remittance), the whole
+gamut of forecasts, opportunities, proposals, orders and finally
+shipping the engine to the customer. The system is used by Industrial
+Aero derivative applications like Industrial, Marine, Lease, and After
+Market Sales departments. 
+
+It is a web-based application that will provide a globally accessible
+system, sufficiently and efficiently integrated into the process that
+meets both current and future business critical requirements.
+
+
+
+	Project: Site Tracking System (STS)	  May 2006 – Oct 2006
+
+	Client: GE Energy, Houston, USA   
+
+
+
+Organization: Satyam computer services Ltd.
+
+
+
+Site Tracking System is a GE Energy initiative which works on Supply
+Chain Management Business for GE Aero Energy Products and works on ITO
+(Inquiry to Order) module.
+
+It’s a web based application that fully covers the functionality of
+Supply Chain Management Business Project ITO module. STS Functional
+process is made up of several tracking tasks. These tasks are designed
+to encompass different parts of the GE Power Systems workflow. The STS
+process commences after the completion of the HOM (Hands over Meeting)
+and the sales order and work order numbers for the customer are
+generated. Each work order translates into a single unit and is
+represented by a project in Artemis. PMO enters pertinent information in
+Project PC codes. STS allows role-based access to update various Site
+Tracking activities providing real-time information access to all users
+
+
+
+	Project: RSI Operations 	  Jul 2005 – Apr 2006
+
+	Client: GE Money Bank, Hannover, Germany   
+
+
+
+Organization: Satyam computer services Ltd.
+
+
+
+RSI Operations team is supporting the Banking application of GE Money
+Bank.  Various activities are performed on the production servers on
+daily basis, weekly basis, and monthly basis and on request.  The
+support is provided for both the users accessing the application and
+also for the business. Java program was developed to automate the data
+process. Nilex is the tool which will enable the offshore team to access
+the help desk calls raised by the users. The raw data files to be
+provided to the Indus Company for Data Migration Process. 
+
+ 
+
+	Received appreciations from GE client
+
+Received Award as Best Technical Expert for GEGDC Circle on 2007
+
+Received Award as Best Innovator for GEGDC Circle on 2007
+
+Certifications
+
+	Sun Certified Java Programmer SCJP (Version 1.4)
+
+Sun Certified Web Component Developer SCWDC 
+
+Sun Certified Business Component Developer SCBCD 
+
+Ankit Fadia Ethical Hacking Certification
+
+Professional Summary
+
+	
+
+Currently working in Konylabs as Associate Product Lead. Joined in
+konylabs on Aug 2011.
+
+Joined CGI in May 2011 as Senior software engineer and continued till
+Aug 2011.
+
+Joined Cura Software (softpro systems) in Sep 2009 as Java Developer and
+continued till Apr 2010.
+
+Joined in Satyam computer in Jul 2005 as fresher and continued as Senior
+software Engineer until Sep 2009
+
+
+
+Education
+
+	PGDBA, cleared with 64% aggregate in 2014.
+
+Symbiosis, Pune
+
+B.E. (Electrical and Electronics ), Cleared with 71.4% aggregate in
+2005.
+
+Chaitanya Bharathi Institute of Technology (CBIT),  Hyderabad
+(affiliated with Osmania University). 
+
+M.Sc (Information Technology), Cleared with A grade in 2008.
+
+Kuvempu University, Shimoga, Karnataka.
+
+GNIIT, Cleared with Excellent Grade in 2006.
+
+NIIT, Basheerbagh, Hyderabad
+
+12th MPC, Cleared with 82.6% in 2001
+
+Narayana Junior College (Intermediate Public Board – AP)
+
+10th CBSE, Cleared in 1999 with 75%.
+
+Kendriya Vidyalaya Picket School, Secunderabad
+
+PERSONAL DETAILS
+
+	Address: 
+
+	403, Sunrise Residency, Plot no. 15 & 30, Janaradhana Hills,
+Gachibowli, Hyderabad. Andhra Pradesh – 500030.
+
+	Phone No.:	9885863330
+
+	Languages:	English, Hindi, Telugu (mother-tongue)
+
+	Email:	  HYPERLINK "mailto:kmeeraj@gmail.com" kmeeraj@gmail.com 
+
+
+

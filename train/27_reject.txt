@@ -1,0 +1,101 @@
+
+Sonu Kumar
++91-9543669288
+"mailto:skbhagat.nita@gmail.com"
+SUMMARY
+4.3 years of experience in Software Development and Support of various Enterprise Products/Applications developed using Java Technologies .
+Very good knowledge of Software Development Life Cycle 
+Having good knowledge on Core Java ,Servlets ,Hibernate,Spring ,Sql
+EDUCATIONAL QUALIFICATION 
+B.tech (Electronics & Communication Engineering) With 84 %(8.4 CPI) from National Institute of Technology  Agartala(NITA) in 2011.
+12th with aggregate 61.5% from B.S Collage(B.I.E.C) 
+10th with aggregate 71% from Gandhi High School(B.S.E.B) 
+
+SKILLS
+
+	Programming Languages   
+	Core Java,Servlets,JSP,Spring,Hibernate	
+	Platforms        
+	Windows	
+	Database Servers 
+	Oracle 10g,MySql	
+	Web Servers     
+	Tomcat,JBoss	
+	Others Tools        
+	Eclipse IDE	
+
+
+SELECTED PROJECT EXPERIENCE
+
+ Company        
+        
+: Pramati Technologies Private Limited,Chennai
+Duration        
+        
+: April 2015  Till date 
+Position        
+        
+: Development Engineer
+Description
+FPX (FirePond) is a software company.It provides enterprise-level,on demand software that automates and simplifies the process companies use to sell products and services.It offers Configure Price Quote(CPQ) software that automates the sales processes,with the objective to enhance order accuracy and accelerates sales cycles.The company focuses on clients with complex product lines and services high technology,transportation,construction machinery,agriculture equipment,and service companies. 
+Responsibilities
+ Doing enhancements in CPQ on Demand
+ Doing bug fixing in CPQ on Demand
+ Environment: Java,J2ee,Servlet,Hibernate,Spring,MySql DataBase,Eclipse
+
+
+
+Company 
+        
+: Polaris Financial technology Limited
+Duration        
+        
+: August 2011  19 March 2015
+Position        
+        
+: Consultant
+ 1. Project Title : Core Banking System(CBS UI Change):-
+ Description: This is JSP conversion project. The objective is to change the view of the
+ product and give a new look by doing some JSP coding changes. Identifying the issues
+ for the functionality of every component in the web page and solving them.
+ Roles & Responsibilities
+ Involved in analysis, design and coding of web application.
+ Involved in unit testing process so as to meet the requirements and functionality.
+ Analyze test specifications and perform manual testing.
+ Environment:  Java,Servlet,Jsp,Eclipse.
+ 2.Project Title : Digital Branch(Z7)
+ Description: This project includes creation of widgets which bring new look and feel 
+ experience for the customers. This is being developed using extjs technology. Ext Js is 
+ rich UI framework based on JavaScript to develop Rich Internet Applications (RIA). It 
+ provides excellent out-of-box Widgets(esp. complex ones like data grid).
+ Roles & Responsibilities:-
+ Worked on Account Services,Cash Transaction and WorkFlow Modules.
+ Involved in analysis, design and coding and unit testings of above modules
+ Have been part in analyzing the specifications to meet the requirement.
+ Developed smart data entry(FastCash) for all amount filed of all Cash Transaction modules.
+ Developed audit framework.
+ Environment: Java,Servlet,Hibernate,Spring,MySql DataBase
+ Professional Responsibilities
+ Working as a Consultant in Polaris Software Financial Technologies.
+ Developed applications regarding User Interface in Kalpur Banking System.
+ Worked on creating Jsp forms for the Core Banking System project.
+ Worked on widgetization for Digital Branch(Z7) project with Java,J2ee,Hibernate,
+ & Spring technology and integrated with NBAD (National Bank of Abu Dhabi) 
+ Application.
+
+Personal Profile
+ Date of birth : September 20,1987. 
+ Gender : Male.
+ Marital status : Single.
+ Languages Known : English,Hindi 
+ Interests : Browsing and listening to music,Bike riding,Making friends
+Declaration:
+        
+I hereby declare that the above given details are true to the best of my knowledge.
+
+Place:  Chennai
+Date:   
+ ( Sonu Kumar)
+
+        
+

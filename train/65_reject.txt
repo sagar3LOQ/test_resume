@@ -1,0 +1,297 @@
+Vishal Singh
+
+
+
+Flat No - 404, Pavan Kuteer, Camelot Layout, Kondapur, Hyderabad • +91-9581376997 • vishal.nitj@yahoo.com
+
+
+
+
+
+Profile Summary
+
+
+
+		Diligent and adaptive Software Engineer with nearly 5 years and 6 months of experience in software development. 
+
+
+
+		Expertise in client-server technology using Java and Java EE. 
+
+
+
+		Experience in development of web applications using Struts, Design Patterns, Webservices, AJAX. 
+
+
+
+		Proficiency in Object Oriented Programming concepts. 
+
+
+
+		Experience of Product Development using Agile Methodology in Supply Chain Domain. 
+
+
+
+		Excellent analytical and inter-personal skills. 
+
+
+
+Skill Set
+
+
+
+Languages and Platforms
+
+
+
+	Competent in:	Java SE, Java EE (Jsp, Servlets, JSTL), PL/SQL, XML, JavaScript, XHTML, AJAX
+
+
+
+	Familiar with:	C, Perl
+
+	
+
+	Frameworks and Libraries
+
+
+
+	Competent in:	Struts, JAX – WS, Restful Webservices, jQuery, Ant
+
+
+
+	Familiar with:	ExtJs, Dojo Toolkit
+
+	
+
+	Databases
+
+
+
+Oracle, MySQL, SQL Server
+
+
+
+Tools and Servers
+
+
+
+Weblogic 12, Websphere AS 8.5, Apache Tomcat 7.0, IDEA IntelliJ, Eclipse
+
+
+
+Modeling and Methodologies
+
+
+
+Agile Methodology, Unified Modeling Language (UML), Service Oriented Architecture.
+
+
+
+Professional Experience
+
+
+
+Deloitte Consulting India Private Limited, Hyderabad, India – Consulting with development, maintenance and integration offerings.
+
+Consultant, April 2015 – Current
+
+
+
+As a team member, my responsibility is to contribute to develop applications based on clients business needs. I have played various roles in the team contributing to the areas of development, unit testing, innovation and documentation.
+
+
+
+		Projects Undertaken
+
+
+
+		Customer portal to buy client products – REST service application for customers to buy client products and manage accounts.
+
+Developed REST based services to validate and provide product data to UI.
+
+Developed UI using jQuery for calling REST services.
+
+Developed a Spring Boot application to use micro services feature.
+
+Contributed towards building business logic for validating customer data.
+
+
+
+
+
+		Skills Used 
+
+
+
+             Java, Java EE, AJAX, Tomcat, SASS, XML, PL/SQL, MAVEN,REST web services , Spring MVC , Spring boot , Hibernate
+
+JDA Software, Hyderabad, India – Company with the broadest portfolio of supply chain, retail and store operation solutions.
+
+
+
+Software Engineer, August 2012 – April 2015
+
+
+
+As a team member, my responsibility is to contribute to the solutions for complex business scenarios in JDA Platform and JDA Supply Chain Planning and Optimization (SCPO). I have played various roles in the team contributing to the areas of development, unit testing, innovation and documentation.
+
+
+
+		Products Description 
+
+
+
+		JDA SCPO – Enables Planners to create demand scenarios based on History data.
+
+
+
+		Developed a process to create simulated data based on live data to check for various demand scenario without affecting live data.
+
+
+
+		Developed Compressed Data Storage utility for Forecast and History data to reduce data size.
+
+
+
+		Develop utility using ANT to maintain SCPO codebase and create staging directories for Product installer.
+
+		Debug customer issues and provide timely resolution.
+
+
+
+		Implementation of uniform user experience to facilitate Distributed-Centric Supply Chain Suite. 
+
+
+
+
+
+		JDA Platform – Provide API’s (java Framework) to build Supply Chain products.
+
+
+
+		Developed API to check for Complete Supply Chain of an ITEM (From Manufacturer to retailer). 
+
+		Developed UI to check for Various Stages of an ITEM in a Supply chain.
+
+
+
+		Contribution to implement uniform user experience to the product for Distributed-Centric Supply Chain Suite. 
+
+
+
+		Accomplishments 
+
+
+
+		Rated as Excelling Performer for year 2013-14. 
+
+
+
+		SPOT award in 2014 for outstanding contribution in feature development and excellent work ethics. 
+
+
+
+		Skills Used 
+
+
+
+Java, Java EE, EJB, AJAX, Oracle 12, Weblogic, Websphere, SASS, XML, PL/SQL.,ANT
+
+
+
+Wipro Technologies, Hyderabad, India – Indian IT Services Company with development, maintenance and integration offerings.
+
+
+
+Project Engineer, April 2010 - August 2012
+
+
+
+As a team member, I was responsible for the development for client’s website (www.thameswater.co.uk). Which provided external customers with various facilities such as online bill payment, create direct debit, manage account information, and provide live information on map of leakages in their area.
+
+
+
+		Projects Undertaken 
+
+
+
+		Customer Service Request Application – MVC application for customer to submit their request using webforms.
+
+		Implemented template-based look and feel ensuring uniform user experience across all applications of the client.
+
+		Developed customer request forms to avail various water and sewage management related facilities.
+
+		Developed web service to be consumed from mobile website as well as desktop website.
+
+		Contributed towards building business logic for validating customer data.
+
+		Contributed extensively to build utility to send customer data to BPMS tool.
+
+
+
+		Direct Debit WS Client – Client to consume third party web service (RBS) using JAX-WS
+
+
+
+		Developed the web service client to use third party web service for validating customer bank data. 
+
+
+
+		Build nightly utility to process customer data in non-working hours.
+
+
+
+		Thames Water Live – Map based application to provide customer with various Repair work going in there area. 
+
+
+
+		Developed an Auto refresh Map Based application Using Google Map API. 
+
+		Develop a server side utility to build xml data for Thames Water live application. 
+
+
+
+		Accomplishments 
+
+
+
+		Rated as Top Performer for consecutive years in 2011 and 2012. 
+
+
+
+		Feather in My Cap (FMC) award in 2012 to appreciate the development efforts and timely delivery. 
+
+
+
+
+
+		Skills Used
+
+		Java, Java EE, Struts, Hibernate, Dojo Toolkit, jQuery, Websphere, Oracle 10g, Pl/SQL, Apache Axis , OpenText CMS.
+
+
+
+Educational Qualification
+
+
+
+Bachelor of Technology – Industrial Engineering
+
+National Institute of Technology, Jalandhar 2005 - 2009
+
+
+
+
+
+Personal Information
+
+
+
+Date of Birth               September 28, 1985
+
+Hobbies                       Reading                     Playing Football          Watching Movies
+
+	
+
+	August 12, 2015	Vishal Singh

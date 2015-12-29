@@ -1,0 +1,402 @@
+Santhosh Kumar Neela 
+PH: +91 98490 75969 
+Email: ​
+Santhosh.Mtechcse@gmail.com 
+ 
+Experience Summary 
+ 
+● Over 8.9 years​
+ of experience in Design, Development, and Maintenance of Web based projects 
+and financial transactional systems 
+● Over 2 years​
+ of experience in education/training 
+● Currently working with Prokarma Softech, Hyderabad 
+● Well versed with all  Project Management aspects. Proven record as Scrum master & Technical 
+Manager. 
+● Excellent practical knowledge on methodologies/process ­ Agile/Scrum, Lean/Kanban. 
+● Successfully demonstrated client engagement for all the Projects (4 different client managers) and 
+received special recognitions from client for process improvements suggested and implemented 
+● Involved in Process improvements for improving quality and reducing overhead time 
+● Self­motivated, quick learner, and well organized 
+● Worked on project verticals likes Corporate Services, Insurance, Human Resource, Payroll 
+Services, Rail Roads, and Bio Domains 
+● Well versed with developing  prototypes and providing the estimates for the projects 
+● Expertise in Designing and Developing applications using Java, JDBC, XML Parsers, J2EE 
+technologies, Servlet, JSP, Struts, Spring, Hibernate, Web services (Apache CXF, Restful services), 
+Java/J2EE design patterns, ILog­JRules –Rules Server 
+● Helped GGK technologies to start on Their first Project on Java technologies. 
+● Managed the Teams  up to 33 people, Involved in recruitment process, Managed the training 
+process, Participated in Project kick­off meetings 
+● Participated in sponsered ODA “Effective communication” training program, FUNDS “Buddying/ new 
+managers” training, CSM (Certified Scrum Master) Training 
+● Took the Collaborative initiative across our program. Presented the "Enterprise 2.0 ­ The 
+Collaborative Organization" implementation strategy for Shared Services program and implemented 
+as a pilot. 
+Education 
+ 
+● M Tech  (CSE) from University College of Engg, OU, Hyderabad with Distinction (81%) 
+●
+
+B Tech (CSE) from SRTIST, Nalgonda Jawaharlal Nehru Technological University, Hyderabad with 
+Distinction(73.60) 
+
+ 
+Professional Summary 
+ 
+● Working as Manager in Prokarma Softech from Apr 2013 to till date 
+● Worked as ​
+Technical Manager​
+ in ​
+Evoke Technologies​
+ from Sep 2011 to Apr 2013 
+● Worked as ​
+Technical Manager ​
+in ​
+GGK Tech​
+ from Jun 2010 to Aug 2011 
+● Worked as ​
+Senior Software Engineer​
+ in ​
+GGK Tech​
+ from Dec 2009 to Jun 2010 
+● Worked as ​
+Senior Member Technical​
+ in ​
+ADP pvt. Ltd​
+. from Mar 2008 to Dec 2009 
+● Worked as ​
+Member Technical​
+ in ​
+ADP pvt. Ltd.​
+ from Jun 2006 to Mar 2008 
+● Worked as Asst. Professor in Scient Institute of Engg. From Dec 2003 to Jul 2004 
+● Worked as Asst. Professor in DVR College of Engg. From Aug 2002 to Dec 2003 
+ 
+ 
+ 
+
+Current Project: 
+Project Name:  NetControl Shared Services 
+Client Name:
+ UPRR (Union Pacific Rail Roads), US 
+Duration:            Apr 2013 to till date 
+Team Size: 29 
+Description​
+: Netcontrol shared services is exposes DB, Business Rules, Worklows as a services to domain 
+level services. 
+Responsibilities​
+: 
+● Ensuring the Project goals, Norms Adherence. 
+● Risk Management, Ensuring the development process. 
+● Closely working with client to get early feedback and to prepare action plan for team improvements. 
+● Closely working with COE team to ensure team is following the best practices. 
+● Ensuring the engineering and application quality of project deliverables.Unit test, Functional tests, 
+code coverage, Automation and data validation scripts, Review findings capture, audit norms. 
+● Resource management, Performance appraisals,feedback, coaching, career path and guides them 
+in continuous development and learning. 
+● Facilitates cross team communication on reporting progress and resolving impediments. 
+● Participating in requirements analysis and design meetings. 
+● Conducting Code reviews. 
+ 
+Environment​
+: Java/J2EE, Spring, XMF Web services, JMS, SOLR, Maven, Apache Wicket, JQuery, SQL, 
+Oracle, Weblogic, Windows, Linux, JUnit, Power Mock, Jesse Rule Engine, Oracle BPEL, Activity, Oracle 
+Coherence. 
+ 
+Previous  Projects: 
+ 
+Project1 
+Project Name:  EM 
+Client Name:
+Corporate Services Corporation (CSC), US 
+Duration:            Nov 2012 to Apr 2013 
+Team size:
+ 8 
+Description​
+: 
+ 
+Entity  Management is secured, online application is the industry's most capable tool for receiving, 
+indexing  and  safeguarding  all  of  your  corporate  entity  data.  Every  time you conduct  a corporate transaction 
+with  CSC's   help—from  annual  report  filings  to  business   license  renewals  and  Service  of  Process 
+receipt—your entity and jurisdictional data are automatically added to your online portfolio. 
+EM allows to: 
+● Organize corporate data 
+● Create and manage your minute books online 
+● Manage stock and shareholder information 
+● Maintain sensitive officer and director information by entity 
+● Oversee bank account and authorized signatory information by entity 
+● Generate strategic reports for auditing and decision­making purposes 
+● Manage your DBA portfolio at all jurisdictional levels 
+● Create and update organizational charts 
+● Improve compliance activities 
+Responsibilities​
+: 
+● Ensuring the Sprint goals. 
+● Removing the roadblocks. 
+● Representing the teams in Scrum of Scrums meetings. 
+● Closely working with onsite manager to get early feedback and to prepare action plan for team 
+improvements. 
+● Closely working with COE team to ensure team is following the best practices. 
+● Providing the feed back on the team members to Management. 
+
+ 
+Environment​
+: Java/J2EE, Spring,  Struts, CXF Web services, JMS, SOLR, Maven, JSP, JQuery, SQL, 
+Oracle, Weblogic, Windows, Linux, JUnit, Power Mock. 
+ 
+Project2 
+Project Name:  TCC/ SBU – CW, CAT, TCC Admin 
+Client Name:
+ Corporate Services Corporation (CSC), US 
+Duration:            Sep 2011 to Oct 2012 
+Team size:
+ 8 
+Description​
+: 
+These  web  applications  provide  benefit  with  offering  core  service  of  aiding  the  entrepreneurs  to 
+setup  and  register  their  businesses  in  a   cost­effective  and  Time  saving  method.  The Incorporate 
+supplier majorly offers 4 chief solutions as below: 
+1. Starting a Business 
+2. Incorporating My Business 
+3. Growing My Business 
+4. Small Business Resources 
+Responsibilities​
+: 
+● Interacting  with  business  and  gathering/understanding  business  requirements  and  designing   the 
+solution 
+● Writing code, Junits and Integration tests 
+● Reviewing the developer’s code and bug fixes 
+● Helping the team to deliver the sprint goal/deliverables 
+● Guiding the team to understand and imbibe agile­scrum process 
+● Helping  the  product   owner  in  Planning  and  Scheduling  the  sprints,  coordinating  with   QA  and 
+business team 
+Environment​
+: Java/J2EE, Spring,  Struts, CXF Web services, JMS, SOLR, Maven, JSP, JQuery, SQL, 
+Oracle, Weblogic, Windows, Linux, JUnit, Power Mock. 
+ 
+Project 3 
+Project Name:  VAS (Vantage Application System) 
+Client Name:
+ Geneca LLC (Chicago) 
+Role:              Technical Lead 
+Team size:
+ 6 
+Duration:            DEC 2010 to Aug 2011 
+Description​
+: Vantage Application System is responsible for processing applications after they are submitted 
+to Retail Services. 
+The Producer Portal application provides Agents with the following functionality: 
+●
+●
+
+Ability to search for and view applications 
+Ability to submit and receive feedback for Application from underwriters 
+
+Responsibilities​
+: 
+● Client Interactions and Status meetings 
+● Planning and Scheduling the Iterations, Co­ordinating with QA and business team. 
+● Managed the team, performing reviews and feedback as well as setting goals and milestones 
+● Analyzing business requirements and designing the solution 
+● Reviewing the developer’s code and bug fixes 
+● Developed  the  persistence  logic  using   Java  Persistence  API  (JPA),  Spring   ORM  with 
+JPA/Hibernate, Developed Business logic with Spring, Creating CXF web services 
+● Developed the UI using JQuery, SpringMVC with JSPs and JSTL tags 
+● Preparing Business rules documents. Changes to existing Rules in ILog Rules server. 
+
+● Triaging and fixing the bugs 
+Environment​
+:  Java/J2EE,  Spring,  Hibernate,  CXF  Web  services,  JMS,  Active  MQ,   Maven,  JSP,  JSTL, 
+XML,  XStream,   JQuery,  JavaScript,  SQL,  SQL  Server,  DB2,  Liquibase,  Jetty,  WebSphere 6.1,  Windows, 
+Linux, JUnit, Easy Mock test framework. 
+ 
+Project 4 
+Project Name:    Oxford University Press ­ Website 
+Client Name:        Oxford University Press, USA 
+Role:                   Technical Lead 
+Team size:           2 
+Duration:              SEP 2010 to DEC 2010 
+Description: ​
+OUP website is an e­commerce application which allows the users to order the different kinds 
+of the books from the existing catalog. 
+ 
+Responsibilities​
+: 
+● Participated  in  Requirements  gathering  and   preparing   Functional  specification  and  Design 
+documents (Travel to US to gather the requirements) 
+● Responsible for development plan, development, unit test and smoke test 
+● Creating CXF web services, Developed Business logic with Spring 
+● Developed the persistence logic using Java Persistence API (JPA) with Hibernate 
+● Designed and implemented the search functionality with SOLR 
+● Developed the UI using with Mediasurface UI tags, JSF, JSPs and JSTL tags  
+● Reviewing the developer’s code and bug fixes 
+● Mentoring  for  all  team  members  performing  reviews  and  feedback  as  well  as   setting  goals  and 
+milestones. 
+Environment​
+: Java, Servlet, JSP/JSTL,  Hibernate, JPA, Spring, SOLR/Lucene, CXF web services, Morello 
+CMS, Maven, PostgreSQL, Oracle, Tomcat, JUnit, Unix, Windows 
+ 
+Project 5 
+Project Name:    VEDA 
+Client Name:
+   Novartis, Boston 
+Role:                Sr. Developer 
+Team size:
+   3 
+Duration:              May 2010 to SEP 2010 
+Description​
+:  VEDA   is  web  based  tool  developed  for  the  researcher’s  aid.  This  tool  facilitates   the 
+researchers  to  search  the   reference  documents  in  various  public  databases  related  to  the  particular 
+reference  sequence.  It  provides  the  related  documents  information  based  the  relevance  of  the  target 
+sequences.  
+The VEDA provides Researchers with the following functionality: 
+●
+●
+●
+●
+●
+
+Ability to search for and view existing Targets. 
+Ability to create new Targets. 
+Ability to generate reference Summary report. 
+Ability to generate Hit Summary Report. 
+Ability to generate report for Hit, Reference and Reference Document. 
+
+Responsibilities​
+: 
+● Requirements Gathering and Preparing Functional specification and Design documents 
+● Developed the persistence logic using Hibernate 
+● Developed Business logic with Spring 
+● Reviewed the developer’s code and bug fixes 
+ 
+
+Environment​
+: Java, Hibernate, Spring, Java Regular Expressions, JSP/JSTL, XML, HTML, JAXB, SQL, 
+MySql, Tomcat, log4j, JUnit, Unix, Windows 
+ 
+Project 6 
+Project Name:  Producer Portal 
+Client Name:
+ Geneca LLC (Chicago) 
+Role:              Sr.  Developer 
+Team size:
+ 2 
+Duration:            Dec 2009 to May 2010 
+Description​
+:  Producer Portal is  a  web  based application servicing  licensed Agents  in managing  their Book 
+of Business.  Producer Portal caters  to  Agents in four  different  states:  IL, TX,  OK, and NM.  The application  
+contains  state   specific  differences   in  terminology,  feature  availability,   and  navigation.  It  is  replacing  an 
+existing  legacy  system  to  be  more  efficient   and  fast. There are  few 3rd  party  applications  interacting  with 
+Producer Portal, with which Producer Portal will interact to make the portal functional. 
+The Producer Portal application provides Agents with the following functionality: 
+●
+●
+●
+●
+
+Ability to search for and view Client Information also saving custom searches 
+Ability to submit and receive feedback for E­Questions and E­Opinions 
+Ability to upload scanned documents 
+Ability to generate new quotes 
+
+Also admin app with below features: Using this admin app administrators 
+●
+●
+
+Ability to register new agents and manage existing agents  
+Ability to create news to show on the dashboard. 
+
+Responsibilities​
+: 
+● Participated  in  Requirements  gathering  and   preparing   Functional  specification  and  Design 
+documents 
+● Architecting data model for the E­Question and E­Opinions. 
+● Developed services using CXF web services. 
+● Developed the persistence logic using Java Persistence API  
+● Reviewed the developer’s code and bug fixes. 
+● Mentored team members performing reviews and feedback as well as setting goals and milestones. 
+Environment​
+: Java, J2EE, JSP, JSTL, XML, JavaScript, Spring, Hibernate, CXF Web services, SQL, SQL 
+Server, Maven, Jetty, SVN, WebSphere 6.1, log4j 1.2, Unix, Windows. 
+ 
+Project 7 
+Project Name :
+General Ledger Interface (GLI) 
+Client Name
+:
+ADP (US) 
+Role
+:           Sr. Developer 
+Team size
+:
+6 
+Duration           :            June 2006 to Dec 2009 
+Description​
+: General ledger is the heart of any organization's financial accounting system. Every company 
+that has a payroll must also have a general ledger. General Ledger Interface (GLI) is the application that 
+provides a flexible and efficient method of transferring payroll information into the general ledger. 
+GLI receives a payroll file in XML format from Autopay thru infolink and validates the file interacting with the 
+ISI product. On success it will store the payroll information into the database. 
+GLI allows creating the File specs as following: 
+1. QuickBook Custom 
+2. QuickBook with Map Assistant 
+3. Peach tree with Map Assistant. 
+
+4. MicroSoft Small Business Accounting. 
+5. Custom File Specs 
+Depending on the selected specification payroll data will be mapped to chart of accounts like, 401k 
+deductions, Benefits, Loan Deductions etc., 
+Following are the modules in GLI: 
+ Define GL File, Map to chart of accounts, Account Structure, Manage Departments, Reports, Create GL 
+File, Transformation, Pre/Post payroll client setup and Preferences in GLI. 
+Responsibilities:  
+●
+
+Involved  in   Requirements  gathering,  Analysis  and  Development  plan,  development   of  every  train  
+and iterations in it. 
+● Involved in preparation of few development plans based on due dates given by the project manager.  
+● Interacting with the Business, Analysis, and QA. Coordinating with other teams ISI, PayExpert 
+Teams for integrating with their products. 
+● Involved in Estimation for new features and Problem Logs. 
+● Involved in Database Import Activities for importing clients data in specific schema. 
+● Involved in the Development and Integration of modules using Rational Application Developer Tool. 
+● Involved in Unit Testing, Integration Testing and System Testing. 
+● Preparing the Test Plan and Test Cases for the functionality of the application.  
+● Fixing PLs and Cross Verification of PLs. 
+Environment​
+: Java, J2EE, JSP,  Struts, tag libraries, XML, JavaScript, JDBC, SQL, Oracle, Ant, Rational 
+Clear Case 7.0, WebSphere 6.1, Tomcat, log4j, JUnit Unix, Windows. 
+ 
+ 
+Extracurricular Activities 
+● Actively participated in sports and annual day committees at college 
+● Actively participated as coordinator in ADP and GGK  for organizing events 
+● Contributed for YCC (Your Contributions Counts, Program in ADP to help charity organizations) 
+and YFS (Youth For Seva, Program to sponsor poor children’s education), Contribution to Diya 
+Foudation 
+● Actively involved in project showcasing of our project at ADP in “Company Day”, 
+Our project won “BEST PROJECT SHOWCASING PROJECT” award 
+● Won the Team Oscar award for best Coach/Lead 
+● Chess runner­up in 2007, 2008 ADP sports event 
+● Participated in ​
+Best Software Design Contest​
+ in ADP 
+ 
+ 
+ 
+ 
+Personal Details 
+Name:                               Neela Santhosh Kumar 
+Father Name:                     N Pullaiah 
+Mother Name:                    N Pushpa Latha 
+th​
+Date of Birth:                     24​
+ June, 1980 
+Sex:                                  Male 
+Marital Status:                   Married 
+Languages Known:             English, Hindi and Telugu 
+Hobbies:                            Chess, Cricket, Table Tennis and Snooker 
+Nationality:                         Indian 
+Visa Status:                       B1 
+
+

@@ -1,0 +1,429 @@
+Web DeveloperDiwakar Pandey402, Hydernagar, Hyderabad-500072
+
+  HYPERLINK "mailto:Pandey.diwakar@gmail.com" Pandey.diwakar@gmail.com 
+
+Ph:08885019884 
+
+Summary
+
+I am Web Developer with 9 years of experience, Expert in UI integration
+of server side pages developing prototype, creating mockup and client
+side scripting. 
+
+Objective
+
+To obtain a creative and challenging position that enables me to gain
+valuable commercial experience and improve the web development and
+design skills that I gained as part of my degree course and previous
+experience.
+
+Experience
+
+	
+
+SemanticSpace Technologies (Feb'2011-Till Date)
+
+Neova Solutions Pvt. Ltd,pune (july 2009 – Feb2011)
+
+Suksh Technology, Bangalore (july2008-july2009)
+
+Apostek India Private Limited, Bangalore (feb-2008-july2008)
+
+Covansys India, Chennai(August 2007 - Feb-2008)
+
+First Indian Corporation Private Limited(december'2005-august'2007)
+
+IndiaInfo.com(september'2003-december'2005)
+
+Key Skills 
+
+Programming Skills: HTML, CSS, XML, XSL, JavaScript, Flex4.0, AS2.0,
+HTML5, CSS3,ROR
+
+JS Framework: Jquery, Backbone, Skeleton, YUI, EXTJS,Node.js, Angular
+js, Backbone.js, Knockout.js
+
+Graphic design and Photo editing.
+
+Worked on Tumblr framework
+
+Worked on google api and GMAP
+
+Proficient user of Dreamweaver MX, Photoshop CS6, basic knowledge of
+Flash Animation.
+
+Web Servers: Apache Http Server, Apache Tomcat 4.0.
+
+DBMS used: MySql, Access
+
+Analysis/Design Methodologies: UML, OOAD, Unified Modeling Process.
+
+UI Integration for PHP, JSP, CFM,asp.net and ROR
+
+Expert in using CMS (custom CMS, ektron cms400.net, Cantao, joomal,
+Wordpress and Drupal) 
+
+Education
+
+Masters in Computer Management (Dr.D.Y.Patil Institute of Management &
+Research), Pune University, 2003(57%)
+
+B.Sc (Major in Computer) Andhra University, Visakhapatnam, 2001(68%)
+
+IT Projects
+
+SemanticSpace Technologies:
+
+Roles and Responsibility: 
+
+Designation:  Team Lead, 
+
+Responsibilities:
+
+i) I am involved in initial phase of the project which includes creating
+FRD (UI side), creating LOE suggesting correct approach for UI
+
+ii) I am involved in creating HTML mockup 
+
+iii) I am also involved in creating client side component using
+javascript or Jquery
+
+iv)As a UI Lead my responsibility also include identifying correct
+resource for particular project
+
+v) I certify the UI look and feel before releasing it for QA (include UI
+checklist, Validation etc)
+
+Technologies Working on:
+
+Primary: HTML, CSS, JavaScript, Js-Lib (Jquery, YUI, ExtJs, Backbone.js,
+Knockout.js)
+
+Secondary: AS2.0, Photoshop, UI integration to JSP and .net pages,
+Tumblr framework, ROR
+
+POC created: Responsive web design with server side scripting, RWD for
+foxsports video page
+
+Mini project: Foxsports1
+
+Project Name:Foxsports.com
+
+Summary: This is project is all about soccer , Golf and College Games ,
+This is ongoing development  process , currently we(offshore team) is
+looking after soccer site of fox (  HYPERLINK
+"http://www.msn.foxsports.com/foxsoccer" 
+www.msn.foxsports.com/foxsoccer )  for English version as well as
+Spanish version (www.msn.foxsports.com) , Currently I am working on
+Olympics and Eurocup2012.
+
+Roles and responsibility: Creating HTML mockup using html, css, jquery
+and javascript
+
+			  Design Pages (creating PSD, jpg)
+
+			  Integrating code to backend
+
+			  Bug fixing of UI side
+
+Project Url: http://msn.foxsports.com/foxsoccer
+
+	         HYPERLINK "http://msn.foxsports.com"  http://msn.foxsports.com
+
+
+	         HYPERLINK "http://blog.foxsoccer.com" 
+http://blog.foxsoccer.com 
+
+Neova Solutions
+
+Project Name: PixyKids
+
+Summary:  PixyKids, a startup based in Southern California, aspires to
+become the world's largest interactive online destination where today's
+children, ages 4-12, can have fun, learn, and communicate with each
+other through creative expression in a safe and personalized
+environment. 
+
+Role: 
+
+creating demo using flash
+
+UI creation using flex3.0
+
+UI integration in Drupal CMS
+
+Creating HTML page as prototype and include it in backend
+
+Supervise UI team in UI front 
+
+Supervise developer for UI approach
+
+Adding Jquery component(s)
+
+creating validation framework(OOJS)
+
+used node.js as bridge for api calls
+
+used 3dJs for  custom animation
+
+Dashboar for project Analysis: created dashboard for project analysis,
+and project management. This gives overall status for any project it
+also helps in resource planning.
+
+Technology used: PHP, Angularjs, Mysql and JS3DCharting
+
+Project Name: Center for the Environment & Campaign for Clean Air:
+Customized CMS
+
+Summary: Customization was done to offset the feeds being displayed on
+websites, so that the updated initial feed items can be published to
+external websites. The partner in this case sought Neova's expertise for
+evaluation, complete implementation and customization of features as
+specified by its client. 
+
+Role : 
+
+Drupal CMS Integration
+
+Creating Prototype
+
+Client Side Scripting, jquery
+
+Supervising developer for UI approach 	
+
+Project Name: Phoenix Resources Recycling
+
+Summary: Phoenix Resources Recycling (PRR) is a company focused on
+providing recycling and shredding services to various local, small and
+medium businesses. They provide a wide range of recycling and secure
+document destruction services. They required a software application to
+automate their business processes - which would consolidate their
+database of clients (accounts), services offered by to them, record all
+the pickups done at the client location along with generating invoices
+and statements to bill their customers.  
+
+Role : Creating Prototype
+
+           UI Integration server side integration
+
+           Implementing Jquery component
+
+Project Name: Budgeting & Planning Solution 
+
+Summary: Dynamic Budgets was developed to be a cost effective, budgeting
+solution which can be configured in a matter of hours, rather than weeks
+or months. Dynamic Budgets targets organizations which struggle to
+contend with volumes of individual Excel templates. Dynamic Budgets
+leverages a set of efficient data views to provide direct access to
+sub-ledger and transaction level details as necessary without data
+warehousing or replicating your core financial information. The product
+initially supports Microsoft Dynamics GP (Great Plains) and will soon
+expand to support the Microsoft Dynamics AX and NAV platforms.   
+
+Role : Creating Prototype
+
+           UI Integration server side integration
+
+           Implementing Jquery component
+
+Suksh Technology
+
+Project Name: www.100floors.com
+
+Summary: India first map based real estate search for Buy, rent and sell
+of property.
+
+Role: UI Integration in php
+
+      SEO optimization
+
+      Implementing GMAP and map Search using google API
+
+      Client side scripting using YUI
+
+      
+
+Developed with PHP,CSS,XHTML,Javascript,YUI,Gmap,Google Api and sol
+
+Project Name: www.100nests.com
+
+Summary: This is extension of 100floors.com here property valuation and
+more information 
+
+	   About your locality is added
+
+Role: UI Integration in php
+
+      SEO optimization
+
+      Implementing GMAP and map Search using google API
+
+      Client side scripting using YUI
+
+Developed with JSP,CSS,XHTML,Javascript,YUI,Gmap,Google Api and sql
+
+Internal Projects
+
+--------------------
+
+valuation calculator
+
+This is used to get valuation of a property for last 10 years, If a user
+ask for value of home CS-Team uses these calculator to give a estimate
+of that house price varies with amenities
+
+Technology Used : JSP, JSON and Flex, Angularjs
+
+Compare chart for Houses
+
+If user wants to compare to houses he can select from list (upto 5) then
+click on compare button then it will show the graph of price, amenities,
+locality and crime 
+
+Tools used : JSP, JSON and Flex, Angularjs
+
+Apostek India Private Limited, Bangalore (feb-2008-july2008)
+
+I was working for client Quattro wireless, U.S.A on Mobile Site and html
+sites for various clients:
+
+Summary: I was responsible for static site development and end-to-end
+mobile site 
+
+Development
+
+Developed static site using: XHTML,CSS,RSS,JavaScript
+
+Mobile site using: E4X,CSS,JavaScript,XHTML,RSS-feed
+
+List of Sites
+
+http://www.daytondailynews.com/
+
+http://www.journal-news.com/
+
+http://www.palmbeachdailynews.com/
+
+http://www.rockymounttelegram.com/
+
+http://www.oxfordpress.com/
+
+http://www.lufkindailynews.com/
+
+http://www.gjsentinel.com/
+
+http://www.nba.com/
+
+http://www.wnba.com/
+
+Covansys India, Chennai(August 2007 - Feb-2008)
+
+I was involved in signup process for PayPal Inc
+
+Developed this using: AML, PML, CML, css, JavaScript and YUI
+
+  HYPERLINK "https://www.paypal.com/in" https://www.paypal.com/in 
+
+First Indian Corporation Private Limited (December ‘2005-august'2007)
+
+Job Summary: Manage all phases of graphics user interface design
+projects for a wide range Of clients requiring, interactive,
+transactional e-commerce, mortgage, corporate websites.  Direct
+conceptual, strategic, and tactical creation of robust, integrated GUI
+web site    and web application solutions using HTML, DHTML, CSS,
+JavaScript and ASP. Manage multiple simultaneous projects, successfully
+meeting  timeframe. Drove 2 projects from conceptual stages to delivery
+in less than 2 months. Design and optimized original site graphics and
+navigational elements that have been formally praised by clients for
+accurately reflecting marketing message while clearly and logically
+guiding site users.
+
+Project URL(s):
+
+http://www.firstam.com
+
+http://www.fand.fisrtam.com
+
+http://www.eaglediversity.com
+
+http://www.homeownership.com
+
+http://www.firstindiancorp.com
+
+  HYPERLINK "http://www.residential.firstam.com/"
+http://www.residential.firstam.com 
+
+CMS Used: Ektron CMS 400.net
+
+Internal Projects
+
+--------------------
+
+Mortgage Calculator:
+
+Description: This internal project helps CST to calculate emi for a
+house. for 5 to 20 years.
+
+Technology Used : Json, Flex and JSP
+
+Project Dashboard
+
+Description: This helps top management to get an overview for project
+status, Flex charting is used to create dashboard for different projects
+project manager can update the status of project in jsp pages (how much
+% complete) then xml is created from those xml dashboard is created
+which can be viewed by delivery manager and top management.
+
+Technology used: XML,JSP and flex
+
+IndiaInfo.com (September ‘2003-December ‘2005)
+
+Summary: Developing sites using HTML, DHTML, CSS, Java Script, PHP, ASP
+and Flash
+
+List of Sites
+
+http://www.floranceflora.com/flash.htm
+
+http://www.hudsonimpex.com/
+
+http://www.greatfurniture.com/
+
+http://www.encarnacionlaw.com/
+
+http://www.kingstoninfosolution.com/
+
+http:// www.ieei.com
+
+http:// www.venturesouth.com
+
+http://www.venturesouth.com/home.html
+
+http://www.globalringer.com/
+
+http://www.icenetworks.com/
+
+http:// www.epactindia.com
+
+http:// www.in.com
+
+http:// www.spms.com
+
+http://www.orogol.com/
+
+http://www.skinremodel.com/
+
+http://www.9to9officesuppliers.com/
+
+http://www.telecommsbay.com/
+
+http://www.basuchatterji.com/
+
+http://www.oraclesingh.com/
+
+http://www.travelsitefinder.com/
+
+http://www.click.in/
+
+¥
+

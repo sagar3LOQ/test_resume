@@ -1,0 +1,171 @@
+RAHUL  SINGH                            
+
+Mobile Number : (+91) 9953577801 
+
+          E-mail:    HYPERLINK "mailto:singh908@yahoo.co.in" 
+singh908@yahoo.co.in  
+
+Experience Summary
+
+3.5 years of experience in developing and analyzing end-to-end
+applications using Java / J2EE related technologies.
+
+Working as a Senior Software Engineer in Aon Hewitt since June 2013.
+
+Worked as a Software Engineer in Aricent Technologies Pvt. Ltd.
+
+Technical Proficiency	
+
+Programming Languages	Core Java (Collections, Multithreading) & J2EE
+(Servlet  and JSP)
+
+
+
+Technologies/ Framework	Struts 2.0, JDBC, Hibernate, Springs, GWT
+
+Database	MySQL
+
+Web	HTML, XML, CSS & Java Script 
+
+Tools	RAD 7.5.5, Eclipse 3.3, Maven, SVN
+
+Web Server	WAS 7.0, Apache Tomcat
+
+
+
+Educational Qualifications                
+
+            
+
+Passed B.E. (C.S.E.) from Lingaya’s Institute of Management and
+Technology with an aggregate of 70%.
+
+Passed All India Senior School Certificate Examination (12th) from
+C.B.S.E. with 71.4% marks.
+
+Passed All India Secondary School Examination (10th) from C.B.S.E. with
+72% marks.
+
+Projects
+
+CsPro – Aon Hewitt
+
+
+
+Description	Hewitt CS Pro integrates customer service across all lines
+of business--Benefits, Payroll, and Workforce Management--and leverages
+Hewitt’s years of HR Outsourcing customer service experience. The
+result is desktop technology that provides exceptional service
+efficiency and effectiveness, while requiring a minimum of training for
+associates providing customer service. Hewitt CS Pro design has been
+driven by user feedback, response to key drivers of customer
+satisfaction, and the tenets of the customer experience brand.
+
+.
+
+Contribution	Identifying the requirements and prepared requirement
+document.
+
+Involved in both high level and low level design.
+
+Development of web pages as per required functionality in JSP. 
+
+Wrote server side code to cater client request.
+
+Interacting with the onsite team.
+
+Module owner for Call Reduction.
+
+Worked on Security Enhancement Project
+
+Module owner for MCCC Project.
+
+
+
+Skills Used	Core Java (Collections, Multithreading, Data Structure),
+J2EE (Servlet and JSP) Springs,  Hibernate 3.0, Web Service, AJAX, JUNIT
+and MySQL.
+
+
+
+NOS – Aricent Technologies Pvt. Ltd. 
+
+
+
+Description	NOS (Network Orchestration System) Customer Care application
+is a web based application for managing small cells. This application
+contains three parts CCA, CSC, and WHA. CCA part represents Customer
+care agent, which maintains information about small cells and users. CSC
+part represents Customer Self Care, which maintains user information
+i.e. registration of user etc. WHA part represents Warehouse Admin,
+which maintains warehouse related information as well as small cell
+information, Inventory management of small cells.
+
+
+
+Contribution	Identifying the requirements and prepared requirement
+document.
+
+Involved in both high level and low level design.
+
+Development of web pages as per required functionality in GWT. 
+
+Wrote server side code to cater client request.
+
+Wrote help pages (JSP) for the entire application.
+
+Wrote selenium test cases for entire CCA module.
+
+Worked on CCA and WHA module.
+
+Module owner for Help module.
+
+
+
+Skills Used	Core Java (Collections, Multithreading, Data Structure),
+J2EE (Servlet and JSP) Struts 2.0, JDBC, Springs DI, MySQL
+
+ ,         
+
+Event Correlation Engine - Aricent Technologies Pvt. Ltd.
+
+
+
+Description	Event Correlation Engine are used in system management tools
+to aggregate, normalize and analyze event log data, using predective
+analytics and fuzzy logic to alert the system administrator when there
+is problem in underlying system.
+
+
+
+Contribution	Studied various available engines and identified one which
+suits our requirements.
+
+Prototyped 3 engines (ESPER, DROOLS and ORACLE-CEP).
+
+
+
+         
+
+Achievements 	
+
+Won Gold Award in Feb 2015 for contribution in MCCC Project.
+
+Won Extra Miller Award in June 2014 for Call Reduction Project.
+
+Won Excellence Award in October 2012 for  Event Correlation Engine POC. 
+
+
+
+
+	
+
+ PAGE   
+
+ PAGE   
+
+ PAGE   1 
+
+                                                                        
+                    
+

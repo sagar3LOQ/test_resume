@@ -1,0 +1,365 @@
+RESUME
+
+									       Cell  No: +91-9704270631
+
+K.Sai Rama Bhargava						   Mail id:   HYPERLINK
+"mailto:sairambhargava.k@gmail.com" sairambhargava.k@gmail.com 
+
+ 
+
+OBJECTIVE:
+
+           To attain a higher position and excel in the Information
+Technology domain where my 
+
+abilities and calibers can be fully utilized for the welfare of the
+organization that I belong.
+
+PROFESSIONAL SUMMARY:
+
+Having Five years of experience in information technology in developing
+web based software applications.
+
+Extensive knowledge in the development of Web enabled applications, and
+Work flow Models using Servlets ,Struts, Spring, JDBC, JSP,  J2EE, 
+JavaScript, Hibernate, HTML and application servers Jboss 5.0  and
+Websphere.
+
+Proficient in using scripting languages like JavaScript for client side
+validation.
+
+Extensively used Eclipse and My Eclipse during development.
+
+Good interpersonal skills, committed, result oriented, hard working with
+a quest and zeal to learn new technologies.
+
+
+
+WORK EXPERIENCE:
+
+Working at Polaris Software ltd, - Hyderabad from April 2011 to till
+date.
+
+Worked at Avvas Info Tech Pvt Ltd – Bangalore as Software Engineer
+from March 
+
+            2010 To March 2011.
+
+
+
+EDUCATIONAL SUMMARY:
+
+    Completed Masters of Computers Application from Osmania university
+in 2009 with 70.04%.
+
+    Completed Bachelor of Computer science from Nagarjuna university in
+2006 with 74.40%.
+
+
+
+TECHNOLOGY EXPOSURE:
+
+          
+
+Language
+
+Java Web Technologies
+
+Backend Tools
+
+ORM
+
+IDE
+
+Scripts
+
+Markup Languages
+
+Frame Work
+
+Web Server
+
+Application Server
+
+Design Patterns
+
+Operating Systems
+
+:
+
+:
+
+:
+
+:
+
+:
+
+:
+
+:
+
+:
+
+:
+
+:
+
+:
+
+:
+
+Java.
+
+JSP, Servlets. 
+
+Oracle,DB2.
+
+Hibernate 2.1.  
+
+Eclipse 3.2, My Eclipse 5.0.
+
+JavaScript.
+
+HTML.              
+
+Struts 1.2, Spring 3.0.
+
+Tomcat 5.5.
+
+JBoss 5.0, Websphere.
+
+MVC , Singleton, DAO.       
+
+Windows, XP, 2007. 
+
+
+
+PROJECTS:
+
+“TRIMS (Trade Record Information Management System)”
+
+Client Name            
+
+Technologies Used
+
+Application Server 
+
+Role                         
+
+Duration
+
+:
+
+:
+
+:
+
+:
+
+:
+
+Citi bank.
+
+Java, JSP, Spring3.0, Hibernate, Oracle.
+
+Websphere.
+
+Developer.
+
+Dec 2013 to till now.
+
+Roles & Responsibilities :
+
+Analysis on specific requirement
+
+Prepare Unit test cases.
+
+Involved in the L\C registration module.
+
+Write code based on requirement.
+
+Coordinate with the team and help them.
+
+Preparing the necessary documents (release notes and change requests)
+for Release.
+
+Fix defects accurately identified by the Users / Clients with in time
+line.
+
+Description:
+
+The Trade is rendering of goods and services in exchanging of monetary
+or non-monetary benefits.
+
+Importer raise a request to bank to provide L\C to the exporter .so
+Issuing bank issued L\C to advising bank (exporter side bank), advising
+bank advised L/C to the exporter.
+
+A written doc undertaking by a bank (a credit) given to exporter at the
+importers request to effect payment up to a stated amount with I a
+stated time against presentation of a specified document which complies
+with the terms and condition of credit.
+
+ After L\C process done. Exporter send the goods to Importer through the
+bank, Bank is responsible for the quantity of goods.
+
+Doc’s (Bill) are prepared by the exporter/seller which gives details
+of the goods exported. Docs can be under L\C.
+
+Payment will be done by Importer based on the terms and condition
+mentioned in L/C.
+
+“Sales Channels System ”
+
+Client Name            
+
+Technologies Used
+
+Application Server 
+
+Role                         
+
+Duration
+
+:
+
+:
+
+:
+
+:
+
+:
+
+Standard Chartered Bank.
+
+Java, JSP, Spring3.0,Hibernate, DB2.
+
+Jboss.
+
+Developer.
+
+July 2011 to Aug 2013.
+
+Roles & Responsibilities :
+
+Analysis on the give requirement document.
+
+Prepare Unit test cases.
+
+Code for the specific requirement.
+
+Involved in adjustment and admin modules.
+
+Coordinate with the team and help them if required.
+
+Preparing the necessary documents (Release Notes and CR / Defect
+Tracker) for Client Release.
+
+Fix any defects identified by the QA Team / Clients.
+
+Description:
+
+	It is related to sales staff’s incentives and their adjustments. With
+this project their incentives based on their performance effected
+through application. Here KPI’s (key performance indicator) defined
+with calculations and conditions and the combination of KPI’s defined
+as Rules. These rules will calculate the sales staff’s incentives
+based on their performance. For the monthly based and quarterly based we
+need to run the several batch runs.
+
+For this we are using DB2 database for handling huge data and it is
+updated time to time bases. The batch runs will run through rule engine
+using with drools. Previously sales staff’s incentives and their
+performances calculated manually. to avoid complexity, this application
+designed as user friendly. In this project used high security
+programming language Java and advanced frame work springs implemented.
+For the database independent used Hibernate. Recently this project went
+to production and users using this application.
+
+“Issue Tracking System”
+
+Client Name            
+
+Technologies Used
+
+Application Server 
+
+Role                         
+
+Duration
+
+:
+
+:
+
+:
+
+:
+
+:
+
+Agrigold group of Industries.
+
+Java, JSP, Struts1.2,Hibernate,Oracle.
+
+Jboss.
+
+Developer.
+
+Mar 2010 to Mar 2011.
+
+Responsibilities :
+
+Code for the specific requirement.
+
+Coordinate with the team and help them.
+
+Involved in the customer and admin module.
+
+After coding unit test has done.
+
+Fix the defects with in time line.
+
+Description:
+
+Issue Tracking System: An issue tracking system (also trouble ticket
+system, support ticket or incident ticket system) is a computer package
+that manages and maintains lists of issues, as needed by an
+organization. Issue tracking systems are commonly used in an
+organization's customer support call center to create, update, and
+resolve reported customer issues, or even issues
+
+Reported by other employees of that particular organization. An issue
+tracking system often also contains a knowledge base containing
+information on each customer, resolutions to common problems, and other
+such data. An issue tracking system is similar to a "bug tracker", and
+often, a software company will sell both, and some bug trackers are
+capable of being used as an issue tracking system, and vice verse.
+
+
+
+
+
+DECLARATION:
+
+            
+
+ I hereby declare that the above furnished information is true to my
+knowledge and belief.
+
+                                                                        
+                                              
+
+                                                                        
+                                            Yours Sincerely,
+
+STATION: Hyderabad                                                      
+                    K Sai Ram Bhargava
+
+DATE:                                                                   
+                              
+
+
+

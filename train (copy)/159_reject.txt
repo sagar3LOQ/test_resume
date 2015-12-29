@@ -1,0 +1,279 @@
+GEET KHOKHAR
+
+  
+
+
+
+
+
+E-8, Third Floor, Flat No. -6
+
+Prashant Vihar,
+
+New Delhi- 110085
+
+Mobile     : +91-9818262559
+
+Email_id : geet.libran@gmail.com
+
+
+
+                                                                                                                   
+
+Objective	
+
+	To strive for excellence in the field of software development – with dedication, focus, proactive approach, positive attitude and to utilize my knowledge and skills of java in the best possible way for the fulfillment of organizational goals.
+
+	
+
+Professional Summary	
+
+4 Years  of total experience in software development.
+
+4 + of relevant experience on Java/J2EE. 
+
+Experienced in Software Development using Agile Methodology.
+
+Possess sound knowledge of OOPs Concepts.
+
+Worked exceptionally well as both team player and individual performer.
+
+Hard Worker , good listener and communicator.
+
+Self-Motivated with Positive Approach, Adapts to changes easily.
+
+Involvement in client communication in the projects.
+
+	
+
+	
+
+Work Experience	
+
+Working with Aricent Technology, Gurgaon as Senior Software Engineer since July, 2013.
+
+Working with Aricent Technology, Gurgaon as Software Engineer since April, 2011.
+
+Worked with Aricent Technology, Gurgaon as Trainee Software Engineer from Oct, 2010 to March 2011.
+
+
+
+
+
+Skill Summary
+
+Programming Languages 
+
+Java
+
+Java/J2EE Technologies
+
+Swings, Multithreading, Spring, Hibernate, JSP
+
+Web/Application Server
+
+Apache Tomcat, Jetty
+
+Design Patterns
+
+MVC Architecture, Singleton, Factory Patterns etc.
+
+	Tools/IDE
+
+Eclipse, Log4j, Slf4j, JBuilder. 
+
+	Source Code Management
+
+Perforce, GITHub
+
+Others
+
+Data Structure, Junit, XML, HTML, JavaScript, Ajax, Jquery, FLOT charts, LDAP
+
+
+
+
+
+Project Summary
+
+
+
+Project #1
+
+CBNL (Cambridge Broadband Network Limited)  - VNMS 
+
+Client
+
+Duration
+
+CBNL 
+
+
+
+Feb 2014 to till date
+
+Project Description
+
+VNMS(VectaStar Network Management System) of CBNL is already built NMS integrated with OpenNMS. Currently working on developing complete new web based next gen VNMS for the client.
+
+Responsibility
+
+Requirement understanding thoroughly from the client/lead.
+
+Effort estimations, LLD, HLD .
+
+Development of end to end feature.
+
+Unit testing of the feature.
+
+Maintenance of feature.
+
+Technologies
+
+Spring, Jquery, Hibernate,FLOT and JUnit Framework
+
+Team Size
+
+14
+
+
+
+Project #2
+
+OmniVista (Network Management System)
+
+Client
+
+Duration
+
+Alcatel-Lucent, USA
+
+
+
+April 2012 to Feb 2014
+
+Company Description
+
+Alcatel-Lucent has introduced a product called OminVista which is used for fault, configuration, provisioning and activation for STB’s, Routers and lot of other devices. Uniqueness of this product is- it has multivendor and multiprotocol support.
+
+Project Description
+
+OminVista is primarily a Network/Element management system which is being
+
+used in USA.
+
+It is an extensible, Java-based, management system that provides the basic components required for NM/EM systems. It provides FCAPS functionality for management systems. 
+
+The project tends to provide the development and sustenance support for the Alcatel Lucent’s proprietary software “OmniVista 2500 NMS”.Software download and upload on STB’s etc.
+
+Responsibility
+
+Requirement understanding thoroughly from the client
+
+Preparation of HLD and LLD.
+
+Development of end to end feature.
+
+Feature presentation to the client.
+
+Unit testing and Maintenance of the feature.
+
+Technologies
+
+Core Java
+
+Team Size
+
+14
+
+
+
+
+
+Project #3
+
+Hybrid access card support for OMSN-ISA (release 4.0)
+
+Client
+
+Duration
+
+Alcatel-Lucent, Vimercate, Italy
+
+
+
+July 2011 to April 2012
+
+Company Description
+
+Alcatel-Lucent has introduced a product called OMSN . 
+
+Project Description
+
+As of before this release, ISA-ES boards were supporting two kind of access cards i.e. FE access card and GE access card. In this release, a new Hybrid access card was required to support to ISA-ES boards with the support of earlier access cards as well. New hybrid access cards have both kind of ports i.e. FE and GE.
+
+Responsibility
+
+Understanding of Client’s requirements and bug fixing for NE (GUI tool for viewing and configuring switches) – Craft Terminal 
+
+Technologies
+
+Core Java
+
+Team Size
+
+12
+
+
+
+
+
+Academic Qualification
+
+Completed MCA from G.N.I.M (G.G.S.I.P University), Delhi during 2007-2010 and secured 76%.
+
+
+
+                                                                                                       
+
+Achievements
+
+Received snap awards for the problem solving skills, debugging skills and the dedication in OmniVista, CBNL project in Aricent.
+
+
+
+Awarded “Star of the Month” in OmniVista project in Aricent.
+
+
+
+Scored highest marks till date in training conducted by customer for VNMS project. Highly appreciated and Awarded by client for the same.
+
+                  
+
+                                                                                  
+
+Personal Profile
+
+
+
+Date of birth	   	:  25th SEP, 1985
+
+Father’s Name 		:  S. Iqbal Singh
+
+Hobbies			:  Playing Chess, Carrom, Cooking and implementing quotes in life
+
+
+
+I hereby declare that the above written particulars are true to the best of my knowledge and belief.
+
+
+
+
+
+
+
+
+
+Date:……………. 
+
+Place: Gurgaon								(Geet Khokhar)

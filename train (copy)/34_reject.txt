@@ -1,0 +1,419 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate             Mybatis          -  2.5 year
+& current
+
+Spring                  
+                       -  2.5 year& current
+Years                                 �
+�             
+
+Web Services                           
+   
+-RESTFUL                                
+                
+
+Core
+Java                                  
+   -  7 years                
+
+Design Patterns                         
+-  used in project            
+
+UML design                              
+-   used
+
+Build Tools (Maven/Ant)                   -   
+Maven/Ant   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Eclipse/weblogic/jboss/tomcat/sonar/checkstyle
+
+Strong in reflection and db skill
+
+Sushil Ranjankumar Joharapurkar
+
+Present Address: B 101, Omega Paradise, Wakad, Pune. 411057.
+
+Email:  sushil.joharapurkar@gmail.com        Phone: 9850042930.
+
+________________________________________________________________________
+_____
+
+Objective: 
+
+Looking for a very advanced, challenging and responsible position in a
+well-established organization that will allow me to utilize my designing
+and development skills.
+
+Experience Summary:	
+
+Over 6+ years of IT experience in development of diverse projects.
+
+Skilled in team management and has a fair experience in requirement
+study and analysis and implementation. 
+
+Responsible for Client interaction, 
+
+Responsible for interaction with in house senior management.
+
+Ability to deliver successful results within schedule.
+
+Hands on experience in core Java.
+
+Work Experience:
+
+Organization	Tenure	Designation
+
+PubMatic	Nov, 12 to Till date	Sr Software Engineer
+
+Synerzip 	Aug, 12 to Oct, 12	Software Engineer
+
+Persistent Systems Ltd	Sep, 10 to July, 12	Sr. Software Engineer
+
+Supreme Soft Solutions	May, 09 to Sep 10	Software Engineer
+
+WikiOcean	Jan, 08 to April, 09	Software Engineer
+
+
+
+Technical Exposure:
+
+Programming Language	Java, C++.
+
+Web Technology	HTML, JavaScript, REST, JAZZ, OSLC
+
+Frameworks	Spring, JSF.
+
+Database	MySQL, PostgreSQL
+
+Tools	Eclipse, NetBeans6.8, SVN, ADE, Jdev, Jenkins
+
+Web/Application Servers	WebLogic, Websphere, Tomcat, JBoss 
+
+
+
+Projects Developed:
+
+Project Name	: Inventory Discovery
+
+Organization	: PubMatic
+
+Technologies	: Java, REST, Spring 3.0, MyBatis, Shell Scripting
+
+ 6
+
+Features	: PubMatic has come up with an innovative solution to advertise
+the available inventory. Publishers to create packages with required
+details to display their inventory. They can control the visibility of
+those packages. Advertisers can then discover various packages as per
+their needs. 
+
+Role: 
+
+Sr Software Engineer
+
+Plan, design and document the solutions
+
+Optimized and efficient code
+
+Test cases using JUnits
+
+Set up continuous integration using Jenkins
+
+Ownership to deliver on strict time line 
+
+Project Name	: Demand Portal
+
+Organization	: PubMatic
+
+Technologies	: Core Java, Spring 2.5, MyBatis, PHP 5.2, Shell Scripting
+
+ 6
+
+Features	: PubMatic offers quality products for ad channel sales
+management and capitalize revenue gain for publishers. Having done well
+as the sales side platform, PubMatic has come up with a solution to
+advertisers through Demand Portal. Demand Portal offers features like
+campaign creation, violation management, reporting and many other
+related services to demand side entities.
+
+Role: 
+
+Sr Software Engineer
+
+Take ownership of the tasks and ensure scheduled delivery
+
+Analyze, re-factor and optimize the code
+
+Identify improvements and develop those
+
+Cross language barrier and work on UI or scripts to ensure timely
+delivery
+
+Ensure code quality through code reviews and JUnits
+
+Project Name	: Specialty Pharmacy Development
+
+Organization	: Synerzip SoftTech Private Ltd.
+
+Technologies	: Core Java, Spring 2.5, Hibernate 3.0, JSF 1.2
+
+ 10
+
+Features	: This project is to extend the already developed pharmacy
+software to support the requirements for specialty pharmacies. It
+requires developing new screens using JSF and Swing. To support the UI,
+writing backing beans in core java. Writing Business Services for
+business logic. Writing DTOs to store and retrieve from Oracle database.
+
+Role: 
+
+Software Engineer
+
+To develop screens using JSF and Swing
+
+Writing Backing Beans, Business Services and DTOs
+
+Write JUnit Test cases
+
+Project Name	: Oracle Access Manager.
+
+Organization	: Persistent Systems Ltd.
+
+Technologies	: Core Java.
+
+ 4
+
+Features	: Oracle Access Manager is a well-known product for web
+security management. Oracle covers both, identity as well as access
+management for web applications. Along with built in authentication and
+authorization schemes, OAM also allows companies to define their own
+schemes and thus offering great customization facility and integration
+flexibilities to end user. 
+
+Role: 
+
+Senior Software Engineer
+
+To deploy OAM 11g on WAS
+
+Develop Session Synchronization Filter for WAS
+
+High Availability functionality for Identity Asserter on WAS 
+
+Write JUnit Test cases for migration from 10g to 11g
+
+Troubleshoot issues related to WLS and WAS Identity Assertion Provider
+
+Troubleshoot issues in Pure Java ASDK
+
+Project Name	: OSLC Adapter for JIRA (Issue Tracking Tool)
+
+Organization	: Persistent Systems Ltd.
+
+Technologies	: Core Java, Servlet, JSP, JavaScript, DOJO, HTML.
+
+ 3
+
+Features	: OSLC stands for Open Services for Lifecycle Collaboration. It
+is an IBM initiative to break brittle bridges and other integration
+hurdles among various lifecycle products/tools. OSLC reduces most of the
+integration complexities elegantly and also provides rich set of highly
+desired features. The project aimed at developing an OSLC adapter for a
+non – OSLC compliant open source issue tracking tool - JIRA. The
+adapter provides OSLC recommended services like RDF/XML representation
+for the resources, UI for selection, UI preview dialogs for resources,
+service provider catalog etc.
+
+Role: 
+
+Senior Software Engineer
+
+Single handedly developed the adapter
+
+Study and analyze provided REST APIs
+
+Design and Development
+
+Unit testing and Troubleshooting
+
+Project Name	: Integration between IBM Rational Quality Manager and JIRA
+
+Organization	: Persistent Systems Ltd.
+
+Technologies	: Core Java, C.
+
+ 5
+
+Features	: This project involves integration of one OSLC compliant,
+proprietary, lifecycle product – IBM Rational Quality Manager with an
+open source, wildly used non-OSLC compliant, lifecycle product - JIRA.
+Both the products are RESTful. Each provides REST APIs to carry out most
+of the operations.
+
+Role: 
+
+Senior Software Engineer
+
+Study and understand REST.
+
+Design and planning
+
+Guide interns in the Development
+
+Meet the goals and deadlines
+
+Project Name	: Integration between IBM RQM and HP QTP
+
+		  Integration between IBM RQM and HP LR
+
+Organization	: Persistent Systems Ltd.
+
+Technologies	: Core Java, Eclipse plugin.
+
+ 3
+
+Features	: This project involves integration between two proprietary
+test management products. The adapter allows importing test scripts from
+one product into another, either one at a time or in bulk. It also
+allows user to execute those imported scripts and displays result of the
+execution. The flow is restricted to one direction only.
+
+Role: 
+
+Senior Software Engineer
+
+To enhance performance and functionality
+
+Troubleshooting
+
+Project Name	: Integration between IBM Rational Doors and HP QC
+
+Organization	: Persistent Systems Ltd.
+
+Technologies	: Core Java, C++ (COM Programming).
+
+ 8
+
+Features	: This project involves integration between two giant,
+proprietary, requirements and quality management products. The adapter
+allows importing requirements from one product into another. The flow is
+restricted to one direction only.
+
+Role: 
+
+Software Engineer
+
+Study and understand the functionality of involved products
+
+Requirements analysis and Investigation towards fulfillment of the
+requirements
+
+Project Name	: Automation Framework
+
+Organization	: Supreme Soft Solutions
+
+Technologies	: Java
+
+ 4
+
+Features	: The project is a development of a product for automating all
+testing overheads. The application is complete testing suite which has
+features such as test case specification, test case execution and data
+base support for saving test cases and results, reporting and logging
+for all kind of test cases. The product can also be integrated with any
+other testing tool or front end and used for saving data and results.
+Reports can be generated anytime from the underlying database layer.
+Database used is MySQL.
+
+Role: 
+
+Java Developer
+
+GUI designing and development
+
+Development
+
+Unit testing and Troubleshooting
+
+Project Name	: Optolabs – POOL – OpenBravo ERP Integration
+
+Organization	: WikiOcean, Pune.
+
+Technologies	: Java, POOL.
+
+Team Size	: 7
+
+Databases	: Optolabs, PostgreSQL.
+
+Features	: The client GKB-Optolabs was leading lenses, goggles etc
+manufacturer in India. The main idea was to integrate client’s
+existing software with OpenBravo ERP through WikiOcean’s product POOL.
+This project mainly dealt with different Modules of an ERP such as
+Marketing, Sales, Purchase, HRD, Accounts and Finance, Production,
+Stores and other departments of a production company.
+
+Role: 
+
+Java Developer
+
+Client interactions through direct visits and over phone to analyze
+requirements.
+
+Train team over client’s software.
+
+Designing Database and stored procedures, functions and triggers.
+
+Development.
+
+Other projects developed at WikiOcean:
+
+Integration of POOL with various products like Drupal, OsCommerce,
+OpenBravo, SugarCRM.
+
+Education:
+
+B.E (Comp) - From K. K. Wagh, Nashik under Pune University in 2007 with
+Higher Second Class.
+
+H.S.C. (Sci) - From Modern College, Pune under Pune Board in 2003 with
+First Class.
+
+S.S.C.         - From J.D. Chaware, Karanja (Lad) under Amravati Board
+in 2001 with Distinction.
+
+Extra-Curricular:
+
+Awarded 'Spot Award' in PubMatic in February, 14.
+
+Won Gold Medal in Dimaag Ki Batti(an intra-company coding competition),
+in 2010 and 2011.
+
+Awards
+
+‘Best Event Organization’, Annual College Gathering, 07.
+
+‘Best Volunteer’, Annual College Gathering, 07.
+
+Active participation in NSS.
+
+Merit in Primary Scholarship Examination.
+
+Personal Profile:
+
+Date of Birth: 26th Sep, 1985.
+
+	Languages Known: Marathi, English, and Hindi.
+
+Marital Status: Married.
+
+Nationality: Indian.
+
+References: Can be revealed as and when required.
+
+  PAGE  1 
+

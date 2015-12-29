@@ -1,0 +1,497 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                  -  4 year &
+current                                �
+�               
+
+Spring                  
+                                  -  1.5
+year &
+current                                �
+�               
+
+Web
+Services                                
+        - 
+4years                                 
+               
+
+Core
+Java                                  
+             -  6 year
+
+Design
+Patterns                                
+    -  using  
+
+UML
+design                                 
+          -    
+
+Build Tools (Maven/Ant)                    -   
+maven   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Tomcat/websphere/SPS/eclipse
+
+8.1/11.5/60days(negotiable)
+
+DB:oracle/mysql
+
+Tuesday for face2face
+
+CURRICULAM VITAE
+
+                                              
+
+K.RAJESH                                                                
+                                  Plot no-49, HLP   		       Phone:
+9959206136 							 Meadows, ICRISAT Colony   HYPERLINK
+"mailto:rajesh.kundala@gmail.com" kundala.rajesh@gmail.com 	       				 
+            Road, Ameenpur Village
+
+  HYPERLINK "mailto:rajesh.kundala@gmail.com" kundala.rajesh@ rediffmail
+ HYPERLINK "mailto:rajesh.kundala@gmail.com" .com                       
+                                          Patancheru mandal             
+                                                                        
+                
+
+                                                                        
+                                              Hyderabad 502032.
+
+___________________________________________________________________
+
+OBJECTIVE
+
+To seek a position in a company, where I can apply my technical and
+analytical skills, enhance my knowledge and grow continuously along with
+the company through consistent and dedicated hard work.
+
+PROFESSIONAL SUMMARY
+
+1.  Working as Senior Software Engineer in Thomson Reuters,
+Hyderabad.(Feb 2011- till date)
+
+2.  Worked as Software developer in AVEDAS Innovation Management
+solution, Hyderabad (Feb 2010 -    Feb2011).
+
+3.  Worked as Software developer in 3i-Infotech L.T.D, Chennai (Jun
+2007- Oct 2009).
+
+4.  7+ years of Experience in J2SE/J2EE development.
+
+5.  7+ years of experience in product development (Insurance, Research
+and e-learning domains).
+
+6.  Strong understanding of object oriented programming.
+
+7.  Good analytical, oral and written communication skills in English.
+
+8. 1+ year of experience in working AGILE.
+
+TECHNICAL SKILLS
+
+     
+
+1.  PROGRAMMING LANGUAGES                                     : JAVA,
+J2EE.
+
+2.  IDE                                                                 
+                     : Net Beans (6.8/6.9), Eclipse 3.2, SQL            
+                 	                                                      
+                               Developer, Spring Tool Suite (3.6).
+
+3.  FRAMEWORKS                                                          
+      :  Spring 4x, Spring Restful Web services,                        
+                                                                        
+    	                                                                   
+                   Spring OAUTH, Spring Security, Hibernate 4x,         
+                                                                        
+                                                                        
+                                   
+
+                                                                        
+                             JSF 1.2, Rich Faces 3.3.
+
+4. WEB TECHNOLOGIES                                                     
+: JSP & SERVLETS, HTML                                                  
+                                
+
+     
+
+5.  RDBMS                                                               
+               : Oracle 10g (SQL, PL-SQL), Post GRE SQL, 							        
+     SQL Server 2008.
+
+6. APPLICATION SERVER                                                  :
+Glass Fish (2.2), Jboss4.2, Web sphere 6.1
+
+7.  WEB SERVER                                                          
+        : Tomcat (7.0)
+
+8.  TESTING TOOLS                                                       
+      : JMeter 2.2.
+
+                                                                        
+                          
+
+9.   OPERATING SYSTEMS                                                 
+: Windows XP/7
+
+10.   ADOBE TECHNOLOGIES                                             :
+Adobe live cycle designer. 
+
+ 
+
+PROJECT PROFILE
+
+Project #1                                                              
+                               ( April 2014 - present)
+
+Title			:  End State product development
+
+Clients			:  CPE’s and Firms in United States.
+
+Role			:  Senior Developer (Java/J2EE)
+
+Team Size		:  5	
+
+Environment  	       : Core java, Spring 4x, Spring OAUTH, Spring
+Restful Web services, Tomcat 7,     Hibernate 4x, SQL Server 2008,
+Oracle 10g, Angular.js.
+
+                                              .									
+
+Description:
+
+End state aims at bringing all learning management platforms together.
+It is migrating from existing CPL, Learn live and Bisk product into one
+common platform using latest java technologies.
+
+Responsibilities:
+
+Design and development of end state prototype.
+
+Project #2                                                              
+                               (Feb 2011 –April 2014)
+
+Title			:  Checkpoint learning product development
+
+Clients			:  CPE’s and Firms in United States.
+
+Role			:  Developer (Java/J2EE)
+
+Team Size		:  34	
+
+Environment  	       : Core java, JSP & SERVLETS, EJB (2.0), Hibernate
+(3.3), SQL Server 2008, Jboss (4.2), Web sphere(6.1) ,Java script.
+
+                                              .	
+
+	
+
+Description:
+
+Checkpoint learning is a Dashboard and complete learning management
+system for tax and auditing professionals called as CPE’s. It offers
+more than 300 courses in different formats like online, live events,
+exams, print based.  It provides reporting, learning reminders, prompts,
+compliance tracking and much more .CPE’s can directly purchase and
+complete course from checkpoint learning either individual or as part
+firm subscription package.
+
+Responsibilities:
+
+Enhancement and support of checkpoint learning product:
+
+Integrated Course player project of harbinger with checkpoint learning
+code to create local test environment for the CPL Java Team
+
+Deployed third party LMS (DOKEOS) for CPL Java team to create local test
+environment. 
+
+Worked on Adobe technology to create accessible document (PDF) for 508
+users.
+
+Worked on enhancements of checkpoint learning (CPL Automation, Product
+simplification, 508 compliance).
+
+Production support of CPL.
+
+Project #3                                                              
+                               (Feb 2010 –Feb 2011)
+
+Title			:  CONVERIS Product development
+
+Clients			:    HYPERLINK
+"http://www.avedas.com/en/article_408/references.html" Karlsruhe
+Institute of Technology (Germany)  ,  HYPERLINK
+"http://www.avedas.com/en/article_406/references.html" University of
+Kassel(Germany), 
+
+  HYPERLINK "http://www.avedas.com/en/article_189/references.html"
+MidSweden University(Sweden) ,    HYPERLINK
+"http://www.avedas.com/en/article_237/references.html" Leiden 
+University ,    HYPERLINK
+"http://www.avedas.com/en/article_188/references.html" Karolinska
+Institutet  ,                                                           
+                                                            HYPERLINK
+"http://www.avedas.com/en/article_238/references.html" European
+commission - Health Competence  ,  HYPERLINK
+"http://www.avedas.com/en/article_180/references.html" Sweden ScienceNet
+ ,   HYPERLINK "http://www.avedas.com/en/article_233/references.html"
+University of Botswana  .
+
+ Role			:  Java and JSF Developer.
+
+Team Size		:  26	
+
+Environment  	       : Core Java, JSF (1.2) , EJB(3.0) , Rich Faces
+3.3,Pretty Faces 1.2, JSP, xml , PostGreSQl 
+
+                                              Jmeter, Java script, CSS,
+Agile.
+
+	
+
+Description:
+
+CONVERIS is standard end-to-end Research Information System ensuring
+continuously up-to-date information for research assessments,
+strengthening grant applications and improving research performance. .
+
+ 
+
+Responsibilities:
+
+Development of new feature in CONVERIS for various clients:
+
+Implemented Tag Cloud concept in CONVERIS for public web.
+
+Development of new modules and integrating with the product.
+
+Resolving issues of CONVERIS.
+
+Worked on enhancements of already existing features.
+
+Performance Testing using JMETER and resolving issues produced in the
+same.
+
+Project #4                                                              
+                               ( March 2009 to  Oct 2009)
+
+Title			: General Insurance
+
+Client			:  D.O.I (Gujarat)
+
+Role			:  Team Member.
+
+Team Size		:  26	
+
+Environment  	       :  Core Java, JSF (1.2) , Rich Faces 3.3 , Oracle
+10g, JBOSS 4.2, Apache Tomcat 6.0
+
+Description:
+
+General insurance provides insurance for non life object.
+
+It is divided into 4 modules:
+
+1. underwriting
+
+2. claims
+
+3. billing
+
+4. reinsurance.
+
+Insured takes a proposal which is converted to policy. if any changes
+are done to policy, system allows endorsements.
+
+In case of damage to risk he claims some amount from the insurer.
+
+in case of big risks insurance company takes insurance from another
+insurance company.
+
+This is called reinsurance.
+
+ 
+
+Responsibilities:
+
+Development and migration of  Policy sub Modules and Premium Collection
+sub-modules from D2K to JAVA.
+
+Unit Testing of Module.
+
+Standardization of module
+
+Project #5                                                              
+          (January 2009 to February 2009)              
+
+Title			: PREMIA Group Pension.
+
+Client			:  All Geographies.
+
+Role			:  Team Member.
+
+Team Size		:  14.	
+
+Environment  	      :  Core Java , JSF 1.2 , Rich Faces 3.3 , Oracle
+10g, JBOSS 4.2, Apache Tomcat 6.0
+
+Description:
+
+PREMIA Group Pension module is having capacity to map the Pension
+/Annuity/ Superannuation functionalities. 
+
+The Personal Pension Plan (PPP) is a cash accumulation product whose
+proceeds are used to purchase retirement pensions. 
+
+Personal Pension Plan is also called as money purchase scheme and
+operates as a private individual Defined Contribution Plan designed to
+build up a pension fund for retirement.
+
+     
+
+Responsibilities:
+
+Development and migration of Setup and processing sub-modules from D2K
+to JAVA.
+
+Unit Testing of Module.
+
+Standardization of module.
+
+Fixing of bugs reported by Testing Team.
+
+Project #6                                                              
+                (September 2008 to December 2008)                
+
+Title			:  PREMIA Enterprise Life (Life Insurance)-China Support
+
+Client			:  ELEGON Ltd (Chengdu, China)
+
+Role			:  Team Member (Support to Direct customer calls from china)
+
+Team Size		:  26.	
+
+Environment  	      :  Core Java , JSF 1.2 , Rich Faces 3.3 , Oracle
+10g, JBOSS 4.2, Apache Tomcat 6.0
+
+Description:
+
+PREMIA Enterprise Individual Life is end-to-end integrated application
+software for processing individual life policies. This powerful and
+dynamic tool can be rapidly adapted to any business requirements.
+
+Some of the key features of PREMIA Enterprise Life include:
+
+ Ability to pro actively analyze risks with the right kind of business
+rules
+
+ An innovative product configuration with user friendly Tariff Set Up
+
+ Developed on the latest J2EE platform using JSF 1.2 framework and
+Oracle as  database
+
+ Can be deployed in an Intranet/Internet environment
+
+ Covers all operations of an insurance company such as setting up of
+Masters,
+
+  Underwrite policies, Register claims, generate reports and so on. 
+
+Responsibilities:
+
+Support to Customer Direct Calls from china.
+
+Standardization and implementation of new requirements.      
+
+Project #7                                                              
+                              (Nov’ 2007 to Aug 2008)
+
+Title			:  PREMIA 11-Billing Module (General Insurance)
+
+Client			:  All Geographies.
+
+Role			:  Team Member 
+
+Team Size		:  15	
+
+Environment  	      :  Core Java, Swing, Oracle 10g, JBOSS.
+
+Description:  The Billing module is a standalone module that uses the
+service oriented approach to plug into any insurance legacy system. It
+is aimed at meeting the requirement for a separate billing module to
+service centralized or outsourced billing scenarios.                
+
+Key Features:               
+
+Configure the Business Rules Engine to suit any type of business
+scenarios. Application is purely metadata driven, enabling business
+users to easily configure rules and actions.  
+
+Define and configure actions like sending e-mail, sending SMS, execute
+Java API, execute stored procedure, run a report etc.
+
+Define various types of bills such as Direct, Agent, List, and Combined.
+The Bill Type is definable based on various segments.
+
+Responsibilities:
+
+Worked on various UI’s development. 
+
+Worked on HELP INTEGRATION for the whole module.
+
+Implemented  new requirement in existing sub module 
+
+Bug fixing of UI related issues and functionality of some sub modules. 
+
+KT on whole module to Documentation Team.
+
+Testing of billing module.
+
+EDUCATIONAL QUALIFICATIONS
+
+B.TECH (Mechanical Engineering) from P.R.R.M Engineering college (JNTU
+Hyderabad affiliation) in 2006.
+
+PERSONAL INFORMATION
+
+NAME                                                                    
+: Rajesh Kundala.
+
+AGE & D.O.B.                                                        : 32
+years, 30.07.1982.
+
+SEX                                                                     
+   : Male.
+
+MARITAL STATUS                                               : Single
+
+NATIONALITY                                                      :
+Indian.
+
+PERMANENT ADDRESS                               : Plot no.-49, ICRISAT
+Colony road, HLP Meadows, Ameenpur 						           village, Patancheru
+mandal, Hyderabad 502032
+
+I hereby declare that the above mentioned particulars are true to best
+of my knowledge and belief.                                             
+                                                                        
+                                                                        
+                                                                        
+     
+
+                                                                        
+                  
+
+                                                                        
+                                                         (RAJESH
+KUNDALA)
+

@@ -1,0 +1,311 @@
+Spring:6 year& current
+
+Hibernate:6year
+
+Web services:REST(2 year)
+
+Team size: 14
+
+DB:ms sql server
+
+Build tool: mavan
+
+Appl server: tomcat
+
+Design pateer: yes
+
+10.6/14/60days
+
+
+
+
+
+Sandeep Kumar						
+
+E-mail: sandeepkumar.bs6@gmail.com
+
+Mobile:+91 9949420047  				
+
+                                                                    		       
+
+
+
+Professional Summary:     
+
+Having 9 years of experience in Software Development with JAVA & J2EE technologies.
+
+Developed robust applications using Java, J2EE,Spring,Hibernate, JPA,Struts
+
+JBOSS Seam Framework, Spring Boot, JSF, Prime faces and Rich faces.         
+
+Extensive experience working in an Agile development environment.
+
+Sound knowledge of understanding object oriented design and programming. 
+
+Implementation knowledge in Designing
+
+Domain expertise in Finance, Pharma and Logistics.
+
+Onsite experience at client’s place Boston Financial Data Services.US.
+
+Ability to get on with all levels of people and possess strong relationship building skills.
+
+					Experience Summary:  
+
+		Working as a Project Lead with DST Worldwide Services (India), Hyderabad, from Sep-2011 to till date.
+
+		Worked as a Sr.Software Engineer with WIPRO Technologies, Hyderabad, from Dec-2009 to Sep-2011.
+
+		Worked as a Software Engineer with Logica (Currently known as CGI) Chennai, from Dec 2008 to Nov 2009.
+
+		Worked as a Software Engineer with Laya IT Services Pvt. Ltd.Bangalore, from May 2006 to Dec 2008.
+
+			Academic Profile:			
+
+Master of Computer Applications (M.C.A) from Acharya Nagarjuna University.
+
+Technical Skills: 
+
+							Languages		: Java 1.6
+
+							Web Technologies		: Servlets 2.3, JSP 2.0, Free-marker, Rich Faces,PrimeFaces,  
+
+							  JQuery, HTML Java Script, XML and JDBC.
+
+							Frameworks		: Spring 3.1,Spring Boot 1.2.3, JSF 1.2,Struts 1.1,
+
+							   JBOSS Seam 2.1, EJB 3.0
+
+							ORM tools		: Hibernate 4.1,JPA 2.0,
+
+							Servers		: JBoss 4.2,Tomcat 6.0
+
+							IDE		: Spring Tool Suite3.6,Net Beans 6.9,Eclipse 3.3
+
+							Tools		: Enterprise Architect,SVN, Maven, Toad, Log4j,TestNG,
+
+							  PL/SQL developer, JUnit, Jira, CloudBees.
+
+					
+
+					Projects Accomplished:
+
+	
+
+	Project # 1     	             	   : Settlement Administration and Event Center (SAEC)	
+
+		Role 	: Project Lead
+
+		Organization	: DST
+
+		Client	: Boston Financial Data Services (BFDS).USA.
+
+		Duration	: Sep 2011 – Till Date
+
+		      Technology                          	 : J2SE 1.6,Spring 3.1,Hibernate 4.1,JPA,JSF 1.2,Primefaces 3.3,Spring roo,REST Services,Maven,Tomcat 7.0,
+
+			   Log back and Log4jdbc, GitHub, Liquibase
+
+	
+
+	Project Description:
+
+	                              SAEC system is used to support the management of class action settlements in US. The system mainly deals with claim processing more efficiently and settles millions of dollars which happen in millions of transactions. This is a flexible component service model that can be customized to accommodate any settlement need. This system mainly deals with administration and data management, claims processing, distribution and tax reporting.
+
+		      It manages much functionality like Account search, new account creation, Account Maintenance, Claim processing, Check processing representing the settlement amount to all its claimants. Claimants address validation happened through infoage which is a third party vendor where data transmission happened through xml files and batch processing.
+
+		     All the settlements happened through the checks of the concerned claimants and the banks like state street and deutsche banks are involved in this process, thousands of records transfer happened through file exchange between banks and Boston Financial Data Services. There are many kinds of batch jobs which has both inbound and outbound processing in the form of text, xml, excel formats
+
+	
+
+	Role & Responsibilities:
+
+	
+
+	Involved in development and leading the team.
+
+	Followed the TDD (Test Driven Development) and agile methodology.
+
+	Internal and External Stakeholder Management.
+
+	Implemented very robust integration testing strategy to process millions of records.
+
+	Can understand and document project requirements and dependencies.
+
+	Manage technical process and resolve technical issues.
+
+	Collaborate with team and implemented new tools in the project.
+
+	Project release management through cloudbees.
+
+	Code reviews.
+
+	Project # 2     	                          : GSK CRMSD (Customer Relationship Management   
+
+					     Solutions Delivery)
+
+		Role 	: Developer  
+
+		Organization	: Wipro
+
+		Client	: GlaxoSmithKline (USA)
+
+		Duration	: Dec 2009 – Sep 2011
+
+		      Technology                          	 : J2SE 1.6, Spring MVC 2.0.6, Hibernate 3, Oracle 10g, Net beans 6.9.1, Tomcat 6.0, Log4J, PL/SQL Developer.
+
+	
+
+	Project Description:
+
+GSK is a global healthcare and pharmaceutical provider, as part of this Customer Relationship Management Solutions Delivery it has care management central (CMC) and healthcoach4me applications which will help health care providers, clinicians and professionals.
+
+CMC: Non-branded disease management content promoting adherence has become a strategic priority in GSK.  GSK has an opportunity to work with customers in the management and implementation of these through CMC.
+
+	
+
+	Educate clinicians and professionals about the hospital quality measures  
+
+	Help improve the healthcare delivery processes
+
+	Support organizations who strive to meet the components of the hospital quality measures
+
+	HealthCoach4Me is an easy-to-use interactive Web application designed for people who want to take charge of their health, but need a little help along the way.  There are two main components of the application the Health Library and My Coaching Plan. With health library we can customize our health goals, track our results using interactive assessments, quizzes, diaries, checklists and actions plans, and view our progress on your personalized dashboard. With Coaching Plan we can select the areas where we want to see the improvement such as asthma, COPD, and we can receive coaching messages and tips to help you stay on track. In this application we can choose how often we want to receive reminders, via email or text, from our virtual health coach.
+
+	
+
+	Role & Responsibilities:
+
+	
+
+	Involved in backend development part of the applications.
+
+	Coding business logic using spring controller’s viz. Core Controllers, View controllers, Multiaction controllers, Wizard controllers, Form controllers and Command controllers.
+
+	Adding services in service layer of framework for data processing.
+
+	Vaccine locater tool for diseases through Google maps (Key functionality to lookup for availability of GSK’s vaccines for diseases within specified radius of distance in particular area zip-code with Google Map for getting directions to the vaccine locations).
+
+	Use of J-Query for client side validation of data fields, J-Query’s AJAX methods for partial page submission and controlling and tracking events on the webpage.
+
+	Build preparation and release to GSK with Change Requests and ticket fixes.
+
+	Involved in writing unit test cases and Code review.
+
+	Checking Coding Standards with Check Style.
+
+					
+
+	
+
+	Project # 3     	                          : TNT UMBRELLA
+
+		Role 	: Developer  
+
+		Organization	: Logica
+
+		Client	: TNT (UK)
+
+		Duration	: Dec 2008 – Nov 2009
+
+		Designing Tools	: EA
+
+		      Technology                          	 : J2SE 1.5, JBoss Seam 2.1, JSF 1.2, Hibernate 3, EJB 3, Oracle 10g , Eclipse 3.3, JBOSS 4.2, Test NG, Log4J.
+
+	
+
+	Project Description:
+
+Umbrella  is an application designed to support the business processes of TNT.These processes encompass the sales, planning, preparation and execution of the distribution of doordrop media (unaddressed mail) to households in the UK or, in some cases, outside of the UK. The DDM processes start with a request for the distribution of doordrops, which can be entered into the system as a quotation. 
+
+If the quotation is accepted by the client, a contract is created with one or more briefs, and the exact regions and sectors where the doordrops are to be distributed need to be entered into the system (the schedule). The contract is confirmed by the client; then, based on the information in the contract and briefs, the system generates instructions for the logistics process, to ensure that the doordrops are transported from the location where they are printed in the correct quantities to the distributors. The system also generates instructions for the distributors to actually distribute the doordrops. 
+
+In addition, Umbrella  has a financial component which computes the amounts to be billed to the customers for the requested distributions based on pricing tables and rules, as well as the amounts to be paid to the distributors for the distribution work based on rate tables and rules. Umbrella  is a web-based application where various users can log in, each authorized to work with specific system functions on specific tasks.
+
+	
+
+	Role & Responsibilities:
+
+	
+
+	Involved in developing Order, Operations and Report modules
+
+	Involved in Designing LLD for Order and Operation Modules.
+
+	Involved in developing UI with Rich Faces and JSF.
+
+	Involved in writing TestNG test cases and Code review.
+
+	Involved in R&D work on complex issues in Seam.
+
+	Involved in setup Environment for project.
+
+	Involved in Studying the Domain Model, Supplementary Specification, Application Story 
+
+     	 Board and Software Architecture Documents, updating the query log.
+
+	Checking Coding Standards with Check Style.
+
+	
+
+	Project # 4    	                          : e-Pariksha	
+
+		Role 	: Developer  
+
+		Organization	: Laya IT Pvt.Ltd.
+
+		Duration	: Oct 2007 – Dec 2008
+
+		      Technology	: J2SE 1.5, JSP 2, JSTL 1.1, Spring MVC 2, Hibernate 3, 
+
+			   Mysql 5.0, Tomcat 5.5. SVN 1.4, Junit, Eclipse 3.3.  	 
+
+Description:   
+
+It is an Advanced & Powerful Web-Based Application for conducting online exams and Generating Question Papers. e-Pariksha is an online assessment platform that allows students the opportunity to strengthen their academic foundation by identifying their strengths & weaknesses. It also helps the organization or an Individual from the loss of expertise and also saving ample of time in doing the same work manually repeated.
+
+This Product is classified into 2 Categories: OLE gives added flexibility in terms of conducting or taking the exam with lesser limitations to place and time, and gives both the Admin and Candidate immediate Results for faster Evaluation or Selection Process in comparison to Traditional testing.GQP is used to generate Question paper from a Massive Database of Questions pertaining to various Subjects ranging from School to University level. Each question is assigned an attribute or property which can be called for at the time of Generation of Question Paper. The user may group the questions in Sections, Groups, Difficult Levels, Topics, etc.The Question paper is generated on the basis of Random Selection.
+
+
+
+Roles & Responsibilities: 
+
+Involved in server side development for the application.             
+
+Implemented presentation layer using JSP.
+
+Developed DAO layer classes using Hibernate.
+
+Involved in writing database queries using HQL.
+
+Involved in writing validations.
+
+
+
+Project # 5     	                          : Accounting Genius	                                 
+
+		Client	: Globiz Company Private Ltd.Maldives.  
+
+		Role 	: Developer  
+
+		Organization	: Laya IT Pvt.Ltd
+
+		Duration	: May 2006 – Sep 2007
+
+		      Technology                        	 : J2SE 1.4, JSP 2.0, Servlets 2.3, JDBC, Mysql5, Tomcat 5
+
+
+
+Description:   
+
+Accounting Genius is an application used for Invoicing, billing to fulfill the needs of the small businesses. Track customer payments and outstanding invoices. Preview, print or email invoices as a Word attachment, able to add a logo to our documents. Powerful search and find options to find our past invoices. The intuitive interface lets you complete web pages to build invoices, calling on databases of customers and products that are similarly easy to update and maintain. Preview and print powerful reports and charts instantly like invoice listings, sales by customer, outstanding invoice list, customer statements and more. 
+
+Roles & Responsibilities: 
+
+Involved in development of business logic for whole project.
+
+Involved in implementing presentation logic using JSP.
+
+Understanding client requirements.     
+
+Involved in writing database queries.

@@ -1,0 +1,465 @@
+Springs: 1.5 years & current
+
+Hibernate: 1.5 year & more
+
+Web services: 2 years & current
+
+Build toold: maven / ant
+
+DB: oracle
+
+
+
+
+
+Pavan Kumar Chaitanya L
+
+10-2-289/109, Shanti Nagar, Masabtank, Hyderabad, Andhra Pradesh, India - 500028.
+
+Mobile: +91-9700318901, Email: pavan.kumar.chaitanya@gmail.com
+
+GitHub: https://github.com/pavankumarchaitanya
+
+
+
+
+
+Work Experience: June 2007 – Present (85 Months)
+
+Currently working at Wave Crest Holdings Limited, Hyderabad, India, as Senior Software Engineer.
+
+Worked at Pegasystems Inc., Hyderabad, India, as Senior Software Engineer on PRPC (6.2).
+
+Worked at Kony Labs, Hyderabad, India, as Senior Software Engineer on Kony Platform.
+
+Worked at Dell, Hyderabad, India, as Core Java/J2EE Developer.
+
+Education:
+
+
+
+B.E (Computer Science) from Chaitanya Bharathi Institute of Technology, affiliated to Osmania University, Hyderabad, India.
+
+
+
+Brief Description about Wave Crest Holdings Limited: 
+
+
+
+Wave Crest Group Limited is an enterprise platform technology company that provides next generation payment solutions and services to large global corporations across the world.
+
+Projects:
+
+BACK OFFICE
+
+Description
+
+Major Responsibilities
+
+Skills
+
+DECISION ENGINE
+
+Decision engine is the core component of the decision and rule engine. Delivers dynamic enrichment of data and integrates with multiple 3rd party systems to arrive at decisions. It’s used across the services stack for its capabilities.
+
+Design and develop components that integrate into the decision engine. 
+
+Develop new rules for the evolving platform and upcoming programs.
+
+Mentor engineers
+
+Ensure good design and coding standards are maintained through code reviews and design discussions.
+
+Core Java
+
+AngularJS
+
+Spring
+
+Spring-Boot/Data/ REST
+
+Spring MVC/Web services
+
+Hibernate/JPA
+
+Gradle/Maven
+
+SCRUM
+
+Spock testing Framework.
+
+MySQL/Flyway DB
+
+Vagrant VM
+
+
+
+Brief Description about Pegasystems Inc.:
+
+
+
+Pegasystems's Build for Change(R) technology is used by many organizations in financial services, insurance, healthcare, communications & media, public sector, and life sciences.
+
+Projects:
+
+Project Management Framework Integration (June 2012 - Current)
+
+
+
+PMF
+
+Integration
+
+Description
+
+Major Responsibilities
+
+Skills
+
+PMF - PRPC Integration
+
+PMF-Integration team develops features to allow tight integration between the PMF and PRPC. 
+
+Implement connectors and provide APIs for services to access/update DCO items in PRPC.
+
+Designed Class structures and Data model for implementing PMF integration features.
+
+Implementing independent and reusable components - Export to Excel feature for Grids.
+
+Debugged Extensively in PRPC using TRACER, Clipboard, and Rules Inspector.
+
+Develop Landing pages for the upcoming product release.
+
+PRPC
+
+PQD
+
+Clipboard-Tracer debugging
+
+SoapUI
+
+PRPC  Connectors and Services
+
+Agents
+
+PMF
+
+Eclipse SQL Explorer
+
+Scrum Methodology
+
+
+
+
+
+Brief Description about Kony Labs:
+
+
+
+Customer centric enterprises that need mobile presence and commerce turn to Kony mobile applications platform with Write Once, Run Everywhere technology. Delivering on the vision of one mobile platform, many mobile applications, on all types of mobile devices and channels, the Kony Mobile Application Platform uses a single-code base to develop mobile applications that run faster, better and with lower total cost of ownership.
+
+Projects:
+
+Vertical Applications - Banking at Kony Labs (December 2011- May 2012)
+
+
+
+VA Banking
+
+Description
+
+Major Responsibilities
+
+Skills
+
+Regions Bank
+
+Vertical Apps Banking is an easily configurable Mobile project for the banking domain. The Regions bank project involves making the project easily pluggable to the regions bank services.
+
+Developed device level pagination for Mobile and Tablet Platforms.
+
+Owned ATM Locator, Sign-in, Accounts for Tablets during the initial development phases.
+
+Combined the Lua-JSON connector with Mockey to bring down the development time dramatically.
+
+UI level design and development using widgets of kony platform.
+
+Kony Platform
+
+Lua
+
+JSON
+
+Mockey
+
+Core Java
+
+Ant
+
+
+
+
+
+
+
+JPMC(JP Morgan Chase for BlackBerry) at Kony Labs (August 2011-Dec 2011)
+
+
+
+JPMC Project
+
+Description
+
+Major Responsibilities
+
+Skills
+
+Alerts Module
+
+Alerts module deals with managing alert subscriptions for a JP Morgan Chase user.
+
+
+
+Building Alerts Module from scratch.
+
+Analyzing the BRD and building the JPMC App for Blackberry.
+
+Creating test harnesses for webservices using JSONs in Mockey.
+
+UI level design and development using widgets of kony platform.
+
+
+
+Kony Platform
+
+Lua
+
+JSON
+
+Mockey
+
+JDE 4,5,6
+
+Core Java
+
+Ant
+
+
+
+
+
+
+
+Brief Description about Dell, Inc(NASDAQ: Dell):
+
+
+
+Dell is an American multinational information technology corporation based in Round Rock, Texas, United States, which develops, sells and supports computers and related products and services. Bearing the name of its founder, Michael Dell, the company is one of the largest technological corporations in the world, employing more than 103,300 people worldwide. Dell is listed at number 41 in the Fortune 500 list.
+
+
+
+Project: GFX (Global Fulfillment Exchange) at Dell (Sept 2008-March 2011)
+
+
+
+GFX is a Software & Peripherals fulfillment application which executes Dell’s 3rd party orders (worth 16 Billion $). GFX takes care of orders right from routing to vendors, until the vendor ships the order to customer. It has 3 modules Purchase, Vendor Processing, Recon.
+
+GFX Project
+
+Description
+
+Major Responsibilities
+
+Skills
+
+Fulfilment Module
+
+
+
+Business users can see status of a order and can perform actions manually like shipping order, cancelling order
+
+Making Tactical Enhancements for Business users.
+
+Working on request driven MVC web framework.
+
+Developed Technical Design Documents and Code
+
+JSF Framework
+
+JSP
+
+Message Driven Beans
+
+IBM WebSphere MQs
+
+Weblogic Server 8/10
+
+Java BackBeans
+
+Vendor Processing Module
+
+Vendors can log in from the Internet, access their orders and process those orders.
+
+Component-driven UI design development
+
+Web service for a downstream application
+
+Unit testing with JUnit
+
+
+
+Apache log4j
+
+SOAP
+
+JAX-RPC
+
+JAXB
+
+JAXP
+
+XML/XSD
+
+JUnit
+
+Recon Module
+
+The Finance team can view the invoice details and also can check if there is discrepancy in the invoice amount.
+
+SQL Queries with DDL and DML.
+
+Designing/Writing Scheduled Jobs.
+
+Java jobs to parse logs
+
+4.Message Queue Management
+
+Oracle 9i, 10g, 11g
+
+SQL
+
+Java services on LINUX(Fedora, Suse, Gentoo)
+
+ANT 
+
+HermesJMS
+
+Backend Application
+
+Automates the Processing of XML processing for high volume orders to vendors.
+
+Developing MDBs for Processing  High Volume Orders(~100,000 per day)
+
+Migrating Jobs to Linux Platform.
+
+3.Build and Deployment Scripts using ANT
+
+4. Performance monitoring and tuning.
+
+TPTP, JRMC
+
+MDBs
+
+Java Mail
+
+JNDI
+
+Weblogic Administration
+
+CIFS/EXT2/NTFS integration
+
+
+
+Project: Clarity Product (June 2007 - September 2008)	
+
+
+
+Clarity is IT Management and Governance software developed by Computer Associates. Clarity was used as the Project and Portfolio Management (PPM) tool for DELL-IT. All PPM related activities such as assigning Resources to Project, Project Finance, IT-Resource’s Hierarchy Management and Portfolio’s hierarchy management are managed in Clarity. 
+
+
+
+Clarity Project
+
+Description
+
+Major Responsibilities
+
+Skills
+
+Department OBS module
+
+Dell underwent a restructuring of organization. The entire Organization’s Structure had to be changed. Department OBS job rebuilds the structure in Clarity.
+
+	Designed and coded the Department OBS job.
+
+	Involved designing a recursive algorithm to build the files which were fed using XOG.
+
+	Working with testing team for test plans.
+
+Java
+
+Webservices
+
+XOG
+
+JAXB
+
+Clarity
+
+Scheduled Oracle Jobs. 
+
+Sql queries using DDL and DML.
+
+
+
+
+
+Achievements: 
+
+Tweaked GFX’s caching mechanism to save ~70minutes/Developer/Day in a team of 11.
+
+POC for CIFS on Linux.
+
+POC for Application Migration on to Weblogic on Linux.
+
+Modified the ANT scripts to bring down the developer time drastically in GFX.
+
+Customized tools like HermesJMS and Javinder to GFX specific needs.
+
+Improved development time dramatically in VA project by combining Lua-Json encoder and Mockey.
+
+
+
+Additional Information: 
+
+Proficient in Data structures, Algorithms and software design.
+
+Keeps interest in industry trends, technology platforms and Open Source software.
+
+I like playing around with Linux Distros and Android OS.
+
+Organized several events at Dell.
+
+Fluent in English, Hindi and Telugu.
+
+Spends free time Gaming and Reading Philosophical works.
+
+Likes Mathematics and participating in online Coding events (topcoder.com).
+
+ProjectEuler.net handle: pavan.kumar.chaitanya
+
+Github.com handle: pavankumarchaitanya
+
+
+
+
+
+
+
+
+
+
+
+5
+
+5

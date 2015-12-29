@@ -1,0 +1,268 @@
+Software Developer
+
+G Satish Kumar			(   HYPERLINK "mailto:g.satish1218@gmail.com" 
+g.satish1218@gmail.com    			 ( 09949484578
+
+3 years of Software development experience in Php,Mysql, Javascript and
+Jquery.
+
+Objective
+
+To pursue and obtain a challenging position in an organization that
+provides me an opportunity to grow and to contribute to the overall
+success of the organization. 
+
+Professional Synopsis
+
+3+ years of software development with skills in Php, MySql
+
+2+ Years of development experience in Twitter Bootstrap,  Java Script,
+HTML.
+
+Qualified software engineer with sophisticated programming skills,
+sincere and hardworking with a passion for resolving complex problems
+and business challenges through technical innovation.
+
+Positive thinking, problem identification, research, analysis, and
+resolution.
+
+Has experience in analyzing project requirements, development & flow of
+modules and prototype preparation.
+
+Flexible and quick in learning new technologies and tools.
+
+Worked and has experience in Real Estate, Retail, Mobile and E-Commerce
+domains.
+
+Technical Skills
+
+Databases					:  MySQL, Oracle 11g.
+
+Programming Languages	:  PHP, Html, JavaScript, AngularJs.
+
+Professional Experience
+
+Current Employer
+
+Organization				:	Sanchan Info Solutions, Visakhapatnam 						
+
+Time Period				: 	Oct  2013 till date.
+
+Total Experience			:	2  Years
+
+ROLE						:	Software Developer
+
+Previous Employer
+
+Organization				:	3G Info brain Technologies, Kakinada 						
+
+Time Period				: 	June  2012 to sep 2013.
+
+Total Experience			:	1 year
+
+ROLE						:	Software Developer
+
+Responsibilities
+
+Provide Web Services in JSON.
+
+To maintain the databases as per process.
+
+Analyze the mock-up design and plan the schema of the Database for the
+project.
+
+Create Super User Admin access using AngularJS, Twitter Bootstrap,
+Javascipt
+
+To participate in review meetings to monitor progress of the project as
+per schedule, and ensure timely completion and delivery of the project
+to the client.
+
+To collaborate with the team members and senior management to maintain a
+continuous stream of information regarding the project status and
+progress.
+
+To document all major activities for effective reference and use.
+
+To ensure successful status report tracking from resources and updating
+the management with the latest status.
+
+Tools Used
+
+SQL Developer
+
+LAMPP, XAMPP
+
+SQL YOG
+
+PHPMYADMIN
+
+Projects Handled
+
+Project #1
+
+Project Name
+
+Client
+
+Role
+
+	
+
+Car Sales 
+
+Car Sales, Eyal , USA
+
+Programmer .
+
+Project Description	The application is  used for generating QR images
+for cars inventory. users can easily know the details of car by scanning
+the QR code.
+
+
+
+	Responsibilities
+
+	Created Admin panel for Cars Inventory.
+
+Designed and developed both mobile and windows applications using Php
+and Mysql.
+
+Generated QR codes to car details.
+
+Generated excel files for user to easily upload cars inventory.
+
+
+
+Project #2
+
+Project Name
+
+Client
+
+Role
+
+	
+
+Auctre 
+
+Auctre, Scott Towens, USA
+
+Programmer.
+
+Project Description	It is user driven real estate auction platform.
+People can create a custom listing of their property and make it
+available to multitude of buyers/investors that would otherwise be out
+of reach.
+
+
+
+	Responsibilities
+
+	developed the backend calls by  using  Php and Mysql. 
+
+Developed user interface by using jquery.
+
+Developed admin panel for managing users and properties
+
+Testing and validation of the application for proper functioning after
+any minor or major changes.
+
+
+
+Project # 3
+
+Project Name
+
+Client
+
+Role
+
+	Apex 
+
+Scott Towens , USA
+
+Programmer.
+
+
+
+Project Description	It is a Real Estate Investment ERP application used
+internally by the real estate agency. This application deals with the
+whole lifecycle of real estate property transactions. It contains huge
+number of properties coming from various websites.
+
+
+
+	Responsibilities
+
+	Interaction with the client, gathering requirements.
+
+Designed and developed the application using C#, Php and Mysql.
+
+Developed reports by using php runner.
+
+Developed admin panel to administrator for giving permission to access
+reports.
+
+
+
+Project #4
+
+Project Name
+
+Client
+
+Role
+
+	
+
+Eticketbay
+
+3ginfobrain Technologies 
+
+Developer/Database Architect, MySQL, Programmer.
+
+
+
+Project Description	It is online movie ticket booking application. By
+using this user can book movie tickets very easily. It also contains one
+admin panel for marinating latest movie info, theaters info.
+
+
+
+	Responsibilities	Designed, Implemented and maintained Database Schema,
+Entity relationship diagrams, Data modeling, Tables and complex SQL
+statements including DML and DDL commands, Triggers, Views.
+
+Developed the application front end and admin panel by using  Php and
+Mysql.
+
+Integrated sms gateway and payment gateway.
+
+
+
+
+
+Academic Credentials
+
+Bachelor of Technology, specializing in Information Technology with
+66.90% from Dadi Institute of Engineering and Technology (JNTU-K), 2011.
+
+Intermediate (M.P.C) with 84.3% from Sri Chaitanya, 2007.
+
+10th (S.S.C) with 76% from SVP School, 2005.
+
+Personal Dossier
+
+Date of birth					:	21th February 1990
+
+Marital status					:	Single
+
+Languages known				:	English and Telugu.		
+
+Date:
+
+Place:
+
+																				(G.Satish Kumar)
+

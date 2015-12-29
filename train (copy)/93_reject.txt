@@ -1,0 +1,474 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                 -  3 years &
+current                                �
+�              
+
+Spring                  
+                                 -  3 years
+&
+current                                �
+�             
+
+Web
+Services                                
+       - 
+NA                                   
+           
+
+Core
+Java                                  
+            -  7 years                
+
+Design
+Patterns                                
+   -  3 Years            
+
+UML
+design                                 
+         -   no
+
+Build Tools (Maven/Ant)             
+     -   Maven/Ant
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Jboss/eclipse
+
+DB:oracle
+
+7.65/12/60days
+
+Worked on reflection
+
+RESUME
+
+YADAGIRI.TALARI                                              		
+eswargiri@gmail.com
+
+Experience: Around 7yrs                                                 
+    	Mobile: 9985056389	     
+
+Technologies :java/j2ee/spring/hibernate/jsf.
+
+Objective
+
+To utilize my skills and abilities in a progressive organization that
+offers professional growth, while being resourceful, innovative and
+flexible.
+
+Profile Summary
+
+Total Arount 7 years of professional experience in design, development
+and implementation of various application projects based on Java
+technologies.
+
+Experience in Utilities domain.
+
+Areas of interest and exposure are Web based software development and
+OOAD.
+
+Have good experience in all phases of Software development life cycle;
+starting from analysis, design, coding to maintenance.
+
+Expertise in developing distributed applications using state-of-the-art
+J2EE core technologies.
+
+Worked extensively on JAVA, J2EE, SPRING, JSF, SQL and HTML.
+
+Worked for good Utility based clients like Andhra Pradesh Electricity
+Production Company Limited & Kanpur Electricity Supply Company Limited.
+
+Strong communication and analytical skills and a demonstrated ability to
+handle multiple tasks as well as the ability to work independently or in
+a team.
+
+Technical Skills
+
+Build tools	Maven, Ant.
+
+XML Technologies	 XML,AJAX, Jquery,HTML ,CSS.
+
+Java Technologies	 JDBC,JAVA,J2EE
+
+Databases	 Oracle10g
+
+Application Servers	 JBoss, Tomcat.
+
+Framework	 JSF,SPRING,HIBERNATE
+
+CI Integration tools	Jenkins.
+
+Reporting Tools	 Apache POI, Jasper reports, Coldfussion.
+
+Source Control	 SVN.
+
+
+
+Educational Qualifications
+
+- Master Of Computer Application(M.C.A) with 73% from Andhra University,
+April  2007.
+
+- Bachelor Of Science (Bsc) with 66% from  Andhra University, April
+2004.
+
+Professional Experience
+
+Working as Senior Software Engineer in Prokarma Softech PVT LTD,
+Hyderabad From Aug 2010.
+
+Worked as Programmer Analyst in Phoenix IT Solutions, Vizag From Feb
+2008 to Aug2010.
+
+Projects Profile – Current Company
+
+ Project #I: CWS (Change Wire System)  					Mar 2012 -Till now
+
+It is a workflow process used by the service design group to process
+requests to change the medium to long term Train Schedules. It is
+primarily used by operations managers in the field wishing to improve
+traffic through a terminal or area.
+
+It is a system is used by the marketing department, to communicate new
+business opportunities from the marketing department to the network
+planning and operations as part of the QSP101 process.CSP contains the
+required information (field) about the new business like which
+commodity, what is the source and destination of the goods has to be
+transferred, revenue opportunity of the business. This information may
+vary depends on the commodity. Once the csp design is submitted it is
+reviewed by the network guys. Once the design is applied the csp is sent
+out the field and operation departments for the feedback and their
+signoffs.
+
+Team Size: 4.
+
+Client       : Union Pacific Rail Road  corporation.
+
+Environment:
+
+Java,J2ee,Spring,Hibernate,Jsf,Oracle,ColdFusion,Jquery,Ajax,Apache POI.
+
+Roles & Responsibilities:
+
+Individually taken ownership of assigned tasks and updating the status
+to client 
+
+through (calls,Mails,Conference ) .
+
+Involved in designing the UI interfaces & back end services and Mokito
+test cases 
+
+ for service layers .
+
+Participated in Migration from Ant  top Maven .
+
+Worked in fixing the bugs, enchantments, New requirements and migration
+from Javascript to query.
+
+Created the reports using the ColdFusion, POI.
+
+Project #II: SRT(Scheduled Run Time)	     			Oct 2010-Feb 2012
+
+Transportation Planners and Service Schedulers in Network Planning &
+Operations use SRT for interactive UI display & spreadsheet export with
+Current vs proposed train schedule comparison at the crew district or
+station level of detail. Input is simply a Train Symbol.  To apply
+run-time augmentation analysis, identified train symbol is given for
+understanding various committed lock down locations and times.
+
+Team Size: 4.
+
+Client       : Union Pacific Rail Road  corporation.
+
+Environment:
+
+Java,J2ee,Spring,Hibernate,Jsf,Oracle,ColdFusion,Jquery,Ajax,Apache POI.
+
+Roles & Responsibilities:
+
+Individually taken ownership of assigned tasks and updating the status
+to client 
+
+through (calls,Mails,Conference ) .
+
+Involved in designing the UI interfaces & back end services and Mokito
+test cases 
+
+ for service layers .
+
+Participated in Migration from Ant  top Maven .
+
+Worked in fixing the bugs, enchantments, New requirements and migration
+from Javascript to query.
+
+Created the reports using the ColdFusion, POI.
+
+Projects Profile – Past Company.
+
+Project I: MDMS (Meter Data Management System)	                	
+
+An MDM system performs long term data storage and management for the
+vast quantities of data that are now being delivered by smart metering
+systems. This data consists primarily of usage data and events that are
+imported from the head end servers that manage the data collection in
+Advanced Metering Infrastructure (AMI) or Automated Meter Reading (AMR)
+systems.
+
+An MDM system will typically import the data, then validate, edit,
+estimate, cleanse and process it before making it available for billing
+and analysis. The more flexible the MDM application, the better it is
+able to integrate to existing enterprise applications and help to
+streamline utility business processes. Benefits can be seen in billing,
+customer service, outage management and analysis of utility operations.
+
+Team size :7
+
+Client 	       :APEPDCL
+
+Environment:
+
+JAVA, J2EE, SPRING, XML, Oracle, XSL, XSQL, DWR, JavaScript, HTML
+
+Roles & Responsibilities:
+
+Primarily involved in designing, developing modules. 
+
+Data access from Oracle 10g is accomplished using SQL
+
+Created Reports using XSQL framework and openflash charts.
+
+Involved in bug fixing and enhancing application performance.
+
+Visual SourceSafe 6.0 is used as source code manager.
+
+Project #II: MATS(Monitoring And Tracking System)-APEPDCL	       
+Feb’09 –Dec’09
+
+Monitoring And Tracking System is a web-based application. MATS is an
+Application designed to monitor & track the progress of cases related to
+all types of irregularities booked by the Operation wings and the DPE
+wings of the Distribution companies. It captures the complete
+information relating to any case of irregularity booked, from the time
+of filing of the inspection report, through  assessment  of the energy
+consumed , till the recovery of dues from the consumer. 
+
+MATS enables the entire process of tracking the cases thereby reducing
+the amount of paper work. It provides automation of assessment
+calculations & thus reduces the possibility of errors due to manual
+calculations. This in turn leads to reduction in time taken for
+processing  these cases in the field and also provides an effective
+monitoring tool to the the Senior Management at the Distribution
+companies, for tracking & disposal of cases.
+
+Team size :7
+
+Client 	       :APEPDCL
+
+Environment:
+
+JAVA, J2EE, SPRING, XML, Oracle, XSL, XSQL, DWR, JavaScript, HTML
+
+Responsibilities:
+
+Primarily involved in designing, developing modules to manage the
+Subdivision office functionality. 
+
+Data access from Oracle 10g is accomplished using SQL
+
+Created Reports using XSQL framework
+
+Developed and executed test plans for all major and minor enhancements
+
+Continuously supported the application by handling maintenance
+
+Involved in bug fixing and enhancing application performance.
+
+Visual SourceSafe 6.0 is used as source code manager.
+
+Project # III:EPIMRS-APEPDCL						       Sep’08-Feb’09
+
+EPIMRS (Eastern Power Information Management and Reporting System) is a
+web-based application that provides Section Office Automation in a big
+way. It helps in tracking down the section level activities by the main
+management and helps in better performance of the organization. Each
+hierarchy in the organization is enable to view the lower management
+work in terms of reports and can track down the current progress of a
+work. 
+
+Team size :5
+
+Client 	       :APEPDCL
+
+Environment:
+
+Java, JSP, Servlets, XML, Oracle, XSL, XSQL, AJAX, JavaScript, HTML
+
+Responsibilities:
+
+Primarily involved in designing, developing modules to manage the
+section office functionality. 
+
+Data access from Oracle 10g is accomplished using SQL
+
+Worked with AJAX user controls which run on client browser.
+
+Created Reports using XSQL framework
+
+Developed and executed test plans for all major and minor enhancements
+
+Continuously supported the application by handling maintenance
+
+Involved in bug fixing and enhancing application performance.
+
+Visual SourceSafe 6.0 is used as source code manager.
+
+Project # IV: BMS(Billing Management System) – APEPDCL 	Feb’08–
+Aug’08
+
+The Billing Management System (BMS) application provides a technology
+platform for accurate billing, improved customer service, streamlined
+customer acquisition and enhances customer value. Main functionalities
+of BMS are to maintain customer record and premise, handle credit /
+collection activities, calculate and process bills, initiate and track
+service orders, interface with the customers and contact centers,
+integrate with Revenue / Financial systems and to enable compliance with
+regulatory guidelines. 
+
+Team size :5
+
+Client 	       :APEPDCL
+
+Environment:
+
+Java, JSP, Servlets, XML, Oracle, XSL, XSQL, AJAX, JavaScript, HTML
+
+Project # V: KESCO Reports(Kanpur Electricity Supply Company Limited
+)-KESCO	                                  
+
+The KESCO module has reports generated according to the request made by
+the client. The company made up a new tool for allowing good
+representation of the data. 
+
+Team size :3
+
+Client 	       :APEPDCL
+
+Environment:
+
+XSL, XSQL, XSL-FO, JBoss, VSS
+
+Roles & Responsibilities
+
+Involved in formatting the reports using XSL-FO 
+
+Provided administrative support through Quality reports
+
+Personal Details:
+
+Father’s Name	              		 :       Sri T.Suryanarayana
+
+Date of Birth				 :       1st October 1983.
+
+Permanent Address			 :       D/N: 8-22-21,
+
+C
+
+D
+
+Z
+
+a
+
+q
+
+R
+
+T
+
+V
+
+X
+
+)
+
+*
+
+4
+
+5
+
+D
+
+Y
+
+Z
+
+a
+
+,úV
+
+X
+
+n
+
+摧㲄C᠀X
+
+Z
+
+n
+
+Ö0qÿ¬
+
+Ö0qÿ¬
+
+Ö0qÿ¬
+
+	 
+
+@
+
+&
+
+F
+
+@
+
+„@
+
+„Àô]„0ý^„@
+
+Ö0qÿ¬
+
+␃༃ꂄᄅ悄建ꂄ怅悄懺̤摧FЀt摧F
+
+̤̀☊଀͆ሀ桤ā愀̤摧澒
+
+퀀适ȤȆ萏ː␪帀킄愂̤摧㍅
+
+␃༃ꂄᄅ悄建ꂄ怅悄懺̤摧㬒²
+
+␃愃̤摧䃼â
+
+␃༃ꂄᄅ悄建ꂄ怅悄懺̤摧篖ê
+
+h
+
+␃༃ꂄᄅ悄建ꂄ怅悄懺̤摧夘ê
+
+␃༃ꂄᄅ悄建ꂄ怅悄懺̤摧ᣀ`
+
+                                                   Kotni Street,
+
+						Anakapalli,
+
+                                                 Visakhapatnam - 530007,
+Andhra Pradesh.
+
+Languages Known        		 :       English,Telugu.    
+
+  
+

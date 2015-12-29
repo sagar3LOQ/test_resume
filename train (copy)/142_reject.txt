@@ -1,0 +1,259 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                  -  1.2
+year                                  
+             
+
+Spring                  
+                                  - 
+1.2years                                
+                
+
+Web
+Services                                
+        - 
+1years                                 
+               
+
+Core
+Java                                  
+             -  3years
+
+Design
+Patterns                                
+    -    2year
+
+UML
+design                                 
+          -    
+
+Build Tools (Maven/Ant)                    -    No
+tools
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Weblogic server/Tomcat
+
+KESAV CHAITANYA.P
+
+Mobile:  (91) 9291567999,9014731463
+
+Email    :   HYPERLINK "mailto:keshav.pheelkhana@gmail.com"
+keshav.pheelkhana@gmail.com 
+
+Professional Summary:
+
+Mr. Kesav  is a Analyst  having 3+ years of experience in IT Industry in
+developing JAVA, J2EE and Enterprise applications.
+
+Expertise in developing Web based and distributed applications using
+Java and well versed with Database Connectivity using JDBC API.
+
+Proficient in programming using JAVA, J2EE Technologies (Java, JDBC,
+Servlet, JSP).
+
+Good Experience in ORM tool like Hibernate.
+
+Working Experience on Java Springs.
+
+Strong analytical and problem-solving skills with good interpersonal and
+communication skills.
+
+Expertise in end-to-end development of software products from
+requirement analysis to coding, testing and maintenance.
+
+Undergone training in network infrastructure configuration and
+maintenance as a part of workshop.
+
+Sound Knowledge on IT Infrastructure Configuration. 
+
+Strong learning and problem solving skills, excellent communication
+skills both written and verbal.
+
+Educational Qualifications:
+
+Course	Board/ University	Institution	Pass out	Grade
+
+B.E- Computer Science	JNTU-K	Priyadarshini Institute of Technology	April
+2011	II Class
+
+XII Std	State Board	Narayana Junior College	Apr 2007	I Class
+
+X Std	SSC	The Sun School	Apr 2005	I Class
+
+
+
+Experience Summary: 
+
+Worked as Software Analyst in CMC LTD,Hyderabad from August 2012 to Oct
+2014
+
+Worked as Developer in GCPL Technologies,New Delhi from Jun 2011-July
+2012
+
+Got performance appraisal in 2014 for the performance in the project at
+CMC
+
+Hands on web application development.
+
+Capable of maintaining co-ordination between team members and constitute
+healthy environment 
+
+Having history of productivity and successful project outcomes.
+
+Having Working experience in Client environment.
+
+Technical Skills:
+
+Operating System	Windows,Linux(Ubuntu 12.04)
+
+Programming Language	Core Java, Advanced Java - Servlet, JSP.
+
+Framework	Collection, Hibernate,Springs
+
+RDBMS	MySQL
+
+Tools	Eclipse,Tomcat
+
+
+
+Project Details:
+
+#1. 	Title: Service manager(SM) Tool
+
+Client	Reliance Retail Limited
+
+Role	Analyst
+
+Company	CMC Ltd.,
+
+
+
+Description
+
+	As the user enters the SM tool by supplying required credentials and
+login as authenticated user he is 
+
+provided with a handful of options and upon selection of his required
+option raises  a sub menu which indeed co-relate to parent option and
+describe the situation provided with a contact, upon submission the
+service request thrown to a help-desk which encompasses a group for
+solving the problem remotely and if  not allowed they coordinate with
+support engineers for resolution based on their availability, priority &
+criticality of the issue, end time is generated as per SLA and the
+Engineer is provided with an account to view assigned call and can close
+the call or escalate the call to a higher level if complexity increases
+and whole process viewable through  user window and intimated at the end
+through an auto generated mail. 
+
+Responsibilities:
+
+Development of code for the controller and connectivity
+
+Deployment and rectification of web portals
+
+Stabilize new products from R&D into production
+
+#2. 	Title: Xpress Enterprise Services
+
+Role	Analyst
+
+Client	FIS
+
+Company	GCPL Technologies
+
+
+
+Description: 
+
+	Xpress is a Middle ware product, built in Java under the J2EE
+framework, which will integrate all the products of Fidelity and
+facilitate an ASP model of service provision. It will enable Customer
+Centric unified architecture, provide all the tech no-functional
+requirements of an EAI framework, and have a Service Oriented
+Architecture that will facilitate Business Process Management, services
+layer resides on top of the core applications and allows the systems to
+interact using industry-standard Interactive Financial exchange (IFX)
+messages. The IFX message facilitates interaction in all directions –
+between services, through the interfacing channel applications, and with
+external applications.
+
+Technical Responsibilities:
+
+Writing Service Group, Service and host adapter classes.
+
+Preparing input and output XML files by running the services
+
+Analysis of the specifications provided by the clients.
+
+Presentation Layer Development using JavaScript.
+
+Developed business logic using Core Java.
+
+Solving any technical issues faced by reports team.
+
+Maintenance of the application in Production.
+
+#3. 	Title: Savanna Residency
+
+Role	Developer,Analyst
+
+Client	TAJ
+
+Company	GCPL Technologies, New Delhi
+
+
+
+Description:
+
+	On line Booking Portal for Residency integrates accommodation
+availability directly to the customers enabling ultimate users to own
+their choice of living in a distance of single click by using jsp as the
+controller for modeling the view of the user convenience and MySql as
+the back-end technology to model and thereby  constitute to reduces man
+power and saving precious time by enabling user to view the process. It
+ensures booking is done by acknowledge users on their successful payment
+of caution deposit for their choice and informing them through their
+mentioned mail address and provide a menu to order required services
+after their successful check-in.
+
+Responsibilities:
+
+Analyzing the specifications provided by the clients.
+
+Presentation Layer Development using Servlets, HTML
+
+Developed business logic using Core Java
+
+Support and maintenance of the application during production phase.
+
+Personal Details:
+
+	Date of Birth		:           25-Jun-1990
+
+	Father’s Name    	:	P. Ranga rao
+
+	Permanent Address	:  	D. No:12-19-98,Old bank road, 
+
+					Kothapeta, Guntur-01
+
+             
+
+	Phone			:	91-9291567999,9014731463
+
+	
+
+	E-Mail			:           keshav.pheelkhana@gmail.com
+
+            
+
+Kesav Chaitanya .P										20-10-2014
+
+												Hyderabad                                         
+
+ Kesav Chaitanya pheelkhana                                             
+   	         keshav.pheelkhana@gmail.com 	
+

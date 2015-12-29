@@ -1,0 +1,336 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                        -1
+year                                  
+               
+
+Spring                             -  4years&
+current                                �
+�               
+
+Web Services                 -  3years& current
+
+Core Java                       -  5.5years
+
+Design Patterns               -yes    
+
+UML
+design                                 
+        
+
+Build Tools (Maven/Ant)        Maven   /Ant
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Jetti/weblogic/jboss/eclipse
+
+DB:oracle
+
+Panga Sivasankar Reddy
+
+Email: pssr.java@gmail.com
+
+Mobile:+91-9248000656
+
+Experience Summary:
+
+Having 5.5 Years of experience in the development of Client/Server and
+Web Applications.
+
+Extensive experience in developing applications using Java, J2EE
+technologies.
+
+Expertise in J2EE technologies Servlets, JSP ,JDBC, Struts, Hibernate.
+
+Extensive experience in Struts 1.x, Spring 2.x, Hibernate 3.x, 
+technologies and in-depth knowledge of J2EE.
+
+Having awareness in WebServices implementation.
+
+Part of the team implementing JAVA/J2EE Design Patterns in multi tier
+Architecture.
+
+Having good knowledge in design and understanding the project
+architecture in multi tier.
+
+Solid background in Object-Oriented analysis and design.
+
+Having strong analytical and programming skills.
+
+Strong ability to learn, absorb and use new technologies quickly.
+
+Excellent communication, presentation and interpersonal skills.
+
+Professional Experience:	
+
+Working as a software engineer with Prokarma Softech Pvt Ltd.,Hyderabad
+from Aug‘12 to till date.
+
+Working as a software engineer with Four Soft Ltd.,Hyderabad from
+Sept‘10 to July’12.
+
+Worked as software engineer for Elite Tex  IT Solutions Pvt.Ltd,
+Bangalore from May ’09 to Sep’10
+
+Educational Qualification: 
+
+Master Of Computer Applications (M C A) from Kakatiya University,
+Warangal  2008.
+
+ 
+
+Technical Skills: 
+
+Skills	Experience	   Awareness
+
+Operating System	Windows XP, 7
+
+	Languages	Java, C, C++
+
+	Database S/W	Oracle, MySQL
+
+	Web Technologies	Html, XML, Java Script	Angular JS
+
+J2EE Technologies	Servlets, JSP, JDBC,JMS
+
+	ORM Technologies		Hibernate
+
+	Frameworks	Struts1.x, Spring2.x, Wicket
+
+	WebServices	Jax-WS	Restful
+
+Servers	Web Logic, JBoss, Tomcat,Jetty
+
+	UML Modeling Tool	Poseidon
+
+	Tools	Log4j, Ant, AndroMDA, MVN, Tibco
+
+	
+
+Project Thesis 
+
+Project Title	Projects worked 
+
+ITOS.
+
+eLog.                                                      
+
+eCustoms .
+
+Master Application Tracking System. 
+
+
+
+Assignments
+
+        The details of the various assignments that I have handled are
+listed here, in chronological order.
+
+           ( Project No 1:
+
+Project 	ITOS(Intermodal Terminal Operating System).
+
+Customer	UPRR, USA
+
+Period	Aug  ‘12 to till date
+
+Description	This Project deals operations involved at Yard Level in
+Logistics.
+
+The following are the Modules
+
+Truck Arrive
+
+Parking
+
+Load Planning
+
+Work Order
+
+Truck Depart
+
+Inventory
+
+Reports
+
+Role	Team Member
+
+Responsibilities	( Understanding the functional requirements.
+
+( Used Wicket  for UI Development.
+
+( Involved in integrating 
+
+( Implemented Persistence Components  in Spring JDBC.
+
+( Involved in Defect  management  for the issues raised in production
+environment.
+
+( Handling memory leaks and optimizing the
+
+  Code for better performance of the application.
+
+( Unit Testing and Debugging of Java programs.
+
+Solution Environment	Windows XP
+
+Tools & Server 	Eclipse 3.3,  Jetty, Tibco,TestNG, MVN
+
+Technologies Used	Java/j2ee, Wicket, Spring, Web Services ,JMS, Oracle
+(Backend). 
+
+
+
+           ( Project No 2:
+
+Project 	eLog                                                        
+
+Customer	Vantec
+
+Period	Aprl ‘11 to Dec’11
+
+Description	This is a Product ,which deals operations involved at
+Warehouse Level in Supply Chain Management.
+
+The following are the Modules
+
+Purchase Order
+
+GRN(Receiving)
+
+Putaway(Storing)
+
+Sales Order
+
+PickTicket
+
+Reports
+
+Role	Team Member
+
+Responsibilities	( Understanding the functional requirements.
+
+( Involved in integrating Air, truck operations.
+
+( Implemented Persistence Component in Hibernate.
+
+( Analyzing and Understanding mismatch problems occurs in   OR Mapping.
+
+( Involved in configuration for EJB with Hibernate.
+
+( Drawing Datamodel (UML) as for the CR using Poseidon
+
+( Involved in Defect  management  for the issues raised in production
+environment.
+
+( Handling memory leaks and optimizing the
+
+  Code for better performance of the application.
+
+( Unit Testing and Debugging of Java programs.
+
+Solution Environment	Windows XP
+
+Tools & Servers	Eclipse 3.3,  Poseidon, Web logic 11g, JBoss 5.0
+
+Technologies Used	J2EE, 4S Framework, Spring, Ejb, Hibernate,, XML,
+Andromda, Oracle 10g .
+
+
+
+          
+
+ ( Project No 3:
+
+Project 	eCustoms(ABI)
+
+Customer	Jacobson , USA.
+
+Period	Sep ‘10 to Aprl  ’11 and Dec ’11 to July ‘12
+
+Description	This is a Product, which deals the operations at Customs
+level in Logistics Domain.
+
+The following are the modules
+
+Base Functions
+
+Entry Summary
+
+Delivery Order
+
+Reports
+
+Role		Team Member
+
+Responsibilities	( Understanding the functional requirements.
+
+( Involved in Single Ledger module.
+
+( Involved in Extending Struts Related Actions.
+
+( Responsible for writing Migration scripts.
+
+( Used Struts validation framework for performing validations
+
+( Implemented Persistence Component in Hibernate.
+
+( Implemented SQL queries as per the CR.
+
+( Involved in Defect Management for the issues raised.
+
+( Code optimization using the Coding Standards specific to our company
+standards.
+
+( Performed Unit Testing.
+
+Solution Environment	Windows XP
+
+Tools & Server	Eclipse 3.3, Web logic 11g, JBoss  5.0
+
+Technologies Used	J2EE  Spring,  Hibernate, 4S framework,  Oracle, MySQL
+
+
+
+           ( Project No 4:
+
+Project 	Master Application Tracking System
+
+Customer	Dailmar, USA
+
+Period	Jun  ‘09 to Sep ’10
+
+Description	Master Application Tracking System manages all the
+operations of shipping from one place to another. It involves the
+operations like International Move, Domestic Move, Local Move, Pets
+Move, and Cars/Boats/ Automobiles Move. It maintains and operates all
+the information regarding different moves. It also provides the
+up-to-date status of the transmission of goods. At each and every point
+it generates a report and bill according to the goods.
+
+Role	Team Member
+
+Responsibilities	( Understanding the functional requirements.
+
+( Used struts  for validations.
+
+( Involved in integrating struts with spring
+
+( Implemented Persistence Components  in Hibernate.
+
+( Preparing test cases.
+
+Solution Environment	Windows XP
+
+Tools & Server 	Eclipse , JBoss 4.2
+
+Technologies Used	Java/j2ee, Struts, Hibernate , Oracle (Backend). 
+
+          
+
+           
+
+          
+

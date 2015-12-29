@@ -1,0 +1,648 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                  -  5
+years                                 �
+�           
+
+Spring                  
+                                  - 
+6years                                 
+               
+
+Web
+Services                                
+        -     7
+years                                 �
+�          
+
+Core
+Java                                  
+             -   9.6years
+
+Design
+Patterns                                
+    -    3 year
+
+UML
+design                                 
+          -     
+
+Build Tools (Maven/Ant)                    -   
+Maven 
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Weblogic/tomcat
+
+Ok with start up
+
+Code: 80% coding 20% design
+
+Ramanaiah Udumula                                                       
+                                                    
+
+ramanareddyu@gmail.com                                                  
+                                                        Mobile:
++91-9052058011	
+
+Professional Summary
+
+Having 9+ years of IT experience in various stages of Software
+Development Life Cycle (SDLC) including requirements, analysis, design,
+development, testing and implementation for Banking, ERP and telecom
+industry clients.
+
+3+ years of Team Lead experience with a passion for functional and
+technical details.
+
+Extensive experience with advanced J2EE Frameworks such as EJB 3.0.
+Struts, Hibernate, Spring, and Web services.
+
+Substantial development experience using Enterprise level J2EE
+technologies such as JSP, Servlets, JAXB and JDBC.
+
+Experienced with various design patterns including Singleton, MVC,
+Business Delegate, Value Objects, DAO and Factory. 
+
+Experienced with various build management and dependency management
+tools like ANT, and Maven.
+
+Extensive knowledge in Web Services technologies such as SOAP (using
+JAX-WS, JAXB, WSDL) and REST web services.
+
+Having good knowledge in Java Messaging (JMS) and Multithreading.
+
+Implementation experience with concepts such as Dependency Injection,
+Aspect Oriented Programming, Object to Relational Mapping using
+frameworks like Spring, and Hibernate.
+
+Experienced with various version control systems like Tortoise SVN, and
+CVS.
+
+Experienced in Unit Testing, Debugging, Integration and System Testing
+using, JUNIT.
+
+Experienced in Jmeter, jperf Tools.
+
+Ability to meet deadlines with no compromise on the quality of the work
+product.
+
+3 years of working experience as Technical\Module Leader managing 4-8
+associates.
+
+Awards
+
+Nominated for FIMC (Feather In My Cap) during my stay in Wipro.
+
+Received customer appreciation for the project worked in Wipro.
+
+Nominated for Spot during my stay in Verizon.
+
+Education
+
+Degree	University
+
+B-Tech(Computer Science Engineering)	JNT University, Hyderabad
+
+
+
+Experience
+
+Organization	Designation	Duration
+
+CTS	Sr.Associate 	Nov 2013-Till date
+
+Verizon Data Services India Pvt.Ltd	Consultant	Dec 2008-Oct 2013
+
+Wipro Technologies, Bangalore	Senior Software Engineer	Sept 2007-Nov
+2008
+
+TaskHub Softtech Pvt.Ltd,Bangalore	Software Engineer	Mar 2005-Aug 2007
+
+
+
+Technical Skill Matrix
+
+IDE’s	Eclipse,WSAD,Together,RAD.
+
+Operating Systems	Windows, Unix
+
+Languages	Core Java, XML
+
+Databases	DB2, PostGres-SQL, Oracle.
+
+Frameworks	Spring, Struts, Hibernate.
+
+Web/App Servers	Tomcat,Websphere,JBoss
+
+Web Technologies(J2EE)	JDBC, Servlets, Jsp’s, JavaScript, Web Services
+and Ajax.
+
+Tools & Utilities	CVS,SVN,Toad,SQL Developer,VSS,Rational Clear Case
+
+Domain Knowledge	Banking Domain,
+
+Web Based ERP Systems Domain.
+
+
+
+Projects Profile
+
+1.Project Name	ACMS (Credit Cards)
+
+Role	Sr.Associate
+
+Organization	CTS
+
+Duration	(11/2013) – till date
+
+Team Size	8
+
+Environment	Eclipse,
+
+WAS	Languages: Java, J2EE, XML, Struts, Spring, Hibernate, WebServices,
+Ajax and Oracle.
+
+O/S: Windows, Unix.
+
+
+
+Project Description
+
+ A new database to improve the data integrity and usability of the Terms
+& Conditions SharePoint by re-platforming to a database structure based
+on the ACMS infrastructure that can integrate with the response channels
+(digital and inbound telemarketing).
+
+         Content organized in blocks rather than pages to better manage
+content. Changes to content blocks can dynamically update content across
+database based on selected tags. Enhanced search functionality to
+dynamically display relevant Marketing Copy and Terms & Conditions based
+on search criteria. Automated alerts / reports distributed on scheduled
+or ad-hoc basis.
+
+.
+
+Responsibilities:
+
+As the team is very small, involved in all stages of development such as
+requirement gathering, coding, testing and documentation.
+
+Involved in interacting with stakeholders to understand the requirements
+and documenting
+
+Used Hibernate as persistence framework to map java objects to
+relational database tables using XML configuration files and
+annotations.
+
+Implemented web services using JAX-WS
+
+Involved in the application design review, code review and assisted the
+team in following the recommendations/guidelines. 
+
+Written unit test cases using junit, easymock and power mock.
+
+Involved in production issue support and bug fixing.
+
+Lead the team technically during last phases.
+
+2.Project Name	SNM
+
+Role	Tech Lead
+
+Organization	Verizon Data Services India Pvt.Ltd
+
+Duration	(04/2010) – (10/2013)
+
+Team Size	6
+
+Environment	Eclipse,
+
+Weblogic	Languages: Java, J2EE, XML, Struts, Spring, Hibernate,
+WebServices, Ajax and Oracle.
+
+O/S: Windows, Unix.
+
+
+
+Project Description
+
+	Subnet Manager (SNM) is a key application used by Verizon for
+provisioning new data services and troubleshoots existing installations.
+The application is rated as “Platinum” level for Verizon Business.
+It is used for provisioning, installation, activation, and
+troubleshooting of Frame Relay, ATM, Ethernet, PIP, IDA, IDE, SIG
+Circuits, switch inventory, routing plans, and provisioning rules for
+Verizon Network. SNM is used by Activation, Provisioning, Data Test and
+Activation Centers, Specialized Product Services, Advanced Technical
+Support, Global Data Network Implementation, Capacity Planning and
+Billing Quality Assurance groups.
+
+Responsibilities:
+
+As the team is very small, involved in all stages of development such as
+requirement gathering, coding, testing and documentation.
+
+Involved in interacting with stakeholders to understand the requirements
+and documenting
+
+Involved in Impact Analysis.
+
+Involved in Low Level Design.
+
+Actively involved in development.
+
+Involved in Issue Fixes.
+
+Involved in Function and Unit Testing.
+
+3.Project Name	RACER
+
+Role	Application Developer
+
+Organization	Verizon Data Services India Pvt.Ltd
+
+Duration	(12/2008) – (03/2010)
+
+Team Size	6
+
+Environment	Eclipse,
+
+Weblogic.	Languages: Java, J2EE, XML, Struts, Spring, Hibernate,
+WebServices, Ajax and Oracle.
+
+O/S: Windows, Unix.
+
+
+
+Project Description
+
+	RACER is CPE and managed services costing, pricing and design system
+for EMEA, APAC, LATAM and Canada. In presales stage, System will be used
+by account manager and sales engineer for CPE design and pricing for
+managed services and also system will be used by CNE/Special pricing
+team for non-standard design/pricing request review and approval if
+non-standard design and special pricing requests are made by sales
+engineer and account manage.
+
+	Once an order get sign-off and passed to ordering, service delivery
+team will also use racer to raise purchase request using BOM list
+generated for a given quote in RACER. Racer will also provide data
+administration functions for product development, standard pricing and
+costing team to maintain kit/parts, management price and CPE cost
+components.
+
+Responsibilities:
+
+As the team is very small, involved in all stages of development such as
+requirement gathering, coding, testing and documentation.
+
+Involved in interacting with stakeholders to understand the requirements
+and documenting
+
+Involved in Impact Analysis.
+
+Involved in Low Level Design.
+
+Actively involved in development.
+
+Involved in Issue Fixes.
+
+Involved in Function and Unit Testing.
+
+4.Project Name	Yell Publicidad
+
+Role	Application Developer
+
+Client	Pindar Set Ltd,UK
+
+Organization	Wipro Technologies, India
+
+Duration	(05/2008) – (11/2008)
+
+Team Size	16
+
+Environment	Eclipse,
+
+JBoss.	Languages: Java, J2EE, XML, Struts, Hibernate, Spring,
+JavaScript, WebServices, Ajax and PostGres-SQL.
+
+O/S: Windows, Unix.
+
+	
+
+Project Description
+
+Yell Publicidad (YP) is the leading publisher of print and online
+directories in Spain, with leading positions in Argentina, Chile and
+Peru. After Yell securing a major ownership in YP, the focus is on
+growing the business further. This includes a business decision of
+pushing the construction of graphics to already established Pindar
+Studios offshore (based in India). This decision calls for modification
+of Clipper to adapt to the YP business and a little bit of vice versa as
+well. It included changes in Final Inspector changes in clipper which
+deals with assigning of skills to the Final Inspector so that it can
+inspect the jobs that are done in native langauages of Spain i.e.
+castellano. Apart from the assigning of skills they should be modified
+so as to suite the capabilities of a Final Inspector. Also clipper wide
+publisher specific changes were done to remove the multiple business
+centres associated with the old publisher Yellow Book as compared to
+only one for YP. This also included changes to remove where ever YB was
+used by YP including the flow of jobs in Rejects module.
+
+Responsibilities:
+
+Understanding the user requirements and specifications.
+
+Involved in Impact Analysis.
+
+Involved in Low Level Design.
+
+Actively involved in development.
+
+Involved in Dev Testing.
+
+Involved in Issue Fixes.
+
+Involved in Function and Unit Testing.
+
+5.Project Name	Migration Validation Utility
+
+Role	Application Developer
+
+Client	Pindar Set Ltd,UK
+
+Organization	Wipro Technologies, India
+
+Duration	(11/2007) – (04/2008).
+
+Team Size	4
+
+Environment	Eclipse,
+
+JBoss.	Languages: Java, J2EE, XML, Struts, Hibernate, Spring,
+JavaScript, WebServices, Ajax and PostGres-SQL.
+
+O/S: Windows, Unix.
+
+
+
+Project Description
+
+	The goal of this Data Validation activity is to ensure that data after
+migration is in the proper form that is expected by Clipper and to
+enable the movement of job in clipper without any issues.
+
+The main activities to be performed are
+
+Validation of Migrated data at Work item level
+
+Validation of various graphic files presence (ai, gif, pdf, eps, tiff)
+in the File System.
+
+Display Validation Report in web format.
+
+Provide and option to export the Validation Report in Excel format.
+
+View the detailed information of the Work item.
+
+Provide an option to delete the job details from the Clipper Front
+Office database.
+
+Responsibilities:
+
+Understanding the user requirements and specifications.
+
+Involved in Impact Analysis.
+
+Involved in Low Level Design.
+
+Actively involved in development.
+
+Involved in Dev Testing.
+
+Involved in Issue Fixes.
+
+Involved in Function and Unit Testing.
+
+6.Project Name	Preload Data Utility
+
+Role	Application Developer
+
+Client	Pindar Set Ltd,UK
+
+Organization	Wipro Technologies, India
+
+Duration	(09/2007) – (10/2007).
+
+Team Size	2
+
+Environment	Eclipse,
+
+JBoss.	Languages: Java, J2EE, XML, Struts, Hibernate, JavaScript,
+WebServices, Ajax and PostGres-SQL.
+
+O/S: Windows, Unix.
+
+
+
+Project Description
+
+The Preload Data Utility loads the databases with the basic data
+required for Clipper Application to work before starting the Application
+
+
+Currently the Utility works for the following applications: Front
+Office, Studio and Migration
+
+Purpose of the Utility: Basic data keeps changing as the Business
+requirements Updated Information needs to be placed in the Application.
+This utility is used to Pindar Studios offshore (based in India). This
+decision calls for modification of Clipper be run for Front Office and
+all Studio’s to populate the basic data separately.
+
+Responsibilities:
+
+Understanding the user requirements and specifications.
+
+Involved in Impact Analysis.
+
+Involved in Low Level Design.
+
+Actively involved in development.
+
+Involved in Dev Testing, Function and Unit Testing.
+
+Involved in Issue Fixes.
+
+7.Project Name	TaskHub
+
+Role	Application Developer
+
+Client	Kobian, Lantro, Toshiba and GBM
+
+Organization	TaskHub Softtech Pvt Ltd.
+
+Duration	(11/2005) – (10/2007).
+
+Team Size	12
+
+Environment	WSAD,
+
+Websphere.	Languages: Java, J2EE, XML, Struts, EJB, JavaScript, Ajax and
+Oracle.
+
+O/S: Windows.
+
+
+
+Project Description
+
+TaskHub is an ERP product that is giving the complete flow of any
+businesses from customer request for quotation to collection. It is
+comprised of various modules like Sales, Purchase, Logistics, Accounts
+Payable and Accounts Receivable. TaskHub is fully web based and it
+conforms to J2EE standard.
+
+The Sales Module in TaskHub integrated closely with the customer portal.
+The sales module allows sales personnel to raise Sales Quotation and
+Orders and to see the status for each order coming in. It comprises
+smart features such as auto-allocation of stocks, allows different
+payment modes and auto-archive each changes made in the quotations and
+orders.
+
+TaskHub Purchase Module enables the Purchasing Department from raising
+and approving of Purchase Requisition, maintaining Purchase Contracts
+with vendors and factories, to requesting for quotations from vendors
+and to be able to handle all kinds of purchases. TaskHub Logistics
+Module is targeted to bring about the integration of systems along the
+supply chain continuum. This module integrates with other modules in
+TaskHub, such as the sales module, the purchase module, the project
+costing module and the accounting module.
+
+Responsibilities:
+
+Handling the sales, purchase and Logistics modules.
+
+Involved in Development of User Interfaces by using Jsp.
+
+Involved in deployment of Server Side Components (Servlets, Struts).
+
+Involved in Development and Deployment of EJB with
+StateLessSessionBeans.
+
+Involved in Bug fixing.
+
+Involved in Dev Testing, Function and Unit Testing.
+
+8.Project Name	PROJECT COSTING SYSTEM
+
+Role	Application Developer
+
+Client	Kobian, Lantro, Toshiba and GBM
+
+Organization	TaskHub Softtech Pvt Ltd.
+
+Duration	(06/2005) – (10/2005).
+
+Team Size	4
+
+Environment	WSAD,
+
+Websphere.	Languages: Java, J2EE, XML, Struts, EJB, JavaScript, Ajax and
+Oracle.
+
+O/S: Windows.
+
+
+
+Project Description
+
+Project Costing System is a powerful cost management system that assists
+in handling Quotation, Estimation, Budgeting and Resource planning for
+projects. It is designed to capture and monitor all the cost
+transactions related to a project. This includes billing information to
+perform profit and loss analysis. 
+
+	In order not to under-quote or overbid for your project you need to
+have all the estimated related project cost information on hand. By
+specifying what resources you estimate are required for the project,
+Project Costing System will compute to you the estimated project
+profitability immediately to give you the general view of your profit
+level so as to help you in making adjustment to each project bid amount.
+
+ 	Within each single phase/sub-phase, you can budget the related
+resource usage cost (including labour, outsource service and material).
+Every single cost incurred to the project will be counter-checked
+against the budget amount to ensure that project cost does not overrun.
+Comparison report can be generated to find the variance between your
+actual project cost and estimated project cost.
+
+Responsibilities:
+
+Handling the sales, purchase and Logistics modules.
+
+Involved in Development of User Interfaces by using Jsp.
+
+Involved in deployment of Server Side Components (Servlets, Struts).
+
+Involved in Development and Deployment of EJB with
+StateLessSessionBeans.
+
+Involved in Bug fixing.
+
+Involved in Dev Testing, Function and Unit Testing.
+
+9.Project Name	STOCK ALLOCATION SYSTEM
+
+Role	Application Developer
+
+Client	Kobian, Lantro, Toshiba and GBM
+
+Organization	TaskHub Softtech Pvt Ltd.
+
+Duration	(03/2005) – (05/2005).
+
+Team Size	2
+
+Environment	WSAD,
+
+Websphere.	Languages: Java, J2EE, XML, Struts, EJB, JavaScript, Ajax and
+Oracle.
+
+O/S: Windows.
+
+
+
+Project Description
+
+The Organization is able to consolidate and view all status from the
+Logistics Portal. After which they can plan the movement of the stocks
+and prepare for stock allocation to all deliveries to be done.
+Allocation can be done for on-hand stocks in various warehouse
+locations, and for inbound stocks. This helps the business to estimate
+the availability of stocks and prevents duplicated orders on the same
+stock.
+
+Responsibilities:
+
+Handling the sales, purchase and Logistics modules.
+
+Involved in Development of User Interfaces by using Jsp.
+
+Involved in deployment of Server Side Components (Servlets, Struts).
+
+Involved in Development and Deployment of EJB with
+StateLessSessionBeans.
+
+Involved in Bug fixing.
+
+Involved in Dev Testing, Function and Unit Testing.
+
+  
+
+  PAGE  9 
+

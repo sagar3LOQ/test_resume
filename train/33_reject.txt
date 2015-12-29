@@ -1,0 +1,293 @@
+Springs:2 year & current
+
+Hibernate:3 year & current
+
+Web services:REST( not much worked)
+
+Java: 4 year
+
+Build tools:Ant/maven
+
+DB:oracle/sql
+
+8/12/45days
+
+Kiran Kumar Gudapati				                                                
+                                  
+
+gkkumar.java@gmail.com	                                                 
+                                                                        
+                   Mobile: +91-7032888293
+
+Summary:
+
+Over 5 years of experience in Analysis, Design, Development, Testing,
+Implementation and Maintenance of Application Software using Java/J2EE
+technology stacks. 
+
+Technical Acquaintance:
+
+Expertise in J2EE programming technologies: JSP, Servlets, Java Beans,
+MVC, Struts, Spring and Hibernate frameworks. 
+
+Working in R&D team for new initiatives and POC’s
+
+Extensive experience in design, development and deployment of web
+components using – Java Servlets, JSP, J2EE, JDBC, SQL.
+
+Experience in developing applications in Adobe Flex 3.0 and Action
+Script.
+
+Experience in Java design patterns such as MVC, Singleton, Data Access
+Objects (DAO), and Business Delegate.
+
+Experience in writing DAO using Hibernate and Hibernate mapping files.
+
+Excellent communication at all levels of management. 
+
+Ability to work in groups as well as independently with minimum
+supervision and initiative to learn new technologies and tools. 
+
+Professional Experience:
+
+Working as a Senior Software Engineer with Kewill Transport India Ltd 
+
+(Formerly Four Soft Ltd), Hyderabad from March 2012 to till date.
+
+Worked as a Software Engineer with Bodhtree Consulting Ltd, Hyderabad
+from March 2010 to March 2012.
+
+Educational Qualifications:
+
+B-Tech in Information Technology, Anna University, Chennai. 
+
+Technical Skills:
+
+Java/J2ee Technologies: Servlets, JSP, Struts, Spring, Vaadin,
+Hibernate.
+
+Web Technologies: HTML, Adobe Flex 3.0, DOM, CSS, Java Script, Action
+Script.
+
+Programming Languages: Java, SQL.
+
+Database: Oracle and MySQL.
+
+Web & Application Servers: Tomcat and JBoss.
+
+Operating Systems: DOS, Windows XP/2000.
+
+IDE’s and Tools: Eclipse, Log4J, JProfiler, Clover, Artifactory, and
+Poseidon.
+
+Build Tools: ANT, Maven.
+
+Reporting Tools: Crystal Clear, Jasper Reports.
+
+Source Control: CVS, GitHub.
+
+R&D Activities:
+
+#1: Maven Migration with Artifactory
+
+Migration of legacy products from Ant to Maven builds by integrating and
+managing artifactory as a maven repository manager.
+
+ Role:
+
+Analyzed Kewill Warehousing (KW) project and done POC for maven
+migration from ant build.
+
+Involved in the discussions and planed roadmap for migration activities.
+
+Provided training on usage and setting up maven environment, to work
+with artifactory.
+
+Provided support for issues faced by product teams in migration
+activity.
+
+Provided demo to the product managers and stake holders using POC.
+
+Done documentation on migration approach and usage.
+
+Tools & Technologies: Maven, Eclipse IDE, Artifactory.
+
+#2: Performance Tuning.
+
+Tuning of Kewill products with a goal to improve the performance and
+bring down the response time of all the requests below 1 second.
+
+Role:
+
+Analyzing the code of the products under development, performing
+optimizations by implementing best practices in all the layers of
+product architecture 
+
+Suggesting changes, writing efficient code where it consumes more time.
+
+Tools & Technologies: JProfiler, Eclipse IDE, IBM page Detailer.
+
+#3: MIS Dashboard using Jasper reports
+
+ It is a POC developed for reporting dashboard solution for Top
+Management, presenting integrated consolidated information of inbound
+and outbound of the organization like billing data and inventory.
+
+Role:
+
+Developed application using Spring MVC.
+
+Designed jsp’s for rendering exported reports in the UI.
+
+Used Jasper API for fetching and rendering data to JRXML’s.
+
+Designed basic report templates with drill down feature using IReport.
+
+Tools & Technologies: IReport, Spring3.0, Apache Tomcat.
+
+Projects Handled:
+
+Project		: Kewill Warehouse Management (KW) 3.0 & 4.0
+
+Client		: Product                                                       
+                    
+
+Technologies	: Spring, Hibernate, 4SFrameWork, Poseidon for UML,
+Andromda, Crystal Clear     
+
+                             Reports, Oracle, Eclipse, Win CVS.
+
+  		 	 
+
+Description	:
+
+		Kewill Warehousing (KW) Management System from Kewill Ltd, Covering
+the Logistics environment from Supplier to consumer. Extending beyond
+the usual limits of a WMS, KW offers visibility to clients, their
+customers and their suppliers, as well as across warehouses and clients.
+Designed for the 3PL environment, it allows multiple warehouses and
+multiple clients to be managed from within a single environment.		
+
+Contribution:
+
+Ownership for modules like GRN, Inventory Adjustment and Replenishment.
+
+Solely involved in design and development of cross docking operation.
+
+Involved in writing common services and business logic implementations
+required in the application.
+
+Done code reviews and performance tuning.
+
+Worked on Bug fixing and enhancements on change requests.
+
+Given support for deployments in UAT and production environments.
+
+Project		: Vendor Intelligence System
+
+Client		: Dr Reddy’s Laboratories                                     
+                                      
+
+Technologies	: JDK 1.5, Spring3.0, Oracle 10g, Hibernate and Apache
+Tomcat 6.0.10.
+
+  		 	 
+
+Description	:
+
+		VIS is the Supplier Registration system integration with Dr Reddy’s
+corporate website with a separate backend for the admin and buyers.
+Captures supplier data and saves in database, based on the information
+buyer can login and search for registered supplier and write comments.
+Buyers can set alerts to be received when a supplier under a specific
+service category is registered. 
+
+Contribution:
+
+Involved in project database design.
+
+Involved In writing Controller classes and DAO Classes.
+
+Developed GUI using JSP’s and HTML used DWR, DHTML grid components.
+
+Used Log4J for generating the logs.
+
+Project		: Perfect and Portfolio Management.
+
+Client		: Dr Reddy’s Laboratories                                     
+                                      
+
+Technologies	: JDK 1.5, Spring3.0, Flex, Fusion Charts Oracle 10g and
+Apache Tomcat 6.0.10.
+
+                                                                        
+                                       
+
+Description	:
+
+			Perfect and Portfolio management consists of two modules in which
+perfect is used to manage and group the employees department wise which
+enables the reporting managers  to drill-down and drill-up over their
+reports profiles. 
+
+Portfolio management enables the client to track their product
+development and sales. The system provides end user to maintain complete
+information of a product at different product development stages over a
+span of financial years with is estimates and projected revenues for
+various business units.
+
+		
+
+Contribution:
+
+Involved In writing Controller classes.
+
+Involved in project database design.
+
+Implemented Ajax using DWR.
+
+Developed file upload/download component with role based access.
+
+Project		: MIDAS (Multi Industry Data Anomaly Solution).
+
+Client		: Bodhtree Consulting LTD.                                      
+                                     
+
+Technologies	: JDK, J2EE, My Eclipse, Adobe Flex, Action Script, Tomcat,
+Oracle and Windows
+
+                                                                        
+                                   
+
+Description	:
+
+                          MIDAS is open standard based J2EE application
+which adheres to best industry practices in form of vertical specific
+pre-canned data Hygiene steps, data connectors and reports. MIDAS has
+Inbuilt data connectors for industry leading OLTP / ERP / DSS systems.
+Midas provides scheduling of data cleansing activity and generates
+alerts on dashboards. Midas data source component enables to create data
+sources for SAP, Sales force, QuickBooks, CVS and Excel files, Siebel on
+Demand through its organized connector frame work
+
+		
+
+Contribution:
+
+Involved in developing UI in Flex and integrated with BladzeDS.
+
+Involved in writing controller classes and DAO classes.
+
+Done coding according to the J2EE specs to develop the server-side
+application.
+
+Done client side validations using action script.
+
+Designed and Developed the dynamic flex components using action script
+
+										          Kiran Kumar G
+
+		            
+
+		Page   PAGE  1  of   NUMPAGES  5 
+

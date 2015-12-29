@@ -1,0 +1,253 @@
+SRAVAN KUMAR      		                                       E-Mail: sravone2021@gmail.com
+
+Sr.Software Associate				             Mobile: +91-9551291236
+
+						
+
+	Professional Summery                              	
+
+
+
+		3+ years of experience in IT Industry in all aspects of Design and Development on Java, J2EE ,Struts based applications. 
+
+		Completely involved in Development of the applications using Java, PL/SQL, Servlets, JSP, JDBC, Hibernate, Apache Tomcat, Weblogic, Struts and Spring Frame works.
+
+		Successfully configured design screens using HTML .
+
+		Experience on development of applications using Struts, Spring and Hibernate technology.
+
+		Expertly developed scalable solutions to enhance efficiency, productivity and profitability with a demonstrated ability to map project scope and specifications.
+
+		Having very good implementation knowledge of OOPs concepts.
+
+		Good Exposure to Unix environment and Shell scripting. 
+
+		Hands on experience in Oracle SQL/PLSQL with SQL Developer environment in writing creating tables,indexes, views and querying database to fetch the data using Joins and other conditions
+
+	Professional Experience	
+
+	
+
+	
+
+	Working as Sr.Software Associate in L&T Infotech  from 02 Apr 2012 to till date, Chennai
+
+	Worked as Software Associate in Polaris, from Jul 2011 to 31 Mar 2012, Hyderabad.  
+
+	Professional certifications	
+
+
+
+	Certified in NSE Capital Markets
+
+
+
+	Certified in IT Service Management version 3.
+
+	Educational Qualification                         	
+
+
+
+MCA  from Osmania University.
+
+	Technical Skills                            	
+
+		Languages	:	JSE,JEE
+
+		J2EE Technologies	:	Servlets 2.1, JSP 2.2, JDBC
+
+		Secondary Languages	:	SQL,PL/SQL,Unix Shell scripting, Java script, HTML.
+
+		Frame works	:	Struts 1.3, Struts 2.0,Spring 3.0
+
+		ORM Technologies	:	Hibernate 3.0
+
+		Data Base	:	Oracle 10g
+
+		Servers	:	Apache Tomcat 5.5/6.0, Weblogic 11g.
+
+		Operating Systems	:	Windows (XP, 2000,2007),Unix
+
+		Automated Utilities	:	Maven,Log4j,Junit.
+
+		   Tools	:	Eclipse,MyEclips 6.0.
+
+		Project 1
+
+		
+
+		Project Name
+
+		Citi-GFTS
+
+		Team Size
+
+		9
+
+		Start Date
+
+		July 2012
+
+		End Date
+
+		Till Date
+
+		Description
+
+		GFTS is a database driven RTView framework for End to End Application Monitoring at Citi, it provide services by monitoring all citi applications, STE (BO,BPM,AI,NDM) and infrastructure and send email alerts if it identifies any critical issue.so that application support teams will heads up to resolve the issue.
+
+		
+
+		Role & Contribution
+
+		Worked on developing the web interface using Java/J2EE, spring MVC and Oracle.
+
+		Writing shell scripts for automation
+
+		Written code for implementing DAO layer using Spring JDBC Template
+
+		Developed user interface using JSP and JSTL tab library.
+
+		Written test cases
+
+		
+
+		Technologies
+
+		Java/JEE, Struts2, JSP, RTView, Oracle 10g
+
+		Tools
+
+		Eclipse IDE, SVN, RTView, winscp, SQL Developer
+
+		
+
+		
+
+Project 2
+
+
+
+Project Name
+
+Citibank-OREAS
+
+Team Size
+
+12
+
+Start Date
+
+July 2011
+
+End Date
+
+Mar 2012
+
+Description
+
+OREAS is built on an existing platform used in Europe (CPB EMEA P&L System), which has been in use since 2002.  GWM Independent Operational Risk identified this existing proven technology platform as an efficient and cost effective way to ensure the proper identification of operational risk events.  OREAS will automate the existing manual workflow and approval process.  In addition, the system provides for the accurate approval, timely resolution, and reporting of operational risk events.
+
+
+
+Role & Contribution
+
+Writing JSP code, use of  struts tag library and JSTL tag library.
+
+Developing controller classes using spring framework.
+
+Developing the domain classes and DTO’s.
+
+Involved development of DAO’s and Service layers.
+
+Writing queries using HQL and Criteria API.
+
+
+
+Technologies
+
+JSP, Spring3.0, Hibernate 3.0, Java 6, Java beans, ,  Oracle 10g, Windows XP OS, Apache Tomcat Webserver 6.0
+
+Tools
+
+Eclipse IDE, SVN
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Personal Details                  	
+
+			
+
+	
+
+	Location	:	Mumbai
+
+		
+
+Declaration
+
+	
+
+I hereby declare that the above written particulars are true to the best of my knowledge and belief.
+
+
+
+
+
+							         (Sravan Kumar)

@@ -1,0 +1,396 @@
+NAVEEN.B                                                          
+E-mail: naveen.bandi21@gmail.com 
+
+                                                                        
+      Mobile: +91-9963811162
+
+PROFESSIONAL SUMMARY
+
+.
+
+Having 5 years of experience in IT industry in Software Analysis,
+Design, Development, Deployment and Maintenance of Web and J2EE
+applications
+
+Experience in developing and deploying applications using Web Sphere,
+Tomcat, Web Logic and JBoss.
+
+Expert in Web Development using Java/J2EE technologies like JSP,
+Servlets, JDBC.
+
+Expertise in all stages of Software Development Life Cycle (SDLC)
+including Requirements, Analysis, Design, implementation, integration,
+testing, deployment and post development maintenance.
+
+Experience using Front End Technologies such as HTML, JavaScript and CSS
+for developing UI for the applications.
+
+Experience in developing applications using three tier architectural
+frameworks such as MVC (Model View Controller), STRUTS, SPRING framework
+and Hibernate.
+
+Experience in developing inter-operable Web Services and its related
+technologies like SOAP, WSDL, UDDI, and XML related technologies/tools
+such as JAXB with good understanding of JAX-WS, JAX-RS, JAX-RPC, AXIS
+and CXF.
+
+ Experience in using various configuration management tools like SVN,
+CVS, ACCUREV and MAVEN.
+
+Experience in using design patterns such as MVC, Singleton, Business
+Delegate, Data Transfer Object (DTO), and Data Access Object (DAO) in
+the development of n-Tier distributed Enterprise Applications.
+
+Proficient in J2EE technologies like spring, Hibernate, Ibatis,
+Servlets, Jsp, Jdbc.
+
+Proficient in various IDEs including My Eclipse, STS, RAD.
+
+Excellent problem solving skills with a strong technical background and
+good interpersonal skills
+
+Excellent Logical & Analytical Abilities, Quick Learner and ready to
+take challenges in a fast-paced environment
+
+Working Experience on spring, Struts, Hibernate and Web services.
+
+PROFESSIONAL WORK EXPERIENCE
+
+Working as an Analyst in Verizon (VDSI India), Hyderabad, from JULY-2013
+to till date.
+
+Worked as a Senior Software Engineer in HCL Technologies, Chennai, from
+MAY-2010 to JULY-2013.
+
+ACHIEVMENTS
+
+Won Livewire Award For CATI Project.
+
+Won On The Spot Award For VISP Project.
+
+EDUCATIONAL QUALIFICATIONS
+
+M.C.A From OSMANIYA UNIVERSITY with aggregate of 73%.
+
+B.SC (M.P.C) From KAKATHYA UNIVERSITY with aggregate of 77%.
+
+INTER (+12) From Excellent Junior College with aggregate of 76%.
+
+10 TH from S V VIDYANIKETHAN with aggregate of 74%.
+
+Core Competencies
+
+Core/Business Technology	Java, J2ee, Web services, SQL/PLSQL, Hibernate,
+Ibatis, Spring
+
+Methodology	Agile, SDLC
+
+Framework/Web 
+
+Technology	 Hibernate STRUTS 1.x, JSP, Servlets, Java Design Patterns,
+log4j, Japser Report  ,JSON
+
+RDBMS	Oracle 10g & 11g
+
+Application/Web Server	IBM Web Sphere Server, Oracle Web logic 11
+g,Tomcat,Jboss
+
+Operating Systems	Window 98/NT/XP, MS DOS,UNIX
+
+IDE & Tools	IBM RSA/RAD/Eclipse, Net Beans,Edit Plus, SVN, AccuRev
+
+
+
+PROJECT SUMMURY	
+
+Project #1:
+
+Title                                 :     VISP 
+
+Client                               :     Verizon
+
+Duration                           :    May’14-TillDate
+
+Team                                 :   5
+
+Role                                  :    Analyst
+
+Environment                     :	 Jdk1.6, X Layer Frame work, RAD, 
+
+                                              Web Sphere, Web Services,
+Activity BPM, spring
+
+Description:
+
+	VISP Project is meant for allowing toll free data to the user.
+Streaming of videos based on the campaign created by the vendor, user
+can view the videos related to that campaign, with zero cost of their
+data. the video data cost is charged against the vendor not the user
+data pack.
+
+Responsibilities:
+
+Involved in creating the workflow for vendor on boarding. 
+
+Involved In developing the code to interact with external system.
+
+ Responsible for developing Get Enterprise changes to retrieve the on
+boarded vendor information.
+
+Project #2:
+
+Title                                 :     USAGE RATING RECONCILATION 
+
+Client                               :     Verizon
+
+Duration                           :    Jan-2014-May2014
+
+Team                                 :   1
+
+Role                                  :    Analyst
+
+Environment                     :	 Jdk1.6, X Layer Frame work, RAD, 
+
+                                              Web
+Sphere,WebServices,Unix.
+
+Description:
+
+            Usage rating re conciliation is for developing the usage of
+tdr files .calculated the flow of data when it is rated by vision ,data
+flow travel between different systems, error records and total usage
+calculation.
+
+Responsibilities:
+
+Involved in creating the reports  for usage of the data.
+
+Involved In developing the reports like
+ScmInbound,ScmOutBound,ScmErrorSummarized,ScmErrorDetails,ScmDropped and
+ScmKept reports.
+
+ Responsible for developing dao and unix script to test the reports.
+
+Project #3:
+
+Title                                 :     EMS (Error Management
+system)
+
+Client                               :     Verizon
+
+Duration                           :    Aug’13-Jan-2014
+
+Team                                 :   10
+
+Role                                  :    Analyst
+
+Environment                    :     Jdk1.6, X Layer Frame work, RAD,
+Web Sphere.
+
+Description:
+
+                             EMS system is used by Revenue assurance
+group (NRDA) to manage / process the errored records generated by the
+Verizon wireless data and data content services. ERR records are those
+that do not pass the rating checks in SCMDATA billing system and hence,
+are not billed resulting in lost revenue for Verizon wireless. So the
+primary objective of EMS is to recover these ERR records, process it for
+correction and recycle it back to mediation layer. Once corrected, these
+records are eventually available under COSTED or UNCOSTED database.
+
+Responsibilities:
+
+Involved in analysis of Record Search use case. 
+
+Involved In design of Edit and Save, Search Use Cases.
+
+ Responsible for developing Populater Code Save ,Edit and Search Use
+Cases
+
+Project #4:
+
+Title                                 :     FGB (First Gulf Bank
+Business)
+
+Client                               :      First Gulf Bank
+
+Duration                           :      Feb ’12-July2013
+
+Team                                 :     80
+
+Role                                  :     J2EE Developer
+
+Environment                    :     Jdk1.6, Jboss, spring 3.1,
+Hibernate 3.6, Eclipse,          
+
+                                               Oracle, WebService.
+
+Description:
+
+                          FGB intends to offer corporate banking
+platform and services to its local and international customers. The
+objective of this project is to develop and implement a scalable and
+agile Transaction Banking Platform to local and multi-national corporate
+customers and assist them in exploiting their resources and key
+strengths by providing host of value added and customized features like
+straight through processing of transactions, effective management of
+funds, full integration of their existing platforms or accounting
+packages.
+
+The primary goal is to implement a standardized Corporate Banking with
+standardized software to provide access to their customer and employees
+by aligning to its business and strategy. Furthermore, the proposed
+solution will also promote business enablement, business IT alignment,
+and standardization; create reusable assets, and share common methods
+for software development and Implementation. Consequently, the proposed
+Solution will make IT cheaper and more strategic as well as more
+responsive.    
+
+Account Services
+
+User Admin
+
+Forex
+
+Payments
+
+Responsibilities:
+
+Involved in analysis of account services use case. 
+
+Involved In design of Core Framework through Spring Aop.
+
+Involved in handling of transaction in useradmin module.
+
+ Responsible for developing Dao code for account services
+
+ Involved in development batch application through spring batch
+
+ Involved in development web services through cxf.
+
+Project #5:
+
+Title                                 :     CADM (Client Administration
+Management System)
+
+Client                               :      Standard Chartered Bank
+
+Duration                           :      Aug ’11-Jan ‘12
+
+Team                                 :     8
+
+Role                                  :     J2EE Developer
+
+Environment                     :     Jdk1.5, XFW, Tomcat, IBatis,
+Eclipse, Oracle.
+
+Description:
+
+The purpose of this project is to build a simplified, work-flow based
+customer on-boarding and administration system (CADM) for access by
+multiple teams within the bank and customer administrators, thereby
+replacing the existing CBS application. The new application will be
+capable of on-boarding new customers onto Straight2Bank and also cater
+to amendment of the customer profiles during BAU. The CADM application
+will also have capability to perform customer administration in a
+centralized or de-centralized operating model thereby giving the ability
+to reduce the turn-around time for these administration activities.
+
+              The various modules in the project are
+
+Group
+
+Company
+
+Accounts
+
+Authorization Matrix
+
+Profiles
+
+Users
+
+Users Group
+
+Utilities
+
+Responsibilities:
+
+Involved in analyzing the existing CBS application and requirement
+gathering. 
+
+ Involved in the preparation of Technical Specification.
+
+ Involved in development of components in XFW framework,
+
+ Involved in development and mapping of Xmls, Java and Ibatis.
+
+Project #6
+
+Title                                 :     CATI (Corporate Action
+Transaction Initiation)
+
+Client                               :      Standard Chartered Bank
+
+Duration                           :      Jun ’10-Aug ‘11
+
+Team                                 :     8
+
+Role                                  :     J2EE Developer
+
+Environment                     :     Jdk1.5, XFW, Tomcat, IBatis,
+Eclipse, Oracle.
+
+Description:
+
+Any event that brings a material change to a company and affects its
+share-holders is known as a Corporate Action. It affects both
+Bond-holders and Share-holders of the Company. Dividend
+Disbursement/Payment, Mergers, Acquisitions, Rights Issue and Proxy
+Voting are some examples of Corporate Actions. One of the prime
+responsibilities for the Custodian is to notify their customers on any
+Corporate Action and then process the responses for the CA provided by
+the customers.
+
+Currently, the Securities Services module within Straight2Bank provides
+the customers with options to both view the various Corporate Actions
+and also to provide their instructions for the CA to the Bank. But, the
+instructions that are provided by the customers through the
+Straight2Bank channel are currently not processed straight-through and
+require manual intervention. This is because, the instructions are sent
+as “Free format text” to the Back-office. 
+
+This project (Corporate Actions – TI) once live, would enable the
+Straight through processing of all CA response instructions that are
+sent by the customer through Straight2Bank. This STP feature would
+however be limited to only those responses that are routed to CAPE. The
+responses that go to NCS would still be sent as “Free format text”
+and would still be processed manually.
+
+The various modules in the project are
+
+Homepage
+
+Proxy Response
+
+Other CA Response
+
+Unsolicited Response, Advance Search.
+
+Responsibilities:
+
+Involved in analyzing the requirements. 
+
+Involved in the implementation of proxy response Module.
+
+Involved in development of xmls, java and Ibatis.
+
+    
+
+  Date:		              
+
+  Place:                                                                
+                        (NAVEEN.B)
+
+                                  
+

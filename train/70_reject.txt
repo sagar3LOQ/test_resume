@@ -1,0 +1,441 @@
+TECHPOINT PROFILE
+
+
+
+SHAMSE ALAM
+
+
+
+Emerald - 205, Rajaspushpas’s The Retreat
+
+Kokapet, Hyderabad-500075, Telangana, India
+
+
+
++91—7032550470shamse.siddiqui@gmail.com
+
+
+
+
+
+PROFILE SUMMARY
+
+
+
+		8 years of rich IT experience in Web/EnterpriseProductArchitecture, Design & Development.
+
+		Presently employed with Oracle India Pvt Ltd, Hyderabad, India
+
+		Good understanding of Object Oriented Methodology of Analysis, Design and Development.
+
+		Experience across various phases of SDLC (Analysis, Design, and Development, Testing)of Web Basedapplications.
+
+		Understanding of HRMS, Banking, Corporate Financeand Utilitydomains.
+
+		Skilled inHibernate ORM Framework and OUAF (Oracle Utility Application Development Framework).
+
+		Experienced in RESTFul Web Services Development.
+
+Experienced in Hybrid Mobile Application Development, Cordova, HTML5, Knockout JS, JQuery, JQuery Mobile, Material UI Design
+
+		Expertise in Core Java, Servlet, XML, HTML, PL/SQL, Object Oriented JavaScrip.
+
+
+
+SKILLS
+
+
+
+Technical
+
+
+
+	Expertise Area:
+
+Web/Enterprise Application Design and Development
+
+	Languages:
+
+		Programming Languages :Java/J2EE
+
+		Scripting Languages :JavaScript
+
+		Other:XML, HTML, CSS
+
+	Frameworks /Technologies:
+
+J2EE , OUAF 4.2, Hibernate 3.x, KnockoutJS, JQuery Mobile
+
+	DBMS:
+
+SQL Server 2000, Oracle 11g r2
+
+	Operating Systems:
+
+Win 2000, Win XP, MAC
+
+	Web/Application Servers:
+
+Tomcat6.x
+
+	Tools & Others:
+
+		IDE: Eclipse, NetBeans
+
+Versioning Tool: Microsoft VSS, Perforce, SVN
+
+		UML Tool:StarUML
+
+		Others: MS-Office
+
+
+
+Functional
+
+
+
+Utilities(Mobile Workforce Management, Smart Grid Gate way)
+
+Banking (CASA - Current Account, Savings Account)
+
+HRMS (Personnel Data Management,  Skill Data Management, Employee Self Service, Performance Management, Attendance/Leave Management, Training Management, Resource Allocation)
+
+Corporate Finance (Employee Payroll, Supplier Payments, Taxation, Budgeting, Forecasting)
+
+
+
+Methodologies
+
+
+
+Design Patterns
+
+UML
+
+
+
+PROFESSIONAL EXPERIENCE	
+
+
+
+	Employment History
+
+
+
+Period
+
+Employer
+
+Location
+
+Designation
+
+Oct‘11 – date
+
+Oracle India Pvt Ltd
+
+Hyderabad, India
+
+Senior Applications Engineer
+
+Jan’11 – Oct’11
+
+Capgemini IndiaPvt Ltd
+
+Mumbai, India
+
+Associate Consultant
+
+Jul’07 – Dec’10
+
+Interra Information Technologies Pvt. Ltd.
+
+Noida, India
+
+Member of Technical Staff
+
+	
+
+	Detailed Project Profiles
+
+
+
+	Oracle Utilities Mobile Application Framework (OUMAF)
+
+
+
+Period:
+
+Dec 2013 -  Date
+
+Employer:
+
+Oracle India Private Ltd
+
+Location:
+
+Hyderabad, India.
+
+Role:
+
+Developer
+
+Team size:
+
+7
+
+Description:
+
+The Oracle Utilities Mobile Application Framework is a reusable, scalable and flexible java and java script based framework which allows other hybrid mobile products to be built, configured and implemented in a standard way.
+
+
+
+Responsibilities:
+
+Interacted with Architect to understand product requirements and High Level Design
+
+Prepared High and low level design for the Oracle Utilities Mobile Application Framework
+
+Designed and developed JavaScript API for client side logging
+
+Designed and developed RESTFul Web Services
+
+Implemented web socket device and server communication 
+
+Performed UI development using jQuery Mobile UI Framework and HTM 5
+
+Implemented Oracle Map viewer to locate fieldworkers on the map 
+
+Performed Design walkthrough, Code walkthrough, Core review and Unit Testing 
+
+Environment:
+
+JDK 1.6, OUAF, Core Java, Servlet, RESTFul Web Services, JavaScript, AJAX,  jQuery,  jQuery Mobile,  KnockoutJS, HTML 5, XML, JSON, Apache Cordova,  Hibernate, Oracle 11g, Web logic
+
+
+
+
+
+	Oracle Utilities Mobile Workforce Management (MWM)
+
+
+
+Period:
+
+Oct2011 -  Nov 2013
+
+Employer:
+
+Oracle India Private Ltd
+
+Location:
+
+Hyderabad, India.
+
+Role:
+
+Developer
+
+Team size:
+
+10
+
+Description:
+
+Oracle Utilities Mobile Workforce Management (MWM) optimizes and automates the management of field workforce, and their orders and activities, through computer-aided planning, routing, dispatching, and data collection over mobile communication networks. 
+
+Responsibilities:
+
+PreparedHigh and low level design for the Mobile Client Platform (MCP)
+
+Performed Business object design
+
+Performed coding
+
+Performed Design walkthrough, Code walkthrough, Core review and Unit Testing
+
+Performed database design and created database objects
+
+Environment:
+
+	JDK 1.6, OUAF, Core Java, Servlet, RESTFul Web Services, JavaScript,AJAX,  HTML, XML, Hibernate, Oracle 11g, Weblogic
+
+	Oracle FLEXCUBE 
+
+
+
+Period:
+
+Jan 2011 -  Oct 2011
+
+Employer:
+
+Capgemini India
+
+Client:
+
+	Oracle Financial Services, Mumbai, India
+
+Location:
+
+Mumbai, India.
+
+Role:
+
+Developer
+
+Team size:
+
+14
+
+Description:
+
+Oracle FLEXCUBE is a complete Next generation Banking solution. It provides solution for core, retail, corporate, investment and internet banking, and asset management and investor servicing needs.
+
+Responsibilities:
+
+Participated in low level design of the application
+
+Performed database design and created data base objects
+
+Performed coding, Unit Testing
+
+Prepared and executed Test Cases with data and verified the test results
+
+Environment:
+
+	JDK 1.6, Core Java, Hibernate, Oracle ADF, Oracle 11g, Weblogic
+
+	Enterprise Mobility Manager
+
+
+
+Period:
+
+Jan 2010 -  Dec 2010
+
+Employer:
+
+Interra Information Technologies
+
+Client:
+
+Renesas Electronics (U.S)
+
+Location:
+
+Noida, India.
+
+Role:
+
+Developer
+
+Team size:
+
+5
+
+Description:
+
+The middleware application component allows transactional data exchange between an Enterprise Application and Mobile devices. The application is designed to provide a mobile interface for all Enterprise applications (including Legacy Systems).
+
+Responsibilities:
+
+Done Low level application design and Performed database design
+
+Implemented REST and Hibernate 3.x with spring
+
+Implemented BES and APNS for data push from middleware to Client component
+
+Developed adaptor to retrieve and update data from SAP and push it to handheld devices
+
+Performed Server side coding andunit testing 
+
+Environment:
+
+JDK1.5, Spring (IOC), Tomcat 6.0, XML, Hibernate, MYSQL
+
+	People-TRAC
+
+	
+
+Period:
+
+Jul 2007 -  Jan 2010
+
+Employer:
+
+Interra Information Technologies
+
+Location:
+
+Noida, India.
+
+Role:
+
+Developer
+
+Team size:
+
+7
+
+Description:
+
+People-TRAC is an integrated HRMS application that is being developed as a product to cater to a wide variety of business applications to assist in day-to-day Business Operations of the company. Each individual module interacts seamlessly to offer the benefits of Integrated & Consistent Data Flow. This results in operational excellence, significant cost control and quick access to accurate information to the entire enterprise.
+
+Responsibilities:
+
+Participated in Requirement Gathering from Subject Matter Experts (SME’s) and Analysis of various Modules added to the System. 
+
+Done Low level application design and Performed database design
+
+Performed Coding, Unit Testing, System/Integrated Testing, Implementation.
+
+Prepared and Executed Test Cases with test data and Verified Test Results	
+
+Contributed in Support and Maintenance of the Existing modules of People-TRAC.
+
+Environment:
+
+JDK: JDK1.5, Core Java, Servlet, XML, HTML, CSS, JavaScript,XSLT, XSLFO,MS-SQL Server 2000, Tomcat 6.0
+
+
+
+EDUCATIONAL BACKGROUND
+
+
+
+Degree
+
+University
+
+Percentage
+
+Master of Computer Applications
+
+Uttar Pradesh Technical University, Lucknow, UP, India
+
+71%
+
+B. Sc. (Information Technology)
+
+Sikkim Manipal University, Gangtok, Sikkim, India
+
+70%
+
+XII (Intermediate)
+
+Bihar Intermediate Education Council , Patna, Bihar, India
+
+68%
+
+X (Matriculation)
+
+Bihar School Examination Board, Patna, Bihar, India
+
+80%
+
+
+
+
+
+						Page 1 of 3

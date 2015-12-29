@@ -1,0 +1,315 @@
+1
+
+
+
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate                                              -  2 year 
+
+Spring                                                     -  5.4 year & current                                                
+
+Web Services                                        -  using                                                
+
+Core Java                                               -  5.4 year
+
+Design Patterns                                    -  using  
+
+UML design                                           -    
+
+Build Tools (Maven/Ant)                    -    Ant   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+Tomcat/websphere/eclipse
+
+
+
+8./12/60days(negotiable)
+
+DB:oraclel
+
+	
+
+	Partap Kumar						• Mobile	: +91 8019460457  
+
+	Java, J2EE DEVELOPER						• E-Mail	: pratap.kool@gmail.com
+
+	
+
+
+
+
+
+	CAREER OBJECTIVE 
+
+
+
+To strive for Excellence in the field of software development with dedication, proactive approach, positive attitude and passion and utilize my knowledge and skills in the best possible way for the fulfillment of organizational goals.
+
+
+
+EXPERIENCE SUMMARY
+
+
+
+Having 5.4 years of experience in IT industry as a Software Developer using JAVA/J2EE technologies and have played roles as Senior Developer. 
+
+Good problem solving skills and works to resolution and identifies root cause.
+
+Experienced in Agile/Scrum methodology to complete the tasks and projects.
+
+Experienced in Waterfall model.
+
+Strong experience in all the phases of software development life cycle including requirements gathering, analysis, design, implementation, deployment and support.
+
+Strong experience in Web Application Development using Java, Struts, HTML5, Javascript, JQuery. 
+
+Experienced in developing high performance and secure web applications.  
+
+Experienced in writing SQL/PL SQL scripts including stored procedures, functions, and packages.
+
+Strong mentor and coach, skilled in inspiring confidence and leading by example.
+
+
+
+	EDUCATION 
+
+
+
+Bachelor of Technology	 			Aggregate (7.73 CGPA)		 (2005-2009)
+
+University: National Institute of Technology, Durgapur.
+
+12th Higher secondary  				Aggregate (79.2%)		 (2005)
+
+Jawahar Navodaya Vidyalaya, Pachawati.
+
+CBSE
+
+10th Matriculation				Aggregate (84.2%)		 (2003)
+
+Jawahar Navodaya Vidyalaya, Pachawati.
+
+CBSE
+
+
+
+	SKILL SET
+
+
+
+Java Technologies: Core Java, Servlets, JSP, JDBC, Web Services 
+
+Frameworks: MVC Architecture, Struts 2, Spring, Hibernate, Apache Tiles 
+
+Languages: Java, PL/SQL, ActionScript 3.0, Shell Scripting
+
+Web Technologies: HTML, JavaScript, XML, JSON, JQuery, FTL
+
+Database and Tools: SQL, PL/SQL, Oracle, DB2, SQL Developer, Hibernate
+
+Operating Systems: Windows, Linux.
+
+Version Control Tools: Subversion, TortoiseSVN, Rational Clear Case
+
+Unit Testing Tool: JUnit
+
+Build Tools: ANT and Gradle
+
+Application Server/Web Server: Tomcat 6.0, Apache HTTP Server, IBM WebSphere Application Server.
+
+IDE: Eclipse, Rational Application Developer, Flex Builder 3
+
+Other Tools: Adobe CQ5, Jira, Code Collaborator, Putty, WinSCP, Jasper reports, iText, Star UML
+
+
+
+
+
+
+
+	EMPLOYEMENT DETAILS 
+
+
+
+Working as Software Engineer in IVY Comptech Pvt Ltd, Hyderabad from Jan 2012 till date. 
+
+Worked as Software Engineer in Accenture Service Pvt Ltd., Hyderabad from August 2009 to Dec 2011. 
+
+
+
+ACHIEVEMENTS AND TRAININGS
+
+
+
+Got “High Performer award” for Q3, 2012
+
+Got Silver and bronze awards for the work on developing mobile application and flash application.
+
+Attended Below Corporate Trainings.
+
+
+
+Workshop on Agile & Scrum Implementation 
+
+Struts 2 Framework
+
+Java 1.7
+
+
+
+PROFESSIONAL WORKING SKILLS
+
+
+
+Maintains a professional relationship with Management.
+
+Result oriented, self-starter and able to work with minimum guidance.
+
+Able to successfully prioritize projects and deliverables; delivers quality product/service on time.
+
+Trained team members in business and Technical aspects.
+
+
+
+PROJECTS
+
+
+
+Senior Software Engineer		        		 				  Jan 2012 to till now
+
+
+
+
+
+Senior Software Engineer		        		 				  Jan 2012 to till now
+
+
+
+
+
+
+
+
+
+
+
+Organization	: IVY Comptech Private Limited.
+
+Clients		: Bwin.Party Digital Entertainment, Zynga Inc 
+
+Technologies	: Java, J2EE, Struts 2.0, FTL, Oracle SQL, PL/SQL, JavaScript, JQuery, Apache HTTP Server, Tomcat, Terracota
+
+Team size	: 20
+
+
+
+Cashier is a web based application to provide payment methods for bwin.party online poker and betting portals. 
+
+It provides the facility to the customers for all the payment related transactions online. It provides payments options like Credit cards, Bank Transfers, Ewallets and Echecks through which a player can deposit and withdraw money. This includes the communication with the provider and storing and managing the huge user related data including transaction details in the database.
+
+As a Senior Developer, I have successfully completed the below projects and tasks in Cashier team.
+
+
+
+Worked on migrating the IT players data from different platform to the Cashier platform
+
+Worked on the non-pci migration of the player card data as part of the security
+
+Developed the ux pages and functionality required for the regulated markets in the recent times
+
+Designed and developed the framework to make the fields dynamic on the ui pages for banktransfer option
+
+Developed and Integrated new Payment methods with backend Service providers like Kalixa. 
+
+Developed a XML Parsing Framework to integrate Cashier payment methods with backend web service.
+
+Designed and developed JQuery Validation Framework for Cashier Web Application and added Client side validations for all Cashier pages.
+
+Developed Mobile Web based Cashier using FTLs.
+
+Designed and developed Cashier in Flash using Flex3 and Action Script to integrate with Facebook application.
+
+Involved in performance tuning of Cashier web application. 
+
+Participated in many design meetings and code reviews.
+
+Worked on many production incidents. 
+
+Completed many other small and medium roadmap items in Cashier application.
+
+
+
+
+
+Software Engineer								         Nov 2009 to July 2010
+
+
+
+
+
+Software Engineer								         Nov 2009 to July 2010
+
+
+
+
+
+
+
+
+
+Organization		: Accenture Service Pvt Ltd.
+
+Clients		: TransUnion 
+
+Technology		: Java, J2EE, JavaScript, Hibernate, DB2,  Websphere Application Server
+
+Team size		: 4
+
+
+
+TransUnion is a credit bureau. It provides credit information and information management services to its customers.
+
+        TransUnion markets credit reports directly to consumers.
+
+	As a developer I have worked on the below project:
+
+MD5: Design and Developed an end to end internal web application.
+
+The application is used by the internal employees to provide the criteria and characteristics of the credit information needed by the customer. The data is stored in the database after all the validations.
+
+This data is later processed and a report is created displaying the list of data as per the criteria provided.
+
+SDLC was followed in completing the project. Involved in the Functional Design Document, Low level Designs.
+
+Used the sequence diagrams in designing the workflow of the application.
+
+
+
+PERSONAL DETAILS
+
+
+
+Father’s Name      	:	S Sarathi
+
+Date of Birth        		: 	14th April, 1987
+
+Marital Status      		:	Single
+
+Languages known  	:	English, Hindi, Telugu, Tamil, Bengali
+
+Notice Period	    	: 	2 Months
+
+	
+
+	I hereby declare that all the data furnished above are true to the best of my knowledge. 
+
+
+
+
+
+Regards,
+
+										Partap Kumar

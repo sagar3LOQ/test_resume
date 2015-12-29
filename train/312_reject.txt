@@ -1,0 +1,214 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                  -  2
+year &current                             
+                
+
+Spring                  
+                                  -  2
+year&current                              
+                  
+
+Web
+Services                                
+        -  2
+year&current                              
+                  
+
+Core
+Java                                  
+             -  2.year
+
+Design
+Patterns                                
+    -    used
+
+UML
+design                                 
+          -    
+
+Build Tools (Maven/Ant)                    -   
+Ant   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Jboss/jetty server/tomcat/websphere
+
+HIREN VIROJA                                                            
+    			                	 
+
+Cell No: 9700458552
+
+Email: hirenviroja007@gmail.com
+
+Professional Summary:
+
+Overall 2+ years of Experience in JAVA and J2EE Technologies. 
+
+Extensive development experience with Java, Servlets, JSP, JDBC,
+Web-Services, XML and JavaScript.
+
+Expertise in using with Spring, JSF, EJB, Hibernate and Struts
+frameworks. 
+
+Extensive working knowledge in developing front end components using
+HTML, CSS, JavaScript.
+
+Good working knowledge of Server like Apache Tomcat, JBoss and Jetty.
+
+Excellent back-end SQL programming skills using MSSQL, Oracle and SQL
+Server with PL/SQL.  
+
+Expertise in using Development Tools like Eclipse, My eclipse and Net
+beans.
+
+Expertise knowledge in C#, C and Data Structure Programming. 
+
+Very good experience in practicing Agile (Scrum) project management
+methods.
+
+Possesses good Interpersonal Skills, team-working attitude, takes
+initiatives and very proactive in solving problems and providing good
+solutions. 
+
+Experience:
+
+Working as a Jr.Software Engineer in KnoahSoft from Oct-2012 to Present.
+
+Working as a Project Trainee in CDAC from Mar-2012 to Oct-2012
+
+Education:
+
+Post Graduation Diploma From CDAC Hyderadabad, India
+
+BE(Information Technology) From Saurastra University Rajkot, India.
+
+Technical Skills:
+
+Programming Languages	 : 	JAVA, C#, C and Data Structure.
+
+J2SE Technologies		 : 	Core Java, Collections, Threading and JDBC.
+
+J2EE Technologies		 : 	Servlets, JSP and JMS.
+
+Web Technologies		 : 	HTML, XML, Java Script, CSS and JSP Tag Libraries.
+
+
+Web Servers			 : 	Apache Tomcat and Jetty.
+
+Application Server		 :	JBoss.
+
+Frameworks			 : 	Spring, JSF, EJB, Hibernate and Struts. 
+
+Database			 : 	Oracle, MS SQL and SQL Server. 
+
+Development Tools		 : 	Eclipse, My Eclipse and Net Beans.  
+
+Build Tool			 :	Ant.
+
+Operating Systems		 : 	Windows XP/Vista/7.
+
+Experience at KnoahSoft, Hyderadabad, India:
+
+Product		: 	Harmony System 
+
+Position		: 	Jr. Software Developer
+
+Environment		:	Java, JSF, Spring, Hibernate, Apache Tomcat, Jetty and
+JBoss
+
+Database		:	MS-Sql 2008
+
+Utilities/Tools		:	Log4j, Ant & Eclipse
+
+		
+
+Description: Harmony Suite helps businesses improve customer
+satisfaction and increase operational awareness by providing contact
+centers with a feature rich, modular, easy to use, completely web-based
+solution. Harmony supports call recording, quality and performance
+management needs and initiatives.   
+
+Duties and Contribution: 
+
+Involved in Design Documentation and Coding of the applications.
+
+Involved in developing code for all activities using MVC 2 architecture
+that uses JSF and Spring Framework. 
+
+Developed Spring Controller classes, view beans and descriptor with
+Spring AOP, Spring Integration and Spring Security.
+
+Created needed Hibernate XML files and mapped the UI variables and
+database variable.
+
+Used HQL (Hibernate Query Language) and SQL queries to insert the data
+into database.
+
+Involved in designing of the Web interface using JSP, HTML, JSF Support
+Libraries (Rich Faces and Prime Faces) and DOJO.
+
+Involved in Database Design, writing Stored Procedures and Functions.
+
+Involved in bug fixing.
+
+Experience at KnoahSoft, Hyderadabad, India:
+
+Project		: 	Application of Mobile Support for Harmony System   
+
+Position		: 	Jr. Software Developer
+
+Environment		:	Java, JDBC, Spring, Web Service, JSON, Netty, Jetty and
+JBoss
+
+Database		:	MS-Sql 2008
+
+Utilities/Tools		:	Log4j, Ant & Eclipse
+
+		
+
+Description: Harmony Application Server Interfaces exposes a REST base
+Web service API with payload in JSON and underlying protocols being HTTP
+and HTTPS to provide support for Mobile Devices. At a high level API
+contains Call Recording and Real Time Monitoring.  
+
+Duties and Contribution: 
+
+Involved in Analysis, Design Documentation and Coding of the
+applications.
+
+Involved in developing protocol server to handle incoming request by
+using Netty API.
+
+Developed descriptor for Spring-JDBC and Spring IOC support.
+
+Created needed Hibernate XML files.
+
+Involved in developing contract-first SOAP Web Service development.
+
+Involved in developing REST based Web Service development.
+
+Personal Profile:
+
+Date of Birth 		:	23-Jul-1990
+
+Gender			:	Male
+
+Languages Known	:	English, Hindi and Gujarati
+
+	
+
+			
+
+Declaration:
+
+I hereby declare all the above information true and correct to the best
+of my knowledge and belief.
+
+Date:									                       
+
+Yours faithfully
+

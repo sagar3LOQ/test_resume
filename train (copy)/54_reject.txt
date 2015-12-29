@@ -1,0 +1,175 @@
+Springs:4year&current
+
+Hibernate:4year& current
+
+Java:6.5 year
+
+Web services:SOAP
+
+Db:oracle
+
+Application:weblogic/jboss
+
+Available in second week of April
+
+ R.PRATHYUSHA					      	  
+
+Email: prathyusha.ramireddy@gmail.com
+
+      	  Mobile: +91 9989467094
+
+Summary:
+
+IT professional over 6+ years of extensive experience in Web based
+development and Application development.
+
+Able to learn new technologies with minimal time period.
+
+Good in solving problems and dealing with people.
+
+Excellent communication and interpersonal skills.
+
+To obtain a challenging position in the industry and to apply my
+extensive analytical, programming and inter-personal skills in the
+design and development of software systems.
+
+Professional Experience:
+
+Working as a Senior Software Engineer in Prokarma Softech Pvt Ltd.,
+Hyderabad from Mar 2011 to till date.
+
+Worked as a Software Engineer in Qwest Software Services, Bangalore from
+Aug 2008 to Feb 2011.
+
+Education Qualification:
+
+Bachelor of Technology from J.N.T.University.
+
+Technical competencies:
+
+Languages			:  JAVA,XML  
+
+J2EE Technologies		:  JDBC, Servlets, JSP, JMS, EJB, Web Services
+
+Frame Work 	           :  Struts , Spring , Hibernate, JUnit
+
+Web Technologies		:  HTML, Java Script
+
+Database			:  Oracle 10g 
+
+Web/Application Servers	:  Apache Tomcat Server, Bea Web Logic Server
+
+Integration			:  Eclipse 
+
+Project Experience in Detail: -
+
+1. Shipment Management and Notification (SHN):
+
+Duration	:  March 2011 – till date
+
+Role	       :  Team member
+
+Project Description: -
+
+The Shipment Management and Notifications project delivers a secure,
+flexible, real-time reporting interface on the web for external
+customers while reducing support costs.  The reporting engine will allow
+a customer to schedule and retrieve real-time status and shipment
+information and leverage a variety of notification methods. The project
+will provide customers to run reports in real-time (a user click), on a
+schedule (e.g. every Monday), or when a pre-determined event occurs
+(e.g. after car placement).  Links to the reports will be delivered
+using the Enterprise Notifications (ENA) via E-mail etc.  The component
+will also link to various UP web applications (i.e. diversions, service
+issues, etc).
+
+Responsibilities: -
+
+Involved in development and coding.
+
+	Using Spring framework in providing enhancements for the developed
+modules.
+
+	Executed the test cases to be performed.
+
+	Actively involved in getting clarification from onsite team for
+different tasks.
+
+	I was the mentor in the team to give KT to new guys who joined the
+team.
+
+ Got into the shoes of Team Lead in his absence.
+
+2. SDP Platform Delivery:
+
+         Duration	:  May 2010 – Feb 2011
+
+          Role	 	:  Team member
+
+Project Description: -
+
+SDP is a Product Data definition driven Quoting and Ordering factory
+Platform to implement flow-through of QCC product orders. The Platform
+is generic, that is, designed not to be Product specific. Flow-through
+is defined as the ability of Users to avoid re-entry of any data element
+from initial customer contact through contracting, Billing and into
+Provisioning completion. This process also encompasses to minimize, even
+completely avoid, any rejection / fall out coming out of Billing and
+Provisioning, once an Order is submitted, by enforcing up front, all the
+appropriate Product Configuration and ordering Business rules to insure
+a valid data configuration is captured at Quoting and Ordering time, so
+as to accomplish Billing and Provisioning of the Order without any
+error, and have the Billing invoices completely consistent with the
+quoted and contracted prices.
+
+Responsibilities: -
+
+Playing an active role in the day-to-day operations of the project,
+Reporting Periodically to  all the stakeholders, Project Plan Execution
+and Tracking, and onsite deployment.
+
+Requirement analysis, Perform Low level design and development.
+
+3. QCentral  Portal (Qwest)
+
+          Duration	:  Aug 2008 – Apr 2010
+
+          Role	 	:  Team member
+
+      Project Description: -
+
+This portal created using j2ee and .net technologies is used to sell
+Qwest’s Telecom products to prospective corporate customers. The
+portal is used by Qwest’s internal agents as well as external agents
+to effectively document the selling and delivery process.
+
+The portal comprises of many modules which are hosted in Vignette portal
+of which our team was handling four modules. These modules are used to
+get the information about the opportunities provided by prospective
+customers. The portal as a whole covers the complete life cycle of
+selling Qwest’s telecom products like broadband, mobile telephony and
+other corporate products etc right from capturing the level of interest
+of the customer in the product to ordering, selling , provisioning and
+customer care.
+
+Responsibilities: -
+
+	Involved in development and coding.
+
+	Used Struts and Hibernate frameworks in providing enhancements for the
+developed modules in this portal.
+
+	Executed the test cases to be performed.
+
+	Actively involved in getting clarification from onsite team for
+different tasks.
+
+	Helped my team-mates in fixing issues whenever they faced any problems.
+
+	Involved in fixing bugs coming from both onshore (Denver, US) and
+offshore.
+
+ 
+
+  PAGE \*Arabic  1 
+

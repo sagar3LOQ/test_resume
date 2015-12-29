@@ -1,0 +1,233 @@
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate                                  -  2 year & current                                                
+
+Spring                                       -  2 year & current                                                
+
+Web Services                             -  No                                                
+
+Core Java                                    -  2.8 year
+
+Design Patterns                           -  using  
+
+UML design                                -    
+
+Build Tools (Maven/Ant)              -    maven   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+Tomcat/eclipse
+
+
+
+DB:oracle
+
+
+
+Current:2.6/4/30days
+
+
+
+Venkata kishor			
+
+
+
+		Email id: kishor.pallamala@gmail.com							Mobile    : +91-8105133870
+
+Career Objective: To Excel in the relevant field of development with sheer hard work and knowledge gained from my background thus contributing to the achievement of Organizational objectives.
+
+Experience Summary
+
+
+
+Having 2.8years of Experience in development on Java/J2EE.
+
+Excellent Java development skills using Core Java.
+
+Having working experience in Hibernate, spring, JDBC, Html, JSP, and Oracle (Sql).
+
+Experience in development of multi-tier application using MVC.
+
+Good Exposure on OOP’s concepts.
+
+Good implementation knowledge in framework’s like spring.
+
+Extensively used ORM tools like Hibernate.
+
+Developing java applications by using Hibernate ORM persistence logic to interact with data base software for updating records and retrieve data from data bases.
+
+Experienced working on Model View Controller (MVC) Architecture by using spring framework.
+
+Excellent in using an IDE Tool like Eclipse while developing a java applications
+
+A team player with excellent interpersonal, communication and presentation skills.
+
+
+
+Experience Profile
+
+A competent professional with over 2 years 8 months of experience in development and implementation of variety of software Applications in Java technology.  
+
+Presently working with EMC square as a Software Engineer
+
+	
+
+Interpersonal, intuitive, analysis and leadership skills. Proven ability to work efficiently in both independent and teamwork environments. Known for exceeding goals and objectives. Challenging the tasks and completing them within the time, Undeterred by any obstacles with help of positives thinking. Experimenting with innovative ideas.
+
+
+
+
+
+Educational Qualification
+
+B.Tech (information technology) from JNTU University, andrapradesh, India. (2008 –2012) scored 67%.
+
+
+
+
+
+Technical Profile
+
+	
+
+								            Java				:	java/j2EE	
+
+Java Technologies		:	JDBC, JSP, JavaScript.
+
+Interpreter Languages		:	HTML, XML
+
+            Application/Web Servers	:	Tomcat6.0.
+
+Relational Databases		:	Oracle 10g.
+
+Frameworks			:	Spring3.2.
+
+ORM Tools			:	Hibernate.
+
+Logging API			:	Log4j.
+
+	Tools				:	Eclipse (Juno), SVN, MAVEN.	
+
+		
+
+Work Experience
+
+
+
+
+
+Period					:	[Jun 2012– Till Date]
+
+		
+
+Organization				:          EMC Square
+
+                                        		 
+
+Designation				:	Software Engineer
+
+					  
+
+
+
+Projects
+
+Project								Duration: June 2012 to Till Date
+
+Title		:    Starwood (Hotels & Resorts)
+
+Client		:    Starwood
+
+ Role		:    Developer
+
+Environment	:   Java, spring, Hibernate, J2EE (JSP, Servlets), Oracle, Tomcat Web Server.   .
+
+Description      :
+
+
+
+     Starwood is a group of Branded Hotels. It has 9 hotels under it. It automates all lines of business, including online booking or cancelling the reservations using different channels like customer care contact, Branded Website, Third party like Expedia. 
+
+
+
+      It is an online booking system. User can book hotel for future date online with minimum rate compared to other hotels near to that area. If user is also a Starwood preferred then he will get star point.
+
+
+
+
+
+Mainly 5 core engines are involved in this project
+
+
+
+Booking	
+
+Responsible for creating an itinerary with one or more confirmations.
+
+
+
+Availability
+
+Service real time enquiries from various channels to provide room and stay pricing and availability information.
+
+
+
+Inventory
+
+Responsible for managing property room and product inventory.
+
+
+
+Rates
+
+Facilitates administration and synchronization of rate plans
+
+
+
+Shopping
+
+Provides property content, corporate reference data, proximity search services, destination content services, weather services and driving directions/mapping services. 
+
+Responsibilities:
+
+		Involved in developing Controller classes 
+
+		Re designing the HTML pages by JSP Pages.
+
+		Involved in Writing the DAO Classes using Hibernate ORM.
+
+		Involved in developing configuration files for Hibernate and spring.
+
+		Involved in development of Hibernate entity classes and HQL Queries.
+
+Involved in implementing DAO’s, Service Layers.
+
+Involved in injecting the ServiceImpl’s into Spring Application Context xml files.
+
+Involved in injecting the DAOImpl’s into Spring Application Context xml files.
+
+
+
+		`
+
+Personal Minutiae 
+
+
+
+Date of Birth 			:  	03 june1991
+
+Languages 			:	English, Telugu, Hindi
+
+	Nationality			:	Indian
+
+Sex				:	Male
+
+
+
+		
+
+				
+
+		                                                                                                             (Venkata kishor)

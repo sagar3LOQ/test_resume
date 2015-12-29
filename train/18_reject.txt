@@ -1,0 +1,206 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                 -  1
+year&current                              
+                 
+
+Spring                  
+                                 -  6
+months &
+current                                �
+�              
+
+Web
+Services                                
+       - 
+No                                   
+             
+
+Core
+Java                                  
+            -  2 years                
+
+Design
+Patterns                                
+   -  MVC framework,strut framework            
+
+UML
+design                                 
+         -   
+
+Build Tools (Maven/Ant)                   -    
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+J developer tool,tomcat 
+
+3.5L/4.8L/5.2/17th 
+
+Sandhya Seggam		     			Email - ID:sandhya.seggam@gmail.com
+
+Assistant System Engineer				Phone:     91-9492961059
+
+SUMMARY:
+
+Highly proficient IT professional with proven analytical abilities and
+organizational skills with 2years of IT experience.
+
+Developing commercial Java/J2EE projects and Web Based Applications.
+
+Hands on experience in Java, Servlets, Struts, EJB, Hibernate, JSP,
+JavaScript.
+
+Adaptable to new technologies in short span and implement it in real
+time projects.
+
+Strong knowledge on Data structure concepts.
+
+Good exposure to Complete System Life Cycle from Analysis and Design to
+Implementation with J2EE Standards.
+
+PROFESSIONAL EXPERIENCE:
+
+Working with Tata Consultancy Services (TCS) Hyderabad, since June 2012
+as Assistant System Engineer (Java Developer).
+
+EDUCATIONAL QUALIFICATION:
+
+Year of Passing	Course	College/University	Percentage
+
+2012	B. Tech( cse )	Jawaharlal Nehru technological University, Kakinada.
+76.34%
+
+2008
+
+	Board of Intermediate Education	Sri Chaitanya Mahila Kalasala,
+Vijayawada.	95.50%
+
+2006	Board of Secondary Education	St. Mary’s High School, Kothagudem.
+92.16%
+
+
+
+TECHNICAL SKILLS:
+
+Category	 Skills
+
+Java Platform                      	: Java, Servlets, JSP, JDBC,
+Struts2, Hibernate, Spring MVC.
+
+Web Servers	: Apache Tomcat.
+
+Database                             	: MySQL, Oracle 10g.
+
+Web Technologies              	: HTML, JavaScript, JSP, Servlets.
+
+Development Tools            	: Eclipse Galileo, Jdeveloper, PL/SQL
+Developer.
+
+Programming Languages   	          : C, Java.
+
+PROJECT EXPERENCE:
+
+Project  #1:
+
+Employer: 	Tata Consultancy Services Limited                            
+                 JAN 2014 to till Date    
+
+Role		Assistant System Engineer
+
+Technologies 	Java, Struts, Hibernate, Spring, Oracle, JSP.             
+            
+
+Environment	Jdeveloper, PL/SQL Developer, CVS.
+
+Project Description:
+
+Rajiv Aarogyasri Scheme is a unique Community Health Insurance Scheme
+being implemented in Andhra Pradesh and Telangana States. The scheme
+provides financial protection to families living below poverty line up
+to 2 lakhs in a year for the treatment of serious ailments requiring
+hospitalization and surgery.
+
+Role and Responsibilities:
+
+Working closely with Client team to understand ever-changing business
+requirements in Empanelment module (dealing with automatic hospital
+Empanelment into the Aarogyasri Scheme) and to incorporate them in the
+Scheme.
+
+Involved in Analysis, Design, Coding, Enhancement and Testing of
+Application.
+
+Involved in estimation of change requests.
+
+Involved in screen development with HTML, JSP and JavaScript.
+
+Developed Action Classes and View pages to perform the functionality.
+
+Verify issues and defects in the module and fixing it.
+
+Project  #2:
+
+Employer: 	Tata Consultancy Services Limited                            
+                 JAN 2013 to DEC 2013    
+
+Role		Assistant System Engineer-Trainee
+
+Technologies 	Java, Struts, Oracle, JSP.                          
+
+Environment	Jdeveloper, PL/SQL Developer, CVS.
+
+Project Description:
+
+RGJAY is a unique public private partnership (PPP) model health
+insurance scheme to meet the health expenditure requirements of below
+poverty line families for identified specialty services requiring
+hospitalization for surgeries and therapies or consultations through an
+identified network of healthcare providers. The state government of
+Maharashtra has partnered with private hospitals and National Insurance
+Company to effectively execute this yojana. 
+
+ RGJAY's implementation is being assisted through effective use of
+IT-based solutions which help in reaching out to the beneficiaries as
+well as keep track of its implementations. 
+
+Role and Responsibilities:
+
+Understanding the Business Requirement Specifications and code the
+solutions for the problem.
+
+As a team member, I was involved in development of Reports module as per
+Client requirements.
+
+Provided queries for reports generation.
+
+Responsible for delivering quality work to the client. 
+
+Prepared Unit testing plans and Test Cases over the functionality.
+
+Reporting daily/weekly status, issues and risks to project management
+team.
+
+CERTIFICATIONS:
+
+Oracle Certified Professional, Java SE 6 Programmer
+
+Brain Bench certified programmer in java fundamentals, JavaScript, jsp,
+struts.
+
+STRENGTHS:
+
+Ideas exhibiting “can-do” attitude with a problem solving approach.
+
+Have passion to learn new things and ability to grasp the subject.
+
+Hard working.
+
+Self-confidence.
+
+	Page 2 of 3
+
+Page   PAGE  1  of   NUMPAGES   2 
+

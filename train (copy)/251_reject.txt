@@ -1,0 +1,37 @@
+Call on 9962196489
+
+
+
+Kasturi & sons ltd(hindu newspaper)
+
+Pre-screening Technical Questionnaire :-
+
+
+
+
+
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate                                              -  aware
+
+Spring                                                     -  3year & current
+
+Web Services                                        -  3 year & current                                             
+
+Core Java                                               -  4 year
+
+Design Patterns                                    -   singleton/factory 
+
+UML design                                           -    
+
+Build Tools (Maven/Ant)                    -    Maven
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+Coral services(inbuilt)/apache/eclipse
+
+
+
+DB:oracle/mysql

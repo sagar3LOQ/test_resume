@@ -1,0 +1,153 @@
+Ramanathan N K
+Software Development Engineer at Amazon India
+ramanathnk@gmail.com
+
+Summary
+Software developer, research engineer with over 3 years of industry experience and worked on image
+recognition (research) and on the development and maintenance of large scale distributed systems.
+Joined Infosys as a fresher in September 2010 and underwent training for a duration of about 5 months in .Net.
+and graduated to an educator given the merit of having excelled as a trainee. Worked as an educator with
+Infosys for brief period and moved to the niche area of research where I worked on image processing and face
+recognition algorithms. Moved to Amazon after having secured my dream job as a developer at Amazon. Here I
+work on price analytics for Amazon digital store. The learning curve has been quite steep at Amazon where we
+develop top quality software with the use of Service oriented architecture (SOA).
+
+Experience
+Software Development Engineer at Amazon
+June 2013 - Present (1 year 1 month)
+I work at Amazon as a software developer. Here we monitor how competitive we are at our core business and
+make sure we are not behind competitors either in the choice of products or in the prices we offer. At Amazon
+we are known to offer the widest selection at the best prices. We are involved in most business decisions. We
+make sure we have the best software that could tell the business about any of the products we don’t yet have
+or any of the products we don’t yet sell at competitive prices.
+I have done major re-design of services that we run that changed the service in fundamental ways to widen
+the scope of the system to include new use-cases and automate process that required support engineering time
+and occupied a major portion of the support engineering tasks.
+Senior Systems Engineer at Infosys
+September 2010 - June 2013 (2 years 10 months)
+Image Processing:
+My work involved research on face detection. Face detection was an active area of research and an interesting
+problem to solve. There were several algorithms already available in the market for face detection. The most
+popular ones were Principal component analysis and Eigen faces. But these algorithms were far from perfect
+and work on better face detection was continuously being carried out.
+My team’s focus had been on areas such as skin detection. It is noteworthy that our skin detection algorithms
+had beaten the best algorithms available in the market. We had managed to achieve an accuracy of above
+90% whereas the best algorithms available earlier could merely achieve about 84%. The algorithms we had
+developed used some of the genetic algorithms and clustering algorithms.
+I had specifically worked on template matching algorithms that were used to extract small parts from an
+Page1
+
+image for face recognition. Certain facial features could be extracted with very good accuracy.
+Some of the face classification algorithms that I implemented used extensively the k-means clustering
+algorithm to classify faces and group together similar faces. Interesting results were obtained by this method.
+The algorithms that I developed guided by senior research scientists were used by them to write papers on
+these topics.
+Educator & Trainee
+I was earlier a part of the training where I was in control of the massive training program at Infosys Ltd.
+Every year about 19,000 trainees from Engineering background and others go through this training which is
+among the best in class in a single campus. I was in charge of a batch of about 100 trainees and I had to take
+care of their various training requirements as a Single Point of Contact (SPOC). I would have to handle
+sessions on various training requirements at short notice.
+
+Projects
+Algorithm for a Robot
+December 2007 to February 2008
+Members:Ramanathan N K, Mangaiappan Muthu
+This project was based on a competitive event that required the computation of an efficient solution to
+maximize the number of people saved from a building during a fire accident. The layout of the building is
+specified and the number of people in each of the rooms and the accurately estimated time-left-to-live of the
+persons are specified. The problem is to devise an algorithm to maximize the number of people saved. It is
+worth mentioning that the algorithm was among the 10 best algorithms selected in the completion held in IITMadras in the Annual-Tech-Event which goes by the name Shaastra.
+
+Courses
+Bachelor's Degree, Computer Science and
+Engineering
+Sona College of Technology
+Design and Analysis of Algorithms
+Data Structures
+Theory of Computation
+Operating Systems
+Relational Database Management System
+The design of the UNIX operating system
+Artificial Intelligence
+System Software
+.................................................................................................................................................................
+
+Page2
+
+Independent Coursework
+Artificial Inteligence(Udacity.com)
+How to build a search engine (Udacity.com)
+
+CS101
+
+Design and Analysis of Algorithms: Tim Roughgarten
+(Coursera.org)
+
+Languages
+English
+Tamil
+Kannada
+
+(Full professional proficiency)
+(Limited working proficiency)
+(Elementary proficiency)
+
+Skills & Expertise
+Core Java
+C
+SQL
+Java Enterprise Edition
+Mockito
+Amazon SQS
+Amazon S3
+Amazon SNS
+Amazon EC2
+Amazon DynamoDB
+Amazon Web Services (AWS)
+Machine Learning
+Linux
+C++
+Software Development
+PL/SQL
+Eclipse
+Computer Vision
+Python
+Project Management
+Spring
+
+Education
+Sona College of Technology
+Bachelor's Degree, Computer Science and Engineering, 2006 - 2010
+Grade: 76%
+Montfort School, Yercaud
+
+Page3
+
+High School, Computer Science, Mathematics, Physics and Chemistry, 1996 - 2006
+Grade: 84 %
+Activities and Societies: Scouts
+
+Interests
+Mathematical Ability : Was an above average performer in school.
+Data Structures and Algorithm Analysis : I have an authoritative grasp of algorithms and data structures.
+Studied various programming paradigms like greedy algorithms, divide and conquer, dynamic programming,
+strategies to deal with NP complete/hard problems.
+Artificial Intelligence : Studied various AI algorithms like particle filters, Bayes' networks, SVM, logistic/linear
+regression, neural networks
+Behavioral Sciences : Behavioral science is my new found interest. I have read books such as 'Thinking fast and
+Slow' - Daniel Kahneman and also other books by Dan Ariely.
+Economics : I like investing in stocks. I strictly follow the advice of Benjamin Graham in 'Security Analysis'.
+'Crisis Economics' - Nouriel Roubini is one other book that fascinated me.
+
+Page4
+
+Ramanathan N K
+Software Development Engineer at Amazon India
+ramanathnk@gmail.com
+
+Contact Ramanathan on LinkedIn
+
+Page5
+
+

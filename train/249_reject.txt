@@ -1,0 +1,293 @@
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate                                    -  6 month& current
+
+Spring                                          -  3.5 year & current                                                
+
+Web Services                              -  2years  &current(SOAP)
+
+Core Java                                               -  8 year
+
+Design Patterns                                    -    used in earlier project
+
+UML design                                           -    
+
+Build Tools (Maven/Ant)                    -    Maven
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+Tomcat,weblogic,jboss,eclipse
+
+
+
+Works on Db
+
+
+
+____________________________________________________________________ Resume___
+
+	 SWARAG PRASAD UPPULETI                        		           Contact no: +91-9959918414
+
+	                                                                                                 	          Mail:swarag105@gmail.com
+
+										                    
+
+                                                                              		
+
+	OBJECTIVE
+
+		
+
+Seeking a challenging and rewarding position within a growing organization that will enhance my personal skills and strength pertaining to my field of study and experience and allow scope for future growth.                                                                 
+
+
+
+	PROFESSIONAL SUMMARY
+
+	
+
+Having 4.2 years of relevant experience in designing and development of Java/J2EE applications.
+
+Worked as an IT Engineer in CMC Ltd (A TATA Enterprise), Hyderabad for 4 years.
+
+Worked at client location TATA Consultancy Service (TCS), Hyderabad for 3 years.
+
+Presently working at ProKarma Soft-Tech Pvt ltd as a Software Engineer from July2014.
+
+
+
+TECHNICAL EXPEERTISE
+
+
+
+Languages		: JAVA/J2EE
+
+Frame Works		: Spring, Hibernate, Google Web Toolkit (GWT)
+
+IDE			: Eclipse, JDeveloper
+
+Web Development	: JSP, HTML
+
+Data Bases		: SQL Server 2008 R2
+
+Build Tools		: ANT, Maven
+
+Web Servers		: Tomcat 6, Weblogic 12c, Jboss 6 Final
+
+Others			: Test NG, Log4j, Web Services (SOAP) , XML
+
+
+
+ACADEMIC QUALIFICATION
+
+
+
+		Qualification
+
+		Board/Organization
+
+		Year of Passing
+
+		Aggregate
+
+		B. Tech
+
+		(Computer Science)
+
+		V.R .Siddhartha  Engineering College
+
+		(Acharya  Nagarjuna University)
+
+		2008
+
+		74.90%
+
+		Intermediate
+
+		Board of Intermediate Education
+
+		2004
+
+		71.90%
+
+		
+
+		SSC
+
+		
+
+		Board of Secondary Education
+
+		2002
+
+		79.83%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project Summary:
+
+
+
+Project Profile#1
+
+
+
+Verizon Telematics – MB Race							July 2014 - Till Date
+
+
+
+Client				: Verizon,  USA
+
+Environment			: JDK 1.7,Spring 4,Hibernate4, Oracle 10g, JSP, Servlets, Restful Web services, Maven , Web logic 12c
+
+Team Size			: 10
+
+
+
+Project Description		: MB Race is a web based application where the user can access to information and key features of his car. Users can operate their vehicle functionalities such as door lock, door unlock, and vehicle Horn/ Lights. Users can send signals to his car to operate all these functions and also they can define speed alerts. 
+
+
+
+Role and Responsibilities	:  As a team member responsible for
+
+Analyzing the existing functionality and migrate the application from Jboss server to web logic server.
+
+Configuring and deploying the application in web-logic server.
+
+Identifying the bugs during end to end testing and provide the fixes.
+
+
+
+
+
+Project Profile#2
+
+
+
+ERICSSON IT – Sales & Marketing					      Aug 2011 –July 2014
+
+
+
+Client				:  ERICSSON, Sweden
+
+Environment			:  JDK 1.6, Spring 2.5, SQL Server 2008, GWT (Google Web Toolkit), ANT build tool.
+
+Team Size			:  7
+
+
+
+Project Description		: ERICSSON-OPCM is Opportunity Profitability Cash Flow Management System. It is a web based application tool used by Ericsson Users that calculate profitability and manage the cash flow for the individual products for sales and marketing area globally.  OPCM is the new global mandatory system for profitability, price governance and cash flow analysis to support the Ericsson sales process. The purpose of this tool is to consolidate profitability, price governance and cash flow data needed for a sales decision point. TCS has been providing support and maintenance to the application since 2009.
+
+
+
+Role and Responsibilities	: As a senior resource in the team responsible for 
+
+Estimation, analyzing the new requirements of the Project and implementation. 
+
+Responsible for application deployment in the production system.
+
+Responsible for internal Quality Check (IQA) and code review.
+
+Application maintenance and support to the Ericsson users globally.
+
+Tracking the defects during End to End testing of the project and provide the fixes. 
+
+Having regular brainstorming meetings with the team members for improving the quality.
+
+		
+
+
+
+Project Profile#3
+
+
+
+My Pantone   Application							      Feb 2011 – May 2011
+
+
+
+Client				:  X-Rite, USA
+
+Environment			:  JDK 1.6, Eclipse (Galileo), Android SDK, Sqlite3 db, Droid draw.
+
+Team Size			:  5
+
+
+
+Project Description		: “My PANTONE” is palettes software provides innovative tools for creating, managing and sharing user-defined colors and PAN-TONE-identified color palettes. Features an eye-dropper for picking desktop colors, color harmonies, auto-generating palettes from imported images and the ability to save, and share. Also the palettes can be shared through Face book, Twitter and E-mails.
+
+
+
+Role and Responsibilities		: As an active member in the team responsible for
+
+Using the web services logic in android environment uploaded   the color palettes in Pantone website. 
+
+Involved in notifying user with email with shared color pattern by assigning individual names for each color.
+
+
+
+Project Profile#4
+
+		     		          			                                        		
+
+Ecovernote Application							       Sep 2010 –Jan 2011						             
+
+Client 			        	:  Cholamandalam General Insurance Company.
+
+Environment		        	:  JDK 1.6, Eclipse (Galileo), Android SDK, Sqlite3db, Droid draw.
+
+Team Size			:   4
+
+Project Description		: This application is used to capture the customer details and vehicle details, generating e-cover note and sending to customer’s mail and confirmation reference numbers will be sent as SMS to the customer mobile. It helps the insurance companies to automate the insurance policy generation for the vehicles. Application on Android device helps in capturing the customer details and sent to web server using Wi-Fi or GPRS facility. Web server will process the request and generate the policy e-cover note and send back to the device.
+
+
+
+Role:
+
+Involved in design and development of the Application (E-Cover note Generation). 
+
+Consumed the IIS Web service in Android environment and communicated with remote server. 
+
+
+
+
+
+PERSONAL INFORMATION
+
+
+
+Name   		 	 :  Swarag Prasad Uppuleti
+
+Languages Known	 :  English, Telugu, and Hindi
+
+Passport No		 :  L7402567
+
+Hobbies	   	 :  Playing Cricket, Reading Current affairs, Listening Music, Surfing Internet.	
+
+
+
+DECLARATION:
+
+	
+
+I hereby declare that the particulars mentioned above are true to the best of my knowledge.  
+
+                                                                                                                                           Swarag Prasad U.

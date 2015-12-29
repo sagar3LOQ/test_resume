@@ -1,0 +1,319 @@
+RAMA SASTRY JONNALAGADDA
+
+E-mail: ramasastryj@yahoo.co.in	
+
+Mobile: +91-9848018050
+
+Res: +9140 - 65986391
+
+Summary
+
+14 years experience in software industry.
+
+Excellent experience in Development/Maintenance (extensively Java, J2EE
+technologies) and Production Support projects. 
+
+Creative design, problem solving and analytical talents combined with
+development and management experience, structured functional skills and
+technology savvy.
+
+Functional expertise over Private Banking, Global Markets Operations &
+Consumer Banking lines of business.
+
+Possess good understanding of various financial products like Equities,
+Derivatives and Fixed Income etc
+
+Worked with major banking clients: Bank Of America, Wells Fargo,
+Citigroup Private Banking and American Express
+
+Thorough knowledge of SDLC Management, Process Management and good
+experience in People Management
+
+Proven multi-tasking capabilities with strong ability to plan prioritize
+and manage complex projects under aggressive timelines.
+
+Strong leadership talents, “team player”, attitude and spirits, and
+the natural ability to establish consensus among cross functional lines.
+
+Keen instincts to quickly effect change and improvement – with key
+expertise in visualizing, aligning organizational priorities to the
+teams and executing business process reengineering and development
+
+Managing multiple teams including strategic partners (TCS & Infosys) of
+size 25+ that support various applications with diversified technologies
+
+Managing Integrated Service delivery – Responsible for whole offshore
+delivery, Strategic Partner Governance
+
+Possess overseas (USA and Singapore) work experience. 
+
+Achievements 
+
+Global recognition awards (GOLD, Bronze) for excellence in performance
+at Bank Of America
+
+As part of Org Initiatives, performed EDGE Coordinator role. Drove
+knowlEDGE sharing sessions to Global Operations Technology teams across
+3 locations (Hyderabad, Mumbai & Chennai). 
+
+Recognitions in Cognizant Technologies Solutions and Polaris Software
+Lab for excellence in performance as technology specialist.
+
+Employment Chronicle
+
+Associated with BA Continuum India Pvt Ltd (A non Bank Subsidiary of
+Bank Of America), Hyderabad as Manager for ITS since September 2008
+
+Was associated with Cognizant Technologies Solutions India Pvt Ltd,
+Hyderabad as Senior Associate (Team Lead) between Jan’ 07 - Aug’ 08
+
+Was associated with Polaris Software Lab Limited, Hyderabad as Team Lead
+between Feb’ 04 - Dec’ 06
+
+Was associated with Exensys Software Solutions (Formerly known as Holool
+E-Business Private Limited), Hyderabad as Project Lead between June’
+01 - Feb’ 04
+
+Was associated with Citation Softech Ltd, Hyderabad as Software Engineer
+between May’ 2000 - May’ 01  
+
+Education
+
+Master of Computer Applications – 1999, Osmania University, Hyderabad
+
+Technical Competency
+
+Technologies	Java, J2EE, Webservices, Struts, Springs, Hibernate, JSF,
+XML, XMLBeans, Oracle, SQL Server
+
+Servers	WebLogic, WebSphere
+
+Configuration tool	MS VSS, PVCS, WinCvs, Perforce
+
+Production Monitoring Tools	Introscope, Splunk, Tealeaf
+
+Design Tools	IBM Rational Rose, MS-Visio
+
+Project Management Tools	MPP
+
+Projects & Experience Summary
+
+BA Continuum India Pvt Ltd (A non bank subsidiary of Bank Of America)   
+                     Sep’ 08 – Till Date
+
+Accomplishments
+
+Performed Tech Manager Role.
+
+Visited New York, USA for Knowledge Transfer, System Study, LoB
+Connects, Understand Processes, Collaboration with Strategic Partners at
+stateside etc
+
+Worked on Java, J2EE Development and Support projects (Level 3)
+
+Managed Integrated Service delivery – Responsible for whole offshore
+delivery.  
+
+Governance of offshore teams of size 25+ including Strategic Partners
+(TCS & Infosys) teams
+
+Managed synergies with India Operation’s users, LOB Partners, Cross
+Teams (Middleware, Midrange, Database etc), Strategic Partners (TCS &
+Infosys)
+
+Associate developments, performance appraisals, team mentoring etc 
+
+Client / LOB Communications, Dashboard, Reporting etc for project
+tracking and senior management updates
+
+Automations & Process Improvements
+
+Certified in ITIL V3
+
+Well recognized and rewarded GOLD, BRONZE Awards for excellence in
+performance.
+
+Projects	Client	Technologies	Role	Responsibilities
+
+Trade Processing Services (TPS)	Bank of America, U.S.A	JDK1.4, J2EE,
+Oracle 9i, Weblogic 8.1, Sun Solaris	Tech Manager	Involved in Coding,
+Code Reviews, Production Fixes etc
+
+Collaboration with Strategic Partners - Infosys
+
+Visited USA on a business trip for knowledge transfer, system study of
+Single Broker Dealer project, meetings with LoB teams
+
+Team mentoring, SDLC Management, Process Management
+
+Consolidated Data Repository (CDR)	Bank of America, U.S.A	JDK1.5, JMS,
+XmlBeans, SQL Server, Sun Solaris	Tech Manager	Provided
+architecture/design solutions, built Java packages,  
+
+Managed Java deliverables in CDR
+
+Team Mentoring, SDLC Management, Process Management
+
+Client Reference Data 
+
+(8 applications)	Bank of America, U.S.A	Maintenance & Support	Tech
+Manager	Managed the teams (Level 3) for Client Reference Data
+
+Manager-On-Duty (SPOC) for EMEA & APAC users for any user escalations,
+urgent queries etc.
+
+Incident/Problem Management
+
+Strategic partners Collaboration
+
+Reporting & Dashboard for project tracking and SLT Updates
+
+Online Banking	Bank of America, U.S.A	Maintenance & Support	Tech Manager
+Managed the teams (Level 3) for eCommerce Suite of Applications (Secure
+& Unsecure Applications)
+
+Integrated Service Delivery – Responsible for offshore Delivery
+
+Incident/Problem Management
+
+Reporting & Dashboard for project tracking and SLT Updates
+
+Project Descriptions
+
+Trade Processing Services 
+
+TPS is a common solution for publishing a trade data from a single
+source, centralized reference data and automated exception management
+etc. It has mainly three subsystems like, TFM – Trade Flow Manager,
+TMM – Trade Match Manager and TEM – Trade Exception Manager. TFM is
+crux of the TPS system. It provides an automated booking interface for
+Fixed Income products. It links the front office systems to the back
+office systems.  A variety of business units rely on TFM to correctly
+route trades from their front office systems to the appropriate back
+office system.
+
+Consolidated Data Repository
+
+CDR is a common platform to store Trade data, Security reference data,
+and Client data etc. The data is stored for downstream systems of CDR
+for further processing of trades settlements, reconciliation of trades,
+reporting etc. It has various interfaces with PME, ECN, ICI (IRep
+service), RDP, Oracle BUCS etc. Java interfaces are built for PME, ECN
+and IRep functions.
+
+Client Reference Data
+
+Client Reference Data (CRD) applications deal with setup of client
+accounts and the maintenance of the same. CRD is a suite of 8
+applications – NIGEL, NEWS, GDS, CSP, RDS Online, BookMap, IPS/GDI,
+and EDS Search. Out of these, NIGEL/NEWS/IPS applications are very
+critical for Operations Technology Line Of Business. It is mainly
+setting up of relationships between counterparties and linking them to
+accounts and profiles etc. These clients’ accounts data would
+eventually be flown to all trading applications to allocate the trades
+to corresponding accounts. These applications mainly fall into the scope
+of post sales and pre trade activities.
+
+Online Banking
+
+eCommerce L3 process is mainly a Level 3 function of Consumer & Small
+Banking Business (C&SBB). The function covers maintenance and support of
+authenticated and unauthenticated suite of applications of eCommerce
+business like Online Banking, Desktop Banking, Mobile Banking,
+BankAmeriDeals, DotCom etc.
+
+Scope of work :
+
+Incident Management - Restore Sev1/Sev2/Sev3 Issues, Triage Production
+Issues
+
+Problem Management – Root Cause Analysis, Provide Permanent
+Resolutions
+
+Release Support
+
+Proactive/Reactive/Investigative Monitoring
+
+
+
+Cognizant Technologies Solutions (CMM Level 5 company)                  
+                                         Jan’ 07 - Aug’ 08
+
+Accomplishments
+
+Performed Tech Lead Role. 
+
+Worked with few major clients - Wells Fargo Bank USA; American Express
+USA; Arbitron (Media Domain) USA
+
+Worked on all J2EE development - fixed bid projects. Took complete
+ownership in building the project from scratch
+
+Proposed and implemented architecture/design solutions for all
+development projects.
+
+Lead the team of size 12.
+
+Client Communications, Reporting etc 
+
+Received appreciation and recognition for CDF project in Wells Fargo
+
+Polaris Software Lab Limited (SEI CMMI Level 5 company)                 
+                                   Feb’ 04 - Dec’ 06
+
+Accomplishments
+
+Worked with Citigroup Private Banking, Singapore
+
+Worked in Singapore as Onsite Coordinator
+
+Gained knowledge in banking domain.
+
+Project Lead. Lead medium size teams (around 5 member team). 
+
+Project Description
+
+OASIS, (Credit Approval and Collateral Monitoring System)
+
+Citigroup Private Banking, Singapore
+
+Credit Approval and Collateral Monitoring System assesses and sanctions
+the credit applications of Citigroup Private Banking clients (High
+Net-worth Clients), offering customized credit avenues. The
+customization of loan categories, guarantors and collateral information
+is handled by Credit Approval System module of OASIS. The concentration
+of credit exposures against the collaterals and risks involved for bank
+at Country, Bank, Branch and Client levels are monitored by Collateral
+Monitoring System module. This module gives the risk information to
+Credit Head for periodical assessment and review of these clients.
+
+
+
+Exensys Software Solutions (Formerly known as Holool E-Business Pvt Ltd)
+                              June’ 01 - Feb’ 04
+
+Accomplishments
+
+Worked with Middle East Clients, Saudi Arabia and Commercial Taxes
+Department, Govt of Andhra Pradesh, India
+
+Gained knowledge in building J2EE applications.
+
+Project Lead. Lead medium size teams (around 2 member team).
+
+Citation Softech Limited                                                
+                                                    May’ 2000 - May’
+01  
+
+Accomplishments
+
+Learned Java and J2EE technologies. Worked on Small Java based
+applications
+
+Acquired Sun Certified Java Professional Certification from Sun
+Microsystems
+
+ PAGE   1  of 4   
+
+Rama Sastry Jonnalagadda  
+

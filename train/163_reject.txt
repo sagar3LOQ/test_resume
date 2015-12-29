@@ -1,0 +1,351 @@
+RESUME
+
+Khader Basha N                                                          Mobile : +91 9866924798
+
+Software Engineer                                           Email id : ak.khader25@gmail.com
+
+
+
+
+
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate                                              -  no                                                
+
+Spring                                                     -  2.8year & current                                               
+
+Web Services                                        -  2.8years                                                
+
+Core Java                                               -  2.8years
+
+Design Patterns                                    -   factory and factory 
+
+UML design                                           -    
+
+Build Tools (Maven/Ant)                    -    Maven
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+Weblogic/eclipse/sonar
+
+
+
+
+
+DB:oracle
+
+
+
+
+
+Khader Basha Software Professional
+
+ 
+
+			Having 2.8 years of experience in Software Analysis design and Development
+
+			Strong Object Oriented design skills
+
+			Experience working with Java language
+
+			Experience working with different J2EE technologies like JDBC, Servlets.
+
+			Having Good RDBMS and SQL knowledge using mysql
+
+			Experience working with frameworks Wicket, spring and Hibernate
+
+	Having experience in using the IDE Tools like Eclipse
+
+			Experience working with Maven Project Management Tool.
+
+			Experience working SOA Architecture, developed SOAP services and event handlers.
+
+			Having Good Communication skills, Creative thinking, Quick Learner and a Results Oriented approach
+
+			Having experience working on Agile development model.
+
+
+
+
+
+Application Development
+
+Design
+
+JAVA / J2EE
+
+Wicket
+
+Spring
+
+JDBC
+
+Maven
+
+JMS
+
+Jaxb
+
+Jenkins
+
+SOAP Services
+
+Agile
+
+
+
+
+
+Technical Skills
+
+
+
+Area
+
+Skills
+
+Special Skills
+
+Client interaction, Requirement Study and Design.
+
+Operating Systems	
+
+Windows7/XP/Vista
+
+Programming Languages
+
+Java, C
+
+Software/IDE
+
+Eclipse ¸Edit Plus, Note Pad++ 
+
+Databases
+
+Oracle 
+
+Project Management Tool
+
+Maven
+
+version control tool
+
+SVN. and Knowledge on Git
+
+Project development model and tools
+
+Agile methodology and version one
+
+Web Technologies
+
+Wicket , HTML
+
+Technologies worked
+
+Spring(exp on Spring IOC, Spring jdbc, Spring jms) ,  Jaxb (xml bindings),SOAP Services, JMS, HP Systinet, Log4j, continuous integration (CI)
+
+Testing
+
+Junit, Testng, mocikto, dbunit  
+
+
+
+
+
+
+
+
+
+
+
+
+
+Education Details
+
+
+
+  
+
+ University / College / School
+
+Specialization
+
+Aggregate
+
+Deccan College of Engineering & Technology (Osmania University)
+
+Electronics & Communication Engineering
+
+	73.90%
+
+Sri Chaitanya Jr College,Tirupathi
+
+MPC
+
+	96.50%
+
+Sri Sarada High School
+
+SSC
+
+	90.20%
+
+
+
+
+
+
+
+Employment Details
+
+
+
+
+
+Name of the Company
+
+Designation
+
+Duration 
+
+
+
+Prokarma Softech Pvt Ltd
+
+
+
+Software Engineer
+
+	April  2012 to till date
+
+
+
+
+
+Project Title	
+
+Train
+
+Client
+
+Union Pacific Railway Roads (UPRR),USA.
+
+Duration
+
+Sep 2012 to till date
+
+Location
+
+Hyderabad, India
+
+Role
+
+Team Member
+
+Operating Systems
+
+Windows XP,Windows7
+
+Tools
+
+Apache Wicket, HTML, Java Script, Spring, XML Data binding technologies (JAXB, XMLBeans), Core Java, JMS, SOAP Services,  Junit, Maven 2, HP Systinet
+
+SDE 
+
+Eclipse Indigo
+
+
+
+
+
+Roles & Responsibilities:
+
+As a Developer  includes:
+
+
+
+Requirement analysis & Gathering from the Client.
+
+Creating Daos for fetching and updating data from/to database
+
+Implementing the SOAP services as per the business requirements.
+
+Creating Client Side Web Pages for displaying 
+
+Creation of several test cases and performing Unit and Integration testing of the installed business functionalities to minimize the defect. 
+
+Releasing the projects and handling the deployments
+
+Defect and Issue analysis using Sonar
+
+
+
+Description:  It is part of the NetControl Project. TCS is the legacy system of client which is going to be replaced by NetControl. . 
+
+Train represents domain functionality; it consists of several feature groups that would be implemented. The main functionalities that are completed and I worked are
+
+Activate Train:  I developed UI page and an event processor to notify to user upon failure of train activation in TCS. It is in production now.
+
+Update Train Comments:  I have designed search train comments page for this UI and it is successfully deployed to prod.
+
+Determine Template Schedule : Took end to end responsibility to develop this UI application and it is successfully deployed to prod.
+
+ Train Sheet Handler for Foreign Trains
+
+Update Train Attributes: One of the developer to develop this web application now it is in production. 
+
+Train service update-route-location-anticipated-pickup-and-setout :  I have developed this SOAP service, though which we can update the pickup and setout information at a particular location in the Train Route.
+
+Find-train-links service :  I have developed this SOAP service to know the links of a train at a particular location in Train route.
+
+
+
+
+
+
+
+Personal Details
+
+
+
+Date of Birth
+
+13 July1988
+
+Sex
+
+Male
+
+Nationality
+
+Indian
+
+Marital Status
+
+Single
+
+Languages Known
+
+English, Hindi, Telugu
+
+ Address
+
+Samata Colony Tolichowki,
+
+Hyderabad.
+
+
+
+
+
+         
+
+
+
+
+
+     I hereby declare that the information furnished above is true to the best of my knowledge.
+
+                                                                                                   (Khader Basha)

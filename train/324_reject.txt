@@ -1,0 +1,320 @@
+MANGESH PATHAK
+
+Email ID:   HYPERLINK "mailto:mangeshpathak963@gmail.com"
+mangeshpathak963@gmail.com 
+
+Contact Number: +918983033618
+
+Career Objective :
+
+To pursue a career in an organization that offers continuous learning,
+good career growth and opportunities to upgrade while being resourceful
+and innovative. 
+
+Willing to work as a key player in challenging & creative environment.
+
+Career Summary :
+
+3+ years of work experience in analysis, design & development of
+applications using Java and J2EE. 
+
+2.5+ year of experience in development with J2EE  frameworks such as
+Spring, Hibernate, JPA and Servlet.
+
+Experience in using PostgreSQL and MySQL relational databases.
+
+Experience with web services and REST, XML and JSON. 
+
+Experience in Shell Scripting & C language. 
+
+Experience in development on Windows and Linux Operating System.
+
+Familiar with Data Structures and Design Patterns
+
+Very good experience and understanding of Networking, Network topology,
+Network Security(Network access Control) and networking protocol.
+
+Experience in  Java Development tools such as Eclipse, Tomcat, JPA
+Tools.
+
+Experience on tools such as CVS, Git, Bitbucket, Jira and Bugzilla.
+
+Familiar with web development languages such as PHP, JavaScript,
+AngularJS, HTML, JQuery & AJAX. 
+
+Technical Skills :
+
+Programming:                       Java, C, Data structures and Design
+patterns.
+
+Java Frameworks:                   Spring, Hibernate, JPA, Servlet. 
+
+Scripting:	                      Shell Scripting.
+
+Operating Systems:                 Linux, Windows.
+
+Databases:	                      MySQL, PostgreSQL
+
+Web Services: 	                      HTML, PHP, JavaScript, JQuery,
+Ajax, CSS.
+
+Networking protocols:         TCP/IP.
+
+Tools: 		                      Eclipse, Tomcat,  Git, Bitbucket, Jira,
+CVS, Bugzilla, Maven.
+
+Total Work Experience :  3.0 years.
+
+Nevis Networks India PVT LTD
+
+Senior Software Engineer 						         (26/11/2012- Till Present)
+
+Projects:
+
+Design and Develop Custom application on top of Network Monitoring
+Tool(NMS) for client to automate its configure its network devices and
+health monitoring:
+
+To design and develop custom application on the top NMS which should be
+able to provision new network devices into system, should be able to
+configure devices for various configuration supported from provided GUI.
+
+
+The system should provide GUI and REST API support for user's various
+day to day operations.
+
+The system should then configure devices as per the entered data by the
+user. 
+
+The system should be analyze data, evaluate cost for each link for
+billing.
+
+The system should monitor devices health and reconfigure traffic if it
+finds any issue and alert admin about the action taken.
+
+The system should interact with client's system using REST API's.
+
+Role & Contribution
+
+Understand device configuration that is pushed on devices and design GUI
+screens for required user input. 
+
+Design different backend modules required for configuration, database
+access, alerts, analytics, logs.
+
+Design database schema, GUI modules, REST API, and common framework.
+
+Create project plan, mentor team members, help them in solving complex
+problems.
+
+Create a test plan, code review, build process and deployment process.
+
+Skills: Ansible, MySQL, Shell Script, PHP.  
+
+Design and Develop Multi-Tenant Cloud Based Network Monitoring Tool
+
+Design and implement framework which will calculate network performance,
+find any network issues, should able to find network path to the
+destination and generate result for each case. These result is uploaded
+on cloud server, processed and store in database. 
+
+This framework will run on device called as sensor which can be plugged
+into customer network.
+
+Provide web interface to user for configuring framework, to view
+results, to see network performance and alarms raised if any. 
+
+	Role & Contribution:
+
+Designed & implemented Multi-tenant system using Spring Framework &
+Java.
+
+Designed & implemented framework which will monitor network, upload
+result on server automatically update itself if new version in
+available.  
+
+Designed database schema to support Multi-tenant system 
+
+Implemented web interfaces to allow server-sensor communication. This
+web interfaces are responsible for result processing, configuration and
+updates.
+
+Implemented REST API for communicating for processing GUI requests 
+
+Co-ordinate with GUI team for any issues, clarification, debugging and
+solving API problems. 
+
+	Skills: Java Spring 4, JPA, Hibernate, Servlets, JDBC, MySQL, Shell
+Scripting, AngularJS, 
+
+Development of next generation LANenforcer Security Appliance (LE) on
+CAVIUM
+
+platform:
+
+Develop and port existing LE software on to Cavium Platform.
+
+Migrate LE's database from Relex Database to PostgreSQL Database and
+implement interface for executing SQL queries on PostgreSQL server.
+
+Port Apache web server,  PHP, PostgreSQL on Cavium Platform.
+
+Add Next Generation LE Support in LANsight Security appliance. 
+
+Role & Contribution:
+
+Have Ported PostgreSQL, Apache, PHP for Cavium Platform.
+
+Implemented PostgreSQL C Library API's to execute SQL Queries. 
+
+Have understood & modified existing code to support PostgreSQL API with
+minimal code changes.
+
+Provided scripts to start database, to create schema, to do database
+backup, restore default database, to upgrade database and database
+related existing commands. 
+
+Modified LANsight software to support Next Generation LE. 
+
+Skills: C, JAVA, PostgresSQL, Shell Script, GCC.
+
+Run LANsight Security Management Appliance platform (LS) on 64 bit
+Linux:
+
+Run LS Software on 64 bit Fedora Linux to support newer Hardware.
+
+Change LS build process, LS Installation and LS upgrade process to
+support 64 bit LS.
+
+Role & Contribution:
+
+Identified required 	dependencies to start LS on 64 bit Linux.
+
+Changed LS installation process to install these dependencies before
+installing actual LS .
+
+Updated LS upgrade process to upgrade LS depending upon LS hardware.
+
+Changed build process to include 64 bit LS dependencies in final build.
+
+Have ported code so that ported code should run on 32 & 64 bit platform.
+
+Skills: Shell script, Linux, ANT, Apache
+
+Develop Link and Bandwidth Monitoring feature on LANsight Security
+Management Appliance (LS):
+
+Monitor user configured links and notify admin about link status if any
+link is down.
+
+Generate link statistic reports of link downtime & graphs of link
+performance. 
+
+Periodically monitor, plot graph, bandwidth usage of  users, subnets,
+per switch interface input/output traffic.
+
+Role & Contribution:
+
+Provided GUI for user to configure links to be monitored. 
+
+Written shell script o periodically monitor links, report admin in case
+of link failure and save result onto disk. Generate downtime reports and
+link statistic graph based on result using RRDTool.
+
+Written shell scripts to calculate per user, subnet traffic and to
+generate graphs based on data using RRDTool.
+
+Written shell scripts to get Switch interface traffic statistic using
+SNMP and plot graphs using RRDTool.
+
+Skills: MySQL, PostgresSQL, RRDTool, Shell script, PHP, HTML,
+JavaScript, JQuery.
+
+Additional features development for LANsight Security Management
+Appliance (LS):
+
+Development of BYOD (Bring-Your-Own-Devices) on LANsight Security
+Management Appliance (LS)
+
+Adding inventory management support in LS
+
+Custom Anti-Virus signature update.
+
+Adding SMS Support in LANsight Security Management Appliance (LS)
+
+Added feature to generate automatic compliance report and send to admin.
+
+Other Works:
+
+Supporting Technical associate support team for customer issues related
+to LANsight Security Management Appliance (LS)
+
+To give LANsight installation support for PoC (proof-of-Concept)
+
+Managing build & releases of software.
+
+As Freelancer (January 2012- September 2012).
+
+Projects:-
+
+Develop website for Appadoc company(Hospital Patient Management System):
+
+Job involves developing website.
+
+Job involves developing Sign-in/Signup functionality for practice &
+patient.
+
+Job involves developing landing page after Sign-in which includes 5
+tabs.
+
+Used MVC style coding for developing all the pages.
+
+Used Yii framework. 
+
+Job involves writing test cases & report for the functionality provided.
+
+Skills: HTML, PHP, Ajax, JavaScript, CSS, MySQL database, Yii framework.
+
+Develop website for Premier-Timberland:
+
+Job involves developing a website for Company (   HYPERLINK
+"http://www.premiertimberland.com"  www.premiertimberland.com  ).
+
+Job involves providing content management system (CMS).
+
+Used TinyMCE to edit html pages for admin persons. 
+
+Job involves providing different functionalities for adding,
+editing/deleting properties, staff, managing social icons, activating &
+deactivating properties and other.
+
+Job involves writing test cases & report for the functionality provided.
+
+Skills: HTML, PHP, Ajax, JavaScript, CSS, MySQL database.
+
+Education :
+
+B.E. in Electronics & Telecommunication	
+
+	University of Pune(2011)
+
+	Marks 63.00%
+
+ 
+
+H.S.C
+
+	Maharashtra State Board, Pune(2007)	
+
+	Marks 62.50%
+
+S.S.C.	
+
+	Maharashtra State Board, Pune(2005)
+
+	Marks 76.40%
+
+ Academic Project :
+
+Surveillance Robot Using Micro-Controller
+

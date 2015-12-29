@@ -1,0 +1,487 @@
+RESUME
+
+		SANTHOSHKUMAR GADIPELLY	                                                   Mobile:(91) - 9866312212
+
+		ASSOCIATE TECHNICAL LEAD                                                                             (91) - 9848041552
+
+		
+
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate                      -  1year
+
+Spring                             -  1.5 year & current                                                
+
+Web Services            -  only consuming                                              
+
+Core Java                        -  8 year
+
+Design Patterns                  -   singleton
+
+UML design                                    -    aware
+
+Build Tools (Maven/Ant)                    -    gradel   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+Eclipse,code colaborators,weblogic,websphere
+
+
+
+
+
+Ok for bitchemy
+
+
+
+E-mail:gskchary@gmail.com	
+
+EXPERIENCE SUMMARY		
+
+Have 6+ years of overall IT experience in Design, Development of Enterprise applications and Web-Application using Java/J2EE/AdobeFlex/AS3 strong problem solving and Programming skills
+
+	  
+
+Have 4+ years of experience in Design, Development of Enterprise applications and Web-Application using JAVA/J2EE strong problem solving and Programming skill
+
+
+
+Have 3+ years of Programming and UI-Designing Experience in Adobe Flex 3 and programming Experience  with Action Script 3.0
+
+ 
+
+Programming experience in JAVA, J2EE, specializing in web development using Servlets, JSP, JDBC, Beans, Struts, HTML and Oracle/ Mysql / PostgresSQL 
+
+
+
+Programming experience in Struts 1.3, Spring 3.0 with Hibernate 3.0
+
+
+
+Programming experience in Java Script, ExtJS and Ajax  Knowledge on Angular JS
+
+
+
+Experience with applying design patterns in Flex and Java also Familiar with Flex architectural frame works Cairngorm, swiz and PureMVC
+
+
+
+Experience in back – end programming with ORM concepts Experience in Hibernate
+
+
+
+Experience in back-end programming using Oracle,MSSQL-2008 and MY SQL 5.0.3.
+
+
+
+Proficient in RDBMS design and programming experience using JDBC, SQL and PL/SQL.
+
+
+
+Well versed in Project Responsibilities such as Planning, Designing, Coding and Implementation.
+
+
+
+Highly motivated, willing to work independently and in a team environment
+
+		
+
+WORK EXPERIENCE: 
+
+
+
+Working as “Associate Technical Lead” for Prokarma Softech Pvt.Ltd Hyderabad from Jan 16th  2013 to Till Date
+
+
+
+Worked as “Sr. Software Engineer” for CA Technologies Hyderabad from Feb 8th  2012 to 10th Jan 2013
+
+
+
+Worked as “Software Engineer” for VDSI (Verizon Data Service India) Pvt.Ltd Hyderabad from Nov 13th 2009 to Dec 24th 2011
+
+
+
+Worked as “Project Associate” for Zeta Interactive Systems India, Hyderabad from Nov 3rd 2008 to Oct 30th 2009
+
+
+
+
+
+
+
+EDUCATIONAL PROFILE:
+
+
+
+MASTER IN TECHNOLOGY(M-TECH)(PURSUING) FROM JNTU,HYDERABAD 
+
+
+
+MASTER OF COMPUTER APPLICATION FROM IASE DEEMED UNIVERSITY.
+
+
+
+P.G.D.C.A at   AT-TECHNOLOGY   approved by DRD 
+
+
+
+BACHELOR OF SCIENCE (B.Z.C) at KAKATIYA UNIVERSITY 
+
+
+
+TECHNICAL SKILLS	
+
+Operating Systems	           		: Windows Family, Linux (Red-hot)
+
+Java Technologies                           	: J2SE(Core and Advance) and J2EE
+
+Web application		               : Adobe Flex(3.0, 3.5 and 4.5), Action Script 3.0 
+
+Java/J2EE Frame works		: Struts 1.3, Spring 3.0, Hibernate 3.0
+
+Flex Frame works			: Cairngorm, Swiz and PureMVC
+
+UI Scripts				: ExtJS,AngularJS
+
+Internet Technologies 		: XML, HTML, DHTML, Ajax, JavaScript, CSS
+
+Rdbms				: Oracle 9i, MS-SQL, PostgresSQL
+
+Programming Languages		: SQL, PL/SQL,	
+
+Web/Application Servers       	: Web Logic, Tomcat and Web sphere
+
+Control Tools			: CVS, SVN	
+
+Project Management, Build tools	: JIRA, Bamboo  
+
+
+
+Current Company Profile: PROKARMA SOFTECH PVT.LTD (HDYERABAD)
+
+ProKarma is a global IT solutions company trusted by customers and valued by employees. From design and development to testing and integration, we provide customized IT solutions that will change the way you do business.
+
+
+
+ProKarma is proud to support organizations working to strengthen our communities. Our teams across the U.S., India and Argentina demonstrate energy, enthusiasm and passion for making a difference in the lives of others. Through individual giving, group volunteer efforts and corporate matching, we find new ways to contribute to the communities in which we live and work, as well as to people and causes in need of support.
+
+
+
+Project:
+
+
+
+Title                                  		: LEAPI10,CA
+
+Technology				: Core Java/J2EE,Flex 3, Hibernate,MSSQL 
+
+Client			         	: HLI(Health language Inc), Wolters Kluwer
+
+Duration                            		: Jan-2013 to 30th May 2014. 
+
+Team Size                          		: 5.
+
+Role                                   		: Sr.Developer in a Team till Jan’14 after onwards
+
+  Associate Technical Lead   
+
+
+
+Description: - Effectively navigating the industry’s mammoth ICD-10 transition requires a level of advanced analytics processes and mapping strategies that many healthcare organizations are not prepared to address,” said Brian McDonald, Vice President, Health Language, Wolters Kluwer Health, Clinical Solutions. “Health Language provides the foundation needed to effectively address numerous initiatives amid an increasingly demanding regulatory environment, as well as position organizations for the future of health information exchange
+
+
+
+Responsibilities:
+
+	
+
+	Designed UI Components and UI development
+
+	Working closely with client and gathering the information for upcoming sprints
+
+	Designing the work flow for the requirements and working with management tools called JIRA 
+
+Update the project and development status to client on regular basis.
+
+Giving the development estimations for prepared sprint by scrum master
+
+	Distribute the work to the team and understand the team needs to respond to accordingly.
+
+
+
+Privious Company Profile: CA TECHNOLOGIES (HDYERABAD)
+
+CA World is the IT Management conference to attend, where you’ll see, hear and learn about inspiring stories of IT and business transformation. Find out how they got there, and learn how you can do the same.CA World gives you unprecedented access to preview innovative technologies, meet with our leadership team, developers and architects, and connect with thousands of industry experts. Choose from hundreds of deep technical sessions, participate in hands-on labs, and engage with partners to learn about complementary solutions.
+
+
+
+Project:
+
+
+
+Title                                  			: Sales Reporting Tool
+
+Technology				: Core Java/J2EE,Flex 3, Mysql 5.0 
+
+Client			          		: CA Technologies
+
+Duration                            		: Fed-2012 to 10th Jan 2013. 
+
+Team Size                          		: 3.
+
+Role                                   			: Sr.Developer in a Team
+
+
+
+Description: - Sales Reporting Tool is a Reporting application. This tool has 3 modules 
+
+Management Module, Marketing Module, Operations Module 
+
+	
+
+	Responsibilities:
+
+	
+
+	Designed UI Components for Purchase Module
+
+	UI (Client side Coding) for Purchase Module and Receipt Module
+
+	Server Side Coding for Purchase Module
+
+Basic Implementation for Hibernate Configuration file
+
+
+
+Previous Company Profile: VDSI PVT.LTD (HYDERABAD)
+
+Verizon is a global leader in delivering innovative communications, information and entertainment. We offer voice, data and video products and services over intelligent wireless, broadband and global IP networks that meet customers' growing demand for speed, mobility, security and control. As a committed corporate citizen, we use our advanced communications services to address important issues confronting our society.
+
+
+
+Project in VDSI:
+
+
+
+Title 	                                 		: Wholesale Pricing
+
+Technology				: Core Java/J2EE,Flex 3,Hibernate3.0, Oracle 9i 
+
+Client			          		: Verizon Telecommunications
+
+Duration                            		: june-2010 to Nov 2011. 
+
+Team Size                          		: 16.
+
+Role                                   			: Developer in a Team
+
+
+
+Description: - Description: Wholesale Pricing is a online Telemarketing application. Wholesale Pricing is theresponsible to handle taking the order from customers based on the Selected Product. Wholesale pricing having different products 1.EPL 2.EPVL 3.Ethernet access This application developed for internal and external. Internal application for exposing for Verizon telecommunications and external application for exposing for clients Based on the product billing option will give to client
+
+
+
+	Responsibilities:
+
+	
+
+Designed UI Components for Admin Module
+
+UI (Client side Coding) for Admin Module and EVPL Module
+
+Server Side Coding for EVPL Module
+
+Designed UI Components for EPL
+
+
+
+Project in VDSI :
+
+
+
+Title             	                     		: SM (Signal Manager or Signal Portal)
+
+Technology				: Core Java/J2EE, Hibernate3.0, Oracle 9i 
+
+Client			          		: Verizon Telecommunications
+
+Duration                            		: Dec-2009 to May - 2010. 
+
+Team Size                          		: 16.
+
+Role                                   			: Developer in a Team
+
+
+
+Description: - Signal Manager is a logistic application. SM is the responsible to handle taking the order from 3PL and from direct clients. SM application having 4 modules 
+
+1. Ordering 2. Sales 3. Receipt 4. Purchasing. Sales and Purchasing are having internal relationship. Every Purchase having internally Sales Order. This application interacts with Oracle ERP. SM finds the problem if any Purchase or Sales fails. And every 30 days SM autosys jobs inactive the Orders
+
+	
+
+	Responsibilities:
+
+	
+
+	Designed UI Components for Purchase Module
+
+	UI (Client side Coding) for Purchase Module and Receipt Module
+
+	Server Side Coding for Purchase Module
+
+Basic Implementation for Hibernate Configuration file
+
+
+
+Previous Company Profile:
+
+Zeta Interactive Systems India was newly formed in 2007 through an acquisition by Zustek Corporation, a leading provider of email marketing communications solutions, of Adverb Media, an award-winning interactive marketing, technology, and services agency. Adverb Media was comprised of Digital Grit, a direct response and search marketing firm, Temel, a brand strategy and creative agency founded in 1990, and Zeta Relevant Noise, a technology firm dedicated to mining the social Internet for business intelligence.
+
+
+
+At Zeta Interactive, we take a holistic, integrated approach to build enduring relationships between our clients and their customers. Rather than an isolated service provider, we see ourselves as business partners and strategists focused on meeting and exceeding our customers' objectives by crafting integrated solutions that leverage our diverse experiences in all areas of marketing to generate leads, acquire customers, build brands, and drive sales.
+
+
+
+Project 1: 
+
+
+
+Title                                  		: Zeta Toolbox [Search-Engine-Optimization].
+
+UI - Technology		          	: Adobe Flex 3, Action Script 3.0
+
+Server Side Technology		: Core Java/J2EE, Hibernate3.0RHEL 4.x/5.x 
+
+Backend Technology		: Oracle 9i and Mysql 5.1.1
+
+Client			          	: FS
+
+Duration                            	: Aug-2009 to 30th Oct 2009. 
+
+Team Size                          	: 6.
+
+Role                                   		: Developer in a Team
+
+
+
+Description: - Zeta Toolbox ™ is an Search-Engine-Optimization product which enables clients to optimize their websites to improve their quality in internet marketing 
+
+This product produce 5 types of reports for Client keyword ranking Details, pageRecom mendation, Seb reports, adtext, Backlink Reports
+
+	
+
+	Responsibilities:
+
+	
+
+	Developer Based on Module leader request
+
+	Designed UI Components for Admin Module
+
+	UI (Client side Coding) for Admin Module and Report Module
+
+	Server Side Coding for Admin Module
+
+	Basic Implementation for Hibernate Configuration file 
+
+
+
+Project#2
+
+
+
+Title                                  		: Zeta Mail V.5.0.1
+
+UI - Technology		          	: Adobe Flex 3, Action Script 3.0
+
+Server Side Technology		: CoreJava/J2EE,Hibernate3.0,RHEL (Linux)4.x/5.x 
+
+Backend Technology			: Oracle 9i and Mysql 5.1.1
+
+Duration                            		: 8 months 
+
+Team Size                          		: 15.
+
+Role                                   		: Developer in a Team
+
+
+
+Description: - Zeta Mail™ is an email marketing product which enables clients to send millions of emails to customers at regular intervals of time. Zeta Mail™ is a high-performance email marketing software package designed to allow businesses to take advantage of email as a marketing medium. Through this premier product, our solutions allow targeted email campaigns to be created quickly by the marketer. Zeta Mail™ was designed with one prevailing thought: to minimize the amount of time required by organizations to manage outbound email campaigns and analysis. It has uniquely delivered on this proposition while not compromising the features, functionality and flexibility found in packages that can cost considerably more. The 
+
+
+
+Existing product which is designed in struts and other technologies in being upgraded to Adobe Flex Where the UI for the application is designed by Synergy System The current module in which I am Involved is Report Manager, Campaign Summary Report for generating various Reports dynamically.
+
+
+
+Zeta Mail 5.0 is a mass-emailing product that is backed by rock solid email engine; Powered by the default backend MySql server, Zeta Mail 5.0 attains amazing speed for mail delivery. It is diversified into 4 major parts like:-
+
+
+
+Campaign Management System(CMS):- It Consists of 3 Java Engines namely List Processor(LP), Publisher(PUB), Business Rule Processor(BRP) Which Will be running Continuously. List Processor’s main task is to Process lists which consist of profile attributes as records (email, first name, last name, age, etc…).Then we’ll map some Content to lists generated and make it as a Campaign and Publish them according to the Business rules assigned in Business Rule Processor (BRP).
+
+
+
+Blaster Services: - It is developed with C, mainly it‘ll schedules the tasks to blast the published campaigns. It’ll Blast the Campaigns through MTA’s.
+
+
+
+Response Tracking: - It mainly Concerns with Accountability in Response Tracking like (Opens/Clicks/Surveys/Viral/Unsubs).
+
+
+
+	Responsibilities:
+
+	
+
+	Designed UI Components for DataManager Module
+
+	UI (Client side Coding) for DataManager Module and Report Module
+
+	JSO & Server Side coding for DataManager Module
+
+Basic Implemetaion for Hibernate Configuration file        
+
+
+
+
+
+	Developer Based on Module leader request
+
+                                       
+
+Personal Profile
+
+
+
+
+
+
+
+
+
+Gender	:	 		 		Male
+
+Marital Status	:		 		Married
+
+Nationality:    			 		Indian
+
+	Address:                                 			H.No: 8-1-284/0U/521/1,
+
+	                                              			OU Colony,Shaikpet,
+
+	                                              			Hyderabad- 500032
+
+		
+
+
+
+
+
+
+
+                     		           					             SanthoshKumar.G

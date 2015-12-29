@@ -1,0 +1,325 @@
+Praveen Kumar  G
+
+Email : praveen.celestial@gmail.com
+
+ph:     (091) 9885364330
+
+Professional Summary
+
+I have 6 years IT experience in Development of enterprise applications
+using Java, JEE technologies. Very good Experience in HR Domain.
+Expertise in Benefits, Accruals and Recruiting spread across product
+development.
+
+Good expertise in developing Enterprise applications using Core Java and
+J2EE. 
+
+Excellent rapport with Clients.  
+
+I am a very good team player who can mingle with everyone and adapt
+quickly to changing environments. 
+
+Well versed with Agile Methodologies to execute projects.  
+
+Expertise in writing Algorithms using proper Data Structures.
+
+Fair knowledge on Data Science and Machine Learning Algorithms.
+
+Like predictive, descriptive algorithms, classification problems and
+outlier detections.
+
+Knowledge on R language.
+
+Fair knowledge on MultiThreading . 
+
+Good expertise in developing web applications using open source
+framework – Spring IOC and JDBC modules.
+
+Well versed with RDBMS -SQL Server 2005/2008
+
+Hands on PL/SQL. and knowledge on Object Relational Mapping (ORM) tools
+like Hibernate. 
+
+Well versed in developing Front End Screens using JSP, HTML, CSS,
+JavaScript, Jquery.
+
+Very good debugging skills.
+
+Fair Knowledge on usage of Design Patterns. 
+
+Usage of TDD and Functional style of Programming. 
+
+Achievements:
+
+Out Performer for the team   for  two years in a row.
+
+ 
+
+Educational Qualifications:
+
+B. Tech(Mechanical)  from NIT kurukshetra, Haryana with Hons(73%). 
+
+GATE   95% in 4th Year  and  91% IN  B. Tech 3rd year.
+
+EAMCET 1673 Rank.
+
+10+2  passed with   93%
+
+10Th Passed with      91 %(State 10th Rank marks)
+
+Professional Experience
+
+Organization	Designation	Duration 
+
+Accolite Software India Pvt Ltd
+
+(Formerly known as Nuview Systems )	Tech Lead	 Jan 2011 to  till
+date(With 3 months gap)
+
+
+
+Organization	Designation	Duration 
+
+Worked as Free Lancer
+
+ July 2009  to 2011
+
+
+
+Organization	Designation	Duration 
+
+with DSCL Energy Services Company	Project Analyst	 July 2004  to 2005
+
+
+
+Technical Skills
+
+Projects Profiles:
+
+Operating Systems	Microsoft Windows, Knowledge of Linux 
+
+Languages and related 
+
+Information	Core JAVA, JEE , Hadoop 1.x ,Map Reduce programmes,
+
+
+
+Databases 	SQL Sever 2008/2012 ,oracle, PL/SQL,
+
+Pig ,Hive ,HBase tools and their languages
+
+Web Related	Servlets, JSP, HTML, CSS, Java Script, Ajax, Jquery, XSLT
+
+Frameworks	Spring 3.0 IOC,JDBC modules, Hibernate 3.6, 
+
+Application Servers	Tomcat  
+
+Web Servers	Tomcat ,IIS
+
+Version Control	SVN ,CVS
+
+Tools & Utilities	Eclipse , Visual Studio 2010, Microsoft SQL server
+management Studio, Netsuite ,Jira ,QC, Confluence
+
+Build tools	Ant
+
+
+
+Project Nature	Development
+
+Client 	New Product Development
+
+Role	SSDE
+
+Duration	6 months and continuing
+
+Team Size	6
+
+Environment
+
+(with skill versions)	Languages: 	Java, J2EE (Java 1.6) , Joda-Time api
+
+	Tools:	SVN, Sql server management studio,Eclipse
+
+	O/S:	Windows 7
+
+	Database :	SQL Server 2008/2012
+
+ 
+
+Project Description 
+
+This accrual module deals with all the leaves and payroll related stuff
+of the employees. Carry forwarding of previous balances based on several
+rules and sending necessary information to payroll processing.
+
+ 
+
+Contribution
+
+Involved in various phases since its inception - requirements gathering,
+design, implementation, and unit testing and Maintenance.
+
+ 
+
+Project Nature	Development(Customization)
+
+Client 	Silver Lake
+
+Role	SSDE
+
+Duration	6 months
+
+Team Size	6
+
+Environment
+
+(with skill versions)	Languages: 	Java, J2EE (Java 1.6) 
+
+	Tools:	SVN, Sql server management studio,Eclipse
+
+	O/S:	Windows 7
+
+	Database :	SQL Server 2008/2012
+
+
+
+Project Description 
+
+The requirement is to create clients employees time logging across
+multiple countries and be able to use different rules for different
+localities for calculating the overtime   and sending the data in
+different formats to different payroll vendors . 
+
+Contribution
+
+Involved in various phases since its inception - requirements gathering,
+design, implementation, and unit testing and Maintenance.
+
+Worked at Client location to perform all the customizations and
+configuration, deployment and maintenance.
+
+Project Nature	Data Migration
+
+Client 	Heinken
+
+Role	SSDE
+
+Duration	3 months
+
+Team Size	5
+
+Environment
+
+(with skill versions)	Languages: 	Java, J2EE (Java 1.6)
+
+	Tools:	SVN, Sql server management studio,Eclipse
+
+	O/S:	Windows 7
+
+	Database :	SQLServer 2008/2012
+
+Project Description 
+
+This involves migration of client data from existing version of HR
+product to newer versions. The challenges are data consistency,
+compatibility of business services in newer environments, tight
+schedules. 
+
+Contribution
+
+ 
+
+Involved in various phases since its inception - requirements gathering,
+design, implementation, and unit testing and Maintenance.
+
+Involved in creating scripts to migrate data and merging all the
+previous customizations. 
+
+Project Nature	Data Migration
+
+Client 	D.E. SHAW
+
+Role	SSDE
+
+Duration	6 months
+
+Team Size	5
+
+Environment
+
+(with skill versions)	Languages: 	Java, J2EE (Java 1.6) 
+
+	Tools:	SVN, Sql server management studio,,Eclipse
+
+	O/S:	Windows 7
+
+	Database :	SQLServer 2008/2012
+
+
+
+Project Description 
+
+This involves migration of client data from existing version of HR
+product to newer versions. The challenges are data consistency,
+compatibility of business services in newer environments, tight
+schedules. 
+
+Contribution
+
+Involved in various phases since its inception - requirements gathering,
+design, implementation, and unit testing and Maintenance.
+
+Worked at Client location to perform all the customizations and
+configuration, deployment and maintenance.
+
+Project Nature	Maintanance and Configuration
+
+Client 	NuView HR
+
+Role	SSDE
+
+Duration	12 months
+
+Team Size	8
+
+Environment
+
+(with skill versions)	Languages: 	Java, J2EE (Java 1.6) 
+
+	Tools:	SVN, Sql server management studio,Eclipse
+
+	O/S:	Windows 7
+
+	Database :	SQL Server 2008/2012
+
+
+
+Project Description 
+
+This involves client interactions and working under very tight SLAs and
+managing work in rapidly changing priorities and working with clients in
+their timings like US and UK timings.
+
+ 
+
+Contribution
+
+Worked as key resource for managing all the client interactions at
+critical times and resolving the issues in record times and suggesting
+clients to use best possible ways to use the product for best
+performance and results.
+
+Achieved accolades from all corners of the company and clients to assist
+them in a manner which is mutually beneficiary.
+
+Declaration
+
+I vouch for the authenticity of the above-mentioned facts.
+
+  Praveen Kumar Gunda
+
+ PAGE   
+
+ PAGE   6 
+

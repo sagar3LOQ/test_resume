@@ -1,0 +1,688 @@
+Sudheer Y
+
+                                                                        
+               
+
+Current Role/Designation: Java Technical Lead.		E-Mail:
+y_patro@yahoo.com
+
+Core Technology: Java/J2EE					Contact: 9618375376
+
+. 
+
+Professional Highlights 
+
+10+ Years of IT Experience in various phases of SDLC including Proposal
+Preparation, quoting for international projects,  Project Estimation,
+Design Specification, Resource Planning , Development, Customization,
+Integration Testing, Implementation, Multi Level of support, User
+Training and Documentation. 
+
+Designed, Developed and managed applications for different domains like
+Supply Chain Management, Benchmarking and Financial and others using
+Java/J2EE and other technologies.
+
+Expertise in Java, EJB JSP, Servlets, Dhtml, GWT, Springs, Ibatis and
+Vignette Application Portal(CMS). Experienced in J2EE based Middleware
+applications and products.
+
+Confident in Benchmark Analytics, Forecast Analytics and other tool
+research. Knowledge in data warehousing tools.
+
+Customer relationship management including handling multiple portfolios,
+interacting with multiple stake holders.
+
+People management including staffing, issue resolution, team dynamics,
+aspirations (team size ranging from 5 to 20+)
+
+Strong experience in staging and Production auto deployment process. 
+Good knowledge in cluster environment / load balancing / LDAP for
+production based applications. 
+
+Experience in Salesfroce.com and Qualtrics.com integrations to other
+applications. 
+
+Compliance to Quality practices like CMMi/BS 9000.
+
+Organizational Exposure
+
+Software Integrations & Production Support: June’14 – May'05 –
+Bostonlogix- Hyderabad.
+
+Application Development & Production Support - Manager: June’14 –
+May'05 - The Hackett Group India Limited Hyderabad.
+
+Associate – Application Development and Support: Nov’04 –
+May’05: Perot Systems, Bangalore.
+
+Senior Software Engineer – Product Development and Support: July’03
+– Nov’04: Four Soft Limited, Hyderabad.
+
+Software Engineer – Application Development: Sept’02 – July’03:
+Symphony Software Private Limited, Hyderabad.
+
+Software Engineer – Application Development: Oct’99 – Oct’00:
+RGP Javaline Technology, Hyderabad.
+
+Key Achievements
+
+Sun Certified Java Programmer.
+
+Brainbench Certification in C, C++,Java, and java-EJB. 
+
+Achieved best performance of Employee of the Year award from The Hackett
+Group.
+
+Extensive implementation experience in Vignette Application Portal 7.2.
+
+Scholastics
+
+M.Tech (IT) from Punjabi University.
+
+M. C. A from Osmania University, with 72.3% in October 1999.
+
+B. Sc with specialization in Computer Science from Andhra University in
+1996.
+
+Corporate Training
+
+Title	Organized by	Duration
+
+Management Training	The Hackett Group (India) Limited	10 weeks
+
+PMP Training / Project Management Tools.	HYSEA formally IT’sAP	6 days
+
+Corporate Training on JBuilder.	Answerthink India Limited	10 days
+
+Corporate Training on JDeveloper, Perforce and  GWT.	Answerthink India
+Limited	10 days
+
+
+
+Technical Skills
+
+Java Technologies:	J2SDK 1.x, AWT, JFC/Swing, JDBC, Applets, Servlets,
+EJB, RMI, JNDI, JSTL, JMS, Java Mail, JNI, Java Beans, Ibatis and Google
+Web Toolkit.                                               
+
+Web Technologies:	JSP, DHTMLX, AJAX, HTML, XML, JSON, JavaScript,
+FrontPage, Dream weaver 3.0, Visual Interdev and MS Front Page.
+
+Languages:	Java, C, C++, COBOL, Shell Scripts, SQL, and PL/SQL. 
+
+IDE & Other Tools:	Eclipse, JDeveloper, JBuilder, BEA Weblogic, Serena
+team track 6.5, PVCS Tracker, Jira, AccuWork, Rally and StarTeam Agile.
+
+Modeling Tools:			Rational Rose, UML, Oracle Designer 2000, Visio, Smart
+Draw
+
+App Frameworks	                	Jakarta Struts, Log4j, Ant, Spring and
+Hibernate.
+
+Database:	Oracle 7.x/8.x/9.x/10g/11i, MySQL and MS-Access 2000.
+
+Web/Application Servers:	BEA Weblogic 8.1, Vignette Portal, Apache
+Tomcat 6.0 and Oracle 11g.. 
+
+Operating Systems:	Windows 2000/NT/XP/98/7.0, Red Hat Linux 9.0 and
+MS-DOS
+
+Other Skills                                        C, C++,Ant tool,
+REST Web Service and Salesforce.com
+
+Reports:				Quadbase reports
+
+Version Control:	    	               CVS, WinCVS, PVCS, Perforce and
+AccuRev.
+
+Network Protocol Tools: 	               SSH  and PuTTY.
+
+Core Competencies 
+
+Managerial
+
+Managing portfolio of projects cost budgeting, planning and execution of
+programs.
+
+Working closely with Business Stakeholders for approval of budget for
+program & monitoring project progress and outstanding issues
+
+Assisting the team in resolving business issues, coordinating with
+various stakeholders and ensuring timely closure of open action items.
+
+Ensuring quality and timeliness of the deliverables & reporting the
+project’s progress and escalating issues.
+
+Providing input on the project strategy, policies and major issue
+resolutions.
+
+Holding review meetings to monitor progress of the project as per
+schedule / budgets, and ensuring timely completion and delivery of the
+project to the client.
+
+Delivering and implementing the project as per scheduled deadlines;
+extending post-implementation and maintenance support to the technical
+support team and client.
+
+Primarily responsible for delivering development, maintenance and
+support services to Hackett  internal business units.
+
+Resource management, utilization and skill enhancement.
+
+Functional
+
+Analyzing user needs and requirements to determine feasibility of design
+within time and cost constraints.
+
+Consulting with customers about software system design and maintenance.
+
+Conducting system study and coordinating with team members for product
+documentation, system design & integration, coding, application
+maintenance, etc.
+
+Delivering and implementing the project as per scheduled deadlines and
+extending post-implementation and maintenance support.
+
+Implemented a process for preparing algorithms and flow charts and
+reviewing them before writing complex functions.
+
+Technical
+
+Designing, developing and implementing the workflow program,
+presentation and handling various phases of interface development based
+on technical specification.
+
+Writing functions, procedures, packages, triggers & views in PL/SQL with
+knowledge of RDBMS fundamentals.
+
+Preparing the unit test cases, handling modeling use case, sequence,
+collaboration, class and component diagrams using MS Visio. 
+
+Experienced in implementing applications with Model-View-Controller
+(MVC) pattern using Jakarta Struts.
+
+Well versed with the concepts of Core Java, J2EE, Java Servlets, Java
+Server Pages, Custom Tag Libraries, Enterprise Java Beans, JMS, Java
+Applets, Exception Handling, JDBC, Struts and Springs  Framework.
+
+Gained experience in using various Web / Application Servers like BEA
+Web Logic Application Servers 6.1.x/7.0.x, vignette application portal
+7.4, Apache Tomcat 5.x, Macromedia JRun 4.0, IIS and Java Web Server.
+
+Projects Executed 
+
+Project #1: AccuRev & Microfocus Software Integrations: Since July'14 to
+till date
+
+AccuRev provides an advanced software development lifecycle solution
+that delivers core version control functionality plus sophisticated
+graphical configuration and code management. Developers can work both
+independently and as a team to create applications while relying on a
+consistent, progressive code base.
+
+AccuRev components permit developers to work privately, share code,
+develop code serially, lock files if necessary, and protect a code base.
+
+
+Environment: Java, Gerrit, XML, Json, Jenkins, AnthHill,Tomcat, Eclipse,
+Windows, Linux, Ant, Rally.
+
+AccuSync: It is a fully bidirectional utility that synchronizes AccuWork
+issues in an AccuRev depot with issues in other issue tracking systems
+(ITSs). AccuSync supports the following ITSs: 
+
+Atlassian JIRA 4.x, 5.x, 6.x.
+
+BMC Remedy ITSM 8 
+
+HP Quality Center 9.x, 10.x, 11.x 
+
+IBM Rational ClearQuest 8.x
+
+Rally Enterprise Edition.
+
+Eclipse Plug-in: AccuRev (Eclipse Plug-in) integrates AccuRev
+functionality with the Eclipse Platform IDE (Integrated Development
+Environment). 
+
+Intellij Plug-in: AccuRev (Intellij Plug-in) integrates AccuRev
+functionality with the Intellij Platform IDE (Integrated Development
+Environment). 
+
+Connector:
+
+AccuRev Connector for Borland Connect (AccuRev Connector) lets you
+synchronize AccuWork assets like stories, tasks, and change requests
+with those in other Borland Hub repositories and clients like StarTeam
+Agile.
+
+Project #2: Hackett Benchmark Tool and Mindshare Portal (Product) :
+Since May'05 to June 14
+
+Url:     HYPERLINK "http://www.thehackettgroup.com" 
+http://www.thehackettgroup.com   and   HYPERLINK
+"https://mindshare.answerthink.com"  https://mindshare.answerthink.com  
+                        
+
+Hackettgroup.com is a leading business advisory firm, which provides
+advisory services to the different clients. Hackett’s clients include
+70 percentage of fortune 500.As a part of this product many new
+developments and enhancements were done to different modules namely
+Dashboard, client admin Module, Inquiry Module, and Advisory Services
+etc.
+
+Platform: Java, J2EE (JSP, Servlet, Spring, CSS, JavaScript, JDBC,
+iBatis), XML,  Dhtmlx J2EE Design patterns, Oracle Database, CVS, 
+Apache Tomcat4.1.27, Eclipse3, Windows 2000/NT/7.0, Linux, Ant, Vignette
+Application Server, Express reports, Serena Team Track6.5, JBuilder
+
+	
+
+Scope:
+
+	
+
+Used JSP and JavaScript for client side user input validation.
+
+Deployed and integrated the beans with the JSP code.
+
+Wrote SQL based queries and stored procedures to communicate with the
+database Oracle.
+
+Created a library of reusable functions to be used in the scripts for
+ease of maintenance.
+
+Participated in the DB design of Client and Provider modules.
+
+Writing functions, procedures, packages, triggers & views in PL/SQL with
+knowledge of  
+
+     RDBMS  fundamentals.
+
+Participated in the prioritization of software bugs.
+
+Managing portfolio of projects cost budgeting, planning and execution of
+programs.
+
+Working closely with Business Stakeholders for approval of budget for
+program & monitoring  
+
+    project progress and outstanding issues
+
+Assisting the team in resolving business issues, coordinating with
+various stakeholders and 
+
+    ensuring timely closure of open action items.
+
+Analyzing user needs and requirements to determine feasibility of design
+within time and cost 
+
+    constraints.
+
+Consulting with customers about software system design and maintenance.
+
+Conducting system study and coordinating with team members for product
+documentation, 
+
+    system design & integration, coding, application maintenance, etc.
+
+    Delivering and implementing the project as per scheduled deadlines
+and extending post-
+
+    implementation and maintenance support.
+
+    Worked on deployment process for staging and Production environment.
+
+
+   Compliance to Organizational Quality practices.
+
+	
+
+Worked projects related to Hackett and Mindshare:
+
+Project:  Qualtrics data integration 
+
+Duration: (8 weeks) 2012 May to 2012 June
+
+Integrating the  Qualtrics survey response data to Member site database
+using benchmark collection tool. This project Implemented different GUI
+for dynamic user surveys.  
+
+Project:  Cross Site Scripting(XSS) Project
+
+Duration: (4 months)2012 February to 2012 May
+
+This project is related add more security in hackett branchmark online
+collection tool. Preventing from hackers and vulnerabilities.  
+
+Cross-Site Scripting attacks are a type of injection problem, in which
+malicious scripts are injected into the otherwise benign and trusted web
+sites. Cross-site scripting (XSS) attacks occur when an attacker uses a
+web application to send malicious code, generally in the form of a
+browser side script, to a different end user. Flaws that allow these
+attacks to succeed are quite widespread and occur anywhere a web
+application uses input from a user in the output it generates without
+validating or encoding it. 
+
+An attacker can use XSS to send a malicious script to an unsuspecting
+user. The end user’s browser has no way to know that the script should
+not be trusted, and will execute the script. Because it thinks the
+script came from a trusted source, the malicious script can access any
+cookies, session tokens, or other sensitive information retained by your
+browser and used with that site.
+
+Project:  New South Wales
+
+Duration: (10 Months) 2011 February to 2011 November
+
+This project involved  Internationalize the Finance , Human Resources,
+Information Technology  and Procurement questions to change the existing
+project setup and included additional features in online benchmark
+collection tool.
+
+Project:  Allocation Engine
+
+Duration: (7 Months) 2010 February to August 2010
+
+Change project setup in project admin module to select appropriate
+Oracle project and task from Project Accounting, this will helps the
+each milestone wise status.  Calling the Oracle workflow whenever the
+any event/milestone has been updated of the specific project, so we know
+the allocated budge if any changes occur in each millstone.  
+
+Project: Question Set Plug and Play Phase 2 - User Interface and
+Performance Study Project.
+
+Duration: (1 Year) December 2008 to December 2009
+
+Redesign the complete look and feel of all the existing and new version
+benchmark projects.  Performance Study project location structure need
+to incorporate as individual company level. Stakeholder can participate
+the survey by each project, function and location level wise.
+
+This is very powerful to get the result metrics data as Business unit
+level, location level and complete project level.  This could be helps
+bottom level rollup data with Business Unit currency.
+
+Project:  Question Set Plug & Play Location Structure/Registration –
+Part III.
+
+Duration:  (8 Months) April 2008 to November 2008
+
+This is the third phase of the project it was contains the remaining
+portion of the Question Set Plug and Play project. The focus of this
+project will be to incorporate the Performance Study Location Structure
+and Registration process. 
+
+Project:  Question Set Plug & Play Template Creation – Part II.
+
+Duration: (4 weeks) February 2008 to March 2008
+
+This will include template creation and updates as well as hiding
+questions at the location level. A process flow and wire frames will be
+provided. The benchmark tool has been slowly working its way to plug and
+play. These updates will allow for better sales opportunities for
+specific client needs as they differ from project to project. Another
+benefit is to allow for better data collection and possibly more data
+points.
+
+Project : Question Set Plug & Play FTE Collection Part I.
+
+Duration: (4 Months) November 2007 to February 2008
+
+The focus will be on the better collection of FTEs in order to produce
+better analysis.  The FTE Spreadsheet has been a powerful tool, but
+there is still the lack of regional (global) information. In addition,
+projects vary in detail and ability to collect FTEs. The current format
+is static for all projects on 1059. This will be the first step to a
+more flexible tool that can change per project.
+
+Project: Salesforce.com Advisory Deployment Phase 2 and Multi-Currency.
+
+Duration: (4 Months) July 2007 to October 2007
+
+(1) Enhance efficiency and effectiveness of Advisory Customer Support
+staff by eliminating the need for them to enter data on Advisory
+Memberships and Participants twice – once in the Advisory Workbench
+(AWB) and once in Salesforce.Com
+
+(2) Improve the quality of Advisory data by eliminating dual entry,
+minimizing data duplication and integrity problems, and providing
+additional information of value in managing Advisory Memberships 
+
+(3) Interface opportunity currency code from Salesforce.com to Mindshare
+for the purpose of populating the project setup form. 
+
+Project:   SC and WC Benchmark Creation.
+
+Duration: (2 Months) April 2007 to May2007.
+
+This is to update Version 1059 with the addition of Service Center and
+Working Capital Questions. These functions do not currently exist in
+version 1059.
+
+	a.  Inclusion of two new functions to version 1059.
+
+	b.  Service Center
+
+	c.  Working Capital
+
+Project:  Advisory Workbench.
+
+Duration: (4 Months) December 2006 to March 2007
+
+The Business Requirements and Functional Specification for changes to
+the Advisory Management Workbench designed to raise renewal rates by
+improving the effectiveness and efficiency of client engagement
+activities. The changes are focused in three key areas:
+
+	Modify the data structures and screens that associate Client Service
+Managers (CSMs) and Advisors with client memberships to reflect the fact
+that CSMs are now assigned by Advisory Program within each client.
+
+Project :  Rapid Sales, Rapid Marketing & Rapid Service Additions.
+
+Duration : (3 Months) August 2006 to October 2006. 
+
+This is to update Version 1059 with the addition of Rapid Sales, Rapid
+Marketing and Rapid Service functions. Changes were made during original
+Rapid project to update application to allow for new functions. This is
+to add the remaining 3 functions to 1059 in the Rapid format.
+
+Project :  Quick Enhancements.
+
+Duration : (4 Months ) February  2006 to June 2006.
+
+During time between projects, there is the ability to address a few
+quick surveys in order to help the business deliver to clients and
+gather data. The first one is for an update to the Project Set up Form
+and one is to create a new question type. The Project Set up Form is
+used by the business to submit a request to have a project set up in the
+portal and signifies all the proper information to the BSC for set up.
+It will helps to quick survey. 
+
+Project #3: DHL Interactive (Product) : Since Nov'04 to May'05
+
+The DHL Interactive site is a business portal and a single entry point
+for your shipments. This portal enables you to access DHL Interactive
+services for the former Danzas organization. 
+
+Able to book shipments online. 
+
+Find the right products and timetables for your shipments. 
+
+Keep track of and search your shipments.
+
+Create reports of your shipments.
+
+Platform: Java, JSP, Servlet, J2EE Design Patterns, CSS, JavaScript,
+JDBC, Oracle Database,  Weblogic, Jdevloper, Windows OS, PVCS Tracker
+and Win CVS.
+
+Scope:
+
+Used JSP, core Java and JavaScript for client side user input
+validation.
+
+Interacting with the clients for Business Requirements, and getting the
+change Requests and coordinating with the onsite offshore Development
+activities
+
+Performed Backend testing using SQL queries.
+
+Participated in technical reviews and inspection of functional and
+design specifications.
+
+Designed Forms and Reports for the project according to the
+requirements.
+
+Created a library of reusable functions to be used in the scripts for
+ease of maintenance. Enhanced the error reporting by custom designing
+the error messages.  
+
+Project #4: Eagle Global Logistics, USA.  : Since July'03 to Oct'04
+
+One of EGL’s business objectives is to develop a logistics solution
+and migrate all EGL stations from existing legacy systems to this
+solution.  This solution consists of integrating applications such as
+eTrans (logistics solution) with Oracle Financials. The integration of
+data and migration from legacy systems (Fastrack, CLASS, Worldport,
+PlusData, FAMS, LIMS, and Universe) will occur in multiple phases.
+
+4S e-Trans meet all the information requirements of freight service
+providers in moving their customers’ shipments   across various
+geographical locations. It is a complete B2B enterprise application and
+handles all operational (PRQ, booking, House air way bills etc),
+customer relations, and financial and sales information needs of Air,
+Ocean and Trucking.
+
+4S e-Supply offers the twin suite end-to-end supply chain
+solution for Logistics, Transportation and Distribution businesses.4S
+e-Supply is the perfect web based solution to deliver the synergy and
+visibility at various level across the entire supply chain.
+
+4S e-Supply can be used as an integrated solution, virtually
+covering the whole supply chain management. It can also be deployed
+independently as 4S e-Log for the logistics & distribution management
+and 4S e-Trans for the freight management. It is well synchronized to
+give visibility over the entire supply chain.
+
+Platform: Java, EJB, JSP, Servlet, J2EE Design Patterns, CSS,
+JavaScript, JDBC, Oracle Database, Weblogic, Jdevloper, Windows OS, PVCS
+Tracker and Win CVS.
+
+Scope:
+
+	
+
+Identified and implemented the EJB (both entity beans and session beans)
+for the system.
+
+Used JSP and JavaScript for client side user input validation.
+
+Deployed and integrated the beans with the JSP code.
+
+Wrote SQL based queries and stored procedures to communicate with the
+database Oracle 8.
+
+Performed Backend testing using SQL queries.
+
+Created a library of reusable functions to be used in the scripts for
+ease of maintenance. Enhanced the error reporting by custom designing
+the error messages.
+
+Project #5: Graber engineering power-tap instrument : Since Sept'02 to
+June'03
+
+Power-tap is a product from Graber Corporation in the performance
+training space. It is used by a majority of cyclists and coaches in
+their training / coaching / racing programmer. This instrument records
+relevant data. The collected data is extracted from the power-tap to the
+pc through USB/ Serial port as raw data used in analyzing and training
+the cyclist.
+
+Graber Products desire a new usability to its power-tap to capture the
+growing collaborative bicycle training market. Currently a pc based
+application that will be upgraded to Internet based application. The
+objective is to study the current workflow, understand the
+functionalities, which will be used for design, development, testing &
+implementation of the system. The goal of the proposed system is to
+provide a PC based interactive adaptive & portable user interface in
+time and budget. Another objective is to provide a generic architecture
+to upgrade, scale and port to Internet based application to cater the
+future need(s).
+
+Platform: Java, JSP, Servlet, Swing, Java2D CSS, JavaScript, JDBC,
+Oracle Database, Jdevloper, Windows OS and Win CVS.
+
+Scope:
+
+Participated in technical reviews and inspection of functional and
+design specifications.
+
+Also developed front tier using JSP with JavaScript and HTML.
+
+Created a library of reusable functions to be used in the scripts for
+ease of maintenance. Enhanced the error reporting by custom designing
+the error messages.
+
+Project #6: Med Price 2.0 : Since Sept'02 to July'03
+
+Med Price is powerful enterprise application software that easily
+handles a wide range of pricing options, accommodates diverse provider
+contracts, maintains key provider tables and accommodates complex
+interrelationships within networks. 
+
+Claims are run through Med Price web based reprising system where they
+are systematically re-priced based on negotiated rates by the clients.
+The project is designed and being developed using the existing proven
+Technologies and Architectures. It was designed purely based on the MVC
+Architecture and used design patterns Proxy, Session Façade, and DAOs.
+
+Platform: Java, JSP, Servlet, J2EE Design Patterns, EJB, CSS,
+JavaScript, JDBC, Oracle Database, Weblogic 5.1, Jdevloper, Windows OS
+and Win CVS.
+
+Scope: 
+
+Participated in the DB design of Client and Provider modules.
+
+Participated in the prioritization of software bugs.
+
+Performed Backend testing using SQL queries.
+
+  
+
+Project #7: Electrobug (www.electrobug.com) : Since Oct'99 to Feb'00
+
+The target data of all these operations facilitate the automatic data
+generation/management for the various Data services provided by the
+client (EB, UK). These include Price Index, Product catalogue
+management, price manipulation and management, air reservations and
+other info. 
+
+Designing and creation of crawled and mapped databases and monitoring
+retrieve data and generate databases like product code database, AIN
+code database for consumer durables. Creating Market research data feeds
+which covers multiple products info from multiple retailers, each with
+different naming conventions. 
+
+Configuration crawler, Designing and delivering installation programs,
+generating and managing security keys for the application services, and
+receiving client feedback.
+
+Platform: Java, JSP, Servlet, Swings, CSS, JavaScript, JDBC, Ms-Excel,
+Ms-Access, Jdevloper and Windows OS. 
+
+Scope :
+
+Coding and Testing.
+
+Configuration the tool
+
+Report Generation.
+
+Participated in the prioritization of software bugs.
+
+Performed Backend testing using SQL queries.
+

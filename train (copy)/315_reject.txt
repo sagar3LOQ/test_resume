@@ -1,0 +1,332 @@
+available
+
+4 people reporting to him
+
+Spring:6 years& current
+
+Hibernate: 6 year& current
+
+Webservices: 6 year&current
+
+Java: 8 years(used indirect rflection)
+
+UML: yes initially worked
+
+Design Patter: drawing flow chart
+
+DB:oracle/sql
+
+16L+shares(19)/22/30days
+
+Summary 
+
+Has 8+ years of experience in Java/J2EE software Design, Development and
+Testing.
+
+1 year of experience in Groovy/Grails development.
+
+Have Good knowledge on Agile Software Development life cycle and Tools
+(JIRA) involved in this. (Certified Scrum master) 
+
+Worked In major JIRA, confluence, fisheye and bamboo upgrades.
+
+Good Knowledge in Altassian products (Jira, Confluence, Bamboo and
+fisheye/Crucible) Developing and Enhancing Altassian Product plugins. 
+
+Good knowledge in Sonar and its plugins to integrate to different
+applications( java, PHP etc., )
+
+Good Working Knowledge in Composite ETL tool.
+
+Good knowledge in TDD, application release and deployment cycles.
+
+Good working Knowledge in Nexus Repository Management. 
+
+Developed/enhanced 15-20 altassian products plugins.
+
+Good knowledge in OSGI based applications.
+
+Technical Skills 
+
+Programming Language			:  Java 7.0, Groovy, Python.
+
+ Sun Certified Java Programmer (1.5)               
+
+Technologies Known 	: Java EE
+
+Frame works	                             		: Struts 1.1/2, Hibernate 3,
+spring 3 and JPA
+
+Databases                        	: Oracle10G, MSSQL, MYSQL, PostgreSQL
+and H2 
+
+ 
+
+Application Server				: BEA Web Logic 9.2, Jboss AS 5, tomcat 6,
+tcServer.
+
+Version Control Tools	            	: VSS, SVN and GIT
+
+Bug Tracking Tools 				: Bugzilla, JIRA
+
+IDE						: Eclipse
+
+ 
+
+Design Tools 	: Rational Software Architect 7.0, Rational Rose
+
+Performance Tool                             	 : JProfiler
+
+Scripting					 : JQuery, XML and Xpath
+
+CI tools 					: Hudson, Bamboo
+
+Code Review Tools 				: Fisheye/Crucible 
+
+Mocking Frameworks			: mocktio 
+
+Metrics Tools 				: Sonar 4.
+
+Educational Qualifications 
+
+M.Tech, Electrical Power Engineering, JNTU Campus, Hyderabad: 2006
+
+Secured 90.24 percentile in GATE-2004.
+
+Projects Experience
+
+Qualcomm Technologies, Inc. Hyderabad, India Programmer Analyst Sr.
+
+December 2011 to till Date 
+
+Project Name: ALM (IWF Integrations)
+
+IWF Integrations enables durable Integrations between different
+applications like (JIRA-JIRA,
+
+JIRA-SERVICENOW and JIRA-MENTOR etc. This Integration is done with the
+help of JMS Message BUS and REST API.
+
+Technical Details: JMS, Spring-Integrations, Spring Security, AOP,
+Drools, Hibernate.
+
+Project Name: ALM (Application life Cycle Management)
+
+This is part of Qualcomm application lifecycle management process. Setup
+Atlassian Products (JIRA, Confluence, Fisheye and Bamboo) configure as
+needed, Develop new plugins and customize the existing plugins. And also
+integrate these application with some of the engineering applications
+(testing tools) and to some Reporting tools.
+
+Upgrade the same Applications whenever there is a new version from the
+vendor.
+
+Technical Details: Atlassian Plug-in SDK, JIRA, Confluence, Bamboo,
+Fisheye, spring, Oracle 11g, Apache Felix OSGI framework. 
+
+Project Name : Alm – Access
+
+As part of Qualcomm application lifecycle management process, we expose
+JIRA data through composite ETL tool. In order apply some authorization
+rules on these views in composite we developed this application.
+
+Technical Details: Groovy & Grails, Composite, ehCache, spring, spring
+security and JPA. TcServer
+
+Project Name:  Wikis(Twiki & Media wiki) migrations to Confluence 
+
+In Qualcomm document are spread across different wiki management system
+like Twiki, media wiki and share point. To centralize the documentation
+to single wiki like Confluence, we used UWC rules based converter. This
+was a very basic tools and we added lot of Regex based rules to convert
+the documents property from one wiki to other wiki. 
+
+Technical Details: UWC converter, Jira CLI, Java regular Expressions. 
+
+Project Name: ALM Integration.
+
+In Jira, Project creation is restricted admin users. In order to give
+the same access to normal users and ease up the creation process, we
+have built this application. In this we made creation configurations in
+a central place (who need to be a project Lead, whom to add to different
+roles and what are the different schemes etc.). We used Jira Soap
+interface to do the respective things in JIRA side.
+
+Qualcomm has different atlassian product instances for different
+departments. We centralized project creation process with this. 
+
+We also have admin scheduler jobs configured to sync users/user-groups
+between atlassian products and Ldap.
+
+Technical Details: Spring Web Flows, JPA, Quart scheduler, spring,
+spring security.
+
+  Project Name: Python Scripting.
+
+As part of some of the altassian tools development and bug fixes,
+developed some python scripts to update date in the Jira application
+through REST API.
+
+Technical Details: python 
+
+Cambridge Technologies Limited, Hyderabad, India     Senior Software
+Engineer
+
+December 30th 2008 – December 2011
+
+Project Name:   smart Shift Saas migration
+
+Saas-Web based portal for SAP migration. This application is used for
+doing free analysis for the SAP customers. This application
+asynchronously communicates with the smart Tool. This smart tool is
+basically rules based engine for SAP migration.   
+
+Technical Details: Spring 3, JPA with hibernate 3, Vaadin, GIT, Maven,
+H2 DB, and Tomcat 6.
+
+Project Name:   Pega Cloud Management 
+
+Client          :   Pega Systems
+
+This application is a portal for the managing cloud instances of the
+pega application machines. 
+
+Technical Details: Struts 2, JQuery, Maven, Tomcat 6, SVN, MYSQL.
+
+Project Name  :   CBMS/RMDV – JBOSS Migration 
+
+Client            :   Summit Energy, USA
+
+Summit Energy is one of the major energy brokers in the United States of
+America. He does this Business through an Application called CBMS/RMDV
+(RMDV one smaller part of the CBMS).currently this Application is
+running in Oracle’s OC4J server. Because of the Licensing issues
+Summit wants to migration JBOSS AS server which is a Open Source Server.
+This project is to migrate all the modules (CBMS, CBMS5, CBMS7, and
+CBMS9) into JBOSS Application server with an optimal effort. 
+
+Technical Details: Struts 1.1, Ant, Jboss5.0, SVN, MS SQL server,
+Bugzilla, EJB (Command beans), SSL Certificate installation.
+
+Project Name:   Image Migration – CBMS
+
+		Client              :   Summit Energy, USA
+
+Summit Energy is one of the major energy brokers in the United States of
+America. He does this Business through an Application called CBMS. In
+this Application currently images (scanned invoices) related application
+are storing in the Data base. Because of the storage constraints Summit
+wants to store all those images in the folder structure. This Project is
+to Analyze, Design and modifies the code in a optimal way so that images
+will get stored in the folder structure andretrival also should happen
+smooth.         
+
+Technical Details: Struts 1.1, Ant, Jboss5.0, SVN, MS SQL server,
+Bugzilla, EJB (Command beans).
+
+Project Name:   Other Service Tracking – CBMS
+
+	        Client              :   Summit Energy, USA	
+
+Summit Energy is one of the major energy brokers in the United States of
+America. He does this Business through an Application called CBMS.In
+this Application currently deals mainly with Electric Power and Natural
+Gas. And also All the module are tracked only for the Electric power and
+Natural Gas. Now Summit wants Extend the entire module to work same war
+for the other fuels also. And also wants track all the commodities in
+different levels (Site/Account). This project is to extend all the
+existing functionality to other new Alternate fuels (water, kerosene,
+etc ..,) also.
+
+Technical Details: Struts 1.1, Ant, Jboss5.0, SVN, MS SQL server,
+Bugzilla, EJB (Command beans),
+
+Hexaware Technologies Ltd., Chennai, India     Senior Software Engineer
+
+October 30th 2006 – December 2008
+
+Project Name:   Aircore - Ticketing 
+
+The Aircore Ticketing Application is to provide a higher level of
+convenience and value to airlines and travelers. It provides the latest
+in automation for the issuance of ticket documents (paper, electronic,
+manual), value documents (MCOs, EBTs, PTAs, Vouchers etc.) and related
+functions. In the past, paper tickets were required for air travel. 
+Customers purchased paper tickets from airline personnel directly or
+through a travel agent.  Today, customers may ticket themselves by
+using kiosks at the airport or by purchasing tickets online using
+personal computers.  Travelers can go paperless with e-tickets or with
+other ticketless methods.  The evolving automation is changing the way
+tickets and value documents are handled for travel.
+
+Technical Details: Weblogic 9.2, JSP, EJB2.0, JDBC, Oracle 10g, RSA 7.0,
+
+
+WebSphere MQ 6.0, Stax Parser, Jprofiler.
+
+  
+
+Project Name:   AIRCORE- Data Migration
+
+		Client              :  Unisys, USA	 
+
+An airline that installs AirCore BOOKING for its Reservation system will
+require transferring their existing PNR data to Aircore BOOKING. This
+will allow the airline to continue its business seamlessly using the
+AirCore BOOKING system as its reservation system. This is a process of
+migrating PNR data from the external system to AirCore BOOKING. The XML
+file/message containing the PNR data of an external system must conform
+to an XML schema defined for AirCore BOOKING. The PNR data migrated
+includes information about booking, segments, customer, services, seat
+allocation, ticket, fare, ticketing arrangements, remarks, hotel, car
+rental, auxiliary services (air taxi, surface transportation, and tour),
+forms of payment, contacts, and forms of identification.
+
+Technical Details: Weblogic 9.2, JSP, EJB2.0, JDBC, Oracle 10g, RSA 7.0,
+
+
+WebSphere MQ 6.0, Stax Parser, Jprofiler.
+
+Personal Information:
+
+Passport and VISA details: 
+
+	
+
+Passport No:  E1294319.
+
+                       Exp Date:  06-MAR-2012
+
+  Stamping Details: L1B VISA (Hexaware Technologies: USA). 
+
+			
+
+		      : B1 VISA (Germany)
+
+Permanent Address:
+
+	Gangadhar M,
+
+S/O M.Shankaraiah,
+
+Shivalayam Street, 
+
+(Mdl &vill)Ramannapet,
+
+(Dist) Nalgonda, 
+
+Andhrapradesh,
+
+PIN no: 508113.
+
+Contact Details :
+
+Mobile: 91+ 9652244566
+
+  HYPERLINK "mailto:gangadharonweb@gmail.com"  gangadharonweb@gmail.com 
+	
+
+GANGADHAR MAMILLAPALLI
+
+Qualcomm Technologies, Inc.
+

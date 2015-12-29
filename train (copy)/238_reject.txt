@@ -1,0 +1,221 @@
+Allabakash .Gajula
+
+Mobile: +919962193577                        
+allabakash.gajula@gmail.com
+
+Summary:
+
+	                                
+
+4 plus years Hands-on experience in Design, Development of the
+application   
+
+   Software
+
+Good experience in Object Oriented Programming
+
+Expertise in J2SE,J2EE Technologies(JDBC, Servlets, JSP)                
+
+Experience in Struts framework using MVC architecture
+
+Experience in SpringMVC and Hibernate framework
+
+Good Experience in JavaScript, JQuery, Ajax
+
+Good Knowledge on Design Pattern(i.e. DAO, Session Facade, Business
+Delegate)
+
+Good skills in oracle and postgres and MySql databases
+
+Looking ahead for great career in a fair working environment with
+opportunities to grow
+
+Quick adaptability to emerging technologies and eager pursue Projects
+
+    	
+
+Career Profile:
+
+
+
+Worked as a Senior Software Engineer in Harjai Computers ltd, Mumbai
+from 
+
+   June’2014 to Sep’2014.
+
+Worked as a Software Engineer in Sify Software Ltd under the payroll
+with 
+
+   Talent Maximus India ltd and Marlabs pvt ltd, Chennai from Aug’2011
+to April’2012.
+
+Worked as a Software Engineer in VMT Technologies Ltd, Bangalore 
+
+   From Aug’2009 to July’’2011
+
+Educational Profile:
+
+
+
+MCA in St. Augustine PG College, from Osmania University, Hyderabad.
+
+BCA in National Degree College, from SK University, Ananthapur.
+
+Software Skills:
+
+
+
+Programming Languages    	:	Core Java
+
+GUI Applications                	:	HTML ,JavaScript, JQuery, Ajax,
+JqueryDataTable
+
+Operating systems               	:	MS-DOS, Windows 98/NT/XP, Linux
+
+Database         	:	Oracle 9i, Postgres 8.3, MySql 5.1,SQLServer
+
+Web Technologies              	:	Servlets, JSP, JDBC
+
+Reporting Tool	:	SpagoBI Server, Ireport 4.2
+
+Application/Web server      	:	Tomcat 7.0, JBoss 5.0
+
+IDE & Editors                     	:	RAD Tool, Eclipse 
+
+Frameworks	:	Struts 1.3, SpringMVC 3.1, Hibernate 3.1
+
+Testing Tools	:	ANT Tool
+
+
+
+Project Profile:
+
+
+
+1) ePDS (Electronic Product Distribution System) 
+
+
+
+Client                               :   National Information Centre
+(Govt), India.
+
+Environment               :  JSP, Jstl, Spring MVC 3.1
+Hibernate 3.1, Ireport 5.1
+
+Database                     :  postgres 8.3
+
+Web Server                 :  Apache Tomcat 7
+
+Description:
+
+ePDS is web based solution that provides online Product distribution
+system by Indian government. This is for client National Information
+Centre (NIC). Government Can distribute Ration Card online by this web
+portal. They can manage there product (food grains, sugar, kerosene oil)
+allocation from centre level to end users by this web portal. It
+includes 5 major modules RCM, FPS, Allocation, Admin and Report.
+
+Role & Responsibilities: 
+
+Engaged in development of the core modules of ePDS using Java
+technologies. 
+
+Responsibility for involved in Allocation Module
+
+Involved in coding Jsp, Jstl, Javascript, JQuery
+
+Responsible for development of business logic in Allocation module using
+Spring MVC & Hibernate
+
+2) UTISA Retail Investments & E-Services 
+
+
+
+Client                               :   Legal and General, UK.
+
+Environment               :  JSP, Servlets, Jdbc, Struts
+1.3, Hibernate & RAD Tool
+
+Database                     :  Oracle 9i
+
+Web Server                 :  Tomcate 6.0
+
+Description:
+
+                 UTISA Investments & E-Services is a Web based
+application which helps us to business solutions. We invest on behalf of
+institutional and retail customers and are highly regarded by many of
+our clients and their investment advisers for providing quality
+investment and service. In this project contains four modules i.e. Buy,
+TopUp, Sale & Switch services. This modules helps us to invest the funds
+for purchasing and servicing funds. And exchanging the funds by the
+customers needs. I have involved in Buy and TopUp module.
+
+Role & Responsibilities: 
+
+Development of UI using  html, JavaScript and Jsp
+
+Involved in coding Jsp, Action Classes & Action Forms
+
+Responsible for development of business logic in Buy and TopUp module
+using 
+
+      Struts 1.3 & Hibernate
+
+3) IBAS
+
+
+
+Client                              :  Bank of Montreal, canada.
+
+Environment              :  JSP, Servlets, Jdbc, HTML,
+Struts 1.3
+
+Database                   :  Oracle 9i
+
+Web Server                :  Tomcat 5.5 
+
+Description :     
+
+                                 Integrated Bank Automation System
+(IBAS) is an end-to-end Banking Solution, which encapsulates Head Office
+and Branch office activities for transactions and data exchange of its
+day-to-day operations. Head Office module comprise of Administration,
+Staff and Accounts operations.  Where as Branch Office module is to
+automate the operations i.e.  Deposits, Loans, Bill Pays, Bill receive
+Services, with drawl, Staff and Accounts Operations.
+
+                         The system is developed for open new account,
+process daily transaction of account, report preparation and editing the
+information of an account. The system is divided into seven modules and
+the modules are further divided into number of sub-modules. The modules
+are Opening new account, List of account, Individual transaction report,
+daily transaction process, and Monthly transaction report, and Edit the
+information of individual account.
+
+Role and Contribution:
+
+JSP and HTML are used for presentation.
+
+Developed Front-office Module using Struts Framework. 
+
+Involved in coding of Servlets and JDBC.
+
+ Involved in developing SQL Statements
+
+Involved in Unit Testing using ANT Tool
+
+Personal Details:
+
+
+
+Father	Name    				:       Abdul Baseed.
+
+Data of Birth					:       03-July-1981
+
+Gender						:       Male.
+
+Marital Status					:       Married.
+
+                   
+

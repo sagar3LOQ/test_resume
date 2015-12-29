@@ -1,0 +1,185 @@
+Srikanth                                             Mobile No:
++919701927745 
+
+Senior	Software Engineer                      E-mail:
+raajaraam.srikanth@gmail.com
+
+Career Objective
+
+To associate with a progressive organization that gives scope to apply
+my knowledge and skill and to be a part of a team that dynamically works
+towards the growth of the organization. 
+
+Professional Summary
+
+5+ years of experience in Design, Development and configuration of
+applications using Java SE/ java EE, Compile and Build Technologies.
+
+Experience in developing applications using JDBC, Servlet, JSP,Struts,
+Spring (MVC Frame Work), Web Services ,Hibernate and IBATIS.
+
+Experience in developing applications using Tomcat,JBOSS,Weblogic Sever
+and My Eclipse, eclipse-rcp.
+
+Experience in MVC Architecture application developments.
+
+Having good knowledge in Servlets, JSP, XML, JSON, Struts and EJB. 
+
+Experience in SWT ,JFACE components
+
+Experience in Compile and Build tools for build automation.
+
+Ability to analyze business requirements and translate them to software
+and database designs to meet the business requirements.
+
+Quick Learning, Good analytical and strong inter-personal skills.
+
+Professional Experience
+
+Working as a Senior Software Engineer for Steelwedge Technologies
+Private Limited (madhapur), Hyderabad from May 2012 to till date.
+
+Worked as a Software Engineer for SP Software Private Limited
+(madhapur), Hyderabad from Oct 2010 to till Mar 2012.
+
+Educational Qualifications
+
+B.Tech (ECE) from N.C.E.T, J.N.T University, Hyderabad.
+
+IT Exposure
+
+Operating Systems		 : Windows NT/2000xp and Linux.
+
+Programming Languages	 : Java.
+
+J2EE Technologies		 : Servlet, JSP and EJB.
+
+ORM Tools                    	 : Hibernate, IBATIS.
+
+Databases			 : Oracle, MS SQL Server.
+
+Web Tools			 : HTML and XML
+
+Web Servers			 : Tomcat, Apache web server
+
+Application Servers	 : Web Logic Sever 10.x, JBOSS5/7.
+
+IDE Tools			 : Eclipse-rcp, My Eclipse.
+
+Frame Work			 : Struts Hibernate, Spring (MVC Frame Work), IBATIS.
+
+Other             		 : JDBC.
+
+Build-Deployment Tools    : Sonar Qube, Clover, ANT, Gradle, SBT and
+WLST
+
+Strengths
+
+  Highly capable in team environments.
+
+  Strong technical and good learner.
+
+  Highly motivated, self-driven, flexible and hard working.
+
+Project  Details                                        
+
+	
+
+Project #1
+
+	Title	CSP& TC (Cloud Services Portal and Thick Client)
+
+	Client 	Lenovo, HP, Canon, Monsanto.
+
+Technologies	Struts 2.x, JSP,  log4j, html, AJAX, JQuery, Hibernate 3.x,
+Spring 2.x, MS SQL Server 2008, JBOSS 5.x
+
+Duration 	May 12 – To Till Date
+
+Team Size	9
+
+
+
+Description: - CSP is a multi-tenant SAAS product, the main aim of the
+project is to automatically build and deploy the core product of
+Steelwedge to web logic domain by choosing the source attributes from
+the provided User Interface.  The UI provides the options to specify
+Application Server details to which the product to be deployed, Database
+on which the schema should be applied, LDAP properties for
+authentication purpose. Thick Client tool is able to create domain in
+web logic with the given inputs in the UI, create a empty DB, configure
+log4j, configuration for sending mails and LDAP configuration.
+
+Roles & Responsibilities
+
+
+
+Received requirements and specifications from the BA team.
+
+Involved in development of Actions, Services and DAO layer of CSP Tool
+with Struts, Spring and Hibernate to implement of all client
+configuration.
+
+Involved in developing Thick Client tool with Java Components
+(SWT,JFACE), ANT and WLST scripts used to deploy application in web
+logic and database with respective client specific configuration on the
+fly.
+
+Written SOAP web services with CSP tool to consume in Thick Client as
+per requirements.
+
+Involved in applying logging using log4j in the application.
+
+Involved in preparing Thick Client software installation process with
+micro soft installer(msi).
+
+Project #2
+
+	Title	Sports Betting
+
+	Client 	sportsbetting.ag
+
+Technologies	Spring, IBATIS, Web services, Oracle and JBOSS.
+
+Duration 	Nov 10 – March 12
+
+Team Size	5
+
+
+
+Description:- Sportsbetting is the simplest and most popular destination
+for sports betting on the Internet with lot of benefits based on bet
+types. There is different modules like Sports Book, E-Commerce, Casino,
+CSC, Poker. In CSC module customer can register and maintain his betting
+history details, deposit and withdrawals are happen based on master card
+type and CC in e-commerce module, placing  bets and winning amount is
+depend on bet type  these operation developed in sports book module. In
+Casino module customer play and win amount  through online games.
+
+Roles & Responsibilities
+
+
+
+Involved in developing one of Administration tool is Global Sports Book
+New Wager Alert component to report wager betting information.
+
+Involved in implement Administration Tools(Master Controller Panel) in
+Sports Book and E-Commerce Modules.
+
+Involved in developing Services API using JAX-WS (Bottom-To-Top
+approach) Web service in E-Commerce Module.
+
+ Involved in developing Spring MVC Frame Work, Service Layer,
+Persistence Layer integrated with IBATIS ORM frame work.
+
+Involved in preparing unit test cases and manual testing.
+
+Declaración:
+
+                I hereby declare that the information furnished above is
+true to the best of my knowledge.
+
+										Srikanth sara
+
+TECHPOINT PROFILE
+

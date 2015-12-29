@@ -1,0 +1,295 @@
+Ravi Chakali
+
+           Email:   HYPERLINK "mailto:ravichakal@gmail.com" 
+cybage.ravi@gmail.com  
+
+								          Mobile: +91-9581199123
+
+Experience
+
+Around 6+ years of Experience in IT industry.
+
+Having 5+ years of Experience in Java Application Development.
+
+ Having 1 years of Experience in Web logic Administration for
+Development, Development and QA environments. Handling all the aspects
+of Installation, Configuration, Clustering, Deploying, Load Balancing,
+Troubleshooting, Maintenance and Performance Tuning of Web Logic Server.
+
+Worked on WebServices (RESTful).
+
+Domain expertise in Energy Sustainability Solutions & Management, PPC
+Advertising and Telecom Services.
+
+Involved in analysis, design and development and testing of multi-tier
+client-server windows and web-based applications.
+
+Technical expertise in Oracle/Sun Java technologies.
+
+Conversant in all phases of Software Development Life Cycle (SDLC). 
+
+Worked with framework’s Struts, Spring and Hibernate.
+
+Strong database knowledge of MySQL and Oracle. 
+
+Skill set
+
+OS	Windows XP, 2007 and Linux
+
+Technologies	Struts1.1, Spring 3.0, RESTfull WebServices, Hibernate3.0
+and Servlets.
+
+Languages and Tools	Java 1.6, Tomcat 5.5, WebLogic 10g and Jboss-5.1.0.
+
+Databases	Oracle 11g and MySQL.
+
+S/W Design tools	Eclipse 3.5
+
+
+
+Work Experience 
+
+Cybage Software:
+
+Software Engineer | Hyderabad | May 2010 – April 2015
+
+Clover Infotech:
+
+Software Engineer | Pune | May 2009 – May 2010
+
+Efkon (India) Pvt Ltd:
+
+Software Programmer | Mumbai | Nov 2008 – April 2009
+
+Responsibilities: 
+
+Worked on projects for the largest Energy Sustainability Solutions
+Provider and Internet Advertising companies
+
+Involved deploy in coding phase
+
+Project Experience
+
+Hara.com
+
+Client:  Hara.com. 
+
+Technologies: Java, Jsp, Spring frame work and Rest full WebServices.
+
+Operating Systems: Windows and UNIX.
+
+Domain: Energy Management
+
+Database:  Oracle.
+
+Other tools: JBOSS 5.5 and Maven.
+
+Project Description: 
+
+Hara Software was acquired by Verisae in late 2013. Hara helps energy
+and sustainability teams change the way they collect, analyze,
+interpret, and act on data.
+
+Hara's affordable cloud-based software platform makes energy and
+resource data simple to acquire and act on. As the market leader serving
+over 50 global customers, Hara helps energy, facilities, operations, and
+sustainability professionals analyze, track, report, and execute against
+cost savings opportunities, compliance requirements, efficiency targets,
+and operational improvements.
+
+Role and Responsibility in project: 
+
+Worked on sprint basis and attend the spring planning meetings and
+giving the estimates
+
+Communication with client on requirement gathering and
+understanding/analyzing the product enhancements. 
+
+Involved in generating CDP reports for 2014 which helps in the
+assessment of the customers greenhouse gas emission data
+
+Involved in the understanding, design, coding and development 
+
+Involved in the activities of code review and design review team 
+
+Communication with Client on a regular basis on technical constraints,
+issues and assumptions and proposing solutions 
+
+Troubleshoot the network, database, application issues quickly and
+provide the solution with good turnaround time 
+
+ Involved in the build release and deployment of the components in the
+production servers 
+
+Advertise.com
+
+Client:  Advertise.com. 
+
+Technologies: Java, Jsp, ExtJs, Spring (MVC), and Hibernate.
+
+Operating Systems: Windows and UNIX.
+
+Domain: PPC Advertising and Marketing
+
+Database:  MySQL.
+
+Other tools: Tomcat6.0 and Maven.
+
+Project Description:
+
+ABCSearch.com is a pay-per-click (PPC) search engine. For the   most
+part, results returned for queries submitted to this type of search
+engine are sponsored results in contrast with crawled results like those
+presented by Google. Advertisers have created accounts with the ppc
+search engines and built their on listings which will appear when
+specific keywords are submitted by internet users. Examples of very
+large ppc search engines are findwhat.com, kanoodle.com, enhance.com and
+overture.com. 
+
+Role and Responsibility in project: 
+
+Involved in designing application and developing Action Classes
+
+Involved in the understanding, design, coding and development 
+
+Involved in code review and design reviews. 
+
+ Involved in the deployment of the project on the Cloud Environment etc.
+
+
+Involved project deployment 
+
+resolved bug fixes
+
+CVG_CSO_ST
+
+Client:  One of the Industry’s Leading Telecom Customer Service and
+Revenue Solutions Provider.
+
+Technologies: Java.
+
+Operating Systems: UNIX.
+
+Domain: Telecom.
+
+Database: Oracle 10g.
+
+Other tools: WebLogic 10.3, Ant.
+
+Project Description: 
+
+Infinys is an integrated software product that provides a flexible,
+powerful, and scalable solution for next-generation telecommunications,
+IP, and convergent service providers. It combines proven Convergys
+applications with the best available third-party applications to
+maximize the strengths and features of each. Infinys consists of
+applications and components that can support any network or service.
+
+ Infinys is built using a layered architecture that consists of three
+distinct layers: extension packages, Infinys components and
+applications, and Infinys platform frameworks. 
+
+Infinys components and applications are convergent software components
+that address a specific business domain. Applications can be
+independently deployed to provide as much functionality as needed and
+can be easily integrated with existing BSS/OSS applications to
+enhance/augment their capabilities. 
+
+Role and Responsibility in project:  
+
+Created the new Environments setup for development and Testing.
+
+Software and Schema installation using through installer.
+
+Installation of CM (Collection Manager) and WSC through installer.
+
+Deployed the application through console and through Infinysctl script.
+
+Created the Data sources and Connection pooling. 
+
+Deployed the application in cluster environments.
+
+Written the wrapper scripts for Server start and Stop.
+
+Mobile Number Portability (MNP): 
+
+Client:  Vodafone India Pvt Ltd.
+
+Technologies: Java, Servlets, Jsp, Web Services and Java script.
+
+Operating Systems: Windows.
+
+Domain: Telecom.
+
+Database: Oracle 10g.
+
+Other tools: Tomcat5.5.
+
+Project Description:
+
+With the help of MNP (Mobile Number Portability) Customer can able to
+take any operators (Like Airtel, BPL and Reliance) Service on the same
+number E.g. Airtel customer can able to take the Vodafone service on the
+same airtel number.  For MNP customer has to request for port in with
+the operator. New operator will send it to the old operator for Port
+out. After successful Validation the service form old operator will be
+deactivated and the number will be activated with the new operator.
+
+Role and Responsibility in project: 
+
+Developed several JSP Pages and Html for the Web Layer.
+
+Implemented the entire Data access layer using the DAO design pattern. 
+
+Handled the application builds and deployments on the Tomcat Server.
+
+Writing the stored procedures. 
+
+Job Dracula.
+
+Client:  Efkon (India) .
+
+Technologies: Servlets, JSP and Struts.
+
+Operating Systems:  Windows.
+
+Domain: Job Portal.
+
+Database: MySQL.
+
+Other tools: Jboss 5.0. 
+
+Project Description:
+
+Job Dracula Project is a Web Application handling the needs of Job
+Advertiser as well as the needs of Job Seeker. The system is mainly
+separated into two components. The Company related functions like
+editing and post Job Advertisements, manage and shortlist applications,
+as well as handle interviews is put together into company Module.. The
+second module keeps all functions Job Seeker needs, like searching for
+vacancy, editing and keeping resume and cover letter up to date, and get
+auto informed by new vacancies, which fit the seekers profile.
+
+Role and Responsibility in project: 
+
+Developed several JSP Pages along with the JSP Standard Template
+Libraries for the Web Layer.
+
+Developed several Session Beans (Both Statefull and Stateless) which
+communicates with the Hibernate Layer that in turn communicates with the
+DAO Layer. 
+
+Configured multiple Struts-Config for global forwards, error forwards
+and action forwards. Form level validations are provided using Struts
+Validation framework. Also developed Controller, Form beans, and Action
+classes for the application.
+
+Implemented the entire Data access layer using the DAO design pattern
+and Factory design pattern. Also implemented Service Locator and
+Business Delegate Design pattern.
+
+Education
+
+M.C.A from St. Xavier P.G College Affiliated to Osmania University
+during 2002-2005, Hyderabad, A.P, India
+

@@ -1,0 +1,405 @@
+SATHISH SIVASHANKAR
+
+_____________________________________________________________
+
+G-2, Ambojini Apartments, 				                            Mobile : +91 9840130170
+
+2 Poes Road,                                                                                                       Landline:  044-26591976
+
+Teynampet,                                                                                      Email:sathish.sivashankar1989@gmail.com     Chennai- 600018.	                                                                                             DOB: 04 March 1989
+
+Citizenship : INDIAN				
+
+
+
+OBJECTIVE 
+
+Play a responsible role in a technology driven organization that enhances my skills and abilities by providing me with new challenges. To become proficient in latest technologies and keep myself updated at all times. Very passionate to work on core development and client interactions.
+
+EDUCATION
+
+University of Leicester, United Kingdom [Jan 2011- July2012] – Masters in Advanced Computer Science  70%
+
+
+
+B.S.A. Crescent Engineering College, Anna University [July 2006 - July 2010] - Bachelor of Engineering - Electronics and Communication Engineering    75%
+
+First Class with Distinction
+
+
+
+S.B.O.A, Annanagar, Chennai [2006] - Class 12, State Board     	                                  93.5/100 overall
+
+
+
+Doveton Matriculation Hr. Sec. School [2004], Chennai- Class 10, Matriculation              85.51/100 overall
+
+
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer  [November 2013 to present] in 8K Miles IAM on cloud, Involved in development of patent and research products and direct technical pre-sales handling for client demo. Involved for a long time in  gaming platform development involving extensive spring, hibernate, web services. 
+
+Deputy Senior Engineer [August 2012 to November 2013] (Materials and Supply Chain Management & Web development) in Delphi- TVS. Functional and program lead to take care of materials and supply chain management and web development.
+
+Systems Engineer in Infosys Technologies, Mysore [July 2010-Jan 2011]. Underwent intensive training in various software technologies and worked on business analytics.
+
+
+
+
+
+SKILLS SUMMARY
+
+
+
+	Programming Languages and Technologies:	
+
+J2EE:	JDK, JSP, JSF, JDBC, EJB, Servlet, JAX-WS,JAX-RS, JSTL, JMS, Swing
+
+.NET:    Asp.net, C#
+
+Web: 	JavaScript, HTML, CSS, JQuery, Ajax, JSON, SAML, LDAP, Angular js
+
+XML:	XML, XSL, XSLT, DTD, SOAP, WSDL, WebServices
+
+Databases:	Oracle, MySQL, SAS, Postgres
+
+Servers:   WebLogic 8.1/9.1, Tomcat,  JBoss , Http Server, IIS7.0, IIS7.5
+
+
+
+
+
+
+
+
+
+	Frameworks:	
+
+Struts 2, Spring core, Spring MVC, Spring AOP, Spring Integration, Spring Batch, Spring Security, Hibernate, JPA , Java Seam
+
+
+
+	IDE and Tools:	
+
+IDE: 	Eclipse, Oracle JDeveloper , SQL Devloper, MySQL Workbench, Quest Toad Oracle
+
+J2EE: 	Maven, Ant, JUnit,  EasyMock 
+
+SourceControl:	SVN, CVS, VSS , GIT
+
+
+
+	Operating Systems:	
+
+	Windows, Unix, Ubuntu
+
+
+
+	Cloud Technologies:	
+
+	AWS -EC2,  RDS,  ELB,  SNS,  SQS
+
+
+
+ROLES and RESPONSIBILITIES  
+
+
+
+Infosys Technologies (Web Development)
+
+
+
+Was posted as a System Engineer  where I was exposed to many software concepts like operating systems, software development cycles, algorithm designs, quality management, web technologies and was trained in technologies like oops using Java, J2EE, basics of Unix. Have done a number of mini projects in the course of training that helped to gain a direct industrial experience using all the IDEs and tools used readily in the industry.
+
+
+
+Projects: 
+
+a) MIS Reporting - Client (Toyota Automotives ltd.) 
+
+Technologies - Javascript, Spread, Java Swing, Oracle 9i
+
+Created reports for management relating to purchasing and finance and automated.
+
+
+
+Delphi - TVS
+
+Web development completely handled including maintaining the existing web sites. Hands on experience in requirement gathering, project management, designing and execution using waterfall development model, coding, feedback gathering, deploying  in web servers. Given me a great opportunity to meet all the top officials for requirements and feedback. 
+
+Also involved in analysing the entire materials and supply chain management process ( right from creating sanctions, purchase requisitions, purchase order, vendor management, materials resource planning, gate inward, stores inward, tax and terms definition, quality check, vendor rating, customer feedback, after sales market, business forecasting etc.) and technologically how they are deployed and used. A complete understanding on the manufacturing process  is gained making me functionally effective.  Will be soon involved in SAP deployment team.
+
+Projects: 
+
+
+
+a) Packing Materials Application - Client (Renault Nissan Ltd.)
+
+Technologies - ASP.Net, JQuery, C#, Oracle 10G
+
+Created an application for tracking the stock of packing materials at customer end, at the consignment area, dispatch area  and also the stock at rework.
+
+Role- Independent development and deployment, Requirements gathering, DB (Oracle), UI and web publishing using IIS 7.
+
+
+
+b) Management Dashboard- Self
+
+Technologies - Web-Forms, Oracle, JQGRID(Jquery), C#, CSS.
+
+Created an application to convert the reports that were sent as auto report through windows task manager (to avoid the performance bottle necks). Used by the top management people. Reports relating to Purchase, Sales, Inventory and goods receipt.
+
+Role- Requirement definition, UI Designing ,DB(Oracle), Mail configurations and web publishing.
+
+
+
+c) Direct & Indirect Materials Management- Self
+
+ Technologies - VB, Oracle.
+
+Application maintenance and support relating to goods directly involved in production and indirectly supporting, Purchase requests, Purchase orders, goods receipt, inventories, subcontracting, materials ledgers, monthly resource planning, bill of materials definition etc. 
+
+Role- Support, maintenance, knowledge support and  enhancements..
+
+
+
+d) Vehicle Management System- Self
+
+Technologies - JAVA (WEB Servlets & JSP), Oracle. 
+
+An application to define the availability of transport for all three plants and carrying information relating to it.
+
+Role- Maintenance and enhancements.
+
+
+
+e) Visitor pass -Self
+
+Technologies - Java (Web Servlets & JSP), Oracle. 
+
+An application to capture the information of people entering the plant and leaving. Information along with their photographs saved as blob in database.
+
+Role - Requirement definition,  Database (Oracle).
+
+
+
+f) Work In Progress- Self 
+
+Technologies - Asp.Net, Oracle, AjaxControllerToolkit, JQgrid, Javascript, Crystal Reports, Jasper Reports.
+
+An application to capture the stock of manufacturing raw materials in production from the time it leaves the stores to the time it enters dispatch area. The aim of the project is to provide tha management complete information of materials stock in the any line, any cell, kanban stock, sub-contracted stock, materials returned and strategic stock.
+
+Role- Requirements definition, Database design, Business logic.  
+
+
+
+8Kmiles FuGen Solutions Ltd. (Federation in the cloud)
+
+
+
+a) CIE - Common Identity Exchange 2.0 (Research Product).
+
+Client Demos: Ping, Forgerock, IBM.
+
+    8kmiles/FuGen with their MISPTM platform, offers a Cloud ID Broker that provides, either on-premise or from the cloud, the last mile integration and management of the SMBs for them to easily join the federation providing a single federated connection to the enterprise “hub”. The “hub” avoids having to have a customized solution for this subset of partners. Within minutes, a SMB administrator can setup and configure their service from a web-based portal to join a federation.
+
+Technologies:  Java/J2EE, Struts 2.0, Hibernate, Restful Web services, My SQL, JAXB, JACKSON.
+
+Role: Team Lead - responsible for creation of admin UI and SMB- Agent development and configuration.
+
+
+
+b) MISP- Multi-domain Identity Services Platform 2.0 (Patent Product)
+
+8kmiles/FuGen’s Multi-domain Identity Services Platform (MISP™) is an on-demand platform that extends the capabilities of existing Identity Management (IDM), SSO solutions, and legacy services to allow customers to establish, scale, and manage their federations and web services.
+
+Technologies: :  Java/J2EE, Struts 2.0, Spring JDBC, Jquery, My SQL, JAXB, OpenSSO, OpenSAML, WebServices(Axis 2) AWS-EC2, RDS, ELB, SNS, SQS.
+
+Role: Analysis and  Development.
+
+
+
+c) EZIAM - Cloud IAM Product on Amazon Web Services
+
+Client: CareCentrix
+
+Role: Database Design, Basic Construct Definitions (Programming Model), Technical Presales Support, CA Cloud Minder Tenant Configuration. 
+
+EZIAM aims at small to medium sized partners on cloud to manage their identity efficiently. The product supports a wide variety of authentication methods like patented ARCOT PKI, ARCOT OTP, Risk Evaluation, two factor authentication etc.  It also assists the partners to provision roles to their users quickly and manage a no. of off premise and on-premise applications and centrally manage their identities.
+
+Technologies: JAVA/J2EE, Spring Core, Spring JDBC, CA Cloud Minder
+
+
+
+d) World Gaming (an initiative of Virgin Gaming)
+
+Online gaming portal where people can challenge each other using their existing consoles like ps4, xbox etc. Based on the results generated cash would be moved from one persons account to another. Involves hosting challenges between universities, head to head etc. 
+
+
+
+Role: Logic definition, Middle-ware, Front-end.
+
+
+
+Technologies: Spring Core, Spring Rest, Spring Security, Spring integration, Postgres Database, Angular JS, Spring MVC, Play Framework, AWS-EC2, RDS, ELB, SNS, SQS
+
+
+
+Academic Skills 
+
+
+
+1) C language.
+
+2) Core Java oops concepts- (inheritance, polymorphism, Abstraction, Encapsulation).
+
+Have done many  Application Developments using Java Swing in Eclipse IDE (Open Source) and NetBeans.
+
+3) Advanced Java- proficient in the use of Servlets, JDBC, JSP, Struts, Struts2, Spring (MVC, AOP, Security, Integration, Batch) Web application development using servers like Tomcat apache, JBOSS, Apache Httpserver. 
+
+4) Web Technologies- HTML, CSS,  XML, XSD, Basics of AJAX, XSLT, DOM, SAX, JavaScript, Jquery, JSON, Angular JS, Play framework. Have developed some good front-end presentation tier while developing enterprise applications.
+
+5) Domain Specific Languages- Xtext, Ecore Modelling, Eclipse Modelling Framework, Atlas transformation Language, Ecore mapping. Have used all the above  technologies efficiently to develop my post-graduate level project.
+
+6) System Re-engineering- Code Analysis, Code smells, Refactoring, Software metrics, Unit testing. Helped me knowing to efficiently tune codes and managing memory, code re-use etc. Gave me understanding on various testing mechanisms and metrics to quantify the quality of the codes written. Helped me to understand the importance of refactoring and apply it readily using Eclipse IDE.
+
+7) Semantic Web- It is about common formats for integration and combination of data drawn from diverse sources, where on the original Web mainly concentrated on the interchange of documents. It is also about language for recording how the data relates to real world objects. That allows a person, or a machine, to start off in one database, and then move through an unending set of databases which are connected not by wires but by being about the same thing. Have used Protégé for designing the relations.
+
+8) Service Oriented Architecture- Design principles, use of WSDL, XML parsers, SOAP, UDDI, JUDDI was learnt and used for creating mini-projects.
+
+9) Service Component Architecture- Developed by OASIS.  An implementation framework useful for designing web services based on SOA principles and deploying. The main advantage is that we can  integrate web-services designed using any language say JAVA, DOTNET, BPEL etc. efficiently and build efficient enterprise applications. Have worked on this for my post- graduate project at a great level using Eclipse IDE, SCA tools etc. Familiar with publication of service, service discovery, deployment.
+
+10) Advanced System Design- Design principles of a system including the synchronous and asynchronous way of communication between the various components involved were dealt with. It helps in designing a system at a higher level of abstraction. Sensoria Reference Modeling language (SRML) was taken as the reference language to understand the design principles using Eclipse IDE and SRML plug-in. SRML is a joint venture by University of Leicester  and Sensoria ltd. that aims at developing a higher level abstraction language backed by solid mathematical foundations to design SOA based systems.
+
+11) Financial Information systems- Includes the basic principles and terminology used in finance and helped in understanding the requirements in that domain and also designing applications using various technologies.
+
+12) Database- MySQL, Relational Database Management system (RDBMS) using Oracle 10G (Sql, Pl/Sql, Triggers, Sql Monitors). Have used IDES like oracle PL/SQL Developer, Toad for Oracle, Power Builder etc. 
+
+13).Net Framework- use of c#, asp.net, ado.net, Visual Studio 2010 Professional, Visual Studio 2012 express.
+
+14) Identity Access Management Tools: CA Siteminder, CA CloudMinder, CA AuthMinder, CA RiskMinder, CA Identity Minder, OPenAM. 
+
+
+
+Development Environments
+
+
+
+Web Development & Console Development
+
+Java Development - Eclipse , Net Beans, Command prompt.
+
+.NET Environment - Visual Studio 2005, 2010, 2012, Visual Web Developer.
+
+Presentation tier -  MS. Web Matrix 2.
+
+Desktop Applications -  Visual Basics 6.0, Visual Basics 2008, Eclipse with Swing, Power Builder.
+
+
+
+
+
+Database designing and creation 
+
+Oracle PL/SQL Developer 10G/ 11G.
+
+Toad for Oracle.
+
+
+
+
+
+Servers
+
+Java - Apache Tomcat ( Web Server).
+
+Java - HttpServer
+
+.NET - IIS 6.0, IIS 7.0, IIS 7.5 (Web Server).
+
+Microsoft Server 2003 , 2008 R2.
+
+
+
+Corporate Certified Partner Trainings
+
+
+
+1. Amazon Web Services .
+
+2. CA SiteMinder.
+
+3. CA CloudMinder Identity Management
+
+4. CA CloudMinder SSO Management
+
+5. CA CloudMInder Advanced Authentications
+
+6. CA Tenant Administration
+
+7. CA Governance Minder.
+
+
+
+Academic Projects
+
+
+
+Project (Post-Graduate Programme) SRML is an academic research standard used for making the higher level representation of a system that is based on Service Oriented Architectures and Service Component Architecture Is a standard proposed by Software vendors like IBM ,SAP etc for enabling the deployment of Service Oriented Applications independent of their implementation details.. My job is to automatically encode the  various design components automatically to SCA specifications such that a person is only expected to model a system and the project outcome aides for realizing it at the implementation level. Usage of java specific EMF, GMF, Xtext, ATL, web-technologies like XML, XML-schema, DOM, WSDL and eclipse plug-in and tool developments were involved. Was helpful in developing many technical skills as well as interpersonal skills such as time management, orderly documentation, presentation skills etc.
+
+
+
+Project (Under-Graduate Programme) successfully completed in electronics field (title: Electronic Driving Guidance System For Fuel Efficiency Management(Assembly language programming done for microprocessor )).
+
+
+
+Papers Presented
+
+
+
+1) Poster Presentation titled “Protection of communication systems from solar flares” in sedsic-2007,an international conference organized by SEDS (Students for Exploration and Development of Space) at VIT, Vellore.
+
+
+
+2)Paper titled  “Protection of communication systems from solar flares” at APOGEE-08,a National level technical fest  organized by Birla Institute of Technology and Science (BITS), Pilani.
+
+
+
+Co-curricular Activities
+
+
+
+1) Active involvement as Joint Secretary during IMPULSE-08, an annual technical symposium organised at the undergraduate level. Organising member of LITRAPTURE-09 and CRESONANCE-09, annual academic activities in Crescent Engineering College. 
+
+2) Active member of IETE (Institution of Electronics and Telecommunication Engineers) and IE (Institution of Engineers).
+
+3) Successfully completed the certification course on C, C++, Core Java, Advanced Java in NIIT.
+
+4) Attended a week long training session at Airports Authority of India (ATS-CNS),Chennai to get accustomed to Aircraft Traffic Control Techniques.
+
+
+
+Skills 
+
+
+
+1) Good Team Player and always like to be a leader and take up responsibilities and it is evident from the roles I had taken up from school days to college. I can easily adapt to any new situations and excel .
+
+2) Self motivator- always eagerly update myself with new technologies and always inclined towards learning.
+
+3) Committed to work, sense of ownership and dedication for excellence.
+
+4) Good domain Knowledge in many of the technologies.
+
+5) Have been in the UK over a year and have good global exposure.
+
+6) Excellent communication skills and planning experience. ( School Top in plus two English language).
+
+
+
+
+
+Reference
+
+[On Request].

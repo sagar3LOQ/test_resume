@@ -1,0 +1,255 @@
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+	Hibernate                                              -  3.6years    & current                                         
+
+	Spring                                                     -  3.6years   &current                                             
+
+	Web Services                                        -    3.6 years& current                                             
+
+	Core Java                                               -   3.6years
+
+	Design Patterns                                    -    singleton
+
+	UML design                                           -     
+
+	Build Tools (Maven/Ant)                    -    Ant   
+
+	Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+  Tomcat/hboss/eclipse/code colaborator
+
+DB:mysql
+
+7.9/9.5/60days
+
+Mohana Rekha
+
+
+
+
+
+PHONE NO: 9299259110					Address: LIG-370, 
+
+Email: mrekha161@gmail.com 				BharatNagar,Moosapet,									Hyderabad.
+
+		         
+
+
+
+
+
+SUMMARY
+
+
+
+3+ years of competitive work experience in Data Processing, Testing and Development on Java/J2EE applications .
+
+Good knowledge in HDFS, MAPREDUCE, HIVE, PIG, SQOOP, HBASE, OOZIE and CASSANDRA.
+
+Extensive Knowledge on HIVE, PIG-LATIN and SQOOP in handling Structured and Unstructured datasets.
+
+Knowledge on Hadoop cluster environments and Hadoop File system (HDFS).
+
+Thorough knowledge in Linux, SQL, Core java.
+
+Have good knowledge on writing SQL Queries.
+
+Strong working experience on Spring-Hibrenate.
+
+Experience in packaging and Deploying applications on Web servers like Tomcat and Jboss.
+
+Aware of complete project life cycle stages from Analysis, Development, Integration and Testing as well as Test Driven Development like AGILE & SCRUM. 
+
+Well-developed skills in providing technical solutions based on Hadoop platform.
+
+Good Knowledge of using log4j to persistent data into Log files.
+
+Good at UNIX file system, shell scripting.
+
+Expertise in using IDE tools like IReports3.7 and FLUX.
+
+Experience in mentoring juniors and building a pool of ready to use resources.
+
+Experience on managing customer expectations and building relations through high quality support, delivery and commitments. 
+
+Implement the Back office Tools for support, and enhance the existing applications like CSR.
+
+Strong Knowledge in financial industry(Authorizations, Third party integrations and cards processing)
+
+Experience in implementing Design patterns like Singleton, MVC, IOC, ViewHelper ,FactoryPattern and DAO.
+
+
+
+    EDUCATION
+
+
+
+Master of Computer Applications, From JNTU University, Kakinada.
+
+
+
+TECHNICAL SKILLS
+
+
+
+Hadoop Technologies	:  Hdfs ,Hive, Pig, Sqoop, Map Reduce
+
+Technologies 		:  Java, Spring-Hibernate
+
+Databases			:  MySQL
+
+Operating Systems		:  LINUX, Ubuntu, Windows
+
+Distributed Framework	:  Apache Hadoop, Cloudera CDH3 
+
+IDE’s				:  Eclipse, Spring Source tool suite
+
+Web Server			:  Apache Tomcat, Jboss
+
+Web technologies		:  JavaScript, XML, HTML.
+
+Tools Worked with		:  SQL YOG, ANT, SVN.
+
+Management tools		:   JIRA.
+
+
+
+WORK EXPERIENCE
+
+
+
+Wave Crest Payment Technologies: Working as Software Engineer since May 2011 to till date
+
+
+
+#4 Data Integration & Recommendation Analysis
+
+
+
+Project Name: Platform 2.0 (E-WALLET)
+
+
+
+E-Wallet is a system that stores customer's money for easy retrieval during online purchases as well as minimizes the risk in sharing the payment information with merchants. Users can load their e-wallet accounts with credit card, debit cards and net banking. Users are provided with a virtual card number with which they can shop on program partner’s website or with any other merchants online (only with the merchants who are tied up with us). We also offer P2P (Person to Person) transfers, plastic cards (upon certain checks) for physical usage in ATMs as well as POS.
+
+
+
+Responsibilities:
+
+Conducted Data analysis from Financial Transactions
+
+Created Technical & Financial proposals with accurate estimations. 
+
+Involved in multi-node cluster set up Involved in Algorithm development using Map-Reduce and Hive
+
+Defined Migration plans  to import & export data from RDBMS to HDFS
+
+Defined & Involved in scheduling jobs using OOZIE.
+
+
+
+
+
+Technologies/Tools: HDFS, Hive, Pig, OOZIE, SQOOP and Linux.  
+
+
+
+#3 Call Center Log Analysis - POC
+
+
+
+Project Name: IVR log Analysis
+
+
+
+Description:  This analysis is to identify the calls peak-time and top location in terms of receiving calls and customers interests. It is mainly to recommend the teams to specify during peak and off peak times. It analyzes the problems and gathers requirements of the clients/third parties and helps the company in which time to concentrate more to build up the business.  
+
+
+
+Responsibilities: 
+
+Conducted Data analysis & developed POC 
+
+Analyze the data using Apache Hive.
+
+Responsible for preparing action plans to analyze the data.
+
+Coordinates with third parties (TWILLIO & GRADWELL) to understand the deep insights of data.
+
+Technologies/Tools: HDFS, Hive, Pig, Sqoop and Linux.
+
+
+
+#2 PayCentral(Retail Launch)
+
+
+
+Client: GTECH US
+
+Duration: September 2012- April 2013 
+
+
+
+Contributed to the release of Georgia, Missouri, Michigan Lottery Subscriptions (First Online Lottery Subscription Purchase) and IL Lottery Internet Wagering (First ever lottery ticket sold online in US) including the Retailing Launch.
+
+
+
+Responsibilities:
+
+Worked on the EOD financial reconciliation and Cards reconciliation APIs.
+
+Implemented the Multi-Tenant Balancing for all States of GTECH Lottery.
+
+Involved in  high level Technical Documentation of the implementation of features.
+
+Work on Post-Production operational issues and get them fixed in time.
+
+
+
+Technologies/Tools: Spring MVC, Spring EJB, Spring Batch, Hibernate, Tomcat, MySql, eclipse, Jboss, Maven,JSP and SVN
+
+
+
+
+
+#1 GTECH
+
+
+
+Client: GTECH
+
+Duration: July 2011- August 2012
+
+
+
+Description:
+
+
+
+GTECH is a leading gaming technology and services company, providing innovative technology. I Hope Discover card Program is the purpose of issuing the Pre-Paid Cards to the Lottery Players who wish and purchase Lottery Tickets. Cards can be used for open loop (ATM, POS terminals) and closed loop transactions.
+
+
+
+Roles and Responsibilities:
+
+Worked on the financial API services and understand the payment related transactions 
+
+Worked closely with the customer and align with the requirement and their implementation.
+
+Worked on the Performance Improvement Project as well for the application.
+
+Implemented the Multi-Tenant Balancing for all States of GTECH Lottery.
+
+Implemented spring batch jobs 
+
+Contributed to the successful launch of the Project.
+
+
+
+Technologies/Tools: Spring MVC, Spring EJB, Spring Batch, Hibernate, Tomcat, MySql, eclipse, Jboss, JSP and SVN.
+
+___________________________________________________________________
+
+                      (Mohana Rekha M)

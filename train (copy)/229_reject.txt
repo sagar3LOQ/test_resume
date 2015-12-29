@@ -1,0 +1,558 @@
+K.SATYANARAYANA GUPTA
+
+Mail :   HYPERLINK "mailto:ksngupta@yahoo.com"  ksngupta@yahoo.com 	
+mobile : +91 9952933326
+
+Objective:
+
+Seeking a position, this explores my knowledge and skills for the
+benefit of the Organization as well as me in the field of Enterprise
+solutions using advanced java related technologies like JEE5, EJB,
+Spring, Hibernate and Struts by accepting the challenging tasks.
+
+Summary:
+
+Having 8+ years of experience in the Software Industry working on
+projects related to Java, J2EE and Web Development   
+
+Expert level skills in Java, J2EE, Servlets, JSP, Struts, JSF, Spring
+and Hibernate expertise in web development. Having good exposure on
+various kinds of design patterns.  
+
+Sound knowledge in OOPS. Good Experience in Interface related projects.
+Developed and deployed core banking applications. Done java security and
+bio-metric programming. Done data synchronization and quartz scheduler
+programming.  
+
+Experienced in using MVC. Experienced with EJB in deploying enterprise
+beans for web-based applications. Worked with various types of
+application and web servers.
+
+Excellent written and verbal communication skills that can be put to use
+to understand clients business requirements and converting the same into
+systems fulfilling business needs and good performance in team
+environment.
+
+Career Profile:
+
+Worked as a Sr. Software Developer for SHELLINFOTECH SDN BHD, Malaysia
+from Mar 2010 to March 2012.
+
+Worked as a Sr. Java/J2ee Consultant for USTECH SOLUTIONS INC (M) SDN
+BHD, Malaysia from Dec 2007 to Dec 2009  
+
+Worked as a   Software Engineer for SSG Services India Pvt. Ltd from
+June 2005 to Oct 2007. 
+
+Worked as an Application Developer for Trisync Technologies Pvt., Ltd
+from Feb 2004 to May 2005.
+
+Academic Profile:
+
+M.C.A (Master of Computer Applications) From Indira Gandhi National Open
+University 
+
+PGDCA from Pondicherry University
+
+B.Sc. (Computer Science) from Nagarjuna University
+
+Technical skills: 
+
+Languages	Java, C and C++
+
+Web Technologies	HTML, Java Script, XML, and Ajax 
+
+Distributed Technologies	RMI, EJB
+
+Frame Works	Struts1.3, Hibernate, JSF and Spring
+
+Application Servers	Web Logic, JBoss, Tomcat and WebSphere
+
+IDE	Eclipse and Net Beans
+
+Databases	Oracle, MS SQL Server 2008, MySQL, DB2
+
+PRoject profile:
+
+PROJECT # 1  
+
+Title		:	DSS in eInsolvensi
+
+Client		: 	BHEUU & Mesiniaga Bhd. Malaysia
+
+            Technologies	:	Struts, Hibernate, Quartz, SQL Server 2008,
+Mysql, DB2, javaMail                            
+
+Servers		:	IBM Websphere, Tomcat 
+
+Team Size	:	6
+
+Duration	:	Oct 2011 to March 2012
+
+Description: 
+
+There are two proposed enhancement to the e-Insolvency system.  For the
+first enhancement, the aim is to return an accurate
+bankruptcy/liquidation search result. This is done by returning all of
+the liquidation/bankruptcy results which is associated with the search
+id. The enhancement will provide a complete picture of a person/company
+insolvency status. 
+
+The second enhancement is the Data Synchronization System (DSS). With
+the expected commissioning of the INSIST system, the e-Insolvency will
+have to synchronize its bankruptcy/liquidation database with the new
+system. As such, the DSS is expected to perform this task. Besides that,
+a host of new functionalities is proposed for the DSS that helps the
+user to manage the synchronization service in a more user friendly way.
+
+Responsibilities:
+
+As a Sr.Java Developer Involved in Requirements gathering and review
+
+Designing front end using JSP using Struts &JSTL tags and performed
+client side and server side validations using Java Script and Validation
+Framework respectively. 
+
+Managed calls between struts, POJO Services and Hibernate 
+
+Developed  Business and DAO layers using Struts Action and Hibernate DAO
+
+Risk Analysis of performance, reliability, level of security etc
+
+Developed Action classes, DTO, DAO classes for different modules. Wrote
+deployment descriptors for Struts using XML
+
+Involved in different roles like Coding, Analyzing, proto-type screens
+designing and Database  tables designing 
+
+Effective in evaluating problems and developing technical  solutions 
+
+Worked closely with team members to ensure technical compatibility and
+user satisfaction for end users
+
+Done Coding according to specifications for modules.  
+
+Development the system using Servlets, JSP, displayTag, Struts,
+Hibernate, Quartz API and javaMail API. 
+
+Communicating with testers, giving clarifications and resolving the
+problems.
+
+Attending Daily calls and Project meetings
+
+PROJECT # 2
+
+Title		:	 HRP (High Risk Profiling System)
+
+Client		:	 Ministry Of Agriculture KL Malaysia. 
+
+            Technologies	:	 Java, JSF, Spring, Hibernate, Oracle10g,    
+                        
+
+Servers		:	 IBM Websphere
+
+Team Size	:	10
+
+Duration	 :	 Dec 2010 to Sept 2011
+
+ 
+
+Description: 
+
+The High Risk Profiling (HRP) System is a decision making system, to
+assist Administrator on identifying containers containing the products
+that meets the standards set by Malaysian Government while exporting to
+Malaysia, Be informed of the High Risk Container Number(HRCN), based on
+the identified rules, Enable the User to act on the identified HRCN and
+perform investigation , Enable the User to monitor daily / weekly HRCN
+based on the status.
+
+Responsibilities:
+
+As a Sr.Java Developer done Coding according to specifications for
+modules.  
+
+Developed User Interface using JSF.
+
+Developed Service Layer using Spring framework.
+
+Designed and Developed Java classes, XML Mapping files and Service
+classes to use the Hibernate API
+
+ Implemented the Security System using Acegi Security.
+
+Managed calls between jsf, Spring Services and Hibernate mapping files
+using sphere framework
+
+Worked closely with team members to ensure technical compatibility and
+user satisfaction for end users
+
+PROJECT # 3 
+
+ 
+
+Title		:	CSS (Customer Survey Solution)
+
+Client		:	HONG LEONG BANK BERHAD (HLBB), Malaysia
+
+            Technologies	:           JDK6, Java Swing, JavaCommAPI,
+rxtx, SQL SERVER 2008                                                   
+  
+
+Role		:	Senior Software Engineer
+
+Team Size	:	6
+
+Duration	 :	March 2010 to Oct 2010
+
+ Description:
+
+	The scope of this project presents the process flow and function
+routines for the survey processes, which will ensure the integrity of
+the Keys management within the scope of the project. This system will be
+integrated with Branch Delivery System (BDS) and will require the BDS
+team to cooperate together to establish the project. By outlines the
+technical specification to address HONG LEONG BANK BERHAD (HLBB)
+requirement for Customer Survey Solution on CSMART680 terminal. 
+
+The proposed solution will enable HLBB customers to participate and
+record their feedbacks and ratings on the quality of services offered by
+HLBB banking tellers. Survey questions will be displayed on the terminal
+display and customers will then enter the available answers using the
+terminal pin pad
+
+Roles & Responsibilities:
+
+ Worked as a team member with technical staff, designers and
+infrastructure team members in project delivery. Developed both client
+and server application versions
+
+Worked closely with team members to ensure technical compatibility and
+user satisfaction for end users.
+
+Designing front end Screens using Java Swing API 
+
+Making exe files and working java programs as a windows service 
+
+Involved in testing and bug fixing.
+
+Understanding the requirement of the project and helping team understand
+the same
+
+Clarifying issues with client 
+
+Done coding for mykad reading and uploading the mykad details into
+database
+
+Done encryption and decryption programs using java Cryptography 
+
+Done serial port programming using javacommapi and rxtx packages
+
+PROJECT # 4  
+
+Title		:	LMS (Learning Management System for Malaysian Bar Council)
+
+Client		:	Crimson Logic Malaysia Sdn Bhd, Malaysia
+
+Technologies	:	JDK1.5, Servlets, Struts, Adobe Flash, Oracle10g         
+                    
+
+Servers		:	WEBLOGIC 9.2
+
+Team Size	:	8
+
+Duration	 :	Feb 2009 to Aug 2009
+
+Role		:  	Team Lead
+
+Website            :          www.eeps.com.my
+
+Description:
+
+LMS is an online training program for law pupils conducted by the
+Malaysian Bar Council. The purpose of this system is to provide a
+seamless learning and assessment solution to Malaysian Bar Council to
+manage the courses content with the assessment for law students. All law
+students are compulsory to take these courses before being fitted to be
+admitted as an Advocate & Solicitor of the High Court of Malaya. Through
+the implementation of this solution, Malaysian Bar Council would be able
+to achieve the following components processes are Registration, Course,
+Administration, Forum, Announcement, Reference, Portal, Reports.
+
+Responsibilities:
+
+Done Coding according to specifications for Course, Forums, and Portal
+modules.  
+
+Development the system using Servlets, Struts and Flash software for
+Course module.
+
+Integrating the modules and testing the functionality
+
+Building and deployment of war files.
+
+Developed Generic JavaScript and java functions for the front-end
+validations
+
+Testing flash courses and related java code pages with different
+browsers functioning
+
+Preparing the Unit test cases and integration test cases
+
+Preparing Code reviews and peer reviews.
+
+PROJECT # 5 
+
+Title          	 : 	E-BILLING
+
+Client                 :         WestPort Sdn Bhd, Malaysia
+
+Software   	 :          JDK1.5, Servlets, Struts, EJB, Jasper Reports,
+Oracle 10g                               
+
+Server 		 :  	WEBLOGIC 8.1
+
+Team Size          :           3
+
+Duration	 :	July 2008 to Jan 2009
+
+Description:  E-Billing is a one of the main product related to
+WestPorts, Malaysia to manipulate port operations. It is an electronic
+online system which contains port related data can able to search  on
+daily, weekly, monthly and yearly bases by giving two dates can get
+manipulated records and reports. These works do on two ways Debit and
+Finance.  E-billing contains certain modules related to Westport
+shipping and management tasks done in the form of modules   Invoice,
+Credit Note, Statement, Payment, Message and Administration. The User
+can get intimation by e-mail through Message module done with Message
+Beans 
+
+Responsibilities:
+
+Switch over the old database into new database by collecting the date
+from two servers.
+
+Done coding and testing of Invoice, and Credit Note modules using
+Struts,EJB
+
+Reports done using jasper reports
+
+Done Business logic according to new requirements using EJB’s Session
+Beans
+
+Developed  JavaScript and java functions for the front-end validations
+based on local class which had the Mask default values
+
+Communicating with testers, giving clarifications and resolving the
+problems.
+
+Attending Daily calls and Project meetings
+
+PROJECT # 6  
+
+Title          	 : 	BMS (BUPRE MANAGEMENT SYSTEM)
+
+Client                 :         Pharmanaiaga, Malaysia
+
+Software   	 :          JDK1.4, Struts, Db Forms, Oracle10g, Eclipse
+IDE, OC4J, Tomcat                               
+
+Team Size          :           6
+
+Duration	 :	Dec 2007 to Jun 2008
+
+ 
+
+Description: 
+
+ The BUPRE Management System (BMS) shall focus on ordering, tracking and
+monitor the      dispensing of medicine. The system contains various
+modules named: Maintenance, Clinic, Approval, Patient Information and
+Enquiry etc…  The main Objective for BMS 
+
+Track and monitor the dispensing of Medicine for selected patients.
+
+Provide EPO text file to Pharmaniaga.
+
+Reduce manual record and bookkeeping. 
+
+Improves stock holding.
+
+ User will be able to query various types of information such as item
+information and patient information based on multiple criteria.
+
+Responsibilities:
+
+As a developer done coding and testing for various screens related to
+Maintenance, Enquiry modules 
+
+Development of Maintenance Module screens done using  JSP, DbForms
+framework
+
+Enquiry module screens done using STRUTS framework
+
+ 
+
+PROJECT # 7 
+
+Title          	 : 	Launch MSP from Work Plan (ARTEMIS 7)
+
+Client                :          Trylogy, U.S.A
+
+Software   	 :          JDK1.1.8&1.4, Servlets, Swing, AWT, MS SQL
+Server, Visual Basic, 
+
+                         MS Project 2000, Install Shield 10, Artemis 7 &
+MSP Interface setups                               
+
+Team Size          :          4
+
+Duration	 :	Oct 2006 to Oct 2007
+
+Description: 
+
+ Launch MSP from Work Plan is a module belongs to Artemis 7 Product.
+Artemis 7 is a web-based investment portfolio management system that
+supports organizations that wish to implement a top-down management
+process to optimize the selection and execution of investments. Through
+the use of various modules, Artemis 7 provides top-to-bottom support,
+from the strategic analysis and approval of investment expenditure, to
+the work content definition necessary to successfully execute those
+investment decisions. Artemis7’s Project Managers to link their
+Microsoft Project plans to Artemis 7 projects. Artemis 7 can be used to
+execute processes such as resource location and management and
+collaboration. The interface allows the detail project plans to be built
+in Microsoft and the plan and resource assignment dates to be published
+to Artemis7.
+
+ Responsibilities:
+
+As a  Module Lead done Coding according to specifications, solving
+Issues, Environment setup, client discussions, testing ,preparing
+documents, plans etc.,  
+
+Development of the User Interface Applets with Swing & AWT
+
+Building war files, creating setup.exe 
+
+Done other CR’s related to Artemis project
+
+PROJECT # 8
+
+Title          	 : 	ABS 
+
+Client          	 :  	Alnova, U.K.
+
+Software   	 : 	Java2, JSP, Servlets, Java Beans, EJB, Swing, AWT,
+Oracle
+
+Server 		 :  	Web logic 7 
+
+Team Size     	 : 	12
+
+Duration	 :	July 2005 to Sep 2006
+
+Description:
+
+ ABS is a Core Banking product for Paris based ALADIN Bank. It supports
+core bank operations like Accounts, Interest, Payments, Customer, Codes,
+EOD services, Enquiry, reports etc, modules. Other Systems depends on
+ABS for core functionality. Interface module is used as a mediator for
+ABS and other systems. The Accounts Module is used to create accounts.
+Customer module contains customer relationship types like
+company/individual type accounts and also contains details like sweeps,
+ATM cards, Passbook details etc. By using enquiry module user can
+retrieve queries. Deals module is to provide the functionality of loans
+that are provide by bank. Risk module is used to set up the risk level
+for accounts. Interface module is used to communicate with surrounding
+systems the interface module basically contains 2 sub modules i.e.
+uploads and downloads and also contain some other main modules. 
+
+Responsibilities:
+
+As a Team Member Involved in development of Accounts, Enquiry and
+Customer modules 
+
+Development of the User Interface using Java Applets, Swing & AWT
+
+Enquiry Forms and Reports done using JSP
+
+Involved in the development and deployment of Enterprise Java Beans 
+
+Done Client side & Server side validations
+
+Done Unit Testing
+
+PROJECT # 9
+
+ Title	     	 :	Appointment scheduling Tool
+
+Employer  	 :  	Trisync Technologies India Pvt., Ltd.
+
+Client        	 :  	Socrates Technologies L.L.C, West Heaven, CT.
+
+			(www.socratestechnologies.com)
+
+Software     	 : 	Java2, JSP, Servlets, Java Beans, JDBC, Oracle
+
+O.S/Server 	 :   	Windows 2000/ Apache Tomcat
+
+Duration     	 : 	Aug 2004 – May 2005
+
+Description: The purpose of the TimeAdmin an Appointment scheduling tool
+is to automate the front desk appointment taking process by checking the
+Resource availability to perform particular task at a given point of
+time. This tool will also help the management to analyze the data and
+find the customer needs and demands. This application is a web-based
+product for Socrates technologies.
+
+	TimeAdmin provides quick, easy, and secure way to book appointments
+with service providers anytime, After-hours, on the weekends, etc.
+TimeAdmin has 24 x 7 accesses to service provider’s front desk.
+TimeAdmin uses 128-bit encryption technology so information is secured
+while booking an appointment.
+
+	TimeAdmin is independent of the business that user operates. Past
+scheduling applications were capable of handing one to one appointment
+relationships. But TimeAdmin can handle one to many appointments and can
+be configured to share tasks among resources based on availability.
+
+Responsibilities
+
+Client side validations were done using java script
+
+Development of the User Interface using Java Server Pages
+
+Done Coding, Testing
+
+PROJECT # 10
+
+Title	    : 		E-Tester
+
+Employer        : 		Trisync Technologies India Pvt., Ltd.
+
+Software         : 		JDK1.3, AWT, Swing 
+
+O.S/Server      : 		Windows 2000
+
+Duration         : 		Feb 2004 – July 2004 
+
+	Description:  The purpose of this project is to conduct examination to
+the students to test their 	caliber. Any training institute can use this
+project. It consists of two modules Administration 	module and User
+module. Administration module which deals with the installation,
+updating and 	deletion of questions from database and also takes care of
+the modules security authentication 	of the password.  User module deals
+with random generation of questions and after completion 	of the
+examination results will be shown. The time limit is specified for the
+test. A countdown 	timer displays the time left for the completion of
+the test. The user can complete the test within 	the time limit. If the
+user doesn’t click on the submit button then the filled in answers are
+	automatically submitted when the time expires. Test result will be
+displayed.
+
+ 
+
+Responsible for coding and implementation of all modules and their
+validation checks getting exact outputs.
+

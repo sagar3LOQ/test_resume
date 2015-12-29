@@ -1,0 +1,374 @@
+NIKESH.E	                             		 	Email: nikesh.tech@gmail.com
+
+ 		                      	 	 	Mobile: +91 9989337393
+
+
+
+Statement of Purpose:
+
+
+
+To pursue a creative and challenging job in the field of Software Industry to reach the zenith of organization and given an opportunity, I would prove my credential qualities in reaching new heights of Java world.
+
+
+
+Professional Summary:
+
+
+
+	5.6 years of rich experience in application development using Java web technologies.
+
+	Certified Scrum developer from Scrum alliance.
+
+	Have Experience on application development using J2EE technologies like JSP, Servlets, JDBC, with ORM-Tool Hibernate 3.0 with JPA, Ibatis etc. using the web technologies HTML, XML and Ajax, with the Springs Frame work using Oracle and My SQL and delivered various tools which built on top of Springs with Hibernate and Ibatis frameworks using JS tools like data table and JQGrid etc.
+
+	Have working knowledge of web services (RESTFUL and SOAP).
+
+	Have knowledge of java script and worked on java script frameworks like Ext JS and angular JS and CSS technologies.
+
+	Have knowledge on shell scripting, and Perl.
+
+	Worked on workflow engines like Anthill pro (AHP) for build script automation using selenium and for Junit auto report alert notification using velocity template.
+
+	Working knowledge on ANT, Maven and Gradle build tools and integration with CI (Continuous Integration) tools.
+
+	Good working knowledge of Apache Tomcat, JBoss, Web Logic, Web Sphere and OC4J.
+
+	Worked on Eclipse and My Eclipse and also have knowledge on Net Beans IDE.
+
+	Experience in reporting tool like I-net Crystal-Clear.
+
+	Working experience on version control tool win CVS, Clear quest, Sub version and RTC (Ration Team concert) and have fair knowledge on continuous integration tools like puppet, Jenkins etc.
+
+	Good at Debugging, trouble shooting and understanding the system.
+
+	Experience in UML designing with Poseidon tool and Object Aid for UML and class diagram.
+
+	Having good Logical and Analytical ability.
+
+	Worked as SPOC (Single point of contact)/ individual contributor and also as a team member for application enhancements and maintenance.
+
+	Very good Team player with excellent communication skills.
+
+	
+
+Core Strengths:
+
+
+
+	Has motivation to take independent responsibility as well as ability to contribute and be a productive team member.
+
+	Team player with good interaction skills, dedicated attitude with constructive & smart thinking. 
+
+	Efficient time management and reporting techniques.
+
+	Good interpersonal and communication skills with assertive personality.
+
+	
+
+Qualifications:
+
+	
+
+		Bachelor of Technology from JNTUH with 65.5%
+
+	
+
+		Intermediate (10+2) from Board of Intermediate, Andhra Pradesh with 87%
+
+	
+
+		SSC from Board of SSC, Andhra Pradesh with 83.3%
+
+
+
+		Work Experience:
+
+	
+
+	Presently taking charge in BA Continuum India solutions Pvt Ltd (Bank of America) as Analyst.
+
+	Worked for Wells Fargo India Solutions Private Limited as senior analyst from Mar-2012 to Apr-2014.
+
+	Worked for Four Soft Ltd., a CMMi Level 5 Company (http://www.four-soft.com) as a Software Engineer from Dec-2009 to Feb-2012.
+
+	Technical Expertise:
+
+			Language	: 	Java and J2EE
+
+			ORM-Tools	: 	 Hibernate3.0 with JPA, Ibatis etc.
+
+			Frame work Software  	:      Springs2.0 and 3.2, Struts 2.0
+
+			Web Technologies	: 	Servlets, JSPs, AJAX, JavaScript, CSS, jQuery, JNDI, Web Services
+
+			Other Technologies	:      JDBC, EJB 3.0 and Hadoop (on Cloudera distribution)
+
+			Mark-up Languages	: 	HTML, XML
+
+			Servers	: 	Apache Tomcat (5.5, 6.0, 7.0), JBoss4.x, WebLogic11g, OC4J 				and Web sphere7.2 and 8.5
+
+			IDEs	: 	Eclipse, My-Eclipse, IBM RAD, worked on Net Beans for POCs
+
+			Tools	: 	PL/SQL Developer, Crystal Clear, Poseidon, JAD, JProfiler, 				Object Aid, Ant Hill Pro (AHP), putty, Tectia , Tortoise SVN, 				Clear case, Smart bear code collaborator, Sonar tool etc.
+
+			Databases	: 	My SQL 5.0, Oracle 11g (PL/SQL)
+
+			Operating Systems	: 	Windows XP/2007, Linux
+
+																      Bug tracking tools        :      WPBN, Clear quest, HP Quality Centre.
+
+		
+
+		Project#1:
+
+		
+
+		Product Title
+
+		ICDP (Integrated Credit Decision Platform) (April 2014 –till date)
+
+		Organization
+
+		BA Continuum India Solutions Pvt Ltd (Bank of America)
+
+		Environment
+
+		Java,J2EE, Spring, Ibatis, Savvion BPM, Spring Batch, HTML, CSS, JSON, JQuery, Web sphere application server, SOAP web services, shell and Perl scripting etc.
+
+		Role
+
+		Team Developer
+
+		Team Size
+
+		21
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		Project Summary:
+
+		             ICDP is a complete end to end integrated credit decision platform which is an efficient tool for lenders. It comes with different flavours like Consumer cards and Small Business. It interacts with credit decision platforms like CTCS and TSYS to get and validate customer information using rule engine there by checking the eligibility for the credit decision. 
+
+		Developed tools (Collaboration Dashboard, MDEL UI, and Productivity Dashboard) as an individual contributor by using Java and J2EE frame works like springs, Hibernate, Ibatis, HTML5 and etc., for which got appreciations and awards from onsite team within less time from date of joining.
+
+		Worked for Gen3 team called G3-Batch which takes care of batch execution of customer requests on application which uses technologies like Spring batch(using readers and writer to read and write data using oracle Stored procedures with the help of Ibatis framework) as an Agile team member on various Sprints.
+
+
+
+		Project#2:
+
+		
+
+		Product Title
+
+		CM Dashboard (March 2012 – March-2014)
+
+		Organization
+
+		Wells Fargo India Solutions Private Limited
+
+		Environment
+
+		Springs, Hibernate, JPA, JMX, Guava API, HTML, CSS, JSON, JQuery, Velocity, Servlets, JSPS, Site mesh, Tomcat 6.x, Oracle 11g, Junit using Mockito and Maven tool.
+
+		Role
+
+		Team Developer
+
+		Team Size
+
+		1
+
+		
+
+		Project Summary:
+
+		             CM Dashboard is a web based tool which allows users to pin point the server environment related information like health status, outages information and affiliate’s information like SAML and server affiliates. It allows the user to browse through the logs and configuration files of server environments through a tool called config browser which is developed on PERL technology. This tool fetches the information through the NFS shares and provides this information to the Dashboard application. This application also allows users to find out the F5 (BIG IP) which is nothing but load balancer related information in a graphical representation manner. I was part of another project called SCCM (Software Configuration Catalogue Manager) which is a tool for Continuous integration and built on top of spring and Hibernate with RESTFUL web services and got knowledge on build and deployment tools like Jenkins and Puppet.
+
+		Responsibilities:
+
+		
+
+		SPOC (Single point of contact) for entire application. 
+
+		Designing and developing the Changes requested by stake holders.
+
+		Demonstrated technical ideas as part of Ideation week.
+
+		Customer support and maintenance.
+
+		5) Involved in complete life cycle of the project from core development to the 	implementation.
+
+	Coding, Code review, Unit testing.
+
+
+
+		Project#3:
+
+		
+
+		Product Title
+
+		eCustoms-CCB    (Jan 2010 – March 2010)
+
+		Organization
+
+		FOUR-SOFT LIMITED (KEWILL)
+
+		Environment
+
+		4S-Framework (developed on top of Springs & Hibernate), JavaScript ,Oracle10g, CVS, JbossEclipse3.0, androMDA (UML), ant, AltovaMapForce and Jboss4.0
+
+		Role
+
+		Developer and Customer Support engineer
+
+		Team Size
+
+		9
+
+		
+
+		Project Summary:
+
+		             ECustoms-CCB (Canadian Customs Brokerage) product deals with different phases of Customs clearance in Supply Chain Management domain. It helps in preparing & sending declarations to customs and receives the status acknowledgements from CBSA. Shipping details from origin of Export (Shipper) to Ultimate Destination (Consignee) can be declared within the well-designed product screens and phases. Product mainly categorized into 3 parts: Base functions, Transactions and EDI modules. Logistics companies, Freight forwarders can use this product starting from filing the import declarations to customs and till the clearance of Invoice bill to customer.
+
+		Responsibilities:
+
+		
+
+		Designing and developing the Change requests made by the FC.
+
+		Customer support and maintenance.
+
+		3) Involved in complete life cycle of the project from core development to the 	implementation.
+
+	Coding, Code review, Unit testing.
+
+	
+
+		Project#4:
+
+		
+
+		Product Title
+
+		eCustoms-ACI (March 2010 – September 2010)
+
+		Organization
+
+		FOUR-SOFT LIMITED (KEWILL)
+
+		Environment
+
+		4S-Framework (developed on top of Springs & Hibernate), JavaScript ,Oracle10g, CVS, JbossEclipse3.0, androMDA (UML), ant, AltovaMapForce and Jboss4.0
+
+		Role
+
+		Developer
+
+		Team Size
+
+		14
+
+		
+
+		Project Summary:
+
+             The Advance Commercial Information (ACI) program introduces more effective risk management processes and tools to identify threats to our health, safety, and security prior to the arrival of cargo and conveyances in Canada.
+
+	Marine Mode: The Advance Commercial Information (ACI) Program requires marine carriers to electronically transmit marine cargo data to the CBSA 24 hours prior to loading cargo at a foreign port (including the U.S.). If the voyage is less than 24 hours in duration, the cargo and conveyance data must be reported at the time of departure from the foreign port.  This requirement allows the CBSA to effectively identify threats to Canada's health, safety, and security prior to the arrival of cargo and conveyances in Canada.
+
+	Air Mode: The Advance Commercial Information (ACI) Program requires all air carriers and freight forwarders, where applicable, to electronically transmit conveyance, cargo and supplementary cargo data to the CBSA four hours prior to arrival in Canada. If the flight is less than four hours in duration, conveyance, cargo and supplementary cargo data must be reported at the time of departure from the foreign airport. This requirement allows the CBSA to effectively identify threats to Canada's health, safety and security before 
+the arrival of cargo and conveyances in Canada.
+
+	eManifest: will require the electronic transmission of advance cargo and conveyance information       from carriers for all highway and rail shipments. In addition, the electronic transmission of advance secondary data will be required from freight forwarders and the electronic transmission of advance importer data will be required from importers or brokers.
+
+		Responsibilities: 
+
+			
+
+		Customer support and maintenance.
+
+		Involved in complete life cycle of the project from core development to the implementation.
+
+	Coding, Code review, Unit testing.
+
+	I was involved in development of CR’s (Client Requirement) and fixing issues related to   application Functionality, UI and Business logic.
+
+	
+
+		Project#5:
+
+		
+
+		Product Title
+
+		eCustoms-ABI (Sep 2010 – Feb 2012)
+
+		Organization
+
+		FOUR-SOFT LIMITED (KEWILL)
+
+		Environment
+
+		4S-Framework (developed on top of Springs & Hibernate), JavaScript ,Oracle10g, CVS, JbossEclipse3.0, androMDA (UML), ant, Jboss4.0 , Web logic 11g, ant tool and JProfiler
+
+		Role
+
+		Developer and Customer Support engineer
+
+		Team Size
+
+		25
+
+		
+
+		Project Summary:
+
+		             ECustoms-ABI (Automated Brokerage Interface) product deals with different phases of Customs clearance in Supply Chain Management domain. It helps in preparing & sending declarations to customs and receives the status acknowledgements from CBP. Shipping details from origin of Export (Shipper) to Ultimate Destination (Consignee) can be declared within the well-designed product screens and phases. Product mainly categorized into 3 parts: Base functions, Transactions and EDI modules. Logistics companies, Freight forwarders can use this product starting from filing the import declarations to customs and till the clearance of Invoice bill to customer.
+
+		
+
+		Responsibilities:
+
+		
+
+		Played key role in the team by developing new initiative tasks. 
+
+		Trained resources that who were new to the team on frame work.                                              
+
+		Designing and developing the Change requests made by FC.
+
+		Customer support and maintenance.
+
+		5) Involved in complete life cycle of the project from core development to the 	implementation.
+
+	Coding, Code review, Unit testing.
+
+	
+
+	Personal Details:
+
+			Date of Birth      		: February 13th, 1988
+
+	Present address 	 :  H.NO:-9-1-365/1/B/4, Janaki nagar, Bapu ghat, Langer House,
+
+		 Hyderabad-500008
+
+
+
+
+
+	                                                                                                                  (NIKESH.E)

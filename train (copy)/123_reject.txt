@@ -1,0 +1,269 @@
+PRASANTH BOKKA
+
+JAVA Developer                                                          
+          Mobile: +91-9642908871.
+
+Professional Synopsis
+
+A result oriented professional with over 5.2+ years of IT experience
+mainly in design, development, and implementation of Web Based
+applications.
+
+Extensive knowledge of Java, J2EE, Struts framework,JavaScript,Oracle,
+PostgresSQL.
+
+Hands on experience in design, development and testing of E-Governance
+applications using JAVA and J2EE technologies.
+
+Experience in working in all phases of Software Development Life Cycle
+(SDLC).
+
+Strong dedication towards work to ensure delivery of projects according
+to the schedules
+
+ Employment Chronicle            
+
+Duration	Organization	Designation
+
+July 2010 – Till date 	Centre for Good Governance, Hyderabad	Senior
+Software Developer
+
+
+
+Technical Profile
+
+Languages		           :  Java,J2EE, SQL, PL/SQL.
+
+J2EE APIs			:  Servlets, JSP, JDBC
+
+Open Source technologies        	:  Struts 1.2.
+
+Web Servers			:  Apache Tomcat.
+
+Web Technologies		:  Java Script, HTML, XML, Ajax, CSS
+
+Databases                  		:  Oracle 10g, PostgreSQL.
+
+IDE 				:  MyEclipse 6.6, NetBeans 6.7, Aqua Data Studio
+
+Report Tool                          :  Tableau Software
+
+Proficiency Overview
+
+Project #1	
+
+Title			 :  National Scholarships Portal.
+
+Client        	           : Ministry of Communications & IT,Govt. of
+India
+
+Role                               :  Designing, Coding  
+
+Software Environment	 : Java, Jsp, Servlets,Struts 1.2, PostgreSQL 9.2,
+Ajax,CSS ,tomcat 7.0                                                    
+    
+
+Team Size		 :  10 members.
+
+Description  		:  National Scholarships Portal is one-stop solution
+through which various services starting from student application,
+application receipt, processing, sanction and disbursal of various
+scholarships to students are enabled. This initiative aims at providing
+a Simplified, Mission-oriented, Accountable, Responsive & Transparent
+'SMART' System for faster & effective disposal of scholarship
+applications and delivery of funds directly into beneficiaries account
+without any leakages.
+
+Responsibilities:
+
+Involved in the development of the business logic.
+
+User Interfaces were designed and developed by using JSP with Struts
+taglibs, HTML, Java script,  CSS, and performed validations using java
+script.
+
+Writing and executing SQL Queries, PL/SQL stored procedures, making the
+data access layer transparent from the business logic layer.
+
+Involved in Data Base Design.
+
+Used SVN for source code version control.
+
+Responsible for gathering user requirements and design of the system.
+
+Involved in integration, testing and deployment of Application.
+
+Gained management experience while working in this position.
+
+Website:   HYPERLINK "https://www.scholarships.gov.in/" 
+https://www.scholarships.gov.in/ 
+
+Project #2	
+
+Title			 :   e-Kalyan Project .
+
+Client        	             :  Tribal Welfare Department, Government of
+Jharkand.
+
+Role                               :   Designing, Coding.
+
+Software Environment	:    Java, Jsp, Servlets,Struts 1.2, PostgreSQL
+9.2, Ajax,CSS ,tomcat 7.0.                                              
+          
+
+Team Size		:    4 members.
+
+Description  		:  The Welfare Department running various schemes for the
+welfare of the backward classes and the SC/ST. A step towards achieve
+speedy, transparent & accountable governance. .The system links all
+welfare departments, treasury, databases of Secondary Schools
+Certificate (SSC), colleges and banks to disburse scholarships. This
+system enables online transfer of Post Matric scholarship money to
+students below the Poverty Line, wherein directly tuition fee
+reimbursement is made to colleges and maintenance fee to the student
+after due verifications into respective bank accounts. Processing of
+students' applications for scholarships, sanctioning and passing of
+bills for disbursement are enabled in the system.
+
+Responsibilities:
+
+Involved in the development of the business logic.
+
+User Interfaces were designed and developed by using JSP with Struts
+taglibs, HTML, Java script, Ajax, CSS, and performed validations using
+java.
+
+Writing and executing SQL Queries, PL/SQL stored procedures, making the
+data access layer transparent from the business logic layer.
+
+Involved in Data Base Design.
+
+Designed reports using Tableau software.
+
+Responsible for gathering user requirements and design of the system.
+
+Website:   HYPERLINK "http://www.ekalyan.cgg.gov.in/" 
+http://www.ekalyan.cgg.gov.in/ 
+
+Project #3
+
+Title			 :  Karnataka  Electronic Payment & Application System of
+Scholarships.
+
+Client        	             : Department of Backward Class Welfare,
+Government of Karnataka.
+
+Role                                : Designing, Coding and Maintaining
+the website
+
+Software Environment	  : Java, Jsp, Struts 1.2, PostgreSQL , Ajax,CSS
+,tomcat 6.0,Tableau.                                                    
+    
+
+Team Size		:  4 members.
+
+Description  		:  It is a Web Based Online Application that allows the
+students of Karnataka  to register the applications for Scholarship
+.Using this web application student can track their application status
+and can also edit their details using sliding option. Upon the
+successful submission of the application it will be delivered to the
+respective college principal’s login. Principal then bonafi the
+applicant and forwards it to the concerned Verification Officer  and
+forwards it to Taluk Officer. District Officer sanctions the amount and
+sends the concerned proceeding to Treasury for release of amount.
+
+Responsibilities:
+
+Involved in the development of the business logic.
+
+Designed and Developed Presentation Tier using struts taglibs, JSP,
+HTML/DHTML, CSS, Ajax and JavaScript.
+
+Writing and executing SQL Queries, PL/SQL stored procedures, making the
+data access layer transparent from the business logic layer.
+
+Involved in Data Base Design.
+
+Designed reports using Tableau software.
+
+Responsible for gathering user requirements and design of the system.
+
+Involved in integration, testing and deployment of Application.
+
+Website:   HYPERLINK "http://www.karepass.cgg.gov.in/" 
+http://www.karepass.cgg.gov.in/ 
+
+Project #4	
+
+Title			 : Electronic Payment & Application System of Scholarships 
+(ePASS).
+
+Client        	             : Social Welfare Department, Government of
+Andhra Pradesh
+
+Role                                : Designing, Coding 
+
+Software Environment	  : Java, Jsp, Servlets, Struts 1.2, PostgreSQL,
+CSS ,tomcat 6.0,web server 5.5.                                         
+               
+
+Team Size		:  4 members.
+
+Description  		: It is a Web Based Online Application that allows the
+students of Andhra Pradesh to register the applications for Scholarship
+.Using this web application student can track their application status
+and can also edit their details using sliding option. Upon the
+successful submission of the application it will be delivered to the
+respective college principal’s login. Principal then bonafi the
+applicant and forwards it to the concerned Verification Officer  and
+forwards it to District Officer. District Officer sanctions the amount
+and sends the concerned proceeding to Treasury for release of amount.
+Treasury will release the amount to student and concerned college.
+
+Responsibilities:
+
+Involved in the development of the business logic.
+
+User Interfaces were designed and developed by using JSP with Struts
+taglibs, HTML, Java script,  CSS, and performed validations using java
+script.
+
+Developed reports as per the client’s requirement.
+
+Involved in workflow studying.
+
+Involved in bug fixing.
+
+Website:   HYPERLINK "http://www.epasswebsite.cgg.gov.in/" 
+http://www.epasswebsite.cgg.gov.in/ 
+
+Education
+
+M.Tech (Computer Science Engineering) with   an  aggregate  of  67% from
+Gokaraju Rangaraju Institute of Engineering and Technology 
+(JNTU)(Sep-2007- Nov-2009) (through GATE)
+
+B.Tech (Computer Science Engineering) with an aggregate of  58% from PVP
+Siddhartha Institute of Technology (JNTU) (2003-2007).
+
+Intermediate with an aggregate of 72% from Board of Intermediate
+Education, Andhra Pradesh in 2003. 
+
+SSC with an aggregate of 66% from Secondary School Of Education in 2001.
+
+Personal Details
+
+            Name                         :     Prasanth Bokka
+
+Date of Birth              :     29th Aug, 1986.
+
+Gender                      :    Male
+
+Maritial Status             :    Married
+
+Address                     :    S/o B.A.Prakasarao,
+
+                                    Plot No-2, Potlapally Residency,
+
+                                    Miyapur,Hyderabad.
+

@@ -1,0 +1,250 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+         -  2.4 yr and current
+
+Spring                  
+                          2.4 yr and
+current                                �
+�              
+
+Web
+Services                                
+-  no
+handson                                �
+�             
+
+Core
+Java                                  
+      -  6.8 year
+
+Design
+Patterns                             
+- worked
+
+UML
+design                                 
+          No
+
+Build Tools (Maven/Ant)                    -   
+Maven
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Eclipse,jboss
+
+himansu.meher @gmail.com							
+
+9849577400                                                              
+                                                                        
+                                                   
+
+======================================================================
+
+I am a software engineer having 6years 8 months of experience with clear
+and good understanding of Object Oriented Programming concepts (OOP)
+JAVA as a basic skill set. 
+
+As a quick Learner and a strong understanding capability, is capable of
+switching to any domain or functional area and skill set easily within a
+limited time frame. 
+
+Basically a person with very positive attitude and can give its best
+commitment towards its employer and adheres to all the quality processes
+and techniques required to deliver optimum quality results for an
+organization.
+
+Academic Profile 
+
+Passed B.E. in Information Technology from Utkal University,
+Bhubaneswar, Odisha.                                                    
+             
+
+Passed 10+2  in science from Jawaharlal college, Patnagarh , Odisha.
+
+Passed 10th from RamaiHighSchool, Patnagarh, Odisha .
+
+Professional Experience 
+
+Working as senior software developer at Prokarma Softech Pvt. Ltd from
+June 2012.
+
+Worked as a software developer at ADP, Hyderabad from October 2010.
+
+Worked as a software engineer at Symphony Services, Bangalore from Feb
+2008.
+
+Hands on experience on server-side development using Java1.6, Spring,
+Hibernate, Servlet2.3 and JSP1.2 using Tomcat, IBM WebApplicationServer 
+ Jetty web server, IBM RAD.
+
+Good working Experience in object-oriented component analysis and
+implementation according to industry leading J2SE and J2EE standard.
+
+Certification
+
+	Oracle Certified Java Programmer (75% , October-2011)
+
+Technical Skill Set 
+
+Hands on Experience 
+
+Java , Spring, Hibernate,  html, xml
+
+Servlet2.3 ,  JSP1.2
+
+JUnit, TestNG
+
+My Eclipse , Jetty
+
+Windows xp, Windows 7, Unix VM. 
+
+Awareness 
+
+C, C++, JBuilder, Tomcat, Weblogic,  JSF, EJB, GreenHat,Struts,JMS
+
+Strengths and Achievements
+
+A committed team player, self-starter, multi-tasker, detail oriented
+with good communication and presentation skills.
+
+Sincerity, dedication, confidence and positive attitude.
+
+Adaptable to any environment and can manage competing demands and
+changes according to the situation.
+
+Gift of hard work and commitment to work. 
+
+Excellent team building skills and leadership qualities.
+
+Work effectively as a part of a team.
+
+Project Details -:- 
+
+Project # 1:               TerminalManagementInventory		UPRR
+
+Aug -2012  to  present  for Prokarma
+
+Technologies
+
+Java1.6, Servlet2.3, Spring, Hibernate
+
+Jetty web server
+
+Role and Responsibilities 
+
+Developed and implemented modules of the applications using Object
+Oriented Programming fundamentals and Spring framework.
+
+Act as a point of contact for team for the dedicated modules or on
+technical matters and provide support as necessary.
+
+Mentor developers with best practices, procedures and concepts.
+
+Fix defects in code and participate in peer reviews and program testing.
+
+Project Summary
+
+TMI is an inventory management project which deals with trains
+shuffling, yarding, receiving and departing at terminals.
+
+Processes inbound and outbound trains .
+
+Processes equipment shuffling and classification.
+
+Project # 2:               Pay-Expert			ADP Private Ltd.
+
+Oct -2010  to  Jun-2012  for ADP
+
+Technologies
+
+Windows Xp.
+
+Java1.6, JSP1.2, Servlet2.3
+
+ IBM RAD, IBM WebApplicationServer, UNIX VM.
+
+Role and Responsibilities 
+
+Developed and implemented modules of the applications using Object
+Oriented Programming fundamentals and spring framework.
+
+Act as a point of contact for team for the dedicated modules or on
+technical matters and provide support as necessary.
+
+Mentor developers with best practices, procedures and concepts.
+
+Fix defects in code and participate in peer reviews and program testing.
+
+Project Summary
+
+Pay-Expert is a payroll processing project which processes payroll for
+its client.
+
+Process payroll your way with customizable pay data grids.
+
+Access employee and payroll data via a library of standard reports.
+
+Create custom reports on the fly utilizing your payroll, HR and time and
+attendance data. 
+
+Reduce administrative tasks with user-friendly manager and employee
+self-service features. 
+
+Simplify compliance tracking with innovative new hire reporting and wage
+garnishment processing features. 
+
+Project # 3:              Jupiter-Excalibur		Symphony Services
+
+Feb -2008 to Sep-2010 for Hitachi
+
+Technologies
+
+Windows Xp, Java1.5, JSP1.2 ,UCosminexus8.0
+
+Role and Responsibilities 
+
+Desktop Management Module coding, testing and PCL execution.
+
+Setting up the development environment for team members, that involved
+Cosminexus, HiRDB, JP1DTnavi setup. 
+
+Project Summary
+
+JP1 is a suite of enterprise-class tools for managing distributed
+enterprises. Desktop Navigation allows system administrators to monitor
+devices on the network, ensuring security, IT compliance and
+environmental friendliness.
+
+This project is a web-based application focused on System
+Administration. Using this product, all the workstations located within
+an organization or any other network can be monitored and updated in
+real-time. This product will deliver all the features that can be
+utilized by a System Administrator to locate, monitor and update at
+real-time. 
+
+The main modules of this product include Desktop Management, Security
+Management, Network Management and Discovery management.
+
+Personal Profile
+
+ Date of birth          :  13/Aug/1981
+
+ Sex                       :   Male
+
+ Marital status        :   Married
+
+ Nationality             :   Indian
+
+ Language              :   English, Hindi and Odiya                 				
+
+                                                                        
+        
+
+Place: Hyderabad                                                        
+                       Himansu Sekhar Meher
+
+  PAGE   \* MERGEFORMAT  5 
+

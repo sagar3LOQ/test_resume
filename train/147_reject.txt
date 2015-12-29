@@ -1,0 +1,313 @@
+Chandrasekharreddy Putcha
+
+Email: csfrchandrasekhar@gmail.com
+
+	Mobile: +918885860390
+
+	
+
+	CAREER OBJECTIVE:	
+
+ 
+
+ Aiming to be associated and be a part of team that dynamically works towards the growth of the
+
+ organization and gain satisfaction thereof.
+
+
+
+	PROFESSIONAL SUMMARY:	
+
+Around 5 years of experience in design, development of multi-tier web based and Distributed Applications in java and j2ee environments.
+
+2 years of experience in various businesses of GE Finance.
+
+Proficient in developing Object Oriented Software projects on Operating Systems like UNIX and Windows.
+
+Extensive experience working in an Agile development environment and waterfall methodologies
+
+Strong experience in developing the web and enterprise applications using frameworks like Struts, Spring, Hibernate. 
+
+Extensively worked on UI layer using HTML, DHTML, CSS, JavaScript, AJAX and JQuery.
+
+Experience in developing J2EE applications using ORM Persistence frame work (Hibernate) and JPA (Java Persistence API).
+
+Experience in creating/developing java webservices components using JAX-WS implementations such as Metro, Axis2.0 and WSDL (Webservices Description Language). 
+
+Experience in developing Restful Webservice components using Spring MVC restful webservices annotations concept.
+
+Having good knowledge on creating/developing java Webservices components using JAX-RS implementations such as Jersey, RESTEasy
+
+Used JAX-B for Marshalling and Unmarshalling purposes while developing distributed applications using SOAP Web Service.
+
+Good at Analyzing and Testing the data transfer fetched from web services using SOAPUI.
+
+Experience in creating Form Beans and declaring the mapping by using Struts. 
+
+Implemented Ajax for asynchronous data processing and validation.
+
+Used Spring Web MVC framework for the applying MVC Implementation to the web application.
+
+Used Spring ORM to integrate Spring Framework with hibernate and JPA.
+
+Used Spring Quartz Scheduler for scheduling the jobs.
+
+Used spring’s Jdbc and DAO layers to offer abstraction for the business from the database related code (CRUD).
+
+Used Spring AOP module to handle transaction management services for objects in any Spring-based application and used Spring AOP Aspect J annotations for handling exceptions.
+
+Earned good experience in working with servers like Apache Tomcat, Web Logic, Glass Fish and Websphere.
+
+Experience in Database Development using SQL, PL/SQL and Stored Procedures.
+
+Experience in working with development tools like Maven, ANT, Log4j and JUnit.
+
+Dedicated to successful project completion with the ability to work well in a large group or as an individual under deadline pressure.
+
+Excellent analytical and Wide Exposure in problem solving and debugging skills.
+
+
+
+	PROFESSIONAL EXPERIENCE:	
+
+
+
+Polaris Financial Technology Limited				           Sep 2012 to till date
+
+Software Engineer
+
+Polaris Consulting & Services Limited is a global leader in Financial Technology (FT) for Banking, Insurance, and other Financial Services
+
+Oakton Global Technology Center INDIA PVT LTD, Hyderabad	            May 2010 to July 2012
+
+Software Developer
+
+Oakton is an Australian consulting and technology firm having onshore and offshore development centers. It brings industry experience, business insight and specialist technology solutions to help clients make the right decisions.
+
+
+
+	EDUCATIONAL QUALIFICATION:	
+
+
+
+B. Tech (E.C.E) – Nova College of engineering and technology. Affiliated to JNTU Hyderabad (2006)
+
+
+
+	TECHNICAL SKILLS:	
+
+
+
+Programming Languages	:		Java1.6, Servlets, JSP, JDBC, SQL, J2EE,                                                                				 SOAP & RESTFUL Webservices.
+
+Web Application frameworks	:		Jakarta Struts, Spring MVC Framework.
+
+Operating Systems		:		Windows XP/7, UNIX, Linux.
+
+Development Models		:		Waterfall model, Agile modeling. 
+
+Databases			:		SQL Server 2005, Oracle 9i/10g.
+
+Web Technologies		: 		HTML, JSP, JavaScript, Ajax, JQuery, JSON, XML.
+
+ORM Framework		:		Hibernate, Java Persistence API (JPA).
+
+Servers				: 		Web Logic, Glassfish, Apache Tomcat.
+
+IDE/Tools/Utilities		: 		Eclipse, Ant, Maven, SVN, Junit, WinSCP, Putty, 
+
+                                                                                         TOAD, SQL Developer, Log4j, WebEx.
+
+	
+
+	PROJECT DEVELOPMENT EXPERIENCE:	
+
+	
+
+	Project#1:
+
+EPAL
+
+Client: Ally Financial Group.
+
+Duration: mar2014 - Jan 2015
+
+EPAL is a customer facing web application, where dealers, distributors and internal users use this application and it is Ally's online account management system for dealers. EPAL gives dealers a secure online environment to manage all aspects of dealers’ account including Make payments, View facility/stock, View reports. Distributor can make use of this application for doing following functionalities Request New Releases, Upload or input invoices, Make payments, View dealer facility/stock, View floor plans, View reports. Internal Staff uses this application for User administration for internal, dealer, distributor users. Viewing dealer and distributor information (payments, stock, etc.).
+
+
+
+Responsibilities:
+
+Member of the analysis and design team, which interacted with the functional leads for understanding of business process and converting them into techno-functional documents.
+
+Designed and developed various screens using HTML, JQuery, JSP, spring tag library
+
+Designed the entire web application framework using Spring MVC and Spring RESTFUL webservice. 
+
+Involved in configuring  the beans in the configuration file of Spring framework 
+
+Implemented controller classes to call the a self-contained Transaction Gateway which is webservice call to access CICS Transction Gateway Daemon which in turn accesses CICS Transaction Server (TS) on the mainframe.
+
+Developed the code to download various reports (in PDF format) like Trust Receipt document, Tax Invoices, ADB Billing etc.
+
+Wrote Cron jobs to schedule tasks which are executed every night to apply transformation on database data and then it will generate required PDF files.
+
+Wrote Unit tests to test the application using the JUnit Framework 
+
+Used Log4j to store the log statements into log file which can be used for debugging the applications.
+
+Used Subversion as version control to maintain the code repository.
+
+
+
+Environment: HTML, JQuery, spring3.x, Oracle 10g, Maven, SVN, log4j, Eclipse, Apache Tomcat, JBOSS, Linux, Spring RESTFUL webservice, JNDI, SQL Developer, Main Frames Aware.    
+
+
+
+	Project#2:
+
+	Partner Integration
+
+	Client: WU
+
+	Duration: apr2013 to jan2014
+
+	
+
+Partner Integration is a simulator for the WU agents Developed for the north eastern Region.
+
+Agents can Transact the money for the users by using this application many modules are there,
+
+Data accessing services (DAS) is one of the module which has the service Inputs and it will hit the
+
+webservice and the response data.
+
+
+
+Responsibilities:
+
+Participated in the business requirements meetings and provided inputs.
+
+Developed various front end web pages using HTML, CSS, AJAX, JQUERY DATA TABLES.
+
+Responsible for developing major MVC components using Spring MVC Framework.
+
+Used SOAP UI to test the web service request/response scenarios.
+
+Used spring framework's Dependency Injection (Inversion of Control/IOC) to effectively manage various bean components across the application.
+
+Used spring framework's Aspects to log some important data such as time taken for execution of methods etc which is used to analyze the performance of the application
+
+Performed unit testing for various components using Junit Framework.
+
+
+
+Environment: Core Java, Spring, Hibernate, XML, HTML, Ajax, JQuery, JSP, WSDL,Axis2, Oracle,Log4j,
+
+SOAP Webservices, Eclipse, Maven, Apache Tomcat, IBM WebSphere.
+
+
+
+Project#3:
+
+SMP (Simplify Merchant Portal)
+
+Client:  GE Finance
+
+Duration:   july2011 – may2012
+
+
+
+
+
+SMP is a web based application divided into two parts one for Australia (AU) and one for New Zealand (NZ), and each part has Merchant Portal and Staff Portal. The merchant portal is used at stores by merchants to put through deals for customers on the shop floor, while the staff portal is used internally at GE for merchant support and applications through different channels e.g. fax. Both AU and NZ have merchant and staff portals with the same functionality.
+
+
+
+The Merchant Portal will be the primary tool for GE Money Retail Finance to communicate with merchants. The aim of the Merchant Portal is enable merchants to help themselves and to support merchants where possible with minimal intervention from the GE Merchant Support team.
+
+
+
+The primary purpose for the Staff Portal is to enable GE Money Retail Finance to have an integrated system to process all retail finance applications thus removing any duplicate systems and processes.
+
+
+
+Responsibilities:
+
+Involved in meeting with business to gather requirements.
+
+Involved in analyzing business requirements and compose them into a technical usecases.
+
+Involved in creating class and sequence diagrams using RationalRose.
+
+Designed and developed the application based on MVC framework.
+
+Created HTML, CSS, AJAX, JSTL and JSP pages for Presentation Layer.
+
+Wrote various Struts framework Action classes for interfacing with the business logic, form beans for presenting the data to JSPs.
+
+Involved in managing complete implementation of a Web Service to interact with Activate  and   
+
+CardPac webservices.
+
+Developed web services from scratch using AXIS2 implementation following top-down approach.
+
+Used JAXB for generating java objects from XMLSchema.
+
+Used SOAP UI to test the web service request/response scenarios.
+
+Used Hibernate based Object/Relational mappings (ORM) to map the Java-based  entities/fields   with the corresponding RDBMS tables/columns.
+
+Interacted with the Users and Documented the Application.
+
+Participated in designing Use-cases and Database Designing using Rational Rose.
+
+Used SVN tool as version control system to check in and checkout the code.
+
+Used Log4j to log debug, error and informational messages at various levels
+
+	
+
+Environment: Linux, Core Java, Struts, Hibernate, XML, HTML, JSP, JSF, SOAP Webservices, Apache 
+
+Tomcat, WebLogic 8.1, Axis2, Oracle, Eclipse, Log4j, ANT, RightFax Server, SQL Developer,
+
+Mainframe Aware, Veda webservice, VisionPlus, Activate.
+
+		
+
+Project#4
+
+EApps
+
+Client: GE Finance
+
+Duration:  sep2010 – mar2011
+
+
+
+	EApps is a web-based application for the end users to register for Credit cards of various products of GE Money across AU and NZ. And it provides options for entering the personal and income related data new credit cards registration. Post to the submission of the details the data is then moved to decision making of the cards approval to the requested user via a distinct application Activate. This Activate uses the details for completing the registration of the card for the new user and saves the data at Vision side which is a data repository of CICS environment
+
+
+
+Responsibilities:
+
+Involved in the application development and changes to the application based on the business promotions and requirements.
+
+Created HTML, CSS, AJAX, JSTL and JSP pages for Presentation Layer.
+
+Involved in the application development and changes to the application based on the business promotions and requirements.
+
+Involved in managing complete implementation of a Web Service to interact with Activate and CardPac webservices.
+
+Wrote various Struts framework Action classes for interfacing with the business logic, form beans for presenting the data to JSPs.
+
+Implemented unit test cases for each business component using Junit framework.
+
+	
+
+Environment: Core Java, Struts, Hibernate, XML, HTML, JSP, JSF, SOAP Webservices, ANT, Linux,
+
+Apache Tomcat, WebSphere, Axis2, Oracle, Eclipse, Log4j, ANT, SQL Developer, Mainframe Aware,
+
+Veda webservice, Vision Plus.

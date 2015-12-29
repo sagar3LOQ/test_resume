@@ -1,0 +1,305 @@
+ RAKESH TIWARY
+
+Address                                                                 
+                                                       E-Mail:
+raakeshtiwary@gmail.com
+
+	 Phone Num: 9972488150
+
+LN Layout,
+
+Marathalli                                                              
+                          
+
+Bangalore, India, 560037
+
+                                  
+
+PROFESSIONAL SUMMARY
+
+Total Experience: 6 years and  4 months
+
+Designation: Lead Consultant
+
+Company: Genpact Headstrong
+
+Designation: Senior Associate Projects
+
+Company: Cognizant.
+
+Designation: Application Developer.
+
+Company: Oracle India Pvt. Ltd.
+
+Designation: Software Engineer.
+
+Company: Symphony Services.
+
+Designation:    Software Engineer Trainee.
+
+Company:       Mahindra Satyam.
+
+                                                                       
+TECHNICAL EXPERTISE
+
+Operating Systems	                                       Windows, Linux
+
+Programming:         
+
+    Technology:  	                                       Java/J2ee, 
+SOAP/Rest Web Services,
+
+						   Spring DI, AOP, Declarative Transaction Management
+
+						   MVC, Autosys, Angular JS
+
+    Web Framework: 	                                       Stripes,
+Wicket
+
+    Persistence Framework:                              Hibernate
+
+    Build Technology:                                        Maven
+
+Web/App Servers:                                            Tomcat, Web
+Logic, Web Sphere
+
+DBMS			                                       Oracle 10g, DB2 9.7 
+
+Tools			                                       Eclipse (Galileo),
+JDeveloper
+
+Domain Knowledge	                                       Banking, Supply
+Chain, Telecom
+
+                                                                        
+       PROFESSIONAL EXPERIENCE
+
+1. Project : Loan Pricing Application
+
+    Client: Morgan Stanley                                              
+                                             Date: May-2014 – Present.
+
+    Employer: Genpact Headstrong         	                              
+                                   Role: Lead Consultant
+
+The loan pricing is a conglomerate of 3 application namely mortgage
+pricerr, TL pricer and PlA pricer. This application help the business
+users to calculate rates , profit and all while shelling out loan. It
+takes care of rating of the customer and amortization calculation ,
+interest rate calculation etc. This application interacts with multiple
+3rd party to get the market data and other parameters required to make
+the calculation.
+
+Responsibilities: 
+
+Involved in the scratch development of the mortgage pricer including
+design discussion..
+
+Developed a java api for data migration from old platform to new ,
+single handely.
+
+Interaction with business users and Deployment and release of the
+application to prod environment.
+
+Tools/ Technology used: Java/J2ee, Spring(All Module), Angular JS,
+Autosys Jobs
+
+2. Project : Number Translation Service
+
+    Client: Huawei                                                      
+                                     Date: Dec-2013 – May 2014.
+
+    Employer: CTS           	                                           
+                                    Role: Team Lead
+
+This Product deals with Free Phone services. The subscriber of this
+product will be some Telecom service provider like Airtel who can then
+provide Single Contact point for their customer and at runtime can
+translate the and connect to the most suitable number. The single point
+of contact for the customer is called Subscriber Number which follow the
+access code (like 1800). 
+
+Responsibilities: 
+
+Involved in Development of the major modules NTS and Route Tree.
+
+Leading a team of 7, and responsible for the on time completion and
+delivery of assignment.
+
+Providing the install and upgrade package for all the releases including
+Installation and set up documents.
+
+Tools/ Technology used: C++, SNE Developer, Huawei NGIN Platform
+
+                                                                        
+       PROFESSIONAL EXPERIENCE
+
+3. Project : Supply Chain Orchestration
+
+    Client: Oracle                                                      
+                                      Date: Jan-2012 – Dec 2013
+
+    Employer: Oracle           	                                        
+                          Role: Application Developer
+
+Supply Chain Orchestration (SCO) is a product from Oracle that will
+enables customers to orchestrate and create supplies across
+heterogeneous execution systems (both internal/external) using
+configurable business processes that are authored and managed by
+business users. This also allows customers to track and monitor the
+progress of the supplies throughout its lifecycle across heterogeneous
+systems. It also enables to dynamically induct a functional layer like
+shipping to SCO and also to register a external heterogeneous execution
+system.
+
+Responsibilities: 
+
+Involved in Analysis, Design and Development of the major modules.
+
+Working on one of the four architectural layer of Supply Chain
+Orchestration (SCO).
+
+Participation in Designing ADFBC and SOA layer. Individual contributor
+in writing ADFBC Services, Data Modeling and SOA composites.
+
+Building of major chunk of the Functional Task Layer involved including
+Transfer, Buy, Approval.
+
+Writing JUnits using ADFBC Test framework..
+
+Tools/ Technology used: Java/J2ee, JDeveloper, Oracle SOA Suite 11g,
+Application Development Framework (ADF), Oracle DB.
+
+Methodology:  Agile Development Methodology (Scrum/Sprint).
+
+4. Project Mobiliser
+
+    Client: Sybase Paybox, Germany                                      
+                            Date: Apr-2010 – Jan 2012.
+
+    Employer: Symphony Services	                                        
+                          Role: Software Developer
+
+Mobiliser is a core mBanking cum mPayment product from Sybase Paybox. It
+enables commercial organization like bank to integrate mobility to their
+service portfolio in bank agnostic manner. It is an extendible and
+portable core product with a set of standard services, while providing
+flexibility to add services demanded by specific client, by customizing
+the product. It is portable to most of the existing DBs including
+ORACLE, DB2, POSTGRES, SYBASE_ASE and App Servers like WAS. This core
+product is being used by various interfaces including WEB, SMS, USSD,
+WAP, Rich Client, STK, IVR etc. The product, on basis of services, has
+been modularized into four sub part namely- Banking Mobiliser, Payment
+Mobiliser, TopUp Mobiliser and Remittance Mobiliser. All the various
+modules are collection of several closely related services. 
+
+Responsibilities: 
+
+Involved in Analysis, Design and Development of the major modules.
+
+Customizing the core product and the Corresponding web Interface
+interacting with the core product for transitive clients. 
+
+Porting the web app and the core product (mobiliser) to the DB2 and
+WebSpshere.
+
+Mavenising the existing code base from ant, to build packaged structure
+of closely related services. So that 
+
+The customer could opt for required package depending upon his need.
+
+Tools/ Technology used:  Eclipse Galileo, Java/J2ee 1.5 , Hibernate
+3.0,Spring DI,AOP,Txn Management, Stripes 1.5, Oracle 10g  and DB2 9.7 
+Databases,  Maven 2.2, Tomcat  6.0 ,Web Sphere 6.1.
+
+Methodology:  Agile Development Methodology (Scrum/Sprint).
+
+5. Project Title: Secure Transportation and Access in Total (STAT)
+
+    Client:       Mahindra Satyam                                       
+                                Date: Dec 2008-June 2009
+
+ Employer: Mahindra Satyam	                                             
+                     Role: Junior Developer
+
+Description: It deals with the issues regarding the security of
+Passenger moving in a vehicle/Bus.  STAT stands
+
+For Secure Transportation and Access in Total. As the name suggests, the
+product focuses on the solution to
+
+Monitor the vehicle for the security of a person. It provides robust
+security by maintaining all routes and
+
+Personal information of passengers as well as vehicle. Thus service
+provided by the product commensurate to a
+
+Security personnel providing security 24x7 bases. The product has the
+capacity of adroit handling all the
+
+Capricious emergency situation which can occur while is on move and was
+also supposed to be integrated with authorities to deal with those
+situations.
+
+POC: The Proof of Concept (POC) part was to track a robot, moving over
+the lab, on a digital map of the lab using Socket programming. The robot
+is connected to the network through a common system. It is also
+connected to sonar based navigation system mounted over the lab to
+simulate the GPS.
+
+Responsibilities: POC Development. 
+
+Tools/ Technology used: Net Beans 6.0, java/J2EE 1.5
+
+                                                                  
+EDUCATIONAL QUALIFICATION 
+
+             
+
+                                                                  
+ACHEIVMENTS 
+
+• Awarded with a You Made a Difference Certificate by Symphony
+Services for performance and for the role played in achieving
+exceptionally good CSAT.
+
+• Awarded with a MERIT CERTIFICATE by Satyam Learning Center for
+securing second position in  training program.
+
+• Awarded a MERIT CERTIFICATE in National Mathematics Olympiad B-Level
+and a passing certificate in the
+
+   Same contest at A-Level.
+
+• Worked under Help Age India for raising money to help the elderly
+citizen of India.
+
+                                                                        
+    PERSONAL DETAILS   
+
+      Date of Birth:                05th April 1986.
+
+      Languages Known:      English, Hindi.
+
+      Hobbies:                        Blogging, Listening Music.
+
+       Sex:                                       Male.
+
+       Marital Status:                    Single.
+
+Rakesh Tiwary	Page   PAGE  1  of   NUMPAGES \*Arabic  4 	               
+
+Course	University/Board	Year	Marks
+
+B.E.
+
+	BIT Sindri	2004-2008	77%
+
+XII	DAV Koylanagar	2003	76.8%
+
+
+
+X	DAV Barora	2001	81.8%
+
+ 
+

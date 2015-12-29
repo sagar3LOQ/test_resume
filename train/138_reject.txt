@@ -1,0 +1,159 @@
+             
+
+V.L.PADMAJA                                                             
+          Mobile: +91-9066276884     
+
+                                                                        
+                           vlakshmi021@gmail.com	
+
+Objective:
+
+                    To be a potential resource to the organization where
+I can utilize all my skills & knowledge which would help the
+organization to grow & further enhance my growth profile in a
+professionally challenging environment.
+
+Summary: 
+
+Having 3+ years of experience in IT Industry with special emphasis on
+developing web based applications using various Java, J2EE technologies
+(Core Java, Servlets,JSP, Hibernate, Struts ,Springs).
+
+Exceptional ability to learn new technologies and to deliver outputs in
+short deadlines.
+
+Skills on spring framework to provide Better Leverage and POJO
+development.
+
+Hands on experience in implementing MVC2 Architecture using Struts
+Framework.
+
+Good knowledge in Struts Validation framework. 
+
+Good skills on Web page development using JSP, HTML.
+
+Have good Analytical, Problem solving, Interpersonal and Presentation
+skills.
+
+Resolved routine to complex programming problems with appropriate
+solutions
+
+Easy learning and flexible to work on different kinds of API’s and
+Technologies.
+
+Professional Summary: 
+
+Working as Software Engineer for Micro Land, Bangalore from April 2011
+to till Date.
+
+ Education:
+
+Bachelor of Degree from Acharya Nagarjuna University in 2010.
+
+Skill Set: 
+
+Operating Systems	:	Windows XP/2007, Linux 
+
+Java Skills		:	JSP, J2EE, JDBC, Servlets.
+
+Java Related Skills	:	HTML, XML, CSS, and JavaScript.
+
+Languages 		:	Java.
+
+Framework		:	Struts , Spring, Hibernate.
+
+App/Web Servers 	:	Web logic, Apache Tomcat.
+
+IDE			:	My Eclipse, Eclipse.
+
+Repots Generation	:	itext
+
+Databases		:	Oracle .
+
+PROJECT PROFILE:	
+
+Project # 1:
+
+    Project Name: Customization And Implementation Of ERP In Beverages
+Company
+
+       Role	:      Java Developer.
+
+      Team Size		:      12   	
+
+      Environment: Spring, Hibernate, jsp, javascript, Oracle, Ant, Web
+logic
+
+    
+
+Project Description :
+
+Web Based ERP is applicable for any Engineering and Trading Companies.
+This it
+
+CoversQuotations,PurchaseOrders,GRNs,Productions,DeliveryBills,StockMana
+gement    for Both Raw Materials & Finished Goods. It also create an
+Invoices for Every day  
+
+Data Sold. It also provides Finance,HR Management system. This Web Based
+ERP 
+
+Is applicable for any Engineering And Trading Companies. Customer
+Relationships 
+
+Main theme of this application
+
+Acquired Knowledge :
+
+ 
+
+Understood and developed GRN Module
+
+Good exposure in Finance operations
+
+Good exposure in HR management operations
+
+Roles & Responsibilities:
+
+ Involved in implementation of Controllers.
+
+Developing of JSP Pages
+
+Involved in Hibernate ORM.
+
+Working on Service and Dao layers
+
+Creating Design document, unit Testing and Code Review documents.
+
+  Project#2:
+
+ Project Name 	:      Membership Rewards (Select & Pay)
+
+Role	:      Java Developer.
+
+Team Size		:      10   	
+
+Environment	:      Struts,Hibernate,Jsp,Oracle,Java-script,Ant,Weblogic
+
+Project Description: 
+
+International Select and Pay application is one of the important
+applications of Gulf Bank Membership Rewards Program, Which gives
+ability to the Card Member to redeem their Credit card Points towards
+payment of their transactions. This project is an advancement of Gulf
+Bank Online applications for Customer loyalty and benefits. This project
+achieves Internalization concept using struts by having same web pages
+for all the Gulf enabled International markets. 
+
+Roles & Responsibilities:
+
+Designed GUI’s using JSP’s.
+
+ Responsible for writing Action Classes And Form Beans.   
+
+ Responsible for writing JavaScript to front end validations.
+
+ Writing Test cases & Unit Testing.
+
+.
+

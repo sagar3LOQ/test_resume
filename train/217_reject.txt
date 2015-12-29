@@ -1,0 +1,432 @@
+Springs: 4.5 year
+
+Hibernate: 4.5 year
+
+Webservices: 1.2 year
+
+Team Size: 6 ppl
+
+UML design:no
+
+Design patter:  yes
+
+DB: oracle
+
+                           Sreedhar Marouthu  
+
+                                                      Mobile: 
+9949673736
+
+                                                      Email:   
+HYPERLINK "mailto:srmarouthu@gmail.com" srmarouthu@gmail.com  
+
+Experience Summary
+
+Having 9 ½ years of experience in System Analysis, Design, Development,
+Integration, Deployment, Testing and Maintenance of Web based &
+Enterprise applications. 9 ½ 
+
+Involved in all stages of Software Development Life Cycle, starting from
+requirements gathering, Architecture, Design, Development, Testing and
+Implementation.
+
+Working experience in Agile methodology.
+
+Experience in working with diverse set of people like project managers,
+product owners, QA and scrum master to resolve ambiguities and provide
+maximum business value.
+
+Hands on experience in developing applications using J2EE frameworks
+like Struts.
+
+Extensive experience in developing Multi-Tier Web applications using
+Java,  EJB, JSP, Servlets, JDBC, Spring,  JNDI, XML, HTML, JavaScript,
+Ajax.
+
+Hands on experience in deploying J2EE applications in Jboss , Web logic,
+Web Sphere and Tomcat App/Web Servers.
+
+Developed Java applications using various IDE’s like Eclipse, JBuilder
+and Net Beans.
+
+Good Experience in implementing Java & J2EE Design Patterns 
+
+Strong database development experience in writing SQL and PL\SQL
+database scripts.
+
+Experience in working with ORM technologies like Hibernate
+
+Hands on experience in integrating the Enterprise applications using
+REST Web Services
+
+Effective communication with client and cross-functional teams to
+achieve project Priorities and timelines.
+
+Strong communication, quantitative and analytical skills and a
+demonstrated ability to handle Team 
+
+Technical Skills	
+
+Java/J2EE Technologies	Java, JDBC, Servlets, JSP, JSTL, EJB, Web
+Services (Rest),  JMS
+
+XML Technologies                    	XML, XPATH, SAX, DOM
+
+Frameworks	Struts, Hibernate, Spring , Apache Wicket
+
+Mark-up & Scripting Languages 	HTML,  JavaScript , Ajax 
+
+App Servers	Web logic App Server, Web Sphere App Server , Jboss and
+Tomcat 
+
+Tools/Software                          	Junit, Eclipse, JBuilder, Net
+Beans, Ant, Maven, Log4j, Toad, JProbe, EasyMock, Crucible, Talend,
+Jenkins
+
+Repository & Bug Tracking	Microsoft VSS, CVS, Perforce, Subversion, Team
+Tracker, Bugzilla, Defect Tracker, Version one, Quality Center and
+Mingle
+
+Databases	Oracle, MySQL
+
+Operating System                     	Windows 
+
+
+
+Educational Background
+
+Masters in Computer Applications from Nagarjuna University. 
+
+Bachelor of Computer Science from Nagarjuna University. 
+
+Employment
+
+Helios and Matheson (worked at Bank of America, BACI) from Oct 2013 to
+Dec 2014.
+
+Prokarma Softech Pvt Ltd. from June 2010 to Aug2013.
+
+Value Labs, Hyderabad from June 2007 to Jan 2009.
+
+Kenexa Technologies, Hyderabad from Oct 2004 to June 2007.
+
+Future Access Soft Solutions, Hyderabad from Nov 2003 to Oct 2004.
+
+Professional Experience 
+
+Project 		: R3 (Research, Resolution and Reconcilement) (Oct 2013 –
+Dec 2014)
+
+Client 		: Bank of America
+
+Role		: Tech Lead
+
+Methodology	: Agile
+
+Environment	: Java, Spring (Core, MVC, AOP, Transactions, Batch),
+Hibernate, JBoss eap 6.0, Oracle 10g, Talend, Easy Mock
+
+R3 is an application used to support a service center environment that
+enables research and resolution across the posting boundaries. R3 will
+be replacing 12 other applications involved in Day 2 process of
+exception resolutions. Help in tracking of exceptions and requests for
+Originators, Responders and Analysts.
+
+Responsibilities
+
+Participate in agile ceremonies like sprint planning /release planning
+sessions, daily stand-ups and retrospectives. Provide inputs during
+planning poker sessions.
+
+Understanding the requirements as well as the technical aspects of the
+project. Interfaced with Business Analyst, Technical Lead, on site
+coordinator and Clients.
+
+Contribute to the velocity of the team by picking up stories / tech task
+each sprint.
+
+Performed analysis, design, coding and implementation, team coordination
+
+Code reviews using Crucible. Managing code quality by reviewing unit
+code coverage and integration test coverage on SONAR.
+
+Work with Devops team to maintain Jenkins jobs, upgrading SONAR rule
+sets and health monitoring of application across regions.
+
+Work with UX lead to ensure presentation layer templates provided are
+feasible to implement.
+
+Identification and remediation of technical debt periodically. Creating
+tech tasks and including them in sprints and providing signoff.
+
+Lead showcase demos to internal tech team and business/product owners at
+the end of every sprint.
+
+Ensure project wiki is updated by team.
+
+Work with production support team to enhance the application with
+features that would improve operational efficiency of the application
+and increase support team's productivity.
+
+Reviewing and updating standards guidelines for coding, unit testing,
+integration testing and socializing it with team. Updating tutorial
+project accordingly.
+
+Project		: EDCS (Electronic Data Collection System ) (Jun 2010 –
+Aug2013)
+
+Clients		: UPRR(Union Pacific Road Rail)
+
+Role		: Sr. Software Engineer
+
+Methodology	: Agile (Iteration model)
+
+Environment     : Weblogic 10.3, Oracle 10g, Java, Apache Wicket,
+Spring, Hibernate, Tibco , JMS, XML, XSD
+
+UPRR is one of America's leading transportation companies, is North
+America's premier railroad franchise, covering 23 states across the
+western two-thirds of the United States. EDCS is aimed to serve the day
+to day time records of the employees in mechanical department. An
+existing 18 year old C/Mainframe based application migration to J2EE web
+based application is all about EDCS. To brief about EDCS covers timecard
+creation/deletion, adding timecard transactions (which involves Class of
+time, Pay Position Code, Work are and work code) ,  Shift continuation
+and transfer to another foreman, approving/unapproving timecards, 
+Monthly Calendar view of work hours of the employee, checking Hours Of
+Service Violation, managing holiday process, Scheduling vacations of
+mechanical department, having multiple user roles to login /manage/audit
+the records. 
+
+Responsibilities
+
+Setting up the project at offshore.
+
+Understanding the requirements as well as the technical aspects of the
+project. Interfaced with Business Analyst, Technical Lead, on site
+coordinator and Clients.
+
+Performed analysis, design, coding and implementation, team
+coordination, code review, testing, and installation.
+
+Developed  pages using Apache Wicket, Html, CSS, and Java Script  and 
+Ajax 
+
+Used Eclipse as IDE.
+
+Used Log4j Framework for creating different logging reports like
+Business, Service and Error Reports used by the Support teams.
+
+Used Subversion for version controlling
+
+Worked with customers to debug and fix issues reported by them
+
+Identifying and resolving performance related issues.
+
+Sending daily status updates.
+
+Mentor for junior members.
+
+Used Version One and Quality Center for defect tracking process
+
+Project		: Snapfish (Jun 2007 – Jan 2009)
+
+Clients		: Wal-Mart, Walgreens, Costco.
+
+Role		: Module Lead
+
+Environment	: Tomcat 4.1, Oracle 9i, Java, JSP, Struts, HP-Snapfish MVC
+framework, HP-Snapfish Infoscopic framework, Top link, XML, XSD, JDOM,
+Toad
+
+Snapfish is a web-based photo sharing and print service. Snapfish is a
+leading online photo service with more than 60 million members and one
+billion unique photos stored online. Snapfish members can share, print
+and store their most important photo memories at the lowest prices -
+online or off. Snapfish offers professionally-developed digital camera
+prints as low as 10¢, film developing for just $2.99 per roll, free
+online photo sharing, unlimited online photo storage, free editing tools
+and software, wireless imaging services, and more than 80 personalized
+photo products, ranging from canvas prints, calendars, mugs and mouse
+pads, memory books, note cards, greeting cards, dog leashes and teddy
+bears. 
+
+Responsibilities
+
+Performed analysis, design, coding and implementation, team
+coordination, code review, testing, and installation.
+
+Developed Application based on HP-Snapfish MVC framework using MVC
+design patterns
+
+Developed JSP pages using Html, CSS, and Java Script  and  Ajax 
+
+Writing Front end validations using JavaScript.
+
+Developed internal application to perform searching users, auto login
+into users account, order re-submits, issuing refunds and other
+operations by using Struts framework.
+
+Created components using HP-Snapfish Infoscopic framework.
+
+Involved in converting products pricing from static to dynamic module.
+
+Used Eclipse as IDE for developing J2EE components.
+
+Provided External API using XML, XSD, JDOM for clients standalone
+applications
+
+Used Log4j Framework for creating different logging reports like
+Busssiness, Service and Error Reports used by the Support teams.
+
+Used Perforce for version controlling
+
+Worked with various customers to debug and fix issues reported by them
+
+Identifying and resolving performance related issues.
+
+Sending daily and weekly status updates.
+
+Mentor for junior members.
+
+Involving in teleconferences with Back end (BE) engineers in US for BE
+APIs.
+
+Used Team Tracker for defect tracking process
+
+Project		: Kenexa Recruiter (Oct 2004 – Jun 2007)
+
+Role		: Senior Software Engineer
+
+Environment: Tomcat 4.1, Web sphere 6.0, Oracle 9i, Java, JSP, Hibernate
+3.0, XML, XSLT, Kenexa MVC Framework, Axis, Web Services, Toad
+
+Kenexa Recruiter is a Leading Applicant Tracking System in the HCM
+Domain. Kenexa Recruiter automates the hiring process and dramatically
+reduces overall hiring costs and streamline and automates the entire
+recruiting process. This KRE product is used by more than 100 clients
+like Wachovia Bank, Alltel, Lithia motors, Guaranty bank, Sodexho and
+BB&T etc. And KR hourly product is specifically developed for Retail
+stores and this product is used by some of the clients like Petco,
+Kmart, Hobbylobby, Hilton Hotels, and Buckle etc. These products
+seamlessly integrates with Kenexa's proven testing and assessment
+technologies to consistently identify the most talented candidates and
+these systems also integrated with different Job boards like Monster,
+AJB, Hot jobs.
+
+Responsibilities
+
+Performed requirement analysis, design, coding and implementation,
+testing, and installation.
+
+Designed and developed Application based on Kenexa MVC framework using
+MVC design patterns
+
+Customized the product according to the change requests sent by the
+client
+
+Involved in Production support for the clients after going live.
+
+Handled the upgrading clients from older versions to the newer versions.
+ 
+
+Involved in Data migration from Asp to JSP version.
+
+Customizations for the Clients after the UAT process.
+
+Monitored software defects and reported against technical architecture,
+and ensured timely resolution.
+
+Involved in the timeline calls with the clients.  
+
+Estimations and Analysis of the Customizations. 
+
+Used XSLT to transform the XML’s posted by ITAX
+
+Developed Reusable classes using Reflection API
+
+Used Defect Tracker for defect tracking process
+
+Used JBuilder as IDE for developing J2EE components
+
+Responsible for developing POJO classes and XML, hbm and hibernate
+configuration files in persistence layer
+
+Developed  database scripts using SQL & PL/SQL
+
+Developed the Client programs to process the WSDL files and to  Invoke
+the services provided by the Equest, ITAX [First Advantage]  using SOAP
+protocol
+
+Integrated the product with third party vendors like Sterling.
+
+Used VSS for version controlling
+
+Used Microsoft Project for project planning and tracking.
+
+Resolved  the performance related  issues In the Dash Board of the
+product
+
+Analyzing Change requests and delegating the work to offshore team.
+
+Trained offshore team on Architecture & functionality of the product.
+
+Project		:  e-Khazana    (Nov 2003 – Oct 2004)
+
+Client		:  Pay & Accounts Office and AP State Treasury Offices 
+
+Role		:  Software Engineer
+
+Environment: JavaScript, Java, Servlets, JSP, EJB, Web Logic Server and
+Oracle under Windows.
+
+The application is an intranet application designed for implementation
+of the day-to-day operational needs of this department.  This department
+is responsible for payments of cheques, maintaining bills for the all
+the departments located in twin cities of Hyderabad and Secunderabad. 
+The departments submit the bills to this department for release of
+payments. This project mainly has seven modules, which carries out the
+transaction activities from receiving the bill to delivery of cheque.
+
+Front office: Cycle starts from generating Tran’s id that issued to
+DDO (Drawing and disbursing Officer) on submitting the bill.
+
+Flyleaf: Contains all the employees pay particulars to crosscheck with
+the paybill (salary bill) submitted by DDO and  Master data i.e.,  all
+the information required for auditing including the annual budget, audit
+rules, Head of Account.
+
+Auditing: The bill that submitted in the counter (front office) is
+scrutinized by the auditor. This module uses services of flyleaf module.
+Depending on the type of the bills and form number budget is checked
+
+Cheque Writing: Bills passed by the auditor are verified and printed.
+
+Cheque Delivery: Life cycle ends after cheque delivery to DDO.
+
+Main Account: This module uses data of all branches and generates
+various reports which are then sent to Audit General for post audit,
+Directorate of Treasuries and Accounts and Finance Department of AP.
+
+Administration: This is utility for the administrator to maintain users
+and access permission.
+
+Responsibilities
+
+Performed requirement analysis, design, coding, implementation and
+installation.
+
+Designed and developed using MVC model.
+
+Developed the Business components using EJB Session Beans
+
+Developed JSP pages using Html, CSS, and Java Script
+
+Developed  database scripts using SQL & PL/SQL
+
+Used Bugzilla for defect tracking process.
+
+Used CVS for version controlling.
+
+Used Net Beans as IDE for developing J2EE components
+

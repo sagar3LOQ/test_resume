@@ -1,0 +1,240 @@
+ 
+
+M Suman    		  			          		
+
+H.No 12-10-77/5A,
+
+Pisolkar Compound, 
+
+Sitaphalmandi,				                 	            Email:
+suman.mgpl@gmail.com
+
+Secunderabad.	500061				      	            Contact: 9959846688	
+
+------------------------------------------------------------------------
+-------------------------------------------------------
+
+Professional Summary:
+
+Highly motivated and skilled software professional with around 5 years
+of Development experience in the area of Java and Web Technologies. And
+1 year Teaching Experience 
+
+Good knowledge and understanding of SDLC methodologies and Design
+patterns.
+
+Excellent working knowledge in JAVA, SERVLETS,  Spring and Hibernate.
+
+Good Knowledge on AngularJs.
+
+Ability to grasp new concepts quickly and implement them in to
+productive way, Possesses strong Commitment, Dedication and excellent
+Analytical, Programming and efficient Problem Solving skills.
+
+Self-motivated and fast learner with strong interpersonal and
+communication skills.
+
+Work Experience
+
+Currently working as a Senior Software Engineer in Valuelabs LLP from
+July 2014.
+
+Worked  as a Senior Software Engineer in MagnaQuest Technologies Ltd
+from Nov 2010 to July 2014.
+
+Worked  as a Lecturer in Vidya Bharathi Institute Technologies ,JNTUH 
+from  April 2007 to July 2008.
+
+Academic Profile:
+
+M.Tech from University college of Engineering Osmania University
+(2008-10).
+
+B.Tech from Vidya Bharathi Institute of Technology (2002-06).
+
+Technical Profile:
+
+Programming Language             	C, Core Java, SQL
+
+Web Tools                     	HTML, Javascript, ZK framework(RIA),
+AngularJS
+
+Frameworks 	Spring core, Hibernate 
+
+Databases  	MySql.
+
+Operating System	Linux, Windows, Ubuntu.
+
+Web Servers	 Tomcat 6.X
+
+Web services	REST
+
+Tools	Eclipse, RapidSVN Client, STS, HaProxy,ICinga
+
+
+
+Work Experience:
+
+Project 1: 
+
+Title	UTMS
+
+Duration	Oct 2014 -  tilldate
+
+Organization	Valuelabs
+
+Role	Developer
+
+Environment & Tech	Java,  Spring,Spring Data JPA, Linux,
+AngularJS,HTML,CSS
+
+Database	Mysql
+
+Others	Liquibase (Source control Database), ICINGA, HAProxy, Nginx
+
+
+
+UTMS (Unified Testing Management System) is a integrated with
+domain-specific tools & technologies and frameworks, enables testers,
+developers and business users to collaborate and contribute to providing
+comprehensive testing services. UTMS can be delivered via cloud,
+integrated with existing client systems and on premises systems.
+Customers can achieve faster time-to-market of their
+products/applications and solutions, enhanced ROI and superior end-user
+experience while reducing total cost of testing.
+
+Responsibilities:
+
+Understanding the requirements and create UI prototype.
+
+Developing the requirements.
+
+Involved in developing the entire application.
+
+Support in testing phase and implementation phase.
+
+Project 2:
+
+Title	Optculture
+
+Duration	Nov 2010 – Aug 2012 and  Nov 2012 – July 2014
+
+Organization	MagnaQuest Technologies
+
+Role	Developer
+
+Team size	11
+
+Environment & Tech	Spring, Hibernate, ZK, Tomcat
+
+Database Environment	MySQL
+
+Tools	Eclipse, SVN 
+
+
+
+Description:
+
+Optculture is a digital marketing product which helps enterprises in
+marketing their products, services, or offerings through email. The
+interfaces on Optculture are designed to make email marketing processes
+easy-to-use and intuitive. The features are comprehensive and encompass
+all needs of the digital marketer. The simple structure enables you to
+create contact lists, design templates, send and schedule emails, and
+statistics of your emails. 
+
+ 
+
+User can design effective and professional emails with Optculture.
+Optculture ensures client's mails to be received well by customers, so
+it offers you the best of templates and even help you in creating your
+own custom designed templates.
+
+ 
+
+And most importantly, Optculture has inbuilt processes to ensure email
+delivery – which ensures client's mails to land in the recipient's
+Inbox. It provides a spam checker that scores your email based on the
+spam factors. Plus your emails will follow protocols, feedback loops and
+other such requirements demanded by major ISPs across the globe.
+Optculture has an anti-spam policy and will require all clients to
+follow permission based methods to collect email lists.  Any attempt to
+abuse the Optculture system will lead to termination of services. 
+
+Responsibilities:
+
+Understood the requirements and created UI prototype.
+
+Developed the core functionalities of the project.
+
+Involved in developing the entire application.
+
+Peer code reviews of the team members.
+
+Project documentation like preparing the API’s for the application.
+
+Configuring and tuning the SMTP servers.
+
+Regular checkups on Optculture SMTP domains.
+
+Support in testing phase and implementation phase.
+
+Project 3: 
+
+Title	SelfCare
+
+Duration	Aug 2012 -  Nov 2012
+
+Organization	Magnaquest
+
+Role	Developer
+
+Team size	3
+
+Environment	Java,  Spring, Hibernate,  Linux (Ubuntu and Centos)
+
+Database Environment	MySQL
+
+Client	Media Corp
+
+
+
+Description:
+
+Client(MediaCorp) is providing Digital TV through internet using Set Top
+Box. The services include 7 television channels and 14  radio channels .
+The customers will opt for services online using Selfcare. Selfcare is a
+webportal using which customers could view Billing overview,
+personalized offers and promotions, track and trace orders. Customers
+could also perform change of channel package, pay bills, optin and
+optout. Selfcare module is integrated with the back end CRM system, MQ
+subscribe, using REST web service.
+
+Responsibilities:
+
+Understanding the requirements and create UI prototype.
+
+Developing the requirements.
+
+Personal Information:
+
+Father's Name				:	 	M.Veeresham	
+
+Date of Birth				: 		04, Feb, 1985
+
+Marital Status	          			: 		Married
+
+Nationality				: 		Indian
+
+Languages Known 			: 		Telugu, Hindi and English
+
+Permanent Address			: 		H.No 1-118
+
+                          					Raghunathpally, Warangal,
+
+			   				A.P, India, PIN 506244.
+
+			  				PH: +91-9959846688.
+
+(Suman Mogullapalli)
+

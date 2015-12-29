@@ -1,0 +1,304 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+            -  2 YEAR &
+CURRENT                                �
+�              
+
+Spring                  
+                                  - 
+2.years    &
+CURRENT                                �
+�          
+
+Web
+Services                                
+        -
+na                                   
+            
+
+Core
+Java                                  
+             -  2.8years
+
+Design
+Patterns                                
+    -    sINGLETON
+
+UML
+design                                 
+          -    
+
+Build Tools (Maven/Ant)                    -   
+Maven   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Eclipse/tomcat
+
+Db:SQL
+
+Java – reflection
+
+Rajan Arora
+
+Phone: +91 7042914791
+
+Email:   HYPERLINK "mailto:mrajaaries@gmail.com" rajanarora365@gmail.com
+
+
+	mailtorajan3@gmail.com
+
+Career Objective
+
+Dynamic, skilled software professional with 2 years and 7 months working
+experience in IT. Looking for Software Developer position to utilize my
+creative skills and learning abilities in a challenging environment,
+where my skills can be fully utilized and further developed.
+
+Work Experience – 2.7 Years
+
+United Health Group(Sept 2014 to present)
+
+Project	Optum Cloud Dashboard(OCD)
+
+Customer	UHG
+
+Duration	2 Months
+
+Role	Software Engineer
+
+
+
+Platform	My Eclipse – Blue 10 , HPSM
+
+Solution Environment	Core Java-Java J2EE , Spring and Hibernate.
+
+Database/Repository	Db Visualizer/Maven as a build tool
+
+Responsibilities : 	Bug fixe for the application based on issues raised
+by users.
+
+Solve the tickets based on the functionality, Technology and if required
+do the code changes.
+
+Create the build for the changes and deploy the changes code.
+
+Coordination with different internal teams, to get the additional
+information to solve the issues.
+
+Understanding the business functionality and flow of the application, to
+help the team members to solve the issues and to provide the input to
+other teams.
+
+All the code changes required to do the solve the problem issues.
+
+
+
+Wipro Technologies (March 2012 to Sept 2014)
+
+Project	ACP SGA MAXX GAPS
+
+Customer	Medavie Blue Cross, Canada
+
+Duration	7 Months
+
+Project Description	Medavie Blue Cross is a leading health insurance
+provider in Canada. This project was about to design and create the
+product catalogue for its products in different categories using
+hibernate MVC layer Architecture. 
+
+Creating the policies based on the user requirement, and LOB (Line of
+businesses) selected by the user.
+
+Implementation of the various Canada policies for health insurance.
+
+Giving health benefits according to age and category.
+
+Generating the EMI based on the various aspects selected by the user.
+
+Creating the UI for this application using JSF, IceFaces, and HTML.
+
+Role	Project Engineer
+
+
+
+Platform	Net Beans 5.0
+
+Solution Environment	Core Java-Java J2EE / IceFaces/JSF/Hibernate
+
+Database/Repository	SQL/Maven as a build tool
+
+Responsibilities : 	Handling and creating the UI part Using IceFaces
+component and HTML.
+
+Handling the various subsystem Using POJO, DAO and beans.
+
+Responsible for arranging the KT Sessions for new Joiners.
+
+
+
+Project	Apple TES FP
+
+Customer	Apple Inc, California
+
+Duration	19 Months
+
+Project Description	Creation of a Dashboard for the Apple Test
+Environment Support Team.
+
+Purpose of this dashboard is -- to track the progress of work, Schedule
+of various testing, Status of all interfaces between any two
+applications whether they are UP or Down, Integration with some internal
+applications of the apple of to track the status of the support Tickets
+(Tools like Espresso, SSO for user authentication and slunk integration
+to get the status of the interfaces.)
+
+Creation of the basic Level UI for the application.
+
+Dynamically represent the applications and their interfaces in a
+diagrammatical view, and every structure should be Click able so that
+what ever the application is clicked, Corresponds publisher and
+subscriber application diagram can view.
+
+Dynamically saving the data into data base though the .CSV and XML
+files.
+
+Manage the Downtime of various interfaces in DB and in tabular view.
+
+Search functionality for the interfaces and downtime.
+
+Add functionality for the future planed downtime. And to notify the
+Users.
+
+
+
+Role	Software Engineer
+
+
+
+Platform	Spring Tool Set
+
+Solution Environment	Core Java-Java J2EE / HTML 5/Spring MVC/ JQuery,
+ExtJs
+
+
+
+Database/Repository	My Sql and Maven As a Build Tool
+
+Responsibilities : 	Creation of the Downtime Complete Module.
+
+Creation of the Interface Map Module.
+
+Leading the Team of 2 New Joiners.
+
+Understanding the coding standard
+
+Understanding the client specification
+
+Arranging KT Sessions and providing KT’s to new Joiners.
+
+ Monitoring deadlines for every task. 
+
+
+
+EDUCATIONAL QUALIFICATIONS
+
+	      
+
+Examination/ Degree	Board/ University	School/ College	Year Of Passing
+Percentage 
+
+B. Tech(IT)	PTU	SUSCET,Tangori(Mohali)	2011	70.0
+
+Higher Secondary	RSEB,Ajmer	N.M.C School, Hanumangarh Town	2006	77.54
+
+Secondary	RSEB,Ajmer	R.S.S.S. Ser Sec School, Hanumangarh Town	2004
+85.77
+
+
+
+TRAINING AND PROJECT DETTAILS DURING B.TECH
+
+6 Months Training in .Net from SPIC (Society for promoting IT in
+Chandigarh).
+
+2 Months Training In TFP program form ABV-IIITM, Gwalior.
+
+Project Caption:     Institute management system.
+
+Guidance:              Mr. Gurcharan Singh-SPIC, Chandigarh
+
+Description:            An online management system for a training
+institution, that manages the student data, fee structure, accounts,
+batch availability, instructor availability, online assignment
+submission. .Net is used as a front end and SQL server is used as a back
+end. 
+
+SKILLS
+
+Languages Known: 	Core JAVA, C, C++
+
+Technical Skills: 	Spring MVC, Hibernate, JSF, HTML, SQL
+
+Testing:		Manual Testing
+
+Software Tools:	Eclipse IDE, Net Beans IDE, Spring Tool Set IDE
+
+STRENGTHS
+
+Possess good relationship building and interpersonal skills
+
+Self motivation and commitment towards work.
+
+Good team player
+
+Quick adaptability to challenging situations
+
+Optimistic.
+
+Strong determination.
+
+Can work in late hours and shifts.
+
+ Able to handle the project, delivery and work pressure.
+
+HOBBIES
+
+Driving.
+
+Listening music, watching movies.
+
+Fond of visiting different places and gaining knowledge of different
+cultures.
+
+Cooking.
+
+PERSONAL DETAILS
+
+Father’s Name:	Suriendra Arora
+
+Mother’s Name:		Santosh Rani
+
+Date of Birth: 		3-July-1989
+
+Marital Status:		Single
+
+Languages Known: 	English, Hindi, and Punjabi
+
+Permanent Address:	Street N.2, near Janta floor mill, Ward No. 24,
+
+	Nai Abadi, Hanumangarh Town-335513(Rajasthan)
+
+Declaration
+
+I, hereby declare that the above mentioned information is correct and
+true up to my knowledge & belief.
+
+Date: 12/10/2014
+
+Place: Noida                      		                                    
+  (Rajan Arora) 
+
