@@ -99,10 +99,10 @@ class TrainData():
 				target.close()
 			else:
 				target = open(fp1, 'r')
- 			        VA0 = eval(target.read(str(VA0)))
+ 			        VA0 = eval(target.read())
 				target.close()
 				target = open(fp2, 'r')
- 			        VA1 = eval(target.read(str(VA1)))
+ 			        VA1 = eval(target.read())
 				target.close()
 
 			sent_vect = trd.get_sent_circconv_vec(text, w2v_model, ndim, 'tfidf', tfidf_model,VA0, VA1)
@@ -346,14 +346,14 @@ if __name__ == '__main__':
 	cached = False
 	srl_srtPath = '/home/viswanath/workspace/test_resume/srl'
 
-	start1 = timeit.default_timer()
+#	start1 = timeit.default_timer()
 
-	gsl = genSRLVec(train_dirname,"",predict_dirname,w2v_model_path,size,srl_srtPath, cached)
-	gsl.train_predict()
+#	gsl = genSRLVec(train_dirname,"",predict_dirname,w2v_model_path,size,srl_srtPath, cached)
+#	gsl.train_predict()
 
-	stop1 = timeit.default_timer()
+#	stop1 = timeit.default_timer()
 
-	print stop1 - start1 
+#	print stop1 - start1 
 
 
 	start2 = timeit.default_timer()
