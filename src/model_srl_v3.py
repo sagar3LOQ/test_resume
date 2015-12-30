@@ -84,6 +84,9 @@ class TrainData():
 			fp1 = srl_srtPath + "/" + fname[:-4] + "_VA0.srl"
 			fp2 = srl_srtPath + "/" + fname[:-4] + "_VA1.srl"
 
+			VA0 = {}
+			VA1 = {}
+
 			if cached == False:				
 				VA0, VA1 =srl_extract(text)
 #				print VA0
@@ -149,7 +152,8 @@ class PredictData():
 #			print "processsing ::" + fname
 			fp1 = srl_srtPath + "/" + fname[:-4] + "_VA0.srl"
 			fp2 = srl_srtPath + "/" + fname[:-4] + "_VA1.srl"
-
+			VA0 = {}
+			VA1 = {}
 			if cached == False:				
 				VA0, VA1 =srl_extract(text)
 #				print VA0
@@ -333,8 +337,8 @@ class genSRLVec():
 
 
 if __name__ == '__main__': 
-	train_dirname = '/home/viswanath/workspace/test_resume/train'
-#	test_dirname = '/home/viswanath/workspace/resume_data/res_dir/test'
+	train_dirname = '/home/viswanath/workspace/test_resume/train1'
+	test_dirname = '/home/viswanath/workspace/test_resume/test'
 #	total_dirname = '/home/viswanath/workspace/resume_data/res_dir/total'
 	predict_dirname = '/home/viswanath/workspace/test_resume/predict'
 
@@ -344,22 +348,26 @@ if __name__ == '__main__':
 	w2v_model_path = '/home/viswanath/workspace/test_resume/model/w2v_model_100.mod'
 	size = 100
 	cached = False
-	srl_srtPath = '/home/viswanath/workspace/test_resume/srl'
+	srl_srtPath = '/home/viswanath/workspace/test_resume/srl1'
 
-#	start1 = timeit.default_timer()
+	start1 = timeit.default_timer()
 
-#	gsl = genSRLVec(train_dirname,"",predict_dirname,w2v_model_path,size,srl_srtPath, cached)
-#	gsl.train_predict()
+	gsl = genSRLVec(train_dirname,test_dirname,predict_dirname,w2v_model_path,size,srl_srtPath, cached)
+	gsl.start()
+	gsl.printResult()
+	gsl.saveResult2file("srl_result_v3.tsv")
 
-#	stop1 = timeit.default_timer()
+	stop1 = timeit.default_timer()
 
-#	print stop1 - start1 
+	print stop1 - start1 
 
 
 	start2 = timeit.default_timer()
 	cached = True
-	gsl = genSRLVec(train_dirname,"",predict_dirname,w2v_model_path,size,srl_srtPath, cached)
-	gsl.train_predict()
+	gsl = genSRLVec(train_dirname,test_dirname,predict_dirname,w2v_model_path,size,srl_srtPath, cached)
+	gsl.start()
+	gsl.printResult()
+	gsl.saveResult2file("srl_result_v3_cached.tsv")
 
 	stop2 = timeit.default_timer()
 
