@@ -1,0 +1,244 @@
+RESUME
+
+Srikanth					
+
+Professional Summary:
+
+5 + years of experience in web application development using JAVA and
+J2EE technologies.
+
+Overall 7 years of experience in IT.
+
+Strong programming skills in Java, JSP and Servlet.
+
+Strong knowledge in frameworks like Spring, Struts and Ibatis.
+
+Strong Knowledge in spring frameworks like Spring boot, Spring Roo and
+Spring Jdbc.
+
+Strong knowledge in scripting languages like AJAX, jQuery, JQuery and
+JavaScript.
+
+Experience in Rest API and Soap Web services.
+
+Experience in using IDE’s like Eclipse and Spring Tool Suite.
+
+Experience in Developing Third Platform Applications.
+
+Experience n Cloud Foundry (Pivotal Cloud Foundry).
+
+Experience in Unix for Deployment and configurations
+
+Professional Experience:
+
+Working as Senior Application Developer in EMC Corporation, Bangalore
+from June 2013 to till date.
+
+Worked as Senior Software Engineer at Wipro Technologies, Bangalore from
+Jan 2013 to June 2013.
+
+Worked as Senior Software Engineer at HCL Technologies, Bangalore from
+June 2010 to Jan 2013.
+
+Worked as Operations Engineer at Onmobile Global Limited, Bangalore from
+June 2008 to May 2010.
+
+Job Profile:
+
+Develop application according to functional and technical design
+specifications.
+
+Create efficient and reusable middle tier logic using Java, spring and
+Ibatis.
+
+Create flexible persistence logic to interact with database using DAO
+design pattern.
+
+Create intuitive and dynamic user interfaces using HTML, DHTML, CSS,
+JavaScript, and AJAX.
+
+Involved in creating and deploying the build for both internal testing
+and UAT.
+
+Technical Skills:
+
+	Programming Languages	: JAVA, J2EE
+
+Scripting Languages		: JQuery, AJAX, JavaScript and Angular JS
+
+Frameworks			: Struts 1.x, 2.x, Spring & Ibatis 
+
+Spring Frameworks                    : Spring Boot, Spring Roo, Spring
+MVC and Spring JDBC
+
+Application Servers		: Jboss, Web sphere	
+
+Web Servers 			: Apache Tomcat
+
+RDBMS			: Oracle and MySQL
+
+Web Services                          : Rest API and Soap 
+
+Graph DB                                 : Neo4j
+
+Cloud Foundry                          : Pivotal Cloud Foundry
+
+Java IDE  Tools			: Eclipse and STS
+
+Build tools			: Hudson, Ant & Maven
+
+Other Tools 			:SSH Client, SVN, TFS, SQL Developer & TOAD
+
+Educational Qualification:
+
+Bachelor of Technology in Electronics and Communication with 84.6% from
+JNTU, Andhra Pradesh in 2008
+
+Intermediate with 93 % from Board of Intermediate, Andhra Pradesh in
+2004.
+
+CBSE with 73.2% from Kendriya Vidayala Bolarum, Andhra Pradesh in 2002.
+
+Achievements:
+
+Got 5 Gold medals in Engineering.
+
+Got 2 Silver awards, 1 bronze in EMC for Best Performance.
+
+Got IChampion award for Tes Project.
+
+Got selected as Finalist in the Innovation Conference held in EMC.
+
+Project Description:
+
+Project # 1 – EMC Software Licensing Central (Customer Portal)
+
+Duration	: June 2013 to till date
+
+Role		: Java Developer 
+
+Domain	: Licensing Module of Storage Domain
+
+Environment	: Spring Framework,Spring Boot(Micro Services),Pivotal
+Cloud     Foundry(PCF),Angular JS and Oracle
+
+Customer Portal EMC Software Licensing Central (the name of the new
+customer portal) is the Licensing module for the all the EMC products
+such as Viper,Vmax,VNXe etc This is the Customer facing machine critical
+application.End Customers and Partners use this application of the
+License Activation,Regenarate License and Rehost.This application was
+built on Third Platform application technologies like Spring Boot with
+micro services. This is self-service license portal to provide
+simplified activation experience and single location for the customer to
+view entitlement, deployment and usage. EMC Software Licensing Central
+replaced both the Power link Licensing functionality and the Lite Touch
+Activation processes that were available to customers today. EMC
+Software Licensing Central will also provide access to the new Usage
+Intelligence. Customers will be able to see not only what they have
+purchased and activated within their environments but also see how they
+are actually using EMC software. 
+
+Project # 2 - Nationwide(UI Refresh)	
+
+Duration	: Jan 2013 - June 2013
+
+Role		: Java Developer 
+
+Client		: Nationwide 
+
+Domain	: Insurance
+
+Environment
+: Spring(Web-Flow),Struts,Ibatis(ORM),JSP,JavaScript,Jquery,Apache  
+Tomcat,Oracle
+
+UI Refresh is online Auto Insurance Project for Nationwide Client.Where
+This project deals with creating quote and Bind Coverage for a policy of
+Auto(Vehicle). This application deals with creating Vehicle Insurance
+for all types of Vehicle(Audi,BMW,Honda,etc).The Project uses Agile
+methodology .This Auto Insurance depends on the various factors like
+Rules,make, model and licence etc. This Insurance is for 25 Eastern
+states of USA.Worked for Phase 4 for UI refresh for Newyork and south
+Carolina.
+
+Project # 3 – MBC(Multi Bank Client)
+
+Duration	: Dec 2011 to Jan 2013
+
+Role		: Java Developer 
+
+Client		: Deutsche Bank AG (Germany)
+
+Domain	               : Banking
+
+Environment	: Struts, Spring, Ibatis (ORM), JSP and JavaScript.
+
+Dbdi-Multibank (EBICS client) will support EBICS transactions and
+transmission to/from any EBICS server (DB or non-DB). It will support
+both SEPA payments and transactions in the German legacy formats for
+local German customers. Dbdi-Multibank will have similar look and feel
+than the NBL screens. It will be provided to dbdi customers as an
+extension to db-direct internet (dbdi) and include a single-sign-on with
+db-direct internet (only one instance of dbdi-Multibank per dbdi domain)
+– thus enabling cross-selling and higher fee income. Dbdi-Multibank
+will be the major driver for the decommissioning of the legacy
+multi-banking client db-direct 6. 
+
+Project # 4 - BCS-FTP and CAT-EB
+
+Duration	: June 2010 – Dec 2011
+
+Role		:  Java Developer 
+
+Client		: Deutsche Bank AG(Germany)
+
+Domain  	: Banking
+
+Environment	: Spring MVC, Hibernate, AJAX, JQuery, MySQL and Apache
+Tomcat
+
+BCS-FTP is for processing Payments, and sending requested data back to
+clients like db-direct 6.x, db-direct MC. BCS-FTP Server supports and
+verifies the BCS-standard defined by Federal association of German Banks
+with respect to communication, compression and delivers the submitted
+orders to the BCS Host for processing. BCS FTP has direct access to the
+CAT EB database via database link for on-line client data validation
+purpose.
+
+CAT-EB is administration tool for Electronic Banking. Customer data to
+be administered in CAT-EB like accounts, products before the customers
+connect to the bank. CAT-EB will receive data from CAAA for EBICS
+customers and replicate to EBA database for back-end applications
+purpose. CAT-EB is used by applications like BCS-FTP, FTAM, BCS-HOST,
+Bank-line, etc.
+
+Personal Details: 
+
+Father Name		: Chandra Sekhar
+
+D.O.B			: 21/01/1987
+
+Marital Status		: Single 
+
+Permanent Address	: H.N0-105/2,Trisul Lines, Lothkunta Secundrabad
+-500015.	
+
+Declaration:
+
+I hereby declare that all information’s furnished above are true to
+the best of my knowledge and belief.
+
+Place: 
+
+Date:						                                		(Srikanth )
+
+TECHPOINT PROFILE
+
+	Page   PAGE  \* MERGEFORMAT  1 
+
+
+
+
+
+	
+

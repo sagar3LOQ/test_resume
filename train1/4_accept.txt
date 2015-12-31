@@ -1,0 +1,123 @@
+SWAROOP KUMAR B
+
+Phone: +919640373676 				Address: Flat:103, Aashray Enclave,  Email:
+swaroopkumar.badam@gmail.com 		      	    Street No.20, Behind Stanza,  
+                Date of Birth: 21st July 1987 				      	   
+Himayatnagar, Hyderabad, Languages Known: English, Telugu, Hindi 		    	
+   Telangana – 500029.
+
+Objective:
+
+As part of my rigorous academic training, I have developed a keen
+interest to learn more about computer science and its related fields. I
+wish to acquire a position to utilize my skills and contribute for the
+success of the organization.
+
+Educational Qualifications:
+
+Graduation: B.E. (Hons.) Computer Science and M.Sc. (Hons.) Physics,
+BITS - Pilani, Goa Campus , CGPA: 7.82
+
+Intermediate: Board of Intermediate Education, Andhra Pradesh,
+Percentage: 94.4
+
+High School: Board of Secondary Education, Andhra Pradesh, Percentage:
+86.7
+
+Technical Skills:
+
+Programming Languages: C, C++, Java, J2EE, Python, Shell Scripting.
+
+Web Technologies: JavaScript, PHP, JSP, HTML, Ajax, CSS, YUI-Tools,
+Google-Closure.
+
+Tools: GIMP, Adobe Photoshop, Adobe Flash.
+
+Others: Spring, Hibernate, SQL, 
+
+Work Experience:
+
+Amazon Development Centre. (April 2013 - ) :
+
+I have been working with Vendor Payments Systems(VPS) team at Amazon.
+Our team is responsible for the payments to the Amazon vendors all over
+the world. We have built an automated system which saves vendor invoice
+in the database, matches it with the received inventory and passes on
+the payment to OFA (Oracle Financial Apps) system which actually pays
+the invoice amount. All of our system is in Java except few legacy CPP
+modules which are also under the process of migration. Below is an
+overview of my work here till now.
+
+I have launched the complete vendor payment system for Brazil country.
+It has given me good oppurtunity to understand our system completely. In
+this launch I had to create an independent module to save the XML format
+invoices in our system by reconciling data from another data source.
+
+I made some enhancements to the existing invoice creation system by
+adding extended attributes to the invoice data, adding metrics at
+various parts of the system, supporting new tax rates, modified the
+invoice prepayment logic.
+
+Pegasystems Pvt Ltd. (August 2011 – April 2013) :
+
+I worked as Software Engineer in UI Engineering team of Pegasystems.
+Pega is a leader in the BPM industry because of its widely used PRPC
+product. I am involved in the development of user interface widgets for
+the PRPC product. Technologies used are Java, JSP, HTML 5, CSS 3,
+JavaScript, AJAX, YUI.
+
+Encora Technologies Pvt Ltd. (August 2010 – August 2011) : 
+
+Our team is involved in the development of internal tools used by other
+teams in Google Inc. It was an onsite team working at Google’s office.
+Internal tools are the web applications developed using open source and
+Google internal technologies. Some of the technologies and frameworks
+used are Python, Java, JavaScript, Django, GWT, Ajax, Google Closure
+library.
+
+Internship – Kuliza Technologies:
+
+Worked on the development of an e-Learning portal called Bikul which is
+based on open source platform Moodle. Developed the course modules by
+implementing the business logic on server side and enhanced the
+usability on client side with advanced JavaScript and Ajax techniques.
+Integrated modules like uploading video resource, cooliris for viewing
+multimedia resources and few others. Also developed the sticky notes
+functionality and made it user configurable. Server side logic is
+entirely implemented in PHP and MySQL, which gave me very good exposure
+in those technologies.
+
+Areas of Interest:
+
+        Big Data, Machine Learning, Computer Networks, Graphics, Web
+Technologies
+
+Awards / Honors / Achievements:
+
+Recipient of Merit-Cum-Need Scholarship from BITS-Pilani, Goa campus.
+
+Certificate in Network Management and Ethical hacking from Nettech
+(www.nettech.in)
+
+Received Merit Certificate in online programming contest QOPC during
+Quark 08.
+
+Cartoon animation made by our group as a part of Creative Multimedia
+Course using Adobe Flash was regarded as the best project by the course
+instructor.
+
+Participation in Extra-Curricular Activities:
+
+Core member of department of photography for the years 2005-‘08 at
+BITS-Pilani, Goa Campus.
+
+Stalls committee manager during WAVES-08, the cultural festival of
+BITS-Pilani Goa Campus.
+
+Designed posters for various cultural and technical events.
+
+All the information provided above is correct to the best of my
+knowledge   
+
+- Swaroop Kumar. B
+

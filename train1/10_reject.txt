@@ -1,0 +1,391 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                  - 
+2year&current                             �
+�             
+
+Spring                  
+                                  - 
+2year&current                             �
+�            
+
+Web
+Services                                
+        -         6
+months                                 
+       
+
+Core
+Java                                  
+             -   6years
+
+Design
+Patterns                                
+    -    knowledge
+
+UML
+design                                 
+          -    no  
+
+Build Tools (Maven/Ant)                    -   
+Maven 
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+  Websphere/tomcat/eclipse
+
+DB:oracle
+
+2ppl
+
+        Rakesh Sahu
+
+                                                       
+           E-Mail: sahu.rakesh.28@gmail.com
+
+                                                       
+          Contact No.: +91-9975051201
+
+Professional Summary
+
+Having 6 year of experience in software industry.
+
+Worked with prestigious client like BNY Mellon,Scor,Discover
+Bank,Barclays,SDC.
+
+Worked on different technologies like Java/J2EE,Spring,Hibernate .
+
+Developing and integration of web based applications using, Spring2.0,
+Hibernate3.0, JSF2.0, Servlets, JSP and Struts on Web logic, Tomcat
+servers.
+
+Worked on standalone application in Core Java, Swing.
+
+Worked on different Application servers and Web servers like, Web Logic,
+Tomcat Server, Webrick and IDEs like Eclipse, IBM Rational software
+Architecture (RSA), IBM Rational clear case,SVN.
+
+Employment History
+
+INautix Technologies (A BNY Mellon Company) – Technical Leader (1st
+August 2013 to Till date)
+
+Capgemini India pvt ltd ,Pune – Associates Consultant- Java Developer
+(December  2009 – July 2013) 
+
+Rave Technologies, Mumbai – Software Engineer – Java Developer (June
+2007 – December 2008)
+
+Skill Profile
+
+Languages	Core Java,Ruby
+
+Web Tools	Spring 3.0, Hibrnate3.6, JSP 2.0, Servlet, Struts1.1,  JSF2.0
+
+Web Servers	Web Sphere , Tomcat5.0/7.0, Mongrel,JBoss4.2
+
+Database	Sybase ,My SQL, DB2,Oracle 11G
+
+Operating System	Win 9x/XP, Windows 7,Unix
+
+Management Tool                  	SVN,VSS,WinScp,Harvest12,IBM Rational
+Clear Case
+
+Development Tool	Maven 3.0,PMD,CheckStyle,Sonar,FindBug,Junit3.0,Log4j
+
+
+
+Management and Leadership Skills	Ability to produce realistic software
+schedules, Project Management, Business Analysis and Development and New
+Product Development
+
+
+
+Professional Experience
+
+	
+
+Project Name	AVJ(  Automated Variable Rates / Document Generator / Bond
+Call )
+
+Client	BNY Mellon (USA)
+
+Role	Application Development/Maintenance
+
+Duration	6 months onwards
+
+Roles performed	Involved in coding, analysis, unit testing and  defect 
+fixing
+
+Environment	Core Java ,J2EE(JSP,Servlet,Spring,Hibernate),Oracle
+11G,SVN,MAVEN3.3
+
+Description	Stores and calculates interest payment information on
+Conventional Debt variable rate bond issues.  Rate information from
+remarketers is uploaded to the application via email/FTP file or
+manually added by a Debt Service Billing analyst. 
+
+That rate information is then used to calculate the interest payment for
+the accrual period. ·         Generate LOC/Obligor/Principal
+Annex / Interest Annex / Sight Draft / Reduction certificate         
+documents.
+
+ Process Bond calls
+
+ 
+
+
+
+Project Name	OMEGA-2
+
+Client	 SCOR (France )
+
+Role	Developer
+
+Duration 	15 Months
+
+Roles performed	Involved in coding and analysis of the system.
+
+Involved in the unit testing.
+
+Involved in the defect  fixing,
+
+Environment	JSF2.0,Spring 3.0 ,Hibernate 3.6,Sybase,PMD,FindBug,Tomcat
+7.0,Maven3.0,eclipse
+
+Description	Omega 2  is basically Scor account accelerated
+transformation of reinsurance system
+
+ The OMEGA 2 program aims to reengineer SCOR’s reinsurance core
+platform, called OMEGA. This system is a bundle of 13 discrete
+applications which deals with the Life and Property & Casualty
+businesses. SCOR’s legacy reinsurance platform was developed in
+PowerBuilder. As PowerBuilder is no longer a supported platform, SCOR
+had an urgent need to revamp/reengineer the system in a technology which
+they aim to be the technology platform for future. Additionally SCOR
+also wanted some strong French support to avoid any language or cultural
+misunderstandings. 
+
+Project Name	Discover Card  Dispute System (DCDS)
+
+Client	Discover Bank  (USA )
+
+Role	Developer
+
+Duration	8  months
+
+Roles performed	Involved in coding and analysis of the system.
+
+Involved in the unit testing.
+
+Environment	Core Java, Swing ,Webservices,Junit,DB2
+
+Description	DCDS comes into picture when the card member usually has an
+issue they have been unable to resolve with a Merchant. 
+
+ Discover intervenes as a third party with the goal of getting the
+merchant and card member to work together to find a solution.
+
+Provide functionality for real time card member support to create,
+review, follow-up, and resolve or close the card member disputes.
+
+ Automatically assign reason code to based on information provided by
+the user, thus for avoiding user-errors in selecting the reason codes.
+
+Provide  ability for automated or system assisted letter generation and
+case notes entry based  on the predefined templates provided by the
+business users
+
+
+
+ 
+
+Project Name	IMS Lending for collection
+
+Client	Discover Bank  (USA )
+
+Role	Coding, Analysis
+
+Duration	8 months
+
+Roles performed	Enhancement and addition of the functionality. 
+
+Debugging the application for missing code and rectify it.
+
+Change the code according to the changed data base.
+
+Coding of programs, Creating and performing Unit testing.
+
+Environment	Core java,Struts1.1, JSP, Servlet ,Window(0.S.),JUnit,DB2
+
+Description	Segregate accounts into various “Collection Process”
+codes based on user input.
+
+Assign accounts to the Collection centers and down to the Account
+manager based on user input.
+
+Generate Letters based on the selection criteria set up by the users.
+
+Create and edit the letters with different option. 
+
+ Assign “Employee and Team” to accounts based on selection criteria.
+
+
+
+
+Project Name	Associate Allocation Application
+
+Duration	6 months
+
+Role	Coding, Analysis
+
+Roles performed	Involved in requirement gathering
+
+Involved in the development
+
+Involved in Unit testing and bug fixing. 
+
+Environment	Java, Spring ,Hibernate ,Window(0.S.),Unit Testing
+
+Description	The application will help users to configure and view
+company facilities layout and resource/project allocation. The users
+will allocate/de-allocate resources to desks. User should be able to
+search a location and view who has been allocated that place.
+
+
+
+	
+
+																																																																		
+
+Project Name	Push Message Services
+
+Client	SDC(Skandinavisk Data center ,Denmark)
+
+Role	Developer
+
+Duration	8 Months
+
+Roles performed	Involved in the enhancement of the existing code. 
+
+Involved in the testing as well as deployment of the project
+
+Environment	Struts 1.1,Java, JSP,Servlets
+
+Description	The banks' customers demand to receive a sms or email when
+e.g. salary has been deposited the account or the account has been
+credited more than a given amount. Therefore we must, as an expansion of
+already existing functionality on push service electronic payment card,
+offer our customers to get a sms/email by various business events among
+other based on postings on selected accounts. 
+
+The wish is the ability to subscribe the following push types: 
+
+	- Balance 
+
+	- Balance less than 
+
+	- Balance greater than 
+
+	- Deposit greater than 
+
+	- Payment greater than 
+
+	- Electronic payment card .
+
+
+
+Project Name	Barclays Payment Gateway 2
+
+Client	Barclays Bank (U.K.)
+
+Duration	6  months
+
+Role	Developer
+
+Roles performed	As Associate Consultant, assisted in analysis and
+development of the Barclays apacs29 module and Monitoring and
+Performance application. Designing and developing Technical Specs.
+Coding of programs, Creating and performing Unit.
+
+Environment	Core Java(Socket Programming),XML Parsing
+
+Description	The Payment Gateway is envisaged as the primary entry point
+for external payment orientated devices and systems. Examples are POS,
+EPOS, and Ecomm. These devices typically need to access multiple service
+points within  Gateway architecture will be future proofed to handle
+additional message types and message flows Barclaycard, (RRP, AUTH, and
+CVV).
+
+The Payment Gateway acts as a flow authentication and termination device
+as well as transforming and routing “values add” messages to an
+appropriate message handler. The initial implementation will support RRP
+messages, but the Payment.
+
+
+
+Project Name	SplashID Online(www.splashid.com)
+
+Client	SplashData (U.S.A.)
+
+Role	Developer
+
+Duration 	8 months
+
+Roles performed	Developing application using ROR framework.
+
+Writing controllers and Models by using Ruby classes.
+
+Developed the presentation layer using RHTML and CSS.
+
+Responsible for Code, and Unit Test Plan Implementation and Review.
+
+Environment	Ruby1.8, Rails Framework1.2.4, JavaScript, CSS2.1, HTML4.0 
+MySql5.0, Mongrel and Eclipse3
+
+Description	SplashID provides quick and easy access to all of your
+personal identification information, including usernames, passwords,
+credit cards, PINs, calling card numbers, frequent flyer numbers,
+insurance info and more. It also contains three types of views List,
+Panel and Tree view and it also contains search functionality. Data is
+stored in a secure, encrypted, password protected format.
+
+SplashID is used to generate passwords automatically. It also contains
+Import and Export functionality. SplashID on the Handheld and SplashID
+Online are virtually identical. You may prefer to do most of your data
+entry in SplashIDOnline, however, since it's faster and easier with a
+keyboard, and then perform a HotSync operation to synchronize the data
+with your handheld
+
+				
+
+Education
+
+B.E. –Computer Science and Engineering from RGPV Bhopal (M.P.) in
+2005.
+
+
+
+Personal Details
+
+Name	Rakesh Sahu
+
+Designation	Associate Consultant 
+
+Residence	Pune
+
+Nationality	Indian
+
+Permanent Address	Pimpri,Pune-411018
+
+
+
+																					
+
+ 
+
+  PAGE   \* MERGEFORMAT  1 
+

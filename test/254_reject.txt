@@ -1,0 +1,358 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                          -  3 year &
+current                                �
+�              
+
+Spring                             -  3 year
+&
+current                                �
+�             
+
+Web Services                     -1
+years                                 �
+�              
+
+Core Java                              - 
+3.5 years                
+
+Design Patterns                    -  3
+Years            
+
+UML
+design                             -   no
+
+Build Tools (Maven/Ant)                   -    Mav
+en
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Apache Tomcat /eclipse/
+
+SANJAY  KUMAR  GUPTA                                                    
+  
+
+Email Id:sanjaykumargupta902@gmail.com
+
+Mobile No: +91-9731297367
+
+                                                                        
+                            
+
+Objective:
+
+To get a responsible and growth oriented position in an organization
+where there is a scope of contributing and updating knowledge and skills
+for the development of self and organization.
+
+Experience Profile:
+
+Currently working as Associate Consultant  for Manthan Software Services
+Pvt Ltd March  2014 to till date
+
+I have worked as Software Engineer for Instech Global Solutions PVT. LTD
+Bangalore from July 2011 to March-2014. 
+
+Experience Summary:
+
+Having 3.2 years of experience on Java, Jee and java framework Software
+. 
+
+Strong Programming skills in J2SE, J2EE,Object-Oriented analysis &
+design.
+
+Developed and Implemented MVC Architecture.
+
+Having Good Experience in Struts1.3, Hibernate3.2.
+
+Good experience in Spring –IOC,Spring-MVC.
+
+Having good knowledge and experience in Design Patterns  to develop
+Applications.
+
+Experienced with IDEs Eclipse .
+
+Having Experience with IDE’S i.e. STS.
+
+Strengths:
+
+Good ability in understanding business application, business data flow
+and data relations in between them.
+
+Good Team member and also has ability to work independently with minimal
+supervision to meet deadlines.
+
+Capability to adapt to new tools and technologies.
+
+Ability to take up responsibilities.
+
+Self motivated, hard working and goal-oriented with a high degree of
+flexibility, creativity, 
+
+Resourcefulness, commitment and optimism. 
+
+Educational Credentials:
+
+B.Tech(C.S.E) from N.H.C.E(BAMU University) Aurangabad(Maharashtra))
+Parli-v in 2011with 63%.
+
+Technical Proficiency:
+
+Skill/Category
+
+	Experienced	Awareness
+
+
+
+Programming languages	Java	C
+
+Operating Systems	Windows XP
+
+	DataBase Softwares	Oracle10g(SQL)
+
+	Web Technologies	Html, JavaScript, Ajax	CSS,XML 
+
+JSE Technologies	Jdbc 
+
+	JEE Technologies	Servlets, Jsp
+
+	Frameworks	 Spring(2.5) Struts1.3	-------------------
+
+ORM Tools	Hibernate-3.2	-------------------
+
+Servers	Tomcat-6.x
+
+	IDE	MyEclipse(8.x+9.x),NetBeans(6.x)	------------------
+
+SOA	WebServices  (Jax-Rs Api)                                           
+          
+
+	Logging Tool	Log4j-1.x
+
+	Build Tool
+
+Maven, ANT-1.x
+
+Version Controls	CVSNT-2.x
+
+	Unit Testing	JUnit(3.x+4.x)
+
+
+
+
+
+	Report Generation
+
+JasperReports-3.x, IReports-3.x
+
+
+
+Project Profile:
+
+Project #1         : For Manthan Software Services Pvt Ltd from  March 
+2014 to till Date.                         
+
+Title                    :  ARC Market Research Analytics.
+
+Client Org          : Ipsos		         	                                 
+
+Environment     : Java 1.5,Servlet , Jsp , Spring-IOC,
+Spring-MVC,Spring-AOP,Hibernate,                                        
+                                
+
+                              Sql ,Apache POI ,Tomcat 6.x ,Ajax,
+JavaScript.
+
+Team Size          : 06
+
+Role                    : Developer 
+
+Responsibilities:
+
+Involved to develop simulator display pie chart dashboard for product
+categories. 
+
+Provide price optimization for every category of products.
+
+Provide Price Details and Planner of  Products.
+
+Provide sales for market Area in every States.
+
+Involved to develop uploading category and brand in database.
+
+Involved to develop download the excel file for every category.
+
+Implementation of MVC architecture, Business Delegate, Data Transfer
+Object (DTO)  design Pattern.
+
+Providing weekly details for every  product sales status using area
+chart .
+
+Synopsis: 
+
+    ARC Market Research Analytics is a business
+intelligence product that helps you upload excel  file and
+can generate dashboards and graphs that get populated from the excel
+ data.In dashboard the admin can see all the product category price and
+sales chart .The admin can insert data in two ways i.e by using the
+product creation form and by uploading excel file. The product also has
+features of drag and drop button to select measure and minor
+measurements. The product has pre-built dashboards that can be easily
+customized as per user preferences and different formats like Excel,
+PPT, Download Files etc.
+
+Project #2         : For Instech Global Solutions PVT. LTD from Feb 2013
+to Dec 2013.                         
+
+Title                    : Synthite
+
+Client Org          : Synthite Industries Ltd (Synthite)		         	   
+                             
+
+Environment     : Java 1.6,
+Spring-IOC,Spring-MVC,Spring-AOP,Hibernate,Tomcat 6.x ,                 
+                                                        Team Size       
+  : 04
+
+Role                    : Developer
+
+Responsibilities:
+
+Involved in development of Admin module, Raise of Enquiry, Upload
+Contract, Involved in development enquiry, Product, Download Enquiry
+Details.
+
+Involved in development of Admin module all the uploading and
+Downloading through Cron jobs using Quartz Scheduler.
+
+Involved in development of Admin module in dash Board for Notification
+of Enquiry ,Order Status.
+
+Implementation of MVC architecture using DAO, Business Delegate, Data
+Transfer Object (DTO)  design Pattern.
+
+Configuring the servers, database and deploying the war files in
+application server. 
+
+Designing the interface for users.
+
+Handling the complete persistence logic layer using Hibernate.
+
+Involved in Validation of user datas.
+
+.
+
+Synopsis: 
+
+The main objective of this project is to provide online services to
+client, using this services customer can place orders, purchase the
+product, delivery options, product details, delivery status and provides
+customer reviews etc. this project is very convenient way to provide
+online services to client who actually wants to do online business
+efficiently. 
+
+Project #3          : For Instech Global Solutions PVT. LTD from May
+2012 to Jan 2013.                         
+
+Title                    : E-Billing Generation      	                  
+              
+
+Client Org              :EGS
+
+Environment     : Java 1.6,Spring-IOC,Spring-AOP,Spring-MVC,
+
+                               Hibernate3.2,Tomcat 
+
+Team Size          : 06
+
+Role                    : Developer
+
+Responsibilities:
+
+Implementation of MVC architecture using DAO, Business Delegate, and
+Data Transfer Object (DTO) design Pattern.
+
+Configuring the servers, database and deploying the war files in
+application server. 
+
+Designing the interface for users.
+
+Handling the complete persistence logic layer using Hibernate.
+
+Involved in Validation of user datas.
+
+Unit Testing using JUnit.
+
+Synopsis: 
+
+E-Billing Generation means Online invoicing and time tracking service
+that enables business professionals to quickly and easily create, send,
+track and manage invoices. With no finance or technical skills needed,
+paid faster. EGS will also improve its customer’s cash flow. Research
+shows that small EGS enables to devote more time to earning money, look
+stunningly professional and get companies that use tools like EGS get
+paid on average 14 days quicker.
+
+Project #4         : For Instech Global Solutions PVT. LTD from July
+2011 to March 2012 .                         
+
+Title                    : I-Campus 
+
+Client Org          : Ganpat University, Mehsana (Gujarat)		         	  
+                              
+
+Environment     : Java 1.6, Spring-IOC,Spring-AOP,Struts1.3,Hibernate3.2
+
+
+                               Tomcat.
+
+Team Size          : 06
+
+Role                    : Developer
+
+Responsibilities:
+
+Involved in development of Admission module, Timetable, Academics
+modules.
+
+Implementation of MVC architecture using DAO, Business Delegate, Data
+Transfer Object (DTO)  design Pattern.
+
+Configuring the servers, database and deploying the war files in
+application server. 
+
+Designing the interface for users.
+
+Handling the complete persistence logic layer using Hibernate.
+
+Involved in Validation of user datas.
+
+Unit Testing using JUnit.
+
+Team Coordination.
+
+Synopsis: 
+
+The main objective of this project is to automate the services provided
+by ICampus, by which customer can use all the services online. It
+provides so many services to their customers such as he can see the
+Result, attendance, message, different departments, Academics,
+Admission, Examination, Placement Cell , Events Calendar, Sports and
+Cultural, Photo Gallery etc.
+
+Personal Dossier:
+
+Name		  : Sanjay Kumar Gupta
+
+DOB		  : 12-Oct-1988		                                            
+
+Place                 : Bangalore                                       
+                                             
+
+                                                                        
+                            
+
+                                                             
+

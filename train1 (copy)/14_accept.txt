@@ -1,0 +1,222 @@
+RESUME
+Siva Prasad Patnayakuni
+Mobile: +91-9000666932 Email id: Sivaprasad.Patnayakuni@gmail.com
+Exploring
+An increasingly challenging position, where ‘proven critical product / solution Delivery &
+Program/Project management’ will be operative value addition to maximize organizational strategic
+growth.
+Professional profile
+Analytical and effective Manager with successful track of ~15 years (in Delivery, Project & Program
+Management) and experienced in end to end product/solution development in both Mobile &
+Embedded technologies. Vast experienced in driving multiple, large / complex, multi-track engagements
+across global locations. Travelled and have work experience in Italy, Germany, Sweden and Finland.
+Involved in development of right from proof of concept to complete software life cycle development of
+requirements capture/analysis, design, development, testing and customer acceptance activities.
+Experienced in writing proposals for customer RFP/RFQ’s, project cost estimation, budget tracking,
+risk mitigation and on time delivery with customer satisfaction.
+Proven track record in competency development and delivered projects in Linux, Android, Maemo,
+QT, Symbian/60, EMP, Nucleus RTOS using C & C++ languages.
+Handled a team of 100+ engineers and delivered the projects to various European and APAC OEM’S,
+Chipset manufactures. Experienced in projects/programs transition to offshore and setting up ODC’s
+for customers.
+Experience summary
+ Customer Account Manager, One of Telecom R&D services company, Hyderabad – 31st Jan’ 2011 to till
+date.
+ Service Area Manager/Delivery Manager, Tieto Telecom R&D services India Pvt Ltd (formerly known
+as Fortuna Technologies Pvt Ltd) – 17th Jul’ 2006 to 28th Jan’ 2011.
+ Project Leader, Navionics Engineering Pvt Ltd – 5th Dec’ 2001 to 14th Jul’ 2006.
+ Software Engineer, Citation Softech Ltd – 1st Nov’ 1999 to 30th Nov’ 2001.
+Education
+ Master of Computer Applications, 1999 from Osmania University.
+
+Technological Exposure
+Programming Languages
+RTO’s
+Platforms
+Tools
+Source control tools
+Telecom
+Design Pattern
+Protocols
+IDE
+
+:
+:
+:
+:
+:
+:
+:
+:
+:
+
+C, C++, Java, J2ME, Shell Programming
+Embedded Linux, Nucleus
+Android, Maemo, Qt, Symbian/S60 and EMP
+Spider, GDB, JTAG
+Visual SourceSafe, SVN
+3G, SIP, Presence Information, LBS, GSM, GPRS, UMTS
+Object Oriented Design
+TCP/IP, UDP, NMEA
+Microsoft Visual C++ 6.0, Eclipse and KDE
+
+Processes Experience:
+
+
+
+
+Well versed with Agile/SCRUM and Water fall models.
+Practiced CMM 5 KPA’s and a member of TCM.
+Internal auditor for ISO 9001:2000.
+
+Trainings
+
+
+
+
+
+
+
+
+Leadership Program by Edward Smedje.
+First Line Manager training by Mercuri Internation.
+Pre sales Training in Tieto.
+Managerial Effectiveness, Management of creativity and Innovation.
+Responsible Leadership and Team Effectiveness.
+Communication skills, Presentation and Interpersonal Effectiveness.
+TERP tool for Project Accounting and Resource Planning.
+
+Career Mile Stones
+I.
+
+Feb’2011 to till date:
+Customer Account Manager @ One of Telecom R&D services company, Hyderabad
+
+ Setting up of 3 ODC’s for Qualcomm.
+ Competency development and ramping of technical teams in Android, Linux (Device drivers &
+Target integration).
+ VTAT Tool development and customized to different customers needs.
+ Delivered adaptive text solutions and Navigations solution on Android & Windows platforms.
+ Currently handling 4 customer accounts and exploring new customer business accounts.
+ Presales activity and working for Chipset manufactures and OEM/ODM’s.
+
+ Customers point of contact and negotiating the contracts.
+ Prototyping new ideas/solutions and showcase to customers.
+ Initiated, driven and enhanced Project & Process management capability, CoE in accomplishing
+persistent & predictable delivery performance leveraging consistent Customer delight, leading to
+potential account mining.
+ Coaching the project managers and leads.
+ Quality process implementation.
+ Responsible for P&L of customer accounts.
+ Strategy & implementation.
+II.
+
+Oct’ 2009 to Jan’ 2011:
+Service Area Manager/Delivery Manager @ Tieto Telecom R&D services India Pvt Ltd
+
+ Delivery Manager for Mobile Devices, Tieto Telecom R&D, India and handled team of 100+ engineers.
+ ODC setup for Nokia, ST – Ericsson & Sharp customers.
+ Ramp up the teams in Android, Linux (Low level & middleware), Maemo, QT, Symbian/S60 and
+J2ME/Java.
+ Driven multiple projects across locations and capture potential risks, follow through mitigation plan
+and collaborating with other units in execution & aligning with client expectations and make sure
+Delivery is leveraging value add.
+ Delivered projects like Messaging, Connectivity, Unified communication, QT creator plug-ins, Test
+automation etc.
+ Reviewing the projects delivery quality and taking care of improvements.
+ Involving in steering group meetings.
+ Projects/Programs transition from on-site to off-shore.
+ Mentoring/coaching Line managers and people management.
+ Established capability development team and ensuring project execution capability & quality in place
+across projects.
+ Responsible for P&L and involved in making and controlling “Standard Cost”.
+ Strategy & decision making and implementation.
+ Reviewing market conditions along with sales team and participating in Pre-sales activity.
+
+III.
+
+Jan’ 2009 to Sep’ 2009:
+Line Manager @ Tieto Telecom R&D services India Pvt Ltd
+
+ Started new project accounts with Nokia – Mumbai & LGSI.
+ Delivered “Nokia Money” program in J2ME platform.
+ Delivered “chatting solution” & integrated “Clutter” open source graphics in Android platform.
+
+ Developed solutions like “Media Center”, “Multimedia framework”, “Linux porting on TI- OMAP”,
+“RMA with Live Video” etc using Maemo/qt platforms.
+ Maemo/Meego & QT competency team ramp-up.
+ Linux offering development and developing solutions as pre-sales activity.
+ Also taken care of Symbian/S60 team ramp up and developed solutions like “Telephony adaptation
+layer on Ericsson platform”, “Active Idle screen”, “Search engine”, “Messaging” etc.
+ Conducted “Technology road shows” at customer premises and demonstrates the team technical
+capabilities.
+IV.
+
+Jul’ 2006 to Dec’ 2008:
+Project Manager @ Tieto Telecom R&D services India Pvt Ltd
+
+ Implemented 3G mobile features like VoIP call, Video telephone calls, text messaging, file transfer
+using SIP protocol via IMS server.
+ Supporting Presence information and capabilities of the buddies.
+ Active Phone Book implementation.
+ Push To Talk feature is enabled as per customer needs.
+ Multi party calls.
+ Project management activities like creating PMP, MPP, team & customer meetings, quality measure
+and delivery responsibilities.
+V.
+
+Oct’ 2004 to Jun’ 2006:
+Project Leader @ Navionics Engineering Pvt Ltd
+
+ Involved in System requirement collections, prototyping, developing and delivering Navigation
+solutions for various OEMs.
+ Integrating of 3rd party Fish Finder device within Navionics solution.
+ Developed and supported geocore libraries to various OEMs.
+ Profiling & improving the project deliverables Quality.
+ Maintaining configuration system and bug tracking tools.
+ Implemented ISO 9001:2000 & CMM 5 level KPI practices.
+ Leading the team technically & people management.
+VI.
+
+Dec’ 2001 to Sep’ 2004:
+Team Lead @ Navionics Engineering Pvt Ltd
+
+ Porting of application which runs on Nucleus RTOS and ARM 7 to E-Linux and ARM 9 platform.
+ Geocore libraries development to supported OEM’s in developing their own plotter applications.
+
+
+
+
+
+
+VII.
+
+Implementing navigation features along with cartography and echo sounder.
+Using GPS signals and implementing auto pilot feature.
+Supports new xf2 format of Navionics cartography data.
+Presentation library toolkit development to change the look and feel.
+Maintenance of plotters by fixing the bugs and adding the new features.
+Nov’ 1999 to Nov’ 2001:
+Software Engineer @ Citation Softech Ltd
+
+ Digitization of the images.
+ Image processing techniques using various filters, morphing scaling, edge detection etc.
+ Passing the images through low and high class filters to decrease the pixel resolution.
+ Zooming the images using Pivot algorithms
+Personal Details
+Born
+Languages conversant
+Passport Number
+Visas
+
+:
+:
+:
+:
+
+13th July’ 1976
+English, Hindi and Telugu
+G7036754 Valid up to: 2017
+B1 visa – USA valid till 2021
+
+

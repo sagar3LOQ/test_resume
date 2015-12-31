@@ -1,0 +1,293 @@
+ctc: 14/19/30days
+
+
+
+KORUKONDA ANUSH KUMAR
+
+Citizenship : Indian ▪ Date of birth : 21 May 1989
+
+
+
+Contact
+
+Tel : +91-9885248791, +91-9739801962,
+
++91-8854-252987.
+
+Email :anushkumar.korukonda@gmail.com
+
+
+
+Permanent Address: D.No :4-4-42/1A,Sri Sai Auto Xerox,Post office Street,Tuni-533401,Andhra Pradesh.
+
+
+
+Profile
+
+      Objective      
+
+Seeking a  challenging position within the Information Technology department, possibly with an international perspective , whereby my ability to acquire new skills and enhance
+
+existing ones will benefit the progressive organization that I work for.
+
+
+
+
+
+
+
+Work Experience
+
+Worked for Amdocs as Subject Matter Expert(SME) from July 2010 to March 25th 2011.
+
+Worked for Via.com as Tech Wiz from March 28th 2011 to October 20th 2011.
+
+Working for Yatra.com as Senior Software Engineer from October 31st 2011 to present. 
+
+
+
+
+
+
+
+Key Skills
+
+    LANGUAGES/DATABASES                TECHNOLOGIES/FRAMEWORKS                   SCRIPTINGS/TOOLS
+
+C 
+
+ C++
+
+JAVA
+
+ORACLE
+
+MYSQL
+
+  JSP
+
+JDBC
+
+AJAX
+
+JAVA SERVLETS
+
+ SPRING
+
+HIBERNATE
+
+SPRING WEBSERVICES
+
+HTML
+
+CSS
+
+JAVA SCRIPT
+
+ECLIPSE
+
+MAVEN
+
+ANT
+
+APACHE/TOMCAT
+
+
+
+
+
+
+
+Projects:
+
+Mobile IOS,Hotels, Holidays and Personalization.
+
+
+
+(JAVA,JSP,HTML,CSS,JAVASCRIPT,MYSQL,SPRING,HIBERNATE,Objective C)
+
+                                                                                                                                           Organization:Yatra.com
+
+Role : Senior Software Engineer                                                                                                          Nov 2011 - Till
+
+Description:  Worked majorly on yatra hotels and holidays website and also contributed to some of the small components of the other yatra products.Presently working on IOS App of Yatra.
+
+
+
+Designed the payment flow and also corresponding input handlers which is used for making the payment transactions made across yatra hotels and holidays website. Integrated new ICICI MID in yatra payment system which is ued for making credit card auth transactions on yatra hotels website.
+
+Designed image scheduler which runs daily and sync the images to the yatra hotels and holidays website from coppermine image source (used by yatra product team to upload images) .
+
+Designed analytics module which dynamically geneates the JS files during the build from xml configuration . Integarated google analytics using this module across yatra hotels and holidays website.
+
+Designed validation JS frame work which is used across yatra hotels and holidays website.
+
+Enabled facebook and gplus share buttons on hotels and flights confimation page.
+
+Designed personalized popular holidays banner on yatra home page with google analytics. 
+
+Implemented a part of cross sell banner on flights confirmation page with google analytics.
+
+Enhanced the Single Sign on Service to support multiple social network logins. Integrated facebook login with yatra mybookings,hotels and flights websites.
+
+Integrated Discounting Service and implemented QuickBook promotions flow in hotels.
+
+Enhanced HomepageWebApp to serve hotels and holidays booking engine as independent components and to integrate it on Yatra Home page to serve them through Ajax calls so as to remove the redirection for them.
+
+Integarated Google Maps v3 used for locating/filtering search results on new Hotels Website.
+
+Fixed many critical production issues which also include some UI issues.
+
+Integrated Intenrational Card Payments in Hotel/Flights for both iPhone and iPad
+
+Desgined MyBookingsLogin Screen and Flight/Hotel Trip details screen for iPhone where the customer can view his booking details whether he is online/offline. 
+
+Designed the Train PNR search for iPhone where the user can view PNR status and also can view his recent PNR searches when he is online/offline.
+
+Integrated third party Vizury SDK for ads purpose in iPhone and also implemented the flow where the user can open Flights Booking Engine and Hotel Review page from browser or from any advertisement.
+
+Designed the new payment flow where the payment options, payment page validations are controlled dynamically by payment service.Implemented new Ecash and EMI payment options.
+
+Fixed many existing issues for both Iphone/Ipad.
+
+
+
+
+
+
+
+Payments Management and Accounts.
+
+
+
+(JAVA,JSP,HTML,JAVASCRIPT,MYSQL)
+
+                                                                                                                                              Organization: Via.com
+
+Role : Tech Wiz                                                                                                                    March 2011 - Oct 2011
+
+Description:  Deals completely with Payments system for the transactions made across via websites and  credit flow process at Via.
+
+
+
+Designed Credit Dashboard as per  the requirements of  the credit team of Via . Designed the mapping of different  payment mediums with its submediums and input handlers which are used during the payment process for the transactions made across all via websites  and enhanced the system so that it can be used by VIA corporates.Designed the  payment flow for VIA STAY product.
+
+Completed the full integration of HDFC ssl gateway which was integrated partially,integrated the ICICI Mobile Authentication Platform (MAP) for M-Commerce transactions and  fixed the issues related to VIA accounting reports
+
+
+
+
+
+Light speed Flow Through                     
+
+
+
+
+
+Client : AT&T, USA                                                                                                             Organization: Amdocs
+
+Role : Subject Matter Expert                                                                                            July 2010 -  March 2011
+
+
+
+Description: Light Speed is  AT&T’s initiative for providing customer the facility of having IPTV, High speed internet (broadband) and Voice over IP at the same time so that the customers have more options to choose and also at the same time have more flexibility. It  is expanding its existing fiber optics network to provide effective services. Light speed is a capital initiative to deploy fiber-to-the neighborhood and fiber-to-the-premises technologies
+
+
+
+My role is to perform the End-to-End Testing of this application and provide these service to the customer.
+
+Tickets raised by the customers are handled and are tested manually in a Fully integrated environment and there by maintaining test cases in QC.
+
+Orders placed in OMS are fully tested and composed of order actions such as
+
+Providing new services or changing existing services to the customer.
+
+Stop existing services Temporarily/Permanently
+
+Suspend only CVOIP or resume suspended process.
+
+
+
+
+
+
+
+Academic Projects:
+
+Indian School of Mines University, Dhanbad.
+
+Academic Project
+
+(Algorithm Design for interconnection networks)(Programmed using C)
+
+July to May, 2009  –  2010
+
+Analysed various recently developed interconnection networks in parllel processing field  and studied various algorithms related to them.
+
+Worked on OTIS-Mesh of trees interconnection network and developed an algorithm for data concentration problem, multicast problem and finding a hamiltonian cycle in the network(for 3x3 OTIS-MOTproblem was solved). 
+
+Worked on Multi-Mesh of tress interconnection network and given a sorce node and destination node in the network, developed an algorithm for finding a multi-stage graph in the network 
+
+
+
+
+
+
+
+
+
+
+
+Education
+
+2006 to 2010
+
+B.Tech Computer Science and Engineering
+
+Indian School Of Mines University, Dhanbad, Jharkand.
+
+OGPA: 7.81/10
+
+2004 to 2006
+
+Intermediate(Class XII),Board of Intermediate Education
+
+Sri Chaitanya Junior College, Visakhapatnam, Andhra Pradesh.
+
+Percentage: 94.6%. 
+
+
+
+
+
+
+
+Acheivements
+
+Among the top 2% students selected  in the prestigious IIT-JEE 2006.
+
+Stood among the top 5 in the branch.
+
+
+
+
+
+
+
+Languages
+
+Telugu(native)                                 English(fluent)                               Hindi(Fluent) 
+
+
+
+
+
+
+
+Hobbies
+
+Playing Badminton.
+
+Listening to Music.
+
+Net Surfing.

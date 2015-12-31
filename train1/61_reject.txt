@@ -1,0 +1,211 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                  -  8
+month                                 �
+�          
+
+Spring                  
+                                  -  2
+year&
+current                                �
+�               
+
+Web
+Services                                
+        -     2 year&
+current                                �
+�           
+
+Core
+Java                                  
+             -   2.7years
+
+Design
+Patterns                                
+    -    32.7years
+
+UML
+design                                 
+          -     
+
+Build Tools (Maven/Ant)                    -   
+Maven 
+
+Others if any, specify [Application Servers, IDE, Code Quality
+潔汯⁳瑥⹣൝吠浯慣⽴扪獯⽳敷汢杯捩യ䵐⁄潣瑮湩潵
+獵椠瑮来慲楴湯䐍㩂牯捡敬഍潎攠灸椠⁮敲汦捥楴湯഍
+不条湥敤⁲慂畢ഠ
+
++91 - 7416638008
+
+nagenderreddy729@gmail.com
+
+Professional Summary
+
+Having 2.7+ years of experience in Implementation and Maintenance of
+Java based projects.
+
+Has the motivation to take independent responsibility as well as ability
+to contribute and be a productive team member.
+
+Having extensive experience in Spring, Hibernate, Wicket, Angular-Js,
+Jdbc, Servlet, Jsp, SQL, PL/SQL, Junit, Jmockito.
+
+Good knowledge on database connectivity programming using JDBC and
+working with web services.
+
+Experience with web servers like Tomcat, JBoss.
+
+Experience with Continuation Integration tools like Jenkins creating
+jobs and scheduling jobs for automatic build.
+
+Experience with SonarQube(Code quality tool) 
+
+Qualifications
+
+				
+
+Bachelor of Engineering from Sreenidhi institute of science & technology
+College of Engineering (Jntu University).
+
+Experience
+
+				
+
+Working as a Programmer, Analyst in Prokarma softech,  Hyderabad from
+Jun 2012 - Till date.
+
+Technical Skills
+
+Languages			: Java, SQL, PL/SQL, C, C++
+
+Java Technologies   		: Angular-Js, Wicket, Spring, Hibernate,
+
+                                          web-  service(jax-ws),
+Servlets, JSP, JDBC, Junit                                              
+              
+
+Tools				: Eclipse, Soap UI
+
+	Web Servers			: Tomcat, Weblogic, JBoss
+
+	Markup/Scripting Language	: HTML, JavaScript
+
+	Database			: Oracle 
+
+Project #1                                                              
+                  
+
+Title	 Visitor Badge Registration
+
+Client	 Union Pacific Rail  Road
+
+Technology	Spring,Hibernate,Wicket,Oracle 10g
+
+
+
+Description:
+
+“Visitor Badge Registration” is used to giving the badges to the
+visitors while visiting the uprr employees. Employee create the request
+for their visitor so that security guard checks into the system if he is
+a preregistered visitor then he will check into the building by giving a
+unique badge to the visitor. 
+
+Responsibilities:
+
+As a Team member, I was responsible for understanding the business & the
+technology of the client system. For implementing Reporting Enhancements
+we need to undergo the various phases like - Analysis, Design, Coding,
+Unit testing Implementation and Post implementation. 
+
+I was responsible for understanding the user requirements and preparing
+the detailed design document in compliance with the requirements.
+
+I was responsible for major part of developmental activities which
+includes:
+
+Creating the visitor request page and saving the visitor into db.
+
+Developing the check-in page and updating the visitor into db.
+
+ Developing the un-register page and saving the visitor into db.
+
+Creation of front-end screen to download the report.
+
+Project #2                                                              
+               
+
+Title	 Federal Inspection Data
+
+Client	 Union Pacific Rail  Road
+
+Technology	 Spring,Hibernate,Wicket,Oracle 10g,web-service(Jax-ws)
+
+
+
+Description:
+
+“Federal Inspection Data” is used for calculating the fine amount
+for violated Inspection. If any violations like railway track is not
+according to federal rules so the corresponding assigned employee logs
+into fid and create an inspection for that inspection based on the
+violation type fine amount is calculated. 
+
+Responsibilities:
+
+I
+
+a
+
+o
+
+p
+
+
+
+$
+
+?
+
+I
+
+J
+
+_
+
+`
+
+a
+
+p
+
+q
+
+摧䏁V᠀ˆŠ>
+
+„@
+
+÷^„@
+
+h
+
+gd
+
+&
+
+&
+
+ design document in compliance with the requirements.
+
+I was responsible for major part of development activities which
+includes:
+
+Developing the ‘Inspection Entry’ Page front end to back end.  
+
+Developing the ‘Inspection Search’ Page front end to back end.
+
+Developing the admin screens front end to back end.
+

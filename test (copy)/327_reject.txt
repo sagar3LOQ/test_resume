@@ -1,0 +1,271 @@
+Alok Kumar
+
+B.Tech – Computer Science and Engineering
+
+Mail-Id: meetaloksngh@gmail.com  Mobile: +91-9590649389
+
+Current Employer: HCL Infosystems Ltd.
+
+Position : Software Engineer
+
+Profile	
+
+To obtain responsible and challenging position  and improve my technical
+skills which will be utilized fully to achieve     growth of the company
+and enhance my potential.
+
+Key Skills
+
+Proficient or familiar with a vast array of programming languages,
+concepts and technologies including:
+
+Technologies: 
+
+Java
+
+JSP
+
+Servlet
+
+Struts
+
+Spring IOC/MVC/AOP
+
+Web Services (REST/SOAP)
+
+Hibernate
+
+JDBC
+
+Java Script
+
+MULE
+
+MySql 
+
+Oracle
+
+Tomcat and JBOSS
+
+Basic idea about Derby DB & JDBM
+
+Operating Systems:
+
+Windows 
+
+Linux  (Ubuntu )
+
+Tools :
+
+Eclipse
+
+SQL YOG
+
+DB Visualizer 
+
+Maven
+
+SQL Developer etc
+
+Educational Qualifications
+
+B.Tech(CSE)
+
+	Bengal Institue of  Technology and Management(WBUT)	  -    June, 2012
+
+ Employment Details
+
+HCL Infosystems Ltd. ,Bangalore(June 2014 to Present)
+
+Designation:  Software Engineer
+
+Technologies worked on: Java,Spring (IOC/MVC),Hibernate,Web
+Services,Oracle SQL, Mysql.
+
+Projects worked on: 
+
+UIDAI- Aadhar project (Unique Id for every citizen of India)
+
+ViMAP Services. ,(September 2012 to June 14)
+
+ Designation:  Software Engineer
+
+Technologies worked on: Java,Struts,Spring IOC/MVC ,Hibernate, Oracle
+SQL, Mysql, 
+
+Projects worked on: 
+
+ITMS (Integrated Training Management System.) 
+
+OTC  (Online Test Center.)
+
+Project Details 
+
+Project#1 :                UIDAI- Aadhar Project
+
+Role: 	                        Team Member
+
+Team Size:	         9
+
+Duration:	          June 2014 to Present.
+
+Environment:           Java,Spring,Web Services(REST),TOMCAT, Eclipse.
+
+Description: 
+
+                         The motive of the project is to provide a
+unique ID (called Aadhar number or UID) to every citizen of India that
+can be used to provide the authenticity of that citizen. Biometric
+details are also captured for Authentication purposes. This is an Indian
+government project. 
+
+Project Modules
+
+Enrolment Client – Creates the packet for every citizen having
+Biometric and Demographic Details.
+
+ClientIntegrationServer-Processing the request to Authentication.
+
+Enrolment Server – Actual processing of the Packet is done here for
+storage, validation etc.
+
+Authentication Server- Application that is responsible for providing
+authentication services to various firms and organizations.
+
+Portals – The portal team responsible for developing web portals for
+various configuration and service.
+
+Reports – The purpose of this module is to generate reports of various
+stages in Aadhar project.
+
+FI and E-Kyc – This module is for the linking of an existing account
+or opening of an AADHAAR-enabled bank account for a resident who opted
+during the enrolment. Know Your Customer (KYC) is for customer
+identification process.Using this KYC API, agencies can conduct
+electronic identity verification using biometrics.
+
+Key Role: Application Development
+
+Roles and Responsibilities:
+
+Work closely with other team members during coding 
+
+Worked and handled exceptions occurred in multiple servers concurrently.
+
+Code done on Spring and Created Hibernate mapping files.
+
+Working on production issues whenever they occur.
+
+Worked on linux environment.
+
+	
+
+Project#2 :             Integrated Training Management System 
+
+Role: 	                       Team Member
+
+Team Size:	        10
+
+Duration:	         July 2013 to June 2014.
+
+Environment:          Java, JSP, Spring MVC, Hibernate, Oracle, JBOSS,
+Eclipse.
+
+Description:
+
+         Integrated Training Management System which is a product
+initiated by ViMap Services for automating the training process of a
+training centers across India. It has three types of users like Admin,
+Employee and Student. Admin is a person who is controlling the entire
+application. There are many types of Employee like Faculty, Accountant,
+Manager, Director, and Education councilor. Faculty is responsible for
+uploading the schedule, updating daily covered topics, uploading the
+assignments, answering the questions posted by the student etc. Manager
+is responsible for scheduling the batch, assigning batch to the faculty,
+tracking the batch schedule etc. Education councilor is responsible for
+updating daily enquiries, tracking the enquiring, doing the registration
+etc. Admin is allowed for Maintaining Users. Admin can add users
+(Employee/Student), update users (Employee/Student) and change
+permissions of the users, resetting the passwords of the users etc.
+
+Roles and Responsibilities:
+
+Written JSPs and Controller Classes as per the Requirement.
+
+Implemented Commands and their Validations. 
+
+Implemented Page layouts using Tiles Framework.
+
+Written Spring Service Interfaces and their implementations.
+
+Written Spring DAOs and their implementations with Hibernate.
+
+Written Hibernate Mappings.
+
+Project #3:	            Online Test Center.
+
+Client:	            In House. 
+
+Team Size:	            5
+
+Role:	            Team Member.
+
+Duration:	           September 2012 to July 2013.
+
+Environment:	       Java, JSP, Struts, JDBC, MySQL, Tomcat, Eclipse.
+
+Description:
+
+                  Online Test Center has three types of users like
+Admin, Author and Examinee. Admin is a person how are taking the all
+controls for this application. Author is a person how is having domain
+knowledge. He will prepare questions under each topic and also answers
+for those questions. Examinee is a person’s how came to tack our
+online exam through intranet or internet. 
+
+                              Admin is allowed for Maintain User,
+Maintain Results, Maintain Topics, and Maintain Questions. Through the
+User module he can add users delete users and change permissions of the
+users like he can give admin permissions or author permissions also
+examinee permissions. And he is allowed to change the passwords of the
+users. Author is allowed to maintain Topics, Questions, and Results and
+also he can update his profile.  Examinee is allowed only to tack exam.
+Whenever he logon to OTC system we will give the topic list. He can
+select any one of the topic form the list and click Tack Exam link.
+
+Roles and Responsibilities:
+
+Designed JSP’s as per the Requirement.
+
+Implemented Action Classes.
+
+Implemented Form Beans and their Validations.
+
+Updated Struts configuration file, Validation and tiles xml document.
+
+Written DAO’s and their implementations With JDBC.
+
+Strength
+
+Hard working
+
+Good catching power
+
+Flexibility
+
+Personal Information
+
+        Date of Birth:		5-Feb-1990
+
+        Father’s name:		Mr. Ashok Kumar Singh
+
+        Sex:				Male
+
+        Nationality:			Indian
+
+        Marital Status:		Single
+
+        Linguistic Proficiency:	English, Hindi
+
+(Alok Kumar)
+

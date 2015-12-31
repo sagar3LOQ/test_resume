@@ -1,0 +1,62 @@
+D. Puneet Reddy
+443 A7/1, Road #86, Jubilee Hills,
+Hyderabad. 500033
+
+Phone: 9160924201
+e-mail: puneet.reddy@gmail.com
+
+Summary:
+
+ Over one and a half years’ experience in end to end application development using SQL Server, C#.NET and a
+variety of front ends covering the entire software development life cycle (SDLC) including requirement
+gathering and testing.
+ Knowledge of Banking, Financial Analysis and Original Equipment Manufacturing(OEM) companies.
+ Proficient in version control on GIT and SVN.
+ Experienced in packaging and deployment of backward compatible n-tier architecture.
+ Sound knowledge of SQL Server 2008 and 2012 including query optimization, stored procedures and creating
+and maintaining complex relational databases.
+ Well versed in application development using object oriented analysis and design. (OOPS)
+ Quick learner with good communication skills.
+
+Technical Skills:
+.Net Technologies
+Web Development
+Languages
+Database/DataAccess Technologies
+Development Tools
+Web Servers
+Operating Systems
+
+C#.NET 3.0/3.5/4.0/4.5, Web Services
+HTML5, XML, XSLT, CSS, JavaScript
+C#, SQL, C, C++, Java
+MS-SQL Server 2008/2012
+Visual Studio .NET 2008/2010, Eclipse SDK
+IIS
+Windows 7, Windows Server 2008, Windows XP, Unix, Linux
+
+Employment History:
+Bloomberg LLC – New York City
+R&D Financial Software Engineer, Feb2013 – July2014
+Bloomberg is a financial software, data and media company specializing in providing real time business data and
+analytics.
+Job roles
+ End to end design of administrative tools for the marketing team to allow them to specify default and secondary
+reviewers and approvers for events based either on business unit hierarchy or global region.
+ Migration from legacy databases to SQL Server.
+ Design and implementation of complex hierarchical data structure involving simultaneous searching across two
+separate tree structures.
+ Created a web service job to schedule and send e-mail reminders to users daily, monthly or weekly as specified
+by the user.
+ Design of UI components using a JavaScript based technology.
+ Creation and deployment of SOAP and XML Web Services.
+ Worked with SVN to maintain source code history.
+ Implemented caching in the webservice to reduce existing page load times considerably.
+
+Education:
+M.S Mechanical Engineering from The University of Pennsylvania – Dec 2012
+Diploma in Software Engineering from NIIT - 2008
+B.E. Mechanical Engineering from C.B.I.T Gandipet – Affiliated to the OsmaniaUniversity.
+Intermediate pass with distinction from the Board of Intermediate Education A.P. - 2002
+
+

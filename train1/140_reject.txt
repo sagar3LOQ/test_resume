@@ -1,0 +1,445 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                        -7
+year                                  
+               
+
+Spring                             -  7years&
+current                                �
+�               
+
+Web Services                 -  used in project
+
+Core Java                       -  9.5years
+
+Design Patterns               -yes    
+
+UML
+design                                 
+        
+
+Build Tools (Maven/Ant)        Maven   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Inbuilt Jetti/websphere/Spring IDE
+
+DB:My SQL
+
+Email: mail2skv@yahoo.co.in                                             
+                                                  Phone: +91-8008911182
+
+Objective: To be an architect , team lead and programmer for a company
+providing opportunity to address complex problem and a healthy working
+culture.
+
+Overview: 
+
+9.5 years of experience in designing, developing and managing software
+applications.
+
+Excellent exposure on cutting edge methodologies like SDLC, Agile,
+SCRUM, Xtreme Programming, Pair Programming, TDD, BDD, SOA.
+
+Excellent exposure on UML, High Level, Low Level Design, Data structures
+& Algorithms.
+
+Strong UI design and development skill on latest  frameworks like GWT,
+GXT, GIN, JQuery, Angular, CSS and HTML5
+
+Strong Server Side exposure on HTTP, J2ee, REST, EJb3, JPA, Springs,
+Struts, Hibernate, Security, SSH. 
+
+Strong ORM Skills Oracle, Mysql, Postgres, Hsql and SQL/PLSQL
+
+Strong exposure in Code Coverage, Continuous Integration and build tools
+like Maven.  
+
+Technical skills:
+
+Fundamentals: Data Structures, Algorithms, OOPS, SOLID, Design Patterns
+
+Methodologies: Agile, Scrum, XTreme Programming, Pair Programming, TDD,
+BDD
+
+Platforms: Windows, Ubuntu, Linux, Mac OSX Mountain Lion 
+
+UI: GWT, GXT, GIN, JQuery, Angular, JavaScript, HTML5, Swings
+
+J2EE: Java 1.5 Specification and above, J2ee Specification, EJB3, JPA,
+JSP, Servlets, JDBC, JNDI
+
+Springs: Spring IOC, Spring Security, Spring AOP, JDBC Templates, Sprint
+BOOT, Spring MVC
+
+ORM: Hibernate ORM, Hibernate Envers, MyBatis
+
+Caching: EHCache
+
+RDBMS: Oracle(SQL/PLSQL), Mysql, Postgres, HSQL
+
+NoSQL: MongoDB
+
+RESTFul Webservices: REST with Apache CXF, Jersey, Spring MVC, XML,
+JSON, JAXB/Jackson
+
+Search and Indexing:  Apache Lucene, Solr, Elastic Search
+
+TDD: JUnit, Mockito
+
+BDD: JBehave
+
+Code Coverage: Cobertura 
+
+Agile Tool:  JIRA+GreenHopper
+
+Build Tools: Maven and Ant build tools 
+
+Clean Code: PMD, Checkstyle, Findbugs
+
+Continuous Integration: Jenkins, Hudson
+
+Repository: GIT, EGit, SVN, Tortoise
+
+Bug Fixing: Bugzilla, Trac, HP Quality Center, JIRA
+
+Packaging: IZPack
+
+Servers: Tomcat, JBoss, 
+
+IDEs: Eclipse, Netbeans, Spring Source IDE STS
+
+Design: UML2.0, Visio
+
+Miscs: NoSql, Neo4j Graph Database, Cloud Computing
+
+Education & Training:
+
+Project Experience: 
+
+8. 	Project Name : Cast Light Health Care
+
+Client	CastLight HealthCare USA
+
+Role	Principle Software Engineer
+
+Organization	Pramati Technologies
+
+Duration	April 2013 – Till Date
+
+Team Size: 6	Project: Development and enhancements of SOA webservices
+for CastLight Health
+
+Environment – Java 1.5, SOA, REST, JSON, SpringMVC, Hibernate, Junit,
+Mockito,Cobertura, MySql, Lucene, Mongo DB, Jenkins,Agile/Scrum
+
+
+
+Project Description
+
+CastLight HealthCare is a US Health Care HIPAA based company aimed at
+showcasing pricing for various health care providers. The application
+maintains extensive claims data and provider data which are location
+specific. Reviews, Feedback, Pricing, Teladoc, PastCare, Find Care,
+Guide Tool, Care Plan are some of the modules. It follows SCRUM
+development model. Resposibilities include coding, testing, code
+reviews, srcum standup and spring planning.
+
+  
+
+7. 	Project Name : Aconex
+
+Client	Aconex Australia
+
+Role	Principle Software Engineer
+
+Organization	Pramati Technologies
+
+Duration	July 2012 – April 2013
+
+Team Size: 6	Project: Developing web portal for tracking developments
+w.r.t a construction project, issue management, user and role
+management, invitation management
+
+Environment – Agile, SCRUM, Pair Programming, Java 1.5, GWT, GXT, GIN,
+REST,Apache CXF+Spring, Elastic Search, Hibernate, JPA, Envers,
+Postgres, SQL,TDD using Junit/Mockito, BDD using JBehave, Cobertura code
+coverage, Maven build with Jenkins continuous Integration
+
+
+
+Project Description
+
+Aconex is a construction based software company based in Australia. The
+software products are aimed at managing issues during development.
+Open/Reopen/Close, Assign/Reassign to self or third party, timeline,
+dashboard etc are some of the functions of the tool. As part of our
+project, I worked as individual contributor for developing UI and Rest
+components, attending daily Scrum and Spring Planning meetings and Code
+Reviews
+
+6. 	Project Name :Yellow book Portal
+
+Client	Yellow book
+
+Role	Associate Architect 
+
+Organization	Alliance Consulting
+
+Duration	( May 2010) – July 2012
+
+Team Size: 6	Project : Developing New Features like RCF and CRM and
+Maintaining existing features like YBD, YBD4e, YBDSupport
+
+Environment - Java 1.5, GWT, GXT, EJB3, JPA, Maven, JBoss 5.1, Track,
+Junit, Cobertura, Jenkins, PMD, Check style, FindBugs,Hibernate
+
+Project Description 
+
+Yellow Book Portal is a set of tools containing various portals. YBD is
+a Client portal deals with registration of clients and providing various
+advertising related centric data which client can review. YBDSupport is
+an auditing portal which deals with managing the account’s blocks or
+unblocks status, bill status, password reset and audit information.
+YBD4e is a portal dedicated to Yellowbook internal team which provides
+customer support. RCF portal is an independent side project which is
+dedicated towards an independent team. The portal manages distribution
+of RCF numbers and fixing call rates.
+
+As a Associate Architect, was responsible for 
+
+SCRUM Team member
+
+Managing Development Operations like Understanding User Stories, Coding,
+Testing, Client Demo and Handle Change Requests.
+
+Developing Front End with GWT/GXT and back end with EJB 3 and JPA
+
+Bug Resolution
+
+Increasing code coverage.
+
+Extra-Curricular:
+
+Part of the high level group called Center of Excellence in Alliance.
+
+Winner of Special Recognition Award.
+
+Winner of Star of the Quarter Award.
+
+5. 	Project Name : ITCM Web Administration Console (WAC)
+
+Client	Computer Associates (CA)
+
+Role	Software Engineer 
+
+Organization	Computer Associates (CA)
+
+Duration	(09/2009) – (04/2010)
+
+Team Size: 120	Project: Web App development for remote management of IT
+applications like installing OS, Software and Hardware Configurations.
+
+Environment - Java 1.5, GWT, GXT, REST with Apache CXF, Springs, Oracle
+10g, Hibernate, FindBugs
+
+Project Description 
+
+ITCM Web Administration Console (WAC) is a J2ee web application for ITCM
+product of CA. ITCM is abbreviation of IT Client Manager which is a tool
+developed for remote managing of  software installation, operating
+system and the computer systems of any organization. The WAC will be a
+RIA web application that will provide ITCM services through Web
+environment
+
+Contribution
+
+As a Software Engineer, was responsible for 
+
+Coming Up with Design Documents
+
+Developing Code, Unit Testing
+
+Bug Resolution
+
+Interacting with stake holders
+
+4. 	Project Name : ANTI FRAUD SYSTEM
+
+Client	BANK OF NOVA SCOTIA/ SCOTIA BANK, CANADA
+
+Role	Senior Software Engineer / Module Lead
+
+Organization	ADLUX CONSULTANCY SERVICES PVT. LTD
+
+Duration	(07/2008) – (09/2009)
+
+Team Size: 25	Project : Web Security Tool for both card present and card
+not present transactions consisting of various modules dedicated for
+transaction analysis 
+
+Environment – Java 1.5, Springs 2.5, Hibernate 3.3, JSTL 1.1, Oracle
+10g, WSAD, TOAD, Windows XP, Bugzilla, Find Bugs, Web sphere.
+
+
+
+Project Description 
+
+AFS is an advance anti fraud system whose prototype was developed as per
+terms set by Scotia Bank. It is aimed to provide better security in
+transaction processing for both card present and card not present case.
+The web application is for internal research and admin team in Nova
+Scotia which does admin processing for current and past transactions.
+
+Contribution
+
+As a Module Lead, was responsible for 
+
+Feasibility Study and Client Interaction
+
+Module Lead with team of 5 members
+
+Working on SDLC documentation.
+
+Coding and Implementation Prototype
+
+Client Presentation
+
+3. 	Project Name : OCTANIZER GAME TOOL
+
+Client	OCTANE MOBILES PVT. LTD., MUMBAI
+
+Role	Software Engineer 
+
+Organization	OCTANE MOBILES PVT. LTD.
+
+Duration	(02/2008) – (07/2008)
+
+Team Size: 1	Project : Web App dedicated for managing game development
+
+Environment – Java 1.5, Spings 2.5, Hibernate 3.0, JSP, JSTL  Swings,
+Oracle 10g., Netbeans, Oracle SQL Developer, Tortoise SVN, Glassfish,
+PMD, Checkstyle, FindBugs
+
+
+
+Project Description 
+
+Octanizer Game Tool is an Octane Technologies specification based tool
+aimed at empowering game developers to manage their game development
+cycle with  better ease. The modules that were required to develop were
+Device Specification Catalogue, Inventory Manager, Game Asset Manager,
+and Image Processor.
+
+Contribution
+
+As an Software Engineer, was responsible for 
+
+Documenting Use Cases and Low Level Design
+
+Application Designing
+
+Coding
+
+Testing
+
+Bug Resolving
+
+2. 	Project Name : SKU MANAGER
+
+Client	EA MOBILES PVT. LTD.
+
+Role	Junior Software Engineer
+
+Organization	EA MOBILES PVT. LTD.
+
+Duration	(04/2007) – (01/2008)
+
+Team Size: 6	Project : Content Management portal for EA Mobile Games
+
+Environment – Java 1.4, Springs 2.0, Hibernate 3.0, JSP, JSTL , Erwin
+Data Modeler, Eclipse,  Oracle 9i, JIRA, Orion, PMD, Check Style
+
+
+
+Project Description 
+
+SKU Manager 3.0(SKUM 3.0) is a product aimed at making management,
+distribution of games developed by EA Mobile easy. It is a web app tool
+dedicated for managing game’s information, carrier details, device
+details, portability for a particular carrier in a country and for a
+particular device, pricing information combined as a stock keeping unit
+(SKU)
+
+Contribution
+
+As an Junior Software Engineer, was responsible for 
+
+Documenting Client Requirements
+
+Coding
+
+Testing
+
+Bug Resolving
+
+Documenting Low Level Design
+
+1. 	Project Name : DEAL TIMER CRM & CLAIMS GENERATOR
+
+Client	ELGI, CANADA
+
+Role	PROGRAMMER
+
+Organization	XML FRAMEWORKS PVT. LTD.
+
+Duration	(09/2005) – (04/2007)
+
+Team Size: 8	Project : Web App for managing Dealer Information, Customer
+Information, Warranty Claims and Status, Report Generation  
+
+Environment – Java 1.4, Struts 1.2, JSP, Oracle 9i, JDBC, WebLogic
+
+
+
+Project Description 
+
+Elgi is a leading Engine Manufacturer with a wide customer base in
+Canada and an extensive Dealer Network. The CRM and Claims generator
+were to be used by Elgi for better customer management and to manage its
+warranty policy through claims generator.
+
+Contribution
+
+As an Software Engineer, was responsible for 
+
+Coding
+
+Testing
+
+Bug Resolving
+
+Documenting Low Level Designs
+
+Shiv Kumar Verma
+
+                                                                        
+      	                                                       
+
+Shiv Kumar Verma	
+
+Qualification/Certification	Period	University/Institute	Location(College
+name)	Percentage
+
+BTect	2005	JNTU University	Hyderabad	67%
+
+12th Standard	2000	AP Intermediate Board	Hyderabad	74%
+
+10th standard
+
+	1998	AP SSC Board	Hyderabad	67%
+
+ 
+

@@ -1,0 +1,337 @@
+							
+
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                  - 2
+years                                 �
+�             
+
+Spring                  
+                                  - 
+2years
+
+Web
+Services                                
+        - 
+1years                                 
+               
+
+Core
+Java                                  
+             -  3 year
+
+Design
+Patterns                                
+    -    6 month
+
+UML
+design                                 
+          -    
+
+Build Tools (Maven/Ant)                    -   
+Ant-3 years   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Apache Tomcat 6.0/weblogic server
+
+Ok for startup.
+
+PROFESSIONAL SUMMARY	
+
+Close to 3.0 years of extensive work experience in Java and J2EE with
+projects  involving Development and Enhancements.
+
+Good Exposure on Core Java, Jsp, Servlets, Extensive Work Experience on
+frameworks like Spring, Struts , Hibernate.
+
+Main responsibilities include understanding of requirements,  formulate
+solutions, Development and Unit Testing.
+
+Extensive Knowledge on Integrated Technologies like Web Services and
+Restful Web Service.
+
+Knowledge on JAXWS BP 1.0&JAXRPC, JAXB APIs. Knowledge on Restful Web
+Services (JAXRS API 2.0)
+
+Implemented and used design patterns like Singleton, Factory, DAO and
+Strategy Design Pattern, Command Controller and Service design patterns
+for Developing Web applications.
+
+Good command over Spring AOP, IOC, Transaction and ORM module
+
+GUI layer Design and development done using Web technologies like JSP,
+JavaScript and HTML, Ajax.
+
+Application development IDE  like Eclipse, MyEclipse, Net Beans and
+STS(Spring Tool Suit) used.
+
+Quick learner and excellent Team player having ability to meet tight
+deadlines and work in Under Pressure.
+
+Well practiced with integrating struts, spring and hibernate.
+
+Well versed in both JDBC and Hibernate for the database connectivity
+
+EDUCATION:  B.Tech ( Electronics &Communication Engineering) with 70%
+from SBIT , Khammam , 2008 to 2012.  
+
+technical skills:
+
+Languages/Java Technologies	Java, Jsp,  servlet , Oracle, Web services,
+Hibernate, Spring, Restful Web Service
+
+DBMS	Oracle
+
+IDE’s and other Tools  	Eclipse 3.2, Sts, TOAD,   Soap UI 3.5
+
+SCM Tools	CVS
+
+Framework	Struts1.2, Spring3.0, Hibernate
+
+gui	Jsp, Ajax, JavaScript and html
+
+Web servers	Apache Tomcat server
+
+EMPLOYMENT HISTORY: 
+
+Name of the Company	Designation	From	To	Duration
+
+Cognizant Technology Solutions	Software Developer	April2012	Till Date	2
+Years
+
+
+
+Nurture Software Solutions    Pvt  .Ltd
+
+	 
+
+    Software          
+
+    Developer	
+
+   May 2011	
+
+March 2012	
+
+        1 Year
+
+   
+
+
+
+PROJECT DETAILS:
+
+Project Title	
+
+INTACT
+
+Client
+
+WellPoint
+
+Development Environment
+
+Java,  jsp, spring, web services, Apache Tomcat Server, Oracle, JUnit,
+
+Time Period
+
+March 2013 – Till date 
+
+Role
+
+Team member
+
+ CLIENT: Well Point
+
+ DESCRIPTION OF THE PROJECT:
+
+
+
+Internal Telesales Application Capture Tool [INTACT] application allows
+agent, broker, and customer service associate to enroll applicant data
+electronically through online forms. The services related to application
+functionality can be programmatically invoked over http internet
+protocol. INTACT uses few self-contained business services that expose
+WellPoint business functions to online partners through well defined
+interfaces. These services contain sets of operations that can be
+programmatically invoked through well defined web service interface
+using SOAP protocol. INTACT can dynamically mix and match pages for
+application type and state to key in data electronically as part of
+enrollment process. This data driven application allows agents/internal
+users to key in data or retrieve filled in form dynamically, and view
+the status of applicant real time. Moreover, this application is data
+driven which pulls the form template from database and populate the form
+with data retrieved from web service using application controller Number
+(ACN). 
+
+Following Modules have been handled as part of INTACT development.
+
+Quote Service module
+
+Transfer &Agent Recall module 
+
+ROLES AND RESPONSIBILITIES IN THE PROJECT:
+
+Involved in Gathering Requirements Understanding, Development and Unit
+Testing
+
+Involved  in Development  Web Services using Apache CXF. 
+
+Involved in  Implementing Code Based on DAO, Command Controller ,Service
+ Design Patterns.
+
+Involved in developing Web Application Environment Using Spring &
+Hibernate frameworks  for J2EE web application.
+
+Involved  in Code Integration  of Different Modules.
+
+PROJECT DETAILS:
+
+Project Title	
+
+WU Refresh P7.1C 
+
+Client
+
+Western Union
+
+Development Environment
+
+Java, J2EE,  jsp,  servlets, struts, spring, hibernate, oracle, CVS,
+Apache Tomcat.
+
+Time Period
+
+April2012 – Feb 2013
+
+Role
+
+Team member
+
+CLIENT : Western Union 
+
+DESCRIPTION OF THE PROJECT
+
+This project will create a process-centric workflow solution for the
+Bridgeton Customer Service Center (CSC) Offline group. The workflow
+system will be an on-line collaborative business application that is
+interactive and robust. Based upon performing a task, the workflow
+system will enable the CSC users to retrieve, manage and track work by
+each CSR user within the Offline department.  The system will provide
+reporting, allow for administration and control of the workflow process
+and provide the ability to track performance metrics by CSR user and by
+work tasks.  The system will automatically route work with attached
+images/documents between internal and external people and applications.
+
+Stop Payment and Process Transaction Confirmation modules are developed
+as part of WU P7.1C Under stop payment module, stop payment initiation
+which addresses the initiation of a stop payment type of work request,
+Stop Payments processing which addresses the workflow processing of a
+Stop payment type of work request are covered. Under process transaction
+confirmation processing of confirmation letter type of work request is
+covered.
+
+ROLES AND RESPONSIBILITIES IN THE PROJECT:
+
+   
+
+Involved  in Development and Unit testing.
+
+Designed GUI using HTML, CSS , Jsp, Struts  Jstl tag lib 
+
+Used DAO,VO, Business Delegate Design Patterns
+
+Struts framework  and  Jdbc  was used for developing J2EE based web
+application.
+
+Involved in Gathering Requirements Understanding, Development and Unit
+Testing
+
+Involved Designed GUI using HTML, CSS and Ajax, Jsp
+
+
+
+
+
+
+
+PROJECT DETAILS:
+
+Project Title		
+
+     I-Care Medical Information System
+
+
+
+Client	     West-End Medical Center, USA
+
+
+
+Development Environment	Java, J2EE,  jsp,  servlets, struts, hibernate,
+oracle, Apache Tomcat.
+
+Time Period	May 2011– March 2012
+
+Role	Team member
+
+
+
+CLIENT: West-End Medical Center, USA
+
+DESCRIPTION OF THE PROJECT:
+
+Medical Information System is software designed to provide information
+to the patients regarding the availability of the beds as well as
+doctors in the hospital. It was also designed to take admission of new
+patients and also to maintain them. It also keeps the detail information
+about the stocks of medicines and other accessories. It has also the
+billing system which calculates the total bill of the patients as well
+as doctors.
+
+The project was accomplished by the help of following modules.
+
+Patients Registration: Includes all patients’ related information with
+full address, contact no and, back ground details with the diseases
+symptoms.
+
+Pathology: Includes all types of blood, ECG and X-ray related tests;
+
+Sales & purchase: Includes all types hospital related Materials,
+Finished Stock Inventory, Preparation of Various Register and Sales
+Analysis Reports.
+
+Medicines: Includes the medicines assignments to the patients by the
+doctors in each time the doctor’s visits. And finally the bill will be
+generated.
+
+Patients discharge: After the bills are deposited the patients will be
+discharge
+
+ROLES AND RESPONSIBILITIES IN THE PROJECT:
+
+Developing Presentation Layer using JSP and Struts.
+
+Involved server side Validation and Client side Validation.
+
+For developing Presentation Logic we followed the MVC2 pattern .
+
+For Developing Service Layer we have been followed DAO, Template, and
+DTO Design Patterns.
+
+	                                                            
+
+		Page   PAGE  5  of   NUMPAGES  5     
+
+ AMARENDRA BABU   Y                                                     
+             Email:   HYPERLINK "mailto:amar.javadevel@gmail.com" 
+amar.javadevel@gmail.com 
+
+	                                                                       
+              Mobile:9844403406
+
+	   			Page   PAGE  1  of   NUMPAGES  5 
+

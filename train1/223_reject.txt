@@ -1,0 +1,220 @@
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate                                          -  3.5years & current                                               
+
+Spring                                                -  3.5years& current                                                
+
+Web Services                                    -  3years & current                                               
+
+Core Java                                           -  4years
+
+Design Patterns                                 -  can identify  
+
+UML design                                       -    
+
+Build Tools (Maven/Ant)                    -    Ant-2.5years  /gradel 
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+Apache Tomcat /eclipse/sonar
+
+DB:mysql
+
+
+
+
+
+SONY ADAPA(sony.adapa@gmail.com)		
+
+Mobile No: +91-9642278795
+
+Experience Summary : 4 Years and 9 months
+
+______________________________________________________________________________________ 
+
+Objective: 
+
+To attain a technically challenging position in a technology oriented company and enable me to use my skills and ability to work well with people.
+
+
+
+Profile Summary: 
+
+
+
+	Working experience in coding for Financial services while understanding the payments domain to the fullest.
+
+	Strong in analytical, problem solving and communication skills.
+
+	Eager and always ready to learn and try new things and work efficiently on the same.
+
+
+
+Professional Experience:
+
+
+
+Company Name:	WaveCrest Payment Technologies Pvt Ltd
+
+Period : 		2011 May  to Present 
+
+	
+
+Company Name:	High Radius Technologies
+
+	Period:			2010 Feb – 2011 April
+
+
+
+Skill Set:
+
+Programming Languages: Java, Web-services, XML, Rest API(JSON)
+
+Frameworks: Spring, Hibernate, JUnit Unit-testing framework
+
+Operating Systems: Linux, Windows
+
+Databases: MySql
+
+Applications : Apache tomcat
+
+Tools: Apache Ant, Eclipse IDE, MyEclipse, SpringSource Suite, gradle
+
+
+
+Projects Executed in WaveCrest:
+
+
+
+Ongoing Project : Platform 2.0: All Customers
+
+
+
+	As a Developer,
+
+Worked on card management and user management modules from design phase and their interactions with other service modules.
+
+Integrated FIS UK APIs with the new platform and also open loop authorizations logic for various clients.
+
+Worked on maintaining product stability by fixing the bugs related to various clients like C2GO, AdvanceCash, Mow Jow, MLBPA.
+
+Provided integration support effectively to the clients while being onsite.
+
+
+
+	Card Services:
+
+Customer: TPG (US), O2 (UK)
+
+
+
+	Team Size:  5
+
+	
+
+	Responsibilities: 
+
+	As a Developer,
+
+	Worked on the financial API services and understand the payment related transactions.
+
+	Worked closely with the Product team to understand the requirements and code accordingly.
+
+	Followed the SDLC process which includes Design, code , review and unit testing of application.
+
+Open Loop (Authorization): Gained fair amount of knowledge on how authorizations and settlements work in payments. Mainly focussing on FIS authorizations.
+
+As a Developer,
+
+	Worked on the integration of various in-house 3rd party services like Rules Engine, Fee, Ledger.
+
+	Written the parsing logic for the incoming authorization request consumption and subsequent settlement processing of the same.
+
+	Worked on the Data-base level design of E-Pay and Pay point modules.
+
+
+
+Production support :
+
+	An active member of the O2 White Glove team which was involved in the production support during and after O2 Money product Go-Live which has been the flagship product of WaveCrest during that time.
+
+
+
+Project Executed in High Radius:
+
+
+
+	On Demand Cash Application:  As a Developer,
+
+	Involved in writing rules in Drools framework and automating the testing for the same.
+
+	Worked with the customer closely in understanding the requirements and updating the rules accordingly.
+
+
+
+ACADEMIC QUALIFICATIONS:
+
+
+
+Course
+
+University / Institute
+
+Year of passing
+
+Results
+
+M.Sc Mathematics,
+B.E.(Hons) Electronics and Instrumentation
+
+BITS Pilani, Pilani
+
+2009
+
+7.80 ( CGPA)
+
+Higher Secondary (Class XII)
+
+Sri Chaitanya Coop Junior College
+
+2004
+
+96.80 %
+
+CBSE ( Class X)
+
+Sri Krishna Vidya Mandir
+
+2002
+
+81.20%
+
+
+
+Academic Projects:
+
+Blind Man’s stick design using IR sensors and receivers.
+
+Micro-controller based pH Measurement System.
+
+Cockpit indicator’s view and Smart Display Unit of the Ground Replay System.
+
+
+
+Internships:
+
+ Company Name:	HAL( Internship)
+
+	Period:			2009 Jan – 2009 June
+
+
+
+Company Name:	HP Global Soft ( Internship)
+
+	Period:			2008 July – 2008 Dec
+
+
+
+		3

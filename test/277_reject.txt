@@ -1,0 +1,287 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate           
+                             -  no
+
+Spring                  
+                                  - 
+1.5year &
+current                                �
+�               
+
+Web
+Services                                
+      - 
+SOAP)                                 �
+�            
+
+Core
+Java                                  
+             -  3 year
+
+Design
+Patterns                                
+    -    aware using singleton anf factory
+
+UML
+design                                 
+          -    
+
+Build Tools (Maven/Ant)                    -   
+Maven   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Flex,java,eclipse,
+
+used sql queries
+
+RAVIKUMAR ANUMALASETTY
+
+								Mobile: 9440599400/7799220943
+
+Email:  HYPERLINK "mailto: ravikumar.asvs@gmail.com" 
+ravikumar.asvs@gmail.com  
+
+Primary Experience: Core Java, Spring (IOC, JDBC), SOAP, XML, Servlets,
+JDBC, Flex, Action Script.
+
+Summary
+
+Having total 3+ years of experience.
+
+Working experience in different phases of Software Development Life
+Cycle (SDLC) including Analysis, Design, Development, testing of
+Applications.
+
+Having work experience on Parsley and Cairngorm Frame works. 
+
+Worked in Agile model.
+
+Working experience on Spring Frame work (IOC, Spring JDBC).
+
+Working experience on SOAP web services like RSP, TIBCO, ESOA etc...
+
+Having good knowledge on REST services.
+
+Working experience on Mocking of Services with SOAP UI Tool.
+
+Working experience on Maven Tool.
+
+Experience in working with Tracking Tools.
+
+Experience in writing test cases using JUNIT.
+
+Having good experience in developing Reusable and Utility classes in
+Java and Action Script.
+
+Good experience in Database programming using Sub Queries.
+
+Have experience in writing Flow Diagrams and Code Generation Tools.
+
+Have experience in creating outputs like Excel (using jxl api) and Pdf
+(using iText tool).
+
+Professional Experience
+
+Currently working as Software Engineer in ProKarma Softech Pvt Ltd,
+Hyderabad from July 2013 to till date.
+
+Worked as Software Engineer in VIVEKA Information Systems, Hyderabad
+from Jun 2011 to Jun 2013.
+
+Technical Expertise
+
+Languages		:    Java, JDBC, XML
+
+Client Technologies     :   Adobe Flex 3, Action Script 3.0
+
+Database                        :   My SQL, Oracle
+
+Web Technologies    	:    Servlets, Spring (IOC,MVC)
+
+Application Server       :    Tomcat6, Weblogic
+
+IDE                                 :    Eclipse, Intelli J
+
+Control Tools		:    Maven 3.0, SVN
+
+Educational Background
+
+MCA from Andhra University with 7.98 CGPA in 2011.
+
+B.Sc from Andhra University with 70% in 2008
+
+Intermediate (M.P.C.) from Board of Intermediate Education with 89.4% in
+2005
+
+S.S.C. from Board of Secondary School Education with 86% in 2003.
+
+Project Details
+
+ProKarma Softech Pvt Ltd, Hyderabad					
+
+QUIKVIEW
+
+Client	T-Mobile, USA	Domain	Retail and Care
+
+Duration	Jul 2013 – Till Now	Team Size	9
+
+Modules	Account Dash board, Customer Profile, Data Usage Summary, MEMOS,
+Device Dash Board, Order Summary. 
+
+Technologies	Flex 3, Parsley, Spring IOC, JDBC, Coherence, SOAP, Oracle
+DB for configuration.
+
+Work Summary	Worked for 6 releases of T-Mobile domain.
+
+Developed Device Trade in, Docusign functionality alone into Quikview.
+
+Developed Utility classes for Project.
+
+Mocking of services when live services are not available.
+
+Live Cycle Layer Development for Services.
+
+Service related implementation in Flex side.
+
+Testing the live SOAP services with SOAP UI Tool.
+
+Code Commit in version control tool (SVN).
+
+UI Development with flex.
+
+Writing of unit Test cases using Spring JUNIT.
+
+Roles and Responsibilities	Understand the requirement by going through
+FSDs and wireframes
+
+Designing of requirement
+
+Coding and Testing the implementation
+
+Taking initiative to complete the tasks.
+
+Doing Code Review for the team.
+
+Daily status reporting to team as well as on site.
+
+Email Communication for requirement follow up.
+
+Code Commits.
+
+Support to testers in their test case design.
+
+Updating the work status and work hours in tracking tools. 
+
+Helping to the team in completion of tasks. 
+
+
+
+VIVEKA Information Systems, Hyderabad
+
+Hetero Drugs , Hyderabad
+
+Duration	Apr 2013 – Now	Team Size	5
+
+Modules	KPI(Key Performance Index) directory maintenance 
+
+Client Requirements	Performance Management System
+
+Technologies	Flex3, Java, Servlets, MySql5.1, Tomcat 6
+
+Work Summary	I Introduced Spring IOC in our Frame Work. 
+
+Created forms for kpi inputs and locking and unlocking mechanism.  
+
+Created mapping tables (database) related to kpi and employee
+designations.
+
+Created forms and itemRenderer for UI mapping. 
+
+
+
+KAVYA Projects, Hyderabad
+
+Duration	August 2012 – April 2013	Team Size	5
+
+Modules	Project Resource Management,
+
+Project Workflow Maintenance ,
+
+Schema Views,
+
+Drawings and Design Document creation and maintenance. 
+
+Work Breakdown Structure.
+
+WBS Planning and Execution Schedule.
+
+Client Requirements	Project Management, Document Management, Leave
+Management
+
+Technologies	Flex3, Java, Servlets, MySql5.1, Tomcat 6
+
+Work Summary	Written reusable components to work for different types of
+forms (Flex).
+
+Developed itemRenderers and itemEditors (Flex).
+
+Developed factory design pattern to get different forms based on type
+(Java And Flex).
+
+Developed utility classes for dates (Java And Flex), files (Java).
+
+Developed Document Manager to upload Documents.
+
+Developed different types of components styles using Flex CSS.
+
+Written different schema related views and reports such as project
+status, WBS, information, register, input register, workflow and micro
+planning.
+
+Worked for rfi, complaint and message maintenance.
+
+Managed work division and maintenance. Handled each task planning. 
+
+Written good calculations for work and progress.
+
+Generated reports for all scenarios like project reports, WBS reports,
+rfi and complaint reports etc…
+
+
+
+Work Achievements 
+
+May 2014	Developed Docusign project alone.
+
+Feb 2014	Developed Device Trade In Functionality to Quikview
+
+Mar 2013	Created view and output for project schemas. 
+
+Feb 2013	Created common factory classes for creating excel and pdf
+downloads.
+
+Aug 2012 to Dec 2012	Participated in customization of Frame Work and
+Element  
+
+Oct 2011 to Dec 2011	Created Gantt Chart and Calendar outputs and done
+Sanghavi support
+
+
+
+Personal Details
+
+Name			:    Ravi Kumar. Anumalasetty, S/O Jagannadha Rao
+
+Date of Birth		:    20th July, 1988
+
+Hobbies	:    listening to music, search the net to learn new things. 
+
+Address		:    A.Ravi Kumar, Annamaraju Peta, Jami mandal,Vizianagaram
+Dist-535250
+
+(Ravikumar A)
+

@@ -1,0 +1,381 @@
+               From last how many  years, the candidate has been using
+(experience) the following technologies?  
+
+Hibernate                           
+                  -  2year&current
+
+Spring                  
+                                  -  1.5
+year &
+current                                �
+�               
+
+Web
+Services                                
+      -  1
+year  &current(REsT)                         
+                     
+
+Core
+Java                                  
+             -   7 year
+
+Design
+Patterns                                
+    -    using
+
+UML
+design                                 
+          -    
+
+Build Tools (Maven/Ant)                    -   
+Ant   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Websphere,weblogic,eclipse
+
+Worked on reflection, Using oracle
+
+   Email: gsraokk@gmail.com
+
+  Srinivasarao Gampala   					      Mobile: +91-9032190882
+
+ 						
+
+Experience Summary & Strengths
+
+7+ Yrs of work experience in IT industry in the areas of software
+development in Java, J2EE technologies.
+
+Experienced in Web Technologies like Java, Servlets, JSP, Struts, JMS
+and web services.
+
+Have working experience on Savvion BPM, Sonic ESB and Apama BEP.
+
+Have working experience on Liferay Portal Server, Portlets and JSR 168
+and 286 API.
+
+Worked on Portlet development with Spring Portlet MVC and experience on
+creating Liferay Hooks.
+
+Have working experience on Jackrabbit
+
+Knowledge and Expertise in using Oracle and, MySql databases as backend.
+
+Proficient in Core Java, JDBC, Servlets, Java Server Pages, Struts,
+JavaScript, Oracle 9i, MySql and MVC Architecture.
+
+Have good exposure on Hibernate (Object Relational Mapping service)
+
+Having extensive knowledge and experience on Spring Framework.
+
+Ability to understand functional requirements and design documents.
+
+Excellent analytical and programming skills.
+
+A team player with good inter-personal, outstanding problem solving and
+decision making skills. 
+
+Employment
+
+Working as a Senior Consultant in Accolite Software(Formerly Progress
+Software), Hyderabad from August, 2011 to till date
+
+Worked as a Technical Specialist in iGate Global Solutions Ltd,
+Bangalore from October, 2008 to August 2011.
+
+Worked as a Software Engineer in Wipro Technologies, Bangalore from
+August, 2007 to October, 2008.
+
+Education
+
+B.Tech in ECE from JNT University in the year 2005.
+
+Professional Qualification
+
+Got certification in Sun Certified Java Programmer – Java 2 Platform
+1.5
+
+Technical Literacy
+
+	Operating Systems			     : Windows 2000/XP, Linux
+
+             Programming Languages		     : Java 
+
+Presentation layer                                       : JSP, Ajax,
+JavaScript and JQuery
+
+Business Layer                                           : Servlets,
+JDBC, EJB, JMS and RMI
+
+Application Servers / Web Servers           : Tomcat 6.0, JBOSS,
+WebLogic
+
+	RDBMS                                                         :
+Oracle9i, MySql
+
+	Frameworks				     :  Spring, Struts 1.x/2.0
+
+             Portal servers                                             
+: Liferay Portal
+
+             Cms (content management systems)       : Jackrabbit,
+Liferay Cms
+
+	IDE & Tools				     : Eclipse 3.2, JBuilder
+
+	Version Controlling Systems	                  : TFS, CVS and SVN
+
+             Markup Languages                                     : XML,
+HTML
+
+             BPM                                                        
+     : Savvion, Business Expert
+
+Projects:
+
+1. Clear View Monitoring 
+
+            Client: DELL
+
+            Team Size: 15
+
+Description:
+
+CVM solution monitors the requests raised by DEL customers, calculates
+SLA and creates Alerts based on the Rules configured. It completely
+automates the request process, alert process, does intelligent work
+allocation to the configured agents and based on the rules configured
+separately for each activity it creates automatic alerts and
+notifications.        
+
+   
+
+Responsibilities:
+
+Responsible for FSD message integration with CVM system.
+
+Involved in the development of Apama monitors and Dashboard development
+and exporting the dashboards to Liferay portal.
+
+Involved in the design of Savvion process templates for Dispatch and
+Alert. 
+
+Environment:  Apama BEP, Savvion BPM, Spring, Hibernate, Weblogic
+10.3.1, Oracle 10g and Liferay Portal.
+
+2. Integrated Credit Decision Platform
+
+            Client: Bank of America
+
+            Team Size: 35
+
+Description:
+
+        The ICDP Solution will integrate and connect with all systems
+that are required for decisioning and fulfillment of Customer requests
+related to the Consumer Credit Card and Emerging Credit Products. The
+solution will also provide proactive decisioning on customer accounts
+(Consumer Credit Card and Emerging Credit Products) based on proactive
+strategies for risk detection and auto graduations
+
+   
+
+Responsibilities:
+
+Responsible for the end to end technical delivery of the modules and
+involved in the application integration and process templates of Savvion
+
+Involved in the development of Dashboard and custom reports by using
+Business Expert.
+
+Process flow optimization of templates and application performance
+optimization by doing standardization
+
+Environment:  Savvion BPM, Pramati Application Server, Oracle 10g, Java
+Server Pages, ibatis DAO Framework and SOAP Web services.
+
+3. iSight Framework
+
+	Client: iGate Global Solutions Ltd, Bangalore
+
+	Team Size: 8
+
+Description:
+
+	  iSight provides a single, uniform service delivery web-based platform
+for BPO/BSP operations with anytime/anywhere availability. It provides
+highly customizable operational workflow for service delivery
+operations.
+
+iSight framework is metadata driven architecture. We can develop the web
+application very quickly using this framework. The work progress can be
+tracked and monitored by operational managers and even customers.
+
+Responsibilities:
+
+Involved in the enhancement of workflow process.
+
+Involved in document management system development by using Jackrabbit.
+
+Document Management System is implemented using JCR specifications and
+integrated the DMS with framework
+
+Developed the new web application to schedule the jobs and integrated
+the same with framework.
+
+Involved in Code Reviews and have come up with Coding Standards.
+
+Involved in the development of build scripts for application
+implementation using framework.
+
+Environment: Windows 2000/XP, Java/J2EE, Servlets, JSP’s, Tomcat 6.0,
+MySql 5.1.39, and Eclipse 3.2 
+
+	
+
+4. Registry Development Authority
+
+	Client: Australia Tasmania (Government)
+
+	Team Size: 15
+
+Description:
+
+	The TRDA Application is been developed for Rental deposit Authority of
+Tasmania. TRDA support the various processes required to cover
+end-to-end bond management process. 
+
+The processes are:
+
+ 
+
+Scanning and OCR Processing:-OCR processing is the stage where all the
+images (scanned/faxed) will be processed and a data file generated for
+each of the processed image.
+
+Agent Registration:-Agents who wish to become registered users with RDA.
+
+ 
+
+Lodgment:-Tenants are able to pay rental deposit to the Residential
+Deposit Authority (RDA) by Lodging Bond.
+
+ 
+
+Transfer:-In case of bonds involving multiple tenants under one bond,
+some tenants can be replaced with new tenants.
+
+ 
+
+Claim:-Bond claim indicates whether they agree or disagree to the amount
+of funds that should be disbursed to each of the parties
+
+.
+
+Responsibilities:
+
+Requirement Analysis and Design of the application.
+
+Involved in kofax configurations to automate business process management
+and integration of kofax with application
+
+Developed the pre-process system to load the data into the application.
+
+Involved in the development of Agent Registration.
+
+Environment: Java, JSP, Servlets, JQuery, Hibernate, Apache Tomcat,
+Eclipse, Liferay 5.0 and Oracle Database. 
+
+5. NPG (Number Portability Gateway)	
+
+            Client: Telcordia Technologies, USA
+
+            Team Size: 8 
+
+Description:
+
+	Number Portability Gateway (NPG) provides a single, operator-based
+contact point for mobile operators to manage the complex interfaces,
+message processing, and transaction data associated with number
+portability requirements. The NPG porting process involves
+sending/receiving messages between different interfaces, such as
+Operations Support System (OSS), Network Element Manager (NEM) for a
+client’s local Number Portability Database (NPDB), and Number
+Portability Clearinghouse (NPC). NPG provides the capability to define
+different porting processes for different types of phone service. 
+
+Responsibility:
+
+Involves in development of Operations Support System (OSS) interface
+using JMS and Message Driven Bean.
+
+Involves in development of GUI using Struts Framework.
+
+Environment: Java, JSP, Struts, JMS, Message Driven Bean, JavaScript and
+Oracle.
+
+6. PSquare Tool
+
+             Client: Wipro Technologies
+
+	Team Size: 4
+
+Description:
+
+    PSquare tool is used by Project Managers and Technical Managers to
+view/edit employee details in an organization for the current month.
+This tool can also be accessed by users like Group Head and HR Managers
+to view employee details based on their organization hierarchal
+structures. The tool generates month wise Summary Report which the End
+user can view it in excel sheet depending on the inputs entered by the
+PM/TM for the particular month.
+
+The modules of the project from user perspective are Employee Data
+Updating, Approval, Reporting, Super User and SAP Synch up utility.
+
+Managers will use Employee Data Updating and Approval modules to update
+data for employees on a month to month basis and to approve
+modifications done to employee data. 
+
+.
+
+Responsibility:	
+
+Involved in system prototype design and user acceptance.
+
+Responsible for deploying and administrating application.
+
+Environment:  Java, Servlets, JSP, Struts 1.2, Tomcat 5.0, HTML, XML,
+JavaScript
+
+7. eCSC (Electronic Customer Service Center)
+
+	Client: Equant.
+
+	Team Size: 8
+
+Description:
+
+	eCSC is a customer support tool used by Equant. It uses internet to
+provide the customers with the facility for creating, managing and
+checking the progress of their issues resolution. This service allows
+logging of faults through a single entry point and subsequent forwarding
+to the correct fault resolution group eliminating the need to call
+different support numbers for different services. The generated tickets
+will be directed to a dedicated Case Management Team who will own the
+problem to resolution
+
+Responsibility:
+
+Developed Servlets that translates interactions with the JSP pages into
+actions to be performed by the backend.
+
+Involved in developing the server side business logic.
+
+Environment: JSP, Servlets, Struts, JDBC and JBOSS.
+
+	
+

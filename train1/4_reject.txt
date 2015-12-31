@@ -1,0 +1,267 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                  -  2 year &
+curremt                                �
+�               
+
+Spring                  
+                                  -  1.5
+year & current 
+
+Web
+Services                                
+        -  8 month &
+current                                �
+�              
+
+Core
+Java                                  
+             -  3.5 year
+
+Design
+Patterns                                
+    -    knowldege
+
+UML
+design                                 
+          -    NA
+
+Build Tools (Maven/Ant)                    -   
+Maven,SVN,junit   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Apache Tomcat 6.0/ Web Sphere Application Serve,eclipse
+
+Ok for bitchemy
+
+                       				                                             
+Surender Yenumula                                      								E-mail:
+surender.yenumula@gmail.com 					      			Mobile: 91- 9916356570
+
+Having 3.8 Years of IT experience in Software development. 
+
+Hands on experience in using Core Java, Struts, Hibernate, spring and
+Web Services.
+
+Developed the Applications with the common J2EE such as MVC Framework.
+
+Eexperience in OOPS and Collection concepts.
+
+Hands on experience in Hibernate, Spring Frame works.
+
+Hands on experience in using Tomcat, Web Logic server.
+
+Good Knowledge on Spring MVC 
+
+Hands on experience in using Eclipse
+
+Hands on experience in Web Services using JAX-WS(SOAP  Based Web
+Service) 
+
+Knowledge on Web Services using REST full Web Service.
+
+Hands on experience in  Marshalling and Unmarshalling using JAX-B
+
+Hands on experience in using Junit
+
+Hands on experience in using Log4J
+
+Hands on experience in using Maven
+
+Hands on experience in using SVN
+
+Professional Experience:
+
+
+
+Currently working as a Sr. Software Engineer for Manthan Systems Pvt Ltd
+Bangalore since Jan 2013 to till date.
+
+Earlier Worked as a Software Engineer for Genisys Software Pvt Ltd
+Bangalore since Apr  2011 to Jan 2013
+
+Educational Qualification:
+
+MCA from Osmania University, Hyderabad.
+
+BSc from Osmania University, Hyderabad
+
+Technical Profile : 
+
+      Operating Systems		:  Windows 2000/XP.
+
+      Technologies		:  Java and XML Web Services.
+
+      Frame Works		: Struts and Spring.
+
+      ORM Tool		 	:  Hibernate. 
+
+      Web Technologies	 	:  HTML, XML.
+
+      Application/Web Server  	:  Tomcat, Weblogic.
+
+      Databases			:  Oracle10g,
+
+Projects Summary :   
+
+
+
+Project #3:
+
+Title		 : CSSNG
+
+Duration		 :Jan 2013 to till Date.
+
+Team Size		 : 10
+
+Role		  : Team Member.
+
+Technologies	               : Java, Webservices(xsd,wsdl soap,xml)
+Jsp,Hibernate3.x        Spring,Eclipse IDE, Soap UI . 
+
+Project Description:
+
+	            CSSNG is the database of record for cell site information
+for the mobility network. Various applications use the CSS for
+retrieving information on Site details Site assets Ticketing Performance
+compliance with Environmental regulations billing and revenue assurance
+Location based services such as E911 and Network coverage. CSSNG is an
+AT&T data base of record for cell site information for the mobility
+network across USA.  CSSNG provision users to create modify information
+about Location, Radio Base Station, Cell Site, Sector and Market
+Information based on the roles and permissions assigned to the users,
+maintain the updates and communicate them over to the required
+interfacing applications.
+
+ 
+
+The “CSSNG as a Provider” project aims at enabling CSSNG application
+to seamlessly integrate with other applications at AT&T utilizing the
+existing ESB infrastructure. Tactically the goal of this project is to
+provide Service interfaces to CSSNG so that any system can utilize the
+application level functionality provided by CSSNG. An additional goal is
+to publish enterprise wide events/notifications for application system
+changes in CSSNG.  
+
+ Responsibility:
+
+Responsible for developing Jsp pages
+
+Involved in development of Xml and Xsd. 
+
+Responsible for writing Validations using Struts Validator Framework.
+
+Involved in development of web service using Axixs2 
+
+Integrating all modules using Spring Core.
+
+Responsible for Involving in Debugging.
+
+Involved in Developing Enhancements features.
+
+Involved in the bug fixing, enhancements and support of all module
+
+2. 	Project Name: Chief of Staff
+
+
+
+	Role	Team Member
+
+
+
+	Duration	July  2012 to Jan 2013
+
+Team Size	 8
+
+Environment
+
+(with skill versions)	Software
+
+	Technologies:Java5,Hibernate,Spring  
+
+Database: Oracle.
+
+Tools: Eclipse, Log4j, SVN. 
+
+Project Description:  
+
+                        Chiefofstaff.com (COS.com) is a proprietary
+‘business strategy framework’ that enables businesses to align
+strategy and enable aligned execution, due to the framework’s inherent
+emphasis on measuring results at sub driver level. The Chiefofstaff.com
+framework’s main objective, is to align the strategies throughout the
+entire organizational structure by firm definition at all organizational
+levels to later “connect the dots” to execute. In a nutshell, the
+COS.com framework is one tool that top-level business strategists and
+decision makers need to build a complete business strategy that can be
+translated, measured and monitored at every execution level, in every
+business line, in every region.
+
+ 
+
+Roles & responsibilities:
+
+Responsible for developing Jsp pages.
+
+Involved in development of struts Action classes
+
+Responsible for writing Validations using Struts Validation Framework.
+
+Responsible for developing mapping files and POJOS using Hibernate.
+
+Integrating all modules using Spring Core
+
+Responsible for Involving in Debugging.
+
+Responsible for writing Junit Test cases.
+
+1. 	Project Name: HealthCare Information System
+
+
+
+	Role	Team Member
+
+
+
+	Duration	April 2011 to May 2012
+
+Team Size	 8
+
+Environment
+
+(with skill versions)	Software
+
+	Technologies:Java5,Struts,Hibernate, Jsp, Java Script
+
+Database: Oracle.
+
+Tools: Eclipse, Log4j, SVN. 
+
+  HealthCare Information System (HIS) provides the Departmental
+solutions for Healthcare institutions like Hospitals and Primary Care
+Services. The administrative functionality includes Registration,
+Appointments, Labs, Results Viewing, Scheduling, Billing etc. It
+contains Oncology, ICU departments. The Departmental functionality
+includes Prescription, Diet, and Medication. These modules are browser
+oriented applications. Modules to process all kind of requests basically
+these Service modules connect to the Database and get the information
+and displays on the browser.
+
+Responsibilities:
+
+ Responsible for developing Jsp pages.
+
+ Involved in development of struts Action classes
+
+ Responsible for writing Validations using Struts Validation Framework.
+
+ Responsible for developing mapping files and POJOS using Hibernate.
+
+ Responsible for Involving in Debugging.
+
+ Responsible for writing Junit Test cases.
+

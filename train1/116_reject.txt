@@ -1,0 +1,201 @@
+ 
+
+Ravi Kiran K    
+        
+        
+        
+        
+ Mobile: +91- 7709839144
+Email: ravikiran.kilambi@gmail.com
+________________________________________
+
+SUMMARY
+
+        
+IT Professional with 8.3 years of experience in Software Development.
+        
+Sun Certified Java Programmer.(SCJP certified professional)
+        
+Around 6 years experience in Retail and Investment Banking Domains.
+        
+Hands on experience in Spring framework and specialized in web flow
+        
+Strong knowledge on settlement systems EXPERT, IMPACT.
+        
+Specialized in J2SE 1.5, SERVLET, JDBC, Spring, Hibernate, ORACLE.
+        
+Strong core knowledge in Multithreading and Collections 
+        
+Worked in iteration driven software development methodologies like Agile.
+        
+Extensively worked on multiple IDE tools like WID 7.1, RAD 6.0 (Rational Application Developer), and Eclipse 3.2.
+        
+Developed and deployed Web based applications on IBM WebSphere Process Server 6.1.
+        
+Solid knowledge in Data Structures and Algorithms.
+        
+Good Experience in integrating the applications with third party components.
+        
+Goal oriented team player, self-starter, quick learner, and proficient in handling multiple projects simultaneously.
+
+
+TECHNICAL PROFILE
+
+Programming Languages:  
+ Java, SQL.
+Web Technologies:       
+ Servlets, JSP, HTML, XML, Java Script.
+Database:       
+        
+        
+Oracle, DB2
+Frame Works:    
+        
+        
+Spring, Hibernate,JUnit, Dozer
+Application Servers:    
+        
+IBM WebSphere Process Server 6.1 and 7.1
+IDE Tools:      
+        
+        
+WID 7.1 (Web Sphere Integrated Developer, RAD (Rational
+Application Developer), Eclipse 3.2.
+Configuration Tools:    
+        
+SVN, Perforce.
+Operating Systems: Windows, UNIX.
+Regulatory Systems: Finra.
+Settlement Systems: Expert, Impact. 
+
+
+EXPERIENCE
+
+        
+Barclays Technology Center India, Pune as Sr.Analyst from June 2013 to till date.
+
+        
+FICO, Bangalore as Sr.Software Engineer from March 2008 to May 2013.
+
+        
+Sapient Corporation, Bangalore as Associate Technology from Nov 2006 to Feb 2008.
+
+ 
+
+EDUCATION/CERTIFICATIONS
+
+        
+Master of Computer Applications, Andhra University
+
+        
+Sun Certified Programmer for the Java 2 platform.
+
+PROJECT DETAIL
+
+Barclays June 2013 to till Date 
+Sr. Analyst
+
+Description: Trade ware House 
+        
+
+        
+. TWH is responsible for reporting the trade information to FINRA with in specified time frame. TWH also captures and flows downstream trade information updated in Winfits, Sales workstation. TWH responsible for matching trades between sales and traders for proper dissemination of matched trade information.
+
+Responsibilities:
+
+"        
+Developed real time reconciliation of trades between CATs and TWH data.
+"        
+Implemented MBSE flow to Expert and Impact systems from SPCATS.
+"        
+Developed trade flow systems to capture trade and process to downstream.
+"        
+Implemented ACK/NACK flow from Settlement Systems to Front Offices.
+"        
+Implemented Downstream delay monitor.
+"        
+L2 Support coordinator from Development Team.
+"        
+Enhancing the requirements and fixing production issues. 
+
+Environment:
+        
+Java 1.5, Spring, Oracle, Perforce and Unix
+
+FICO    
+        
+        
+        
+ 
+Sr. Software Engineer   
+        
+        
+        
+        
+        
+ Mar 2008 to May2013
+
+Description: ENCORE (Debt Manager 8.0 and 8.1)
+ Encore is one of the Debt Manager Suite level banking applications which are responsible for Collections &Recovery solution with the ability to deploy predictive analytics and flexible business decisions for all areas of the C&R lifecycle. The Debt Manager solution increases the capacity and performance of collections and recovery operations by intelligently automating processes across the entire debt cycle.
+Responsibilities
+"        
+Involved in POCs on Spring Web flow.
+"        
+Involved in the implementation of Callbacks and Referrals modules.
+"        
+Implemented a framework level application called Note Services which was consumed by across the application.
+"        
+Collaboration with FP (Fico Platform) team for integration of common services/designs.
+"        
+Established development standards and processes in the team along with several tools like PMD,FindBug and Jalopy.
+"        
+Involved in the development of Correspondence and Queue Modules.
+"        
+Implemented full end to end functionality of ACR module.
+"        
+Developed Total Exposure view to whole of the application.
+"        
+Developed Accounts Accessed Functionality.
+"        
+Involved the implementation of spring web flow to whole of Debt Manager.
+"        
+Involved in modeling the business objects as per the business requirement for specific module.
+"        
+Used Object/Relational mapping tool Hibernate to achieve object persistency.
+"        
+Understanding the requirements, developing, enhancements and fixing the bugs.
+
+Environment
+Java 1.5, J2EE, Spring, Hibernate, Oracle, XML, Dozer, JUnit1.4 and Subversion
+
+
+Sapient Corporation     
+        
+        
+        
+ 
+Associate Technology    
+        
+        
+        
+        
+        
+ Jan 2007 to Jan 2008
+
+Description: Vodafone, Düsseldorf, Germany
+
+Vista 3.0 (Vodafone Intranet and Shared Team Applications) is the Vodafone internal eservices delivery Portal. It is a global intranet Platform for Vodafone and its operating companies. Vista enables to communicate and collaborate on a global scale independent of location of the employees and to benefit from jointly developed processes and applications.
+
+Responsibilities
+"        
+Involved in the design and developing of GUI using HTML, Core Java and JSPs
+"        
+Involved in creation of various forms of templates like detailed, teaser.
+"        
+Understanding the requirements, developing, enhancements and fixing the bugs.
+"        
+Analyzed and fixed the issues raised during the UAT (User Acceptance test).
+
+Environment
+ Java 1.4,,JDBC, XML, iDoc,Oracle 8i, Java Script, Subversion.
+

@@ -1,0 +1,247 @@
+Spring :2.5 yr n current
+
+Hib :2.5 yrs n current
+
+Web services : SOAP
+
+Build tools : Ant/maven
+
+UML design :NO
+
+Design patter : yes
+
+
+
+8.28/12/60days
+
+
+
+TAPAS SATPATHY
+
+Senior Software Engineer At Tavant Technologies, Bangalore
+
+(tapas.satpathy@yahoo.co.in, tapas.satpathy@gmail.com , +919481270060)
+
+
+
+OBJECTIVE
+
+	To work in an environment where I can apply and build upon my technical & analytical skills
+
+	To add value to the products and services on which I undertake the assignments
+
+
+
+SUMMARY OF EXPERIENCE
+
+
+
+	4 years of work experience in development of JAVA/J2EE Applications.
+
+	Having considerable experience in development of Service Operation based applications.
+
+	Exclusive experience in development of Inventory and Warranty Management Applications. 
+
+	Having ONSITE work experience with DOOSAN TRADING LIMITED.
+
+	Having excellent client handling skills and high level of experience in dealing with clients 
+
+through-out the globe (US, Europe, Korea).
+
+	Highly motivated and energetic self-starter with excellent analytical, organizational, creative and communication skills.  Ability to work independently as well as in a team.
+
+	Strong Technical skills in Core Java, Struts2, Spring, Hibernate, Toplink, MyBatis, Oracle PL/SQL ,Servlets, JSP. 
+
+	
+
+EDUCATION
+
+
+
+B.Tech from BIJU PATNAIK UNIVERSITY OF TECHNOLOGY, ODISHA, in June, 2011 
+
+with 8.2 GPA. 
+
+12th from Kendriya Vidyalaya, ODISHA in 2007 with 82%.
+
+10th from Kendriya Vidyalaya, ODISHA in 2005 with 89%.  
+
+
+
+PROFESSIONAL EXPERIENCE
+
+
+
+             ORGANIZATION
+
+         DESIGNATION
+
+           DURATION
+
+Tavant Technologies
+
+Senior Software Engineer
+
+    Jul 2013 – Till Date
+
+            Tavant Technologies
+
+       Software Engineer
+
+    Jul 2011 – Jun 2013
+
+
+
+TECHNICAL SKILLS
+
+
+
+Programming Languages	:	JAVA
+
+Web Technologies		: 	JSP,Servlets,Struts2,Spring,jBPM and Mule Frameworks
+
+Middleware Technologies 	: 	Hibernate, Toplink, MyBatis Frameworks
+
+Application Servers		: 	BEA WebLogic , JBoss , Jetty ,Apache Tomcat
+
+Products		             :	TWMS (3.1- 6) , OSS, RCMS
+
+Database			:	Oracle 11i, PL/SQL
+
+
+
+PROJECT PROFILE                                   
+
+
+
+PROJECT 1:                          
+
+Project                :    GLOBAL TWMS (Tavant Warranty Management System)		  
+
+Client                           :     Doosan Trading Limited, EMEA division	
+
+Role                             :	   Senior Java Developer
+
+Team Size                   :     25
+
+Technologies              :    Java, Struts2, Spring, JSP, JBPM, Hibernate, Mule ESB, JBOSS server
+
+On-site Duration          : 	  Dec-2013 - Feb-2013
+
+Duration	          :	  Sept-2012 – Till Date
+
+
+
+Details:
+
+Global TWMS is the centralized application to handle the inventories, warranty process flow, sales channels and business approval process flow for the entire global Doosan Heavy Business.
+
+
+
+The main features of this application include centralized information center for all the machine completes, parts and attachments containing the information of all the inventories around the globe supplied by the Original Equipment Manufacturer (OEM) to the different dealers and end customers and maintains the lifecycle of the every inventory, right from when it is in stock to retail till its expiry.
+
+The application involves a huge set user roles and responsibilities and functions surrounding these like Sales channels involving parties like Sales Representatives, Sales Admins, Warranty Service coordinators, Customer Service Representatives, Dealer Admins and several others.
+
+Furthermore, the application has dashboard capabilities which are tuned to streamline the reporting and accounting trends of inventory sales and warranty rate margins and budgets. All in all, the application has layers of business associated with it as the business spans across the whole globe.
+
+
+
+Responsibilities:  
+
+	Designed and developed database tables, their corresponding Java Entities, business logic and front end actions.
+
+	Successfully stabilized the most critical period of project by going to specific Business location, understanding business needs and further requirements. 
+
+	Provided directions to the off-shore team from ONSITE for different change requests.
+
+	Worked directly with clients to provide necessary consultations, know business workflows and handle day to day issues after go live.
+
+	Tracked, allocated and fixed the bugs using JIRA.	
+
+
+
+
+
+PROJECT 2:                                
+
+Project                :    OSS + TWMS 4.1		  
+
+Client                           :     Doosan Infracore Limited and Portable Power (North America and LAAP)	
+
+Role                             :	   Java Developer
+
+Team Size                   :     3
+
+Technologies              :    Java, Struts, JSP, Toplink, Axis (FTP and xml over http integrations),
+
+   JMS, Weblogic server
+
+Duration	          :	   Jan-2012 – Sept-2012
+
+Details:
+
+OSS + TWMS 4.1 are two different application which are directed through one single sign-on website. In brief, the application handles verticals such as catalog generation, orders and warranty work flow of the inventories. It provides a fully integrated solution for the inventory, dealership and customer handling and management. 
+
+Functional services include customer account information, inventory and parts transactions, order origination and processing, catalog generation and publishing, product marketing, warranty policy generation and claim filing process flow amongst others. Common services of the application include user defined personalization, inventory management, sales support and security.
+
+The application is integrated to 3 external sources with several remote systems from where it receives data for catalogs, inventories, users and customers. 
+
+
+
+Responsibilities:  
+
+Directly interacted with customers to consolidate requirements.
+
+	Individually worked on the change requests starting from functional documentation, coding, unit testing and deployment in different environments. 
+
+Fixing the existing bugs both in codebase of application and at the performance tuning in database.   
+
+Writing different integration channels for nightly feeds such as data-warehouse reports generation and ftp syncs.
+
+	PROJECT 3:
+
+Project                :   RCMS (Retail Campaign Management System)
+
+Client                          :     Doosan Trading Limited, EMEA division
+
+Role                            :	  Software Programmer (Java)
+
+Team Size                  :     10
+
+Technologies             :    Java, Struts2, Spring , JSP, Hibernate	
+
+Duration	          :    Jul 2011 - Dec 2011
+
+Details:  
+
+RCMS is a Doosan Dealer online web application, which handles campaign credit and miscellaneous credit process flow for all the dealerships and financial reporting statistics.
+
+The application provides a solution for the credit management of the inventories once they are retailed and their after-market credit analysis. The application provides very swift workflows for internal and external users helping the credits move through different approval levels and finally notifying payments.
+
+Responsibilities:  
+
+This project is built from scratch.
+
+Involved in almost all the process flows of the project.
+
+Involved in developing and coding of several modules.
+
+	
+
+VISAS
+
+
+
+	Business Visa of Republic of Ireland valid from Dec-2013 to Feb-2014
+
+
+
+ACHIEVEMENTS
+
+
+
+	Applauded by the entire team for the versatility and flexibility with I-Applaud Award.
+
+	Applauded by the company for successful release of the project with Spot Award and “AAA” (Aptitude and Attitude Award).
+
+	Four times batch Topper during B.Tech and Student Body Representative of the batch for two consecutive years.

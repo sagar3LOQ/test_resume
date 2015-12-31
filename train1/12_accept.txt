@@ -1,0 +1,66 @@
+204, Adityahridayam, Near-Sofa
+World, Kondapur, Hyderabad
+
+SANDHYALAL KUMAR GOND
+(B.Tech CSE-2014, NIT WARANGAL)
+
++91-9014937934,
+C/No:+91-9849365735
+sandhyalalkumar@gmail.com
+Sandhyalalkumar
+
+OBJECTIVE
+
+To pursue a challenging career software development making most of my skills,
+determination, dedication, and hard work for the growth of the organization.
+
+SKILLS &
+
+ Conceptually strong in OOPS, Problem Solving & Algorithms, SQL, DBMS
+
+ABILITIES
+
+ Proficient in C, C++, Java, SQL
+ OS Platforms: Unix/Linux, Windows
+ Tools: Visual Studio, Eclipse, Netbeans, DOSBox
+ Core Subjects: Data Structures & Algorithms, Operating Systems, DBMS,
+Computer Networks, System Programming, Discrete Mathematics, Data
+Warehousing & Data Mining, Machine Learning
+
+EDUCATION
+
+B.Tech, Computer Science & Engineering, NIT WARANGAL 6.76, 2010-2014
+Senior Secondary, GOPALGANJ COLLEGE (Bihar) 73%, 2007-2009
+Secondary, B.F.A. HIGH SCHOOL (Bihar)
+
+PROJECTS &
+CONFERENCE
+
+64%
+
+Association Rule mining using Hadoop & MapReduce on Big Data for clustered Sys.
+ Implemented iMapReduce (Iterative MapReduce) for Big Data mining on
+clustered system, producing a multi-fold increase in efficiency over traditional
+MapReduce.
+ Tested the clustered environment with Apriori algorithm (using MapReduce)
+on 4, 8 nodes with 50,000-400,000 transactions.
+ Experimented with change in HDFS code, implemented libraries
+ Delivered comprehensive documentation of the work
+Implemented a small College Library Book Issue System and queried in SQL.
+Participated in TIFR workshop on Introduction To Graphs And Geometric Algorithms.
+
+INTERESTS
+
+Coding and Debugging, Application Development, Database Management System,
+Computer Network Programming
+Leetcode Online coding submitted 80/151 problems
+
+EXTRA
+CURRICULAR
+
+ Winner: 'Rangoli', a traditional folk art competition with over 300 participants
+at NIT Warangal's cultural festival
+ Winner: 'Sans Brush', campus level painting competition
+Skills : Calligraphy, Sketching
+
+

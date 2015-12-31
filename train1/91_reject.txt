@@ -1,0 +1,439 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                      - 2
+year                                  
+             
+
+Spring                            -  5
+Years &
+current                                �
+�             
+
+Web Services                 -  4 years   & current
+JMS                                  �
+�          
+
+Core Java                       -  8.5
+years                
+
+Design Patterns               -  not implemented,
+using            
+
+UML design                       -   2 Years
+
+Build Tools (Maven/Ant)     -Maven/ant   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Jboss/weblogic/tomcat/eclipse/sonar plugins
+
+Handling team size of 5 
+
+Worked on reflection,DB
+
+PavanKumarGupta Pinnu 					    Ph: +91-9885756643
+
+Associate Technical Lead     			    Mail:   HYPERLINK
+"mailto:pavanpinnu@gmail.com" pavanpinnu@gmail.com 
+
+Objective
+
+Apply and enhance my technical skills and functional experience to
+various project environments, enabling effective contribution and thus
+establish myself as a Java professional.
+
+Profile
+
+Around 8.5 years of experience in developing Web Applications.
+
+Expertise in web development using Struts 1.2, Struts 2, Wicket, Spring
+MVC & JSF
+
+Expertise in Spring 2 and Hibernate 3.
+
+Expertise in XML technologies includes XStream, dom4j, Xpath, XSLT
+
+Implemented the Web Services as a Producer (using Axis2 framework) and
+Consumer parts.
+
+Followed the TDD approach with JUnit implementation with MockitO.
+
+Good experience in using build tools like Ant and Maven.
+
+Have rich experience in SQL and PL/SQL using Oracle.
+
+Responsible for code assigning and assisted the team. 
+
+Involved in code review and optimization before every Production build.
+
+Followed agile methodology and tracking the team member’s status in
+daily scrum.
+
+Skill set
+
+Web Environment	: Java 1.6, Struts 1.2, Wicket, Spring MVC, JSF
+
+Frameworks		: Spring, Hibernate
+
+XML Technologies	: XStream, dom4j, XPATH
+
+Web Clients		: HTML, Java Script, AJAX, JQuery
+
+Servers			: Tomcat5.0, JBoss4.0, Weblogic 10.3
+
+RDBMS			: Oracle (SQL & PL/SQL)
+
+Tools			: Eclipse, Log4j, Ant, Maven, Sonar
+
+Professional Experience
+
+Working as a Associate Technical Lead in Prokarma Softech Pvt. Ltd,
+Hyderabad since April 2011.
+
+Worked as a Senior Software Engineer in Springboard Technologies Pvt.
+Ltd, Hyderabad from July 2007 to Mar 2011.
+
+Worked as a Software Engineer in Infinite Computer Solutions (as a
+Consultant of Infinite worked at IBM, Hyderabad) from Mar 2007 to June
+2007.
+
+Worked as a Software Engineer in VSG Solutions Pvt. Ltd, Hyderabad from
+Apr 2006 to June 2007.
+
+Achievements
+
+Got Spot award in Prokarma Softech Pvt. Ltd. for the work in generating
+dependent drop downs in Excel file using Apache POI.
+
+Awarded with ‘Business Excellence Award’ at Springboard Technologies
+Pvt. Ltd. for the extensive work in Boss Bingo game integration.
+
+Educational Details
+
+Pursued MCA from Anna University in year 2005 with distinction.
+
+Pursued BCA from S.V University in year 2002.
+
+Project Profile
+
+#1 Unit Train Customer Interface				Jul 2012 to till-date
+
+Unit Train Customer Interface (UTCI) allows the customers to track all
+the Trains coming to or leaving from their location. It facilitates to
+update the Placement time, Release time and all other operations.
+
+It provides interface for all layers of Workflow for any charges on
+Customers or any incentives for Customers.
+
+It provides feature to forecast the required number of trains/cars to
+transfer their products or to order raw materials on monthly or yearly
+basis.
+
+Environment: Java 1.6, Wicket, Spring IOC, Spring JDBC, Oracle, Apache
+POI, Services over Tibco Messages, JaxB, SVN, Find Bugs, PMD, Maven,
+Sonar, Quality Center & Weblogic 10.3
+
+Responsibilities:
+
+Involved in client meeting to understand the requirements.
+
+Developed UI using Wicket framework.
+
+Generated the client side service classes using Jibx and Maven.
+
+Maintained Annotation based spring transactions.
+
+Generated the Excel files using Apache POI for forecast module.
+
+Tracking the bugs using Quality Center.
+
+Designed class diagrams, sequence diagrams and high level technical
+documents.
+
+Estimation, design and development of various modules.
+
+Tracking the work status on daily & weekly basis of team members.
+
+Implemented the mock testing using MockitO framework.
+
+Involved in code reviews and optimization
+
+#2 UTCI – Notifications						Oct 2013 – till date
+
+Customers of UTCI require getting notifications (eMail, SMS) for some
+events. The settings can be saved as a ‘Subscription’ and can be
+edited or deleted later.
+
+This contains Contacts module and Subscription module.
+
+Environment: Java 1.6, Spring MVC, Spring IOC, Spring JDBC, Oracle, SVN,
+Find Bugs, PMD, Maven, Sonar, Quality Center and Jboss4.
+
+Responsibilities:
+
+Involved in requirements gathering.
+
+Coding and leading the team for UI development using Spring MVC.
+
+Written client side script using Jquery, Ajax & Java Script.
+
+Implemented Spring 3 with Annotations.
+
+Involved in code review and optimization.
+
+#3 Grain Car Allocation System					Apr 2011 to Jun 2012
+
+GCAS is an auctioning web application for cars (Train Bogies). It
+contains Admin and Customer modules. This is a technology migration
+project from Servlets to Wicket.
+
+Admin module is for creating a cars and auctions. It allows registering
+the customers and contacts to the system.
+
+Customer module allows viewing the list of auctions, to register &
+participate for particular auction. Customer able to cross check their
+bidding is higher or not as these are open auctions and allows to revise
+their bidding.
+
+Environment: 
+
+Java 1.6, Wicket, Spring IOC & JDBC, Oracle, Ant, Weblogic10.3
+
+Responsibilities:
+
+Maintained the declarative (XML) spring transactions.
+
+Implemented the Batch query concept to optimize the number of JDBC
+calls.
+
+Understood the existing JSP custom tags functionality.
+
+Involved in analyzing the optimized logic for integrating the local
+contacts database with Central contacts in the project related
+structure.
+
+#4 Boss Bingo Integration				        Nov 2009 to Mar 2011
+
+Organization	: Springboard Technologies Pvt. Ltd.
+
+Environment	: Java 1.5, JDBC, Web Services (Axis2), HTML, Java Script,
+JQuery, JUnit   and Oracle.
+
+Team Size	: 2
+
+Summary
+
+Business adopts the Bingo game from a new provider Bossmedia, which
+formally adopted from Parlay. 
+
+Communication between these entities is via SOAP calls. Our application
+gets the Bingo game information from Boss Game server using SOAP client.
+
+
+Our application provided the required Web Services using SOAP to serve
+the Player information to Boss Game Server.
+
+Responsibilities
+
+Key role in development of Boss API Web-Application. Purpose is to serve
+the Player information like player session and purse details.
+
+Developed web services using Axis2
+
+Written the DAOs and its test cases.
+
+Tested the services using SOAP UI.
+
+Written customized Exceptions with pre-defined error codes.
+
+Generated the Client API for Boss Game server (WSDL) using eclipse
+tools.
+
+Supported the game integration in lobby.
+
+Implemented JQuery & Free Marker to launch the game window.
+
+Involved in Code reviewing and optimization.
+
+#5 Lobby CMSlet					        Nov 2007 to Aug 2009
+
+Organization	: Springboard Technologies Pvt. Ltd.
+
+Environment	: Java 1.5, JDBC, Oracle, HTML, Java Script, Jquery, YUI,
+JUnit.
+
+Team Size	: 2
+
+Summary
+
+Lobby is a dashboard which displays all Games in different Tabs. Adding
+or modifying the game label, short image, description and help link
+involves the activities of Content management and requires some time.
+
+The application provides the features to configure the number of tabs in
+the lobby page and the order of them. It allows placing or reordering
+the games and its content.
+
+In existing system, adding or removing a Game, involves the Designer
+work in HTML pages across all sites manually. Also it requires a release
+process to update in Production, which results in Down-Time.
+
+Lobby CMSlet is a back office tool and facilitate the process with
+simple mouse clicks. 
+
+Responsibilities
+
+Analyzed the existing system and gathered the list of games (the list of
+game for each Client (Website) and in which category).
+
+Designed the Back-office screens and Coded for 
+
+Adding/Editing/Deleting the Categories/Games
+
+Mapping the games to different Categories
+
+Auditing each change in Back-office and to Rollback the particular
+Change.
+
+Implemented Yahoo User Interface (YUI) for Back-office screens.
+
+Implemented YUI, FreeMarker & JQuery to design the lobby in Websites.
+
+Involved in designing the Database Tables and Views.
+
+Coded POJOs to get the mappings from Database and cache them in the form
+XMLs at Server end.
+
+Involved in KT and supporting the several teams who use the Back-office.
+
+#6 Games CMSlet						         Jul 2007 to June 2008
+
+Organization	: Springboard Technologies Pvt. Ltd.
+
+Environment	: Java, Servlets, JDBC, XML, HTML, Java Script, AJAX
+
+Team Size	: 3
+
+Summary
+
+Games with identical behavior with different UI can share the same Game
+Server (C++). Hence to reduce the down time of Game Server for new
+identical games, need a System to create a new reference of the Original
+Game and with different name for identifying.
+
+This application provides back office screens to create a new game
+instance and to configure the images and text for the new game.
+
+Responsibilities
+
+Implemented Class name feature in Application Server end.
+
+Designed screens in Back-office.
+
+Implemented the commons-file upload to upload the ‘n’ number of
+images.
+
+Implemented the SFTP tool to upload the files to located servers.
+
+Coding of Servlets & POJOs to get the game translations.
+
+The list of assets and translations will be sent in XML format, using
+XStream.
+
+Involved in designing Database Tables.
+
+#7 BPU Genesis						      March2007 to June 2007
+
+Organization	: Infics (IBM GBS)
+
+Client		: BPU Bank, Italy
+
+Environment	: Java 1.5, J2EE, Tomcat, Web Logic, Oracle9i and Adobe
+Flex.
+
+Project Size	: 25
+
+Team Size	: 4
+
+Summary
+
+BPU Genesis is the Banking Teller application for Banche Popolari Unite
+(BPU), Italy. This application is a Technology migration from Oracle
+Forms to J2EE and Abode Flex. 
+
+This is n-tier architecture. The User-Interface is built using Adobe
+Flex technology for Rich user experience similar to Oracle Forms UI. The
+mid tier is composed of Session façade layer. Database access is done
+with custom build framework, which is very flexible, maintainable and
+developer’s friendly.  At the Backend there is an Oracle9i Database. 
+
+Responsibilities
+
+Enhanced the DTO Generator, to generate all Global variables using
+regular expressions and XSLT.
+
+Involved in coding of Backend, which is conversion of PL/SQL code into
+POJO methods.
+
+Involved in development of User Interface with Adobe Flex.
+
+Involved in testing with the sample Test case data.
+
+Actively participated in providing Technical assistance within the
+teams.
+
+Tracking of Bugs raised in the custom frameworks with Mantis tool.
+
+#8 Vision Connect					   		      April-06 to July-06
+
+Organization	: Vision Systems Group Pvt. Ltd.
+
+Client		: In-house
+
+Environment	: Java, JDBC, Struts, Ant, JBoss, Java Mail, DOM4j, Open
+Laszlo and
+
+  Oracle 10g XE
+
+Summary
+
+VisionConnect is an Employee Management Software for IT consulting
+organization. This is a Web Application with client-server technology. 
+
+VisionConnect is modularized into Login, Admin, Sales, Vendor, Issues,
+Recruit, Configuration, Report, Submissions and Guest House.
+
+It facilitates to search how many candidates are on bench and how many
+are in project and it various categories like skills wise, bench or not,
+name wise, contact wise and in other categories.
+
+Easy navigation to select a candidate, schedule him for interview to
+clients.
+
+Reports will be generated in charts format or in Microsoft Excel format.
+
+
+ Responsibilities
+
+Coding for modules 'Issues, Styles, and charts'.
+
+Styles and Charts are developed using Open Laszlo
+
+Implemented the Mail module.
+
+Personal Details
+
+Date of Birth		: 11-06-1981
+
+Languages		: English, Telugu & Hindi
+
+Nationality		: Indian
+
+Marital Status		: Married
+
+Passport		: Valid
+
+  PAGE   \* MERGEFORMAT  1 
+

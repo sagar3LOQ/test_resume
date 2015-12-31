@@ -1,0 +1,281 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                        - 
+knowledge                               �
+�            
+
+Spring                               -  2.5
+year&
+current                                �
+�               
+
+Web Services                     -   2.5 years N
+CURRENT                                �
+�           
+
+Core Java                              -  
+3years
+
+Design Patterns                     - WORKED   
+
+UML
+design                                 
+          -     
+
+Build Tools (Maven/Ant)                    -   
+Maven 
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+tomcatWeblogic/eclipse/sonar
+
+DB:oracle
+
+    Saikiran M
+
+Cell: +91-9030882898.                       
+E-mail:msaikiran19@gmail.com
+
+Professional Summary 
+
+A  graduate in computer science having 3.8 years of experience in the
+field of software design and  developing
+
+Excellent knowledge of all the phases of software development life cycle
+( Requirements gathering, analysis, design, development, testing and
+implementation)
+
+Hands on experience on Web development Application framework (Wicket)
+and Scripting languages(JavaScript),AngularJs
+
+Good experience on Java/J2EE design patterns like Factory, Singleton,
+Decorator, MVC, DAO, Front Controller, etc
+
+Good exposure on OOPS and RDBMS
+
+Experience in using the Source control tools like  SVN
+
+Experience in Agile software development
+
+Prepare  Weekly Status Reports (WSR)
+
+Capable of learning new technology quickly and adapting to a new
+environment.
+
+Excellent troubleshooting skills
+
+Quick learner and excellent team player, ability to meet deadlines and
+work under pressure
+
+Professional Experience
+
+Prokarma Softech India Pvt Ltd.  Hyderabad(  HYPERLINK
+"http://www.mphasis.com/" http://prokarma.com/ ) – Software Engineer
+
+January 2011 – till date
+
+ Education
+
+Graduate of Computer Science from DRK Institute of Science and
+Technology, affiliated to JNTU Hyderabad in 2010
+
+Intermediate from BIE
+
+SSC from Sri Sai Public School affiliated to ICSE 
+
+ Skills
+
+Languages: 		         Java ,SQL. PL/SQL
+
+J2EE Technologies: 	         Servlets, JSP, JDBC 
+
+Frameworks: 	         	         Spring
+
+Database:  		         Oracle 10g,  Apache Derby
+
+Web Technologies:	         JavaScript, Wicket 1.4, AngularJs,HTML5, XML,
+Backbone.js
+
+Web/ Application Server:     JBOSS
+
+IDEs: 		         	         Eclipse
+
+Testing:             	         Junit,TestNG	
+
+Version Control: 	         SVN
+
+SQM Tool:		         HP Quality Center
+
+Operating Systems:	         Windows 98.2000.XP
+
+ Major Projects
+
+ 
+
+Project #01
+
+Title:  ESS - SET (Enterprise Shipment Services - Shipment Editor
+Terminal)
+
+Duration			:	March 2011 – till date
+
+Team Size			:	8
+
+Technology			:          JAVA/J2EE, Spring, Wicket, Jaxb2, 							       
+   XML, Ricola, Wickola, XMF Services (last three are client specific)
+
+Operating System		:	Windows
+
+App Server			:	Jboss,Tomcat
+
+Company			:	ProKarma Softech Pvt. Ltd.
+
+Description:
+
+		Waybill Editor is a web based GUI application acts as an interface to
+clients of UP, using this Waybill Editor, customers can create a new
+shipment and can edit/correct a shipment and submit it again. SET also
+has some other features like Change Flat Car Destination, Pattern Lookup
+and Switch Bill where each of which has its own benefits to UP and its
+clients.
+
+					
+
+Responsibilities:
+
+Coding using Java, Wicket, Wickola, Ricola
+
+Building Generic UI Components for GUI Development
+
+Testing - unit testing & integration testing
+
+Responsible for overseeing the Quality procedures related to the project
+
+Project #02
+
+Title:  Service Repository 
+
+Duration			:	June 2012 – December 2012
+
+Team Size			:	4
+
+Technology			:          JAVA/J2EE, Spring, Wicket, Hiernate, 							    
+      XML, Ricola, Wickola, XMF Services (last three are client
+specific)
+
+Operating System		:	Windows
+
+App Server			:	Jboss,Tomcat
+
+Company			:	ProKarma Softech Pvt. Ltd.
+
+Description:
+
+		It holds has as a pool for services. It is replacement of Systinet
+Application(HP Product). It builds only the major and most common things
+as creating,monitoring,modifying a service. It consists of Service
+Provider and Service Consumers. Also specifies the service level
+agreement(SLA). 
+
+					
+
+Responsibilities:
+
+Coding using Java, Wicket and Wickola,Ricola,Hibernate
+
+Building Generic UI Components for GUI Development
+
+Creating new Services
+
+Testing - unit testing & integration testing
+
+Responsible for overseeing the Quality procedures related to the project
+
+Project #03
+
+Title:  Asset Mangement
+
+Duration			:	January 2011 – August 2011
+
+Team Size			:	3
+
+Technology			:          JAVA/J2EE, Spring, Wicket, Hibernate, XML
+
+Operating System		:	Windows
+
+App Server			:	Jboss,Tomcat
+
+Company			:	ProKarma Softech Pvt. Ltd
+
+Description:
+
+		The management of a client's investments by a financial services
+company, usually an investment bank. The company will invest on behalf
+of its clients and give them access to a wide range of traditional and
+alternative product offerings that would not be to the average
+investor.Asset management is a systematic process of operating,
+maintaining, upgrading, and disposing of assets cost-effectively.
+
+					
+
+Responsibilities:
+
+Analysis and designing 
+
+Architectural diagrams 
+
+Coding using Java, Wicket,Hibernate
+
+Building Generic UI Components for GUI Development
+
+Testing - unit testing & integration testing
+
+Responsible for overseeing the Quality procedures related to the project
+
+Project #04
+
+Title:  PST-ITF Mobile WEB
+
+Duration			:	January 2011 – August 2011
+
+Team Size			:	3
+
+Technology			:          JAVA/J2EE, Spring,Backbone, Hibernate, XML
+
+Operating System		:	Windows
+
+App Server			:	Jboss,Tomcat
+
+Company			:	ProKarma Softech Pvt. Ltd
+
+Description:
+
+	One code base that can run on any OS without modifying data its
+independent App code. Its for ShipcarsNow   HYPERLINK
+"http://www.shipcarsnow.com/" http://www.shipcarsnow.com/  and same code
+for tablets and mobile also and for different versions also.
+
+					
+
+Responsibilities:
+
+Analysis and designing 
+
+Architectural diagrams 
+
+Coding using Java, Backbone, Hibernate
+
+Responsible for overseeing the Quality procedures related to the project
+
+Personal Information
+
+Name		: M. Saikiran
+
+Marital Status	:Married.
+
+Nationality		:Indian.
+
+Page   PAGE  1  of   NUMPAGES \*Arabic  3 
+

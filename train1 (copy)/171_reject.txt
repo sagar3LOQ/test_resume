@@ -1,0 +1,243 @@
+
+
+ Ravindra Babar
+ E-mail: babarravindra@gmail.com
+ Mobile: +91- 9960077688
+        
+        
+        
+
+Professional Summary:
+
+ 1      
+Having 4.8 years of JAVA Programming experience in Software Development.
+ 2      
+Experience in analysis, coding and implementation of larger scale Business
+ Applications.
+ 3      
+Experience in developing applications using Core JAVA, J2EE (Servlets, JSP, 
+ and JDBC) ,Java Script
+ 4      
+Experience in Spring ,Hibernate, EJB,JMS
+ 5 Experience in Soap based and Restful web services .
+ 6 Knowledge of struts 2.0
+ 7 Experience on Web Logic and jboss application server
+ 8 A quick learner in adapting to technology with ease.
+ 9 Good interpersonal & communication skills
+
+Work Experience :
+ 
+ 1      
+ Worked as a Software Engineer with Financial Software and systems, Mumbai from Oct 2010 to Nov 2011.
+ 2      
+Worked as a Software Engineer with Securview Systems, Pune from Dec 2011 to 
+Nov 2012
+ 3 Working as a Software Engineer with One network enterprises from Dec 2012 
+ to till feb 2014
+4 Working as a Software Engineer with Amdocs  from April 2014 to till today
+
+
+
+Academic Qualifications :
+
+
+	Course
+
+
+
+	Board/University	        
+
+
+ Year of Passing	
+        
+
+
+Percentage	
+	MCA
+
+
+	Fergusson college , PUNE
+
+
+	 2010
+
+
+	 58
+
+
+	BSC Statistics
+
+
+	Fergusson college , PUNE
+
+
+	 2007
+
+
+	 67
+
+
+	H.S.C
+
+
+	PUNE
+
+
+	 2003
+
+
+	 75
+
+
+	S.S.C
+
+
+	PUNE
+
+
+	 2001
+
+
+	 85
+
+
+Technical Skills :
+
+Languages       
+        
+ :      
+ CORE JAVA, J2EE 
+Frameworks : Ajax (Echo2- framework),
+ Spring 3.0 ,Hibernate 3,
+Web Services : Soap and Restful Web Services 
+ using frameworks Axis ,CXF 
+Databases       
+        
+:       
+ Oracle 10g (pl/sql),Postgres 
+Web technologies : Java Script, HTML, XML, Ajax, Jsp,servlet, XML, 
+ XSD, WSDL, SOAP
+Application Server :  Weblogic 10.3,Jboss
+Web Server :  Tomcat6.0 
+Operating Systems :  Windows xp,Linux Ubuntu Unix Shell Scripting
+
+
+Project #1:
+
+ Client : Axis Bank
+ Project Title : DCMS
+ Duration : Oct 2010 to Nov 2011
+ Company : Financial Software and systems
+ Tools and technology used :Core Java, JSP, Servlets, Jdbc,WebLogic ,Oracle. 
+ 
+Project Synopsis: 
+
+DCMS is implemented using extensive use of J2EE technologies and MVC architecture. 
+DCMS is responsible for Debit card Production and management of card .Blocking of card ,reactivation ,Account Linking to card ,setting withdraw Limit on card and many more support function are there in DCMS. Web services are implemented in this project for communication with other banking Applications.Reports are shown widely for every activity in DCMS 
+
+Roles and Responsibilities:
+ 1      
+Understanding the flow specifications and responsible for the development of the application which is based on MVC architecture.
+ 2      
+Interaction with the client for queries regarding exact requirements. 
+ 3      
+Involved in Coding JSP , Servlets and Javascript.
+ 4      
+Involved in coding for soap based web service and Restful web service client.
+ 5      
+Involved in coding Using Ajax.
+ 6      
+Involved in coding for reports and Pl/Sql queries for it using JDBC. 
+ 7      
+Involved in implementing developed code in live environement.
+
+
+Project #2:
+
+ Client : MSSP service providers
+ Project Title : CASPER
+ Duration : DEC 2011 to JULY 2012
+ Company : Securview Systems Pune
+ Tools and technology used :Core Java, Echo2,Hibernate,.cxf Restful web services. 
+ 
+Project Synopsis: 
+Casper is platform build using Java and Ajax technologies for MSP (Managed Service Provider). Integrated with service like Vulnerability Assessment tool (Critical Watch), Nagios, MRTG, Sentinel, Netcore. Channel partner or customer user can review and analysis data and report as per role base access mechanism. The user can tag and rate report, create dashboards, communicate in context manner & context base search. Following are key features.
+
+ Reporting framework to show data in one format from various data source.
+ Customer Portal - Customers has a web interface to access the data from various sources in a standard normalized way.
+ Partner Portal - Partners can access the portal to manage customers.
+Role Based Access Control - Very granular level role based access control is available in the Portal.
+Integration of various agents getting data from different data source and sending to centralized database..
+ 
+Roles and Responsibilities:
+1. Involved in coding for casper-sentinel plugin which is a stand alone application which takes data from sentinel database and inserts into casper database.
+2. Done the coding for casper enhancement.
+3. Restful Web service is developed using cxf framework ,spring,hibernate for giving client api as a service to create partner and customer for caper service. 
+
+Project #3:
+
+ Client : US based
+ Project Title : Logistics Network
+ Duration : Dec 2012 to till today
+ Company : One network Enterprises
+ Tools and technology used :Core Java, Extjs, core Spring , Jboss ,Oracle 10g. 
+ 
+Project Synopsis: 
+ Logistics in the Real Time Value Network" empowers customers to drive the complete lifecycle of transportation processes with precision, including procurement and contracting, shipment planning, execution and tracking, yard management, appointment scheduling, and financial and claims settlement  all on a single, cloud-based platform. Logistics delivers a highly differentiated capability to integrate with the demand-driven buying and selling processes, enabling customers to concurrently optimize service levels, inventory and logistics& making the Intelligent Logistics solution the only one of its kind in the marketplace today 
+
+Roles and Responsibilities:
+1Understanding the flow specifications and responsible for the development 
+ of the application which is cloud based.
+2Interaction with the client using Jira for understanding the bugs in existing 
+ system and providing solution by fixing the bug. 
+3Involved in Coding in core java.
+4 Involved in coding for reports and Pl/Sql queries. 
+
+
+
+
+Project #4:
+
+ Client : TelKom SA
+ Project Title : OMS
+ Duration : April 2014
+ Company : Amdocs
+ Tools and technology used :Core Java, EJB, Weblogic 10 ,Oracle 10g. 
+ 
+Project Synopsis: 
+Oms is Order management system in Telkom Domain where customers can request for telcom products . OMs will have details of product and prices .
+
+Roles and Responsibilities:
+Involved in developing modules OMS.
+Coding using Core java ,EJB,Xsd,JMS
+
+Personal Details :
+
+Date of birth : 24 March 1985
+Sex     
+        
+        
+ : Male
+Languages Known 
+ : English, Hindi, Marathi
+Marital Status  
+        
+ : Single
+Nationality : Indian
+Contact Address Punyai complex,Punyainagar,Dhanakawadi Pune 43.
+ 
+Declaration : 
+ I hereby affirm that the information provided by me is accurate and true to the best of my knowledge.
+
+PLACE   
+: Pune
+DATE    
+        
+: 10 Oct 2015   
+        
+        
+        
+        
+        
+(Ravindra 
+ babar) 

@@ -1,0 +1,215 @@
+Spring: 2 year
+
+Hib: 2 years
+
+Web services: no
+
+Maven
+
+DB: oracle
+
+Design pattern: knowledge
+
+Appl server: tomcat/ web logic
+
+Umamaheswararao G
+
+Experienced Java/J2EE Professional | Sr.Software Engineer
+
+Email Id: Mahesh.gembali@hotmail.com
+
+                              			       Phone 	:  9663548338	
+
+Professional Summary
+
+Dynamic, hardworking and results-oriented professional with
+techno-functional skills. Proven track record of 4.5 years in Java/J2ee
+& Travel domain experience with focus on Techno Functional. 
+
+Involved in Service development project 
+
+Hands on experience in Spring and Hibernate
+
+Effective Solution Design skills with strong analysis and
+problem-solving abilities.
+
+TECHNICAL SKILLS 
+
+Core Skills:
+
+      Programming Languages	Java,J2EE
+
+Frame Works	Spring Core,Spring Batch, Spring MVC, Hibernate,JAXB
+
+Databases	 Oracle,MySQL
+
+Web Technologies	                    HTML, Java-script and AJAX
+
+Code Profiling Tool	SONAR
+
+Servers	Tomcat5.5/6.0, weblogic
+
+Other Tools	Maven,  SVN
+
+IDE	Eclipse
+
+
+
+EDUCATIONAL/ACADEMIC QUALIFICATIONS
+
+M.C.A from Andhra University (2009).
+
+ 
+
+EXPERIENCE DETAIL
+
+Duration	Designation	Address
+
+Oct 2011 – Present	          Sr.Software Engineer	Mindtree PVT Ltd.,
+Bangalore
+
+Sept2010-Oct2011	         Software Engineer	AltiSource, Bangalore
+
+
+
+PROJECTS’ PROFILE 
+
+Project Name	Carsales UTD[Ultimate Test Drive]
+
+Client	ABG
+
+Role	Developer	
+
+Environment	 JAVA/J2EE, Eclipse, JavaScript, AJAX, Hibernate, Spring and
+HTML technologies.
+
+
+
+
+
+Project Abstract:
+
+Allow customers to create reservations on the car sales websites. Once
+customers land on a specific VIN, they will be able to book the car at a
+specific ABG location for the test drive. Customers will be able to find
+the nearest preferred test drive location based on the search criteria.
+Customers will receive a reservation number for reference.  This will
+reduce the need for AutoNation call back, will increase the test drive
+take rate and will allow AutoNation sales representatives to spend their
+time being sales consultants, as opposed to test drive schedulers. 
+
+Responsibilities: 
+
+Implemented Bing maps using BingMap7
+
+Involved in developing Location Search module.
+
+Written Proximity logic for the location search.
+
+Facilitate Application Deployment, System Integration Tests, User
+Acceptance Test
+
+Go live preparatory activities and involved in Production deployment and
+support.
+
+Project Name	Campaign Management
+
+Client	ABG
+
+Role	Sr. Software Engineer
+
+Environment	Oracle, JAVA/J2EE, Eclipse, JavaScript, AJAX, Hibernate,
+HTML technologies.
+
+
+
+
+
+Project Abstract:
+
+Enable offering variable discounts to users referred from Google search
+to either Avis.com or Avis.ca for reservations in US and Canada
+locations by integrating with Unica Interact Campaign Management System
+
+Enable segmentation of Google referral traffic into users who are either
+recognized or unrecognized:
+
+Refine offer delivery process by using Unica Interact’s learning
+capability
+
+Identify customers across brands/channels and establish segmentation
+during interaction with the Unica Interact Campaign Management System by
+replacing the currently used Individual ID with Universal ID
+
+Enable ABG channels to communicate with Unica Interact Campaign
+Management system via a new common services platform
+
+Track and report conversion of campaign offers delivered by Unica
+Interact Campaign Management system
+
+Responsibilities: 
+
+Technical Solution Design And Database design
+
+Implemented service to interact with Unica Interact.
+
+Created Dao classes to interact with DB.
+
+Facilitate Application Deployment, System Integration Tests, User
+Acceptance Test
+
+Go live preparatory activities
+
+Project Name	COB[Concur Open Booking]
+
+Client	ABG
+
+Role	Developer
+
+Environment	Oracle , JAVA/J2EE, JavaScript, AJAX, Hibernate, ORACLE DB
+and HTML technologies
+
+
+
+Project Abstract:
+
+Concur Open Booking (COB) functionality is aimed at enabling car
+reservations booked on Avis.com with an eligible corporate AWD to
+automatically appear in user’s Concur itinerary. A concur user can
+enroll for COB only if the user has an Avis Preferred profile which is
+linked to his/her concur profile. With COB, Avis.com would display
+upcoming Concur corporate trips of COB enrolled users that do not have
+an associated car rental and provide a quick and easy way to add an Avis
+car rental reservation to the trip.  It would also send the
+corresponding rental reservation information back to Concur to be added
+to the itinerary.
+
+Responsibilities:
+
+Involved in creating JSP pages
+
+Involved in writing scripts for itineraries
+
+Review test cases
+
+Note: Only latest 3 projects have been included in the resume
+
+PERSONAL INFORMATION
+
+Name	:	Umamaheswararao G
+
+Father’s Name	:	Someswararao
+
+Date Of Birth	:	02-AUG-1986 
+
+Country	:	INDIA
+
+			
+
+I solemnly declare here that all the facts mentioned above are true and
+the best of my Knowledge.
+
+Umamaheswararao G
+
+Page   PAGE  1  of   NUMPAGES \*Arabic  4 
+

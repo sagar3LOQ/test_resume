@@ -1,0 +1,237 @@
+Krunal Bongirwar
+
+                                                            			
+
+E-mail: krunal.b1990@hotmail.com                                        
+                              Mobile: +91 7204274032 
+
+Objective
+
+To seek a challenging position in software development, apply my
+knowledge and skills, learn new technologies and concepts, grow along
+with the organization.
+
+Profile Summary
+
+3+ years of IT experience in various Technologies like Java, JSP,
+Servlets, JDBC, Struts, Hibernate, Spring and Oracle.
+
+Hands on Experience in Struts Framework.
+
+Hands on Experience in Hibernate Framework.
+
+Hands on Experience in Spring Framework.
+
+Hands on Experience in J2EE Design Patterns.
+
+Hands on Experience in JSF.
+
+Hands on Experience in J2EE Technologies (JDBC, JSP, Servlets)
+
+Good Knowledge in XML(DTD, SCHEMA, SAX, DOM)
+
+Good Knowledge in Struts2 Framework.
+
+Work Experience
+
+Education                                                               
+         
+
+B.E(CS) From RGTU, From Bhopal.
+
+Technical Skill
+
+Operating System	
+
+Windows XP/2000
+
+Language	Java
+
+Application/Web Servers	Weblogic, Apache Tomcat, JBoss.
+
+J2EE Technologies		JDBC, JSP, Servlets.
+
+JEE5 Technologies	JPA
+
+RDBMS		MySQL, Oracle
+
+Frameworks		Hibernate, JSF, Spring, Struts
+
+IDE	Eclipse, My Eclipse
+
+Tools	 JUnit, Log4J
+
+
+
+Professional Experience                                                 
+                        
+
+PROJECT #1		:	Insurance System (Jan 2014 to Till Date)
+
+Client			:	PFIZER
+
+Team Size		:	8
+
+Role			:	Developer
+
+Environment		:	Java, JSP, Spring, Hibernate, My Eclipse, Tomcat, MySQL.
+
+Description:
+
+This application was developed for Insurance Company usage. It provides
+information regarding the services and policies of the company online to
+the customers. It facilitates mutual communications between the
+insurance company and all parties involved in the field through the
+internet. The project was divided into various modules like Products,
+Claims, Valuation, Reinsurance, and Policy servicing etc. This site also
+allows the policyholders to know the status of policy and information
+regarding various new policies. A customer can review his policy and
+make payments online. The various kind of insurances provided includes
+Vehicles Insurance, Life Insurance, Home Insurance and Health Insurance.
+This application will eventually help the company to gain and maintain
+leadership as well as business revenue in the insurance industry.
+
+Responsibilities:
+
+Designed JSP`s as per the Requirement.
+
+Implemented Controller Classes.
+
+Implemented Commands and their Validations.
+
+Written Spring Service Interfaces and their implementations.
+
+Injected Spring Services into Controller classes.
+
+Written Spring DAO`s and their implementations With Hibernate.
+
+Injected Spring DAO`s into Spring Services.
+
+Written Hibernate Components
+
+PROJECT #2   :  Trulia.com (Jan 2013 to Dec 2013)
+
+Client	            :  Trulia.com, USA
+
+Role                 :  Team Member
+
+Team Size       :  8
+
+Environment   :  Java, JSP, JSF, Spring, Hibernate, Eclipse, Web logic,
+Oracle.
+
+Description      :                 
+
+The project entitle Real Estate online is internet application. The
+objective of this portal is to make real estate business easy. The end
+user can search, buy, and sell property. In search criteria have basic
+search and advance search for rent, lease and buy.   In Basic search
+user can search just locality and budget. In Advanced search user can
+select Based on built up area number of rooms whether pure residential
+or apartment or the floor in apartment etc. it will have lot of
+parameters to search. The results based on customers search will be
+displayed. A page may contain 5 or 10 Results as approved by real estate
+group. Super Admin has a complete control of web portal. Admin can
+remove a listed property from portal in case a property is already
+rented out/sold etc. Admin also has a section where he can view the
+properties where customers have expressed their interest in. Admin can
+check how many deals are closed.
+
+                 
+
+Responsibilities:
+
+Designed JSP`s as per the Requirement.
+
+Implemented JSF Bean Classes.
+
+Implemented Beans and their Validations.
+
+Written Spring Service Interfaces and their implementations.
+
+Written Spring DAO`s and their implementations With Hibernate.
+
+Injected Spring DAO`s into Spring Services.
+
+Written Hibernate Components.
+
+PROJECT #3	             :	Online Reservation for Hotels (Feb 2012 to Dec
+12)
+
+Client			:	  HYPERLINK "http://www.travelnow.com"  www.travelnow.com 
+
+Team Size		:	5
+
+Role			:	Team Member
+
+Environment		:	Java, JSP, Struts, Hibernate, Eclipse, Oracle, Tomcat.
+
+Description                   :
+
+Online reservation web application for Hotels, Cars and Airlines. Online
+Reservation is a Service System, which has Clients as its different kind
+of members and Vendors like Hotels, Rental Car and Air ticketing agency.
+This System has different modules like Reservation, Campaigning, Payment
+terms, Membership, Waiting List and Commission etc. Online Reservation
+system will allow their members to have serviced in their specific
+vendors station and collects payments, System has more than four payment
+terms based on their membership type.
+
+Responsibilities:
+
+Designed JSP`s as per the Requirement.
+
+Implemented Action Classes.
+
+Implemented Form Beans and their Validations.
+
+Implemented DAO`s with Hibernate.
+
+Written Hibernate components.
+
+PROJECT #4		:	Medisoft  (June 2011 to Jan 2012)
+
+Client			:	St Vincents Hospitals, Australia.
+
+Team Size		:	8
+
+Role			:	Team Member
+
+Environment		:	Java, JSP, Struts, JDBC, Eclipse, Tomcat, Oracle.
+
+Description                   : 
+
+ In today’s booming health sector, every hospital wants to provide
+better facilities and services and above all the information to the
+patients within minimal time. To make progress in this way, now most of
+the hospitals automated most of their day to day operation to get
+benefited. Medisoft is sophisticated Client server based software used
+for Hospital Management System. It is used to automate broad range of
+operations
+
+The project consists of different modules like:
+
+Patient Registration
+
+Out Patient Management
+
+In Patient Management
+
+Operation theater management 
+
+Pharmacy Management
+
+Billing Information System
+
+Blood Bank Information System etc
+
+Responsibilities:    
+
+Designed JSP`s as per the Requirement.
+
+Implemented Action Classes.
+
+Implemented Form Beans and their Validations.
+
+Implemented DAO`s with JDBC
+

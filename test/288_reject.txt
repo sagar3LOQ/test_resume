@@ -1,0 +1,230 @@
+Spring:
+
+Hib 
+
+Webservices:
+
+Big data
+
+11/
+
+Anil Kumar Dasari
+
+Mobile : +91-9900608709   Email : dasarianil1988@gmail.com
+
+
+
+Objective
+
+
+
+
+
+Intend to build a challenging career with an Organization where in I can
+explore myself fully and can contribute my skills for the development of
+Organization and self
+
+
+
+
+
+
+
+Professional  Summary
+
+
+
+5.5 years of professional experience in development of web based
+Enterprise application using Java/J2EE technologies.
+
+Over 4 year of development experience of Web Applications.
+
+Around 6 months of experience on POCs on Hadoop , MongoDB, Cassandra,
+Hbase.
+
+Extensively worked on various frameworks like Struts 1.2, Spring 2.0,
+3.0 (IOC, AOP, Transaction Management, DAO and JMS), Hibernate 3.0, JPA
+2.0 , JAX-WS, Jersey Restful Webservices and Junit.
+
+Good exposure on Hadoop Ecosystem (Map Reduce, Hbase, Hive)
+
+Good exposure on popular NoSqls (Hbase, Cassandra, MongoDB)
+
+Trained professional on Mongo DB by Mongo DB University and Certified.
+
+Extensive work experience in Waterfall and Agile Methodology of software
+development.
+
+Hands on experience on Oracle SOA, BPM.
+
+Experience in designing and prototyping user interfaces for intranet,
+web applications using various scripting languages such as HTML, CSS,
+JavaScript and AJAX.
+
+Exposure on project management tools like Version One, ALM and JIRA.
+
+Extensive experience on Software Development Life Cycle (SDLC) including
+Requirement Analysis, Documentation (both functional and technical),
+Design and Implementation.
+
+Involved in all phases of Project execution.
+
+Good knowledge on PL/SQL, Mokito, Jquery, XSD, XSLT. 
+
+Ability to adapt to new technologies, environments quickly.
+
+
+
+Education
+
+
+
+2009     B.Tech (ECE) from Koneru Lakshmaiah College of Engineering,
+Guntur with 86% 
+
+2005     Board of Intermediate Education, AP with 96%
+
+2003     Board of Secondary Education, AP with 85%
+
+	
+
+
+
+Technical Skills
+
+
+
+
+
+Programming Languages	Java 5 & 6.
+
+Frameworks	Spring 2.0, 3.0, Struts 1.2, Hibernate 3.0, JPA 2.0, Jersey
+2.0, Junit, JAX-WS, Jquery
+
+Defect Tracking Tools:	JIRA, Version One, ALM
+
+Databases	Oracle 11g
+
+Version Control	CVS, TFS, Perforce
+
+Web/Application Servers:	Apache Tomcat 7, Weblogic 10.3
+
+Build and Deployment	AntHill Pro, Jenkins
+
+Other Tools:	Maven, ANT, JDeveloper, MQ Explorer, Putty, XML Spy, SQL
+Developer, SOAP UI
+
+Operating Systems	Unix, Win 7, Windows XP
+
+
+
+
+
+	Professional Accomplishments
+
+
+
+
+
+	Awarded as STAR performer in Dell.
+
+Awarded as STAR performer in Thomson Reuters
+
+
+
+Professional Experience:
+
+	
+
+Thomson Reuters. Bangalore
+
+Senior Software Engineer						       June 2014 - Till Date
+
+Software Engineer							       Jan 2013 - May 2014
+
+Project			: 	SOPHIA 
+
+Description:
+
+SOPHIA is an Editorial and Content Management platform. This application
+helps to create , manage , store and deploy content on to two major
+products of Thomson Reuters named Web of Science (WoS) and Web of
+Knowledge (WoK)
+
+Responsibilities:
+
+Involved in requirement analysis, design and implementation.
+
+Involved in all phases of project execution.
+
+Working as both Services (Java) and BPM developer
+
+Working on end to end functionality
+
+Environment:
+
+Java 1.6, Spring 3.0 (IOC, Transaction Management, DAO, JMS, Spring
+ORM), JPA 2.0, Jersey and SOAP Webservices, IBM MQ, Oracle BPM, BPEL,
+Oracle 11g, XSD, XML, Maven, Junit.
+
+Thomson Reuters. Bangalore
+
+Senior Software Engineer						       Apr 2015 – May 2015
+
+POC			: 	ALUM (Article Level Usage Metrics)
+
+Description:
+
+This application helps to identify the popular articles based on usage
+and number of citations. 
+
+Environment:
+
+Java 1.6, Map Reduce, Hbase, Jersey Rest, D3.js (for data visualization)
+
+Dell. Bangalore
+
+Technical Analysis Senior Associate                                     
+     Jan 2010 – Feb 2012
+
+Project     			:	  Rental Financial System (RFS)
+
+Description:	
+
+	The RFS (Rental Financial Systems) application is a web application
+used basically 
+
+to deal with the billing modules for EHI which includes a set of modules
+like Receivable Management, Cash Management and Invoice Inquiry.
+
+Responsibilities:	
+
+Involved in requirement analysis, design and implementation.
+
+Built HTML prototypes.
+
+Direct interaction with the onsite coordinators for requirement
+clarification.
+
+Perform rigorous Unit Testing, writing Unit Test Cases and JUnit Tests.
+
+Performed Functional/Code Review for Invoice Inquiry Module.
+
+Acted as build and deployment coordinator
+
+Environment:
+
+Java 1.5, Spring 2.0 (IOC, Transaction Management, DAO, AOP, Spring
+ORM), Hibernate 3.0, Struts 1.2, Servlets, JSP, JSTL , Oracle 11g, XSD,
+XML, Ant, Junit.
+
+Personal Details
+
+
+
+
+
+Name       		:	Anil Kumar Dasari.
+
+Date of Birth 		:	15th May, 1988.
+

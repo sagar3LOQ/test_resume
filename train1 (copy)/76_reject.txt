@@ -1,0 +1,245 @@
+Siddharth Patodi
+
+siddharthpatodi89@gmail.com
+
+                                                                                                                                               +91-77026-11101 (M)
+
+           +91-731-2620902 (R)
+
+Career Objective
+
+
+
+A challenging career that best utilizes my enthusiasm, skills, interest & a long term fruitful association with the organization, which provides opportunities to enhance my knowledge and hone my skills, while working as a core team member.
+
+Summary
+
+4.5 years of diverse experience in all phases of SDLC encompassing analysis, design, development, unit testing and deployment of applications.
+
+Have knowledge and working experience in AGILE methodology (SCRUM). Have been using Rally, for tracking various agile metrics.
+
+Have extensive knowledge and total working experience in Java (core and advanced).
+
+Have extensive knowledge and working experience in RESTful web services development with Spring, Apache CXF and Jackson API.
+
+Have good knowledge on Spring framework and also working experience on same including Spring AOP and Spring IoC. Have good working knowledge on Hibernate/JPA.
+
+Have good knowledge and working experience in Maven.
+
+Have good knowledge on unit testing, logging, code quality and review related tools/plugins, including Junit, Log4J, Logback, PMD, Checkstyle, Sonar and Crucible.
+
+Have good analytical and logical abilities to solve critical problems and been involved in architecting solution to complex designs various times. Have good knowledge on design patterns.
+
+Have been a good team player, and have good experience on working and delivering project responsibilities successfully in critical timelines.
+
+Have good knowledge on working in offshore-onshore project execution environments.
+
+Experience Summary
+
+Current Employer	: Bank of America (BACI – Non banking subsidiary of Bank of America)
+
+Previous Employers	: Goldman Sachs and Infosys Ltd.   
+
+Total Experience	:  4 Years 6 Months
+
+Current Role		: Analyst Developer
+
+Current Designation	: Senior Software Engineer
+
+Technical Skills
+
+Programming Languages     :  Java, Java EE, Spring, Hibernate, JPA, JSP, Servlets, JDBC, SQL, C#
+
+Databases                               :  Oracle, SQL Server, MS-Access
+
+Concepts                                 :  Data Structures, DBMS, Design Patterns, RESTful Web Services
+
+Operating System                 :  Windows, UNIX, DOS
+
+Tools                                        :  Eclipse, Maven, Junit, Log4J, Perforce, SVN, Rally (Agile), Net Beans IDE, Microsoft Visual Studio
+
+Achievements at Work
+
+Have been rewarded with Gold and Silver awards at Bank of America for exceptional performance in project with critical timelines.
+
+Rewarded with best possible rating for good performance pertaining to project.
+
+Successfully cleared Infosys Certified Programmer for Java and Java web component developer with good marks.
+
+Successfully completed training in Java (J2SE, J2EE) and .NET with best grades from Infosys Ltd.
+
+Professional Profile
+
+Total Experience – 4 years 6 months
+
+Bank Of America – 1 year 6 months (Current Employer)
+
+Goldman Sachs    – 2 months
+
+Infosys Limited    – 2 years 10 months
+
+
+
+	Project         	:  BCTab (Baking Center Tablet)
+
+	Type	:  WEB Application/ IPad Application
+
+	Platform/Skills	:  Java, Spring, Hibernate/JPA, RESTful web services, Tomcat, WAS
+
+	Tools/Plugins	:  Eclipse, Maven, Perforce, SVN, Rally, PMD, Checkstyle, Sonar, Crucible
+
+	Role	:  Analyst Developer
+
+	Team Size	:  50
+
+Description          : Banking Center Tablet (BC Tab) is a proprietary application developed in-house with bank's proprietary sales and service strategy. This application is primarily utilized by Bank of America's banking center associates including front line lobby associates to provide customers a quality experience wherever and whenever they choose to bank. Application can be used as web application and as an IPad application. It deals with various customer related information, recent experiences, account details, transaction details, also customer relationship deepening activities.  
+
+	Responsibilities and Contributions:
+
+	Designing and development of main modules related to application.
+
+	Designing and development of the interfaces to the external systems, consuming SOAP web services.
+
+	Leading team members for development, interaction with the leads and onsite 
+
+	       coordinator to clarify any queries regarding the functionality.
+
+	•	Understanding of all the functional knowledge about the modules of the system and delivering  
+
+	       knowledge sessions to the team about the system.
+
+
+
+	Project         :  CC&B (Oracle Customer Care and Billing Utility)
+
+	Type             :  WEB Application
+
+	Platform      :  JAVA (Oracle)
+
+	Tool              :  Eclipse Software Development Kit
+
+	Role              :  Software Developer
+
+	Team Size    :  25
+
+	Responsibilities and Contributions:
+
+	Designing and development related to the customizations in the system.
+
+	Understanding the functional knowledge about the architecture and main modules of the system.
+
+	•	Configuration Controller for the project.
+
+	•	Installation and throughout management of the system.
+
+	Interacting with the POC (On-Site) to clarify any queries regarding the functionality.
+
+Project         :  MDM Appliance (Meter Data Management)
+
+	Type             :  WEB Application
+
+	Platform      :  JAVA (Oracle)
+
+	Tool              :  Eclipse Software Development Kit
+
+	Role              :  Software Developer
+
+	Team Size    :  8
+
+	Responsibilities and Contributions:
+
+	Designing and development of the interfaces to the external system (Oracle CC&B).
+
+	Interaction with the leads to clarify any queries regarding the functionality.
+
+	Installation of the system.
+
+	Understanding of the functional knowledge about the main modules of the system.
+
+
+
+Academic Profile
+
+B.E. (Hons.) in Computer Science and Engineering.
+
+Examination
+
+University
+
+Institute
+
+Year
+
+%
+
+B.E. Computer Science and Engineering.
+
+R.G.P.V. , Bhopal
+
+Medicaps Institute of Technology         &  Management, Indore
+
+2010
+
+76.8(Hons.)
+
+H.Sc.(P.C.M.)
+
+M.P.Board
+
+D.A.S.V , Indore
+
+2006
+
+76.2
+
+S.Sc.
+
+M.P.Board
+
+D.A.S.V , Indore
+
+2004
+
+72
+
+
+
+Academic Projects
+
+Major Project: MINE (Medi Caps Intranet Email System)
+
+Constructed an intranet mail website for Medi Caps Institute of Technology and Management where student, faculty and personnel of administrative block can send, receive mails among themselves and can also attach file of size up to 25 MB. We used JAMES (Java Apache Mail Enterprise Server) as intranet mail server, JAVA as front end and My SQL as back end.
+
+	Co-Curricular Activities	
+
+	Actively participated in Nexus Workshop conducted by ThinkLABS, SINE IIT Bombay in association with Techfest NEXUS 2010, workshop covered topics related to autonomous robots like various type of actuators, their drivers, sensors & feedback and interfacing them with microcontroller and wireless communication.
+
+	Successfully built the autonomous grid tracking point robot.
+
+	
+
+Personal Profile
+
+
+
+Brief Profile	              : I am a friendly person with co-operative and adaptive nature.
+
+Strengths		: Honesty and grasping power.
+
+Hobbies		: Playing Keyboard, singing.
+
+Interests		: Cricket, Football.
+
+Date of Birth		: 25 March 1989
+
+Languages known	: English, Hindi.
+
+Permanent Address	: 66, Kalani Nagar,
+
+                                             Aerodrome Road, Indore (M.P.)-452005
+
+Passport Status                : Active
+
+
+
+I hereby declare that the information given above is true to best of my knowledge and belief.                                              Date: 28 Mar 2015								Siddharth Patodi

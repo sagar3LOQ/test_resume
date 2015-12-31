@@ -1,0 +1,241 @@
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate                                             -  3.3year& current                                               
+
+Spring                                                    -  1.2 & current                                               
+
+Web Services                                       -  NA
+
+Core Java                                              -  3.3year                
+
+Design Patterns                                   -  work            
+
+UML design                                          -   NA
+
+Build Tools (Maven/Ant)                   -    Maven & Ant
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+Tomcat ,weblogic/webspeher 
+
+
+
+T.SRINIVAS.                                                                   Email Id : srinivasthangallapally@gmail.com
+
+                                                                                            Mobile   :+91-9492156103.               
+
+
+
+CAREER OBJECTIVE:
+
+
+
+Seeking a Professional Career to prove myself  in a challenging position in the development of software using Java  technologies, and to work hard sincerely 
+
+with determination towards goals and objective of company.
+
+
+
+PROFESSIONAL SUMMARY:
+
+
+
+	Having 3+ years of experience in Development of Software Applications.
+
+	Extensive experience in Core Java /JDBC / Servlets / JSP / Struts,Hibernate.
+
+	Having good exposure on MVC, Struts,Spring and Hibernate Frame Works.
+
+	Highly adaptable to any latest technologies.
+
+PROFESSIONAL EXPERIENCE:
+
+
+
+Working with KCLINK SOFTWARE TECHNOLOGIES PVT. LTD. 
+
+As Software Engineer from MAY 2011 to till date.
+
+																	Over 3.3 years of professional experience in Software  Development  using Java.
+
+
+
+EDUCATIONAL QUALIFICATION:
+
+MCA from Mother Theresa PG College,Ghatkesar with 64% in year 2011.
+
+B.SC from VivekaVardhini Degree College,Mancherial with 63% in year 2008.
+
+
+
+SKILLSET:
+
+Languages                                           :   Java.
+
+WebDesign/Technologies               : Servlets, Java Server Pages,
+
+                                                            Java Script, HTML.
+
+FrameWork Softwares                  : Struts,Spring.
+
+OR Mapping tool                            : Hibernate
+
+Application Server                         : Tomcat.
+
+Databases                                        : MySQL,Oracle.
+
+IDEs                                                : Eclipse,MyEclipse.
+
+Operating Systems                        :WindowsXP/7.
+
+																
+
+																
+
+																
+
+																PROJECTS:
+
+#3Project Title                    :  CommandoKennel.       
+
+ Client                                   :  PettyPub.
+
+ Duration                              : JULY 2013 to till date.
+
+Software technologies         :  Java, Spring, Hibernate, JSP, HTML.
+
+                                          Apache Tomcat, MySQL.
+
+ Role                                     :  Team Member
+
+	SCOPE OF THE PROJECT:
+
+	
+
+	                 Kennel is a helpful software product in providing the best automation for pet care
+
+	centers.  And it will provide the information for the customer and  to the organization to maintain 
+
+	records easily. It is involves three modules admin, customer and employee, every one possess their own login id and password. Each person has their own set of rights for viewing or changing data.
+
+	
+
+	RESPONSABILITES:
+
+	
+
+Involved in database integrity  with the application.
+
+Involved in design and coding of all Web tier and Business tier classes.
+
+		Developing the User Interaction Screen using HTML and JSP.
+
+		Developed Java Beans for Holding Data.
+
+		
+
+#2Project Title                    :  PeekApp         
+
+Duration                               : JUNE 2012 to JUNE 2013 .
+
+Software technologies         :  Java, Struts, Hibernate, JSP, HTML.
+
+                                            Apache Tomcat, MySQL.
+
+Development Tool(s)	     : Eclipse
+
+Role                                     :  Team Member
+
+
+
+SCOPE OF THE PROJECT:
+
+
+
+	The  PeekApp  is mobile applications  directory  portal.The  basic objective  of  PeekApp  portal  is  to  the  help  the users to discover  the mobile  applications across  the  application  market  places and provide the  application  suggestions  and  it should also   provide  the  ability  to  share  the  applications  across  the   social  media.  This   project involves redesigning   PeekApp   Portal with web 2.0  technologies, adding  new features, adding support various new mobile platforms, redesigning crawler and various other dependant activities.
+
+	   
+
+	RESPONSABILITES:
+
+Involved in database integrity  with the application.
+
+Involved in design and coding of all Web tier and Business tier classes.
+
+	   Implemented Action Form classes, writing struts-config files, validation files and 
+
+	resource bundles for Application creation module using Struts. 
+
+Involved in unit testing and bug fixing of all the modules in the application.
+
+
+
+
+
+
+
+#1 Project Title        :  School Management System (SMS)
+
+         Duration              :  MAY 2011 to till JUNE2012.
+
+	        Role                  :  Team Member
+
+		        Environment     :  JSP, Java,Struts  and Hibernate, Oracle
+
+        Development Tool(s)	  : Eclipse.
+
+		
+
+	
+
+SCOPE OF THE PROJECT:
+
+		
+
+	            School Management helps you with your daily school management routines and delivers you from your paperwork and also it helps to save your time and gets full control of your business with School Management System. In this we can view syllabus of corresponding class, can generate timetable, mark sheet and also deals with homework details, Registrations, holidays, exam schedule, event management, leave management, attendance details(login and logout times using swipe cards), etc. It includes three modules admin, staff and student, every one possess their own login id and password. Each person has their own set of rights for viewing or changing data. Admin can add, view and change data except marks sheets and homework. Staff can add and change only mark sheets and homework, and can view remaining data. Student can only view the complete data.
+
+	
+
+	RESPONSABILITES:
+
+
+
+	   Implemented the application using MVC pattern.
+
+	   Developed DAOs.
+
+	   Involved in writing POJO classes for relational mapping with tables.
+
+	   Involved in creating Hibernate mapping files.
+
+	   Involved in creating Spring cfg files.
+
+	   Adding services to business methods using AOP module.
+
+
+
+																PERSONAL DETAILS:
+
+																
+
+																Name                              : T.Srinivas.
+
+Father’s Name		:  VenkataRamanaiah.
+
+Date of Birth		:   15th  june 1988.
+
+Marital status		:   Single.
+
+Permanent Address	:   Q.no:82,II-Zone,  Mandamarri,
+
+                                           Dist:Adilabad-504231.
+
+Current Address            :   H No.23-76/A,Nethaji nagar,Kothapet,
+
+                                           DSNR,Hyderabad -500060.
+
+ Date:
+
+Place:                                                                                                       (T.Srinivas)

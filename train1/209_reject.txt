@@ -1,0 +1,271 @@
+7.2/9/5/60days.
+
+
+
+Spring:
+
+3 year
+
+Hib : 3 yrs
+
+Web services : 2 years
+
+
+
+Charan Kumar Reddy Kovvuru						
+
+Email: charan86@gmail.com
+
+Phone: +91-9959190945											
+
+
+
+Summary:
+
+ 
+
+Around 4.8 years of IT experience with focus on development and implementation of business applications. Has worked extensively on Java, JSP, Java Beans, Servlets, Struts, Hibernate, JDBC, HTML and J2EE. Has expertise in System Analysis, programming and developing Web-based applications using J2SE and J2EE. Strong exposure in SQL Queries and PL/SQL Programming. Has exposure to all quality processes involved in Software Development Life Cycle.
+
+Experience:
+
+
+
+Worked as a Software Engineer for Napier Healthcare Solutions, Hyderabad from September 2010 to June 2012.
+
+Working as a Senior Software Engineer for Steelwedge Technologies Pvt. Ltd., Hyderabad from June 2012 to till date.
+
+
+
+Educational Qualification:
+
+
+
+MCA from Osmania University, Hyderabad with 76% in 2008.
+
+B.Sc. (Computer Science) from Osmania University, Hyderabad with 69.7% in 2005
+
+Intermediate from Board of Intermediate Education, A.P with 67.2% in 2002.
+
+S.S.C from Board of Secondary Education, A.P with 65.8% in 2000.
+
+
+
+Technical Skills: 
+
+
+
+Core Expertise
+
+	J2SE
+
+	J2EE (Servlets, JSP, JSTL), 
+
+	SQL, PL/SQL, JavaScript, HTML 4.0, AJAX, jQuery 
+
+RDBMS / Tools
+
+	Oracle, Microsoft SQL Server
+
+IDE’s
+
+	MyEclipse, NetBeans, Eclipse
+
+Web/Application Servers 
+
+	Apache Tomcat 5.x/ 6.x, JBoss 5/7 Weblogic 10.3.X
+
+Frame Works
+
+	Struts 2, Hibernate, Spring
+
+Operating Systems
+
+	Windows.
+
+Source Control
+
+	CVS, SVN
+
+Open source Tools
+
+		ANT, log4j.	
+
+Reporting Tools
+
+		Jasper Reports
+
+Unit Testing Tools
+
+		jUnit
+
+Code Quality Tools
+
+		Sonar
+
+Code Review Tools
+
+		Crucible
+
+Web Services
+
+		SOAP , REST
+
+Projects:
+
+CSP (Cloud Services Portal)
+
+
+
+Title	:                CSP	 
+
+Team Size	:                9
+
+		Environment	:                Struts 2.x, JSP,  log4j, html, AJAX, JQuery, Hibernate 3.x, 
+
+			                 Spring 2.x, MS SQL Server 2005, JBOSS 5.x.   
+
+Role	:                Software Developer
+
+Project Description:
+
+The main aim of the project is to automatically build and deploy the core product of Steelwedge to weblogic domain by choosing the source attributes from the provided User Interface.  The UI provides the options to specify	 Application Server details to which the product to be deployed, Database on which the schema should be applied, LDAP properties for authentication purpose. This tool (project) is able to create domain in weblogic with the given inputs in the UI, create a empty DB, configure log4j, configuration for sending mails and LDAP configuration.
+
+Responsibilities:
+
+Receive requirements and specifications from the BA team.
+
+Involved in Developing the UI screens using JSP, Struts and JQuery.  
+
+Involved in Developing JQuery data tables for multiple screens.
+
+Developed Action classes, Validations which are parts of Struts Frame work.
+
+Involved in writing spring configuration file and struts configuration file.
+
+Involved in applying logging using log4j in the application.
+
+Unit testing
+
+Involved in team handling as a responsibility
+
+Code review.
+
+Involved in design.
+
+
+
+2. Infection Control 
+
+Title	:                Infection Control 
+
+Client	:                King Faisal Hospital (South Africa)
+
+Team Size	:                5
+
+		Environment	:                Struts, JSP, JDBC, log4j, html, AJAX, JQuery, Hibernate, 
+
+				Spring, MS SQL Server 2005, Jasper Reports, Glass Fish Server.   
+
+Role	:                Software Developer.
+
+Project Description:
+
+The main aim of infection control is to reduce the occurrence of infectious diseases. These diseases are usually caused by bacteria or viruses and can be spread by human to human contact, animal to human contact, human contact with an infected surface, airborne transmission through tiny droplets of infectious agents suspended in the air, and, finally, by such common vehicles as food or water. The user can capture Infection details, wound details, isolation details Provision to count the ward infections and type of organisms cultured. Organism type and resistance multi resistance and sensitivity details of the organism.	
+
+Responsibilities:
+
+Receive requirements and specifications from the BA team.
+
+Involved in Developing the UI screens using JSP, Struts and JQuery.  
+
+Involved in Developing JQuery grids for multiple screens.
+
+Developed Action classes, Form Beans and Validations, which are parts of Struts Frame work.
+
+Developed reports using Jasper Report tool.
+
+Involved in writing spring configuration file and struts configuration file.
+
+Involved in writing JUnit test cases.
+
+Involved in applying logging using log4j in the application.
+
+Involved in writing audit trial for every transaction.
+
+
+
+3. KFH-JEEVA – Online Healthcare Systems
+
+
+
+Title	:                KFH – JEEVA – Online Healthcare Systems 
+
+Client	:                King Faisal Hospital (South Africa)
+
+Team Size	:                23
+
+		Environment	:                Struts, JSP, JDBC, log4j, html, AJAX, Hibernate, 
+
+				MS SQL Server 2005, Jasper Reports, Glass Fish Server.   
+
+Role	:                Software Developer.
+
+
+
+
+
+
+
+Project Description:
+
+Jeeva is a high performance Health care Information system based on client server architecture. It caters to the healthcare industry and is designed keeping in mind the needs of large to medium sized hospitals and super specialty clinics. Using an integrated development tool and the competence of domain experts, Jeeva has been created as the next generation information management system for today’s healthcare needs. 
+
+Responsibilities:
+
+Involved in Developing the Modules like Laboratory, Out Patient, Doctor Consultation, Medical Records and Security. 
+
+Developed Action classes, Form Beans and Validations, which are parts of Struts Frame work.
+
+Developed reports using Jasper Report tool.
+
+Involved in Database Connectivity through JDBC.
+
+Unit testing.
+
+Involved in applying logging using log4j in the application.
+
+Involved in writing audit trial for every transaction.
+
+4. ProVenance
+
+Title 	  	:  ProVenance. 
+
+Client 	  	:  TIS, Mumbai.
+
+Role	  	:  Java Developer 
+
+Team Size		:  13
+
+Environment		:  Linux, Java, Struts, Jsp, My SQL, Eclipse, 
+
+		   Tomcat, spring, Hibernate, html, ajax.
+
+Project Description:
+
+	The Provenance project is a comprehensive e-learning and content management system. The system is developed to bring all the content related to learning networks and provide the users a facility to subscribe and view the content available. It also has a facility to author content and can send to Master Teacher for approval, subsequently the Master Teacher pay the compensations. The system was developing using the struts-spring integration and hibernates for the back-end support.
+
+Responsibilities: 
+
+	Implementing Business classes and Action classes.
+
+	Developing JSP pages.
+
+	Developing the hibernate mapping files.
+
+	Developing the struts, spring configuration files.
+
+	Involved in implementing the DAO layer using hibernate.
+
+	Involved in designing, coding and generating reports.
+
+	Unit testing.

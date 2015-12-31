@@ -1,0 +1,339 @@
+Spring:1 year& current
+
+Hib: 5 year
+
+Web services: 2 year& current
+
+Java: 8 year
+
+Build tools: maven andAnt
+
+Jboss/tomcat
+
+Db: oracle/sql server
+
+15/july 1st week
+
+                                                                        
+                		                
+
+                          Email:  HYPERLINK
+"../../../../../Downloads/maheshnarendula@gmail.com"
+maheshnarendula@gmail.com 
+
+	            Mobile: 91-9866028416	
+
+Name	Mahesh Narendula
+
+Experience Summary	Have 7+ years of Experience in core to software
+development, maintenance and production support using Java & J2EE.
+Currently working as Technical Lead(Developer-III) in RealPage India
+Private Limited, Hyderabad
+
+Expertise in Core Java, Struts, Hibernate, JDBC, Servlets, JSP EJB2,
+Spring MVC.
+
+Good Knowledge of RDBMS.
+
+Good Experience in Resolving Tickets and Change Requests within SLA.
+
+Excellent commitment, dedication and planning towards goal oriented
+tasks and problem-solving skills with good interpersonal and
+communication skills.
+
+Sun Certified Programmer for Java2 platform 1.4 
+
+
+
+SKILLS
+
+Operating Systems	Windows 9.x/2000 server, Unix
+
+Languages	 JAVA, J2EE
+
+Tools	Eclipse 3.x,  CVS,  Log4J,TOAD,SQL Developer, DB Visualizer, SQL
+Server Management Studio, HP Virtual User Generator, ANT, Apache Ivy,
+Maven, IntelliJ Idea, Git
+
+Domain Specific	Core Java, JDBC, Servlets, JSP, EJB, JBOSS, Tomcat, Java
+Script, Web services (Axis API), Restful Web service
+
+Frameworks	Struts, iBatis, Hibernate, Spring
+
+Job Scheduling Tools	Autosys, ESP Workstation
+
+Change Management/Incident Management	HP Service Center, BMC Remedy
+
+Enterprise Monitoring Tools	HP BAC(Business Availability Center), BMC
+BSM(Business Services Management), Introscope CA APM, SCOM
+
+
+
+Career Profile 
+
+Project Name	LeaseStar
+
+Client	RealPage India Private Limited
+
+Organization 	RealPage India Private Limited
+
+Period (Duration)	May 2014 to till date
+
+Tools/Components used	Struts, Spring MVC, iBatis, Restful Web service,
+JQuery, JBoss, Git, Apache Ivy
+
+Project Description	The LeaseStar Marketplace Suite is the most
+comprehensive online marketing solution that works to maximize a
+property’s leads to reduce costs per lease. As the premier online
+marketing solution for multifamily, the LeaseStar Marketplace Suite
+utilizes cutting-edge technology to facilitate apartment marketing
+including: apartment website design, search engine optimization (SEO),
+online leasing, apartment lead management, internet listing services,
+apartment posting tools, off-site leasing staff with a 24/7 contact
+center, social media and more.
+
+LeaseStar is the only fully integrated product suite of its kind in the
+multifamily housing industry. LeaseStar’s components are software
+agnostic, making it possible to integrate the suite with many property
+management systems. Top property management companies nationwide use the
+LeaseStar Marketplace Suite.
+
+
+
+Responsibilities	Involved in writing new controllers in Spring MVC.
+
+Involved in writing new Restful web services according to requirement.
+
+Involved in writing test cases.
+
+Involved in meetings as part of requirements gathering.
+
+Involved in preparing Low Level Design documents according to new
+requirements.
+
+Involved in build and deployments.
+
+
+
+
+
+Project Name	LBPW – Legal Billing Payment Workbench
+
+Client	Liberty Mutual
+
+Organization 	Trianz Holdings Private Limited
+
+Period (Duration)	January 2010 to May 2014
+
+Tools/Components used	Struts, JBOSS, EJB, JSP, Servlet, Hibernate
+,JNDI,XML(DOM,SAX),Web Services
+
+Project Description	LBPW is an application which maintains the invoice
+payment information that comes from law firms, court vendors and other
+vendors who provide services to liberty mutual policies.
+
+Types of invoices:-
+
+Paper Invoice.
+
+Electronic Invoice.
+
+Paper Invoice:-It is an invoice given to LBPW users in paper, where the
+user will entry manually through the application.
+
+Electronic Invoice: - It is an invoice given to LBPW automatically by
+daily jobs. These jobs pick the invoice file information from B2B.
+
+Invoices and Line items:-
+
+An each Invoice may have 2 types of line items one has information
+regarding fees, and the other is expenses. Fees is nothing but the
+normal payment which liberty will give to law firms or court vendors,
+and expenses will come whenever, the lawyer or vendor spend their money
+at the time of case running in court.
+
+
+
+Responsibilities	Involved in writing unit test cases.
+
+Involved in resolving production issues.
+
+Monitoring application jobs and troubleshooting issues within SLA.
+
+Testing the jobs according to unit test cases.
+
+Test case/data preparation, execution and verification of test results.
+
+Prepared technical and functional specification document based on
+requirements.
+
+Provided 2nd and 3rd level users support, locally and remote, utilizing
+the help desk software tool.
+
+Availability, Monitoring and First Response, On-call Production Support 
+
+Representative/Member's Technical problem resolution through incident
+tickets
+
+Production Server Log Monitoring for Errors
+
+Changes & Enhancements in Applications and Business Analysis
+
+Requirements analysis and documentation for maintenance activities in
+terms of defect fixing and Enhancements
+
+Performing the Service Desk function for assigned applications, acting
+as the Single Point of Contact to the business users and for following
+the incident and problem management processes.
+
+Must be available to provide reliable 24 x 7 support.
+
+Address Support issues and perform root cause analysis. 
+
+Involved in migrating application to deploy from Jboss4 to Jboss7.
+
+Testing Web services with SOAP UI
+
+Involved in writing VU Gen scripts as part of BSM/BAC monitoring.
+
+Involved in writing shell scripts for new jobs.
+
+Involved in internal audits and QMS activities
+
+
+
+
+
+Project Name	VAPDL (   HYPERLINK "http://www.qfund.net/" www.qfund.net 
+)
+
+Client	Check ‘N’ Go (   HYPERLINK "http://www.checkngo.com/"
+www.checkngo.com   ), Axcess Financial
+
+Organization 	Virinchi Technologies Ltd
+
+Period (Duration)	November 2008 to June 2009
+
+Tools/Components used
+Struts,JBOSS,EJB,JSP,Servlet,JDBC,JNDI,Hibernate,XML(DOM,SAX),Web
+Services
+
+Project Description	Qfund is a comprehensive solution custom-built to
+suit the business & regulatory requirements of organizations operating
+in the short-term financial solution industry in the United States of
+America. This entirely web-based product has proven implementations in
+over 5000 stores in the geographies of USA and Canada. The product
+encompasses almost all the segments of the short-term Financial Loan
+industry. Qfund covers Payday Loan, ULOC, Check Cashing, Installment
+Loan and many more products in a user-friendly application that
+facilitates all transactions from borrower registration to reporting.
+QFund is an integrated Loan processing store based application covering
+the entire Payday loan company processes that covers payday Loan
+processing, Installment Loan Processing, collections and court
+procedures involved in a payday loan company. Major functionalities
+other than Loan procedures include customer registration, setting up
+locations and related configurations, setting up security groups, rules
+and rule values, carrying out core transactions like advance / loan,
+rollover, buyback, payments etc., risk assessment integrating with Third
+party Risk Assessment agencies like Teletrack,Lexus Nexis,Veritec etc.,
+cash management, employee maintenance, report Generation, etc.
+
+
+
+Responsibilities	Performed low level design of the component/functional
+area.
+
+Involved in Development, Change request analysis, impact analysis, unit
+testing of the software modules.
+
+Developed JSP pages, Action Classes, DAO for the relative modules.
+
+Involved in coding for Cash Management Module
+
+Used JavaScript for client side validation
+
+Involved in transaction management,receipts,reports generation
+
+Interaction with client for business functionality
+
+Developing the web pages in struts from design documents
+
+Reviewing the code of other developers.
+
+Implemented Check scanner functionality for CheckCashing
+
+Migrated the application from struts1.0 to struts1.2
+
+
+
+
+
+Project Name	QFUND
+
+Client	Advance Payday (www.advancefinancial.biz)
+
+Organization	Virinchi Technologies Ltd
+
+Period (Duration)	June 2007 to November 2008
+
+Tools/Components used
+Struts,JBOSS,EJB,JSP,Servlet,JDBC,JNDI,XML(DOM,SAX),Web Services
+
+Project Description	
+
+Developed to address business requirements of short-term financial
+solutions industry operating in the USA & Canadian markets, QFund is a
+web-based application seamlessly integrating all the stores and
+administrative office. The application facilitates various users to
+perform variety of transactions through the lifecycle of a short-term
+loan. The various transactions that are available in the application
+include customer management, loan management, cash management, legal
+affairs management, collections management etc. The solution developed
+is a highly robust scalable and flexible solution which incorporates the
+complex laws and their variations among the various states of the
+country with a configurable business rules engine which governs
+processing of various transactions within the application.
+
+Responsibilities	Developed JSP pages, Action Classes, DAO for the
+relative modules.
+
+Coding, Unit Testing.
+
+Involved in coding for Cash Management Module
+
+Used JavaScript for client side validation
+
+Involved in transaction management,receipts,reports generation
+
+
+
+
+
+Project Name	CITI FINANCIAL INTERFACE (CFI)
+
+Client	Citigroup
+
+Organization 	Polaris Software Lab
+
+Period (Duration)	Oct 2006 to May 2007
+
+Operating System	Windows
+
+Tools/Components used	Java, Struts, JFP, Eclipse3.1, Oracle, Weblogic8.1
+
+Project Description	This project will build a common website platform
+Description for CFI companies to allow consumers, brokers and dealers to
+create loan applications. This website will also allow for the
+maintenance of brokers, broker products, dealers and dealer plans. 
+Website logon and authentication will be| accomplished by a
+user-id/password combination processed by the infrastructure provided
+with the JFP platform. 
+
+
+
+Responsibilities	Developed GUI ,Coding , Unit Testing
+
+
+
+.
+

@@ -1,0 +1,276 @@
+Amit Verma
+
+Email:   HYPERLINK "mailto:aries.amitverma@gmail.com" 
+aries.amitverma@gmail.com 
+
+Mobile: +91-8897899093
+
+
+
+ CAREER SUMMARY
+
+JAVA/J2EE Developer with 5 years of Information Technology experience.
+In-depth knowledge of object oriented programming and Java/J2EE
+technologies. Areas of expertise include JAVA, J2EE, Servlets, JSP, JMS,
+Struts 2.0, Spring 3.x, EJB, Web Services, Hibernate and RDBMS. Have
+Strong front-end development skills in JSP, JavaScript, JQuery, Ajax,
+JSON, HTML, and XML. Having good knowledge of SDLC. Developed and
+mentored new team members by providing application and technical
+knowledge. Detailed oriented with strong problem-solving, work ethics,
+communication, interpersonal and teamwork skills.
+
+.
+
+ Technical Skills/Competencies
+
+Web Technologies	J2EE, Spring 3x, Struts2.0, Hibernate, JSP, Servlets,
+EJB, Web Services, JavaScript, JQuery, AJAX, JSON, HTML, and XML
+
+Languages	Core Java, PL/SQL
+
+Database	Oracle 10g,11g
+
+Tools & IDE	Putty, WinSCP, WinMerge, SQL developer, Eclipse, STS, 
+JTest, jconsole, MQC, ITSM, Clear Case, JIRA, QC
+
+Web Servers	Web Logic 11g, Tomcat 7
+
+Operating Systems	Windows XP/7, Unix
+
+Design Patterns	MVC, DAO, DTO, Business Delegate, Session Façade,
+Service locator, Singleton
+
+Version Control	SVN
+
+
+
+EMPLOYMENT SUMMARY                                                      
+
+
+         Duration	Designation	Organization	Location
+
+       3.1 year	         Project Engineer	        Wipro Technologies 	  
+       Hyderabad
+
+       1.9 Year	         Senior Analyst	 Wells Fargo India Solutions	   
+      Hyderabad
+
+
+
+Project Exposure	
+
+Clients	Wells Fargo
+
+Project Name	eUpoad-EFS
+
+Project Description	eUpload is a web application, which is used across a
+digital platform to provide WF customers to upload their documents
+online to full fill their application.
+
+Project Duration	Dec-2014 to till date
+
+Team size	2(offshore) , 2 (onsite)
+
+Role	Module Developer
+
+Responsibilities	Business requirement clarification and  communications 
+
+Analysis and design of FSD
+
+Development of use cases and Unit Testing
+
+System integration  and SIT
+
+Resolving post production fall outs
+
+Performance analysis.
+
+
+
+Environment	Java/J2ee, Spring 3.x(Core and MVC), JQuery,JSP, BlueImp
+Plugins, Web services, Jms and Tomcat 7
+
+ 
+
+Clients	Wells Fargo
+
+Project Name	Online Application Status and SMS alerts
+
+Project Description	OAS is an application, which is used across a
+digital platform to provide application status for the online banking
+customers. The WF customers can see status of their applications by
+online banking. This project includes the capability of status alerts by
+SMS and emails for WF customers.
+
+Project Duration	Dec-2013 to till date
+
+Team size	2(offshore) , 3 (onsite)
+
+Role	Module/apps Developer
+
+Responsibilities	Business requirement clarification and  communications 
+
+Analysis and design of FSD
+
+Development of use cases and Unit Testing
+
+System integration  and SIT
+
+Planning for build and deployment
+
+Resolving post production fall outs
+
+
+
+Environment	Java/J2ee, Spring 3.x, Web services, Jms, Oracle 11g,Tomcat
+7
+
+Clients	FedEx
+
+Project Name	GATEKEEPER PHASE II
+
+Project Description	Gatekeeper Phase II is a Web-based application. It
+is a highly usable system at various FedEx locations across the globe.
+The application is used for maintaining  FedEx employees transaction
+information as well as inventory of physical assets in use at FedEx
+Express locations and international locations; it provides reports,
+transaction processing and other utilities. This application is
+developed to interact with several other FedEx applications to get data
+and to feed compliance reports. This system is designed to support 800
+concurrent user requests at any point of time. Performance and
+availability is the key concern of this application and at any point of
+time any transaction should not take more than 4 seconds.
+
+Project Duration	15-Dec-2011 to till date
+
+Team size	11
+
+Role	Module Developer
+
+Responsibilities	Involved in various phases of Software Development Life
+Cycle (SDLC) of the application like Requirement gathering, validating
+SRS, DDS, Design, Analysis and Code development, Unit testing and bug
+fixing,  
+
+Migrated the entire Gatekeeper Phase –I application from Struts 1 to
+Struts2.
+
+Developed complete module right from the scratch.
+
+Developed and implemented the MVC Architectural Pattern using Struts 2
+Framework including JSP, Servlets and Action classes.
+
+Proficiently created/modified new stored procedure, indexes, sequences,
+tables for application. 
+
+Created interactive reports in PDF/EXCEL format for all types of
+reports.
+
+Added functionality to send email with PDF as an attachment. 
+
+Configured the web logic server in clustered environment in DEV, TEST
+and PLA level and deployed the application.
+
+Created shell script in server side which is used to invoke various
+application related batch job.
+
+Created a Batch job which will interact with LDAP in order to get up to
+date FedEx employee data.
+
+Implemented static service module which is an application level caching
+mechanism for better performance.
+
+Implemented a web service client from WSDL (SOAP based Web Service)
+using eclipse web service wizard to interact and get employee Training
+data from 3rd party system called CTMS.
+
+Implemented Java/J2EE Design patterns like singleton, Data Transfer
+Object, Data Access Object, Service Locator and Business Delegate. 
+
+Worked with QA team for testing and resolved n numbers of defects. 
+
+Build a team with juniors members, shared application and technical
+knowledge and assigned worked to them in order to achieve strict
+deadlines.
+
+Supporting this project as a team leader.
+
+Environment
+JAVA/J2EE,Struts2,Hibernate,EJB,JMS,POI,ITEXT,JSP,Servlet,AJAX,Javascrip
+t,Html,CSS,Weblogic, Oracle 11g
+
+
+
+Client	FedEx
+
+Project Name	FEDEX_UNIFIED_SUPT_11-12
+
+Project Description	The project involves, providing Maintenance and
+Support to a Web-based application named as Gatekeeper. The application
+was used for maintaining the inventory of physical assets in use at
+FedEx Express locations through its transaction management
+functionalities. The system is associated with several third party
+systems which includes WSSO, ROADS-DSS, STAR-FAMIS and LSSI.
+
+ 
+
+Team Size	4
+
+Role	Java/j2ee Developer
+
+Project Duration	01-Jun-2011 -  28-May-2012
+
+Responsibilities	
+
+Worked on bug fixing and enhancements on change requests.
+
+Analyzed and responded well on all the critical issues.
+
+Provided on call support for both level 2 and level 3.
+
+Interacted with the customer and responded their queries and weekly
+updated the project status to the customer.
+
+Daily performed server and application health check up.
+
+Written Unit Test cases and performed unit testing, regression testing.
+
+Was a part of move to production process which includes deployments of a
+new and stable release of gatekeeper application by following FedEx
+corporate level application deployment standards and tested it
+thoroughly before committing to the customer
+
+Environment	JAVA/J2EE,Struts 1.0,Hibernate,EJB,weblogic,Oracle 10g
+
+
+
+Education and Certification	
+
+B.E (Computer Science & Engineering) from UNIVERSITY INSTITUTE OF
+TECHNOLOGY-RGPV, M.P in 2010
+
+Certified Java SE 6 Programmer(OCPJP)
+
+Professional training on Java/J2ee, Oracle, SQL and PL/SQL
+
+H.S.E (C.B.S.E)  in 2004
+
+S.E (C.B.S.E) in 2002
+
+ Personal Profile
+
+Date of Birth	23rd  June 1986
+
+Passport No	J2421561 (valid up to 10/10/2020)
+
+Languages Known	English,Hindi
+
+Present Address	Kondapur,Hyderabad,AP-500081			:	Hardworking dedication
+and good Communication skills
+
+
+
+                                                                
+
+                      
+

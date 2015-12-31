@@ -1,0 +1,211 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                  -  1 year
+                                    
+         
+
+Spring                  
+                                  -  1.5
+years &
+current                                �
+�               
+
+Web
+Services                                
+        -  1.5 year &
+current                                �
+�              
+
+Core
+Java                                  
+             -  2.5years
+
+Design
+Patterns                                
+    -    singleton
+
+UML
+design                                 
+          -    
+
+Build Tools (Maven/Ant)                    -   
+Maven   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Apache Tomcat /eclipse/jboss/weblogic
+
+DB:oracle
+
+				
+
+ASFIYA TABASSUM SHAIK
+
+  HYPERLINK "mailto:asfiya.12791@gmail.com"  asfiya.12791@gmail.com 
+
++91-8142922400
+
+OBJECTIVE:
+
+	
+
+To utilize the experience and knowledge gathered during past years, to
+create new value in different functionalities of Technological Services
+over the time period, to participate, lead, show growth in quantitative
+terms, and make company grow along with me.
+
+	
+
+EXPERIENCE SUMMARY:
+
+Currently working as a Software Engineer for PROKARMA SOFTECH Ltd from 2
+and half years.
+
+Extensive experience in MVC Architecture, Spring, hibernate, Wicket,
+Angular JS Web based Applications, standard Applications using JAVA,
+J2EE.
+
+Actively involved in various project phases: Functional Specification,
+Business Logic and Design, Identifying the key Abstract Classes, Coding
+and Documentation.
+
+Highly skilled in developing Client/Server applications using JAVA,
+J2EE, SPRING, WICKET, XML, JMS, and HIBERNATE (Object-Oriented
+programming concepts).
+
+Well skilled in using AGILE and SMART methodologies.
+
+Reliable, resourceful and efficient team player with leading capability,
+able to adapt quickly to new environment
+
+EDUCATION:
+
+Education	University	College	Marks Secured	Year of Passing
+
+B.Tech	Jawaharlal Nehru Technological University	Prasad.V.Potluri
+Siddhartha Institute of Technology	  70%	2012
+
+Intermediate	            - 	Sri Chaitanya	88.1%	2008
+
+TECHNICAL SKILLS:
+
+LANGUAGES	 Core Java, Advanced Java
+
+DATABASES	 Oracle, SQL
+
+TECHNOLOGIES		 HTML, XML, XML-Beans, XMF, CSS, JS , JAXB
+
+J2EE TECHNOLOGIES		 JDBC, JSP, JMS.
+
+FRAMEWORK		Spring, Wicket, Angular JS
+
+ORM TOOLS	Hibernate.
+
+						
+
+PROJECT DETAILS (COMPLETED AND ON-GOING)
+
+ 
+
+PROJECT NAME            :   Driver Qualification System (Union Pacific
+Rail Rd. OMAHA.)
+
+PROJECT DURATION    :  June’2013 – till date
+
+
+
+The DQS system is intended to recruit drivers.  It allows the driver to
+fill all the forms to go through the qualification process to qualify
+them selves to drive a vehicle. Administration department  verifies the
+forms to qualify the driver based on the information provided by the
+driver.  Once the driver gets qualified they are allowed to drive the
+vehicle and the driver needs to go through the requalification process
+if any form gets expired or medical exam or drug exam failed.  This
+driver goes through the qualification process again to drive the
+vehicle.
+
+               This system interacts with other systems filenet, FTP
+server, and other applications to retrieve the data for the drivers.
+
+
+
+Responsibilities:
+
+As a software engineer performed following duties
+
+Configuration for XMF service.
+
+Converting XML to object and vice versa using XML-Beans, JAXB
+
+Involved in configuration of timers and schedulers using Spring, IOC and
+spring JDBC.
+
+Involved in coding of Business layer , UI layer.
+
+ Involved in Unit Testing.
+
+
+
+Environment: Windows XP, XML-Beans, JMS, Spring, Spring  JDBC, SQL
+Server, Eclipse IDE, Spring MVC, angular JS.
+
+
+
+
+
+  PROJECT NAME     	  :   HELP DESK		
+
+				
+
+
+
+  PROJECT DURATION   :   Sept’ 2012- Jun’ 2013
+
+
+
+
+
+Help Desk application helps employees to create a ticket for the issues
+they are facing in any particular department. When a ticket request is
+raised a mail is sent to the concerned person of that particular
+department and the issue will be resolved once it is resolved the ticket
+will be closed by that particular department person.
+
+
+
+Responsibilities:
+
+Developing UI pages for the users to create the tickets using HTML 5 and
+CSS 3.
+
+Involved in the project development from the scratch.
+
+Involved in configuration of the project.
+
+Worked on the business layer and database layer.
+
+
+
+Environment:
+
+	Windows 7, Wicket, Spring MVC, Hibernate, Spring IOC.
+
+
+
+TRAINING PERIOD:  
+
+Jun’ 2012 – Sept’ 2014
+
+	
+
+PERsonal dossier:
+
+Date of Birth		:	12th July 1991.
+
+Marital Status	         :	Single.
+
+Languages Known	:	English, Telugu, Urdu & Hindi. 
+

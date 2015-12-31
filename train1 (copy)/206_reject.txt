@@ -1,0 +1,286 @@
+Krishnakumari Parvatha                                                                                                Mobile : +91 9553431188
+
+Software Engineer                                                                                                 Mail id : ki2orkittu@gmail.com
+
+
+
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate                                              -  2 months
+
+Spring                                                     - 3 year & current                                                
+
+Web Services                                      -  1 years  &current(REsT)                                              
+
+Core Java                                               -  3year
+
+Design Patterns                                    -    singleton
+
+UML design                                           -    
+
+Build Tools (Maven/Ant)                    -    Maven
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+Tomcat,eclipsejboss
+
+
+
+
+Ok for bitchemy
+
+
+
+
+
+Krishnakumari Software Professional
+
+ 
+
+			Having 3 years of experience in Software Analysis design and Development
+
+			Strong Object Oriented design skills
+
+			Experience working with Java/J2EE
+
+	Experience working with frameworks like Wicket, Spring, Angular JS, Require JS, HandleBar JS .
+
+	Having experience in using the IDE Tools like Eclipse
+
+			Experience working with Maven Project Management Tool.
+
+			Developed SOAP, REST services and event handlers 
+
+			Having Good Communication skills, Creative thinking, Quick Learner and a Results Oriented approach
+
+			Having experience working on Agile development model.
+
+
+
+
+
+
+
+Application Development and Design
+
+JAVA / J2EE
+
+Spring
+
+Hibernate
+
+Oracle Sql
+
+Web Services
+
+Javasrcipt
+
+Jquery
+
+Wicket
+
+Angular Js
+
+Maven
+
+Jaxb
+
+Agile
+
+
+
+Education Details
+
+Gokaraju Rangaraju Institute of Engineering and Technology- B. Tech (CSE), 2011, 67 %
+
+Smt. Durgabai Deshmukh Govt.(W)Technical Training, Institute- Diploma(CSE), 2007, 68.04%    
+
+ Mani Jeremiah High School-SSC, 2004, 72.16%
+
+
+
+Technical Skills
+
+
+
+Area
+
+Skills
+
+Special Skills
+
+Client interaction, Requirement Study and Design.
+
+Operating Systems	
+
+Windows7/XP/Vista
+
+Programming Languages
+
+Java
+
+Software/IDE
+
+Eclipse ¸Edit Plus, Note Pad++ 
+
+Databases
+
+Oracle 
+
+Project Management Tool
+
+Maven
+
+Version control tool
+
+SVN. 
+
+Project development model and tools
+
+Agile methodology and version one
+
+Web Technologies
+
+Wicket , HTML, Angular Js
+
+Technologies worked
+
+Spring(exp on Spring IOC, Spring jdbc), SOAP Services,
+
+REST Services, XSLT, Jaxb (xml bindings), IndexedDB, Angular JS.
+
+Testing
+
+Junit, Testng, mocikto, dbunit  
+
+
+
+
+
+Employment History 
+
+Name of the Company
+
+Designation
+
+Duration 
+
+
+
+Prokarma Softech Pvt Ltd
+
+
+
+Software Engineer
+
+	August  2011 to till date
+
+
+
+
+
+Project Title	
+
+ITOS
+
+Client
+
+Union Pacific Railway Roads (UPRR),USA.
+
+Duration
+
+December 2011 to till date
+
+Location
+
+Hyderabad, India
+
+Role
+
+Team Member
+
+Tools
+
+Apache Wicket, HTML, Java Script, Angular JS, Spring, XML Data binding technologies (JAXB), Core Java, JMS, SOAP Services, Junit, Maven 2,  Eclipse
+
+
+
+Description:  It is Independent project. OASIS is the legacy system of client which is going to be replaced by ITOS. ITOS represents domain functionality, it consists of several feature groups that would be implemented in Web ,Mobile, Handheld. 
+
+The main functionalities that are completed and I worked on are
+
+Ingate:   Developed UI pages and service that  process the request and allows the Equipment to enter into Terminal.
+
+Parking:  Part of UI which helps the user to design and manage the parking space in the Terminal .
+
+Load Planning: Developed End to End functionality of  Empty Equipment .
+
+Workorders: Given me ownership of end to end  development   of Flip functionality. 
+
+Outgate: Developed the screens where user can get code to outgate the Equipment.
+
+Admin Screen: Developed  Five End to End core functionalities
+
+Event processor:  These are the event processors to make TCS and ITOS in synchronize. 
+
+
+
+Services:  I have been part of this SOAP service to process the requests.
+
+
+
+
+
+
+
+Roles & Responsibilities:
+
+		Understanding and analyzing the requirements  for developing.
+
+		Reaching the goals in short span.
+
+		Given KT on framework and functionalities for newbie in Project.
+
+		Known for Client interaction and Testing peers development
+
+		Active participate in functionality discussion and bug fixing.
+
+		Quick learner and Self-motivated  while developing in new technology.
+
+
+
+
+
+
+
+Personal Details
+
+Date of Birth
+
+03 September 1989
+
+Sex
+
+Female
+
+Nationality
+
+Indian
+
+Marital Status
+
+UnMarried
+
+Languages Known
+
+English, Hindi, Telugu
+
+         
+
+
+
+
+
+                                                                                                        (Krishnakumari)

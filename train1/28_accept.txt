@@ -1,0 +1,283 @@
+My current CTC is 17 LPA.  and I am expecting 25 LPA. 
+
+My notice period is 1 month.
+
+Tarun Agrawal
+
+#1308 AGATE My Home Jewel, Madinaguda, Hyderabad 500549
+
+Contact: +91-9985783087; E-Mail: mail2tarunagrawal@gmail.com; DOB: 11th
+August, 1984
+
+PRINCIPAL SOFTWARE ENGINEER 
+
+PROFILE
+
+Competent and result oriented professional offering 7.5 years of
+sterling experience in product development currently serving as
+Principal Software Engineer with PegaSystems Worldwide Pvt Ltd, India.
+
+Certified Scrum Master and currently playing role of the same in the
+team.
+
+Excellent exposure in designing and implementing multi-threading
+solutions.
+
+Excellent exposure in designing and implementing security features such
+as URL tempering, CSRF, Cross Site Scripting etc. 
+
+Excellent exposure in multi tenancy development and analysis.  
+
+Excellent Exposure in designing and implementing caches for efficient
+processing.
+
+Excellent Exposure on performance analysis and finding bottlenecks.  
+
+Exposure on distributed technology such as Hazelcast, EHCache etc.
+
+Received Employee Achievement Award for outstanding contribution for
+PRPC product.
+
+Received Pega Innovation Award for contributing toward new product ideas
+and build POC for the same.
+
+ Received coveted R.I.S.E (Reorganization of Individual Superior Effort)
+award for tremendous effort and contribution in WDA (Wholesale Demand
+Accounting) project.
+
+ Received Best Performance award for extraordinary performance in
+Technical Training Program. 
+
+Received SPOT award for dedication and contribution for Payments
+Director Monitoring Tool.
+
+ Sun certified Java programmer with 95%.
+
+ A team player with excellent interpersonal and communication skills
+with an ability to work under high pressure deadlines.
+
+TECHNICAL SKILLS
+
+PROFESSIONAL EXPERIENCE
+
+Pegasystems Worldwide Pvt Ltd                                           
+                           		since Sept ‘2011
+
+	
+
+Pegasystems offers PRPC platform and I have worked various areas of PRPC
+it includes Security, Performance and Multi tenancy. Following are some
+highlights.  
+
+Worked with on improving performance analysis of existing product
+feature and removing bottlenecks. 
+
+Designed and implemented URL tempering security feature by providing
+white listing of parameters. 
+
+Designed and implemented CSRF mitigation. 
+
+Designed and implemented PRPC multi-threading processing. 
+
+Re-design existing product engine caches to support multi-tenancy. 
+
+Designed and implemented cluster wide locking utility using Hazelcast. 
+
+HSBC Technology Services                                                
+                          			since June ‘2007
+
+	
+
+              Senior Software Engineer
+
+            
+
+             	Project Exposures
+
+IBM Payments Directors: The IBM Payments Director (IPD) suite
+facilitates the real-time, transaction-based processing of payments with
+all the services to support the presentment and settlement cycle. This
+is underpinned by a robust business rules engine that enables a rapid
+response to any business continuity threat to the settlement process and
+supports real-time integration with fraud applications. 
+
+HSBC North America has customized IPD for its requirements and deployed
+it to demise existing Check Processing Control System.
+
+Project Title	IPD(IBM Payments Director)
+
+Client	HSBC BANK, North America
+
+Technology	Java, Linux, Mainframe, XML
+
+Role		Customization and enhancement.
+
+Team Size	11 
+
+
+
+	Responsibility	Customization of the product to meet HSBC specific
+needs.
+
+Unit testing.
+
+Design and developed monitoring tool for effective monitoring of the
+system.
+
+Design and developed interfaces to communicate with other check
+processing and fraud systems.
+
+
+
+
+
+Project Title	Remote Desktop Capture (RDC)
+
+Client	HSBC BANK, North America	
+
+Technology	Java, Dot Net, Windows Server
+
+Role	Requirement gathering and analysis, Development, Testing and
+Quality Management.
+
+Team Size	4
+
+Description	Remote Desktop Capture (RDC) product allows retail and
+corporate customers to send check images and supporting data
+electronically to HSBC Bank. 
+
+
+
+Responsibility	Design
+
+Coding.
+
+Unit Testing 
+
+Preparing environment for unit-testing. 
+
+Preparing Test plan 
+
+Run the IST files and verify the results
+
+
+
+Project Title	Deposit Servicing System (DSV)
+
+Client	HSBC BANK, North America.
+
+Technology	Java, Mainframe, MQ series.
+
+Role	Requirement gathering and analysis, Development, Testing and
+Quality Management.
+
+Team Size	3
+
+Description	The Deposits Servicing System (DSV) supports the creation
+and maintenance of HSBC Global Payments and Cash Management’s
+wholesale demand deposit account portfolio on the Wholesale Demand
+Deposit System (WDA).  As such, DSV provides Commercial customer setup,
+Account opening, maintenance and servicing, Globalization (e.g.,
+grouping of accounts for pricing, interest, limits and reserves),
+Transfer relationships (e.g., sweep & concentration), Notional Netting
+relationships, Back value transaction entry and 
+
+General inquiry.
+
+
+
+Responsibility	Requirement gathering. Developed requirement
+understanding document and prototype to capture all functional
+requirements.
+
+Developed UML diagrams to capture application’s high and low level
+design.
+
+Code development.
+
+Developed cache service to maintain less frequently data at server and
+also developed a scheduler program which invokes scheduled cache
+services at configured time.
+
+Complete end to testing with Mainframe programs. 
+
+Software Configuration Management.
+
+
+
+Project Title	Client Servicing System (CSV)
+
+Client	HSBC BANK, North America.
+
+Technology	Java, Mainframe, MQ.
+
+Role	Requirement gathering and analysis, Development, Testing and
+Quality Management.
+
+Team Size	3
+
+Description	The Client Servicing System (CSV), web based application, is
+a front end agent to the Deposits Servicing System (DSV) which is used
+by HSBC Global Payments and Cash Management to create and maintain WDA
+accounts on the Wholesale Demand Deposit System (WDA). As such, CSV
+provides the necessary work flow management, input forms and approval
+methods automating the set up of new customers and accounts onto WDA.
+
+
+
+Responsibility	Requirement gathering. Developed prototype to capture all
+functional requirement.
+
+Developed UML diagrams to capture application’s high and low level
+design.
+
+Code development.
+
+Developed custom tag library to reduce redundancy and improve
+productivity.
+
+Complete end to testing with Mainframe program. 
+
+Software Configuration Management.
+
+
+
+Project Title	Management Information Reporting System (MIR)
+
+Client	HSBC BANK, North America.
+
+Technology	Java
+
+Role	Requirement Development, Testing and Quality Management.
+
+Team Size	3
+
+Description	Management Information Reporting System is integrated WDA
+product to generate
+
+reports for business and customers.
+
+
+
+Responsibility	Code development.
+
+Preparing Test plan 
+
+Reviewing peer codes and UTP’s
+
+EDUCATIONAL AND PROFESSIONAL CREDENTIALS
+
+                                              Bachelor of Engineering
+(Computer Science) 2007 with 72%
+
+                                                             Devi Ahilya
+Vishvidhalaya, Indore
+
+XIIth – 2002 with 84%
+
+Govt Boys. H.S.S., MP Board
+
+Xth – 2000 with 68%
+
+Sharda Vidya Niketan, MP Board
+

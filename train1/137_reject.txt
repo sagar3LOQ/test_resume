@@ -1,0 +1,324 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate            -  6years
+current                                �
+�              
+
+Spring                 -  6
+years&current                             �
+�                  
+
+Web Services        -  Not
+worked                                 
+               
+
+Core Java                   6.8 years
+
+Design Patterns             -   6.8 years  
+
+UML design                    -    no
+
+Build Tools (Maven/Ant)         -    maven /Ant
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Jboss/tomcat/weblogic/eclipse
+
+DB: mysql/oracle
+
+Madhu Avula
+
+Senior Software Engineer
+
+Location: Hyderabad,India
+
+Phone: +91-7799814477
+
+Email: madhu.avula@gmail.com
+
+Summary
+
+Over 6.8 years of professional experience in Systems Analysis, Design,
+Development of various Client/Server and Internet Applications.
+
+Experience in Waterfall Model, Test Driven Development , and Agile
+methodologies such as  Scrum, and Kanban.
+
+Knowledge in Application Design and Development using , OOP, MVC  and
+J2EE.
+
+Extensive experience in developing web applications using, Java,
+J2EE,JSP, Servlets,  JDBC,  Struts, Spring MVC, Spring IOC, Spring JDBC,
+Hibernate,  Javascript, JQuery, JSON,  XML, HTML and CSS.
+
+Expertise in developing the multi-tier web applications in both Spring
+MVC and Struts MVC that ensures clear separation of layers and
+application development.
+
+Good experience in using POI, ITEXT, and GSON library.
+
+Strong experience in RDBMS concepts, Oracle and Microsoft SQL Server.
+
+Good experience in using JQuery Plugin like JQGrid, JQuery UI etc.
+
+Strong knowledge in designing and coding stored procedures, Triggers and
+Functions using PL/SQL.
+
+Possess Server experience with Tomcat Server.
+
+Extensively used different IDEs like Eclipse, STS .
+
+Proficient in unit testing the application using JUnit, Mockito.
+
+Experience in using ANT ,MAVEN and Log4j tools.
+
+Implemented efficient business logic by using various Design Pattern
+like Singleton, Abstract factory, Factory method etc.
+
+Used SVN and GIT for Version Control.
+
+Good communication skills to deal with people at all levels.
+
+Self-motivated team player with good Analytical, Logical and Problem
+Solving ability. 
+
+Professional Qualification:
+
+Senior Software Engineer in Prokarma Softech Pvt. Ltd., from July' 2011
+to till date.
+
+Software Engineer in Sodel Software Solutions Pvt. Ltd., from Jan 2008
+to June'11.
+
+Educational Qualification:
+
+B. Tech.  in Information Technology from JNTU, Hyderabad India.
+
+Technical Skills:
+
+J2EE Technologies: 
+Servlets,JSP,JDBC,Struts,Hibernate,Spring,LOG4J,JUnit,Mockito,GSON,
+
+Languages: 	Java, SQL, and PL/SQL
+
+IDE Tools: 	Eclipse, STS
+
+Tool:				Ant, and Maven 
+
+Web Technologies: 	JavaScript, JQuery, CSS, HTML,  AJAX, XML and JSON
+
+Databases: 	Oracle, Microsoft SQL Server
+
+Web Application Servers: 	Apache Tomcat,JBoss                           
+               
+
+Version Control Tools: 	Svn and GIT
+
+Operating Systems: 	Windows 8/7/ XP and UNIX
+
+Web Debugging Tool:	Firebug, IE developer Tool and Chrome developer tool
+
+Bug Tracking Tool :	Quality Center, JIRA
+
+Project Management Tool: 	Version One, and JIRA
+
+Professional Experience:
+
+Prokarma Softech Pvt. Ltd, Hyderabad                                    
+                                                    Aug’13	 - Till Now
+
+Senior Software Engineer
+
+PCA(Purchasing Card Application)
+
+Client: Union Pacific
+
+Description:The purpose of the Purchasing Card Application is to combine
+a new web data entry system for processing Visa Credit Card expenses.
+The application enables users to manage their expenses and provides them
+with the ability to adjust costing components, ultimately driving the
+appropriate values(changes) to the General Ledger. Accountablity of
+expenses is addressed within the application by an additional level of
+sign-off, namely an assigned Approver. Card Administators control User
+and Card entries within the system. They are also able to run System
+Reports to evaluate the User Group productivity, as defined by AcctPay.
+
+Responsibilities:
+
+Involved in Sprint Planning day and Sprint Retrospective day for the
+backlogs.
+
+Used Spring framework for MVC, dependency injection as well as
+transaction management.
+
+Used Hibernate framework for DAO.
+
+Developed front pages using JSP, HTML,JSON, JQuery and JavaScript.
+
+Developed business components, UI components, utility classes, action
+classes and form beans. 
+
+Written Unit test for Controller, Service and DAO layers by using
+Mockito.
+
+Written Complex SQL queries, Stored Procedures  and Views.
+
+Used conversion from JSON to string and vice-versa through GSON library.
+
+Developed and debugged the application using Eclipse.
+
+Used Maven to build war files and also add the dependencies in POM.xml
+
+Used Quality Center for the issues reported by the testing team.
+
+Used SVN for version control.
+
+Troubleshooting, debugging and resolving high priority production issues
+.
+
+Environment: Tomcat 6.0, Java, Spring, Hibernate, JQuery, Javascript, 
+JSP, HTML, CSS, AJAX, JSON, JMS, Oracle, SVN , Eclipse STS , SQL
+Developer, Putty, Quality Center, Version One, Web debugging tool like
+Firebug, IE and chrome developer tool.
+
+Project: GatewayConnect                                                 
+                                                             June’11 -
+July’13
+
+Client: Union Pacific
+
+Description: GatewayConnect Agilink –  GatewayConnect project that is
+being developed to enhance Agilink infrastructure and implementation to
+be able to migrate mainframe message volumes to Agilink. Transentric's
+Agilink service, an intelligent message management system, connects
+their trading community and allows electronic transaction exchange with
+any trading partner, in any format or protocol.
+
+Responsibilities:
+
+Involved in Sprint Planning day and Sprint Retrospective day for the
+backlogs.
+
+Used Spring framework for MVC, dependency injection as well as
+transaction management.
+
+Used Hibernate framework for DAO.
+
+Developed front pages using JSP, HTML,JSON, JQuery and JavaScript.
+
+Design patterns like Singleton and DAO are implemented in business
+layer. 
+
+Developed business components, UI components, utility classes, action
+classes and form beans. 
+
+Written Unit test for Controller, Service and DAO layers by using
+Mockito.
+
+Used conversion from JSON to string and vice-versa through GSON library.
+
+Developed and debugged the application using Eclipse.
+
+Used Maven to build war files and also add the dependencies in POM.xml
+
+Used Quality Center for the issues reported by the testing team.
+
+Used SVN and GIT for version control.
+
+Troubleshooting, debugging and resolving high priority production issues
+.
+
+Environment: JBoss Server, Java, Spring, Hibernate,Mockito, GSON,
+JQuery, Javascript,  JSP, HTML, CSS, AJAX, JSON, JMS, Oracle, GIT,
+Beyond Compare, Eclipse STS , SQL Developer, Putty, Quality Center,
+Version One, Web debugging tool like Firebug, IE and chrome developer
+tool.
+
+Sodel Software Solutions Pvt. Ltd, Navi Mumbai                          
+                                                   Jan’08 - Jun'11
+
+Software Engineer
+
+Project: Criticall
+
+Client: Criticall.co.uk
+
+Description: Criticall provide software solutions to deliver
+personalized, relevant, and appropriate critical information via all
+modern voice and text communication devices. They have two-way
+communication system for delivering the message and receiving the
+response. In addition they have advance features of locating the exact
+position of the receiver using GPS.
+
+Responsibilities:
+
+Involved in analysis and design phases of Software Development Life
+Cycle 
+
+Used Spring framework for Spring MVC, dependency injection as well as
+transaction management.
+
+Developed front pages using JSP, HTML, JQuery,  and JavaScript.
+
+Design patterns like Singleton and DAO are implemented in business
+layer. 
+
+Developed business components, UI components, utility classes, action
+classes and form beans. 
+
+Used conversion from JSON to string and vice-versa through GSON library.
+
+Custom Quote PDF generation through IText library.
+
+Custom Quote Excel generation through POI library.
+
+Developed and debugged the application using Eclipse.
+
+Used Ant to build war files .
+
+Used SVN  for version control.
+
+Troubleshooting, debugging and resolving high priority production issues
+.
+
+Environment: Tomcat, Java,  Struts1.x, Spring,   IText, POI,  JQuery,
+JSP, HTML, CSS,  SVN, Microsoft SQL Server, Ant, Eclipse, Web debugging
+tool like Firebug, IE and chrome developer tool.
+
+Project: Man Group Plc Help Site
+
+Description: Tracking employees of organization with their current
+status and location. Web application provides the functionality of a
+discussion board, personal messaging and administration reporting.
+
+Responsibilities:
+
+Involved in analysis and design phases of Software Development Life
+Cycle 
+
+Used Spring framework for Struts 1.38 and also Hibernate 3.0
+
+Developed front pages using JSP, HTML, JQuery ,  and JavaScript.
+
+Developed business components, UI components, utility classes, action
+classes and form beans. 
+
+Written Complex SQL queries, Stored Procedures,  and Views.
+
+Used Ant to build war files.
+
+Used SVN for version control.
+
+Troubleshooting, debugging and resolving high priority production issues
+.
+
+Environment: Tomcat, Java,  Struts1.x, Spring, Hibernate, JQuery,
+Javascript, JSP, HTML, CSS, Microsoft SQL Server, SVN,  Ant, Web
+debugging tool like Firebug, IE and chrome developer tool.
+
+	Madhu A
+
+				
+

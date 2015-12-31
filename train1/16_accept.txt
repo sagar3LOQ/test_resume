@@ -1,0 +1,171 @@
+Profile Summary
+
+	3 years of experience in delivering IT services and software solutions
+
+Expertise in J2EE Technologies and Frameworks such as Spring, Struts,
+JSF, Web Services, Hibernate, JSP and Core Java
+
+A proven track record of success in Meeting project milestones, ensuring
+project objectives are within scope.
+
+Expertise in Logistics, Banking and Financial system Domains.
+
+Strong exposure to Software Development Life Cycle (SDLC) Management,
+Business Analysis.
+
+Technical Skills
+
+	Programming Language (s): 	Java (1.6)
+
+J2EE Frameworks: 		Hibernate, Spring, Struts and JSF,,SSO
+
+J2EE Technologies:		Servlets, JSP, JDBC
+
+Web Technologies:		AJAX, HTML, JavaScript, XML/XSL
+
+Servers:				Tomcat 7
+
+Configuration Management: 	Tortoise SVN 1.4.3
+
+IDE:				Eclipse
+
+Build Tool:			ANT, Maven
+
+Databases:			SQL Server 2000, Oracle, DB2
+
+DB Languages:			SQL, Oracle
+
+Operating Systems:		WIN 9X/2000/XP
+
+Others:				SOAP Web Services with CXF Security Implementation
+
+Academic Qualifications & Certifications/Trainings
+
+	Master of Computers Applications (MCA) from Osmania University,
+Hyderabad.AP
+
+Attended training program for Liferay portal development.  
+
+Key Achievements
+
+	Received R & R award Once ( 2014) for excellent contribution in the
+team
+
+Professional Experience (3 Years)
+
+	
+
+Oct 2013 - till Present | Mphasis an HPCompany | SSE
+
+Project: RESILENCY DATA MANAGEMENT SYSTEM (RDMS)
+
+Key Responsibilities:
+
+Analyze business and system requirements to perform impact analysis of
+probable application changes
+
+Prepare high level and low level design documents, conduct design
+approval meetings to obtain necessary approvals from design review teams
+
+
+Implement code changes based on the approved design, prepare unit test
+plans and execute unit test cases and promote approved code changes to
+production
+
+Resolve defects raised through system or production testing of the
+promoted code changes
+
+Prepare effort estimation of work through FRD’s.
+
+Steer weekly status meetings with client to abreast them with
+application’s progress and status updates
+
+Mentor individual team members on programming skills and share best
+practices
+
+Tools & Technologies:
+
+Jsf, Spring, MyBatis, Web Services,  Maven, Eclipse (G), Oracle 11g
+
+Jan 2013 – Oct 2013 | Mphasis an HPCompany | SSE
+
+Project:  Priority One Manager (P1M)
+
+Key Responsibilities:
+
+Analysis of the specifications provided by the Client.
+
+Coding back end classes
+
+Involved in creating requirement document and test cases.
+
+Involved in design and development for various modules.
+
+Writing Named queries for development module.
+
+Development for the enhancements for various releases.
+
+Defect Analysis/Reporting/Fixing
+
+Tools & Technologies:
+
+Struts, Spring, My-batis, Web Services, Maven, Eclipse (H), Oracle 10g
+
+Jan 2012 - Jan 2013 | Adecco India Pvt Ltd | SE
+
+Project: Travel ERP (TERP)
+
+Key Responsibilities:
+
+Performed requirement analysis as per business requirements, designed
+software solution and implemented required code changes.
+
+Created unit test plan and executed unit test cases
+
+Analyzed and resolved many critical issues encountered during System
+Integration testing and UAT 
+
+Performed code reviews and mentored team members on programming skills
+and share best practices
+
+Analysis of the specifications provided by the Client.
+
+Coding back end classes
+
+Involved in creating requirement document and test cases.
+
+Involved in design and development for various modules.
+
+Writing Named queries for development module.
+
+Development for the enhancements for various releases.
+
+Defect Analysis/Reporting/Fixing.
+
+Tools & Technologies:
+
+Spring, Struts, Hibernate, SVN, Oracle 10g, Eclipse(J), Tomcat.
+
+Personal Details
+
+	
+
+Date of Birth        : 			26th July 1986
+
+Nationality           :			Indian
+
+Interests                :			Listening to Music, watching cricket
+
+(SHIVA PRASAD)
+
+		 Shiva prasad•Page   PAGE   \* MERGEFORMAT  3  of 3
+
+Shivaprasad kunchakuri-
+
+						
+
+3 years of Experience in Software Industry   
+
+• Phone: 9172330377 • Mail:   HYPERLINK
+"mailto:shiva.java3plus@hotmail.com"  shiva.java3plus@hotmail.com 
+

@@ -1,0 +1,383 @@
+Resume
+
+Experience Summary
+
+5.8yearsof total work experience and in product development.
+
+5.2year of domain experience in financial sector (Life Insurance) and
+rest in Retail Support and Maintenance.
+
+Currently working as a Senior Software Developerin Accenture Services
+Pvt Ltd., India.
+
+I have completed my Bachelors in Technology in Information Technology.
+
+Rich exposure to entire Software Development Life Cycle includinguse
+ofagile methodology and Waterfall Model in Product Development.
+
+Worked on Tools like CVS,SVN,JIRA, Scarab-CSC Defect Tracking Tool, RAD
+6.0/7.5, Eclipse3.6.2, and STS 3.4.0.
+
+Performance/Tuning Application like Load Runner, Wily, Java Profiler.
+
+Experience of Requirement gathering, designing and implementing.
+
+Goodexperience in coordinating effort with different geographical teams
+being at offshore and Onsite locations.
+
+Ability to work individually and as a part of a team;excellent trouble
+shooting and problem solving skills. Can swiftly grasp new tools. 
+
+Excellent skills in user coordination and team management.
+
+Technical Skills
+
+Databases	DB2, SQL Server, Oracle 10g/11g
+
+Languages& Frameworks	Java
+
+Spring-- IOC,Web flow and MVC.
+
+J2EE Architecture
+
+JSF 1.2 , 2.0
+
+XML
+
+WAS-Websphere , Apache Tomcat
+
+Hudson
+
+VP\MS(CSC Propriety Tool)
+
+JBoss
+
+SQL
+
+Web Services AXIS 2.0,SOAP
+
+Myfaces- tomahawk
+
+
+
+Experience and designation	5  Year and 8 Months& Senior Software
+Developer
+
+Business Areas	Life Insurance&
+
+Development /Maintenance
+
+
+
+Educational Qualifications
+
+B.TECH. in Information Technology (IT) from NIT BHOPAL , with 7.92 (/10)
+
+HSC fromK.V. School , Guwahati with 69.8%
+
+SSC from K. V.  School, Bhopalwith 76.2%
+
+Project Experience:
+
+Jan 2015 toTill Date.
+
+Project Title	Volkswagen
+
+Client	Germany
+
+Employer	Accenture Services Pvt Ltd.
+
+Description	Volkswagen is a Development + Support Project, related to
+the corporateafter Sales Information System(CASIS). Along with DB
+Maintenance and development part for Improving the functionalities on
+the Presentation and Business layer.
+
+Role	Senior Software Developer
+
+Responsibility	•	Working on Change Request (CR’s), Includes
+Requirement Analysis and estimation, design and development.
+
+•	Development of the product related to various artifacts on
+Presentation and Business Layer.
+
+•	Involved in designing the architecture for new features.
+
+Technology	Java/j2EE, JSF, JPA, Hibernate , Web Services , Apache My
+faces(tomahawk)
+
+Databases	Oracle 11g
+
+
+
+Jan 2014 to Dec 2014.
+
+Project Title	csA BPO (GAFG)
+
+Client	CSC Dallas
+
+Employer	Computer Sciences Corp.
+
+Description	
+
+GAFG stands for Global Atlantic Financial Group, the project is from
+scratch using Spring + Prime faces + jsf along with JPA2.0 for
+connecting to the service layer.
+
+	
+
+Role	Product Developer
+
+Responsibility	Requirement Analysis and estimation.
+
+Working on the enrichment of the product related to various artifacts.
+
+Worked on Build Related Issues, which contains Ant Script for Running
+the Build
+
+Involved in designing the architecture for new features.
+
+     Performance Enhancement of the product.
+
+Implementation of design idea and documenting the followed architecture.
+
+Technology	Java/J2EE, JSF, Hibernate ,prime faces, Web Services, 
+Spring-Web flow,AWD
+
+Databases	SQL Server 
+
+Awards/Appreciations	Received recognition from Client for good
+understanding of the system.
+
+
+
+
+
+Aug 2013 to Jan 2014.
+
+Project Title	csA BPO 
+
+Client	CSC Dallas
+
+Employer	Computer Sciences Corp.
+
+Description	Customer Service Accelerator (csA) is a call-center based
+application which provides support for:
+
+• Common Access Front-End
+
+• Universal Accelerator Desktop
+
+• Policy System Integration
+
+• Customer Contact
+
+
+
+Role	Product Developer
+
+Responsibility	Requirement Analysis and estimation.
+
+Working on the enrichment of the product related to various artifacts.
+
+Worked on Build Related Issues, which contains Ant Script for Running
+the Build
+
+Involved in designing the architecture for new features.
+
+     Performance Enhancement of the product.
+
+Implementation of design idea and documenting the followed architecture.
+
+Technology 	J2EE Architecture
+
+Java- JSF 
+
+Hibernate
+
+
+
+Databases	Oracle, DB2,
+
+
+
+Apr 2012 to Aug 2013.
+
+Project Title	L&A Cross Cutting Group (CCG)
+
+Client	CSC Dallas                                                      
+
+Employer	Computer Sciences Corp.
+
+Description	This is a kind of desktop application designed for the
+developers. It is majorly divided into two parts UI Editor and Rule
+Editor. 
+
+UI Editor is for those who are actually working on any web application.
+With the help of this tool one can design java pages, can define the web
+service processes that are to be invoked, can add multiple pages to a UI
+flow and test them at developer’s end by launching the flow. Also, the
+flow generated along with its related artifacts can be deployed to the
+location of actual web application. Rule Editor can be used for
+configuring various rules (drools/vpms). These rules act as conditions
+when generated and included in any other application. These conditions
+can also be invoked from a UI Flow as a decision step.
+
+The L&A Cross Cutting Group (CCG) is responsible for the development and
+maintenance of the components that are part of the L&A Configuration
+Strategy. The components include: 
+
+ 1) A configuration workbench for creating products, rules,
+calculations, UI views and data transformations.
+
+ 2) Content management repository.
+
+ 3) A rules execution platform for the invocation of external business
+rules and calculations.	
+
+Role	Product Developer
+
+Responsibility	Requirement Analysis and estimation.
+
+Worked on the Jackrabbit and Content Management Issues.
+
+Providing knowledge transfer to team membersOn requirements and their
+solutions
+
+Involved in designing the architecture for new features.
+
+     Performance Enhancement of the product.
+
+Implementation of design idea and documenting the followed architecture.
+
+
+
+Technology 	Core Java , Spring , jack rabbit
+
+Databases	DB2,FileSystem database
+
+
+
+Jan 2010 to Apr 2012.
+
+Project Title	New Business Accelerator-   nbA
+
+Client	CSC Dallas                                                      
+
+Employer	Computer Sciences Corp.
+
+Description	nbA is designed to provide new business solution for Life
+Insurance and Annuities. It automates the process from insurance request
+to underwriting and finally issuing/declining the request. It provides
+end-to-end new business solution that includes integrated administrative
+cash management, communications and document management. It is also
+capable of supporting multiple products, distribution channels and
+administration systems
+
+
+
+Role	Product Developer
+
+Responsibility	Development of new Enhancements and nbA Components which
+includes 
+
+Discussion with TCs and Technical leads to design, analyze and
+understand technical and business Requirements.
+
+Coding and Unit testing of Enhancements.
+
+Code Reviews.
+
+Resolving adhoc technical queries of QAs in Test Plan preparation.
+
+Resolving SPRs (System Problem Requests) and Problem Logs. It involves
+analyzing, fixing and documenting problems reported during internal
+integration and system testing, as well reported by client.
+
+Member of Performance Engineering Team for nbA Team which includes.
+
+Design Production like Performance Scenario to generate production
+simulated load on the system.
+
+Setting up New Environment for Performance Engineering which includes
+designing topology of the environment, installation of WAS, deployment
+of nbA Application, initial performance tuning of environment.
+
+Load testing.
+
+Fixing Performance Issues.
+
+Worked with End Customers (AXA, ONFS) in fixing their Performance Issues
+
+
+
+Technology 	Java/J2EE, JSF, Web Services,Hibernate,AWD,VP\MS,Accelerator
+framework.java 1.4
+
+Databases	Oracle, DB2
+
+Awards/Appreciations	Received appreciation e-mails from client, on-site
+members of my team as well as from offshore and onshore hostingteam.
+
+Also got COA for completing the Enhancement, before time line.
+
+
+
+Achievements:
+
+Got rewards from on-site Leads of different teams for good coordination
+and support.
+
+Worked on different projects simultaneously and received appreciation
+from all the teams.
+
+Got several Appreciations in emails from Clients, Managers, and Onsite
+Coordinators/Team Leads.
+
+Active participation in the Organizational curricular activities like
+Samskruti.	
+
+Apart from day to day work related activities played the role of Party
+Anchor to keep a healthy work environment. Appreciated from the Senior
+Management for the innovative ideas for engaging team members in various
+funs and team building activities.
+
+Strengths: 
+
+Excellent coordination with team.
+
+Zeal to learn, proactive and take bottom line responsibility for
+assigned tasks.
+
+Quick learner who expends extensive efforts to stay informed about new
+technologies with desire to grow in matured and advanced technologies.
+
+I don't have any ego to learn anything even from the youngerones.
+
+Personal Details
+
+Date of Birth	19-Dec-1986
+
+Sex	Male
+
+Nationality	Indian
+
+Marital Status	Single
+
+Present Address	D-75 ,Sainath Colony , Kolar Road ,Bhopal-462042 ,India
+
+Linguistic Abilities	English, Hindi, Bengali, Gujrati.
+
+Passport Number	G6909406
+
+PAN Number	AGXPC9065E
+
+
+
+Date:						 Priyatosh Chakravarty
+
+Recommended by GlobalHunt India.		.
+
+Contact: 8527653300
+
+E-mail: recruitment30@globalhunt.in
+

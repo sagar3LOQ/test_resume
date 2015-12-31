@@ -1,0 +1,327 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+            -  3years &
+current                                �
+�       
+
+Spring                  
+                           -  3
+year&current                              
+                 
+
+Web
+Services                                
+  - 
+3years                                 
+               
+
+Core
+Java                                  
+      -  5.10
+
+Design
+Patterns                                
+    -   1 year 
+
+UML
+design                                 
+           
+
+Build Tools (Maven/Ant)                    -   
+Maven/Ant/gradel   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Tomcat
+
+							
+
+                                                     Suresh Yenugula    
+                        
+
+                                                    Email:
+sureshyenugula85@gmail.com
+
+                                                          	 9966499808
+
+	
+
+Summary
+
+	Having 5 years 10 months of  experience in  IT Industry in various
+roles as a programmer . My core skills are in Java design and
+development for web technologies, working with customers in identifying
+and understanding business problems and building solutions. I am always
+looking for ways to help my team work more effectively through improved
+technical practices.
+
+Technical Expertise
+
+Solid Knowledge of coding technologies on Core Java, Hibernate and
+Spring framework.
+
+Rich experience with Deploying applications and Handling applications on
+Tomcat X.X 
+
+Hands on experience on Restful Web Services
+
+Used Hudson for deploying  the changes in DEV and QA environments.
+
+Participation in scrum stand up meetings. Pair Programming, Continuous
+Delivery, Shared Ownership. Making work visible, Participating in
+estimation sessions, Design discussions, Retrospectives, and other team
+meetings
+
+Professional Experience
+
+Working as a  Senior Software Engineer in Wavecrest Payment Technologies
+pvt Ltd, Hyderabad from April 2012 to till date.
+
+Worked as a Software Engineer in Mindteck India Ltd, Bangalore from
+December 2010 to till March 2012.
+
+Worked as a Software Engineer in Brainy way Software Technology
+Solutions, Hyderabad from June 2008 to June 2010.
+
+Educational Profile
+
+Master Of Computer Applications  from Jawaharlal Nehru Technological
+University.
+
+ Skill Set 
+
+       
+
+Operating System		Linux, Unix, Windows 
+
+Programming Languages	java
+
+Web Technologies	             J2EE(Spring, Struts, JSP and Servlet) 
+
+Web Services                              Spring WS, Spring Remoting
+
+Markup Languages		HTML
+
+Database Technologies              MySQL 
+
+Build Tools                                  Ant,gradle,maven
+
+Open Source Frameworks          Spring and Hibernate
+
+Web Server                                  Apache Tomcat
+
+IDE                                              Eclipse,STS
+
+Version Control                           Subversion
+
+Bug Tracking Tool                       Mantis and Bugzilla
+
+Others                                          SOAP, sqlyog, code
+collabarator
+
+Project Profile
+
+Project #1:
+
+Name              :  O2 Money & Media
+
+Client	            :  O2
+
+Project Description:
+
+O2 is one of the leading Telecom Service providers of UK and the one of
+the first company to provide E-Wallet Service to its customers in UK.
+This E-Wallet Service consists of Web Flow (Online Channel) & Mobile App
+with O2 Money Card which customer can use for any financial
+transactions. This card can be used for both Open Loop and Closed Loop
+networks. Using E-wallet Service the user can perform P2P
+(Person-to-Person) funds Transfer, can perform financial transactions
+using his E-wallet or using O2-Money-Card, can register other Service
+Provider Cards as well. Currently, the Cards are being routed through
+VISA, Europe and MasterCard, Europe networks. It’s a complete Banking
+application which can be availed through his E-Wallet. The E-Wallet also
+has its own Messaging Service, Mailing Service along with Notification
+Service, Ledger (SVA) Service, Card Service, Cashier Service, Rule
+Engine, KYC Engine, Verification Service and Risk Management Service to
+make the application as a whole End-to-End World Class Banking Service.
+
+		This will be the First ever E-Wallet Service which will provide the
+Banking Application through a Telecom Company in UK. And this will be
+implemented for whole Telefonica all over the world in later stage.
+
+Environment		Linux, Core Java, J2EE (Spring, JSP, Servlet), Spring WS,
+
+                                       Spring MVC, SOAP, XML, Apache-
+Active MQ(JMS),
+
+                                       Ant, MySQL
+
+Roles and Responsibilities:
+
+Involved in entire Software development Life Cycle(SDLC) and Low level
+design.
+
+Involved in development Of new Registration process of  O2-Wallet.And
+Integrated with PAF lookup service, which gets all the possible address
+details of user if he enters pin code.
+
+Involved in P2P Transfer , which is transferring money from one wallet
+to another wallet for both WEB and Mobile API's.
+
+Involved in P2P Request for both WEB and Mobile API's.
+
+Involved  in the development of  Promotational Services, for the
+advertisement of O2 Wallet.O2 used to send promotational codes to their
+customers. Once they registered they can load that amount to  their
+ledger account.
+
+Profile And Preferences, where user can change his  address details or
+wallet and transaction password details.
+
+I was solely responsible for E-wallet’s CSR (SOA) Development by
+exposing the all services as SOAP API.
+
+I’ve involved some key features of the development like Messaging
+Service , and Money Message Reject for E-Wallet  WEB.
+
+Integration between Cashier, E-Wallet, Ledger and Card Services .
+
+Involved in code review.
+
+worked on Change Request and Bug fixes.
+
+Project #2:
+
+Name              : MY MONEDERO
+
+Client	           : Wavecrest
+
+Project Description:
+
+My Monedero is a ewallet account that can be used for fundtransfer and
+transactional purpose. Each My Monedero account will be created along
+with active virtual Master card which can be used for online
+transaction. we are validating OFAC verification for avoiding  fraud
+users. if eligible, has the option to upgrade to a plastic MasterCard
+and can use both virtual and Master Cards. With a MyMonedero Account, we
+can transfer money from our account to another with ease and the funds
+are instantly credited to our friend's account. All we have to do is
+register our friend as a buddy to our account. If our friend is already
+a MyMonedero user, we will be able to transfer money to him instantly.
+If he is new to MyMonedero, we can still invite him to be our buddy. we
+will be able to transfer funds to him as soon as he signs up.
+
+And My Monedero Customer can load funds into his account using any
+master/visa card he has. He can use bith debit/credit cards to load
+funds to his ewallet account.MY Monedero is accessible to customers in
+15 countries in the world.
+
+Environment		Linux, Core Java, J2EE (Spring, JSP, Servlet), Spring WS,
+
+                                      Spring MVC,SOAP, XML, Apache-
+Active MQ(JMS), Ant, MySQL.
+
+Roles And Responsibilities:
+
+Involved in development of ewallet registration process and validating
+OFAC check for avoiding fraud users.
+
+Involved in Buddy Invites and Buddy transfers.
+
+Involved Changed Password functionality.
+
+Involved in update address functionality.
+
+Involved ForgotSecurityQuestion and ResetSecurityQuestion
+functionalities.
+
+Involved in Code review.
+
+Involved in Change Request and bugfixes.
+
+Project #3:
+
+Title 	              :   Provident Fund and ESI Software Consultant
+(PESC)
+
+Role	              :   Team Member
+
+Project Description:
+
+PESC (Provident Fund and ESI [Employee State Insurance] Software
+Consultant) is a multi-user, web-based product solution which helps in
+calculating Provident Fund, ESI amount of the employees and
+organization. The product acts in all phases of the process. This
+product is mainly useful to understand the business of the PF&ESI
+Consultancy agencies, their operations, analyze their requirements,
+convert them in to technical requirements, design the system, develop
+and maintain the system. Using this PESC efficiency will be increased
+and time will be saved which increases the business of PF office.
+
+Role and Responsibilities
+
+ Designer and Developer.
+
+Involved on programming on the core product development using J2EE,
+Struts.
+
+Application environment details
+
+Operating System : Windows-XP.
+
+Skills                      : Java, struts, spring. 
+
+Environment          : Java 1.5, Jsp 2.0, HTML 4.0, CSS, Struts,
+Hibernate                                                               
+          	                               Eclipse 3.1, MYSQL 5.0 and
+Tomcat 6.x.
+
+Contribution            : I was involved in successfully  developing
+Code. 
+
+Project #4:
+
+Title 	              :    Rent A Vehicle
+
+Role	              :    Team Member
+
+Project Description:
+
+This is web application to manage the vehicle renting details. The
+organization rents the vehicle on hourly and daily basis and those
+details will be will be maintained by the website.
+
+Modules:
+
+Vehicle details
+
+Customer details
+
+Employee details
+
+Role and Responsibilities
+
+ Designer and Developer.
+
+Involved on programming on the core product development using J2EE,
+Struts.
+
+Unit Testing
+
+ Application environment details:
+
+Operating System: Windows-XP.
+
+Skills                      : Java, struts, spring. 
+
+Environment          : Java 1.5, Jsp 2.0, HTML 4.0, CSS, XML, Struts
+1.x,                                                                    
+     	                               Eclipse 3.1, MYSQL 5.0 and Tomcat
+6.x.
+
+Contribution            : I was involved in successfully developing
+Code. 
+

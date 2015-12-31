@@ -1,0 +1,530 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate        -  6year&current 
+
+Spring               -  3 year & current(using one
+module)                                �
+�               
+
+Web
+Services  -     8years  &current(SOAP/Rest)          
+                                    
+
+Core Java         -  10 year
+
+Design Patterns       -yes    
+
+UML design           -  class diagram  
+
+Build Tools (Maven/Ant)          - Ant     
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Weblogic 10.1/12.0/tomcat/jboss
+
+Professional Summary: 
+
+
+
+9+ years of experience in JAVA/J2EE in Designing & Developing High
+Performance & Quality Software in IT.
+
+Expertise lies in the analysis, design, development and implementation
+of applications using Java/J2EE.
+
+Experience in various phases of Software Development Life Cycle and
+working in Agile Methodology Projects.
+
+Design and Develop Robust and High Performance applications in Object
+Oriented Technology.
+
+Lead Experience in high performance, real-time, large-scale, scaling
+systems and handling the team efficiently by delivering the projects on
+schedule.
+
+Proficient in Developing Distributed Web applications involving Various
+Technologies (J2EE-JSP/Servlets).
+
+Hands on experience on various Frame Works like Hibernate, Spring,
+Struts.
+
+Hands on experience in client side validations using JavaScript.
+
+Hands on experience in designing forms using HTML, CSS, JSP, JSTL.
+
+Hands on experience in MySQL, Sybase, DB2 and Oracle databases.
+
+Hands on experience in deploying projects in web servers and application
+server. 
+
+Delivered support with main emphasis on software quality with delightful
+results from customer.
+
+Self-motivated, quick learner with strong interpersonal and
+communication skills.
+
+Good Technical, Analytical and Problem Solving skills.
+
+Expertise lies in Banking and Finance domain (Equities and Derivatives
+Trading, Market Risk, Liquidity Risk, Algorithmic Trading, FIX
+messaging, FX trading etc..).
+
+Professional Experience: 
+
+
+
+Working as a Tech Lead in Tech Mahindra, Hyderabad from March 2013 –
+till Date.
+
+Worked as a Analyst - I Apps Prog in Bank of America, Hyderabad from Dec
+2009 – March 2013.
+
+Worked as a Sr. Software Developer in Portware International LLC,
+Hyderabad from April 2008 – Dec 2009
+
+Sr. Software Developer from Jan 2009 to Dec 2009 
+
+Software Developer from April 2008 to Dec 2008.
+
+Worked as a Associate in GlobeOp Financial Services Pvt Ltd from June
+2006 – March 2008.
+
+Worked as Jr. Software Programmer in CES (P) Ltd., from June 2005 –
+June 2006.
+
+Software Expertise: 
+
+
+
+Programming languages	: 	Java, J2EE, SQL, PL/SQL
+
+Technologies                     :	CoreJava, WebServices, Servlets3.0,
+JSP, JMS, Pico Container
+
+Frameworks                      : 	Hibernate 3.0, Spring API, Struts
+
+Designing Technologies	: 	HTML, CSS 
+
+Scripting Technologies	: 	JavaScript, AJAX, Shell Scripting             
+     
+
+Web Servers			: 	Tomcat, Web Logic 8.1, Web Sphere 6.1
+
+Application Server		: 	JBoss
+
+Database			: 	Oracle, DB2, Sybase, MySQL
+
+IDE				: 	Eclipse, IntelliJ IDE, JCreator
+
+Middle Ware			:	Open MQ, Active MQ
+
+Reporting Tools		: 	Spot fire
+
+Designing Tools		: 	Rational Rose
+
+Repository			: 	SVN, CVS
+
+Operating Systems		: 	Windows 2000/XP, UNIX
+
+Onsite Experience: 
+
+
+
+Holding Valid Business Visa - B1 (Valid 2020).
+
+Been to USA during March 2010– May 2010 on Project assignment from
+Bank Of America.
+
+Education: 
+
+
+
+B.E (Hons) from BITS- Pliani, Rajasthan May 2005, CGPA: 7.0/10.
+
+Intermediate, BIE, A.P, %: 94
+
+SSC, A.P. %: 80%
+
+Project Details: 
+
+
+
+1)
+
+Client		: Bank Of Nova Scotia (Scotia Bank)
+
+Company	: Tech Mahindra.				  	March 2013 – till Date 
+
+Location       : Hyderabad	
+
+Designation	: Tech Lead	
+
+Project	: ETRM – Energy Trading Risk Management
+
+	
+
+Technologies: Java/J2EE, JDK 1.5, Eclipse 3.5, Oracle Database, JMS,
+Webservices(SOAP/Restful), XML RPC, Unix Shell Scripting, Bamboo, SVN
+
+Environment: Windows & Linux
+
+                         
+
+Project Description:  The Global Energy Solutions group intends to build
+a top tier platform to deliver energy risk-management solutions to
+Scotia's client base. From the IT prospective, this initiative entails
+implementation of a new trade capture and risk management application,
+SCOTS. As part of the integration of SCOTS with the existing systems at
+Scotia, there is a 
+
+requirement from Energy Operations group to enhance the settlement
+process. SCOTS is to initiate payments wiring requests to the Scotia
+Payment System (BESS) and to be able to receive, reconcile and match
+actual cash transactions with invoices and projected cash flows.
+Processing needs to be performed in almost real-time.
+
+Roles and Responsibilities
+
+Coordinating with Onsite team in gathering requirements for allotted
+JIRA’s for the team and involved in different phases like designing,
+developing and responsible for on time delivery.
+
+Involved in the Design & Development of electronic submission of Trade
+type DFA, CounterPart and Broker.
+
+Involved in designing and development with regard to any enhancements to
+the existing SCOTS system.
+
+Involved in developing API(eConfirm) for subscribing/allowing the
+submission of Trades  and retrieving transaction status from/to
+Electronic Matching service offered by ICE.
+
+Enhancemants to the current system to consume all the new fields for
+DFA\EMIR\FATCA.
+
+Devleoped a Report for daily monitoring process to ensure DFA trades
+sent real time after execution within 4 hours.
+
+Developed an API for sending all Swap data to the ICE Trade Vault Europe
+for any trade, to meet the European Market and Infrastructure Regulation
+(EMIR).
+
+Participated in Translation of Epics in to user stories and estimation.
+
+Involved in Design and development of User Stories using technologies
+such as Java, SQL, Bug fixing, code reviews, testing and support.
+
+Actively participating in all Sprint meetings such as Reviews, Daily
+meeting etc., and Lead some of these meetings.
+
+2)
+
+Client		: Bank of America
+
+Company	: Bank of America.			  	December 2009 – March 07 2013 
+
+Location       : Hyderabad	
+
+Designation	: Analyst I Apps Prog	
+
+Project	: Liquidity Risk Management
+
+	
+
+Technologies: Java/J2EE, JDK 1.5, Eclipse 3.5, Db2 & Oracle Database,
+Servlets, JSP 
+
+Hibernate 3.0, Struts, Spring API, JMS, Open MQ, XML RPC, Unix Shell
+Scripting and Autosys
+
+Environment: Windows & Linux
+
+                         
+
+Project Description:  
+
+Bank Of America is the leading Provider of the financial Services in the
+Industry. It is the second largest US Company in Terms of Market
+capitalization. The application Deals with Preparing Basel-||, FSA
+Reporting to UK Regularities.
+
+Liquidity Risk Management -LRM is a Risk assessment application used by
+the Business to 
+
+evaluate the Liquidity Position of the Company. It gives a Strategic
+solution to the current liquidity position of the company by calculating
+the Cash Flows coming from different entities. It has the analytical
+behavioral models that are applied on the Input Cash flows to evaluate
+the output Cash flows. The financial Instruments data is collected from
+various sources and data is filtered using ETL and the behavioral Models
+are applied to assess the liquidity Position of the instrument. LRM is a
+one stop shop for all liquidity related queries.
+
+Provides a consolidated view of cash flows across all entities and
+products.
+
+Provides a tool to apply scenario based assumptions to the cash flow
+data for calculating the effect on liquidity and determining the
+contingency funding plan.
+
+Provides a reporting engine that can provide a predetermined set of
+reports and a user interface to allow users to drill down, graph and run
+ad-hoc queries on baseline and modeled data
+
+Roles and Responsibilities
+
+Coordinating with Onsite team in gathering requirements for allotted
+JIRA’s for the team and involved in different phases like designing,
+developing and responsible for on time delivery.
+
+Involved in the Design, Development, unit testing and production support
+of LRS 1.0 & 2.0.
+
+Involved in the Design & Development of calculation of time buckets for
+Forward MTMs in Core Java API, which is core of LRS Application.
+
+Involved in implementing the contractual models (Pass Through,
+Derivative and Vanilla Proxy) to generate the cash flows for input
+positions. 
+
+Implemented LRS Repackaging which manages building and deploying
+individual modules as discrete, independent packages using Java, Ant and
+SVN.
+
+Developed LRS Build System a web application using Servlets, JSP, Struts
+and AJAX which is one stop for all build and deployment process. It also
+involves in compiling the SQL objects and adding it to DB.  
+
+Involved in the Deployment of the Application & Production Support.
+
+Involved End-End development of the Remote Feeds Module, Data Modeling,
+
+Metadata Tables Design, Service Layer Design and Development & Testing
+of the Module
+
+Involved in designing the Behavioral models applied on the Cash flows.
+
+Involved in gathering the Requirement from Business and Preparing the
+Design documents. 
+
+Performing an end-end testing by running the Batch Jobs and garnishing
+the data right from Raw data to final output position.
+
+Coordinating with Onsite team for development and Unit testing and also
+involved in preparing the QA and UAT environment for regression testing.
+
+
+Ensuring timely deliveries of work requests.
+
+Responsible for the Development support during the Production Batch
+window during offshore hours.
+
+Received GOLD & SILVER Awards from the Line Of Business for the good
+quality work.
+
+Been to USA on B1 visa to capture the business Requirements of the LRS
+application, during March 2010 to May 2010
+
+3)
+
+Client		: Morgan Stanley, Barclays, 
+
+ 	  Portware International LLC
+
+Company	: Portware International LLC			April 2008 – Dec 2009  
+
+Location       : Hyderabad	
+
+Designation	: Sr. Software Developer (Jan 2009 – Dec 2009)
+
+		   Software Developer (April 2008 – Dec 2008)	
+
+Project(s)     : Algorithmic Trading Compliant Systems, Bloomber API,
+
+		   FIX messaging System, FX System.
+
+	
+
+Technologies: Java/J2EE, JDK 1.5, Eclipse 3.5, Oracle Database 
+
+Environment: Windows & Linux
+
+                         
+
+Project Description:  
+
+Portware LLC is the financial industry's leading developer of
+broker-neutral, automated portfolio trading software for global
+equities, futures, options and FX.Portware is a fully customizable,
+FIX-compliant trade management and execution system for portfolio,
+basket, single stock, automated and algorithmic trading. It is easy to
+manage real-time market data and perform real-time charting, reporting
+and transaction cost analysis through Portware’s user interface.
+
+Roles and Responsibilities
+
+Coordinating with Onsite team in gathering requirements for Bloomberg
+Server API 3.0 specifications and successfully implemented and plugged
+into Portware which streams Real time, historical and live data in Core
+Java using Collections, multi threading and design patterns.
+
+Involved in developing FX application system which involves in
+automatically FX trading by place Buy or Sell orders using algorithmic
+trading software.
+
+Involved in different phases like designing, implementing of Reuters
+Real time Feed’s (RFA 6.0) API into Portware.
+
+Developed FIX (Financial Information Exchange) compliant interface to
+integrate proprietary Algorithmic Trading strategy providers with
+Portware EMS (Execution Management System) for algorithmic compliant
+executions.
+
+Involved in the Design & Development of a user friendly platform to
+trade Options Instrument including all the regions.
+
+Developed an adapter develop an adapter using Server API in java with
+the latest release of java ActivFeed API to integrate Options Record
+Data, Time Series Data, News Stories data into the Portware applications
+by using Asynchronous, Synchronous, Non-Blocking Synchronous interactive
+requests. 
+
+Developed a Complete and detailed global FIX communications required for
+building an order management system (OMS) that links to Deutsche
+Bank’s autobahn Equity 
+
+algorithmic trading system.
+
+Coordinating with Onsite team for development and Unit testing and also
+involved in preparing the QA and UAT environment for regression testing.
+
+
+4)
+
+Client		: GlobeOp Financial Services (P) Ltd.
+
+Company	: GlobeOp Financial Services (P) Ltd.		June 2006 – March 2008 
+
+
+Location       : Mumbai	
+
+Designation	: Associate	
+
+Project(s)     : JRisk – Market Risk
+
+	
+
+Technologies: Java/J2EE, Eclipse 3.5, Sybase, Oracle 
+
+Environment: Windows & Linux
+
+                         
+
+Project Description:  
+
+GlobeOp Risk:
+
+GlobeOp Risk Services (GRS) provides a fully integrated solution
+supporting all post-trade risk analysis needs for Hedge funds and Fund
+of Funds. The services include position and exposure reporting using
+advanced factor models; scenario analysis; stress testing; strategy
+specific risk modeling; model based VaR computations.
+
+GRS has a fully automated Risk engine called GoRisk, which captures
+trade data from Kondor and GlobeOp specific TFF/GoML formats, static or
+market data from Bloomberg, Reuters or Geneva. The system has
+sophisticated and versatile architecture supporting financial
+instruments ranging from simple equities to exotic positions, swaps,
+swaptions etc. The system is fully developed in java.
+
+Roles and Responsibilities
+
+Coordinating with Onsite team in gathering requirements for JRISK
+specifications and implementing the enhancements in Core Java using
+Collections, multi threading and design patterns.
+
+Involved in designing and development with regard to any enhancements to
+the existing RISK system.
+
+Involved in developing Real-time Price feed – a subsequent project
+from Reuters which gets real time prices for instruments like Equities,
+FXSpot, BONDs etc.
+
+Involved in developing an adapter for Grabbing Prices for CDS instrument
+from Bloomberg through Request/Response Model.
+
+Involved in writing the Interpret feeds for Equities, CDS and CDSIndex
+which involves in integrating data from legacy systems into Jrisk by
+extensively using XML technology to manipulate the data.
+
+Developed an API to pull out the market data time series horizon for VAR
+calculation.
+
+Coordinating with Onsite team for development and Unit testing and also
+involved in preparing the QA and UAT environment for regression testing.
+
+Delivered the tasks effectively and efficiently within the time frame.
+
+5)
+
+Client		: CES (P) Ltd.
+
+Company	: CES (P) Ltd.					June 2005 – June 2006  
+
+Location       : Hyderabad	
+
+Designation	: Jr. Software Developer	
+
+Project(s)     : Matrimony Application
+
+	
+
+Technologies: Java/J2EE, Eclipse 3.5, SQL Server 2000, JSP, Servlets,
+HTML.  
+
+Environment: Windows & Linux
+
+                         
+
+Project Description:  
+
+	Matrimony Project
+
+Roles and Responsibilities
+
+Involved in developing the User Module which consists Login session,
+Free Registration Process, search profiles like Advanced Search, Keyword
+Search, search by city, state, country etc.,
+
+Admin Module-- Developed the add/edit/delete attributes of Master Tables
+from Database, handling membership’s Schemes, approving/restricting
+Users Profiles etc.
+
+Achievements: 
+
+
+
+Recipient of Gold Award at Bank Of America for smart fix in Post
+Release.
+
+Recipient of Silver Award at Bank Of America for successfully driving
+the Events Committee.
+
+Recipient of Silver Award at Bank Of America for successfully completing
+the LRS Build System project. 
+
+			Curriculum Vitae
+
+Ravi kumar Keelu
+
+     Mobile: 91-9703188110
+
+     Phone: 040-23890028
+
+		E-mail:   HYPERLINK "mailto:ravicool802@gmail.com" 
+ravicool802@gmail.com 
+
+	___________________________________________________________________
+

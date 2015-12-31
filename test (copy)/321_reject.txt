@@ -1,0 +1,413 @@
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate                                             -  4 years & current                                               
+
+Spring                                                    -  4 Years   & current                                            
+
+Web Services                                       -  2 yeafs                                                
+
+Core Java                                              -  7 years                
+
+Design Patterns                                   -  2 Years            
+
+UML design                                          -   has worked on 
+
+Build Tools (Maven/Ant)                   -    Ant & Maven   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+Weblogic,tomcat,websphere
+
+
+
+Ok start up
+
+Code :  100%
+
+ 
+
+Nagarjuna Reddy               			Mobile:  8187064720     
+
+E-mail:  nagarjuna0409@gmail.com
+
+ 
+
+Objective
+
+To prove my capabilities in a challenging job with a process-oriented organization that offers me continuous learning opportunities. 
+
+
+
+SUMMARY .
+
+ 7 + years of Software Development and Project Management Experience in J2EE Technologies.
+
+ Domain expertise in Banking, Financial and Capital Markets, Media & Entertainment. .
+
+Good expertise in Java, J2ee (Servlet, Jsp), Spring, Struts, Hibernate, XML,WebServices. . 
+
+Responsible for delivering the Applications to the client at the specified time lines . Identify gaps in current controls and suggest ways to improve the existing process.
+
+ Document new initiatives. . Involved in preparing the Proof of concept (POC).
+
+ Involved in all phases of Software Development life cycle.
+
+ Experienced in Handling a team and delegating the work. 
+
+Experienced in Agile Methodology.
+
+ Have done Design and Code review. 
+
+ Preparing Weekly Status report and Daily Task monitoring using Time sheet entry. . Coordination with the Clients by participating in Project management review meeting and weekly status meetings. 
+
+Troubleshooting the issues in Production environment, Good experience in transaction management using open source tools and frameworks . 
+
+Testing of new systems to ensure successful implementation. 
+
+ Involved in Project Management, Team Leading, Monitoring and delivering the applications with high quality and metrics. 
+
+Can develop a holistic overview of the organization and analytical framework for creative problem solving with conceptual knowledge in design as well as implementation . Experience in Hibernate framework for back-end connectivity and querying. 
+
+ Involved in white box testing with JUnit 3.0 and UI testing. 
+
+ Right kind of attitude to perform in the organization and to be committed and self-motivated with strong and sound programming knowledge . 
+
+Good Communication and Interpersonal skills
+
+
+
+ PROFESSIONAL EXPERIENCE . 
+
+
+
+WiproTechnologies, Hyderabad from April 2011 to till date. . 
+
+Virtusa Technologies Ltd., Chennai from April 2010 to March 2011.
+
+ CognizantTechnologies Bangalore from December 2006 to September 2009
+
+
+
+EDUCATION SUMMARY
+
+ Bachelor of Engineering (CSE) from JNTU University , March 2004 with 54.8%.
+
+ Skills SUMMARY 
+
+Programming Languages : Java Technologies : 
+
+J2EE Server-side Scripting : JSP 1.2, Servlet 2.3
+
+ RDBMS : MySql Client-side 
+
+Scripting : JavaScript, Ajax, DWR, JSON GUI : Swing, HTML 
+
+Operating Systems : MS-DOS, Windows 9x / 2000 / NT / XP, UNIX 
+
+IDE : Eclipse 3.1 
+
+Servers : JBoss, Tomcat, Weblogic
+
+ Frameworks : Spring, Struts, Hibernate, JUnit 
+
+Other Technologies : XML ,WebServices,AdobeFlex,,LiferayPortlets: Agile 
+
+
+
+PRESENT ASSIGNMENT
+
+
+
+Title                  :  FedexAirOps (Transportation Service)
+
+Duration           :  April 2010 to till date
+
+Client               :  Fedex
+
+Environment    :  Java, J2EE,  spring,  Hibernate,  Servlet,  XML,  Eclipse,
+
+Oracle, WeblogicServer, EclipseRcpRIA.
+
+Description:
+
+           FedEx Express invented express distribution and is the industry’s global leader, providing rapid, reliable, time-definite delivery to more than 220 countries and territories, connecting markets that comprise more than 90 percent of the world’s gross domestic product within one to three business days. Unmatched air route authorities and transportation infrastructure, combined with leading-edge information technologies, make FedEx Express the world’s largest express transportation company, providing fast and reliable services for more than 3.6 million shipments each business day
+
+
+
+
+
+
+
+Responsibilities:
+
+         . Involved in application architecture design phase  and  creating
+
+           the application design template.
+
+         . Responsible to get the requirements from  Onsite  coordinator  /
+
+           customer.
+
+         . Responsible  to  prepare  the  Low  Level  design  document  and
+
+           creating the reusable components for across the application
+
+         .  Mentored  junior  developers:  assisted  with   code   reviews,
+
+           conducted technology discussion groups and presentations, act as
+
+           resource for them.
+
+         . Prepared detailed design documents of each screen.
+
+         . Responsibility to do the Code Review and preparing the  IQA  for
+
+           other application components.
+
+         .  Participating  in   customer   meeting   to   identifying   the
+
+           difficulties if any, and discuss about  the  application  status
+
+           and get the requirements.
+
+         . Responsible for Detail design and GUI development.
+
+         . Worked on Spring and Hibernate mapping using annotation.
+
+         . Strong problem solving, analytical and Communication skills.
+
+
+
+PROJECT PROFILE HISTORY
+
+Title                  :  RBM
+
+Duration           :  Jan 2012 to April 2012
+
+Client               :  Barclays
+
+Environment    :  Java,  J2EE,  spring,  Struts,  Hibernate,  Servlet,  XML,
+
+Eclipse, MySQL, Tomcat, Weblogic, Linux.
+
+Description:   RBM is one of the Major Module  which  we  are  migrate  from
+
+Sybase to Sql server, and which is used to get the  different  Margin  based
+
+templates based on user input. Here we can  able  to  upload  the  portfolio
+
+with Equity, Conv Bond, Bond , Equity Options format, and we  can  find  out
+
+the Dynamic Report for uploaded portfolio. In this  Report  generation  will
+
+supports the different options like Portfolio BreakDown , Standard  Position
+
+, Margin Strategy and RBM Reports. Also some  dependent  jobs  will  run  in
+
+parallel to process the DB operation and Report Generation.
+
+Responsibilities:
+
+         . Deployment and make the necessary changes  in  configuration  as
+
+           per the migration process.
+
+         . Responsible for managing the offshore team and allocating  daily
+
+           tasks.
+
+         . Debugging the issues if any and find out the route cause of that
+
+           and resolve the issues.
+
+         . Responsible for Monitoring the Autosys jobs and if fails
+
+           immediately resolve the issues
+
+         . Delivering the Test case Reports with different scenarios and
+
+           with data comparision Report
+
+         . Responsible for reviewing and delivering the modules to client
+
+           and managiing the source code.
+
+         . Responsible for providing Estimates and validate the data which
+
+           we are migrating and sync up with existing DB if any missing.
+
+         .  Responsible  for  Code  Review  of  modules,  Responsible   for
+
+           preparing daily Status Report and for daily Time sheet entry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Project Name :    Nationwide 
+
+ 
+
+Client          :     Nationwide
+
+Nationwide is an international insurance, finance, and public relations agency based in colombus City and owned by the WPP Group. The company operates 497 offices in 125 countries around the world and employs approximately 16,000 professionals.
+
+ 
+
+Technology: 
+
+Struts,spring,jaxws,websphere application server
+
+Description: 
+
+The Project aims at creating an internal portal for the client where the employees of Nationwide sharing the information  in this application.
+
+The Projects mainly consists 0f 8 modules ,which are authentication,billing,mobile,locator,customer support,customer reports modules.
+
+customer reports module is for fetching all the documents information by calling different websetrvices from the mainframe  and other downstream applications.. 
+
+Responsibility:
+
+Development  of webservices client generation using jax ws and integrate with the web application
+
+Unit test the Junits for webservices.
+
+Integratation testing in  dev and st environments.
+
+
+
+ 
+
+ 
+
+Project Name :  Cognizant Java Community Portal (CJC Portal)
+
+ 
+
+Client          :     Cognizant
+
+Ogilvy & Mather is an international advertising, marketing, and public relations agency based in New York City and owned by the WPP Group. The company operates 497 offices in 125 countries around the world and employs approximately 16,000 professionals.
+
+Technology: 
+
+Springs 2.5, Struts 
+
+Description: 
+
+The Cognizant Java Community Portal is intended to be a one-stop shop for all Java developers in Cognizant and is designed to meet their every need – right from getting information about the latest technological advances in the Java/J2EE arena to knowing the right contacts within Cognizant to approach while including a particular technology
+
+knowing where to gather materials for knowledge enhancement and professional certifications to keeping themselves apprised of various Java related events/tech lectures/road shows across centers. 
+
+
+
+
+
+
+
+Responsibility :
+
+Development of Events,Technology,login modules.use rss feed to get Blogs and forums posted in channelone.Bug fixing.
+
+ 
+
+ Project Name :    Mustang
+
+Client          :     Netapp
+
+Ogilvy & Mather is an international advertising, marketing, and public relations agency based in New York City and owned by the WPP Group. The company operates 497 offices in 125 countries around the world and employs approximately 16,000 professionals.
+
+Technology: Springs
+
+Description: This EL (Environment Audits Library) will serve the storage function where Sales Engineers can store and retrieve "As Sold" documentation, Professional Services Engineers can store and retrieve "As Built" documentation and the members of the Global Support organization can download and view "As Sold" and "As Built" documentation. This system may also be used by Global Support to upload and share system models they develop. Xml solution is published to data base by publish web service.publisher will receive email Notification.Search Results will give results based on the searchcriteria and solution parent ,child solutions are download.For EL search functionality, the EL search screen and the search results screen would be built. using Spring. Mvc. 
+
+Responsibility: Developing  jsps using Spring MvcGenerating and spring quartz schedular,email services..wring junit test cases for search and publish , build scripts using ant.
+
+ 
+
+Project Name :    Newyorktimes.
+
+ 
+
+Client          :     Newyorktimes.
+
+ 
+
+Description :NYT – NCC B2B project was carried out to provide a complete end to end business solution to the Suppliers, Distributors and Customers of the New York Times. The objective of the NCC Print Order and Newsprint Consumption initiative is two fold. The first is to understand, manage and ultimately reduce newsprint consumption across New York Times' national print sites. The second is to improve print order related operating processes; moving away from individual spreadsheets and manual communication through faxes and email.
+
+Technology: Struts,Hibernate
+
+Responsibility: Involved in code enhancement and bugfixing of different modules.

@@ -1,0 +1,288 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+           -  2.8&
+current                                �
+�               
+
+Spring                  
+                          -  2.8years &
+current                                �
+�              
+
+Web
+Services                                
+  -  3years  &
+current                                �
+�             
+
+Core
+Java                                  
+         -  3.3years
+
+Design
+Patterns                                
+  -    used
+
+UML
+design                                 
+     -    
+
+Build Tools (Maven/Ant)                    -   
+Maven   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Eclipse,Tomcat,websphere
+
+  
+
+                                                   Jyotshna Pardhia
+
+Email:   HYPERLINK "mailto:pardhia252@gmail.com"  pardhia252@gmail.com  
+                                                                        
+                         Mobile No: +91-9014350223
+
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------
+
+	
+
+SUMMARY:
+
+Having 3.3 years of experience in IT Industry in developing Web
+applications development (J2EE) using spring, Hibernate with Tomcat
+server.
+
+Experience in finance domains like Payment Transfer in an Agile
+Methodology Environment.
+
+Hands on experience with Application framework like spring, hibernate
+and  AngularJs, JSon, JAX-WS, and JAX-RS.
+
+Experience with ORM tool like Hibernate and querying database using
+Hibernate Framework.
+
+Experience with XML, XSD in SOAP API and Rest API Development.
+
+Good experience with designed and developed components by using the
+design patterns such as Model-View-Controller (MVC), DAO pattern.
+
+Used JavaScript and AngularJS framework for the designing and developing
+of UI.
+
+Hands on experience on core java (Strong in OOPS Concepts, Exception
+Handling, Collection Framework).
+
+Good Team Player with the positive attitude and ability to learn in a
+fast-paced environment, Quick learner and Problem solving skills.
+
+Good experience at programming on different java IDE’s like Eclipse,
+STS and Net Beans.
+
+Proficient in designing and developing J2EE applications using MVC
+design Patterns with Servlets, jsp and pojo classes using Tomcat server.
+
+Experience in developing user interface code (JSP, Struts, Servlets,
+HTML, and Tomcat).
+
+Ability to work independently as well as with team members.
+
+Highly motivated self-starter and well versed in teamwork with good
+communication and interpersonal skills.
+
+Willing to learn new technologies.
+
+TECHNICAL SKILLS:
+
+Programming Languages            :   CoreJava, J2EE, Web-Services
+(JAX-WS), Xml/XSD, and JavaScript.
+
+Application Servers                      :   Apache tomcat.
+
+Databases                                    :   SQL, MySQL5.0,
+Oracle10G 
+
+Architectures                                :   Client/Server
+architecture, J2EE, Java, Servlets, Java Beans.                         
+              Frameworks                                 :   Spring,
+Hibernate, Junit, JSon and AngularJS.
+
+Development Tools                      :   Spring Tool Suite, Eclipse,
+Net Beans and SVN.
+
+Build Tools                                   :   Ant, Gradle, Vagrant,
+Jenkins, and Jira.
+
+Operating Systems                      :   Windows, LINUX, MS DOS
+
+WORK EXPERIENCE:
+
+Working as a Senior Software Engineer for BA Continuum India (BOA)
+Hyderabad from Aug 2014 to till Date.
+
+Worked as a Software Engineer for WaveCrest Payment Technology Private
+Limited Hyderabad from Dec 2011 to May 30th 2014
+
+Worked as a trainee in Technolabs Software Services Pvt Ltd. Hyderabad
+from April 2011 to Dec 2011.
+
+EDUCATIONAL Qualification:
+
+Bsc.IT   with 71.58% from Sambalpur University, Orissa (2007).
+
+Pursuing MCA in distance mode from ICFAI University Hyderabad.
+
+PROJECTS SUMMARY:     
+
+1.	Project	:	Prepaid Card Solution for Tax Refunds          Sept
+2013-till date                                               	          
+                      
+
+
+
+Client	:	Tax Products Group (TPG), US.
+
+
+
+	Role	:	Coding and Testing
+
+Team Size – 6
+
+
+
+Description
+
+TPG prepaid card offers a prepaid solution to handle individual tax
+refunds efficiently and an effective prepaid strategy. This card may
+used worldwide anywhere, also it can be used to withdraw cash at
+thousands of ATMs accepting Visa card. A direct Deposit account is
+assigned to each card and it may be used to have pay check deposited
+directly to Card. Also it provides a facility to issue an additional
+card for spouse in case the tax is filed together. Account management
+for the prepaid card also available through online web application and
+mobile anytime on the go.
+
+Technologies Used
+
+Spring
+
+Hibernate
+
+Core Java
+
+Html, JavaScript
+
+AngularJS
+
+Gradle, vagrant
+
+MySQL 5.0
+
+2.	Project	:	RPay                            Oct 2012 – Aug 2013	     
+                           
+
+
+
+Client	:	Reliance Industries Limited, India.
+
+
+
+	Role	:	Designing, Coding and Testing.
+
+Team Size – 13
+
+
+
+Description
+
+RPay is all about prepaid cards. RPay prepaid card solution facilitates
+the customer to have wallet, which can use similar to debit or credit
+card. RPay card will tie up with merchants and deliver some offers to
+customer. It is based on loosely coupled modular structure and every
+functionality can be deployed as separate module.
+
+Technologies Used
+
+Spring
+
+Hibernate
+
+Core Java
+
+Web services
+
+Gradle
+
+MySQL 5.0
+
+Junit
+
+3.	Project	:	Card Payment Program         Jan12-Oct 13 	                
+                
+
+
+
+Client	:	TMS (Tuition Management System), US.
+
+
+
+	Role	:	Programmer
+
+Team Size – 4
+
+
+
+Description:
+
+Teen Card is a payment program is for facilitating School disbursement
+to students at colleges and universities receive refund payments from
+their school every year, for financial aid award, scholarships and / or
+dropped courses. This is a complete prepaid offering to meet their exact
+specifications. The card offering provides numerous advantages to
+students. It provides immediate access to refunds. There is no waiting
+time to process Direct Deposit and also can be used to access cash via
+ATM terminals and for variety of purchases including online purchases,
+wherever VISA prepaid cards are accepted. Students can choose to send
+money from their card to bank accounts via Direct Deposit. The card is
+reloadable and also allows funds to be deposited by family and friends.
+The teen card offers a convenient way for parents to send money for
+monthly expenses also. 
+
+Technologies Used
+
+Spring
+
+Hibernate
+
+Core Java
+
+Web services
+
+Ant
+
+MySQL 5.0
+
+Junit
+
+PERSONAL INFORMATION:
+
+            Sex		          :      Female   
+
+            Date of Birth                 :      24th April 1987
+
+            Language Known         :      English, Hindi Oriya and
+Telugu.
+
+            Passport No                 :      J0814090
+
+Declaration: 
+
+I hereby declare that the information furnished above is the true to the
+best of my knowledge.
+
+	Page   PAGE  1  of   NUMPAGES  4 
+

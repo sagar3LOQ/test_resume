@@ -1,0 +1,398 @@
+Vinay Damle (7.6 years Java/J2ee)
+
+Mobile				          Email
+
++91-8600767939     HYPERLINK "mailto:damlevinay11@gmail.com /
+vinay.damle11@yahoo.com"  damlevinay11@gmail.com 
+
+TECHNICAL SUMMARY
+
+Languages	Core Java
+
+Database / ORM	Hibernate
+
+Web Technologies	Spring Modules : 
+
+Core, Context, Object Relational Mapping (ORM), Model View Controller
+(MVC), Aspect Oriented Programming (AOP), Spring Boot
+
+	Java Server Faces (JSF), Struts
+
+	Web-Services (REST & SOAP)
+
+Testing framework
+
+Tools	JUnit, Mockito
+
+SOAP UI
+
+Configuration Management	SVN, CVS and StarTeam
+
+Build tools	Maven, Gradle
+
+Certifications	Sun Certified Java Professional (SCJP 1.5)
+
+Web-Logic Certified Developer (Build Solutions 8.1)
+
+IDE
+
+Database Tools	Eclipse, STS, Web-logic Workshop
+
+SQL Developer, TOAD
+
+Integration / Tracking system	Bamboo, JIRA, Crucible
+
+Operating Systems	Windows, Unix
+
+
+
+EDUCATION DETAILS
+
+Degree	University / Board	Institute	Percentage
+
+M.E. Electronics	Shivaji University 	W.C.E, Sangli	64%
+
+
+
+B.E. Elex & Telecom	R.G.P.V Bhopal	S.G.S.I.T.S, Indore	66%
+
+
+
+H.S.C	M.P. State Board	K.P.School , Durg	66%
+
+S.S.C	M.P. State Board	K.P.School , Durg	66%
+
+
+
+EXPERIENCE CHRONOLOGY
+
+AVAYA
+
+Description	Avaya Diagnostic Server (ADS) is a secure remote access and
+alarming to provide your organization with sophisticated remote IP Phone
+diagnostics and unprecedented network visibility. Using patented
+technologies with smart agents embedded in Avaya solutions, Avaya
+Diagnostic Server provides historical network analysis to empower you to
+proactively solve network issues faster than ever before, which can lead
+to fewer escalations. This product is combination of SAL and SLAMon
+
+SLAMon (Service Level Agreement Monitor) is responsible for monitoring
+and diagnosis of the network. It captures the various impairments like
+jitter, delay, loss etc. for Audio, Video and Data traffic type and
+present them on GUI as color grid and also as charts starting from 1 day
+to 5 days data at a time. OSGI framework is used to come with SLAMon.
+
+Client	Avaya India Pvt. Ltd.
+
+Organization/ Duration	Betsol Software India Pvt. Ltd. / August 2013 to
+till date
+
+Environment	Core Java, JSF, Spring, SOA, Web-Services (REST), Unix
+
+Role	Software Developer (Analysis, Design, Development and Unit Testing)
+
+Contributions	Responsible for development both is front-end and back-end
+
+Working in JSF pages (Ice-Faces) for front-end, and Spring/Java for
+business implementation
+
+Executing all the unit test cases and recording the test results
+
+Experience on estimations, QA/QC reviews, project planning, project
+mentoring
+
+Also responsible for performing developer performance testing of the
+product
+
+Team size	12
+
+APOLLOGROUP, USA
+
+Description	Apollo is product development organization that makes
+e-learning applications for Phoenix university. This application is UI
+application that makes web service call (Soap and Rest) to Platform to
+get the data to be served on UI. It also interacts with content
+management system to get the menu's to be displayed on UI.
+
+Client	Apollo Group USA
+
+Organization/ Duration	IntraEdge Technologies Pvt. Ltd. / March 2012 to
+July 2013
+
+Environment	Core Java, Hibernate, Spring, Spring Tool Suite, SOA,
+Web-Services (SOAP/REST)
+
+Role	Software Developer (Analysis, Design, Development and Unit Testing)
+
+Contributions	Analyzing business/software and functional specifications
+
+Converting the functional specifications into technical specifications
+i.e. functional use case to technical use case
+
+Responsible for technical design documents plan and executing the same
+
+Responsible for high level and low level design diagrams
+
+Responsible for writing unit test cases for the entire business
+requirements
+
+Responsible for the development of JSF pages, Spring and Hibernate
+components
+
+Responsible for providing necessary input to the development team as and
+when required. Provided necessary guidance for the POCs developed
+
+Executing all the unit test cases and recording the test results
+
+Experience on estimations, QA/QC reviews, project planning, project
+mentoring
+
+Mentoring and training fresh team members in technical
+
+
+
+Team size	8
+
+DEUTSCHE LEASING (DL), GERMANY
+
+Description	Deutsche Leasing Integrated Angebot System (DL-IAS) is the
+leasing offer management system. Based on SOA with JSF for presentation,
+the system allows for easy reflection changes in the business into the
+system. A custom process management framework allows for simple and
+quick definition and 
+
+Management of processes. Component interactions are performed using
+services registered in service bus; also service routing also be done by
+same. Business logic is implemented in Spring which interacts with the
+database using standard JPA/ Hibernate.
+
+iMAP is one component of the IAS suite responsible for providing a
+single 
+
+window access to the various applications that make up the IAS suite.
+The iMAP provides an internationalized, localized and personalized
+environment in which the user interacts with the various applications of
+the IAS suite. 
+
+The iMAP is unique in its ability to allow for multiple instances of the
+same application (each with its own application session) to be hosted.
+This support can be seamlessly extended to existing JEE based web
+applications that are not designed or developed for supporting multiple
+instances within the same browser window.
+
+Client	Deutsche Leasing Germany
+
+Organization/
+
+Duration	Hexaware Technologies Ltd. / March 2011 to February 2012
+
+Environment	Core Java, JSF, Hibernate, Spring, Eclipse
+
+Role	Senior Developer (Analysis, Design, Development and Unit Testing)
+
+Contributions	Analyzing business/software and functional specifications
+
+Converting the functional specifications into technical specifications
+i.e. functional use case to technical use case
+
+Responsible for technical design documents plan and executing the same
+
+Responsible for high level and low level design diagrams
+
+Responsible for writing unit test cases for the entire business
+requirements
+
+Responsible for the development of JSF pages, Spring and Hibernate
+components
+
+Responsible for providing necessary input to the development team as and
+when required. Provided necessary guidance for the POCs developed
+
+Executing all the unit test cases and recording the test results
+
+Team size	6
+
+BADEN ANILINE & SODA FACTORY (BASF), GERMANY
+
+Description	GCD (Global Communication Directory) is internal application
+for the BASF. GCD_Admin (GCD Administration), GCD2 and GCD_WS are the
+main application comes under GCD. Using GCD_Admin, administrator can
+upload, authorize and delete images. Also monthly and daily schedulers
+are the part of same. GCD2 can be used to fetch employee details from
+the database and same can be printed, exported to excel and word
+document. 
+
+GCD_WS is the spring web service which sends employee(s) details to the
+consumer.
+
+Client	BASF Germany
+
+Organization/
+
+Duration	Mahindra Satyam / July 2010 to Feb 2011
+
+
+
+Environment	
+
+Core Java, JSF, SPRING, and HIBERNATE, Eclipse and Tomcat
+
+Role	Senior Developer (Analysis, Design, Development and Unit Testing)
+
+Contributions	Analyzing software requirements, functional and technical
+specifications
+
+Direct interaction with client for the requirement clarification and
+understanding
+
+Worked in developing GCD Image administration web application
+
+Performed end-to-end enhancement for GCD2 web application
+
+Developed Spring web service from the scratch
+
+Prepared the design documents for all the applications developed
+
+As a developer performed end-to-end testing for the entire applications
+
+Coding involves making use of BASF framework, which is combination of
+JSF, Spring and Hibernate
+
+Prepared the understanding document for client framework and for the
+newly developed applications
+
+Team size	1
+
+
+
+	RETAIL DEVELOPMENT, ATT, USA
+
+Description	OPUS is an application used in Company Owned Retail (COR)
+Stores for serving their customers. The end-users of OPUS are Customer
+Service Representatives (CSRs), Store Managers, Regional Sales Managers
+etc. In AT&T Mobility terms a Market (MKT) represents certain
+geographical area in the USA. Each market uses billing system. Each
+market is further divided into Sub-markets and Service Cities.
+
+OPUS also interacts with various external systems for billing purposes,
+account management etc. External application interfaces are used to
+access these systems. These external APIs interact with the external
+systems through EJB or Web services. XML request/response architecture
+is followed in case of Web services.
+
+Client	ATT, USA
+
+Organization /
+
+Duration	Tech Mahindra / December 2009 to March 2010
+
+Environment	Core Java, Struts, Eclipse, Unix
+
+Role	Developer (Development and Unit Testing)
+
+Contributions	Analyzing software requirements, functional and technical
+specifications
+
+Worked in scheduled quarterly release
+
+Coding involves incorporation of new functionality and modifying the
+database accordingly
+
+For ad-hoc releases providing support for UAT and performing DVT
+
+Team size	20
+
+
+
+MICHAEL PAGE INTERNATIONAL (MPI) SERVICE DESIGN, UK
+
+Description	MPI-Service Design provides a set of globalized applications
+for invoicing, publishing advertisements in job portal, and for
+candidate-on-boarding. These applications GRIFFIN (Global Revenue
+Interface for Finance), GAT (Global Advertisement Tool) and COB
+(Candidate-on-Boarding) will replace the existing region specific
+applications.
+
+GAT provides a singular global solution for online & offline advertising
+that will standardize the Advert Publication Lifecycle for Michael Page
+International. GAT will cover the full Advertisement Lifecycle which
+includes the: Creation; Revision; Authorization; Maintenance; & Storage
+of all advertisements. This will also include any specific systems
+interactions necessary for the completion of not only Online Advertising
+requires, but “Offline Advertisement” as well.
+
+Client	Michael Page International(MPI) UK
+
+Duration	April 2009 to December 2009
+
+Environment	Core Java, Struts, Hibernate, Web-logic, SOA, SOAP/REST
+
+Role	Developer (Analysis, Design and Development)
+
+Contributions	Analyzing software requirements, functional and technical
+specifications
+
+Prepared issue logs and raised requirement ambiguity
+
+Involved in the Business process modelling for Griffin Application
+
+Involved in the Low level Designing (LLD)
+
+Responsible for Struts and Hibernate components
+
+Prepared unit test cases and provided assistance to testing team for
+preparing end-to-end test cases
+
+Team size	40
+
+DATABASE OF RECORDS (DBOR), ATT, USA
+
+Description	DBOR (Database of Records) is a program in classic AT&T. As
+a Programmer, I designed and developed the applications and web-services
+used by AT&T clients to access business information. DBOR is AT&T's
+target information service platform. DBOR is a logical database that
+houses enterprise data that is clean, consistent, and up-to-date, with
+minimal redundancy. EDB (Enterprise Data Bus) is a main DBOR component
+that deals with real-time (transactional) information services.
+
+
+
+Client	
+
+ATT, USA
+
+Organization/
+
+Duration	Tech Mahindra / September 2007 to March 2009
+
+Environment	Core Java, Web-Logic Workshop, Eclipse, Tomcat, Unix
+
+Role	Developer (Analysis, Design and Development for one particular
+module)
+
+Contributions	Analyzing software requirements, functional and technical
+specifications
+
+Worked on scheduled quarterly releases
+
+Resolved high severity production issues to be delivered in ad-hoc
+releases
+
+Enhanced Web-Services to incorporate new business functionality
+
+Responsible for adding new functionality, enhancement, unit testing,
+troubleshooting and debugging
+
+Provided deployment and UAT support for quick resolution of issues
+
+Team size	2
+
+
+
+Declaration:
+
+I hereby, declare that the details furnished above are true to the best
+of my knowledge.
+
+(Vinay Damle)
+

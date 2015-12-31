@@ -1,0 +1,191 @@
+Profile
+
+Graduated from National Institute of Technology, Warangal with a BTech
+MME degree
+
+3 Years of overall IT experience in Java Development
+
+Strong technical skills and Good Experience in Development, in-depth
+knowledge in developing areas of Client-Server technologies using java
+OOPS, Collections, Multithreading, JDBC,  JNDI , Frame works like
+Spring, SQL 
+
+Presently working as a Senior Application Developer in Inautix
+Technologies India Pvt Ltd 
+
+Have technical expertise across software development life cycle and
+Application .
+
+Quick learner and excellent team player having ability to meet deadlines
+and work under pressure.
+
+Committed worker, Sincere, Good team player, Good communication skills.
+
+Professional Experience
+
+Organization	Role	Period
+
+Inautix Technologies India Pvt Ltd , Chennai	Sr. Application Developer
+June 2012 – present
+
+
+
+TECHNICAL Domain	Skills
+
+Operating Systems	Windows 7, Unix
+
+Languages	Java/J2EE,SQL
+
+Database	Oracle 10g, IBM DB2
+
+Technologies	Core Java ,Spring, SQL, Servlets, JSP, Toad
+
+Application Servers	WebLogic 10.3.5, Apache Tomcat 6 & 7
+
+Frameworks	Spring 3.0
+
+Design Patterns	Singleton, DAO, MVC
+
+
+
+Version controls		SVN
+
+
+
+Academic Qualifications
+
+Qualification	year	Percentage
+
+B.Tech, NITW	2008-2012	7.17 CGPA
+
+Sri Chaitanya Junior College	2006-2008	91%
+
+SSC	2006	89 %
+
+
+
+Projects in Work Place
+
+Project #1:
+
+     Client                                     : Bank of New York
+Mellon
+
+     Project Title                          : Actuate
+
+     Duration                                : Jan 2013 –Oct 2014
+
+     Company                               : Inautix Technologies
+
+     Tools and technology used   : Java, JSP, Servlets, Jdbc,
+Actuate,Oracle,Actuate. 
+
+ Roles and Responsibilities 
+
+Actuate is a responsible for Rendering Reports to Clients.
+
+Responsible for Getting the parameters and sending it to the DB and also
+fetching the data from the DB and making it run with custom
+modifications 
+
+The data access logic is purely coded in a Java program which is
+integrated into Web Application for reducing the fragmentation of the
+whole application.
+
+Developed end-to-end Web and stand-alone Java Applications and deployed
+on App and Web servers
+
+Worked for improving the performance of the Application. 
+
+Project #2:
+
+     Client                                     : Bank of New York
+Mellon
+
+     Project Title                          : ERS
+
+     Duration                                : June 2012 – Jan 2013 
+
+     Company                               : Inautix Technologies
+
+     Tools and technology used   : Java, Spring, JSP, Servlets, Oracle. 
+
+Roles and Responsibilities 
+
+ERS is an application specially designed for the clients to monitor and
+measure their Investment data in Bank of New York Mellon.
+
+Involved in migrating Workbench to ERS (Enterprise Reporting System)
+
+Involved in implementing automation tools using Spring MVC Frame work.
+
+Good hands on experience in Java , Spring, SQL and Apache Tomcat. 
+
+Develop logics for better automation and custom functions in JAVA.
+
+ Worked on developing Controllers and DAO’s.
+
+Developed automation tool for testing web applications.
+
+Project #3:
+
+     Client                                     : Bank of New York
+Mellon
+
+     Project Title                          : WorkBench
+
+     Duration                                : Oct 2014 to Present
+
+     Company                               : Inautix Technologies
+
+     Tools and technology used   : Java, JSP, Servlets,Spring, Oracle. 
+
+Roles and Responsibilities 
+
+ Developed application business logic using core java and involved in
+migrating from Workbench v1 to v2 conversion
+
+I hold the responsibility to manage various production issues related to
+the application.
+
+We developed and gave the production line software services for
+Workbench and took care of various tickets that come up during the
+business transactions. 
+
+I worked on Development in Java and support various custom application
+that were built and delivered to BNYM.
+
+ Worked on new business requirements for the client for adding reports
+to the application  
+
+Good hands on experience in Java, Spring MVC and DAO, SQL. 
+
+Awards Received
+
+Won Spot Awards for my Efficient Work for Project Workbench.
+
+Won National Level silver Medal in the Sport Archery in my Schooling.
+
+Extra-Curricular Activities
+
+Organized and Volunteered for the Hurt Locker Robotics event in
+Technozion 2010.
+
+Executive member of the Youth Red Cross Club, NITW.
+
+Volunteered in Hospitality for Technozion 2008.
+
+Declaration
+
+I declare that the above details are true as for the best of my
+knowledge and I will abide by them.
+
+Name: Charitesh Reddy Tummala
+
+Charitesh Reddy Tummala
+
+Email :   HYPERLINK "mailto:chariteshr@gmail.com"  chariteshr@gmail.com
+                                                                        
+                                                                        
+      +91-9940302348
+

@@ -1,0 +1,287 @@
+Phone: +91-9494802642
+
+                                E-mail:spreddy2714@gmail.com
+
+
+
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate                                              -  4months                                                
+
+Spring                                                     -  2.5years & current                                               
+
+Web Services                                        -  2.5 years & current                                                
+
+Core Java                                               -  2.5years
+
+Design Patterns                                    -    worked
+
+UML design                                           -    worked
+
+Build Tools (Maven/Ant)                    -    Maven   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+Weblogic/jboss/jsc container/eclipse/PMD
+
+
+
+
+
+DB:oracle
+
+
+
+SIVA PRATHAP REDDY NALABOLU
+
+
+
+Objective:
+
+	Looking for a position in a company where my experience will be utilized in robust software product development.
+
+
+
+Summary:
+
+
+
+	Close to 2.6 years of experience in software development including analysis, design, implementation and testing.
+
+
+
+Expertise in developing application using Java/J2EE, Spring, Wicket, Oracle.
+
+Expertise in developing Single page web application using AngularJS at front end.
+
+Experience in TDD using testing frameworks like JUnit(Unit Testing) & FitNesse(Acceptance Testing).
+
+Good knowledge of working in application servers like Tomcat & Jetty.
+
+Good knowledge in implementing the Web Applications using Web Frameworks like Wicket, Servlets, JSP.
+
+UI layer development using technologies like AngularJS, Javascript and HTML5.
+
+Implemented and used design patterns like Singleton, Factory, DAO for designing & writing technical specification documents.
+
+Application development tools like Eclipse.
+
+Created Functional Specification document, technical design document and code documentation done for future references.
+
+	Good communication skills, analytical, problem solving, leading and learning skills as well as keen interest in the emerging technologies, excellent team player.
+
+			Quick learner, Self Starter, Self Motivated and keen interest in learning and implementing new technologies.
+
+			Extensive Object Oriented Development OOP/OOD experience.
+
+			Tech-savvy, hard-working, enthusiastic and organized in nature.
+
+			Experience working in Scrum model of Agile development projects.
+
+ Experience (Concise)
+
+Working as Software Engineer at Prokarma Softech private Ltd, Hyderabad since  JUN 2012.
+
+ Educational Qualifications
+
+Qualification
+
+Specialization
+
+Board/University
+
+Year
+
+Marks %
+
+High School
+
+
+
+S.S.C
+
+2006
+
+90.83
+
+Intermediate
+
+M.P.C
+
+Board of Intermediate
+
+2008
+
+92.1
+
+B. Tech
+
+C.S.E.
+
+J.N.T.U
+
+2012
+
+74.7
+
+
+
+ Technical Skills/Competencies
+
+Languages
+
+Java (J2SE 5.0, Java SE 6)
+
+J2EE Technologies
+
+Spring Core, Spring JDBC, Hibernate, Servlets, JSP,  
+
+Testing Tools
+
+FitNesse, JUnit, Mokito, JMockit, Fluent Assertions API.
+
+Tools & IDE
+
+Eclipse 3.0+
+
+Databases
+
+Oracle10g, MongoDB
+
+UX Technologies
+
+HTML5, CSS
+
+Scripting
+
+JavaScript, jQuery, AngularJS, NodeJS, ExpressJS
+
+Web Servers
+
+Tomcat, Jetty
+
+Operating Systems
+
+Windows XP /Win 7/Win8/Win8.1
+
+Frameworks
+
+Spring 2.5, Apache Wicket, Hibernate, CyberArk
+
+OR Mapping Tools
+
+Hibernate
+
+
+
+Achievements/Awards
+
+I have topped the training batch with Exemplary performance.
+
+Developed Chart API using Wicket, jqPlot, which is published for Enterprise use.
+
+Developed FitNesse CMSystem , which is adopted by whole of the organization.
+
+Implemente CyberArk and built an API around it , which is quickly adopted by several projects at organization level.
+
+Solemnly responsible for so many research activities to identifying best fit solutions.
+
+Have been awarded as the Best Performer for the quarter Jan 2014- Mar 2014.
+
+Stood mandal first in SSC.
+
+Project Exposure
+
+CRP - Crew Resource Planner. This project is aimed at the effective utilization of crew resources at Union Pacific Rail Road. It has got different modules that I got chance to work on
+
+1)CTF(Call Time Forecasting)
+
+2)Guarantee Management
+
+3)CSP(Crew Slot Plan)
+
+ Project Roles/Responsibilities
+
+Module
+
+Roles/Responsibilities
+
+CTF is to forecast the train times (Arrival, Departure, Crew Call) using past history of the train times and gives the statistics which in turn displayed in UI as a chart, comparing the actuals with the forecast times (produced by the system).
+
+
+
+Front-end : Have played pivotal role in building web pages using apache wicket for 1 year, and recent requirements have been enforced to start using angular js coupled with rest-ful services and is been doing for this module for over 2 months.
+
+Back-end : Have been working on building SOAP Services using propreitery tool called “XMF” including Spring IOC, Spring JDBC, Spring AOP for more than 1 year.
+
+Guarantee Management is to calculate the efficiency of the crew using the historical data (can be called as input to our system, which is produced by an external system) and determine the possibility of employee willingness at particular moment.
+
+
+
+Front-end : I am solemnly responsible for developing two front end pages using Angular JS and Rest-ful services. Have played major role for more than 4 months on this part.
+
+Back-end : I was responsible in handling business logic using Core Java and Spring IOC and Spring JDBC for more than 6 months.
+
+CSP is to determine Slot time of the crew, which is the 4 hours windows in which they could be called for work. This decision making is again basing upon historical data and different activities that Crew/Train undergoes.
+
+
+
+Front-end : I am solemnly responsible for developing One  front end view using Angular JS and Rest-ful services. Have played major role for more than 6 months on this part.
+
+
+
+Summarized involvement
+
+Involved in developing web pages using wicket and using angularjs as per client requirements.
+
+Developed Chart API using wicket & jqPlot for CTF Charts.
+
+Involved in implementing Spring JDBC DAO layer.
+
+Involved in implementing SOAP Services using proprietary framework called XMF Services.
+
+Participated in Sprint planning.
+
+Attended daily scrum calls.
+
+Implemented prototypes for the web pages as an initial design.
+
+Responsible for FitNesse implementation in project working in conjunction with QA.
+
+Developed FitNesse CMSystem to automate version controlling of FitNesse wiki pages.
+
+Created wrapper around CyberArk for developers, which is used for passwords security.
+
+Personal Profile
+
+Full Name
+
+SIVA PRATHAP REDDY N
+
+Marital Status
+
+Single
+
+Nationality
+
+Indian
+
+Strengths
+
+Proactive attitude, good team player, good written and communication skills, Analytical & Reasoning abilities.			:	Hardworking dedication and good Communication skills
+
+
+
+ 	
+
+
+
+				                        	(SIVA PRATHAP REDDY N)
+
+
+
+
+
+Page 1 of 4

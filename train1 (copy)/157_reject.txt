@@ -1,0 +1,323 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+               -  3years
+&current                                
+               
+
+Spring                  
+                               - 
+2years&current                             
+                   
+
+Web
+Services                                
+       - 
+NA                                   
+             
+
+Core
+Java                                  
+             -  4 years
+
+Design
+Patterns                                
+    -   singleton/MVC  
+
+UML
+design                                 
+          -    
+
+Build Tools (Maven/Ant)                    -   
+Ant/Maven  
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Tomcat/jboss/eclipse/
+
+Ok to startup
+
+7.42/30%hike/60days
+
+DB:oracle
+
+Anil                                                                    
+                  +91-7095323696
+
+dhullipallaanil@gmail.com
+
+SUMMARY
+
+Having 4+ years of IT experience with Software Development of Web based
+and Client/Server applications. 	
+
+Experience in handling the project end to end.
+
+Enjoy working as a team member as well as independently.      
+
+Experience working on JSP, Servlets and JDBC.
+
+Experience of Open Source Technologies (Structs, Spring and Hibernate).
+
+Hands on experience of JMS, EJB (MDB).
+
+Extensive usage of FTP.
+
+Experience working on JBoss, ESB.
+
+Experience working on FLEX.
+
+Flexibility to work with new technologies.
+
+SKILL MATRIX
+
+Operating Systems:	Windows XP
+
+Languages:	JAVA,FLEX
+
+Databases:	Oracle 9i
+
+Web/Application Servers	 Tomcat and JBoss SOA Server
+
+Java Technologies	J2SE, J2EE, JDBC, JSP, Servlets
+
+Frameworks/Middleware	Struts 1.2, Spring, Hibernate, JMS, EJB-MDB,Wicket
+
+Methodology	SDLC,Agile
+
+IDE’s	Eclipse
+
+Other tools	SVN, Team City
+
+Build tools	Maven, Ant
+
+
+
+Experience Summary:
+
+Duration	Organization	Designation
+
+March’11  to  till date	Prokarma Softech Pvt Ltd,Hyd	Sr. Software
+Engineer
+
+May’10  to  March’11	Marlabs Software(P) Ltd ,Bangalore	Software
+Engineer
+
+
+
+PROFESSIONAL EXPERIENCE:
+
+Project #1	         :           On the Job Training
+
+ Client: Union Pacific Roads and Rails                                  
+     Duration:   July2014 to Till Date
+
+The purpose of this project is to create a system to support a formal,
+standard process for managing and capturing electronic documentation
+related to the OJT process for New Hires and Conductors in Training
+(CITs). Documentation examples include Field Evaluations, formal
+evaluations and exam score results. These forms and evaluations are
+facilitated by multiple instructors and field managers throughout the
+conductor qualification process.
+
+The solution will include measures or  check mechanisms  to ensure
+standardization and fair and consistent application. Additionally, this
+solution will capture electronic  signatures  from employees and
+trainers confirming this documentation is consistently provided to the
+employee.
+
+Environment: Java 1.6, Spring, Hibernate, Wicket,Java script, Ajax,
+JQuery, SQL Server 2005, Apache Tomcat 6, 
+
+Tools Used : SVN, VM Ware,Ant.
+
+Responsibilities:
+
+• Taken up the role of offshore coordinator.
+
+• Interaction with business user and understanding the functional
+document.
+
+•Analyzing the functional spec and preparation of work request
+
+Project #2	         :           Vesta Management
+
+Client: Trust Vesta                                                     
+                        Duration:   Jun 2012 to July2014
+
+       			  			                   
+
+Vesta is a TRUST VESTA project and which provides customer integration
+to solve the customer payment processing needs. Vesta comprises of
+several lines of business broken up from a general product offering and
+technology respective. It supports Wireless, Long Distance, Prepaid
+Debit cards, Token Service and payment services. The application is
+designed with fully VSF (Vesta Server Framework).
+
+Responsibilities: 
+
+Involved in Migration process of MPP5 ,Shared Session State, SQL 2012
+and Order Sweeper
+
+Involved in Pattern defect Implementation for Bin Number changes, IVR
+Controller, Phase-2-debit, and Address - Service changes, Money Service
+Integration.  
+
+Responsible for Stored Procedure activities in SQL SERVER 2005
+
+Responsible for doing code review/Testing/Debugging and fixing
+production issue.
+
+Involved in implementing cobertura tool for the Code Coverage activity.
+
+Integrated the code with Team City (Continuous Integration tool)
+
+Involved in Knowledge sharing and technical problem solving.
+
+Responsible for training new team member for Vesta Framework and
+process.
+
+Environment: Java 1.6, Struts 1.2, Hibernate,Java script, Ajax, JQuery,
+JSP, Servlets, ANT, SQL Server 2005, Apache Tomcat 6, Tools Used :
+Bugzilla, Team City, SVN, VM Ware. 
+
+Project #3	         :     Gordmans Enterprise Managemnet
+
+Client: Gordmans                                                        
+                           Duration:     Mar’11 to May’12
+
+             
+
+Gordmans are big in retail domain. Gordmans purchased RMS (Retail
+Management Suite) from Oracle Corporation and they have to integrate
+this RMS with their existing applications. Mainly two teams were
+involved in these Development activities.
+
+OLR: They were customizing the RMS application to fit in with the
+Gordmans existing applications.
+
+Prokarma: We are taking care of Integrating the RMS with the existing
+applications through JBoss ESBs.
+
+Ultimately the ESBs are acting like a middleman between RMS and the down
+line applications of Gordmans. So to communicate between different
+systems, where systems know only xml, csv, text files, the ESB will take
+care of the transformation and inter communication between various
+systems. Sometimes the two Systems might be taking data from Different
+databases.
+
+Responsibilities: 
+
+Involved in design and development of 100+ ESB components.
+
+Involved in development MDB Bean and uploading/downloading of  files
+using FTP.
+
+Involved in Integrating ESB component with Smooks Frameworks.
+
+Responsible for JAXB/JIBX implementation, Spring – hibernate
+integration with ESB 
+
+Involved in Soap Web Services Integration. And also in development of
+Audit Logging Module.
+
+Responsible for doing code review and fixing the issues.
+
+Supporting CIT/SIT phases.
+
+Environment: JBOSS ESB, JMS, XML, Smooks, Spring-Batch, Hibernate-ORM,
+Oracle, JIBX, JAXB, SOAP based Webservices, and Message Driven Bean,
+Tools Used : Maven.
+
+ 
+
+Project #4	         :     ITin- Travel Management
+
+Client:  IBS Software Services                                          
+                    Duration:  May’10 to March’11
+
+                                            
+
+Description:
+
+                 ITin is a web-based system developed in-house, to
+centralize and consolidate the travel management process of IBS and meet
+the following objectives:   
+
+    
+
+Establish a single Travel policy across all IBS offices.
+
+Optimize and Control travel costs by consolidating global travel.
+
+Get the best deals globally through the majors service providers in the
+industry. 
+
+Make the end-user experience as easy as possible.
+
+Responsibilities:
+
+      
+
+Obtain General information about the Company Travel.
+
+Implemented the FLEX to design the user-friendly front-end screens.
+
+Involved in implementing java code.
+
+	
+
+K
+
+L
+
+M
+
+N
+
+Q
+
+	
+
+
+
+ 
+
+.
+
+B
+
+L
+
+M
+
+摧⍶<ᘀXjxz<
+
+>
+
+œ
+
+ᘦᅨ቟㔀脈⩂䌏ᑊ伀͊儀͊帀Ɋ愀ᑊ瀀㙨酟ሀj>
+
+œ
+
+̤̀☊଀ņ㄀$␷㠀$⑈愀̤摧滅Û
+
+î 
+
+&
+
+&
+
+ý!þ!
+
+ༀInvolved in implementing Hibernate.
+
+Involved in implementation of Design patterns.
+
+Unit testing of the modules
+
+Environment: Flex, Java,Servlets and Hibernate.   
+

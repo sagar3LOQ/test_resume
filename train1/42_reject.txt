@@ -1,0 +1,256 @@
+Sunil Mehta
+Phone No: +91­ 9701446885 
+Email: sunilmehta.gkv@gmail.com
+
+Professional Profile
+Close to 6 years of experience in IT industry involving Coding, Design, Requirement Analysis
+using Enterprise Architect, Issues/Defect management using ClearQuest.
+Experienced in utilizing Java tools in business, client-server environments including Java
+Platform, Enterprise Edition (Java EE), Enterprise Java Bean (EJB).
+Very efficient in preparing Design documents with Class diagrams, Sequence diagrams, E-R
+diagrams and Activity diagrams.
+Adept in Logging, Exception Handling, Validation.
+Experienced in working on Toplink.
+Experienced in designing applications complaint with RDBMS like Oracle 11i.
+Experienced in implementing Server side components with EJB 3.0 and Toplink like Locking,
+Transaction management.
+Also interacted directly with international clients in Germany and US for Requirement
+Analysis.
+
+Work Experience
+Currently working as a Sr. Development Engineer “PramatiTechnologies,Hyderabad” from
+Apr'13 – to current.
+Worked as a Technical Consultant for “Iris Software, Delhi” from Sep’12 – Mar'13.
+Worked as Sr. Software Developer for “NIIT Technologies Limited, Noida” from Nov’09 –
+till 7th Sep’12.
+Worked as Software Engineer for “Veer Computer,Hardwar” from Jan’09 to Nov’09.
+
+Technical Skills
+Java Technologies
+
+Core Java, EJB 3.0, Swing ,Spring
+
+O/R mapping
+
+Toplink
+
+RDBMS
+
+Oracle 11
+
+Application Tools
+
+Eclipse 3.x, Enterprise Architect, Jasper
+Reports , JasperSoft BI ,SQL Developer,AMQ .
+Optimizely
+
+Source Control Management
+
+Rational ClearCase,Bit Bucket
+
+Defect Management Tools
+
+ClearQuest, TMT, Jira
+
+Operating System
+
+Windows XP,Mac os
+
+Project Details
+Pramati Technologies.
+Oct’14 -present
+
+Client
+:
+Industry
+:
+Role
+:
+Technologies:
+
+Kareo
+Healthcare
+Team Lead.
+Java 1.7, ROR ,Spring, AMQ , Optimizely Jasper reports. 
+
+ 
+
+Brief Description of the Project:
+Kareo front office . It is an extension of the existing EHR (Electronic health record).
+EHR is an application used by practitioner(doctors) to maintain health records of their
+patients.Kareo now wanted a similar product for the front offices of practitioner. This has only
+those functionality those are required by the office. Like entering patients details , managing
+appointments e.t.c
+Responsibilities:
+Requirement gathering , analysis, estimation , design and development of the product.
+Prepare development plans and monitor the progress accordingly.
+ 
+Nov’13 -Sep'14
+
+Client
+:
+Industry
+:
+Role
+:
+Technologies:
+
+Kareo
+Healthcare
+Technical Consultant.
+Java 1.6, ROR ,Spring, AMQ , Optimizely Jasper reports. 
+
+ 
+
+Brief Description of the Project:
+Kareo EHR(Electronic health record).EHR is an application used by practitioner(doctors) to
+maintain health records of their patients. When a new patients visits the practitioner his health
+and communication records are entered. Heath records are used for medication e.g if a patient
+has an allergy to a particular drug it warns the practitioner.
+The practitioner can also eprescribe medications and tests that would be sent directly to
+pharamacist.
+We implimented a reminder service which sends email/phone reminders to patients about
+their appointments and allows them confirm/cancel them.
+Responsibilities:
+Understanding the functional requirements and business process of the project.
+Involved in the Designing , Estimation and Development of the different tasks.
+Prepare development plans and monitor the progress accordingly.
+
+ 
+
+Apr’13 - Oct'13
+
+Client
+:
+Industry
+:
+Role
+:
+Technologies:
+
+ 
+
+Castlight Health
+Healthcare
+Technical Consultant.
+Java 1.5, JasperSoft BI. 
+
+Brief Description of the Project:
+Developed a BI application using Jaspersoft BI tools for castlight health customers . It
+
+contained dynamic reports and charts with drill downs for specific details. The customer could
+see the specific details like the percentage of employees registered for the month , rise or fall
+compared to previous months . Percentage of employees or household using the castlight
+services to choose the healthcare services.
+Responsibilities:
+Understanding the functional requirements and business process of the project.
+Prepare development plans and monitor the progress accordingly.
+Involved in the Designing and Development of the different tasks.
+Training other members of the project on jasperSoft BI tools.
+
+ 
+
+IRIS Software Ltd.
+
+Client
+:
+Industry
+:
+Role
+:
+Technologies:
+
+Sep’12-Mar'13
+
+(Cannot disclose)
+BFSI
+Technical Consultant.
+Java 1.5, Toplink, Weblogic 10.3, Eclipse, Jasper Reports and JUnit4.
+
+Brief Description of the Project:  
+Develop end to end utility applications for client to be used by traders like creating indicative
+price report for fixed income products. Automating manual processes etc.
+Responsibilities:
+Since I was the only member of the project I had all responsibilities from design ,
+development to testing and deployment.
+NIIT Technologies Limited
+
+Nov’09-Sep'12
+
+Client
+: DB Systel, Germany
+Industry
+: Transport
+Role
+: Senior Developer
+Technologies:Java 1.5,Toplink,Weblogic 10.3,Clearcase,ClearQuest,Eclipse,Jasper Reports
+and JUnit4.
+
+Brief Description of the Project:
+EDITH is an Event driven staff scheduling system for the German Railways, which is
+responsible for planning and updating shifts, staff schedule, monitoring commencement of
+duties using Edith Client. Schedulers can also create Master week (Roster) and the day-offs for
+the calendar year.
+In Edith Client Application there are five modes which can be used by the Schedulers for
+performing different tasks simultaneously. Administration users can import and export data
+via Edith Admin application. Administration users can use the Edith Admin Application to
+maintain the Master Data.
+Responsibilities:
+Involved in the requirements analysis for the different tasks.
+Understanding the functional requirements and business process of the project
+Prepare development plans and monitor the progress accordingly
+Involved in the Designing of the different tasks.
+
+Implementation of new tasks for both Edith Client and Admin Client.
+Help the team to understand the Business requirements involving complex functionalities
+Worked on both client side and backend for both the Client and Admin applications.
+Review the impact analysis of each component and also perform the design and code reviews
+extensively
+Veer Computers
+
+Jan’09 – Nov’09
+
+Client
+: Various Firms, Haridwar
+Industry
+: Automation
+Role
+: Developer
+Technologies:Java 1.5,Swing,Oracle 9i.
+Brief Description of the Project:
+A product used by firms representing of various companies (Indian and foreign) at B.H.E.L and
+were responsible for bidding for various tenders issued. The software helped to keep tap on
+the three end data and help the bidding process by suggesting the right amount. It helped in
+tracking the tender date, order releases and delivery details.
+Responsibilities:
+Involved in the requirements analysis for the different tasks.
+Understanding the functional requirements and business process of the project
+Setup the backend framework on the database
+Involved in the Designing various interfaces using swing.
+
+Education
+Bachelor of Technology (Computer Science and Engineering) from Gurukula kangri
+University, Haridwar.71%
+Intermediate from St Xaviers College, Ranchi. Education.71%
+S.S.C from Green Lawns School, Darjeeling.76%
+
+Personal Skills
+Good ability to work under pressure within constraints of time.
+Innovative in approach.
+Good listener
+Interact supportively within a team environment.
+
+Personal Details
+Date of Birth
+Father’s name
+Permanent Address
+Passport No
+Pan No
+
+: 02nd of February 1983
+: Vijay Kumar Mehta
+: C/o Kanchan Vastralaya, main road kujju, Hazaribagh.(Jharkhand)
+: J3893800
+: AXKPM9691G
+
+

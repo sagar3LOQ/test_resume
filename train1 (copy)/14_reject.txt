@@ -1,0 +1,228 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                  - 
+no                                   
+         
+
+Spring                  
+                                  -  2.5
+year&
+current                                �
+�               
+
+Web
+Services                                
+        -     6
+months                                 
+           
+
+Core
+Java                                  
+             -   2.7years
+
+Design
+Patterns                                
+    -    
+
+UML
+design                                 
+          -     
+
+Build Tools (Maven/Ant)                    -   
+Maven 
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Weblogic/eclipse/sonar
+
+DB:oracle
+
+VENKATA SIVA RAM KUMAR MYLAVARAPU
+
+Phone: +91 8985107175 (Mobile)				                                  
+E-mail:  HYPERLINK "mailto:msiva35@gmail.com" msiva35@gmail.com 
+
+________________________________________________________________________
+_________Objective
+
+Looking for a position in a company where my experience will be utilized
+in robust software product development.
+
+_______________________________________________________________________P
+rofessional Summary 
+
+2.6 years experience in software development including analysis, design,
+and implementation. 
+
+1.5 years experience on developing single page web application using
+AngularJS at front end.
+
+Experience in developing applications using   HYPERLINK
+"http://wicket.apache.org/" wicket  (UI), Oracle database, Spring
+framework. 
+
+Experience in using testing tools like JUnit, Mockito, JMockit, Power
+Mock & DBUnit for Java. 
+
+Good experience in JAVA/J2EE design patterns like Singleton, Factory,
+DAO. 
+
+Good knowledge in implementing the Web Applications using Web Frameworks
+like Wicket.
+
+UI layer development using technologies like AngularJS, Javascript and
+HTML5.
+
+Expertise in using Logging tools like Commons Logging and Log4j.
+
+Experience in using ORM tools like Hibernate.
+
+Experience in using various scripting tools like Ricola (Client
+specific, flavor of Jquery).
+
+Experience in using build tools Maven.
+
+Having good knowledge on Change Management System tools(Client Specific
+CMWizard)
+
+Having good knowledge in using CI tools such as Jenkins.
+
+Having good knowledge on applying code quality tools like Checkstyles,
+PMD and Findbugs.
+
+Had good experience in using Sonar (Automated code review tool).
+
+Had good experience in tools like Eclipse, PL SQL Developer and SVN.
+
+Had good experience in using Version control systems such as SVN
+(Subversion).
+
+Created Functional Specification document, technical design document and
+code documentation done for future references.
+
+Employment
+
+Currently working as Software Engineer for Prokarma softech Pvt Ltd,
+Hyderabad 
+
+Since June’ 2012 to till date.
+
+Areas of Proficiency
+
+Operating Systems	Windows XP /Win 7
+
+RDBMS		Oracle
+
+IDE Tools	Eclipse, Edit plus
+
+Internet Technologies	HTML5, CSS, XML, JavaScript, Jquery, AngularJS
+
+Languages	C, C++, JAVA (J2EE), SQL 
+
+Web and App Servers	Weblogic, Apache-Tomcat 
+
+ORM Tools 	Hibernate
+
+Frameworks	Apache wicket, Spring
+
+Testing Tools	JUnit, Mokito, Power Mock, JMockit, Fluent Assertions API
+
+Build tools	Maven and Ant
+
+
+
+_________________________________________________________Professional
+Experience 
+
+Crew Resource Planning  ( CRP )
+
+
+
+Client	Union Pacific (Rail Road), USA.   HYPERLINK "http://www.up.com/"
+www.up.com 
+
+Role	Developer
+
+Environment	Java/J2EE, Wicket, Spring (core, JDBC/Data), Oracle, Maven,
+XMFServices, Jboss EWS, Jaxb, Jquery.
+
+Project Description:
+
+CRP - Crew Resource Planner. This project is intended for Managers
+(mostly BAs), to reduce the cost and effective utilization of crew
+resources. It has 5 modules in it.
+
+1) CTF (Call Time Forecasting)
+
+2) Guarantee Management.
+
+3) DHHA (Dead Head - Held Away)
+
+4) CSP (Crew Slot Plan)
+
+5) Taxi.
+
+CTF is to forecast the train times (Estimated, Actual and Forecast)
+using past history of the train times and gives the statistics which in
+turn displayed in UI as a chart, comparing the actuals with the forecast
+times (produced by the system).
+
+Guarantee Management is to calculate the efficiency of the crew using
+the data (can be called as input to our system, which is produced by an
+external system) and determine the possibility of employee willingness
+at particular moment.
+
+CSP is to determine Slot time of the crew, which is the 4 hours windows
+in which they could be called for work. This decision making is again
+basing upon historical data and different activities that Crew/Train
+undergoes.
+
+And remaining module yet to start.
+
+Responsibilities: 	
+
+Involved in developing web pages using wicket and using AngularJs as per
+client requirements.
+
+Involved in implementing Spring JDBC DAO layer.
+
+Participated in Sprint planning.
+
+Attended daily scrum calls.
+
+Implemented prototypes for the web pages as an initial design.
+
+Designed and implemented components for the wicket pages where ever
+needed.
+
+_________________________________________________________________Educati
+on Details
+
+ 
+
+B.Tech (C.S.E) – in 2012 from Jawaharlal Nehru Technological
+University (JNTU) with 69.76%. 
+
+10+2 – in 2008 from Board of Intermediate Education, Andhra Pradesh
+with 92.3% 
+
+Xth class – in 2006 from Board of Secondary Education (SSC) with
+71.17% 
+
+_________________________________________________________________Persona
+l Profile 
+
+Date of birth		:  24th Nov 1990
+
+Nationality		:  Indian
+
+Marital Status		:  Single
+
+Hobbies		:  Playing cricket and Table Tennis and Listening music.
+
+Extra-Curricular	:  Participated in cultural activities at college
+annual day celebrations.
+

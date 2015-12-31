@@ -1,0 +1,344 @@
+	
+
+						Syed Rahmath
+
+					syedrahmath59@gmail.com,9030403405
+
+	Experience summary
+
+4.2 years of IT experience in Software Development with proficiency in
+developing Enterprise-based and Web-based applications using Java and
+J2EE technologies.
+
+Proficient in using Object Oriented Programming (OOP) for building
+n-tier architecture systems with hands on development expertise in
+front-end UI layer, application layer including middleware, core
+business frameworks and back-end database layer integration.
+
+Experience in implementing the Server side Components using Spring,
+Spring MVC and RESTFULL Web services.
+
+Experience with Object/Relational Mapping tools like Hibernate, JPA for
+data persistence.
+
+Experience in implementing the REST API using Apache CXF and Jersey.
+
+Experience in implementing the unit test cases using Junit and MOCKITO
+Framework.
+
+Having experience in Security practice services Multi-Factor
+Authentication and Fraud Management.
+
+Web application development using – HTML, Java Script, JSP, Servlets
+in conjunction with MySQL and Oracle.
+
+Experience in deploying, configuring, maintaining the application on
+Application Server Tomcat, JBoss and Apache Web Server.
+
+Strong debugging with excellent understanding of system development
+methodologies, techniques and tools. 
+
+Experience in Design, Modeling, J2EE Design Patterns and Object Oriented
+software development patterns.
+
+Employment Details:
+
+Currently working as Software Engineer for Innominds Software Pvt
+Limited since July 2011.
+
+Technical Skills
+
+Languages & Technologies		: Core Java, Spring3, Hibernate, JDBC,
+Servlets, JSP.
+
+Integrated Development Environments	: Ecplise, SpringSource Tool Suite.
+
+Test frameworks			: Junit,Mockito.
+
+Web Technologies			: HTML, JavaScript, AJAX.
+
+Web Services				: RestFul WebServices.
+
+Servers 				: Apache Tomcat6,JBoss 5.0.1.
+
+Build Tools  				: Maven.
+
+Repository Tools			: SVN,GIT.
+
+DataBases				: Oracle, Postgres, MYSQL.
+
+Educational Qualifications
+
+M.Tech(CSE) from JNTU Hyderabad in 2011.
+
+B.Tech(CSIT) from JNTU Hyderabad in 2006.
+
+	
+
+Project 1: GINA 2Factor Authentication
+
+Duration: Dec 2014 – Till Date
+
+Project Description:
+
+	GINA 2Factor Authentication is a customized solution for windows
+default authentication mechanisum.the customized solution authenticates
+the users with 2 factors one is Active Directory credentials and ArcotID
+credentials. The solution is implemented and integrated with 3
+components 1.Active Directory 2.Authminder Server and 3.IBM Identity
+Management Server. The credential mechanism consists of Password
+Authentication, One Time Password (OTP) and Questions and Answers.
+
+Roles and Responsibilities:
+
+Implemented the Rest API service to fetch and validate the Questions and
+Answers and password authentication.
+
+Implemented the Rest API for RESET Password and Roaming functionality.
+
+Configured the project environment to use Spring3, Hibernate with JPA,
+and Apache CXF Restful Services.
+
+Implemented the Test Cases to test the api’s using Junit and Mockito
+Framework.
+
+Implemented and configured JACOCO for Code Coverage.
+
+Implemented the UI Interfaces with HTML and JavaScript.
+
+Implemented java apis to fetch the data from Active Directory,
+Authminder server.
+
+	 
+
+Environments: Java6, Spring3, Hibernate with JPA, Maven, Tomcat7, MySQL
+JavaScript, HTML, ITIM Server,Authminder Server.
+
+Project 2 : MEM Administration Console
+
+Duration : Jan 2014 – November 2014
+
+Project Description:
+
+		
+
+		The Mobile Email Management Administration Console is a Web
+browser-based, graphical user interface and is accessible from any
+supported Web browser with network access to the Administration Server.
+This console enables you to manage all deployed MEM instances, where an
+instance represents a MEM Server that is available on a specified port.
+Users can use the Administration Console to configure MEM, to set up
+users and administrative roles, and perform other administrative
+operations and configuration tasks. 
+
+Mobile Email Management (MEM) offers comprehensive email security for
+your on-the-go mobile users in a bring your own device environment. It
+combines policy enforcement and classification to deliver end-to-end,
+data-centric security while maintaining a native email user experience.
+
+Roles and Responsibilities:
+
+Implemented the Jersey RESTFULL WEB Service api's for Reporting Module.
+
+Implemented the server side components using Java, Spring3.x.
+
+Implemented the front end UI components using AngularJS Framework and
+Javascript.
+
+Implemented the Controllers and Services based on functional requirments
+using AngularJS and coffe script.
+
+Involved in deploying the build in different evnironments.
+
+Environments: Java6, Spring3, Maven, Hibernate, JUnit, Tomcat7, Oracle,
+MeM, components, AngularJS, Javascript.
+
+ 
+
+Project 3 : Accelerator
+
+Duration: Oct 2013 – Dec 2014
+
+Project Description:
+
+	
+
+		Accelerator solution is a customized user friendly work-flow solution
+for setting up the secondary level step-up authentication for the
+organizations using internet banking. Once the user is successfully
+validated then the user will navigated to the main application.
+
+		The solution contains two components one is workflow designer and
+other is Accelerator. In accelerator solution, the user is expected to
+draw a solution workflow by following the User Guide, submit the
+diagram, customize the widget preferences and configure the target
+environment. The accelerator solution outcomes will be available in the
+solution artifacts tab with the files necessary for Arcot solution
+deployment.
+
+		User interface widget can be easily plugged into the required page of
+the application to have the strong authentication within that. The
+widget is an interface through which all the interaction with Arcot
+System happens, using the Arcot SDK, to verify the user credentials for
+secondary level of authentication.
+
+	Roles and Responsibilities:
+
+		
+
+Implemented the RESTFUL WEB Service API's using AuthMinder SDK for
+ArcotID, OTP, QNA.
+
+Implemented the ArcotID Roaming and Non-Roaming identification using
+Javascript Arcot Client.
+
+Implemented the UI Interfaces required for Enrollment and Authentication
+process.
+
+Implemented the Front End Service call using Ajax which communicates to
+the Accelerator for sending and receiving the Request and Response.
+
+Used JSON as a data transfer between Widget and Accelerator Service.
+
+Environments: Authminder 7.1, Tomcat 7, Java1.6, Spring Rest, MSSQL
+2008, HTML, JavaScript and Ajax.
+
+Project 4	: Taxware LLC
+
+Duration	: Apirl 2013 – Sep 2013
+
+Project Description:
+
+	
+
+		Taxware is the leading provider of automated-transaction tax
+solutions, with more than 30 years of experience in the transaction tax
+compliance business. Taxware has the sales, use and value-added tax
+solutions you need to help get it right. Taxware brings accuracy and
+compliance to your ERP system, custom-billing application or web store.
+
+Taxware uses Siteminder for Web Access Management, Authminder for
+Multifactor Authentication and CA IDM for users Identity and Roles. The
+integration between the Siteminder and Authminder is handled by an Arcot
+Adapter component. We have implemented the Customized Security Solutions
+by integrating the Siteminder, IDM and Authminder components.
+
+Roles and Responsibilities:
+
+Installation and configuration of Authminder7.1 and Arcot Adapter 2.2.9
+on Windows and Linux Environments.
+
+Customization of Arcot Adaptor functionality with respect to Taxware
+requirements.
+
+Implementation of Authminder web service API’s for Synchronization of
+Password and Security Questions & Answers between Authminder and CA IDM.
+
+Customization of UI Language on Arcot Adapoter UI with respect to
+Taxware.
+
+Configured the SSL on Servers.
+
+Implemented the custom business logic using ArrayList,Hashmap,Hashset
+and other collectios classes.
+
+Environments: Authminder 7.1, Arcot Adapter 2.2.9, JBoss5. 0.1, Java1.6,
+CA, Directory, MSSQL2008, Siteminder PolicyServer 12.5cr02, CA IDM
+12.6.1.
+
+Project 5	: Cetera MFA.
+
+Duration 	: Nov 2012 – March 2013
+
+Project Description: 
+
+Cetera Financial is a broker-dealer services provider for independent
+financial professionals 	and financial institutions, by using
+independently managed broker-dealers. Cetera provides industry and
+market insights, technology, resources and solutions needed in helping
+the clients pursue their financial goals.
+
+Cetera application uses  CA Siteminder For handling Web Access
+Management and  CA Authminder For handling the multi-factor
+authentication implementation. The integration between the two products
+is handled by an Arcot Adapter component. Adapter consists of multiple
+sub-components which can be integrated into siteminder as well as Arcot.
+
+The existing Cetera MFA implementation is such that it uses Arcot
+database as both user store and authentication store for handling
+Multi-Factor Authentication (MFA). The new implementation separates
+both, and migrates the User Store to CA Directory. User Migration is
+done in the background, on the fly without changing the existing User
+Experience. Users will not be aware of the migration process. 
+
+Roles and Responsibilities:
+
+Involved in creating the web service API’s for implementing the
+Multi-Factor Authentication.
+
+Involved in installation and configuration of Arcot Webfort 6.2 on
+development environment.
+
+Configuration of Arcot Adapter and multifactor authentication to the
+application.
+
+Understanding the business logic, designing and implementation of the
+solution as per the requirements.
+
+Implementation of Arcot Webfort APIs and providing custom
+functionalities according to the requirements.
+
+Configuring/creating custom authentication profiles/policies for various
+MFA implementations like ArcotID, QnA, OTP etc., on Arcot Webfort using
+Arcot administration console.
+
+  	
+
+Environment: JDK1.5,Tomcat 6s, WF and RF SDK, Oracle
+11g,JSP,JavaScripts,Siteminder Web Agent v12.0, Siteminder Policy Server
+v12.5,.
+
+Project 6		: Woovite
+
+Duration		: August 2011 – Oct 2012
+
+Project Description:	
+
+Woovite is an Online Event Management service portal where Woovite is an
+interface between Event Host and the Event Attendees (Guests) .Event
+Host uses Woovite to publish, organize the Event and send invitation to
+their Friends. Woovite provides the services which will be helpful for
+event host to publish their free and payable events.
+
+Responsibilities:
+
+Involved in developing server side components using Java, JSON, Restful
+web services.
+
+Implemented the business component for sending bulk invitation using
+Multi-Threading.
+
+Implemented the business components using Hashmap, HashSet,ArrayList and
+collections.
+
+Involved in writing the server side components which interacts with
+social networking sites.
+
+Involved in implementing and integration the Facebook login API.
+
+Involved in implementing the WebService APIs using Restful web services.
+
+Involved in creation of Admin Portal Reports using BIRT tools.
+
+Technologies	: Java 1.5, Jersey Rest, Servlets, JSP, Spring.
+
+Database	: Postgres
+
+Personal Details
+
+	  DATE \@"M\/D\/YYYY"  11/4/2015 	
+
+Printed on:   DATE \@"M\/D\/YYYY"  11/4/2015                            
+           -Resume-                                                     
+   Page   PAGE  1  of   NUMPAGES \*Arabic  5 
+

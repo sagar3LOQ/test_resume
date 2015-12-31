@@ -1,0 +1,445 @@
+Puneet Paneri 
+
+puneet_paneri@yahoo.co.in 
+
++91 9848882544
+
+OBJECTIVE
+
+To work in a competitive and innovative environment where I can
+contribute my best to meet organizational goals. I am constantly looking
+at newer technologies, newer ideas, better tools and software, newer
+processes to improve what we do. Have interest in Machine Learning and
+Data Science. I would like to pursue my career in Big Data Analytics.
+
+SUMMARY
+
+Total 8 years’ experience in product development, 5 years with 3i
+Infotech Ltd (Banking Domain) and 2.8 years with Oracle India and 6
+months with Pegasystems.
+
+Have designed and developed two products from scratch and have been
+among the top performers consistently.
+
+Have delivery experience of enterprise application to client, received
+project closure certificate and appreciation letter from client.
+
+Have 9 months onsite experience in development (real-time application),
+implementation and requirement analysis with successful product delivery
+for Uralsib Bank (Russia) AMLock Project.
+
+Have 1 month onsite experience of POC (proof of concept) for Bank Du
+Caire, Egypt.
+
+Have 1 month onsite experience of POC (proof of concept) for Bank BIDV,
+Vietnam.
+
+Work as freelancer, completed client project, Employee and Payroll
+Management System, Congo (Africa), working in production environment
+from 2+ year.
+
+Very much interested in data science, I work on projects on kaggel.com
+and coursolve.org.   
+
+Professional Experience 6 months - Product                              
+    Pegasystems                                  Hyderabad, AP  
+
+Product	Direct Capture of Objectives,PegaRules Process Commander(PRPC) 
+
+                             Designation: Principal Software Engineer
+
+	
+
+Professional Experience 2.8 years - Product                             
+     Oracle India                                 Hyderabad, AP  
+
+Product	Enterprise Manager (Oracle E-business Suite Plug-in) 
+
+	Designation: Project Lead	
+
+	Oracle E-Business Suite plug-in for Enterprise Manager monitors all the
+E-Business Suite instances running in an enterprise.
+
+Environment: Oracle ADF(ADF (Faces), ADF BC, ADF Tasks Flows), java,
+XML, XSD, Oracle database, weblogic application server.
+
+Professional Experience 5 years - Products                              
+     3i Infotech Limited               Hyderabad, AP  
+
+Product	FDMS ( Fraud Detection and Management System )
+
+	  FDMS is a solution for Banks to scan customers and transactions
+against blacklisted entities. Monitor suspicious activity of customers,
+calculate risk and generate alerts on suspicious accounts and
+transactions. It is browser-based high volume transaction application
+developed on the J2EE framewor, capable of running on multiple operating
+systems & databases. Using rules based engine to monitors and tracks
+down potential fraudulent transactions.
+
+Environment: java, j2ee (EJB, JMS, JAXB, JDBC, Servlet, JSP, Framework :
+Struts, Spring), XML, XSD, Webservices (SOAP, WSDL). Oracle 10g.
+Websphere 6.1,Weblogic 10.3, Lucene search engine	
+
+Product     	AMLock ( Anti Money Laundering )
+
+ 	 AMLocK is an Anti Money Laundering Solution to assist banks to detect
+and investigate suspicious customers and transactions. Real-time
+transaction monitoring application to identify illegal transactions
+involved in money laundering.
+
+  This can be deployed any Application Server like WebSphere, Weblogic,
+Pramati and JBoss. It supports both Oracle and MSSql database servers. 
+
+Environment: java, j2ee (EJB, JMS, JAXB, JDBC, Servlet, JSP, Framework :
+Struts, Spring), XML, XSD.
+
+                                                        Oracle 10g.
+Websphere 6.1,Weblogic 10.3, Lucene search engine
+
+Professional Experience - Major Projects                                
+Pegasystems India      	                             Hyderabad, AP  
+
+2015	Product Title: DCO: Direct Capture of Objectives	    Hyderabad, AP 
+                                                                     
+
+(Feb-till date)      	Team Size: 10 members.
+
+(7 Months)     		Role: Designing the product modules, preparing project
+plan, leading team to meet the deliverables. 
+
+DCO, the Direct Capture of Objectives, is the process of capturing,
+organizing and storing business process information using Process
+Commander tools. It is an enabling technology used by business, IT, QA
+and others in a collaborative way to transmit business requirements
+directly into PegaRules Process Commander(PRPC) so they can be
+transformed into processes..
+
+Environment: PRPC 7.1.8.
+
+Professional Experience - Major Projects                                
+Oracle India      	                             Hyderabad, AP  
+
+2012	Product Title: Enterprise Manager (Oracle E-Business Suite Plug-in)
+ Hyderabad, AP                                                          
+            	   
+
+(Jun-till date)      	Team Size: 10 members.
+
+(2.5+ Years)     		Role: Designing the product modules, preparing
+project plan, leading team to meet the deliverables. 
+
+First person in our team to initiate development in Oracle ADF from
+scratch. Received appreciation from management for taking initiative in
+newly adapted Oracle ADF technology in our team and completing the
+crucial project within the timeline. 
+
+Designed and developed monitoring modules for E-Business Suite Plug-in
+in Oracle ADF.
+
+Worked on HLD, impact analysis, development, unit testing and handover
+the projects to QA team.
+
+Designed database procedures and functions.
+
+Designed automated testing framework using selenium and Junits.
+
+Mentoring other team member to kick start development in ADF.
+
+Received 4/5 appraisal rating.
+
+Application Server: Weblogic Application server 
+
+Back-end (RDBMS): Oracle database 10g.
+
+Technologies: Oracle ADF, Java, J2ee, XML.
+
+Data Structure & Design Patterns: List, Map, Tree, Factory Pattern,
+Singleton, Adapter, Observer.
+
+Professional Experience - Major Projects                                
+   3i Infotech Limited                       Hyderabad, AP  
+
+2011-2012	Project Title: BIDV Bank, Vietnam.   	 Hyderabad, AP
+
+(Oct-Mar) 	Product Title: Anti Money Laundering (AMLocK)
+
+(6 month)	Achievement: Collected project closure certificate from
+client. Bank wrote an appreciation letter about my excellent work at
+onsite to the management. Received 5/5 appraisal rating.   
+
+Role: Managing project and leading the team to complete the project
+deliverables.  
+
+Went onsite to client place Vietnam and fixed the critical issues in
+order to close the project requirements. 
+
+Successfully developed and implemented Bank requirement. 
+
+Designed and developed rules in oracle 10g (stored procedures,
+functions) to identify suspicious offline transactions of a customer
+based on the Egyptian government regulations.
+
+2009-2011         Project Title: Uralsib Bank, Russia.	 Hyderabad, AP   
+                                                                   	   
+
+(Jan-Sep)      	Product Title: Anti Money Laundering (AMLocK)
+
+(2.8 Years)           Team Size: 10 members.
+
+Role: Techno functional role, designing and developing product,
+optimizing lucene search engine.
+
+Client’s point of contact from the project inception to final
+delivery.
+
+Done requirement analysis, design and development of AML application
+considering Russian regulations.
+
+Has been to on-site for 7 months for phase 1 implementation and
+requirement analysis for phase 2 developments. 
+
+Developed and integrated real-time distributed java messaging system
+(JMS) with high-volume transaction applications in a 24/7 environment
+with Core Banking System in Russia.
+
+XML Schema development. 
+
+Have Build rules in oracle 10g (stored procedures, functions) to
+identify suspicious offline/real-time transactions of a customer based
+on conditions given by the bank as per the Russian regulations.
+
+Worked on lucene search engine and customized scanning algorithms for
+customer screening in the application.
+
+Application Server: Websphere 6.1 
+
+Back-end (RDBMS): Oracle database 10g.
+
+Technologies: java, j2ee (EJB, JMS, JAXB, JDBC, Servlet, JSP, Framework
+: Struts, Spring), XML, XSD, Web services (SOAP, WSDL), Lucene search
+engine.
+
+Data Structure & Design Patterns: List, Map, Tree, Factory Pattern,
+Singleton, Adapter, Observer.
+
+2008 (Dec)	Project Title: Bank Du Caire, Egypt.   	 Hyderabad, AP
+
+(1 month)	Product Title: Fraud Detection and Management System (Prof of
+Concept)
+
+Role: On-site development of requirement for Prof Of Concept.  
+
+Successfully developed and implemented requirement during POC. 
+
+Build rules in oracle 10g (stored procedures, functions) to identify
+suspicious offline transactions of a customer based on the Egyptian
+government regulations.
+
+Developed WebService (SOAP-WSDL based) client that sends Arabic names to
+other online web application and receives equivalent English translated
+name for Name Scanning in the application internally using apache lucene
+search engine.
+
+2008(Mar-Nov)	Project Title: ICICI Bank, India.	 Hyderabad, AP          
+                                                            	  
+
+(9 months)    		Product Title: Anti Money Laundering (AMLocK)	
+
+	   Team Size : 7 members.
+
+Role: Developing the product, research on lucene search engine.
+
+Designed high performance small sample application with very good
+user-friendly interface using JSON, IFRAME, Struts, EJB that works 40%
+faster than the old AMLOCK application and got the approval to use it in
+the new developing AMLOCK Enterprise Application.   
+
+Done system study, system design and got approval from project manager
+to introduce new technical features to improve application performance
+and scalability.
+
+Redesigned and migrated averagely performing and outdated old Enterprise
+Application to AJAX, JSON, IFRAME, Struts, JMS based system that runs
+40% faster.
+
+Modified/Removed old J2EE design patterns in the application.
+
+Developed and did initial research on graphical representation of data
+in the application using JavaScript-Visualization Kit,
+JQuery-Visualization Kit, HTML5-canvas etc.
+
+Developed WebService (SOAP-WSDL based) client that sends Arabic names to
+other online web application and receives equivalent English translated
+name for Name Scanning in the application internally using apache lucene
+search engine. 
+
+Build rules in oracle 10g (stored procedures, functions)  to identify
+suspicious offline/realtimes transactions of a customer based on
+conditions given by the ICICI bank as per the regulation.
+
+Bandwidth consumption optimization using G-zip filter.
+
+Application Server: Weblogic 10.3 , Websphere 6.1 
+
+Back-end (RDBMS): Oracle 10g.
+
+Technologies: java, j2ee (EJB, JMS, JDBC, Servlet, JSP, Framework :
+Struts) ,AJAX, JQuery, JSON, Lucene search engine.
+
+Data Structure & Design Patterns: List, Map, Tree, stack, queue, Factory
+Pattern, Singleton.
+
+2007-08	Product Title: Name Scanning System                 	Hyderabad,
+AP   
+
+(Aug-Feb) 		Real-time application to read and scan online transaction
+against the standard and customized
+
+(7 Months)           	blacklisted entities (OFAC, World Checklist,
+UNCList) and send the response (Matched Records) back to the core-system
+and generates analytical reports on customers and transactions.
+Site-Minder was used for user authentication. Apache lucene search
+engine was the choice for indexing.
+
+Team Size: 10 members.
+
+Client: SAMBA Bank, Saudi Arabia.
+
+Role: Software Engineer, Design and end-to-end development of
+application.
+
+Prepared MSLLD (Module specification low level design), unit test plans.
+
+Have done the initial research on Weblogic 10.3 (Development  &
+Deployment). Took decision to use data compression utility (G-zip
+filter) to minimize bandwidth and reduced 40-50% bandwidth consumption
+for the modules accessed by more than 400 users concurrently.
+
+Have done the initial research to generate analytical reports using
+Business Objects. Successfully developed graphical reports on Business
+Objects connecting with oracle 10g database.
+
+Responsible for making required changes across the product on on-going
+basis to meet the i18n / localization requirements and making product
+available in multiple locale/languages (Arabic, English) for global
+market.
+
+Achievement: Project Scheduled for 7 months completed in 6 months. Got
+project closure certificate.
+
+Application Server: Weblogic 10.3
+
+Back-end (RDBMS): Oracle 10g.
+
+Technologies: java, j2ee (EJB, JDBC, JAXB, Servlet, JSP , Framework :
+Struts), XML, XSD.
+
+Business Intelligence: Business Objects, Lucene search engine.
+
+Data Structure & Design Patterns: List, Map, Tree, stack, queue, Factory
+Pattern, Singleton.
+
+Certifications/ self-taught TECHNOLOGY
+
+Certified System Architecture 7.1 (Pegasystems) 
+
+Certification in   HYPERLINK
+"https://s3.amazonaws.com/verify.edx.org/downloads/c0003021b3144628872f9
+73a88102426/Certificate.pdf"  Introduction to Big Data with Apache Spark
+, The University of California (  HYPERLINK "https://courses.edx.org" 
+edX ).
+
+Certification in   HYPERLINK "https://www.coursera.org/course/compdata" 
+Computing for data Analysis  (73.5%), Johns Hopkins University
+(Coursera).
+
+Certification in   HYPERLINK "https://www.coursera.org/course/ml" 
+Machine Learning  (96.4%), Stanford University (Coursera).
+
+Certification in   HYPERLINK "https://www.coursera.org/course/datasci" 
+Introduction to Data Science , University of Washington (Coursera).
+
+Certification in   HYPERLINK "https://www.coursera.org/course/procmin" 
+Process Mining: Data Science in Action , Eindhoven University of
+Technology (Coursera).
+
+Certification in   HYPERLINK
+"https://s3.amazonaws.com/verify.edx.org/downloads/48f2b18b049b4eb7a5228
+dfda0b765d0/Certificate.pdf"  The Analytics Edge , The Massachusetts
+Institute of Technology (  HYPERLINK "https://courses.edx.org"  edX ).
+
+In progress   HYPERLINK "https://www.coursera.org/course/bigdata"  Web
+Intelligence In Big Data , IIT Delhi (Coursera).
+
+EDUCATION
+
+2003-2007	School of Information Technology (Formally known as IIIT
+Kolkata)	Kolkata, WB                               	 B.E ( IT ) , GPA -
+7.9
+
+2002	Guru nanak Public School 	Udaipur, RAJ       	10+2, 74%
+
+2000	Mahaveer Vidhya Mandir							       Udaipur, RAJ
+
+	10th, 82%
+
+SKILLS 
+
+Programming Language 	: JAVA.
+
+Scripting   			: R, Python, Javascript.
+
+RDBMS 			:  Oracle 10g, SQL Server 2005.
+
+Technology 	              : J2EE ( EJB, JMS, JAXB, JDBC, Servlet, JSP ),
+XML, JAXP, SAX, DOM, StAX, XSD.
+
+                          Web Services, SOAP, WSDL, REST, AJAX, JSON,
+JQuery
+
+Framework 		: Struts, Spring, Hibernate, Oracle ADF (2.5 Years)
+
+Business Intelligence 	: Business Objects.
+
+Application Servers 	: PRAMATI Server 6, Websphere 6.1, Weblogic 10.3.
+
+Text Search Engine 	: Apache Lucene, Elastic Search. 
+
+Tools				: R Studio, Octave, Rapid Minor 5, Tableau.
+
+Big Data Technology         : Hadoop, Spark,, MongoDB, Kafka, MapReduce,
+Machine Learning, Mahout.
+
+Algorithms			: Linear Regression, Logistic Regression, Neural Network,
+SVM,Clustering, Anomaly                      
+
+  Detection, Collaborative Filtering.
+
+AWARDS AND ACHIEVEMENTS
+
+Participated and won state level chess competitions.
+
+Participated and won state level gymnastic championship.
+
+PERSONAL INFORMATION
+
+Date of Birth 				: 10th Dec. 1983
+
+Gender 						: Male
+
+Nationality				: Indian
+
+Languages					: English, Hindi, Bengali.
+
+Relevant Work Experience                               : 8 Years.
+
+Total Work Experience			: 8 Years. 
+
+Notice Period				: 30 days
+
+DATE 	:	1st July  2015
+
+LOCATION 	:  	Hyderabad							(Puneet Paneri )
+
+TECHPOINT PROFILE
+

@@ -1,0 +1,153 @@
+							SRINIVASA REDDY BAREDDY
+
+							Email id : srinibareddy@gmail.com
+
+							Contact No : 9535762532
+
+Professional Summary:
+
+Having 3+ Years of IT experience as a Software Engineer in developing
+various web applications using JAVA/J2EE Technologies.
+
+Strong programming knowledge in JAVA, JDBC, Servlets, JSP.
+
+Good implementation knowledge in Struts, Spring, Hibernate Framework.
+
+Good implementation Knowledge on Web Services  (Soap over Http, Rpc
+services)
+
+Good  knowledge on EJB, JMS.
+
+Good implementation  Knowledge on DOJO , Java Script and HTML .
+
+Good Knowledge on and JQuery .
+
+Good knowledge in Oracle<Sql>.
+
+Experience in J2EE with IDE like MyEclipse, RSA.
+
+Good working experience to develop Applications using web Servers like
+Weblogic and Web Sphere Application server.  
+
+Academic Profile:
+
+Master of Computer Applications from JNTU  in 2010.
+
+Experience Profile:
+
+Working as Software Engineer in IBM India, Bangalore from Jun 2011 to
+till date.
+
+Technical Profile:
+
+Operating Systems	:	Windows
+
+Programming Languages	:	J2SE
+
+Web Based Technology	:	J2EE(Servlets, Jsp, Jdbc)
+
+Framework	:	Struts , Spring, EJB
+
+ORM Technology	:	Hibernate
+
+Database	:	SQL
+
+Servers	:	WAS server, Web Logic.
+
+IDE	:	MyEclipse, RSA.
+
+Scripting Language	:	HTML, JavaScript, JQuery, DOJO.
+
+Others	:	Web Services(SOAP over HTTp, RPC calls) , JMS
+
+
+
+Project:#1							
+
+Title   		:  R2F (Roots 2 Financing)
+
+Client 		:  IGF
+
+Role 		: Developer
+
+Team Size	: 15
+
+Environment	: JSP, Struts, EJB, JMS, RPC services, JDBC, Hibernate,
+HTML, Spring,  JavaScript, DOJO, DB2, RSA, Web Sphere Application
+Server.
+
+Description:
+
+	The overall business goal of R2F (Routes 2 Financing) Web Services Hub
+is to enable real-time financing (credit, pricing, contract) in all
+routes-to-market with particular focus on process automation and sales
+productivity. The R2F Hub will receive all requests for financing and
+serve as a traffic cop, routing them to the appropriate back-office
+applications, including credit, pricing, and contract generation, and
+providing real-time feedback to the requestor. 
+
+Roles & Responsibilities:
+
+Understanding the Requirements.
+
+Developing UI components using DOJO Framework.
+
+Involved in implementing overlays using DOJO and RPC services.
+
+Implementation of customized Exceptions. 
+
+Developed the presentation layer and GUI framework using DOJO , JSP and
+client-side validations were done using JavaScript.
+
+Coded Service classes for business logic layer implementation.
+
+Extensively used JSP in Struts Framework for application development
+
+Project:#2								
+
+Title   		:  CFE
+
+Client 		: IGF
+
+Role 		: Developer
+
+Team Size	: 9
+
+Environment	: Core Java, Jdbc, JSP, HTML, Java Script, DOJO, Struts,
+DB2, Spring, Hibernate, JMS, web services and web sphere Application
+Server.
+
+Description:
+
+	The Contracts Front End application is a central World Wide application
+that provides the editing/management of templates and creating documents
+from those templates.  Current contract creation processes are manual
+and done thru local countries specialized custom tools or through MS
+Word documents. Since the Corporation is legally bound to the contents
+of the signed contract, the Corporation needs an application that
+standardizes these contract formats and ensures that the Legal
+department controls the contract wording.
+
+	The Corporation has a strategic Document Generation system today,
+however, the current interface and the scope of future worldwide user
+deployment requires a simple, easy to use, easy to deploy application
+that can interface into the strategic systems and provide for the
+editing and contract creation process. The Corporation also needs to
+provide the ability to create/maintain specialized paragraphs to be
+included in the document at document generation. 
+
+Responsibilities:
+
+Implemented this System using Struts Frame work according to the
+functional requirements.
+
+Involved in validating the user using Struts validation framework.
+
+Involved in Implementing UI with Jsp.
+
+Developed Jdbc code for backend processing.
+
+Used SQL for modifying, inserting, querying the data in the database.
+
+Generated and implemented Test Jsp's to test web service . 
+

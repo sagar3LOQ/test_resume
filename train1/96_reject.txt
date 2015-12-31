@@ -1,0 +1,228 @@
+																							          												
+
+ Jamal Ashraf                                                           
+             
+
+E-mail: jamalashraf0406@gmail.com                                       
+          Mobile: +91-8880002637
+
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate          :2.5years    
+                                  
+
+Spring               :3 years      
+                                 
+
+Web Services  
+ :Knowledge                              
+        
+
+Core Java          :3.2
+years                                 �
+�      
+
+Design Patterns :3 year           
+
+UML design    
+ :NA                               
+
+Build Tools (Maven/Ant)   :maven 
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]:Eclipse,Myeclipse
+
+Database           :Oracle, Mysql
+
+OBJECTIVE 	       	   	  				       	   		       	   	    
+
+Seeking a challenging career in the area of software development where I
+can create value for my company by utilizing technical proficiencies in
+Java, J2ee and growing along with the companies.
+
+SUMMARY		       	   	  				       	      			   
+
+     
+
+3+ years of Experience in IT Industry in Developing JAVA and J2EE
+applications. 
+
+Expertise in implementing J2EE technologies (JSP, Servlets, JDBC).
+
+Hands on Experience in Struts Framework.
+
+Hands on Experience in Hibernate Framework.
+
+Hands on Experience in Spring Framework.
+
+Hands on Experience in J2EE Design Patterns.
+
+Good Knowledge in JSF.
+
+Good Knowledge in Struts2
+
+ PROFESSIONAL SUMMARY		       	   	  				       	     
+
+Working for Cognizant, Bangalore Oct 2013 to till date  as Software
+Engineer.
+
+Worked for BlueStar,  Bangalore from  May 2012 to Sep 2013 as Software
+Engineer.
+
+EDUCATION
+
+B.E (CSE)  from R.G.P.V. Bhopal passed out in 2011 with 72.44%.
+
+HSC from Govt. Excellence School Shahdol with 79.00%
+
+ SSC from Govt. Excellence School Shahdol with 80.88%. 	
+
+SKILL SET
+
+Operating System	: 	Windows 98/2000/XP
+
+Languages		: 	Java, PL/ SQL, C , C++
+
+J2EE Technologies	: 	JDBC, Servlets, JSP.
+
+Frameworks		: 	Struts1.x /2.0 , JSF, Hibernate, Spring(IOC, MVC)
+
+Servers			: 	Apache Tomcat, Jboss
+
+RDBMS		: 	Oracle, MySQL
+
+IDE			: 	Eclipse, MyEclipse
+
+Tools			: 	Log4J, Maven,
+
+Testing Framework	:	Junit
+
+             Other Skills		:	HTML, JavaScript, CSS, AJAX .
+
+Project #1         :  SOFS Attribute Management System
+
+Client	            	 :   Overstock.inc (USA).
+
+Duration	 :   Oct 14 to till date.
+
+Role                    :  Develoer.
+
+Team Size       	 :   10.
+
+Environment 	 :   Java, JSP, SpringMVC,  Hibernate, Oracle and Tomcat.
+
+Description     : SOFS Attribute Management (SAM) project is ecommerce
+based project ie online shopping site in this project an admin user can
+create, edit, delete and view the product under different categories
+.Also admin can upload an excel sheet which containing product details
+such as product name , product color, product brand etc instead of
+creating product manually. This system also provide the facility to know
+that which user is created edited or deleted the product.
+
+Responsibilities: 
+
+Designed JSP’s as per the Requirement.
+
+Implemented Controller Classes.
+
+Implemented Commands Classes and their Validations 
+
+Written Spring Service Interfaces and their implementations.
+
+Written Spring DAO’s and their implementations With Hibernate.
+
+Written Hibernate Mapping Documents and Persistence Classes.
+
+Project #2        :  Health Care System               
+
+Client	            	 :   United HealthCare, US
+
+Duration	 :   Aug 13 to Sep 14.
+
+Role                   :   Developer.
+
+Team Size       	 :   8
+
+Environment 	 :   Java, JSP, Spring (MVC), Hibernate, Oracle ,Tomcat.
+
+Description	 : 
+
+                To develop a Health Center Management system, we take
+care of patient registration, drug information and concerns such as drug
+enquiries and complaints. . The system also facilitates the pharmacist 
+to enquire about the drugs and about the  stock to be ordered and about
+the expiry date from a customized home page. The system design is mainly
+categorized in to some modules. They are mainly 
+
+Registration. 
+
+Drug store.
+
+Case Records. 
+
+Daily Entries.
+
+ Responsibilities: 
+
+Designed JSP’s as per the Requirement.
+
+Implemented Controller Classes.
+
+Implemented Commands and their Validations.
+
+Implemented Page layouts using Tiles Framework.
+
+Written Spring Service Interfaces and their implementations.
+
+Written Spring DAO’s and their implementations With Hibernate.
+
+Written Hibernate Mapping Documents and Persistence Classes.
+
+Project #3       :  Rental Kiosk Pilot
+
+Client	            	 :   Alamo & National (Vanguard)
+
+Duration	 :   May 12 to Jul 13.
+
+Role                   :   Developer.
+
+Team Size       	 :   8.
+
+Environment 	 :  Java, JSP, Struts, JDBC, Eclipse ,Tomcat ,Oracle. 
+
+Description      : 
+
+                  Rental Kiosk Pilot project provides the next
+generation online car reservation facilities. It provides the service
+where a registered customer can login to identify the location, type of
+vehicle, to choose the drivers profile and all the related facilities to
+book a car. It also provides insurance security to choose type of
+vehicle and additional driver. This project also provides facility to
+calculate amount of cost depending upon the distance, location, type of
+vehicle, no of driver, type of fuel etc .To reserve car on line,
+customer must have own identity like single residence no., voter
+identity.
+
+Responsibilities:
+
+Designed JSPs as per the requirements.
+
+Involved in writing Action Classes, Tiles and Validations.
+
+Update Struts configuration document, validation document.
+
+Responsible for writing JDBC Code and Database Connections.
+
+Declaration:		 	
+
+I hereby declare that the details stated above are authentic to the best
+of my knowledge and belief.                
+
+                                                                        
+                                               
+
+                                                                        
+                                                             Jamal
+Ashraf
+

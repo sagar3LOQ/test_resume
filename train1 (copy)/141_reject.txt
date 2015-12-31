@@ -1,0 +1,170 @@
+                                              CURRICULUM VITAE 
+
+  
+
+N.S.Chalapathi                                                          
+            Flat No #101,
+
+victorycoop@gmail.com                                                   
+
+9959848200                                                              
+         BS Maktha,   
+
+                                                                        
+                   hyderabad.,    
+
+                                                                        
+                   AP – 530006. 
+
+ 
+
+Career Objective:
+
+              Explore challenging projects and gain broad knowledge
+across various domains.
+
+Educational Qualifications:	
+
+Examination	Discipline	School/College	Board/University	Year of passing
+%/
+
+CGPA
+
+I.C.S.E	I.C.S.E	Good Shepherd English Medium School	I.C.S.E	2000	85.8
+
+Intermediate	Maths,Physics,
+
+Chemistry(M.P.C)	Vikas Vidyalayam Junior college	Board of intermediate
+Education,
+
+Andhra Pradesh	2002	93.4
+
+B.E.	Electronics & Communication
+
+Engg.(E.C.E)	Andhra University College of Engineering	Andhra University
+2006	79.62
+
+M.Tech	Computer Technology	Indian Institutue  of Technology,Delhi
+IIT,Delhi
+
+	2009	8.1
+
+
+
+Work Experience:
+
+                 
+
+    MedHimalayas-drughub.in(25 March 2015 – 14 july 2015)
+
+              Serving as a Software developer with web server
+technologies at medhimalayas which spans across pharmacy domain and B2B
+, B2C userbase.using PHP and java springs, hibernate.
+
+Technologies Used : JAVA SPRING, PHP, OPENCART,REST API
+
+ The Medhimalayas Pvt Ltd. Work involves developing a common platform
+for all the pharmaceutical domain using Java Springs,Hibernate, etc
+
+Integration of Anoto Pen using a WebService to capture details of
+prescription 
+
+   
+
+   Freelance Coder (01 Feb 2011- 25 March 2015)
+
+                  I have been working as a coder delivering specific
+project across a span of domains including web and desktop based
+application. I have a huge online presence with the clients from all
+over the world and successfully delivered about 230 different small
+scale and bigger projects. I have been associated with freelancer.com
+pvt Ltd whose presence spans across various countires.and my profile is
+at   HYPERLINK "http://www.freelancer.in/u/srinichal.html" 
+http://www.freelancer.in/u/srinichal.html  with primary skillset
+involving java.
+
+Technologies Worked : JAVA,STRUTS,JSP,SPRING and HIBERNATE
+
+Amazon Seller Automation tool to track and manage inventory, sales
+specifically tailored to the client requirements. The client is a seller
+associated with Amazon with the store name AZGeek store. -   HYPERLINK
+"http://www.freelancer.in/projects/Excel-Amazon-API-Interface.html" 
+reference for more information 
+
+ Complete Instagram Management Solution developed with minimal
+operations and more automation using the API –  HYPERLINK
+"http://www.freelancer.in/projects/Custom-Project-Jan.4116410.html"
+reference for more information 
+
+Automated system for tracking and building various statistics of
+different ticket transactions across a span of sites like stubhub and
+alert system to gather the best price –   HYPERLINK
+"http://www.freelancer.in/projects/http-www-freelancer-com-projects.4609
+223.html"  reference for more information 
+
+Automted system to clean up data and display them as a widget has been
+done for the client Buffalow News – r HYPERLINK
+"https://www.freelancer.com/projects/php/Property-Transactions-Date-Impo
+rt-Export/" eference for more information 
+
+PlanetOnline Pvt Ltd (07 June 2010 –  01 Feb 2011):
+
+                 Served as a Senior Software Engineer(SSE) in insurance
+domain which involved using GWT Framework to automate the insurance
+processes and coding in Java GWT framework using hibernate and
+springs.The Profile involved customizing the user interface and
+generation corresponding interactions based on the business rules of the
+insurance industry. 
+
+Techology used : Java Spring , Hibernate,Maven
+
+The Framework involved with Planetsoft is using PICF. The tools
+developed are for insurance domain and made under Java. I have been
+associated with the development of framework in java Spring Hibernate
+along with GWT as the backbone. I have worked extensively under this
+PICF framework.
+
+Checktronix India Ltd (07 July 2009 – 25 March 2010) :
+
+                 Served as Advanced software engineer in the in the
+domain of resume parsing which includes extensive CPP with java coding
+with NLP engine.The Profile involved coding in CPP with customizing the
+system for various Resume formats depending on the country and make the
+platform learn the formats specific to various countires like UK and US.
+ 
+
+Technology used : Core Java, C++ 
+
+Resume Parsing Engine that has been coded in Cpp and java using NLP
+which mines and delivers the relevant candidates based on the search
+requirements given by using different techniques of matching and parsing
+the resumes and smartly distributing the chunks. I have worked with
+checktronix for this project for about an year.
+
+Tata Consultancy Services Ltd (T.C.S)   ( 23 May 2006 - 23 July 2007)
+: 
+
+ Served as Assistant Systems Engineer in T.C.S Ltd, Mumbai  in the
+profile of SAP IT HR module. The profile involved monitoring and report
+generation of SAP Germany servers and responding to the tickets tackling
+various issues of the clients.
+
+Projects : 
+
+The Project with TCS Ltd. Involved maintenance of SAP HR, CRM systems
+that are monitored and the necessary reports are delivered and system
+bugs are resolved by means of a pre-defined procedure that is thoroughly
+documented and given training.
+
+Skills:
+
+Holding a professional experience in C,CPP and Java  with good 
+competency.
+
+Scripting Languages include perl,python with experience in writing
+crawling and automation tools
+
+Java Spring,Hibernate, REST services,PHP and MVC OPENCART
+
+ 
+

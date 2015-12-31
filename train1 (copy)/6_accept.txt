@@ -1,0 +1,131 @@
+s
+
+Sagar Sahu
+MoB: +91-9066308788
+
+Email: sagarsahu27@gmail.com
+
+Work Experience
+• Samsung Research Institute, Bangalore
+
+June 14 - Present
+
+Software Engineer, Mulitmedia and System Software
+
+•
+•
+•
+
+Resposible for developing and optimising image processing algorithms.
+Responsible for writting ARM NEON and OpenCL code and optimising it further for SIMD operations.
+Was responsible for developing memory solutions for Android Framework.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Examination
+
+University
+
+Institute
+
+Year
+
+CPI/%
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+B Tech [Honours]
+Intermediate (Class XII)
+Matriculation (Class X)
+
+NIT Raipur
+CBSE
+CBSE
+
+NIT Raipur
+KV Barkuhi
+KV Barkuhi
+
+2014
+2009
+2007
+
+8.42
+89.8
+88.4
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Achievements
+• Got Employee of the Month for developing and testing of object tracking algorithm
+• Top 0.1% all over India in Informatics Practices in AISSCE-09 conducted by CBSE
+• ACM ICPC Asia Amritapuri Onsite Regionals Participant
+
+Nov '14
+May '09
+Dec '13
+
+Publication
+• A Computational Modeling for the Detection of Diabetic Retinopathy Severity
+
+Aug '14
+
+Published in : Bioinformation, vol. 10, issue 9 Link :
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4209363/
+
+Projects Undertaken
+
+
+
+
+
+
+
+
+
+
+
+NEON and other optimisation of data compression algorithm (HEVC etc)
+
+Mar '15
+Writting Neon based kernel of image compression and other processing algorithm , in which some of my
+optimised code has delivered upto 6-8 times better performance than the model C code
+Object tracking in depth sensor data
+Nov '14
+Written from scratch code for tracking the foreground object in the frame for 3D scan application
+on PC using OpenCV and on mobile DSP
+Memory Solutions and Device Sluggish Manager
+Sept '14
+Responsible for studying and analysing memory effect on process performance by perfoming
+device sluggish test and memory profiling. Developed and tested a solution to automate the task
+of app killing under memory crunch situation especially for low memory devices.
+Auto Detection of Diabetic Retinopathy (DR) using OpenCV C++, MATLAB and PHP July '13
+(B.Tech Team Project under Prof. Pavan Mishra)
+Studied the features that determine the severity of DR and then developed automated algorithm
+for its prediction of severity based on the DR feature set and published a research paper
+Scheduler App for Android
+June '13
+Develop an scheduler app to add reminders for events and protect it by password for privacy
+Spam Classifier Using Support Vector Machine in GNU/Octave
+Sept '12
+Designed a SVM based classifier to classify whether a email is spam or not spam with 96% accuracy
+
+Technical Skills
+• Operating Systems : Microsoft Windows and GNU/Linux
+• Programming Languages: C/C++, SQL, Java, Python, HTML5, JavaScript and R
+• Application : Oracle, MySql(Databases), GNU/Octave, Matlab (Data Modelling Software)
+• Platform : Android, CUDA , ARM-NEON(intrinsics on both armv7/arm64), Apache Spark and Hadoop
+Training and Additional Coursework
+• Got training in Android and developed a Schedulling App in Quant Tech Pvt. Ltd
+June '13
+• Basic Vocational Training in Networking in RTTC BSNL, Nagpur
+June '12
+• Studied the System Department functioning, MIS and networks of WCL (Coal India), Ngp May '12
+• Attended workshops and courses in colleges and MOOCs like Hadoop in Udacity, Machine
+Learning of Standford on Coursera, Heterogenous parallel programming on Coursera, Apache
+Spark for big Data on edX etc.
+Address: #111, Vasuda Paradise, Near Rama Temple Doddanekundi, Bangalore-560037
+LinkedIn: in.linkedin.com/in/sagarsahu27
+Github: https://github.com/sagarsahu27
+
+

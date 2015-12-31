@@ -1,0 +1,300 @@
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate                                              -  3 year&current                                                
+
+Spring                                                     -  3 year&current                                                
+
+Web Services                                        -  not worked                                                
+
+Core Java                                               -  2.5years
+
+Design Patterns                                    -    singleton
+
+UML design                                           -    
+
+Build Tools (Maven/Ant)                    -    Maven   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+Eclipse,Tomcat
+
+
+
+
+
+JAVA/J2EE Developer With 3.2+ Years of Experience 
+
+Samapika Pradhan						
+
+																	
+Contact#	: +91 8553503005                                         Bangalore, Marathahali
+
+	E-mail	: samapika190@gmail.com		             PIN-560037
+
+	
+
+
+
+	Career Objective
+
+
+
+				To work in a organization that lends me a supportive and operative learning environment with ample chance to contribute and diversifies my knowledge and skills, challenges me intellectually and offers me a good potential for future growth. 
+
+		
+
+	Professional Summary 
+
+
+
+					Having 3.2+years  experience in Software Development using Java/J2EE and Relate technologies.
+
+					Currently working as a Software Engineer fin EZAN Technologies Pvt Ltd , Bangalore.
+
+				Expertise in frameworks such as Spring for presentation and middle layer, Hibernate and JPA for Persistence 
+
+			Very good knowledge in SDLC,  Design Patterns, Windows Programming.
+
+		Good in Java, JSP, Servlet, Spring , Hibernate, Design Patterns.
+
+			Ability to design, develop product with minimal defect.
+
+			Very well versed with IDE’s like Eclipse .
+
+			Capable of self-learning to explore technical competency over a broad range of technologies
+
+		 Highly motivated team player with strong communication, analytical, problem solving and 
+
+			 organizational skills. 
+
+		Very well versed with tools like  SVN .
+
+
+	Work Experience 
+
+		
+
+			Working as a Software Engineer in EZAN Technologies Pvt Ltd., Bangalore, from to August 2011 to till date.
+
+			
+
+
+	EDUCATIONAL QUALIFICATIONS  
+
+			
+
+			BCA (Bachelor of  Computer Application) from BCCST, under UTKAL University, Odisha  .
+
+			
+
+			
+
+			
+
+			
+
+	Technical Skill Set
+
+
+
+Languages			: Core Java
+
+J2EE Technologies		: Servlet, JSP, JDBC, JSTL, Custom Tag.
+
+Framework			: Hibernate 3.0, Spring 3.0
+
+Design Pattern			: MVC, Singleton, DAO, Front-Controller, Transfer Object 
+
+Tools				: Apache Maven, SVN
+
+IDE				: Eclipse3.5                
+
+Web/Application Servers	: Apache Tomcat 6.0, BEA Web-Logic10.0
+
+ 	Methodologies			: Agile.
+
+Operating Systems		: Windows 2007
+
+			
+
+	Project Summary
+
+	
+
+	
+
+	Project #1
+
+	
+
+	Title:
+
+	Airline Ticket System
+
+	Client
+
+Universal Travel and Tourism Agency, Mumbai. 
+
+				
+
+	Duration
+
+				May 2013 to  till date 2014
+
+	OS & Tools
+
+	Java, J2EE, Spring, Hibernate, JavaScript, Oracle, CSS, Windows XP.
+
+	Team Size   
+
+	8
+
+	Responsibilities:
+
+		Participated in the Process and Domain discussions.
+
+		Involved in developing Controller Classes and service classes.
+
+		Working in designing view/presentation Layer using JSP.
+
+		Involved in coding Middle and Persistent Layer.
+
+		Involved in Unit Testing.
+
+		Involved in writing business logic for developing the Model, View and Controller.
+
+		Analyzing defects and bug fixes.
+
+Description: 
+
+	
+
+		     UTTA is Airline Travel Agency. Proposed system is developed to find the sales analysis of the airline tickets. It automates various activities of the Billing and Settlement Process. Accounting module was developed to handle the ledger entries of the sales and purchases .This system keeps the tracks of the cash ,cheque and credit card payment mode details . Automated receipts are generated to customers based on the payment type. Status of the Sales and Purchases details will be shown using Reports and Charts.
+
+	
+
+	
+
+	Project #2
+
+	Title:
+
+	Online Travel Management System
+
+	Client
+
+				Tourism Development, Chennai.
+
+	Duration
+
+				April 2012 to  to April  2013
+
+	OS & Tools
+
+	Java, J2EE, Spring, Hibernate, JavaScript, CSS, Windows XP.
+
+	Team Size   
+
+	8
+
+	Responsibilities:
+
+		Participated in the Process and Domain discussions.
+
+		Involved in developing Controller Classes and service classes.
+
+		Working in designing view/presentation Layer using JSP.
+
+		Involved in coding Middle and Persistent Layer.
+
+		Involved in Unit Testing.
+
+		Involved in writing business logic for developing the Model, View and Controller.
+
+		Analyzing defects and bug fixes.
+
+Description: 
+
+	
+
+The project “Online Travel Management System” has been Developed as per the client requirement. It has two parts admin and general user. In admin part, there are several different Modules, administrator manages all the modules. This project is mainly designed for Travel Partner. “OTMS” is software through which travel Partner Searches & Books for his requirement like Flights, Hotels, Bus and Cars. Admin also have permissions to add a new Travel Partner and de-activate their accounts.
+
+General user can only search and view the sites but can’t book.
+
+	
+
+	
+
+	Project #3
+
+	Title:
+
+	SEAM(SKILLS FOR EMPLOYMENT IN APPARE MANUFACTURING)
+
+	Client & Organization
+
+				ILFS(Government Of India)
+
+	Duration
+
+				August 2011 to March 2012
+
+	OS & Tools
+
+	JAVA,J2EE,Hibernate,Oracle,Html,Javascript
+
+	Team Size   
+
+	12
+
+	Responsibilities:
+
+		Participated in the Process and Domain discussions.
+
+		Involved in developing Controller Classes and service classes.
+
+		Working in designing view/presentation Layer using JSP.
+
+		Involved in coding Middle and Persistent Layer.
+
+		Involved in Unit Testing.
+
+		Involved in writing business logic for developing the Model, View and Controller.
+
+Description: 
+
+	
+
+This is a Government based project where there are 5 levels level1,level2, Finance1, Finance2,Accountant.In a particular level the amount has to be claimed for each training center. The amount varies if the student of each training center stays in a hostel or without hostel. As there are five levels an excel sheet is generated in each and every level. This is sent via email to the corresponding upper level. Finally the payment is released in accountant level.
+
+	
+
+
+
+	Personal Details
+
+	
+
+	Nationality          : Indian
+
+			Sex                    : Female
+
+			Marital Status     : Single
+
+			Passport             : Available
+
+			
+
+	Declaration
+
+ 	
+
+I do here by affirm that all the information that I have furnished above is true and complete to the best of my knowledge and beliefs.
+
+                             
+
+                                           
+
+		Place:  Bangalore

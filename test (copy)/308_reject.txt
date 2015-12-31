@@ -1,0 +1,436 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate   -3 year& current
+year                                  
+             
+
+Spring  - 3.5 year& current
+
+Web Services -   3 year
+
+CoreJava    -  7 years                
+
+DesignPatterns   -  5 years            
+
+UMLdesign      -   2Years
+
+Build Tools (Maven/Ant) -   Maven
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.] - Spring/code collaborator/tomcat/jboss
+
+DB – oracle/mysql
+
+Java – lil bit knowledge on reflection
+
+Kiran Jonnada
+
+Mobile: 7207188260 	
+
+email:   HYPERLINK "mailto:kiranbabujonnada@gmail.com" 
+kiranbabujonnada@gmail.com 	
+
+OBJECTIVE:
+
+I am committed to work in a challenging environment within a progressive
+and process oriented organization that offers the opportunity for
+continuous career development.
+
+PROFILE SUMMARY:
+
+Experience Summary:
+
+7 years of work experience in software development using Java/J2EE
+technologies.
+
+Domain expertise in Payment Gateways, Banking, Insurance and HR.
+
+Latest hands on experience technologies include Java, Spring Batch,
+Spring Framework 3.1, Hibernate JPA, REST Web services.
+
+Ensuring the deliverables to the client at specified deadlines –
+Release Management.
+
+Excellent managerial and team leading skills demonstrated while handling
+a team, delegating and monitoring the work.
+
+Involved in sprint planning, estimates, daily stand up meetings and
+sprint review while implementing SCRUM methodology.
+
+Handled diverse responsibilities like design, development, unit testing,
+support/debugging, and mentoring.
+
+Experienced working in both Windows and Linux systems.
+
+Experience in design and code reviews using code collaborator tool.
+
+Experience working with different application servers like JBOSS and
+Apache Tomcat. 
+
+Experienced in writing complex SQL queries with different databases like
+Oracle and MySQL.
+
+Coordinating and working closely with onsite clients while participating
+in project review meetings and weekly status calls.
+
+Preparing weekly status report, time sheets and monitoring the work
+logs.
+
+Experience in implementing third party software and open source
+technologies that can be used to enhance the organization level
+frameworks.
+
+Proven ability of effective problem solving, and working under pressure
+and deadlines while troubleshooting and debugging in a production
+support role. 
+
+Excellent communication and client facing skill demonstrated while
+taking the responsibility of ownership for a complete product.
+
+Technical Skills Summary:
+
+Languages: Java
+
+Internet technologies: HTML, CSS, XML, XSLT, XPath, JavaScript, AJAX
+
+J2EE Technologies: Servlets, JDBC, JSP, EJB, Web Services
+
+Frameworks/APIs: JUnit, JSF, Apache Struts, Spring, Hibernate
+
+Databases: Oracle, MySQL
+
+Tools: IBM RAD, Eclipse based IDEs, Saxon.
+
+Build Tools: Gradle, Maven
+
+Version Control Systems: Subversion(SVN), GIT
+
+Servers: JBOSS, Apache Tomcat  
+
+PROFESSIONAL CERTIFICATIONS:
+
+Sun Certified Web Component Developer, Enterprise Edition 5.0, Apr 2010
+
+Sun Certified Java Programmer, Standard Edition 5.0, Aug 2008
+
+EDUCATION:
+
+MS in Management - University of Bristol, UK 	Sep’ 08 – Jan’10
+
+Bachelor of Technology in Computer Science & IT  - JNTU, Hyderabad
+Oct’ 01 – Jun’ 05
+
+WORK EXPERIENCE:
+
+Systems Analyst,  Wavecrest Payment Technologies, India	Mar’ 12 –
+Till date
+
+Java Developer – Glosoft Technologies, London, UK	May’ 10 – Jan’
+12
+
+Software Engineer - Jarus Technologies, Hyderabad, India. 	Sep’ 07 –
+Sep’ 08
+
+Asst. Software Engineer – Vanez Solutions, Hyderbad, India.	May’ 05
+–  Aug’07
+
+PROJECT EXPERIENCE:
+
+Project 1: Batch Jobs - Corporate Payment Hub (CPH)	Apr’14 – Till
+date
+
+Organisation: Wavecrest Payment Technologies
+
+Client: B2B Portal for clients
+
+Description: Corporate Payment Hub is a B2B Portal for business partners
+of Wavecrest that allows the partners to register, enrol their
+program’s card holder details, manage payments to their card holders,
+to create new cards for new or registered card holders. This project’s
+main aim is to provide a user interface for business partners and
+Wavecrest operations admin to manage the requests of business partners.
+My task is to develop batch jobs for handling bulk requests from client.
+The job picks up different files that are uploaded into Wavecrest’s
+system, and process them. The file contains bulk number of requests for
+card loads and card creation.
+
+Responsibilities:
+
+Responsible for Batch job design while working closely with lead
+architects and product owner.
+
+Responsible for creating a reusable generic reader to read Microsoft
+Excel files through Spring Batch.
+
+Unit testing the batch jobs in different environments (dev integration &
+staging).
+
+Integrating the batch jobs with the CPH portal.
+
+Responsible for creating command line scripts for QA team to test the
+jobs in Linux systems.
+
+Documenting the technical details of the batch jobs that would be spread
+across clients.
+
+Providing KT to QA team to run the batch jobs.
+
+Contributions: 
+
+Batch jobs for handling bulk card load and card creation requests. 
+
+Configuring the jobs in Flux server for scheduling the jobs.
+
+Technical Snapshot: Java, Hibernate, Spring Batch, REST Web services,
+Vagrant box, Log4J, MySQL, Gradle, Flyway, Tomcat 6, SVN, Spring Source
+Tool (STS), SQL Yog, SOAP UI, Linux.
+
+Project 2: Card Management (Platform 2.0)	Dec’ 13 – Mar’ 14	
+
+Organisation: Wavecrest Payment Technologies	
+
+Client: Product (multiple clients)
+
+Description: Card Management is one of the important modules of the
+Platform 2.0. Platform is the core development framework of
+Wavecrest’s payment solutions product. Card management provides
+multiple services like providing pre-paid cards for clients, card
+activation support, card loads, wallet management, adding
+instruments/banks (to transfer money ACH in and out operations), fee
+management for transactions, balance/transaction details.
+
+Responsibilities:
+
+Responsible for design of Purchase Card API – Handling the failure
+case scenarios using spring batch.
+
+Responsible for integrating other services and portal UI with this API.
+
+Coding and implementing the API for the application using REST based web
+services.
+
+Unit testing the APIS using internal framework by JSON input. 
+
+Technical documentation of the APIs for the client.
+
+Peer reviews using code collaborator.
+
+Contributions:
+
+Developed API for ‘purchase card’ functionality which allows end
+users to purchase a card, activate and pre load money.
+
+Configured email/sms templates for a client for triggering alerts
+whenever a card load transaction is performed (both AUTHORIZATION and
+DECLINE).
+
+Technical Snapshot: Java, Hibernate, REST Web services, Spring Framework
+3.1, Vagrant Box, Log4J, MySQL, Gradle, Flyway, Tomcat 6, SVN, Eclipse,
+Spring Source Tool (STS), SQL Yog, SOAP UI, Linux.
+
+Project 3: WICS-CSR (UI)	Jan’ 13 – Dec’ 13
+
+Organisation: Wavecrest Payment Technologies
+
+Client: GTECH, U.S.A
+
+Description: The aim of this project is to provide a user interface for
+the WaveCrest Inventory Control Systems for Customer Service
+Representatives (CSR) in order for them to manage the inventory and the
+retailers. This is a b2b application provided on the top of WICS batch
+jobs to manually handle the inventory apart from the automated batch
+jobs. This application allows the user to edit the retailer details, re
+assign the inventory, place manual orders, and update the status of the
+inventory.
+
+Responsibilities:
+
+Responsible for preparing business requirement specifications along with
+onsite project manager.
+
+Responsible for architectural/technical design of the product while
+working closely with lead architects using technologies like Hibernate,
+Spring, Webservices.
+
+Responsible for delegating and monitoring the work to the team members.
+
+Took complete ownership of the project and acted as POC till date.
+
+Coordinating with onsite PHP team for the integration of the APIs.
+
+Technical documentation of the APIs for the client.
+
+Code reviews using code collaborator to ensure the coding standards are
+met while optimizing the performance of the application.
+
+Contributions:
+
+Took initiative in gathering the business requirements for the product.
+
+Took complete ownership of the product and supported operations team
+post production.
+
+Technical Snapshot: Java 1.6, Hibernate JPA, Spring Framework 3.1, SOAP
+UI, Log4J, MySQL, Gradle, Tomcat 6, SVN, Spring Source Tool (STS), SQL
+Yog, SOAP UI, Linux. 
+
+Project 4: Wavecrest Inventory System - Batch Jobs	Apr’ 12 – Dec’
+12
+
+Organisation: Wavecrest Payment Technologies
+
+Client: GTECH, U.S.A
+
+Description: The aim of this project is to develop batch jobs for
+WaveCrest Inventory system that allows adding merchants to place adhoc
+orders for pre-paid cards (inventory), re assign inventory change of
+ownership. In addition it also generates auto orders, manages shipping
+of the inventory. All the batch jobs are later configured into a
+scheduling tool called Flux which would reduce manual intervention in
+running the jobs.
+
+Responsibilities:
+
+Involved in the end to end development life cycle while implementing
+SCRUM agile methodology.
+
+Effectively used Spring Framework 3.1 along with Hibernate for
+developing business logic.
+
+Hands on experience on spring batch technology for developing batch
+jobs.
+
+Responsible for the ownership of modules like card order generation.
+
+Attending onsite manager/client calls on daily, weekly basis for
+reporting the status of the product backlog and estimations.
+
+Daily support and maintenance of the automation jobs in production.
+
+Contributions:
+
+Designed and developed a reusable framework for automated batch jobs
+using spring batch.
+
+Automation of jobs by configuring them in the FLUX server (scheduler
+tool).
+
+Technical Snapshot: Java 1.6, Hibernate JPA, Spring Framework 3.1,
+Spring Batch2.1, Log4J, MySQL, Gradle, Maven, Tomcat 6, SVN, Spring
+Source Tool (STS), SQL Yog, Linux. 
+
+Project 5: ATS for ISA version 2.0	Apr’ 11 – Jan’ 12
+
+Organisation: Glosoft Technologies, U.K.
+
+Client: Nationwide Building Society, Swindon, U.K.
+
+ATS for ISA is an internal web application used to keep the track of the
+customer’s ISA (Individual Savings Account) applications. Version 2.0
+is an upgrade for previous version which includes some improved
+performance of the application by inducing business process management
+principles into the project. This application’s main aim is to provide
+fast and paperless solution to process the applications based on the
+application type queues and also to allow managers to allocate the work
+to team members and to ensure the SLAs are met. 
+
+Responsibilities:
+
+Involved in design stage: Actively participated in developing a
+prototype model and presenting the model to clients.
+
+Coding the business logic while following the internal framework based
+on Java, Spring and Hibernate.
+
+Accountable for developing the case history module and the key stages
+modules of the application while simultaneously working in other
+modules.
+
+Actively participated in code reviews for checking coding standards.
+
+Building and deploying the applications into Dev server and testing
+environment (Unit Testing). 
+
+Assisted the project’s production phase and end user support.
+
+Involved in face to face meetings with clients during status meetings,
+end user knowledge transfer.
+
+Technical Snapshot: Java 1.5, Hibernate, Spring, web services, Log4J,
+Oracle, HTML, CSS, JavaScript, Ajax, SVN, JBOSS, ANT, Eclipse
+
+Project 6: Transform 2.1	June’ 10 – Mar’ 11
+
+Organisation: Glosoft Technologies, U.K. 
+
+Client: Nationwide Building Society, Swindon, U.K.
+
+Description: Transform 2.1 is an internal internet based web application
+that is used to retrieve the complete details of the customer including
+personal details and all the types of accounts they hold with NBS. The
+system helps the administrator in authorizing the applications and
+checking the authenticity of the customer while making telephone calls.
+It is also used to amend the personal details of the customer which
+automatically updates those details to all the existing accounts. This
+system is also useful to track the closed accounts by viewing their
+transaction history.
+
+Responsibilities:
+
+Extensively involved in the design stages with the clients, attending
+status meetings, service/change requests processing.
+
+Involved in coding and support for the transactions modules.
+
+Extensively used Eclipse IDE for development and debugging the
+applications.
+
+Developed client side coding for calling the web services to retrieve
+the customer’s history.
+
+Provided support for the production issues.
+
+Technical Snapshot: Java 1.5, Hibernate, Spring, XML, XSLT, Log4J,
+Oracle, HTML, CSS, JavaScript, Ajax, DWR, SVN, VSS, JBOSS, ANT,
+Selenium, Eclipse.
+
+Organization: Jarus Technologies, India		Sep’ 07 – Sep’ 08
+
+Client: Farmers Alliance Mutual Insurance, U.S.A
+
+Projects: 
+
+Batch-printing
+
+Description: This application is for generating, printing and uploading
+the documents to Acrosoft content management system. The user interface
+provides an efficient way for generating the documents from templates
+and input XMLs. The generated document is sent to printing and then
+archived to Acrosoft. The user interfaces are developed using JSF and
+rich faces. 
+
+Ifami-billing
+
+Description: Ifami Billing is a project used to automate the process of
+paying the bills and premiums of the policies by adding bank account
+details to their profile, creating new bill accounts for customers
+(feature for agents). 
+
+Fami-endorsements
+
+Description: This application provides solution to automate the process
+of endorsing products for insurance to vehicles and drivers. The
+insurance policies are mainly for farmers. 
+
+Technical Snapshot: JSF, Hibernate, Spring Framework, Web services, IBM
+DB2, AJAX, Yasu quick rules, Log4j, Jboss 4.0, XML, XSLT, XPath
+
+Organization: Vanez Solutions, Hyderabad, India		May’ 05 – Jul’ 07
+
+	Got trained on Java and J2ee technologies and involved in couple of
+projects in HR domain which helped me establish my career as a Java
+developer.
+
+REFERENCES: Available upon request.
+

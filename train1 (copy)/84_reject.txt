@@ -1,0 +1,222 @@
+ Rajarshi Roy			    
+
+ Flat 101, Atharva Apartments, Baner Road, Baner, Pune-411045
+
+Phone : 8087153183
+
+E-mail:dexter.roy@gmail.com
+
+PERSONAL DETAILS	Father’s Name:  Subodh Kumar Roy			
+
+Date of Birth: 24th October 1987
+
+Languages Known: Hindi, English, Bengali
+
+EDUCATION 
+
+B.Tech (BIOTECHNOLOGY)	2009	National Institute Of Technology, Durgapur
+7.19/10
+
+Class XII (WBCHSE)	2005	Vivekananda Siksha Niketan High
+School(Bankura,W.B)	76.9%
+
+Class X    (WBBSE)	2004	Vivekananda Siksha Niketan High
+School(Bankura,W.B)	88.25%
+
+
+
+
+
+	Certification: Oracle Certified Professional, Java SE 6 Programmer
+(March 2013)-93%
+
+WORK EXPERIENCE
+
+18-Jan-2010 to 18-Jan-2014 in Tata Consultancy Services Ltd.
+
+27-Jan-2014 to present in Talentica Softwares Pvt. Ltd.
+
+SUMMARY
+
+Over 5.5 years of experience in analysis, design, architect,
+development, testing and deployment of software applications. 
+
+Extensive experience in architecture, design and building complex
+business components, developing  multi-tier Web Applications, for
+Desktop as well as Mobile devices and server side business logic using
+J2EE, XML, weblogic, apache tomcat, enterprise java beans, Servlets,
+Jsp, Jdbc, RDBMS as well as NoSQL database solutions, Apache Lucene,
+Solr.
+
+Experienced with build and dependency management tools like Maven,
+Gradle; continuous integration tools like Jenkins; version control
+systems like CVS, Git, Microsoft VSS.
+
+Experience in developing secure web applications using Spring Boot and
+Hibernate framework.
+
+Mentored the team member where appropriate providing guidance and
+knowledge transfer.	
+
+Managed and coordinated periodic releases through to UAT and production
+environments.
+
+Followed agile development methodology (scrum) which includes
+incremental development with two week of iteration.
+
+Have regularly worked on evaluating and doing POC of different Software
+solutions.
+
+Projects:
+
+1. Jan-2015 to present - In Talentica Softwares Pvt. Ltd.
+
+The current project is aimed at building a QnA /Search solution for
+Legal Sector, built following the concepts of Semantic Web technologies,
+graph databases and assisted learning. 
+
+Technologies/Software solutions used : Spring
+Framework(Core/Boot/Spring-Data-JPA/Spring-Data Neo4J), Semantic
+Web/Ontology(used RDF/Apache Jena), Information Retrieval(used Apache
+Lucene/Solr),NoSQL-Graph Databases(used Neo4J/Cypher), MYSQL,
+Linux(Ubuntu 14.04)
+
+Responsibilities: 
+
+Responsible for end-to-end product development and delivery.
+
+Mentored the team members where appropriate providing guidance and
+knowledge transfer.
+
+Involved in architecture and design reviews. 
+
+Involved in requirements gathering with business analyst.
+
+Responsible for deliverables, product quality and codebase maintenance.
+
+2. Jan-2014 to Jan-2015 - Vuclip in Talentica Softwares Pvt. Ltd.
+
+Vuclip is mobile Video-on-demand provider having market penetration in
+South-East Asia, India, Middle-East and Africa. I worked in this project
+as a product developer working on building a generic platform for Vuclip
+which can be integrated with different mobile carriers to provide
+services. This generic platform is a CMS which is used to provide
+carrier-specific video-content to its users.
+
+Technologies/Software solutions used : Spring, Hibernate, EHCache,
+JS/jQuery, Web services, MYSQL DB.
+
+Other tools :  Jenkins for continuous integration.
+
+Responsibilities: 
+
+Responsible for periodic development, integration and deployment as and
+when a new mobile carrier was signed up, in South-East Asia module.
+
+Taking ownership of the instance, being responsible for product
+development, server maintenance and support.
+
+Involved in systematic enhancements of the base product.
+
+Coordination with testing team as well as client.
+
+3. Apr-2013 to Jan-2014 - Bespoke HRMS in Tata Consultancy Services Ltd.
+
+The goal of the project was to remove Oracle e-Business Suite used in
+ERP HR project of Tata Consultancy Services and replace it with a custom
+solution. I worked as a Module Leader in the project with responsibility
+of Database Migration from Oracle Apps HRMS to Bespoke Application. My
+other responsibility in the project was to co-ordinate with all
+
+the teams involved to maintain synchronization.
+
+Technologies/Software solutions used : Spring Framework(Core/MVC/JDBC),
+Hibernate, PostgreSQL DB.
+
+Other tools :  Apache Maven, Microsoft VSS
+
+Responsibilities:
+
+Involved in the core team of the pilot project, for requirement analysis
+and gathering. Bespoke HRMS was a major change as a part of internal
+restructuring of TCS and in the process, I had the opportunity to work
+alongside some of the most senior, experienced and accomplished people
+in the industry.
+
+Involved in architecture and database design of the product.
+
+Involved in designing and implementing a strategy for migration of data
+from existing Oracle database to postgresql database. Worked as a Module
+Leader for the same.
+
+Worked as the SPOC(Single person of contact) for the HRMS module, in
+order to coordinate with other teams working on other module, so that
+job execution can be done in synchronized manner.
+
+4. Jun-2010 to Apr-2013 - ERP HR Project in Tata Consultancy Services
+Ltd.
+
+The project dealt with development of Core HR functionalities for the
+organization covering modules like Recruitment, Employee Benefits,
+Separation, Payroll etc. I worked as a Developer in the project.
+
+Technologies/Software solutions used : Oracle Database 10G, Oracle
+e-Business Suite 11i, Oracle Weblogic Server, Java 1.5, JSP, JS/jQuery .
+
+Other tools : Fortify, HP WebInspect, SVN, Microsoft VSS.
+
+Responsibilities:
+
+Started working as a developer for HRMS module of ERP HR team for TCS
+Internal IT.
+
+Moved to become the module lead for HRMS module.
+
+Have worked on Oracle Apps, PL/SQL, as well as Core Java/JSP in the
+team.
+
+Mentored new team members.
+
+CERTIFICATION
+
+.
+
+Oracle Certified Professional, Java SE 6 Programmer (March 2013)-93%
+
+SOFTWARE SKILL SET
+
+Programming Languages: Core Java,JSP/Servlets, PL/SQL,Javascript
+
+Databases :  RDBMS(Oracle/PostgreSQL/MYSQL), Graph Database(Neo4J)
+
+Frameworks: Spring(Core, MVC, Security, Boot, Data etc.), Hibernate
+
+I have worked on following technologies:
+
+ Information Retrieval Solutions like Apache Lucene/Solr
+
+ Semantic Web/Ontology and there by RDF/Apache Jena.
+
+Graph based solutions/NoSQL database like Neo4J, Cypher language, Orient
+DB
+
+Good with Linux.
+
+Key Strength
+
+Software Engineer with 5+ years of experience in Analysis, Design,
+Development and Maintenance of software application in the field of
+Information Technology.
+
+A young, exuberant, creative and vibrant professional with good
+analytical ability.
+
+I am a resourceful team player and can deliver results within required
+time frame.
+
+Producing innovative yet practical solutions to challenging problems.
+
+Team player, quick learner, highly committed to responsibilities.
+
+ 
+

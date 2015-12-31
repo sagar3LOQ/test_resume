@@ -1,0 +1,247 @@
+Email:java.puspa12@gmail.com  	                                                                                                  Ph: 8142492530	
+
+                                         	
+
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate                                              -  2 year & current
+
+Spring                                                     -  2 year & current                                                
+
+Web Services                                      -  1years  &current(REsT)                                              
+
+Core Java                                               -  3 year
+
+Design Patterns                                    -    singleton,prototype
+
+UML design                                           -    worked
+
+Build Tools (Maven/Ant)                    -    Maven   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+Weblogic and tomcat,eclipse
+
+
+
+
+
+Ok for bitchemy
+
+					 Puspa Latha
+
+		Summary
+
+
+
+3+ years of strong experience in design, development and deployment of Enterprise Web applications and using J2EE technologies.
+
+I have strong knowledge on Object Oriented Analysis and design(Design Patterns).
+
+Extensively worked Sub Version (SVN), and also building and logging tools like ANT and LOG4J.
+
+Designed and developed various Screens using JSP, JavaScript, and HTML.
+
+Having domain knowledge in Web Content Management.
+
+Hands on experience with App/Web servers like Weblogic, and Tomcat
+
+I am proficient in Jasper Reports. 
+
+Proficient in using various design patterns like MVC, Data Access Object, Data Transfer Object, Factory, Singleton in the development of Multi-tier distributed Enterprise Applications.
+
+Strong Experience in working with Databases like Oracle.
+
+Excellent communication, interpersonal and analytical skills and a highly motivated team player with the ability to work independently. 
+
+Ability to learn and adapt quickly to the emerging new technologies.
+
+Excellent Communication & presentation skills, quick learner, team player
+
+Having 1 year of experience in Agile/Scrum process.
+
+Having good Knowledge on Sub Version Control System.
+
+Communicate effectively with project managers, technical leads and other internal team members.
+
+Identify opportunities for process improvement and make constructive suggestions for change.
+
+		Professional Experience Profile
+
+
+
+From August 2011 to till date Working as Software Engineer with Computer Sciences Corporation Hyderabad. 
+
+		Education
+
+	
+
+	Master of Computer Applications from Osmania University in 2011.
+
+	Bachelor of Computer Applications from Osmania University in 2008.
+
+	
+
+		Technical Skills
+
+
+
+Programming Languages		:	Core Java
+
+Distributed Languages		:      	Web Services
+
+Web Technologies			:	Servlets, Jsp.
+
+ORM Tool				:	Hibernate 
+
+Frameworks				:	Struts, Spring
+
+Web Servers             		            :	 Apache Tomcat 6.0
+
+Application Server			:	Weblogic.
+
+Utility Tools				: 	JUnit, LOG4J, ANT
+
+Databases				:	Oracle 10g
+
+Scripting Languages			:	Java Script, CSS, Html and JQuery
+
+SDLC					:	Agile/Scrum
+
+IDE					:	Eclipse, NetBeans
+
+
+
+			
+
+			Project Profile
+
+	                                                                                                                  Duration: July 2014 – till date
+
+	
+
+Project # 3		:  Insurance management System
+
+Team Size 		:  8
+
+
+
+		Description:
+
+Prudential Financials offers variety of products and services, including life insurance, mutual funds, annuities, pension and retirement-related services and administration, asset management, and banking and trust services. The proposed project is for The Prudential Insurance Company, this company serves the needs of various customers with various insurance plans ranging from life to business.
+
+Responsibilities:
+
+Implemented MVC architecture using Spring MVC in terms of JSP and Servlets.
+
+Implemented Data Access layer using Hibernate
+
+Developed application presentation logic using JSP, JSP Tag Libraries and java script.
+
+Implemented the application business logic using the concrete principles lay down by several J2EE Design patterns like MVC, Singleton, Data Transfer Object (DTO), Data Access Object (DAO).
+
+Developed SQL queries to get the required information for database.
+
+Involved in the development of Unit Test Cases using Junit.
+
+Testing out bugs during development.
+
+Handling Error messages, Warning Messages and Informational Messages
+
+Environment: Java, J2EE, Spring, Hibernate, SVN, JavaScript, Log4j, Junit, Oracle, Tomcat, Eclipse
+
+			
+
+			Project Profile
+
+	                                                                                                                 Duration: Mar 2013 – June 2014
+
+	
+
+	Project # 2 		:  MAXX
+
+Client			:  Zurich Spain, Barcelona.
+
+	Team Size 		:  08
+
+Description:	
+
+Maxx is the extended version of Info2K.the thin client application is completely a web-based application. Maxx is designed to extend the features of Info2k to the world of Internet. 
+
+This application can be used to create the quote/ offer at any point of time from any where in the world.
+
+Maxx is developed to perform policy and quote creation, claims operation (simple claims). Maxx and Info2K share the same database.
+
+Maxx gets the data from AS400 tables to build up the dynamic views.  Maxx is currently involved with two products – Motor and Home. 
+
+Business flows are defined in a XML file, which is used by java to make sure what screen should come next.
+
+Responsibilities:
+
+Involved in analyzing the tickets and finding where the problem exists and fixing the problems and suggesting the solutions. 
+
+Involved in analysis, coding and testing Documentation and promotion activities of service requests given by the client.
+
+Developed business implementation of the application by using spring Framework.
+
+Has been part of the team during 5 releases of the product.
+
+Created hibernate POJO classes for tables.
+
+Developed multitier web application Controller components by using Spring MVC.
+
+Logging of errors in application is achieved by Log4j and unit testing of the developed code is done by JUnit Framework.
+
+Involved in various phases of the project mainly Development and Maintenance of the application
+
+Used SVN for version control.
+
+Logging of errors in application is achieved by Log4j and unit testing of the developed code is done by JUnit Framework.
+
+
+
+			Project Profile
+
+                  Duration: Oct 2011 – Dec 2012
+
+	Project # 1 		:  Application Processing System
+
+	Client 			:  Ameriquest Mortgage Corporation
+
+Team Size 		:  08
+
+Description:
+
+Responsibilities:
+
+Bank Home Loans Division has an Application Processing System (APS) to find out the feasibility of loan applications. The system collects necessary customer data & based on its procedures calculates a ‘Loan Amount’ that can be sanctioned to the customer. There are various steps involved in sanctioning this loan like - Bank has to verify the property and ensure that legally it is valid. The proposed software –PAS will capture the property details and help users in doing the technical verification for the approval or decline of the proposal. PAS system sends approved property details to FINNONE system. Periodically it provides the completion status of the property so that it helps to disburse the loan amount from FINNONE system.
+
+
+
+Implemented multiple web modules using Struts MVC , and Validations.
+
+Implemented Data Access layer using Hibernate.
+
+Developed application presentation logic using JSP, JSP Tag Liabraries,Struts Tag Libraries ,and java script.
+
+Implemented the application using the concrete principles lay down by several J2EE Design patterns like MVC, Singleton ,Data Transfer Object(DTO),Data Access Object(DAO).
+
+Designed various tables required for the project.
+
+Implemented Struts related Action classes.
+
+Logging of errors in application is achieved by Log4j and unit testing of the developed code is done by JUnit Framework
+
+Requirement Analysis ,Design , Estimation and delegation of tasks
+
+Tracking the Project Execution as per the estimation and schedule.
+
+Mentoring Build and Release Activities.
+
+Preparation and execution of test cases along With QA Team.
+
+Environment: Java, J2EE,Struts,Hibernate, Servlets, Jdbc,Jsp, JavaScript, Log4j, Oracle, Tomcat, Eclipse 
+
+Role: Java DeveloperPage 1

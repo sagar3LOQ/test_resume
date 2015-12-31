@@ -1,0 +1,31 @@
+Pre-screening Technical Questionnaire :-
+
+
+
+
+
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate                       -  2 year      & current working on Mybatis                                   
+
+Spring                            - 5years & current                                               
+
+Web Services                                        -  3years & current                                               
+
+Core Java                                               -  5years
+
+Design Patterns                                    -  worked  
+
+UML design                                           -  worked  
+
+Build Tools (Maven/Ant)                    -    Ant/Maven   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+Apache Tomcat /jboss/weblogic/eclipse/EMMA
+
+
+
+DB:oracle/db2/mongo

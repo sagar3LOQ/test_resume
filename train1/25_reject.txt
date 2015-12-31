@@ -1,0 +1,37 @@
+Varun
+
+Pre-screening Technical Questionnaire :-
+
+
+
+
+
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate                                              -  1year
+
+Spring                                                     -  2 year & current                                                
+
+Web Services                                      -  2years  &current(REsT)                                              
+
+Core Java                                               -  8 year
+
+Design Patterns                                    -    aware
+
+UML design                                           -    
+
+Build Tools (Maven/Ant)                    -    gradel   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+Eclipse,static analysis tools,Tomacat,IBM websphere
+
+
+
+
+
+Ok to start up
+
+Code : 80 design 20%

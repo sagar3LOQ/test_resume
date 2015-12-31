@@ -1,0 +1,229 @@
+Bharat Pasupula	
+
+Email: bharath.pasupula@gmail.com                               		      
+              Phone: +91-9052964626
+
+												 
+
+Professional Summary:
+
+An enthusiastic,ever learning IT guy with 3+ years of experience of
+working in Software Management with  SVN and ADE as version control
+tool, PYTHON ,Django,REST,SOAP webservices ,Shell Scripting and batch
+scripting as automation aids.
+
+Currently working with Oracle India Pvt Ltd Hyderabad as Applications
+Engineer with Fusion Financial technology team.
+
+Experience working on C++ technology with Python scripting. 
+
+Experience of using Java/J2EE technologies with usage of Struts2,ADF.
+
+Experience of deployment automation and issue triaging on Weblogic 11g.
+
+Working as a single point of contact for shifting the project lifecycle
+paradigm adhering to agile development methodology.
+
+Experience in working with client tech teams and cross functional teams.
+
+Experience in working for Development Environment Support.
+
+Experience of working in onshore-offshore model, handling critical
+responsibilities.
+
+Technical Skills
+
+Software	OS: windows XP, linux
+
+SCM: SVN , ADE
+
+App Server: Weblogic 11g
+
+Technologies/Languages	Python Scripting
+
+Shell Scripting, 
+
+C++
+
+Java , J2EE, 
+
+Oracle DB , SQL ,PL/SQL
+
+Tools	Jdeveloper,Eclipse IDE, Putty, SQLDeveloper, WinSCP
+
+Domain Experience	Financials , Higher Education , Retail and
+Transportation .
+
+Management Experience	Release Management includes managing Quality
+Assurance team on one hand and Development team on the other, for smooth
+development and high quality delivery.
+
+Qualifications
+
+Degree and Date	Institute	Specialization	Percentage
+
+B.Tech(passed in 2012)	J N T U KAKINADA	Computer Science and Engineering
+74.25%
+
+12th(passed in 2007)	PRATHIBHA JR COLLEGE HYDERABAD
+Mathematics,Physics,Chemistry	89.60%
+
+10th(passed in 2005)	MONTESSORI HIGH SCHOOL KURNOOL	Maths and Science
+91.33%
+
+
+
+Project Experience Summary
+
+1
+
+ 
+
+Work Area	ORACLE Fusion Applications
+
+Domain	Fusion Higher Education / Payables
+
+Project 	Campus Community module / Invoice approval
+
+Project Duration	Apr 2014 – till date
+
+Project Description	Fusion applications Financials is the major domain
+in Fusion apps. Currently working on ADF part of Financial Payables –
+Invoice Approval process workflow. Invoice approval includes J2EE and
+ADF development . 
+
+Team Size	5
+
+Responsibilities	Developed the R12 coding part of Higher Education
+product using ADF framework and Java.
+
+Participated in the team meetings to discuss on the design part and made
+my comments.
+
+Was involved in the design of some modules respective to me.
+
+Written Technical Design Document based on the development.
+
+Helped in reiterating the Functional Design Document.
+
+Helped freshers in learning framework and also solved many issues in
+their work.
+
+Fixed n number of bugs in R7 R8 R9 R10 R11 of Invoice approval in
+Financial.
+
+Also worked on development of tools which were useful internally across
+the team.
+
+Environment	Weblogic 11g , Oracle 11g ,ADF
+
+
+
+2.
+
+Clients	FedEx
+
+Project Name	GATEKEEPER PHASE II
+
+Project Description	Gatekeeper Phase II Web-based application it is
+fully modified and enhanced version
+
+Of already existing inventory system named Gatekeeper. The application
+is used for maintaining the inventory of physical assets in use at FedEx
+Express locations and international locations and also it will support
+800 concurrent user requests at any point of time. Performance and
+availability is the key concern of this version and at any point of time
+any transaction should not take more than 4 seconds.
+
+Project Duration	Sep-2012 to Mar-2014
+
+Team size	11
+
+Responsibilities	Involved in various phases of Software Development Life
+Cycle (SDLC) of the application like Requirement gathering, validating
+SRS, DDS, Design, Analysis and Code development, bug fixing, testing and
+24/7 production support. 
+
+Migrated the entire Gatekeeper application from Struts 1 to Struts2.
+
+Developed and implemented the MVC Architectural Pattern using Struts 2
+Framework including JSP, Servlets, Action classes.
+
+Proficiently created/modified new stored procedure, indexes, sequences,
+tables for application. 
+
+Created interactive reports in PDF/EXCEL format for all types of
+reports.
+
+Added functionality to send email with PDF as an attachment. 
+
+Configured the web logic server in clustered environment in DEV, TEST
+and PLA level and deployed the application.
+
+Created shell script in server side which is used to invoke various
+application related batch job.
+
+Created a Batch job which will interact with LDAP in order to get up to
+date FedEx employee data.
+
+Implemented static service module which is an application level caching
+mechanism for better performance.
+
+Implemented a client from WSDL to interact and get employee Training
+data from 3rd party system called CTMS.
+
+Implemented Java/J2EE Design patterns like singleton, Data Transfer
+Object, Data Access Object, Service Locator and Business Delegate. 
+
+Worked with QA team for testing and resolved n numbers of defects. 
+
+Build a team with juniors members, shared application and technical
+knowledge and assigned worked to them in order to achieve strict
+deadlines.
+
+Environment
+JAVA/J2EE,Struts2,Hibernate,EJB,JMS,POI,ITEXT,JSP,Servlet,AJAX,Javascrip
+t,Html,CSS,Weblogic,oracle 10g
+
+ 
+
+Key Competencies & Skills 
+
+	
+
+Skill	Proficiency (E0 to E4)
+
+Shell Script	E3
+
+Python	E3
+
+C++	E3
+
+Unix/Linux	E3
+
+Java	E4
+
+J2EE	E4
+
+
+
+Achievements ( Professional )
+
+Received MARVEL-BEST NEW JOINEE AWARD for the year 2012-13 from WIPRO
+TECHNOLOGIES for excellent services provided.
+
+Passport Details
+
+Name as on passport	Passport Number	Date of Issue	Expiry Date	Place of
+Issue
+
+Sai Bharat Chandra Pasupula	K6406965 
+
+	04/06/12	03/06/22	HYDERABAD 
+
+
+
+
+
+TECHPOINT PROFILE
+

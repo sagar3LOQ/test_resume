@@ -1,0 +1,111 @@
+Ganeswara Rao D
+Plot # 530, OU Colony,
+Shaikpet, Hyderabad
+Education
+
++91 - 7702 101519
+ganesh87.gani@gmail.com
+
+• IIIT - Hyderabad, India
+Bachelor of Technology in Computer Science and Engineering
+Honors in Natural Language Processing
+C.G.P.A: 7.87/10
+
+2005 - 2009
+
+Skill Set
+• Programming Languages: C, C++, Java, Python, Shell, Javascript
+• Technologies: Android SDK/NDK, Redis, Lucene, CUDA, Spring MVC, AngularJS
+• Tools: Eclipse, Git, Firebug, Wordnet, HttpClient, Piwik, Vagrant
+Work Experience
+• Team Lead at Wavecrest Payment Technologies
+
+November 2012 - Present
+
+Payments Platform is built to enable businesses organize their payment transactions easily. To handle
+variations in businesses and policies of geography, configurations are provided in the form of capabilities,
+rules and options. To provide a complete solution, third party services are integrated. Multiple channels
+of interaction (API, web, IVR) are supported.
+– Launched first set of programs using platform capabilities.
+– Developed Loyalty Services, which triggers cashback points based on transactions and events.
+– Built Decision Engine which can be used to configure rules and change parameters at run time
+and without writing a single line of code. Its applications include imposing limit on transactions,
+fraud detection and prevention etc.
+– Integrated third party services like Secure Trading (Payment Gateway) and FIS (Card Issuer)
+– Designed and built REST complaint APIs, which are exposed to clients using Swagger
+– Designed and developed web facing interfaces for businesses with shallow copying of resources
+and flexibility to accomodate new requirements with core functionality at platform level and
+customizations at client level.
+Technologies Used: Java, Spring Framework, MySQL, Redis, Camel, AngularJS
+• Senior Software Developer at Setu Software Systems
+
+May 2010 - September 2012
+
+myDrona is an educational product focused in bringing best learning content available online into the
+hands of students. We built a user friendly platform for students to learn and evalute themselves based
+on their curriculum. I lead a team of six in building this product which is available online and offline
+as myDrona. Offline version runs on Android, Windows and a low cost tablet with in-built features of
+Wikipedia and Dictionary.
+– Built android app to play educational videos, read books, take tests, access Wikipedia and Dictionary - all of these can be done offline.
+– Developed light weight encryption algorithm for videos that can seamlessly run on android devices.
+
+1
+
+– Created a content management portal using Cherry-Python for viewing, tagging and classification
+of videos.
+– Designed and implemented logging mechanism into firmware to track code execution.
+Technologies Used: C, C++, Java, Python, Shell, Android SDK/NDK
+• Software Developer at Tachyon Technologies
+
+June 2009 - May 2010
+
+Quillpad is the flagship product of the company, which is a transliteration software to type in regional
+languages. We parallalized training algorithm of transliteration engine and speeded it up by a factor
+of 8640 using CUDA API. I also built an app for sending SMSs in regional languages using Quillpad
+engine for J2ME and Blackberry platforms.
+– Built font rendering engine that dynamically generates bitmap images for words in regional languages to handle the absence of unicode fonts in mobiles.
+– Designed and developed automatic font detection and conversion algorithm for non-unicode fonts
+– Built mobile client for Teamtalk messenger by extending Protobuf to support nested classes, vector
+of objects and enumeration.
+– Developed android app which can generate sudoku from newspaper images of the game.
+– Implemented a Blackberry app which improves energy savings by adjusting temperature of thermostat based on GPS co-ordinates.
+Technologies Used: J2ME, Python, Blackberry API, Android SDK, CUDA
+• Research Assistant at Language Technologies Research Center, IIIT-H
+May 2009
+
+January 2008 -
+
+I learnt semantic parsing of free word order languages using Paninian framework under Prof. Rajeev
+Sangal and Prof. Dipti Mishra Sharma. I am part of Semantic Parsing Team, which developed Indian
+Language tools for POS tagging and chunking, building verb frames and dependency tree generation
+and conversion to phrase structure tree.
+– Developed scoring mechanism for ranking parse tress using soft constraints with weights. Weights
+of these constraints are calculated by applying estimation maximization on annotated Hindi corpus.
+– Built tool for semi-automated classification of verb frames for hindi corpus using seed verb frames.
+Academic Experience
+• Teaching Assistant for Artificial Intelligence
+• Research Assistant in Language Technologies Research Center, IIIT-H
+Publications
+• S Husain, P Chaitanya, Ganeswara Rao, Tariq Khan, and Dipti M. Sharma Using Levin’s verb classification for preposition sense selection in English to Indian language MT , In Proceedings
+of the Conference on Language and Technology 2009 (CLT09), Lahore, Pakistan. 2009.
+• Bharat Ram A, Ganeswara Rao, Samar Husain and Bipin Indurkhya. Effect of jumbling the order
+of letters in a word on reading ability for Indian languages: An eye-tracking study, In
+Proceedings of the 31th Annual Conference of the Cognitive Science Society. Austin, TX: Cognitive
+Science Society. 2009
+2
+
+Honors & Achievements
+• Won ITsAP’2011 Jury - Special Mention Award in the Consumer Product category for
+myDrona.
+• Winner of Speed Coder title in a programming contest at Tachyon Technologies.
+• Won Top Techie title for optimizing Quillpad training algorithm at Tachyon Technologies.
+• Featured in Deans Merit List for academic excellence in Spring 2006.
+• Secured All India rank of 789 among 450 thousand candidates in All India Engineering Entrance
+Examination(AIEEE), 2005
+• Thrice awarded the first prize in district level inter school competitive exam (2001, 2002, 2003).
+• Completed Sarpass Trek, which is considered to be one of the most challenging and difficult treks in
+Himalayan mountains
+
+3
+
+

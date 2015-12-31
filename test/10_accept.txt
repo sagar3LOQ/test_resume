@@ -1,0 +1,250 @@
+Hibernate	 2yrs
+
+Spring	 2yrs
+
+Web Services	 1yr
+
+Core Java	 3.10yrs
+
+Design Patterns	 2yrs
+
+UML design	 3.10yrs
+
+Build Tools (Maven/Ant)	 3.10yrs
+
+Others if any specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Apache Tomcat 6.0/ Web Sphere Application Server
+
+ 	 Apache,Tomcat=3.10yrs
+
+
+
+Niranjan Syamala                                                        
+        
+
+Email:  	niranjan.syamala@gmail.com	
+
+Mobile:   (+91) 9949959967	                                             
+                       			 
+
+Objective:  To Perceive a challenging carrier though which I can excel
+my organization and myself.
+
+Professional Summary:
+
+I have 3.10 years of professional experience in Java Development
+
+Currently working as Software Developer at Oracle India Pvt. Ltd
+
+Successful hands on experience in project implementation in the TELECOM
+domain and E-Commerce domain.
+
+Sound knowledge in Core Java, IBM Rational Clear case, HTML, JSP, Java
+Script and 
+
+Spring, Hibernate and REST framework.
+
+Worked as a Java Developer in Broadband OSS applications at TCS in
+Planning, Coordinating and Implementing Applications across a range of
+systems and environments using the Waterfall model and agile software
+Methodologies.
+
+Worked as lead player in project while using IBM Rational Clear-case
+with JAVA.
+
+Worked as a Configuration Manager and actively involved in Telecom TMF
+814 Product delivery related activities. 
+
+Educational Qualifications
+
+Master of Technology in V.L.S.I (2009-2011) with an aggregate of 82% 
+
+B.Tech (Electronics) (2004-2008) with an aggregate of 67%
+
+Board of Intermediate Education (2002-2004) with an aggregate of 83.6%
+
+Secondary School Of Education (2002) with an aggregate of 83.5%
+
+Technical  Skils:
+
+Core Java
+
+Servlets and JSPs 
+
+SQL
+
+HTML
+
+JavaScript
+
+Software Tools:
+
+IBM Rational Clear case Version Control
+
+Perforce
+
+Databases: 
+
+Objectivity 10.2
+
+SQL
+
+Oracle
+
+Operating Systems: 
+
+Windows
+
+HP – Itanium
+
+SUSE - Linux
+
+Technology:
+
+         Below is a list of important IDE, Tools and languages that I
+have worked with.
+
+         IDE	              Tools	               Language
+
+Eclipse, IntelliJ	IBM Rational Clearcase Version Control, Perforce
+
+	Java
+
+
+
+
+
+Career Profile:
+
+Dates	                Organization	Designation
+
+March 2014 – till date	Oracle India Pvt Ltd	Software Developer
+
+Jan 30th, 2012 – March 2014	                          TCS	Assistant
+Systems Engineer
+
+
+
+Project 2:
+
+Product Name	Oracle Commerce Suite
+
+Period			March 2014 to till date
+
+Role			Software Developer
+
+Tech/Tools		Java/J2EE, Spring, Hibernate, MsSql
+
+Description		Oracle Commerce enables selling experiences that drive
+clicks and conversions for the world’s biggest and best brands. The
+solution enables businesses selling online to deliver a consistent,
+relevant, and personalized cross-channel buying experience for buyers.
+
+The Oracle Commerce Solution includes the Oracle Commerce Platform and
+Oracle Commerce Merchandising capabilities for creating and defining the
+sites and content that drives customer experiences. These capabilities
+include creating and managing multi-site and multichannel
+infrastructures, management of the product catalog, web content
+creation, collection of session data, pricing and promotions, processing
+of transactions, management of customer profiles and segments, and the
+creation of personalization strategies.  
+
+Responsibility    1)	Writing the technical specification document as per
+the requirements..
+
+		       2)	Implementation of the designed solutions.
+
+		.      3)	Writing up the unit test cases.
+
+		       4)	Bug Fixing and providing assistance to the customers.
+
+		       5)	Being an agile team member actively participating in sprint
+activities.
+
+Project 1:
+
+Product Name	TMF (Tele Management Forum)
+
+Customer		Ericsson Telecom
+
+Period			Jan, 2012  to March 2014
+
+Role			Team Member
+
+Tech/Tools		Core Java, Eclipse and IBM Rational Cleasecase Version
+Control
+
+Description		TMF it is a product based core software for telecom
+operators.
+
+TMF uses MTNM standards supported by CISCO, Huawei and many more Telecom
+		Giants.	All the Telecom groups should fallow these MTNM standards to
+implement 		their own product 
+
+Development		
+
+TMF is operated as the North bound interface while managing the Network
+elements like EMS and NMS. TMF is used as the operator standing on top
+of the network through which we can send the various data signals from
+one EMS to other EMS which is managed by one single NMS. TMF is having
+various development sub applications. The main Work we put in is WSON
+Management this management deals with how a network will route the data
+depending on the data rates for a particular end user.
+
+For Example 
+
+Customer A wants 5 MBPS speed on Weekdays and 10 MBPS on Weekends.
+
+Customer B wants 10 MBPS speed on Weekdays and 5 MBPS on Weekends.
+
+Then we should be in a position to provide them such facilities of data
+rates with their requirement. We have developed our application in TMF
+such away which should provide the flexibility of choosing the data
+rates and data plans. This leads to optimizing the Bandwidth of the
+optical cables used in communication.
+
+Responsibility    1)	Requirement Analysis, Development, Regression
+testing.
+
+		.     2)	Working with each team member in case of technical or
+functional issues in each 			phase of task execution. Frequent
+Interaction with the on-site team for requirement 			understanding
+
+Achievement Summary: 
+
+1.	I was awarded with “Star of the Month” TCS (2013) because of the
+commitment showed.
+
+2.	Due to my ability to handle multiple works I have been requested to
+support IBM Rational Clear case version control critical issues of
+another project in Ericsson account.
+
+Personal Details: 
+
+Date of Birth	15/04/1987	
+
+Nationality	Indian
+
+Sex	Male
+
+Marital status	Married
+
+Current Address and phone no	Flat No. 304, Lakshmi Priya Colony,
+Manikonda
+
+Date of joining	Jan 2012
+
+Designation	Software Developer
+
+
+
+      I hereby declare that all the information mentioned above is true
+to the best of my knowledge
+
+                                                                        
+                                                    (Niranjan Syamala)
+
+Page   PAGE  1  of   NUMPAGES \*Arabic  4 
+

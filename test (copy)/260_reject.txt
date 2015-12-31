@@ -1,0 +1,23 @@
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate                                              -  4 year & current                                                
+
+Spring                                                     -  5 year & current                                                
+
+Web Services                                        -  3 year
+
+Core Java                                               -  6 year
+
+Design Patterns                                    -    No
+
+UML design                                           -    
+
+Build Tools (Maven/Ant)                    -    Maven   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+Websphere/eclipse/intellJ/sonar
+
+DB:oracle

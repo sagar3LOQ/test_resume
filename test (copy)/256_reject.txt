@@ -1,0 +1,329 @@
+Nagaraju
+
+E-mail: raju.koppu@gmail.com 
+
+Mobile: +91 9849138080
+
+
+
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate  -  4
+year                                  
+             
+
+Spring   -  4 Years    &
+current                                �
+�          
+
+Web Services  -  4
+years&current                             �
+�       
+
+CoreJava                 -  7
+years                
+
+Design
+Patterns                                
+   -  2 Years            
+
+UML
+design                                 
+         -   4 Years
+
+Build Tools (Maven/Ant)                   -   
+maven
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Apache Tomcat , eclipse/junit
+
+Worked on reflection
+
+DB – sql
+
+Profile Summary: 
+
+Java/J2EE professional with around 8 years of work experience
+
+Experienced in Product development
+
+Expertise in developing applications of various sizes
+
+Expertise in improving application performance
+
+Good knowledge in improving application security
+
+Worked on project management
+
+Good knowledge on software development processes like RUP, SDLC, Agile
+and Scrum.
+
+Worked in Clinical-Research, Telecommunications and Logistics domains
+
+Technology:
+
+Below are the technology stack worked on:
+
+Category	Products
+
+Platforms	Windows XP, Linux and HP-UX
+
+Languages	Java/ J2EE
+
+Software API	Angular JS, Servlet, JSP, JSTL,Struts1.2, Springs and
+Hibernate
+
+Apache Wicket, AJAX, JQuery, Node JS , XML, XSD, XSL and Web Sphere MQ
+
+Scripting	Java Script and Unix Shell Script
+
+Servers	Apache Tomcat, JBoss
+
+Web Logic
+
+Database	Oracle 10g
+
+SQL Server
+
+Tools	CVS, SVN, Eclipse, TOAD, SSH Client, SOAP UI, MQ Explorer
+
+JProfiler and PL/SQL Developer
+
+
+
+Qualifications:
+
+Degree and Date	Institute	Major and Specialization	Percentage
+
+Master of Computer Applications
+
+2004-2007	Mother Teresa PG College, Hyderabad, AP.	Computer Sciences
+75.4%
+
+Bachelor of Science 
+
+2001-2004	SV Degree College, Kodad, AP.	Computer Sciences and
+Electronics	74.2%
+
+Intermediate
+
+1999-2001	Viswa Bharathi Junior College, Jaggayyapet, AP.	Maths, Physics
+and Chemistry	85.0%
+
+SSC
+
+1999	Vikas Public School, Jaggayyapet, AP.	Maths, Science	72%	
+
+Career Profile:
+
+Date Since	Organization	Role
+
+NOV-2012	Prokarma Softech Pvt Ltd	Technical Lead
+
+JUNE-2010	IBM India Pvt Ltd	Senior Application Developer
+
+DEC-2009	Reliance Technology Services	Software Engineer
+
+MAY-2007	CRR Technologies	Associate Software Engineer
+
+
+
+Training and Certifications Summary:
+
+Program or Course	Coverage	Acquired On
+
+UBIKA	Team Management	SEP-2013
+
+OCWCD	Servlets, JSP, JSTL and Security configurations	FEB-2012
+
+OCJP	Core Java Concepts	NOV-2011
+
+
+
+Personal Details:
+
+Date of Birth	25-08-1984
+
+Nationality	Indian
+
+Passport	Yes
+
+
+
+Assignments:
+
+The details of the various assignments that I have handled are listed
+here, in chronological order.
+
+Product	Intermodal Terminal Operating System
+
+Period	Nov-2012 to till date
+
+Description	Every terminal location of rail roads needs a system to
+plan, load and unload containers from/to railcars. ITOS mainly focussed
+on optimised planning with minimal cost by using effective algorithms.
+
+ITOS also process in-gating and out-gating of trucks and facilitates
+automatic parking and waybill. ITOS system will replace the existing
+system OASIS/Vantage, several TCS functions and integrated with
+handheld, vehicle mounted devices, and Automated Gating System (AGS).
+
+
+
+Role	Technical Lead
+
+Solution Environment	Windows-XP, Linux
+
+Oracle 10g
+
+JDK 1.5, Springs, Apache Wicket, JQuery, Node JS, JMS, Angular JS, JAXB,
+XSLT, Maven and TIBCO EMS
+
+Tools	Eclipse 3.4, PL/SQL Developer, Putty, Jenkins
+
+Highlights	Involved in gap analysis with clients and architects
+
+Effectively participating in design decisions
+
+Developing and configuring Web services.
+
+SPOC for System integration testing.
+
+Participated in developing application security and session management.
+
+Managing team members and their tasks
+
+Managing Monthly Sprint Planning with Onsite and Offshore Teams 
+
+Created simulators for unavailable systems for aggressive development
+
+Performing Code Review and executing Test Suits
+
+
+
+
+
+Project	System of Distributed Inventory
+
+Client	Telefonica Spain
+
+Period	June-2010 to Oct-2012
+
+Description	Telefonica is one of the leading Telecom company in Spain.
+This project is a huge system with number of sub systems. 
+
+      This is a web based application (Intranet only) which provides
+information about network service affected areas, telecommunication
+equipment information etc...
+
+Role	Senior Application Developer and acting as Application Lead
+
+Solution Environment	Windows-XP, HP-UX
+
+Oracle 9i
+
+JDK1.4, JDK 1.5,TID, Web Sphere MQ, XSLT, Java Script, AJAX, Web
+Services and  Servlets
+
+Tools	Eclipse 3.4, DB Visualizer, SSH Secure Client, MQ Explorer, SOAP
+UI
+
+Highlights	SPOC of application
+
+Modified project structure to ensure flexible deployment
+
+Configured Build Server (HUDSON) 
+
+Created Jobs to automate backend processes
+
+Effectively gathering requirements
+
+Delivering builds with minimal impact on other systems
+
+
+
+
+
+Product	Corporate Customer Functionality
+
+Period	Dec-2009 to May-2010
+
+Description	Reliance Technology Services designed CORPORATE CUSTOMER
+FUNCTIONALITY (CCF) for facilitating corporate companies to use RCOM
+products efficiently. Corporate companies acquire wire line and wireless
+products for their internal use. Here is a need for maintaining all
+products information and billing.
+
+Role	Developer
+
+Solution Environment	Windows-XP
+
+Oracle 9i/10g
+
+JDK 1.5, Struts, JSP, Servlet, Springs, Hibernate
+
+Tools	Eclipse 3.4 (for Java development)
+
+Toad 7.6
+
+Highlights	Involved in developing validation framework.
+
+Developed and modified many PL/SQL procedures and triggers.
+
+Preparing the unit test cases.
+
+Single point of contact for System integration testing.
+
+Single point of contact for User acceptance testing.
+
+
+
+
+
+Product	Clinical Protocol Management System	
+
+Period	May-2007 to Nov-2009
+
+Description	C-Protocol Management System is a total web based solution
+that automates the research approval processes. It is used for
+electronic protocol submission, protocol routing / reviewing / tracking
+that would enable investigators, IRB members, and research
+administrators to process protocol applications online.....
+
+Role	Developer
+
+Solution Environment	Windows-XP
+
+Oracle 9i, SQL Server
+
+Java, Struts 1.2, Servlets, JSP, AJAX, Xml, Hibernate, Java Excel Api,
+Quartz Api,     Castor Api, Java Mail Api, Drools, LDAP, Jasper Reports,
+iText and XSL-FO.
+
+Tools	CVS (for source code control)
+
+Eclipse 3.4 (for Java development)
+
+TOAD
+
+Highlights	Developed tool to convert English locale to Chinese.
+
+Providing security to the product (Cross site scripting, tampering
+requests etc…..).
+
+
+
+
+
+I hereby declare that all the information furnished here is true to the
+best of my knowledge.
+
+									(Nagaraju Koppu)
+
+		         
+
+Page   PAGE  1  of   NUMPAGES \*Arabic  5 
+

@@ -1,0 +1,340 @@
+                                 Curriculum Vitae
+
+RAJU G
+
+rajujava3121@gmail.com
+
++91-897-1234-699
+
+Summary
+
+						
+
+I have 6.4 years of experience in the I.T industry. Has knowledge of Web
+based   
+
+Technologies , JPA
+
+Spring, Web Services(SOAP),EJB,VAADIN having hands on experience in
+Apache Tomcat and Web sphere Application/Web Server.    
+
+Developed various Client-Server/Distributed Applications using Java/J2ee
+Technologies
+
+Hands on experience working with agile methodology.
+
+                              
+
+ Ability to grasp latest technologies and software.
+
+ Having Strong technical skills and logical thinking abilities. 
+
+      
+
+ Ability to balance multiple demands and work both independently and as
+part of a  
+
+        team to develop solutions.
+
+	
+
+Professional Profile
+
+Employer	                  IBM India Pvt Ltd. Hyderabad.
+
+Title			      Application Developer
+
+Date of Employment	      July 2013 – July 2014.
+
+Employer	                  Artech Info Systems Pvt Ltd, Bangalore.
+
+Title			      Sr.Software Engineer
+
+Date of Employment	      Sep 2010 – July 2013.
+
+Employer	                  Sivashakthi Group of Companies, Hyderabad.
+
+Title			      Software Engineer
+
+Date of Employment	      Nov 2007 – May 2010
+
+Awards
+
+ Team Delivery Excellence on successful go live of PROSA project.
+
+Education
+
+ B.Tech [Computer Science] from JNT University, Hyderabad in 2005
+
+Skills
+
+Languages		       JAVA, J2EE
+
+SOA                                     Web Services , JAX-WS , WSDL ,
+XSD , Apache Axis.
+
+Web Technology	       AJAX, FTL, Servlets, Jsp, Xhtml, CSS. 
+
+                                                    
+
+Application Servers	       Web sphere, JBOSS, IBM HTTP Server/Apache
+Tomcat.
+
+Databases	                   MySQL, Oracle 9i, DB2
+
+ 
+
+Operating Systems              Windows 2000, Linux
+
+Framework		       Spring, Struts, JSF, VAADIN.
+
+ORM                                     Hibernate, Open JPA.
+
+Unit Test Frame Works         JUNIT, Easy Mock.
+
+Build Tools                           Maven
+
+Tools                                   RSA, IntelliJ , STS , Eclipse,
+WSAD ,Editplus
+
+1) Project Information
+
+Title		   Application Developer
+
+Duration                             Jul 2013 to Jul 2014.
+
+Project	                              Online Booking System (OBS)
+
+Client			      ProsiebenSat.1 Media AG, Germany			
+
+Technology/Tools	      Spring, Open JPA, Web Services, DB2,  Junit ,
+Team City ,Sonar , 
+
+                                          Splunk , Maven , VAADIN.
+
+Description: ProSiebenSat.1 Media AG is a European media conglomerate,
+
+operating commercial television, premium pay channels, radio stations
+
+and related print businesses. It is a commercial television station in
+
+Germany distributed to a large extent via cable and satellite along
+
+with DVB-T (Digital Video Broadcasting - Terrestrial) in larger
+
+population centers.
+
+OBS is a application which helps in booking the Advertisements
+
+for various companies across different TV channels. These
+
+advertisements are the slots which will be allotted to different
+
+companies with appropriate minutes. So this OBS application serves the
+
+purpose of booking of the slots for advertisements for various
+
+companies.
+
+ My Role:
+
+ •      Developed Web Services.
+
+ •      Written persistence logic using open JPA.
+
+ •      Developed User Interface using VAADIN.
+
+ •       Written JUNIT test cases.
+
+2) Project Information
+
+Title		   Sr.Software Engineer
+
+Duration                             May 2012 to June 2013.
+
+Project	                              Prosa (Add sales).
+
+Client			      ProsiebenSat.1 Media AG, Germany			
+
+Technology/Tools	      JDK1.6, JSF1.2, IceFaces2.0, XHTML.
+
+Description: Prosa is developed on JSF application. The purpose of this
+application is
+
+to maintain the details of agencies and customers. The agencies are
+associated with the
+
+channels. The channels are associated with the customers and their
+corresponding orders and products. The valid user can enter into the
+application and update/create
+
+Is orders by choosing the channels. We maintain program details like
+telecast date, time.
+
+This will vary based on the country. By reading the country code we
+telecast the programs.
+
+           
+
+ My Role:
+
+.     Involved to prepare the documents like user Interface design
+documents and solution  
+
+         Design documents.
+
+•       Prepared the front end Screens by using the jsf and ice faces.
+
+•       Involved creating and updating the Managed and Backing beans.
+
+•       Writing the CSS classes.
+
+•       Production support.
+
+•       Review the java files which are developed by the other team
+members.
+
+•       Fixing bugs reported by the Germany QA team.
+
+3) Project Information
+
+Title		  Sr.Software Engineer
+
+Duration                            July 2011 to Apr 2012.
+
+Project	                             BIPT TIVA (Insurance Frame work)
+
+Client			     BIPT (USA)			
+
+Technology/Tools	      Jsf, XHTML, web sphere, DB2.
+
+Description:  
+
+The purpose of this application is to provide integrated, end-to-end
+insurance solutions for today's insurance marketplace .BIPT TIVA has
+combined its talents to offer its Property and Casualty insurance
+clients a single source for web-based policy and claims administration
+solutions. BIPT utilizes its expertise in insurance processing,
+insurance regulation, strategic consulting, creative design and systems
+engineering to provide solutions that help clients identify and
+capitalize on opportunities to improve and expand their businesses.
+
+ This System integrates rating and quotation, underwriting, claims, and
+accounting management functions. Together, the features and functions of
+TiVA help carriers extend their application process to agents in the
+field, streamline the underwriting of policies, and increase their
+competitiveness in the marketplace.
+
+Roles & Responsibilities:
+
+Involved in designing the WebPages using XHTML and JSF
+
+Written web service functionality using Apache Axis.
+
+Involved In configuring the Open JPA functionality to perform  
+
+      persistence Operations.    
+
+      
+
+4) Project Information
+
+Project		                      Messaging Services
+
+Title		                       Sr.Software Engineer
+
+Duration		           Sep 2010 to June 2011
+
+Client			           Frank, USA 
+
+Technology/Tools	           struts, jsp, MySQL, web services, windows
+2000
+
+Description: Rocket Mobile Messaging is web based middleware financial
+application service. Which combines a prepaid debit card with a  mobile
+phone-based money transfer service Rocket2U cardholders can access their
+prepaid account with their existing mobile phone to check their current
+account balance, make payments for goods and services, and make
+account-to-account money transfers using only the recipient’s phone
+number.
+
+Rocket is linked to the prepaid CardMarte Inc. processor via mobile
+numbers with verification of the Rocket Password. Cardholders using a
+mobile phone number with a Rocket Password for security. Rocket2u are
+the most secure, cost effective way for anyone to store, send, receive, 
+
+and transact funds anywhere in the world. Even if a user is new to text
+messaging or uses it all the time, being able to share and receive money
+using Rocket2U is very easy. Users can also check their balance, review
+recent transactions or get help. And it works on virtually every phone
+with most mobile carrier services. 
+
+Roles & Responsibilities:
+
+Involved in developing clients using Java, JSP & Servlet coding confirms
+to the java coding standards adopted by Organization.
+
+Written java beans for holding the data. 
+
+Interaction with Project Manager and Requirement gathering
+
+Conducted code reviews as per the standards given.
+
+Deployed application on Tomcat 5.5
+
+Documenting all the activities.
+
+5) Project Information
+
+Title		 Software Engineer
+
+Duration                           Nov 2007 to May 2010
+
+Project	                     	HRIS 
+
+Client			   In house project (Self)
+
+Technology/Tools	   Jsp, servlets, MySQL, windows 2000
+
+Description:   The proposed application is Responsible for maintaining
+The Total information of Employers and sales Related Activities of
+Sivashakthi Groups. In this application we are having the Following
+Modules Hris, Admin, Sales, Inventory, Transport and .This Company is
+having various Branches across India. So for Every Branch This
+Application can create the User name and Password and also gives the
+Authentication to Access our Application depending Upon the Level of
+Users. Mainly we are having three types of Users i.e. Admin, HrisCorp,
+Branch Second. Admin User is having the total rights to create and
+update any information related to the users or data .Branch second is
+nothing but DataEntry.This users are maintained branches data and their
+sales activities.Hris Corp is intended to maintain corporate office
+information related to employees activities training and resignation and
+increments and salary process reports. 
+
+I have involved Admin and Hris and Sales Module for this I have used
+Jsp, Java Beans, Html, Servlets 
+
+Roles & Responsibilities:
+
+Creating Database Objects with java using JDBC to access data from
+Database.
+
+Developed Servlets, JSP and Java Beans Programming.
+
+Deployed application on Tomcat Server 5.0
+
+Involved in Testing.
+
+Personal Information:
+
+Gender	: Male
+
+Marital Status: Married
+
+Nationality: Indian 
+
+The above-submitted information is true and accurate to the best of my
+knowledge. 	
+
+Raju G
+

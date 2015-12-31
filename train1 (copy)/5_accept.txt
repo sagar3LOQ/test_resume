@@ -1,0 +1,387 @@
+NISHANT KUMAR
+
+Phone: +919985284211
+
+Mailto: nishant.rathore12@gmail.com
+
+_________________________________________________________________________________________________
+
+Professional Summary:
+
+6 years of experience in product development using Java, J2EE, C++,C,  R on Linux, Solaris , Windows and cloud platforms. 
+
+~3years experience in social media analytics.
+
+Experience in NLP and Machine learning solutions using Mahout, Weka, Stanford libraries.
+
+Experience in entity resolution of social profiles using SVM. 
+
+Experience with Nosql database using Mongo DB.
+
+Experience with real time processing system with Storm.
+
+Experience with advertising real time bidding systems and integration with SSPs.
+
+Experience in RDF, ontology and Bigdata rdfstore.
+
+Experience in development in Android.
+
+Exposure in Case Based reasoning.
+
+Exposure to R
+
+
+
+Project Experience Summary:
+
+Project
+
+Social media analytics
+
+Role
+
+Architect and Developer
+
+Period
+
+July 2013 to till date
+
+Company
+
+Cafyne Inc
+
+Language and Tools used
+
+Java, Spring MVC, NLP, MongoDB, Social media crawler including Facebook etc. Apache Storm, Apache Stanbol etc
+
+Description
+
+	Scalable cloud based solution where we link social profile to our enterprise solution and monitoring them. Doing analysis on every post like sentiment analysis, predictive analytics.
+
+Responsibilities
+
+Working closely with project management team and architect to enhance the functionality and design of the software.
+
+Implementation of several module including storm integration and entity resolution.
+
+
+
+
+
+Project
+
+Intelligent advertisement targeting on social platforms.
+
+Role
+
+Architect and developer
+
+Period
+
+Jan 2013 to July2013
+
+Company
+
+Tookitaki  
+
+Language and Tools used
+
+Java, NLP, Mahout, LDA, MongoDB, EMR, NettyIO, Facebook integeration, Redis. Map Reduce
+
+Description
+
+	System that does advertisement targeting based on the interests of the Facebook user and dynamically optimizing the advertisement based on several performance parameters of the ads.
+
+Responsibilities
+
+Conceptualizing and designing end to end solution
+
+Implementing majority of the system.
+
+
+
+
+
+
+
+Project
+
+Real time bidder for advertisement 
+
+Role
+
+Architect and developer
+
+Period
+
+Jan 2013 to Feb 2013
+
+Company
+
+Tookitaki
+
+Language and Tools used
+
+Java, mongoDB, Aerospike, NettyIO. 
+
+Description
+
+	System that listens to the bid request made by SSPs(supply side platform) and respond to the bid with the bidding price in 30ms.
+
+Responsibilities
+
+Conceptualizing and designing end to end solution
+
+Implementing  the system.
+
+
+
+
+
+
+
+Project
+
+Prototyping personal assistant and recommendation systems.(early stage startup)
+
+Role
+
+Developer and Architect
+
+Period
+
+April 2012 to Dec 2012
+
+Language and Tools used
+
+Java, RDF, NLP, Case Based Reasoning, Cassandra, Hadoop, Bigdata, Storm, Android, chatscript
+
+Description
+
+	Developing several prototypes for personal assistant and recommendation systems in context aware scenarios.
+
+Responsibilities
+
+Investigating and analyzing the technology needed to achieve the required goals.
+
+Designing and building the prototypes.
+
+
+
+
+
+
+
+Project
+
+Lync Client for Symbian Platform(Microsoft IDC)
+
+Role
+
+Developing automation framework
+
+Period
+
+December 2010 to April 2012
+
+Company
+
+Microsoft
+
+Language and Tools used
+
+C#.net, Qt,
+
+Description
+
+	Porting Lync Client Desktop version to Symbian device for Nokia
+
+Responsibilities
+
+
+
+Writing Automation framework and automating API and UI testcases for Nokia device.
+
+Code review for the product.
+
+Deploying and maintaining Lync server to test clients.
+
+Participating in the development cycle from specification design to delivery.
+
+
+
+
+
+
+
+
+
+Project
+
+Operations and Traffic Engineering(OP&TE) (Vegayan Systems)
+
+Role
+
+Software Developer
+
+Period
+
+September 2008 to December 2010
+
+Company
+
+Vegayan
+
+Language and Tools used
+
+C, C++, Qt, MySQL, Valgrind, GDB, SNMP, Wireshark.
+
+Description
+
+	OP&TE is the Network management system software for IP/MPLS network capable of network monitoring, path selection based on Quality and Network constraint, routing to avoid congestion, failure recovery etc. 
+
+
+
+Responsibilities
+
+
+
+Adding new functionality to the existing product.
+
+Debugging the software for existing bugs.
+
+Optimizing the product’s code.
+
+Testing the product in-house and on the customer’s network operation center.
+
+
+
+Project
+
+Retroshare (Opensource)
+
+Role
+
+Software Developer
+
+Period
+
+November 2009 to April 2010
+
+Company
+
+Open source project(after office hours)
+
+Language and Tools used
+
+C++, Qt
+
+Description
+
+RetroShare is a open source project. It is a cross-platform private p2p sharing program. It lets user share securely with friends, using a web-of-trust to authenticate peers and OpenSSL to encrypt all communication. RetroShare provides file sharing, chat, messages and channels.
+
+	
+
+Responsibilities
+
+
+
+Developing  the Instant messaging feature. 
+
+Debugging and Testing.
+
+Project
+
+Network Planning and Analysis(NPA) (Vegayan Systems)
+
+Role
+
+Developer
+
+Period
+
+September 2008 to December 2010
+
+Language and Tools used
+
+C, C++, Qt, MySQL, Valgrind, GDB.
+
+Responsibilities
+
+Developing the product from scratch.
+
+Designing the look and feel of the product
+
+Debugging the software for existing bugs.
+
+Optimizing the product’s code.
+
+Testing the on simulated network and also on the customer’s network operation center.
+
+
+
+
+
+Educational Qualification:
+
+
+
+Course
+
+University/Board
+
+Year
+
+Percentage/CGPA
+
+B.Tech(CSE)
+
+KIIT University
+
+2004-2008
+
+8.0/10
+
+12th
+
+CBSE
+
+2002-2003
+
+74.83
+
+10th
+
+CBSE
+
+2000-2001
+
+80.2
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Achievements:
+
+Awarded performer of the year 2009-10 in Vegayan Systems.
+
+Won First Prize at KIIT University, Bhubaneswar, second prize at Orissa Engineering College, Bhubaneswar and third prize at Orissa Institute of Technology, Burla for paper presentation. The topic of the paper was “Comparison of the performance of n-queen problem in Grid Computing infrastructure as compared to a standalone machine”.
+
+
+
+
+
+.

@@ -1,0 +1,247 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                  -  5 year &
+current                                �
+�               
+
+Spring                  
+                                  - 
+5years &
+current                                �
+�               
+
+Web
+Services                                
+        - 
+1.5years(RESTFUL)                           �
+�                    
+
+Core
+Java                                  
+             -  9.8years
+
+Design
+Patterns                                
+    -    worked
+
+UML
+design                                 
+          -    worked
+
+Build Tools (Maven/Ant)                    -   
+Maven
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Sonar/PSM/websphere/
+
+Worked on reflection		
+
+Db – mysql
+
+12 developer
+
+					
+
+Kashan Ahmad							  HYPERLINK "mailto:Ka_kashanahmad@yahoo.com" 
+Ka_kashanahmad@yahoo.com 
+
+									  HYPERLINK "mailto:ahmad.kashan@gmail.com" 
+ahmad.kashan@gmail.com 
+
+									Mobile: 9910164252
+
+Professional Summary: 
+
+Diverse technical experience of 9.8 years in Object Oriented Programming
+utilizing Java tools in business, Web, and Client-Server environments
+including Java Platforms, Enterprise Edition (EE), Spring, Hibernate,
+WebServices.
+
+Extensive experience of 4.5 years in working in AGILE methodology,
+performing SCRUM master role by facilitating agile practices.
+
+Track record of delivering quality JAVA/J2EE based solutions through
+entire development life cycle.
+
+Excellent communications skills. Adept at building strong working
+relationships with coworkers and management.
+
+Valid B1 and L1 Individual visas stamped.
+
+Achievements: 
+
+Provide technical leadership in design, development and successful
+implementation of JAVA/J2EE application.
+
+Enjoyed repeated success in understanding business and product owner’s
+expectation in implementation and execution of requirements.
+
+Communicating and co-ordination with onshore technical team,
+stakeholders and business users.
+
+Effectively managed team stationed across geographical location.
+
+Experience in working at onshore.
+
+ 
+
+Technical Expertise:
+
+Java Technology: Java 1.2, 1.3, 1.4. 1.5, JSON, JSP, XML, HTML, JSP,
+Servlets Java Script, C, C++
+
+JEE Technologies: JSP, Servlet, JSON
+
+Framework: Springs, Hibernate, WebServices (SOAP, Rest), JUnit, Log4J,
+OSGi
+
+Tools: Maven, Ant, SVN, RAD, Eclipse, IDEA 5.0, JProfiler, Fortify Scan
+
+Platforms: Database (Oracle, MySQL), OS (Windows, Unix)
+
+Design Skills: OOD( Object Oriented Design), GoF design patterns, JEE
+Patterns
+
+Methodologies: Agile, Waterfall, TDD (Test Driven Development)
+
+Architecture: SOA
+
+Others: HTML, CSS, Ajax, JavaScript, XML, XSD, WSDL, WADL, CXF, MongoDB
+
+Servers: JBoss, Apache Tomcat, JRun, WebSphere, iPlanet Webserver, Felix
+
+Content Management Server: InStranet
+
+Certifications:
+
+Professional Scrum Master (PSM1).
+
+Employment:
+
+UnitedHealth Group							Jun 2009 – Till Date
+
+Project Lead
+
+Working in complex environment which involves coordinating with
+offshore/onshore team including technical architects, system analyst,
+business analyst and testers.
+
+Performing dual role of scrum master and team’s technical lead.
+
+Experience in handling team across geographical location.
+
+Creation of LLD and HLD of the requirement and helping team in resolving
+technical issues.
+
+Providing Backend integration with external applications using web
+services. This involves creating high level class diagram and sequence
+diagram.
+
+Reviewing the work products and coordinate the review meetings with
+peers to ensure the accuracy of deliverables.
+
+Regular and active participation in meeting involving technical
+architects, system analysts and product owners in solutioning
+requirements.
+
+Understanding new technologies and evaluating how they can be integrated
+/ utilized to better serve our clients.
+
+Annual performance review and appraisal for the team.
+
+Technologies Used: Core Java, Spring, Hibernate, WebServices, XML, JSON,
+Felix
+
+Fiserv India Pvt. Ltd., NOIDA						Feb 2007 –Jun 2009
+
+Senior Software Engineer
+
+Collaborated in the development of in-house development of new credit
+union software. Supported existing legacy system to provide newly
+created cases and insured they were available in the systems in parallel
+until legacy systems were retired
+
+Analysis of existing code written in C for legacy system and creating
+System Requirement Specification document out of that.
+
+Provided high level design and server side integration with external
+consumer using web services.
+
+Provided assistance to other developers in understanding credit union
+domain, application framework, and technical assistance in
+implementation of business rules.
+
+Developed auditing framework for the application, which helped in
+overall auditing with in the system.
+
+Reviewed work products and provided thoughtful review comments both on
+standards and on optimizing the code to ensure that deliverable must
+match to the stated requirements.
+
+Active participation in maintaining project repository for QMS
+perspective and played key role of Project configuration controller and
+Defect prevention analyst.
+
+Provided training to team members on Junit.
+
+Played key role in module estimation using proven methodologies like
+Work Breakdown Structure and Complexity Base Estimation. 
+
+Worked with presale team for creating POC, RFP and demoing application
+to the business.
+
+	
+
+Technologies Used: Core Java, Spring, Hibernate, JBoss Server,
+WebServices, SOA, JUnit	
+
+HCL Technologies, NOIDA					       Feb 2005 –Jan 2007
+
+Software Engineer (Member Technical Staff)
+
+	
+
+Coding, debugging and unit testing and deployment of application.
+
+Maintenance and Modification of existing application to add new
+components and features emphasizing maintainability, reliability,
+scalability.
+
+Interaction with Business Users to gather requirements.
+
+Preparation of High level design document and Analysis Document
+
+Generating the LOE and estimation of Work Break down Structure Document
+(WBS) for releases.
+
+Understanding and Preparation of Knowledge Transfer and Technical
+Architecture Documents at onshore.
+
+Maintaining the overall quality of the artifacts and processes of the
+Project, on CMM Level 5 standards
+
+Knowledge Transfer Releases at Onsite (U.S)
+
+Code release in accordance with Data Center Operations, Oakhill, USA
+
+Involved in project management activities like defect prevention.
+
+Technologies Used: Core Java, JSP, iPlanet Server, SunOne Portal,
+Instranet
+
+Convergys, Gurgaon  			               	March 2004 – October 2004     
+
+Technical Support Officer for AT&T, US
+
+Education: 
+
+DOEACC ‘B’ Level (MCA) from CDAC Noida in the year 2003.
+
+Graduation (B.A) from Allahabad University (Allahabad) in the year 2001
+
+										(Kashan Ahmad)
+

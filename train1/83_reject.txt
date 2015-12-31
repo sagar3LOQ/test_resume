@@ -1,0 +1,262 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                  - 
+1.5year                                �
+�            
+
+Spring                  
+                                  - 
+3year                                 �
+�             
+
+Web
+Services                                
+        - 
+    1.5years                            
+              
+
+Core
+Java                                  
+             -   3 years
+
+Design
+Patterns                                
+    -    2 year
+
+UML
+design                                 
+          -    3years  
+
+Build Tools (Maven/Ant)                    -   
+maven & Ant
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+  Tomcat/weblogic/IBM websphere
+
+Ok for startup
+
+Code: 80% design 20%
+
+ Objective:
+
+To obtain a challenging and rewarding position in software development
+where I can utilize my knowledge, proficiency and skills to contribute
+to company’s growth
+
+Carrer Summary:
+
+Having 3.0 years of professional IT experience in development of Java
+and J2EE and having good knowledge of J2EE architecture.
+
+Strong understanding of OO design principles, design patterns and
+software engineering full life cycle.
+
+Experience includes application development using Core Java, J2EE,
+Spring,Spring Web Services, Hibernate, Ibatis, SQL, Junit and full life
+cycle development of a project.
+
+Having experience in deploying Java EE applications in Application 
+servers.
+
+Skilled in functional analysis and technical implementation of BPM
+solutions.
+
+Ability to have proper communication and maintain good relationship with
+clients.
+
+Highly motivated team player, proactive, quick learner and proven record
+of capability to work under pressure and deadlines.
+
+Good analytical, communication, interpersonal skills and presentation
+skills.
+
+Onsite Experience:
+
+ 	Overseas
+
+Electronic Fund Transfer and Straight Through Processing of SWIFT
+Payment messages implementation  at Ecobank Transitional Inc, Ghana for
+7 months 
+
+(20th September’2012 to 20th April’2013)
+
+Electronic Fund Transfer and Straight Through Processing of SWIFT
+Payment messages implementation  at Ecobank Transitional Inc, Nigeria
+for 1 month(21st April’2013 to 20th May’2013)
+
+Awards & Achievements:
+
+Got best performance of the year (2013-2014) award in the team of CITI
+bank Project.
+
+Professional Experience:
+
+Currently Working as a Sr.Programmer for Newgen Software Technologies 
+from May’2013 to Till date
+
+ Worked as a Software Engineer for  Newgen Software Technologies 
+through Marlabs Software  from October’2011 to April’2013
+
+Academic Details:
+
+   
+
+    BE in Electronic and Communication Engineering from Anna University
+with 70.23%,Chennai         
+
+Technical Skills:
+
+Operating Systems : Windows XP, windows 7.
+
+Languages	     : Core Java, J2EE, HTML, Ext js, XML.
+
+Frameworks            : Spring Web services, Spring
+3.0(IOC,ORM,DAO,MVC)Modules,
+
+                                 : Hibernate 3.0,Ibatis 3.0,Spring Batch
+
+Database	        	     : MySql,Oracle 11g.
+
+Tools and Utilities   : Maven, Jira, Log4j,Perforce,SVN,Ant,SOAP UI
+
+IDE  		      : Eclipse
+
+Servers		     : Tomcat,IBM Web spear,Weblogic.
+
+Projects: 
+
+Project #1	
+
+Project Title		: In View Portfolio
+
+Client                     : Citi Bank (USA)
+
+Environment		: Core Java, Spring Jdbc,Hibernate,Spring
+Webservices(SOAP),Oracle11g,Weblogic                                    
+              
+
+Role              	: Developer
+
+Duration		: June’2013 to Till date.
+
+Project Description:  
+
+	        The focus of In View Portfolio is to bring all relevant
+portfolio information, including holdings, analytics and news, to the
+user in a logical and easy to navigate fashion where all necessary
+information is presented clearly and effectively, i.e., a client
+impactful use experience.
+
+            Inview Portfolio Services interfaces (Web services)
+structure related to SHEEN InView Portfolio Financial application. All
+the services are developed using SAA (Strategic Asset Allocation). 
+
+The services have been categorized into the below categories.
+
+Financial Services
+
+Demographic Services
+
+Reference Data Services
+
+Performance Data Services
+
+My Responsibilities in this project include:
+
+Involved in writing  Service and DAO’s.
+
+As a team member, was responsible for Analysis of the specifications
+provided by the client.
+
+ Investigating the issues, proposing the cause and solution and
+estimating how much time it         will take to solve an issue.
+
+Responsible for testing Api’s by uising the SOAP UI
+
+Project #2	
+
+Project Title		: Straight Through Processing (STP) and Fund Transfer
+(FT)
+
+Client                     : Ecobank Transitional Inc, Ghana
+
+Environment		: Core Java, Omniflow product(Newgen), Oracle and IBM Web
+spear.
+
+Role              	: Technical Consultant
+
+Duration		: September’2012 to June’2013.
+
+Project Description:  
+
+             Ecobank Transitional Inc is a PAN African bank, with
+banking operations in 30 African countries. The purpose of the project
+is to enable twenty eight affiliates of Ecobank in twenty eight
+countries to automate the process of worldwide Electronic Fund Transfer
+(FT), and Straight Through Processing of incoming SWIFT messages and
+book transactions.
+
+My Responsibilities in this project include:
+
+Responsible for resolving Production issues.
+
+Deploying the application on production server .
+
+Responsible for testing integration calls with Flex while deploying the
+application on   production server.
+
+Responsible for making understand about the FT and STP Application to
+the Clients.
+
+Involved in unit testing.
+
+Project #3
+
+Project Title             : GM-Incentives and Offer Management
+
+Client                      : GM(USA)
+
+Environment            : Spring 3.0, Ibatis, Extjs,Spring
+Webservices(SOAP),Tomacat7.0,MySql 5.5       
+
+Role                        : Team Member in Development
+
+Duration	          :   October’2011 to September’2012.
+
+Project Description:  
+
+			GM-Incentives and Offer Management is designed to act as a gateway
+for vehicle data destined for IOM. It provided by the GM the ability to
+preview the data in a Staging environment and adjust the data before
+releasing all or part of the data to the working database and then to
+production environment. The system must act as a gateway for the vehicle
+data being sent to IOM. The main theme of this project is to provide the
+incentives and offers for the vehicles to the dealers. 
+
+My Responsibilities in this project include:
+
+Responsible for developing the Controller classes.
+
+Involved in writing Ibatis Queries to communicate with database.
+
+Involved in unit testing. 
+
+As a team member, was responsible for Analysis of the specifications
+provided by the clients.
+
+                                             
+
+                                                                        
+                                                        
+
+ Prasanna Kumar								     
+
+ Email: Prasannakumar.koppolu@gmail.com				      Mobile :+91-
+8377883221
+
+Prasannakumar  									 	        Page   PAGE  1  of   NUMPAGES  4 
+

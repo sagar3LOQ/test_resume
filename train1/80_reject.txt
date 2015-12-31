@@ -1,0 +1,87 @@
+Flat#402, SVN Residency
+Bangalore IN 560037
+
+!E
+
+G J AYA K I S H O R E R E D D Y
+
+(886) 123-2406
+g.jayakishorereddy@gmail.com
+
+MPLOYMENT
+
+Software Engineer
+
+Myntra.com
+
+Sep, 2013 - Current
+
+• Moved existing payments and checkout to a service oriented architecture.
+• Implemented auto-switching payment gateways service.
+• Implemented auto refund payments for orders.
+Lead Engineer
+
+Storemate Inc
+
+Oct, 2012 – Sep, 2013
+
+• Built a full fledged “Talk About” System which enables the shoppers to have quick decisions by taking the
+advices from friends, style advisors and designers.
+• Worked on optimising the catalog experience to make it scalable for large number of products.
+• Integrated full fledged “Checkout and Payments” module with 2 different gateways(Braintree and Stripe) for
+payments.
+Software Engineer
+
+Computer Associates
+
+Nov, 2011– Oct, 2012
+
+CA SaaS Platform
+• Developed adapter, backup-restore agent which provisions applications to simulate multi tenancy.
+• Implemented OData services in various components for the SaaS Platform.
+• Improved UX with fully object oriented javascript framework (Ext js)
+Software Engineer
+
+SemanticBits India Pvt Ltd
+
+Apr, 2010 - Nov, 2011
+
+Budget Tracking Tool
+• Developed content repository with version control in a short span of time(JCR, apache Jackrabbit).
+• Added feedback and bug reporting which is integrated to JIRA (bug reporting tool) using SOAP client.
+• Added multi-tenancy support.
+Clinical Genomics Workbench
+• Developed Genomic browser to visualise gene data.
+EDUCATION
+Hyderabad, IN
+
+April , 2010
+
+• Discontinued M.S.I.T in E-commerce from IIIT Hyderabad in Apr 2010.
+
+!
+
+• B.Tech in Computer Science from JNTU, Hyderabad with an aggregate of 68% in 2009.
+• Intermediate from Board of Intermediate Education in 2005 with 95%.
+• S.S.C from Board of Secondary Education in 2003 with 90%.
+TECHNICAL EXPERIENCE
+Projects
+• Genome Viewer (2011). Developed Genomic browser to visualise gene data along with variants and protein,
+RNA, sequence in flot framework and integrated existing gene viewer IGV
+• Revue, A Code Review Tool (2009). A web based collaborative code review tool which allows users to
+efficiently collaborate and review code, an idea or a wire frame easily.
+• College Management System (2008) for Administration, Academics, Courses, Library Management with reports
+on mobiles.
+• Transport Management System (2008) for Bharat Dynamics Ltd.
+
+!
+
+Languages and Technologies
+• Java, PHP, Python, C, C++, Shell scripting, Groovy
+• Spring, Hibernate, Grails,Ant and Ivy,Jackrabbit, Amazon S3, JBoss jbpm, Apache poi, jxls
+• DHTML, Javascript, Javascript frameworks (prototype,jQuery, YUI), CSS3, Extjs, Node.js
+• OracleDB, PostgresSql, MySQL, MongoDB
+• Google app engine, Django, Turbogears
+• Subversion, JIRA, Crucible, Confluence, Hudson continuous integration, Team City
+
+

@@ -1,0 +1,541 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                  - 
+4year&current                             �
+�                  
+
+Spring                  
+                                  -  4
+year &
+current                                �
+�               
+
+Web
+Services                                
+        -  3
+yearf                                 �
+�              
+
+Core
+Java                                  
+             -  7year
+
+Design
+Patterns                                
+    -    worked
+
+UML
+design                                 
+          -    
+
+Build Tools (Maven/Ant)                    -   
+Ant/gradel 
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Tomcat/jboss/eclipse/myeclipse
+
+DB –Mysql/oracle
+
+	
+
+	
+
+SOWMYA  BOYANAPALLI 
+
+											
+
+Mobile: 9849926591                                Email:
+sowboyanapalli@ymail.com
+
+  HYPERLINK "mailto:ch@gmail.com"   
+
+				             
+
+Professional Summary:
+
+7 yrs. of Experience in building web-related applications 
+
+Specialization in JSF,Spring
+
+Development experience in Java, JSF,  SPRING MVC,Hibernate, JDBC, 
+Servlets, JSP ,XML, AJAX and Direct Web Remoting 
+
+Good at relational databases like  Oracle, MySQL
+
+Good working knowledge in Tomcat, Jboss  
+
+Having good interaction with Eclipse ,Net Beans, MyEclipse Enterprise
+Workbench
+
+Good at trouble shooting and understanding the system, Good object
+oriented design and implementation skills.
+
+Excellent written and verbal communication skills.
+
+Technical Skills:
+
+Languages			: 	C, Java
+
+Java Technologies		:	JDBC, Servlets, RMI,Webservices,Rest Web services
+
+Application Server 		:          JBoss, Apache Tomcat 6.x                
+                                                         
+
+Frame Works			:	JSF, Spring MVC, Hibernate
+
+IDE			:	My Eclipse 7.0, NetBeans5.5, Eclipse Juno
+
+Database 			:	Oracle, MySQL
+
+Operating System used		:	Windows 2000, Windows XP, Linux.
+
+Scripting Languages                 :   	JavaScript, Jsp,DWR, Ajax
+
+Internet tools			:	HTML, XML, Flux
+
+Professional Experience:
+
+Working as Systems Analyst  for Wave Crest Payment Technologies,
+Hyderabad from February 2011 to Till date.
+
+Worked as a Software Engineer for Bodhtree Consulting pvt.Ltd, Hyderabad
+from August 2007 to December 2010.
+
+Professional Experience:
+
+Project		:	 Corporate Payment Hub
+
+Environment	         : 	 Hibernate, Spring MVC,Rest Web Services and
+MySQL.
+
+Clients		: 	 Commisions2Go,  Xapo
+
+IDE		:	 My Eclipse Enterprise Workbench
+
+Web Application Server	:	 Tomcat Server.
+
+Role		:	 Developer
+
+Managing and distributing payments to contractors, vendors, employees
+and customers is a complex and costly endeavor. Corporate Payment Hub
+simplifies corporate payments with MyChoice – a prepaid debit card
+that allows businesses to streamline commission, business, incentive,
+and travel payments and control expenditures with convenience,
+ﬂexibility, and security.
+
+Businesses can easily make payments across the globe in US dollars
+British Pounds, or Euros without the need for cardholder bank accounts
+or credit checks.
+
+Project		:	 E-wallet
+
+Environment	         : 	 Java, JSP,AJAX,Hibernate,Spring,JavaScript and
+MySQL.
+
+Clients		: 	 O2, HavMoney, PartyGaming and MyMonedero
+
+IDE		:	 MyEclipse Enterprise Workbench
+
+Web Application Server	:	 Tomcat Server.
+
+Role		:	 Developer
+
+eWallet is a system that stores customer's money for easy retrieval
+during online purchases as well as minimizes the risk in sharing the
+payment information with merchants. Users can load their eWallet
+accounts with credit card, debit cards and net banking. Users are
+provided with a virtual card number with which they can shop on program
+partner’s website or with any other merchants online (only with the
+merchants who are tied up with us). We also offer P2P (Person to Person)
+transfers, plastic cards (upon certain checks) for physical usage in
+ATMs as well as POS.
+
+Responsibilities:
+
+Understanding the functional specifications and architecture.
+
+Team coordinating and integrating activities across multiple
+functionalities.
+
+Project Name             		 : Cashier
+
+Environment		:  Java, Hibernate, Spring, JavaScript and MySQL.
+
+Clients		:  O2, HavMoney, PartyGaming and MyMonedero
+
+	
+
+Cashier is the heart for eWallet system and decides the payment
+instrument and the payment service providers (ex :- Global Collect, ReD
+etc) on the transactions, basing on the configurations that have been
+fed to it previously. It is supported by Forex(foreign exchange svs) and
+verf services(risk & compliance checks) while the transactions are being
+processed. In simple eWallet is an interface to capture the information
+whereas the cashier is the program that runs entire payment system. 
+
+Responsibilities:
+
+Involved in development of Business logic.
+
+Involved in third party service providers (eg:Rbs) integration to
+process transaction.
+
+Validation using spring validation framework.
+
+Involved in Unit testing.
+
+Project		:	 MIDAS (Multi Industry Data Anomaly Solution)
+
+Organization		:	 Bodhtree Consulting Pvt Limited.
+
+Environment		: 	 Java, Spring, Flex, Oracle10g
+
+IDE		:	 MyEclipse Enterprise Workbench
+
+Web Application Server		:	 Tomcat Server.
+
+Role		:	 Developer
+
+MIDAS -Multi Industry Data Anomaly Solution is one of the core services
+offered by Bodhtree Consulting Ltd. It was designed and developed at our
+state of the art solutions lab in India. It has been certified by SAP.
+MIDAS addresses the problem of data anomalies in various verticals,
+while generating and managing relevant and clean data. It is a solution
+that helps collaborate and integrate data for optimum use. It is
+flexible enough to be a SaaS or an on-premise service or on turnkey
+basis. More over MIDAS is SOA & JSR 168 compliant architecture and comes
+with Role based access control (RBAC) mechanism
+
+Responsibilities:
+
+Understanding the functional specifications and architecture.
+
+Involved in Development of Connectors and Admin.
+
+Coding using Java, Flex, and Spring MVC
+
+Validations at client side using JavaScript.
+
+Team coordinating and integrating activities across multiple
+functionalities.
+
+Responsible for project tasks and assignments are completed on time.
+
+Project		:	 Cleanser
+
+Client		:	 O&M (Owens & Minor Inc.), USA
+
+Organization		:	 Bodhtree Consulting Pvt Ltd.
+
+Environment		: 	 Java, JSF, Tomhawk, JSP, Oracle
+
+IDE		:	 My Eclipse Enterprise Workbench
+
+Web Application Server		:	 Tomcat Server.
+
+Role		:	 Developer
+
+The Owens & Minor Inc. is a leading distributor of national name-brand
+medical and surgical supplies.  Owens & Minor retrieves enormous volume
+of data from these healthcare facilities and cleans as well as enriches
+the same. The cleansed data helps Owens & Minor provide improved
+inventory management and help customers control cost more effectively.
+Cleanser will help O& M standardize and automate the data cleansing
+activities, which are of repetitive nature, thereby eliminating any
+errors that may occur while processing huge volume of data manually. The
+portal would also help process contracts of the clients of Owens &
+Minor. Thus, the proposed system called O&M Extranet Portal would
+further strengthen all these business activities of Owens & Minor.
+
+Responsibilities:
+
+Understanding the functional specifications and architecture.
+
+JSF framework implementation in the MVC Architecture.
+
+Involved in Development of Contract Management Module, User and Admin.
+
+Coding using Java, JSP, and JSF MVC,Tomhawk
+
+Validations at client side using JavaScript.
+
+Involved in Excel download reports using POI Java API
+
+Team coordinating and integrating activities across multiple
+functionalities.
+
+Responsible for project tasks and assignments are completed on time.
+
+Project		:	 Plaksa (MyLifeNexus)
+
+Client		:	 Foothill-de Anza community college, USA
+
+Organization		:	 Bodhtree Consulting Pvt Ltd.
+
+Environment		: 	 Java, Spring MVC, Jsp, DWR, MySQL
+
+IDE		:	 MyEclipse Enterprise Workbench
+
+Web Application Server		:	 Tomcat Server.
+
+Role		:	 Developer
+
+Plaksa has one of the job portals, the easiest and fastest way to search
+for the best jobs and provide educational information. Basic Membership
+registration from plaska.com, post jobs to their students, receive job
+announcements from employers and receive exclusive job announcements
+from employers, currently enrolled student job search data .Consumer
+should be able to self register and create account on line. Consumer
+should be authenticated. Employers and Career Placement centers of
+Educational institutions will be a member of Career Placement Community.
+Employers should be able to post jobs directly or through specific
+educational institutions. 
+
+Responsibilities:
+
+Understanding the functional specifications and architecture.
+
+Spring framework implementation in the MVC Architecture.
+
+Involved in Development of Admin, CareerServices, and Consumer modules.
+
+Coding using Java, JSP, and Spring, MVC
+
+DWR implementation in spring.
+
+Validations at server side using spring annotations.
+
+Involved in Excel download reports using POI Java API
+
+Team coordinating and integrating activities across multiple
+functionalities.
+
+Responsible for project tasks and assignments are completed on time.
+
+Deployments on JBoss Server (Production, Staging)
+
+=
+
+>
+
+?
+
+@
+
+A
+
+C
+
+V
+
+X
+
+Z
+
+\
+
+`
+
+c
+
+d
+
+hY
+
+hY
+
+hY
+
+hY
+
+,
+
+-
+
+>
+
+?
+
+A
+
+C
+
+X
+
+Y
+
+摧晪MጀY
+
+Z
+
+e
+
+·
+
+Ü
+
+î
+
+ð
+
+ñ
+
+ࠀd
+
+e
+
+m
+
+w
+
+}
+
+‰
+
+—
+
+˜
+
+ž
+
+¶
+
+·
+
+¸
+
+Ë
+
+phË
+
+×
+
+Ù
+
+Û
+
+Ü
+
+Þ
+
+à
+
+í
+
+î
+
+ï
+
+hY
+
+hY
+
+hY
+
+h
+
+hY
+
+hY
+
+ ¼¿ÓÔøþ
+
+ 
+
+&
+
+(
+
+-
+
+.
+
+/
+
+0
+
+M
+
+T
+
+V
+
+_
+
+
+
+–
+
+¶
+
+hY
+
+hY
+
+¶
+
+í
+
+î
+
+hÊ
+
+hY
+
+hY
+
+^„`„gdt?ò
+
+␃ഃ׆Āतሀᡤ愀̤摧䋎H
+
+搒Ũ摧坹Õ
+
+愀̤摧瑉C
+
+摧䓪\
+
+hr
+
+  hr
+
+hr
+
+& hr
+
+hr
+
+hr
+
+&
+
+搒Ũ摧㯈
+
+摧䉣î
+
+&
+
+hà]
+
+h”r
+
+摧䇼L
+
+摧㘨C
+
+p
+
+hY
+
+ph333 le:
+
+B.Tech (Electronics and Communications) (2000 – 2004) from A.S.R
+college of Engg, affiliated to JNT University.
+
+	
+
+							             SOWMYA BOYANAPALLI
+

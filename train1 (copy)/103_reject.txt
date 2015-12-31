@@ -1,0 +1,350 @@
+Total Experience: 
+
+
+
+Software professional with 8 years of experience in Development and
+Implementation of business applications in Web Development and
+Client/Server Technologies.
+
+Excellent Knowledge in SDLC methodologies – development of full life
+cycle of a project from requirement gatherings, development, testing and
+deploying the applications. 
+
+Experience in design patterns such as Factory pattern, Business
+Delegate, Service Locator, Singleton, Session Façade pattern and Data
+Access Objects.
+
+Expertise in J2EE compliant systems for deploying in OC4J, Tomcat web
+server and JBOSS server. Experience in using Java IDE tools Eclipse and
+My eclipse. 
+
+Good Experience in Java/J2EE, JSP/Servlets, Struts, JSF, Hibernate,
+Spring, Web Services and databases (Oracle and MySql)
+
+Expertise in designing enterprise applications based on Object Oriented
+and MVC architecture.
+
+Good knowledge and experience in Web development like AJAX, Java Script,
+JQuery, HTML5 and CSS. 
+
+Professional Experience: 
+
+
+
+Working as Sr. Consultant in Alliance Global Services IT India Pvt Ltd.,
+from Aug 2010 to till to date.
+
+Worked as Software Engineer in ISpace Global Services from Dec 2009 to
+July 2010.
+
+Worked as Sr. Software Programmer in PB Systems India Pvt. Ltd., from
+April 2008 to Sep 2009.
+
+Worked as Software Engineer in Frontage IT Solutions Pvt. Ltd., from
+October 2006 to April 2008.
+
+Skill Set:
+
+
+
+Programming Languages	:	Java, J2ee, JDBC
+
+Web & UI Technologies	:	Servlets, JSP, JSF, ADF, XML, Ajax, JQuery,
+HTML5, XML, XSD and XSLT
+
+Distributed Technologies	:	Web Services
+
+ORM	:	Hibernate
+
+Web/App Servers	:	Tomcat, OC4J and JBoss
+
+Frameworks	:	Struts, Spring,  
+
+Tools	:	JUnit, Ant, Log4j
+
+IDE’S	:	Eclipse, My Eclipse
+
+Database	:	MySql, Oracle 
+
+Scripting Language	:	Java Script, Shell Script 
+
+Operating System	:	Windows 2000/XP/7
+
+
+
+Work Experience:
+
+
+
+Project #1
+
+Project	:	Web of Knowledge (WOK5)  		
+
+Client	:	Thomson Reuters
+
+Duration	:	Aug 10 – Till date
+
+Position         		: 	Sr. Consultant
+
+Team Size			: 	10
+
+Environment		: 	Oracle, JDK1.5, XML, XSD, XSLT, Shell Script, Spring,
+Web Services and Eclipse
+
+
+
+Description:  
+
+Thomson Reuters Web of Knowledge is a research platform that gives you
+access to objective content and powerful tools to search, track, measure
+and collaborate in the sciences, social sciences, arts, and humanities.
+This intelligent research platform provides access to the world's
+leading citation databases, including powerful cited reference
+searching, the Analyse Tool, and over 100 years of comprehensive
+back-file and citation data.
+
+Responsibilities:
+
+ Had interactions with Thomson Reuters Architects & participated in
+design discussions.
+
+ Presentations to client on proposed developments & Customer defect
+Management
+
+ Developing XML and XSL for new collection & updating existing as part
+of defect fixing.
+
+ Develop shell script for periodic updates and SQL procedure using
+PL/SQL code
+
+ Tracking and Issue resolutions.
+
+ Designed and developed FCR (Full Cited Reference) Project 
+
+ RAW-XML Project migrating implementation from tagged Data to Java -
+XSL.
+
+Project #2
+
+Project	:	Everbridge  			
+
+Client	:	Everbridge
+
+Duration	:	Dec 09 – July 2010
+
+Position         		: 	Software Engineer
+
+Team Size			: 	9
+
+Environment		: 	Struts, Spring JDBC, Spring ORM (Hibernate), Oracle,
+JDK1.5, JSP, JavaScript, OC4J and Eclipse
+
+Description:
+
+	Everbrige is the leading global provider of mass notification solutions
+to Global 2000 corporations, healthcare systems, colleges and
+universities, and government agencies and municipalities. Organizations
+in more than 70 countries worldwide rely on 3n for daily operational and
+emergency notification needs.
+
+The mass notification system enables one person to communicate with
+tens, hundreds, or thousands of people anywhere, anytime via phone,
+email, instant messaging, text messaging, fax, pager, and more
+
+Responsibilities:
+
+Identified the Client business requirements for the Matrix module
+
+Use case documentation for all the features of Matrix module
+
+Prepared clear, concise detailed system Requirements Specification (SRS)
+document in accordance to Client's guidelines and standards.
+
+Created Use Case and Sequence diagrams using UML
+
+Involved in the creation of the configuration of Matrix using Spring
+
+Implementation of layers (Service and DAO) of Matrix module
+
+Written Junit test cases for the service layer of matrix
+
+Responsible for writing JSP, Action Classes, Java Script  for Matrix
+Module 
+
+Project #3
+
+Project	:	Avalon				
+
+Client	:	20th Century Fox
+
+Duration	:	April 08 – Sep 09
+
+Position         		: 	Sr Software Programmer
+
+Team Size			: 	7
+
+Environment		: 	JDK, JSP, JavaScript, Ajax, JDBC (Stored Procedures),
+Struts, Oracle, Toad, Web Logic and My Eclipse. 
+
+Description:
+
+	The Avalon is a custom developed, web-based Material Servicing
+Application, which facilitates the accurate requisition of materials,
+the creation and monitoring of lab orders and dispatching and tracking
+of the broadcast materials that are sent and received back from
+customers. Avalon will manage the data and processes needed to service
+materials for Television Distribution’s International 
+
+	The system will also support servicing to meet contractual obligations
+to provide customers with the materials for products that have licensed
+from Fox and maximize control of broadcast tape shipments and provide a
+unified view of materials delivery worldwide
+
+Responsibilities:
+
+Day to day enhancements and Bug Fixing.  
+
+Update the Knowledge Tree with updated SDS and SDDS documents.
+
+Involved in coding using Struts framework
+
+Performed client side validation using JavaScript and Ajax
+
+Designed web pages using JSP with struts tags
+
+Implemented Tiles framework for better UI and reusability.
+
+Project #4
+
+Project	:	U.S. Associations				
+
+Client	:	Frontage IT Solutions Inc, USA
+
+Duration	:	Jan 2008 to April 2008
+
+Position         		: 	Software Engineer
+
+Team Size			: 	4
+
+Environment		: 	JDK, JSP, JavaScript, Hibernate, Struts, Restful WS,
+MySql, JBoss and My Eclipse. 
+
+Description:
+
+	U.S. Associations is a web-based project. It acts as an interface
+between user and Association websites. This helps in user getting
+registered with the associations present in the USA. Searching criteria
+is provided through which users can search associations based on the
+criteria provided. Admins of various associations can search their
+association members and can download the user details.
+
+Responsibilities:
+
+Involved in developing application flow.
+
+Developed Presentation Layer 
+
+Implemented Business Logic in Data Access Objects to accomplish the
+Model layer
+
+Populated collection with struts tags objects in JSP for Better
+performance
+
+Implemented Hibernate to map java classes to the database tables.
+
+Developed POJO’s to map the tables being called using Hibernate;
+
+Implemented Hibernate Criteria and HQL for search results and insert,
+delete, update tables respectively by passing the POJO objects.
+
+Project # 5
+
+Project 	:	dsign’z Unlimited			
+
+Client(s)	:	Linga Paradise Group, Hyderabad
+
+Duration	:	Mar 2007 – Dec 2007
+
+Position	:	Software Engineer
+
+Team Size	:	6
+
+Environment	:	Jdk, JSP, JDBC, Java Mail, Struts, JavaScript, MySql,
+Eclipse, Windows 2000, Web Logic 
+
+Description:
+
+dsign’z Unlimited is commercial web project for an organization called
+Linga Paradise Group. In this project it is having three modules, i.e.
+Accountant Module, Cashier Module and Schemes Module. The administrator,
+who plays main role in this project, maintains all three modules. He
+will create another three roles for each module i.e. Accountant, Cashier
+and Schemes. These three roles can have their appropriate modules home
+page. The accountant can maintains purchase; inventory details and can
+have search criteria to know the inventory, sales and purchase details.
+The cashier can generate the recites for the customers. In schemes
+module, different types of schemes provided by Linga group, Customer
+group details and Customer Payment details will be maintained.
+
+Responsibilities:      
+
+Involved in developing forms using JSP and backend logic with DAO.
+
+Communicate with client for requirements gathering on CR (change
+requests).
+
+Involved in developing an application modules “Accountant”,
+“Cashier”.
+
+Implemented Validator framework for user input validations
+
+Performed code reviews, bug fixing.
+
+Project #6
+
+Project 	:	Resume Tracker	
+
+Client	:	Frontage IT Solutions, India
+
+Duration	:	Oct 2006 – Mar 2007
+
+Position	:	Software Engineer
+
+Team Size	:	2
+
+Environment	:	JSP, Servlets, JDBC, JavaScript, Tomcat and Windows 2000
+
+
+
+Description:
+
+	The aim of Resume Tracker is to fulfill the requirements of Vendors. 
+The vendor can have resumes downloaded from different portal and he will
+search the best resume according to the requirement. To find the best
+resume he needs to follow some search criteria so as to get the results
+as quick as possible. By using this Resume Tracker, vendor can easily
+find the best consultant resume. 
+
+Recruiters who are with Vendor will save the consultant details with
+Resume first in the server where the project is installed. According to
+the requirement of vendors the recruiters search the consultant by
+providing keywords like skills, experience, location and zip. Then
+matched consultants details are short listed for further processing.  
+
+Educational Qualification
+
+  Master of Computer Applications. VTU University, Karnataka, 2001-2004,
+secured First Class with 69.8%.          
+
+  Bachelor of Science (Computers), OU Andhra Pradesh, 1998-2001, secured
+First Class with 61.8.         
+
+							(Keshava Reddy. T)
+
+T. KESHAVA REDDY		     Email: kheshaav@gmail.com
+
+	                                                     Mobile:
+09959074234 
+
+ 
+

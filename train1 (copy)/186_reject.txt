@@ -1,0 +1,285 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                            -  4.5
+year &
+current                                �
+�               
+
+Spring                  
+                    -  4.5 year &
+current                                �
+�               
+
+Web Services                             - 
+4.5                                  �
+�             
+
+Core
+Java                                  
+  -  10year
+
+Design Patterns                          
+-  using  
+
+UML design                               
+-    designing
+
+Build Tools (Maven/Ant)              -    maven   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Tomcat/eclipse
+
+DB:oracle/postgrade
+
+16L/24L/30days
+
+		           BHANU PRAKASH .V
+
+bhanuvcareer@gmail.com			                                               
+ ph: 09945228680
+
+Objective:
+
+	To succeed in an environment of growth and excellence and earn a job,
+which provides me job Satisfaction, and self-development and help me
+achieve personal as well as organization goals.
+
+Summary:
+
+Around 10 years of Experience in developing scalable web applications
+using MVC frameworks like spring, struts and Java, j2ee technologies.
+
+Playing the scrum master role in my current project.
+
+Good experience in performance tuning, Design patterns and in writing
+SQL queries.
+
+Identified the necessary of collecting only the required logs regarding
+the discovery of a particular device, created small utility which will
+collect only the specific logs.
+
+When I was working in PNOC, recognized the necessity of event trace tool
+designed and developed the ETT.
+
+Good knowledge in Agile Methodology.
+
+Work Experience:
+
+Working as Software Engineer in Cisco Systems from March 2010 to till
+data.
+
+Worked as Senior Software Engineer in HUAWEI Technologies from May 2008
+to February 2010.
+
+Worked as Lead Engineer in HCL- Cisco from January 2005 to May 2008.
+
+Technical Skills:
+
+Operating Systems			:	Linux, MAC, Windows NT
+
+	Languages Known			:	Java, J2ee, XML, HTML
+
+	RDBMS					:	Oracle, Postgres
+
+	ORDBMS				:	Hibernate
+
+	Application Framework			: 	Spring, Struts
+
+	Web Servers				:	Tomcat
+
+	Web Services				:	RESTful Web Services
+
+Tools					:	Eclipse, JUnit, Jstack, Jconsole
+
+Source Control				:	Clearcase, SVN
+
+Build Tools				:	Ant, Maven
+
+Awards:
+
+	Received 5 CAP (Cisco Achievement Program) awards from Cisco Systems.
+
+Education:
+
+MCA from Sri Venkateswara University, Tirupati.
+
+B.Sc (Computer Science) from Sri Venkateswara University, Tirupati.
+
+Current Project: 
+
+Cisco Prime Collaboration Assurance (PCA) 
+
+Organization		: 	Cisco Systems
+
+Role			: 	Scrum master and Developer
+
+Operating System	: 	Linux
+
+Environment		: 	Java, J2EE, Oracle/Postgres
+
+Application Framework	:	Spring
+
+ORDBMS		: 	Hibernate
+
+	Duration		: 	From 2012 May to till date.
+
+Cisco Prime Collaboration, part of Cisco Prime for IT, is a
+comprehensive voice and video service assurance and management system,
+with a set of powerful provisioning, monitoring, troubleshooting,
+reporting and analytics capabilities that aid operators in delivering a
+first-rate end-user experience.
+
+Contributions:
+
+As scrum master of the Inventory and licensing modules my primary
+obligations are to assure that the development engineers are putting
+through the features with high caliber.
+
+Core member in developing inventory module.
+
+Developed small utility to collect the correct logs of any discovery
+issue.
+
+Brought down the discovery time from 2 hours to approximately to 1:15
+hour in large and very large deployment modes.
+
+Designed and developed Scheduled Reports.
+
+Written complex queries to show the consistent data in different
+dashlets and pages.
+
+Reduced database slowness by 30% by adding the auto vaccum.
+
+Always enjoyed attending the customer calls and resolving their issues
+with the inventory module.
+
+Previous Projects:
+
+1) Cisco Assurance and Service Portal (CASP)
+
+Organization		: 	Cisco Systems
+
+Role			: 	Developer
+
+Operating System	: 	Linux
+
+Environment		: 	Java, J2EE, Oracle
+
+	Duration		: 	From 2010 march 5th to 2012 May.
+
+Contributions:
+
+Designed and developed Event Trace Tool.
+
+Responsible for handover of build to test team.
+
+Designed and developed Device tree portlet.
+
+Designed and developed Business view portlet.
+
+Designed and developed Annotations.
+
+2) Developer/Upgrade tool
+
+Organization		: 	HUAWEI Technologies
+
+Operating System	: 	Solaris and Windows
+
+Environment		: 	Java, SQL Server, Sybase
+
+	Duration		: 	From 2008 may 15th to 2010 February
+
+Contributions:
+
+Developed nearly 50% of stories (requirements) as a pair, to release the
+product in 3 months.
+
+Resolved performance related issues in Developer tool.
+
+Supporting customers from January 2009 to till date.
+
+Currently am handling the entire upgrade tool (Defect fixing and
+implementing new requirements).
+
+From January 2009 I am playing as a Team Lead role for upgrade tool and
+developer tool team.
+
+3) Cisco Works Health and Utilization Monitor V1.0
+
+Organization		: 	HCL Technologies
+
+Client			: 	Cisco Systems
+
+Operating System	: 	Solaris and Windows NT
+
+Environment		: 	Struts, Apache-Tomcat Application Server, Sybase,
+
+				Java, Jsp, Servlets
+
+	Duration		: 	From 2006 October 15th to 2008 May 9th.
+
+	
+
+Contributions:
+
+Developed code to schedule the reports.
+
+Developed screens for Report forms.
+
+Developed code to run the reports.
+
+Developed screens for Audit trail log.
+
+Developed code for Audit trail log.
+
+Developed reusable component for tree search.
+
+Provided support for Beta testing.
+
+Developed code for Device Dashboard report.
+
+Written stored procedures for generating reports.
+
+Unit tested the code using JUnit tool.
+
+	
+
+Report is one of the interfaces to get the information from the HUM.
+This provides provision for setup/configure the reports easily and
+frequently. 
+
+4) Cisco Works Resource Manager Essentials 4.0.2, 4.0.3, 4.0.4, 4.0.5,
+and RME 4.1.       
+
+	Organization		: 	HCL Technologies
+
+Client			: 	Cisco Systems
+
+Operating System	: 	Solaris and Windows NT
+
+Environment		: 	Struts, Apache-Tomcat Application Server, Sybase,
+
+				Java, Jsp, Servlets
+
+Duration 		: 	From 2005 January to 2006 October
+
+Contributions:
+
+RME was a maintenance project, so I was working as an engineer for
+fixing bugs of config modules, which includes Netshow, Netconfig, Config
+Archives and Config Editor. 
+
+As a part of bug fix developed Audit trail logging for NetConfig.
+
+Developed screens for baseline config.
+
+Handled customer cases.
+
+As a part of bug fix developed CLI command for netconfig and netshow.
+
+                                                                        
+                                 (Bhanu Prakash Valapali)
+

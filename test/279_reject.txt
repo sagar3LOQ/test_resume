@@ -1,0 +1,398 @@
+                                                                        
+                                                                        
+                                             
+
+                                      			         Varaprasad KNLVV
+
+    
+
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                            -  3.5
+years
+
+Spring                  
+                -4.5 year&
+current                                �
+�               
+
+Web Services                    -  3
+yers &current(SOAP/REST)                       �
+�                      
+
+Core
+Java                                  
+             -  8 year
+
+Design
+Patterns                                
+    -    used
+
+UML
+design                                 
+          -    aware
+
+Build Tools (Maven/Ant)                    -   
+Ant   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+RAT,websphere,eclipse
+
+Strong in database
+
+Ok for bitchemy
+
+                                                                        
+                      Mail:kambala.prasad@gmail.com
+
+         Cell: 91-8374450150
+
+Experience Summary
+
+             Currently working in United Health Group as a Senior
+Software Engineer. 8+ years of experience in IT industry with expertise
+in Java/J2EE and implementation and would like to add my skills to a
+team that designs and develops successful software that leads the
+industry in functional and technical achievement. My soft skills include
+result oriented leadership, good communication and interpersonal skills.
+
+Experience Summary:  
+
+Worked on Agile methodology.
+
+Good working experience in Banking and HealthCare Domine.
+
+Worked on Agile Scrum methodology.
+
+Experience with all phases of development, implementation, and
+trouble-shooting and maintenance.
+
+Strong in Object Oriented Programming concepts. 
+
+Knowledge of Object Oriented programming using JAVA also possesses
+knowledge of Design patterns.
+
+Worked on Spring and Hibernate frameworks
+
+Extensive exposure to Version Management tools PVCS, SVN, and Serena
+version controller.
+
+Strong logical and analytical abilities along with practical and lateral
+problem solving capabilities.
+
+Educational qualifications:
+
+B.Tech (IT)   passed from JNTU, A.P  in (2001-2005) with 63%.
+
+Intermediate from KKR Jr.Collage, Bhimavaram(1998-2000) with 62.5%.
+
+S S C from Bala jyothi public School, A.P (1998) with 63%
+
+Certifications:
+
+Sun Certified Programmer for the Java 2 Platform 1.5
+
+Achievements:
+
+Received 3 times Spot award in Misys Software Solutions.
+
+Received 3 times Spot award in United Health Group. 
+
+Received 2 times Sustaining Edge Award in United Health Group.
+
+Working Experience: 
+
+          
+
+Currently working in United Health Group Pvt Ltd., Hyderabad as Senior
+Software Engineer from April 2010 to till date.
+
+Worked with Misys Software Solutions, Bangalore as Software Engineer
+from August 2006 to April 2010.                           
+
+Skill Set:
+
+Languages	Java, WebService
+
+DBMS	DB2,Oracle
+
+Web Technologies	JDBC, Servlets, JSP,JSF, DOJO.
+
+Frameworks	Hibernate, Spring, Struts.
+
+Scripting Languages	Shell, JQuery
+
+Markup Languages	XML, HTML
+
+Application Servers	Tomcat, JBoss, IBM Websphere
+
+Tools	Eclipse IDE, IBM RAD, IBM MQ
+
+Operating Systems	Windows, Unix
+
+ 
+
+PROJECT EXPERIENCE:
+
+# Project 1	:- 
+
+Product	: Oxford Health Insurance 
+
+Technologies: Core Java, IBM RAD, IBM MQ, spring, oracle, Shell
+Scripting, WebService.
+
+Duration	: From April 2010 to till date.
+
+	
+
+Oxford Health Plans, a UnitedHealth care company, offers health care
+benefits to employers and individuals primarily in New York, New Jersey,
+and Connecticut. 
+
+Oxford's commercial insured products and services include traditional
+health maintenance organizations, preferred and exclusive provider
+organizations, point-of-service plans and consumer-driven health
+plans.  In addition, Oxford also offers Medicare plans and third-party
+administration of employer-funded benefits plans.
+
+EDI Health Care Claim Transaction set (837) is used to submit health
+care claim billing information, encounter information, or both, except
+for retail pharmacy claims (see EDI Retail Pharmacy Claim Transaction).
+It can be sent from providers of health care services to payers, either
+directly or via intermediary billers and claims clearinghouses. It can
+also be used to transmit health care claims and billing payment
+information between payers with different payment responsibilities where
+coordination of benefits is required or between payers and regulatory
+agencies to monitor the rendering, billing, and/or payment of health
+care services within a specific health care/insurance industry segment.
+
+In This application I worked to validate the claim data like diagnosis
+codes, Provider, Member. Presently involved in implementing the 5010
+HIPAA changes.
+
+EDI Health Care Service Review Information (278) This transaction set
+can be used to transmit health care service information, such as
+subscriber, patient, demographic, diagnosis or treatment data for the
+purpose of request for review, certification, notification or reporting
+the outcome of a health care services review. Presently involved in
+implementing the 5010 HIPAA changes.
+
+Claims Highway:- This is internal project in UHG. This initiative is to
+deploy post-adjudicated claim data from the Oxford Claim/Intake
+application to the United Data Warehouse(UDW) through the UnitedHealth
+Group(UHG) Claims Highway (Claims Highway).
+
+The scope of the changes:
+
+Collect eligible Claim IDs from UniVerse
+
+Obtain an Interchange Control Number (ICN) from the Claims Highway
+
+Extract the ICN with claim data from UniVerse and PULSE into a payload
+record
+
+Transform the payload record into an Oxford Claim XML (OCXML) file
+
+Route the OCXML file to the Claims Highway queue for Post-Adjudication
+claims
+
+Transform the OCXML file into a Common Framework Interface (CFI) format
+recognized by the Claims Highway
+
+Maintain transactional status history with the Claims Highway for the
+claim
+
+Maintain the ICN history for the claim
+
+Resend the claim to the Claims Highway
+
+Process transaction errors
+
+Intelliclaim:-
+
+The IntelliClaim software package C.O.P.S. (Claims Overpayment
+Prevention Service) was purchased and installed to improve overpayment
+protection and is designed to apply rules based on payment policies and
+logic.  This software package will improve productivity and accuracy of
+claims payment.  
+
+C.O.P.S. provides real-time claim checking processes and background
+historical claim record updates.   During the C.O.P.S. process,
+real-time inquiry messages are sent from OXHP’s application component
+to the C.O.P.S. rule engine and then back to Oxford.  OXHP transmits
+pre-paid claim information (from the EDI tables in Pulse) to
+IntelliClaim for duplicate payment checking. IntelliClaim will return
+the claim with Deny, Deny/Suspend, or Accept recommendations based on
+the rules that were applied..  OXHP will use the recommendations when
+adjudicating the claim.  OXHP will transmit adjudicated claim
+information (driving from Master.Claim in UV) to IntelliClaim for later
+use in historical payment processing.  
+
+Responsibilities:
+
+Involved in Developing Interfaces.
+
+Involved in Development
+
+Performed Sanity Testing for every internal release to test team to
+release bug free software.
+
+# Project 2	:- 
+
+Product: Universal Banking	
+
+			
+
+Description: 
+
+BankFusion Universal Banking (UB) is a customer-centric core banking
+system providing retail business functionality for both front and back
+office. UB is a true 24x7 real-time transaction processing system that
+removes the constraint of disabling all user interactions during
+end-of-day batch processing.
+
+I worked in following Modules.	
+
+ATM:-
+
+The Sparrow-BankFusion Universal Banking Interface is a client server
+interface for ATM transactions. The Sparrow-BankFusion Universal Banking
+Interface is the means by which transactions requested at an ATM device
+and forwarded from the Sparrow sub-host system to the host BankFusion
+Universal Banking system. 
+
+Response messages are generated by BankFusion Universal Banking are
+routed back to the Sparrow sub-host system via the Sparrow-BankFusion
+Universal Banking Interface for onward transmission to the originating
+ATM device. The Sparrow-BankFusion Universal Banking Interface is
+designed to operate in a centralised multi-branch database configuration
+in which each ATM device is connected to the Sparrow sub-host and the
+sub-host is connected to BankFusion Universal Banking. The connection
+between the Sparrow sub-host and BankFusion Universal Banking is
+achieved using serial asynchronous communications protocol. 
+
+Fontis:-
+
+Fontis is a Third Party Product (TPP) used by BankFusion Universal
+Banking customers (typically corporate customers) to access information
+concerning their accounts over the internet. Fontis allows customers to
+enter credit and debit payment requests to and from their accounts. It
+also allows them to enter requests for cheque books and other
+stationery. Details of a customer's payments through Fontis are
+transmitted to the Bank and are formatted by Fontis into payment files.
+These files are in ASCII format and can hold single /multiple debit or
+credit transactions. Payments that fail validation are authorised or
+rejected by a supervisor who views failed payment details along with the
+error details. The authorized users are permitted accept / reject the
+payment. All authorised payments are then processed again after the
+error has been corrected.All payments that are processed successfully
+are posted in BankFusion Universal Banking.
+
+Core Financial:-
+
+Core Financial is the core module for the Universal Banking. This Module
+develops all the financial related Items like Interest, standing Order,
+All Financial transactions.I Worked in the Interest Application
+development and Standing Order Instructions.
+
+Commercial Lending:-
+
+My recent development is commercial Lending. Commercial Lending is a
+feature for the Bank to give Different flexible options to the customer
+in paying back the Loan.
+
+Core-Non Financial:-
+
+Core-Non Financial Module generally maintaining and creating static data
+like Account And Customer. I Implemented the Customer creation with KYC
+(know your customer).In KYC we will send the required data to the
+FirocoSoft where it will identify whether the given customer is Black
+Listed or Not.
+
+Technology/platform used : Java, J2EE, XML, Hibernate and Spring
+
+Application Server used : JBoss, Web sphere
+
+Database used : DB2,Oracle 
+
+Operating System used : Windows XP
+
+Build Tool used : Apache-ant-1.6.2 
+
+Configuration Management Tool : Harvest and Clearcase
+
+Bug Tracking Tool: Bugzilla.
+
+# Project 3:
+
+Product: Equation Plus
+
+Equation is a market leader in Core Banking Products. Equation plus is a
+migrated version of "Equation" which is currently being used by many
+Tier 1 Bank around the world. Equation Plus is developed in Java
+Technology which is migrated version of “Equation” this is developed
+in AS400.I am in Application Infrastructure Management team which is
+responsible for all the Framework development for the product.
+
+Snapshot of the Project:
+
+Technology/platform used :  J2EE ( Servlets, JSPs, EJB) and XML
+
+Application Server used : IBM Websphere Application Server 6.0
+
+Database used : Oracle 10.2.01
+
+Operating System used : Windows XP
+
+Build Tool used : Apache-ant-1.6.2 
+
+Configuration Management Tool : Harvest and Clearcase 
+
+	
+
+Responsibilities:
+
+Involved in Developing Interfaces.
+
+Involved in Development
+
+Performed Sanity Testing for every internal release to test team to
+release bug free software. 
+
+Academic Project:   
+
+     	 Title		    :        Employee Training and Tracking System
+
+               Client	    	:        Matrix IT Solutions.
+
+               Role	  	:        Developer    
+
+               Technologies	    :        Java, Servlets, jsp, Oracle 8I,
+Struts.
+
+               Team Size	 	:        4
+
+               Description              		:        The Project
+“Employee Training and Tracking System“is keep tracking the details
+of all the employees and trainees in an organization. The proposed
+system is a network-based application where different users of the
+system can access different forms depending on their access privileges,
+and it based on web technologies so we can access from remote locations.
+The project development team aims at complete client satisfaction
+emphasizing the importance, needs of the client and gives detailed
+information of how the total automation is achieved.
+
+DECLARATION
+
+               The above information furnished is true to the best of my
+knowledge and belief.
+
+DATE         :      
+
+PLACE       :    Hyderabad		
+
+            (K.Vara Prasad)
+

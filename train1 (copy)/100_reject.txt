@@ -1,0 +1,322 @@
+1
+
+Jeevan Reddy Ragula
+Java, J2EE DEVELOPER
+
+• Mobile
+• E-Mail
+
+: 9701356833
+: jeevanragula@gmail.com
+
+CAREER OBJECTIVE
+To strive for excellence in the field of software development with dedication, proactive approach, positive attitude and
+passion and utilize my knowledge and skills in the best possible way for the fulfillment of organizational goals.
+
+EXPERIENCE SUMMARY
+
+
+
+
+
+
+
+
+
+
+Having 8 years of experience in IT industry as a Software Developer using JAVA/J2EE technologies and have played
+roles as Senior Developer.
+Good problem solving skills and works to resolution and identifies root cause.
+Completed SCJP and AIX Basics and Brainbench OOPS Concepts Certifications.
+Very good experience in Agile/Scrum methodology to complete the tasks and projects.
+Strong experience in all the phases of software development life cycle including requirements gathering, analysis,
+design, implementation, deployment and support.
+Strong experience in Web Application Development using Java, Struts, HTML5, Javascript, JQuery.
+Experienced in developing high performance and secure web applications.
+Experienced in writing SQL/PL SQL scripts including stored procedures, functions, and packages.
+Strong mentor and coach, skilled in inspiring confidence and leading by example.
+
+SKILL SET
+
+
+
+
+
+
+
+
+
+
+
+
+
+Java Technologies
+Frameworks
+Languages
+Web Technologies
+Database and Tools
+Operating Systems
+Version Control Tools
+Unit Testing Tool
+Build Tools
+Application Servers
+IDE
+Other Tools
+
+Core Java, Servlets, JSP, JDBC, Web Services
+MVC Architecture, Struts 2, Spring, Hibernate, Apache Tiles, Terracota EHCache, Quartz
+C, Java, PL/SQL, ActionScript 3.0, Shell Scripting
+HTML, JavaScript, XML, JSON, JQuery, Backbone.js, FTL
+SQL, PL/SQL, Oracle, DB2, SQL Developer
+Windows, Linux, HPUX and AIX.
+Subversion, TortoiseSVN
+JUnit and TestNG
+ANT and Gradle
+Tomcat 6.0, Apache HTTP Server, IBM WebSphere Application Server.
+Eclipse, Rational Application Developer, Flex Builder 3, JBuilder
+Version one, Adobe CQ5, Jira, Code Collaborator, Fortify
+
+EDUCATION
+
+
+
+
+Bachelor of Technology
+Aggregate (86%)
+University: Jawaharlal Nehru Technological University, Hyderabad.
+12th Higher secondary
+Aggregate (96%)
+Board of Intermediate Education, Andhra Pradesh.
+10th Matriculation
+Aggregate (89%)
+Board of Secondary Education, Andhra Pradesh.
+
+(2003-2007)
+(2001-2003)
+(2000-2001)
+
+2
+
+EMPLOYEMENT DETAILS
+
+
+
+
+Working as Senior Systems Analyst in IVY Comptech Pvt Ltd, Hyderabad from July 2010 till date.
+Worked as Software Engineer in HP India Software Operations Pvt Ltd, Bengaluru from Nov 2009 to Jul 2010.
+Worked as Application Developer in IBM India Pvt Ltd, Bengaluru from Aug 2007 to Nov 2009.
+
+ACHIEVEMENTS AND TRAININGS
+
+
+
+
+Got “Exceptional Performance award” for the financial year 2013-2014.
+Got “High Performer award” for Q3, 2011.
+Attended Below Corporate Trainings.
+
+
+
+
+
+
+Workshop on Agile & Scrum Implementation
+Spring Framework
+Struts 2 Framework
+Security in Web Applications
+Single Page Application Development.
+
+PROJECTS
+Cashier
+
+Organization
+Clients
+Technologies
+Team size
+
+July 2010 to till now
+
+: IVY Comptech Private Limited.
+: Bwin.Party Digital Entertainment, Zynga Inc
+: Java, J2EE, Struts 2.0, FTL, Oracle SQL, PL/SQL, JavaScript, JQuery, Apache HTTP Server, Tomcat, Terracota
+: 20
+
+Cashier is a web based application to provide payment methods for bwin.party online poker and betting portals.
+It provides the facility to the customers for all the payment related transactions online. It provides payments options like Credit
+cards, Bank Transfers, Ewallets and Echecks through which a player can deposit and withdraw money. This includes the
+communication with the provider and storing and managing the huge user related data including transaction details in the
+database.
+As a Senior Developer, I have successfully completed the below projects and tasks in Cashier team.
+
+
+Developed and Integrated new Payment methods with backend Service providers like Kalixa.
+
+
+
+Integrated Terracota EHCache with Cashier application for distributed caching of cashier configuration data.
+
+
+
+Implemented a non PCI based credit card payment posting system for bwin.party group websites.
+
+
+
+Migrated the payments transaction data and instrument data of bwin.it from bwin old platform to target platform.
+
+
+
+Integrated cashier web application with other bwin.party websites in iframe using easyXDM js library.
+
+
+
+Designed and developed a Quartz based scheduling framework for payments posting.
+
+
+
+Designed and developed JQuery Validation Framework for Cashier Web Application and added Client side validations
+for all Cashier pages.
+
+
+
+Developed a XML Parsing Framework to integrate Cashier payment methods with backend web service.
+
+
+
+Developed Mobile Web based Cashier using HTML5 technologies.
+
+
+
+Designed and developed Cashier in Flash using Flex3 and Action Script to integrate with Facebook application.
+
+
+
+Developed a Functional Testing framework using TestNG to automate Cashier web application testing.
+
+
+
+Fixed security issues like XSS using custom validation framework and developed a token based authentication
+framework to prevent CSRF attacks.
+
+
+
+Involved in performance tuning of Cashier web application.
+
+3
+
+
+Participated in many design meetings and code reviews.
+
+
+
+Worked on many production incidents.
+
+
+
+Completed many other small and medium roadmap items in Cashier application.
+
+Serviceguard Manager
+
+Organization
+Technology
+Team size
+
+Nov 2009 to July 2010
+
+: HP Inida Software Operations Private Limited.
+: Java, J2EE, JavaScript, HPUX, Tomcat, Shell Scripting
+:8
+
+Serviceguard Manager is a graphical user interface that provides configuration, monitoring and administration of
+Serviceguard, Serviceguard Extension for RAC, Metrocluster, and Continentalclusters. Using Serviceguard Manager, color
+coded icons provide administrators and operators with a birds-eye view of network cluster status. From this high-level
+perspective, administrators can drill down and proactively manage specific clusters, nodes, and packages.
+Roles and Responsibilities:
+
+
+Requirement gathering, Interaction with Onsite co-coordinator.
+
+
+
+Developing new functionality, including both back-end and front-end parts.
+
+Fuel Cell Data Collection
+
+Organization
+Client
+Technology
+Team size
+
+Nov 2007 to Oct 2009
+
+: IBM India Private Limited.
+: Daimler AG
+: Java, J2EE, Struts, Hibernate, DB2, AIX, Websphere Application Server and Shell Scripting
+:4
+
+The Fuel Cell Data Acquisition System (FCDAS) consists of three major system components: The Data Recorder, Local
+File Server, and the Central Data Management. The Central Data Management consists of the Central File Site (CFS) and the
+Central Analysis and Reporting Server (CARS) Web Site. The Local File provide WLAN access points for the Data Recorders,
+software for the secure download of the data collected by the Data Recorders to the Local File Servers, and software for the
+forwarding of the downloaded data files to the Central Data Management and data cleanup after successful delivery.
+
+The Central Data Management consists of a number of major software components hosted at a central site. The
+software components of the Central Data Management cover functionality for receiving and processing the data
+sent by the Local File Servers, data management and archiving, data import and export features, report
+generation, etc. A Web site provides a defined set of functionality to the end users of the Central Data
+Management.
+Roles and Responsibilities:
+
+
+Requirement gathering, Interaction with Onsite co-coordinator.
+
+
+
+Developing new functionality, including both back-end and front-end parts.
+
+
+
+Perform reoccurring specific tasks like External data import, Report generation for fuel cell data collection.
+
+
+
+Application support and handle all application problems.
+
+
+
+Problem Analysis and Solution, Error correction, Handle how-to questions.
+
+4
+
+PROFESSIONAL WORKING SKILLS
+
+
+
+
+
+Maintains a professional relationship with Management.
+Result oriented, self-starter and able to work with minimum guidance.
+Able to successfully prioritize projects and deliverables; delivers quality product/service on time.
+Trained team members in business and Technical aspects.
+
+PERSONAL DETAILS
+Father’s Name
+Date of Birth
+Languages known
+Notice Period
+
+:
+:
+:
+:
+
+Bhoom Reddy Ragula
+23rd April, 1986
+English and Telugu
+2 Months
+
+I hereby declare that all the data furnished above are true to the best of my knowledge.
+
+Regards,
+Jeevan Reddy Ragula
+
+

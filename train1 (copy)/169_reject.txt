@@ -1,0 +1,551 @@
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate                                              -  3.2 year& current                                                
+
+Spring                                                     -  3.2 year& current                                                
+
+Web Services                                        -  3years & current                                               
+
+Core Java                                               -  3.2year
+
+Design Patterns                                    -    restful,singleton
+
+UML design                                           -    used earlier
+
+Build Tools (Maven/Ant)                    -    Maven/Ant/gradel   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+Tomcat 7/eclipse/SVN/GIT
+
+Worked in reflection
+
+DB- my sql
+
+
+
+
+
+Prabhat Kumar Kashyap 
+
+kashyap.prabhat@ymail.com                                 
+
++91-8686962849
+
+
+
+
+
+Summary of Work Experience
+
+	
+
+	Senior Software Engineer having 3.1 yrs of real time Development work experience on Financial Web Applications with Wave Crest, Hyderabad since Nov 2011 to current date.
+
+	
+
+Professional Summary
+
+Real time Development experience using Java, Spring, Hibernate, JPA, AngularJS, Shell Script on Financial Applications and in Payment Card technologies in a Product Based Company.
+
+Worked on some of our famous Financial Web Apps like Reliance R-Pay, O2 Money, MyFare Card, My Monedero, Refundo, MyChoice, MojoPay, C2Go, Wave Crest Wallet Platform & BackOffice.
+
+Around 3.1 yrs of Real Time Development experience using JAVA/J2EE Technologies and Good knowledge on Object Oriented Programming and in Problem Solving.
+
+Good knowledge in C, C++, Data Structure and in Analysis of Algorithms.
+
+Experienced in Development of Internet based Enterprise Applications using the technologies such as Servlet, JSP, Spring MVC, Spring Batch, Spring JPA, Hibernate, Restful WebServices, AngularJS etc.
+
+A hand on experience on JSON, Restful and Apache CXF Web Services.
+
+Experienced with Restful Web Application Development using Spring JPA, Hibernate, AngularJS.
+
+Good Command on writing MySQL DB Scripts.
+
+Hands on experience in DB scripts automation using Flyway.
+
+Able to work with Project Supporting Tools like Gradle/Maven/Ant, Log4J etc.
+
+Having good command on Collection Framewok.
+
+Good Command on JDBC, XML, HTML, JavaScript, Ajax, JQuery, AngularJS etc.
+
+Experienced with doing configurations and writing FLUX Jobs.
+
+Good Command on writing Shell Scripts.
+
+Hand on experience in Jenkins Configurations for Build & Deployment Automations.
+
+Flexible and result/deadline oriented, hard working and teamwork experience.
+
+Good understanding and Architectural Knowledge of Software Development Life Cycle.
+
+Good knowledge on Commercial/Financial Application Development.
+
+Good Team Player with positive attitude and Strong Motivator.
+
+Creative, talented in software developing, fast-learning, excellent in research, analysis, problem solving, critical thinking, finding information and continuous learning.
+
+
+
+Technical Skills
+
+
+
+Programming Languages	: C, C++, Assembly, Java/J2EE, Shell Script.
+
+IDE				: Eclipse, Spring Source.
+
+Frameworks			: Spring MVC, Spring JPA, Spring Batch, Hibernate, JPA, Rest API.
+
+Servers			: Tomcat.
+
+Operating Systems		: DOS, Windows XP/7, Linux/Red Hat.
+
+Softwares			: Putty, WinScp, SQLYog, Toad, CodeCollaborator.
+
+Databases			: MySQL, MongoDB, Cassendra.
+
+Web-Services Tools		: SoapUI 3.x, CXF, Restful WebServises.
+
+Job Scheduling		: FLUX, Spring Batch, Shell Script, CRON.
+
+Security Tools			: HSM/Spring-Security.
+
+Web Design			: HTML, XML, JavaScript, JQuery, AngularJS.
+
+Version Tools			: SVN/GIT.
+
+Build Tools			: Gradle, Maven, Ant.
+
+Supporting Tools		: Redis, Finagle, Apache Lucene.
+
+Deployment Tools		: Jenkins.
+
+
+
+
+
+Educational Qualification
+
+
+
+Master of Computer Application from IGNOU, New Delhi.
+
+‘O’ & ‘A’-Level Cources from DOEACC, New Delhi.
+
+B.Sc(H) Regular from L.S.College, BRABU.
+
+
+
+
+
+
+
+PROJECTS HANDLED
+
+
+
+Project #5 :
+
+
+
+Name:
+
+    Wave Crest Platform BackOffice (https://admin.wavecrest.gi)
+
+Client:
+
+Wave Crest Payment Technology Pvt. Ltd.
+
+Environment:
+
+Java/J2EE, Spring JPA. Hibernate, Restful APIs, AngularJS, Redis, ActiveMQ, Flux, JQuery, Apache HTTP, Tomcat. MySQL, Splunk.
+
+Duration:
+
+January 2014 to Till Date
+
+
+
+Wave Crest Platform BackOffice is an admin support secure web application based on Restful api calls which is used by the Wave Crest Operation Team to provide online support to the clients and the users.
+
+
+
+Wave Crest Operation team use this secure application to Balance Adjustments, User/Card Status change, User details change, Business Partner creation, new Admin creation and granting them permissions and many more services which are requested by clients.
+
+
+
+Roles & Responsibilities:
+
+I worked with our Platform based BackOffice CSR, Card, Business Partner, Balance Adjustment, Admin, User Control modules.
+
+Wrote many Restful apis using Spring JPA, Hibernate.
+
+Implemented these api using AngularJS and Wizmo.
+
+Wrote many Controller/Service/DTO/DAO classes and Restful APIs using Spring JPA, Hibernate.
+
+
+
+
+
+Project #4 :
+
+
+
+Name:
+
+    RPSL R-Pay (https://www.rpay.co.in )
+
+Client:
+
+Reliance Payment Solutions
+
+Environment:
+
+Java/J2EE, Spring MVC. Hibernate, JSP, Redis, ActiveMQ, Flux, JQuery, Apache HTTP, Tomcat. MySQL, Splunk.
+
+Duration:
+
+July 2013 to Dec 2013
+
+
+
+RPSL (Reliance Payment Solutions Limited) is a Reliance Industries Limited Group company. RPSL is incorporated to carry on the business of issuing, servicing and dealing in all kinds of payment products and development of such businesses either on its own or in collaboration, with Banks or other organizations.
+
+Reliance Payment Solutions Limited (RPSL's) business vision is to create India's most simplified and secure digital payment solution for the masses by expanding its business through use of new technologies and payment mechanisms.
+
+RPSL's approach in the payments market will help customers and merchants to enhance the payment experience.
+
+
+
+Roles & Responsibilities:
+
+I worked with our Platform based Payment Card modules for the Reliance R-Pay.
+
+Worked in Wave Crest Platform Team and added so many new common functionalities for Wave Crest Financial Applications.
+
+Worked on Annotations based configurations with Spring and Hibernate.
+
+Worked with Controller/Service/DTO/DAO Design Pattern in Spring MVC/Hibernate.
+
+Wrote Shell Scripts to run the CRON.
+
+Wrote Stress Test Clients for Reliance R-Pay.
+
+Involved in Performance Tuning of the System.
+
+
+
+
+
+Project #3 :
+
+
+
+Name:
+
+My Monedero (https://www.mymonedero.com)
+
+Client:
+
+Wave Crest Payment Technology Pvt. Ltd.
+
+Environment:
+
+Java/J2EE, Spring MVC. Hibernate, JSP, Redis, ActiveMQ, Flux, JQuery, Apache HTTP, Tomcat. MySQL, Splunk.
+
+Duration:
+
+Jan 2013 to June 2013
+
+		
+
+My Monedero offer a range of services that enable you to load, transfer and spend money in every way you want to. Services are:-
+
+
+
+Online Account Management
+
+Round the clock accesses to your account via an online dashboard where you can transfer funds, load money, manage your buddies, spend and view transaction history.
+
+
+
+Instant Access To Money
+
+It provides instant access to funds, no waiting for wired payments and cheques transfers.
+
+
+
+MyMonedero Prepaid Master Cards
+
+MyMonedero Virtual MasterCard can be used to spend online at any merchant. Just request for a plastic card by upgrading your account and you will be able to spend at all stores that accept MasterCard and withdraw money from ATMs as well.
+
+
+
+Multiple Load options
+
+Load using credit or debit card option or alternatively choose from bank transfers from GiroPay, Sofort, cashU and IDEAL or choose to transfer money directly from your bank anywhere in the world to our account within your country.
+
+
+
+Buddy Transfer
+
+Transfer money instantly to your My Monedero Buddy anywhere in the world. No waiting time required. Funds are immediately available to your buddy at the click of a button.
+
+
+
+Stay Secure
+
+Shop anywhere with absolutely no risk. MasterCard's Zero Liability policy is our guarantee that you won't be held responsible for fraudulent charges made with your card or account information.
+
+
+
+Use it wherever you see the Visa sign, even online.
+
+Only spend what's on your card, so no nasty credit card bills.
+
+Top it up in any My Monedero, online from your bank account or anywhere you see the pay zone symbol
+
+Check your balance by text anytime
+
+Use it at home or abroad, it's the perfect travel partner.
+
+Save your cash and then spend it on what you want, when you want.
+
+	
+
+Roles & Responsibilities:
+
+I worked with Wallet/Cashier/Card Services/Ledger/Rules Engine/Decision Engine modules of the My Monedero.
+
+Worked on Annotations based configurations with Spring and Hibernate.
+
+Worked in Wave Crest Platform Team and added so many new common functionalities for Wave Crest Financial Applications.
+
+Worked with Controller/Service/DTO/DAO Design Pattern in Spring MVC/Hibernate.
+
+Designed new Flux Job Schedules and wrote Spring Batch Jobs for it.
+
+Wrote Shell Scripts to run the CRON.
+
+Wrote Stress Test Clients and did the Stress Test for My Monedero Code Merge Release.
+
+Involved in Requirement gathering.
+
+Involved in Analysis.
+
+Involved in Performance Tuning of the System.
+
+Involved in Unit Testing and Integration Testing of the Application.
+
+Involved in the Client Demos.
+
+
+
+Project #2:
+
+
+
+Name:
+
+Educate Card (http://www.afford.com/TMS/school-refunds/)
+
+Client:
+
+TMS
+
+Environment:
+
+Java/J2EE, Spring MVC. Hibernate, JSP, Redis, ActiveMQ, Flux, JQuery, Apache HTTP, Tomcat. MySQL, Splunk.
+
+Duration:
+
+Aug 2012 to Dec 2012
+
+		
+
+TMS Educate Card is used to refund for a financial aid award, scholarship, or dropped course. Nearly 40% of students receive refund payments from their school every year. Avoid waiting in lines at school offices and take control of the refund process online.
+
+TMS Educate Card gives you the quickest and easiest access to your money.
+
+If you don’t want to wait for ACH to be processed, or for a paper check to be mailed, manually deposited and cleared, get immediate access to our money using your school's educate card Visa® Prepaid Card. Immediate access to funds as soon as your school releases your money.
+
+
+
+You can use your educate card for a variety of purchases, from retail to books to meals - even for travel.
+
+You can use your educate card to access cash via ATMs nationwide.
+
+
+
+Reloadable: You, your family or friends can load funds to your educate card at any time.
+
+You can request and use your reloadable educate card even if you don't receive a refund.
+
+
+
+Only spend what's on your card, so no nasty credit card bills.
+
+Check your balance by text anytime
+
+Use it at home or abroad, it's the perfect travel partner.
+
+Keep track of your account with the TMS Educate Card app.
+
+Save your cash and then spend it on what you want, when you want.
+
+The TMS Educate Card for Under 18s gives you peace of mind while teaching your teenagers how to manage their money.
+
+	
+
+Roles & Responsibilities:
+
+I worked with Wallet/Cashier/Card Services/Ledger/Rules Engine/Decision Engine modules of the TMS Educate Card.
+
+Added new configuration files of Spring/ Hibernate (Ex: spring-config.xml/hibernate-mapping.xml) and modified the existing one.
+
+Worked in Wave Crest Platform Team and added so many new common functionalities this TMS Educate Card Application.
+
+Worked on Annotations based configurations with Spring and Hibernate.
+
+Worked with Controller/Service/DTO/DAO Design Pattern in Spring MVC/Hibernate.
+
+Designed new Spring Quartz Job Schedules and wrote Spring Batch Jobs for it.
+
+Wrote Shell Scripts to run the CRON.
+
+Wrote Stress Test Clients and did the Stress Test for TMS Educate Card releases.
+
+Involved in Requirement gathering.
+
+Involved in Analysis.
+
+Involved in Performance Tuning of the System.
+
+Involved in Unit Testing and Integration Testing of the Application.
+
+Involved in the Client Demos.
+
+
+
+Project #1:
+
+
+
+Name:
+
+O2 Money (http://www.o2.co.uk/money or http://www.o2online.ie/o2/o2-money/)
+
+Client:
+
+O2
+
+Environment:
+
+Java/J2EE, Spring MVC. Hibernate, JSP, Redis, ActiveMQ, Flux, JQuery, Apache HTTP, Tomcat. MySQL, Splunk.
+
+Duration:
+
+Dec 2011 to August 2012
+
+		
+
+	O2 Money is a range of financial services provided by O2 in the United Kingdom.
+
+	
+
+	O2 Money is the new clever way to pay. Think of it as a prepay Visa card that you just top up and use wherever you see the Visa sign. You can use it online, in shops, restaurants, and even withdraw money from a cash machine. And when your money's gone, just top it up again. The O2 Money card is available to everyone aged 13 or over.
+
+	
+
+	The O2 Money card is a prepay Visa card. Simply put money on your card and only spend what you have. Use it anywhere you see the Visa sign - even online. And when your money's gone, just top it up again. So you're always in control.
+
+	
+
+Use it wherever you see the Visa sign, even online.
+
+Only spend what's on your card, so no nasty credit card bills.
+
+Top it up in any O2 store, online from your bank account or anywhere you see the pay zone symbol
+
+Check your balance by text anytime
+
+Use it at home or abroad, it's the perfect travel partner.
+
+Keep track of your account with the O2 Money app for iPhone and Android.
+
+Save your cash and then spend it on what you want, when you want.
+
+The O2 Money card for Under 18s gives you peace of mind while teaching your teenagers how to manage their money.
+
+	
+
+Roles & Responsibilities:
+
+I worked with Wallet/Cashier/Card Services/Ledger/Rules Engine/Decision Engine modules of the O2 Money.
+
+Added new configuration files of Spring/ Hibernate (Ex: spring-config.xml/hibernate-config.xml and hibernate mapping xml files) and modified the existing one.
+
+Worked in Wave Crest Platform Team and added so many new common functionalities for Wave Crest Financial Applications.
+
+Worked on Annotations based configurations with Spring and Hibernate.
+
+Worked with Controller/Service/DTO/DAO Design Pattern in Spring MVC/Hibernate.
+
+Designed new Spring Quartz Job Schedules and wrote Spring Batch Jobs for it.
+
+Wrote Shell Scripts to run the CRON.
+
+Wrote Stress Test Clients and did the Stress Test for O2 Money 3.2/O2 Money 4.0 releases.
+
+Involved in Requirement gathering.
+
+Involved in Analysis.
+
+Involved in Performance Tuning of the System.
+
+Involved in Unit Testing and Integration Testing of the Application.
+
+Involved in the Client Demos.
+
+
+
+
+
+	Personal Profile
+
+
+
+DOB			: 02 Aug, 1984
+
+Father’s Name		: Krishnadev Singh
+
+Marital Status		: Married
+
+Language Known		: English, Hindi, Telgu
+
+
+
+
+
+
+
+	Declaration
+
+I vouch the authenticity of above mentioned information.
+
+
+
+
+
+
+
+
+
+Place: Hyderabad									Signature
+
+Date: 23/11/2014

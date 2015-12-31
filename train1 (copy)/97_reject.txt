@@ -1,0 +1,353 @@
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate                                              -  1 year & current – 2months                                              
+
+Spring                                                     -  3years  & current                                             
+
+Web Services                                        -  6 month                                                
+
+Core Java                                               -  5.5years
+
+Design Patterns                                    -    singleton / fatory/circuit
+
+UML design                                           -    
+
+Build Tools (Maven/Ant)                    -    Mave/ ANt   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+Netbeans/java/tomcat/junit
+
+DB:oracle/mysql
+
+
+
+
+
+
+
+Deepali Karlekar
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Female,Indian, 28
+
+Flat no 301,Sai Prashant Kutir,Methodist Colony, Kundanbag, Begumpet, Hyderabad-500016
+
+Email: deepalikarlekar@gmail.com
+
+Contact no: +91 7893905502
+
+
+
+
+
+Technical Skills
+
+----------------------------------------------------------------------------------------------------------------------------
+
+Languages: Java, J2EE,XML, Java Script, HTML,JQuery, CSS, Servlets, JSP, JDBC
+
+Frameworks:  Spring, Struts 1, Hibernate
+
+Database: MySQL 
+
+Operating System: Windows 7, Vista, XP 
+
+Servers: Apache Tomcat
+
+
+
+
+
+Professional Experience
+
+----------------------------------------------------------------------------------------------------------------------------
+
+
+
+Organization                                                        Pramati Technologies
+
+Designation                                                         Senior Development Engineer
+
+Duration                                                               July 2011- present
+
+
+
+Organization                                                        ZOHO Development Center
+
+Designation                                                         Developer(Member of Technical Staff)
+
+Duration                                                              2 years July 2009-July 2011
+
+
+
+Organization                                                      Symantec Software & Services
+
+Designation                                                        Security Analyst(Intern)
+
+Duration                                                             Feb 2009 - June 2009
+
+
+
+
+
+Education
+
+----------------------------------------------------------------------------------------------------------------------------
+
+
+
+Master Of Computer Application from National Institute of Technology, Tiruchirappalli(NIT-Trichy) with 7.94 CGPA
+
+
+
+
+
+Work Experience
+
+----------------------------------------------------------------------------------------------------------------------------
+
+Kareo
+
+Project Name
+
+Kareo
+
+Organization
+
+Pramati Technologies
+
+Description
+
+Kareo is a webservice for medical billing software, electronic medical records, practice management, and integrated electronic claims processing on SaaS model.It offers a cloud-based suite of products and services for Electronic Health Record (EHR) management, practice management and medical billing services.
+
+Duration
+
+Dec 2013-Present
+
+Technology
+
+JAVA,Spring,Maven,Javascript,Jquery,HTML, CSS, AJAX, JSON,MySQL
+
+Role
+
+Working in Feature Development Team for Kareo EHR in agile environment.
+
+Involved in implementing MDHT rules to product
+
+Mentor entry level trainees 
+
+
+
+
+
+
+
+LeanTaaS
+
+Project Name
+
+LeanTaaS
+
+Organization
+
+Pramati Technologies
+
+Description
+
+Leantaas is a web based lean analytics tool on SaaS model which provides 
+
+insights guided by application of lean principles. Leantaas, along with its various features such 
+
+as data visualizations, reporting, convenient integration with existing systems, collaboration 
+
+tools etc, helps organizations to improve their operational performance.It is a webservice that is customized for different domains.
+
+Duration
+
+July 2011-Oct 2013(Except for Nov 2011-March 2012)
+
+Technology
+
+Java, Ant, Maven, XML, Javascript,Jquery, HTML, CSS, AJAX, Talend, FusionCharts, 
+
+JSON, JSP, MySQL
+
+Role
+
+Involved in developing web-based analytics in an agile environment
+
+ Worked as Community lead for few clients of Leantaas
+
+ Involved in high level Design, Schema Design, Development and Unit testing of Web Analytic
+
+Responsible for managing multiple clients of LeanTaaS in parallel.
+
+ Exposure in writing complex queries
+
+ Build and deployment of the applications
+
+ Mentor entry level trainee graduates 
+
+
+
+
+
+
+
+
+
+Epocrates(Ecommerce)
+
+Project Name
+
+Epocrates
+
+Organization
+
+Pramati Technologies
+
+Description
+
+Epocrates, Inc. is an American company based in San Mateo, California that 
+
+makes various mobile health software applications under the "epocrates" name, mostly for 
+
+health care providers, providing them reference information about drugs and diseases, and 
+
+diagnostic tools. 
+
+Duration
+
+Nov 2011-March 2012
+
+Technology
+
+Java, Spring,MYSQL
+
+Role
+
+Reverse Engineering of the existing project
+
+Develop new features for existing product
+
+
+
+ZOHO Blogs
+
+
+
+Project Name
+
+ZOHO Blogs
+
+Organization
+
+ZOHO Development Center
+
+Description
+
+Zoho Blogs is a Web service application, which provides a platform for business 
+
+communication as well as useful tool for marketing of other products internal as well as external 
+
+to the organization. The application has got various features such as shipping to client’s platform, custom domain etc.
+
+Duration
+
+Nov 2011-March 2012
+
+Technology
+
+Windows XP, Java, JSP, Struts Framework (MVC Architecture), MySQL, Free 
+
+Marker, Jquery
+
+Role
+
+Development
+
+ Analysis And Designing Modules and GUI 
+
+ Enhancing Existing functionalities
+
+ Debugging and Testing
+
+
+
+Safeweb Analysis and Automation
+
+Project Name
+
+Safeweb Analysis and Automation
+
+Organization
+
+Symantec Softwares and Services
+
+Description
+
+: The Team I worked in was involved in various Analysis and Automation 
+
+Activities. The main goal of this team was to analyze different sites for Malicious Contents. We 
+
+also wrote automation tools using VB.Net and Macros in MS-Excel for automating analysis process.
+
+Duration
+
+Feb 2009-June 2009
+
+Technology
+
+HTTP Analyzer, SysTracer, Regshot, TCPViewer
+
+Role
+
+Security analyst
+
+Perform Static and Run-Time analysis.
+
+Report Documentation.
+
+Developing Automated Tools for Analysis.
+
+
+
+
+
+
+
+
+
+Academic Achievements and Extra Curricular
+
+----------------------------------------------------------------------------------------------------------------------------
+
+
+
+Secured NIMCET All India Rank 37 in 2006
+
+Won many prizes during school and college for dancing and Singing
+
+Participated in Organization level event in dancing and singing
+
+Volunteered for many Social Catalyst Activities like Greenathon 
+
+
+
+Personal Information
+
+----------------------------------------------------------------------------------------------------------------------------
+
+ Date of Birth : 29/09/1985
+
+ Gender : Female
+
+Father name : Mr. Dilip Kumar Karlekar(Late) 
+
+ Nationality : Indian
+
+Languages : English, Hindi, Marathi

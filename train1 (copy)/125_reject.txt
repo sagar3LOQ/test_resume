@@ -1,0 +1,220 @@
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+Team Lead
+
+
+
+Hibernate  -  4year & current
+
+Spring                                                  -  4 years&current                                                
+
+Web Services                                       -  5 years                                                
+
+Core Java                                               -  7.4 years
+
+Design Patterns                                    -   used design pattern  
+
+UML design                                           -    no
+
+Build Tools (Maven/Ant)                    -    Ant   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+Tomcat/Jboss/eclipse/code colaborator
+
+DB:mysql
+
+
+
+
+
+
+
+Arun Chaitanya Reddy Yempada    	                                Mob: +91-7799505557 Email:chaitu72.nitw@gmail.com
+
+					            
+
+OBJECTIVE
+
+To work in a challenging environment within a competitive organization and utilize my logical and technical abilities for the benefit of the company and myself
+
+
+
+PROFESSIONAL SUMMARY
+
+7.4 years of technical experience  in  Java domain at various career levels with B.Tech in Computer Science from NIT Warangal
+
+Strong on Object oriented concepts and design patterns for software development and implementation
+
+Thorough knowledge on JBoss & tomcat and worked on configurations and performance tuning of applications accordingly
+
+Deep understanding of Pre-paid  Card Payments, Banking systems and extensive technical experience working on various financial interfaces
+
+Good knowledge on Spring and hibernate frameworks
+
+A good team player with strong communication and leadership skills capable of motivating the team towards the goal
+
+Travelled onsite and represented company at the client location in various business meetings and managed product life-cycle
+
+Complete understanding of Software Development Life Cycle(SDLC) and Agile(Scrum) methodology
+
+Experience in Web Services coding and XML parsing
+
+
+
+
+
+TECHNICAL SKILLS
+
+
+
+Programming Skills/ Frameworks
+
+Java, J2EE, Spring, Hibernate,  XML,  JSP, Data Structures
+
+Application Servers
+
+JBoss, Apache Tomcat
+
+Web Services
+
+SOAP
+
+RDBMS
+
+MySQL
+
+Design/Build Tools
+
+STS, Ant,  Maven, Gradle, Eclipse
+
+Operating Systems
+
+Windows, Linux
+
+Log/Test/Version Control Tools
+
+Apache Log4J, JUnit, SVN, JIRA, Confluence
+
+
+
+
+
+EDUCATION 
+
+Bachelor of Technology, Computer Science and Engineering, NIT Warangal                                            7.10 CGPA       	             Aug ’03 - May ‘07                               
+
+Class XII, JVS Junior College(Sri Chaitanya)	  		                    			     96.4%                            Jun ’01 - May ‘03 
+
+Class X(CBSE), D A V Public School		  		                    			     90.8%                            April ‘01 
+
+
+
+
+
+PROFESSIONAL EXPERIENCE
+
+Wave Crest Payments Technology Private Limited, Hyderabad							          4.4 Years
+Wave Crest Payments Technology, a subsidiary of Wave Crest Holdings is a Global player in the Pre-Paid Card Industry specializing in the    E-Wallet financial solutions 		                    
+
+Technical Lead								            Sep ’12 - Till Date
+
+Currently working as a technical lead for a team of 6 on GTECH Lottery player club card project
+
+Responsible for the design, planning and implementation part of requirements of the same
+
+Understand the product requirements in detail and prepare the tech feasibility matrix there by getting the estimates which  ensures proper project release dates and on time release of the product
+
+
+
+Systems Analyst								               Jul ’10 - Aug ‘12                         
+
+Involved in the development of card services and cashier part of the project from design, implementation until production and was on call for production issues
+
+My role as individual contributor and senior developer ensured that I implement the specifications and correct them in case of issues, get the code reviewed and unit tested appropriately to result in a near bug-free product
+
+
+
+Frameworks/Technologies Used: Java , J2EE, Spring, Hibernate, XML, MySQL, Junit, JBoss, Tomcat
+
+
+
+Novell software IDC Pvt Ltd, Bangalore										   3 Years
+
+Novell specializes in delivering enterprise level software to manage workstations in a productive, manageable and secure manner that helps the organizes stay competitive, minimize costs and get more value accordingly.
+
+Senior Software Engineer								            Jul ’07 – Jul ‘10
+
+As a starting point of my career, got introduced to the SDLC processes and test driven agile development model
+
+Understood how the products work in real time and worked on backend java development rendering the mechanism to control the workstations at an enterprise level
+
+
+
+Frameworks/Technologies Used: Java , Tomcat, JSPs, Servlets, Dojo JS
+
+	                    			
+
+
+
+PROJECTS
+
+
+
+WAVECREST – GTECH PLAYER CLUB CARD – CARDSERVICES AND CASHIER – INTERNET WAGERING(IW)
+
+Wavecrest partnered with GTECH in offering a player club card product which the lotteries in the US operate for the players to play lottery by paying directly from the card and the winnings would be transferred to the card automatically
+
+This is the first of its kind of product in the US to launch IW in the US. Currently operating for GA and MI states and won several industry awards in the category
+
+Have been involved in this product right from the design until the production and currently working as technical lead for enhancing various features on the same. Worked on product design, technical implementation and performance improvements of the same
+
+
+
+WAVECREST – INVENTORY MANAGEMENT SYSTEM – CARD MANAGEMENT
+
+This product involves complete card management life cycle right from ordering the cards, printing them, shipping them, assigning and activating the same
+
+ As a technical lead, worked on the data-model design and implementation accordingly of this complex system which involves various 3rd party integrations as well
+
+
+
+WAVECREST – OTHER PROJECTS
+
+Worked as individual contributor for Rules Engine product which is an internal product used by all Wavecrest products for designing rules
+
+Have been involved in various internal projects in Wavecrest like FIS US Processor implementation, Verification service, Integration service that are being used as part of other Wavecrest products
+
+
+
+NOVELL – ZENWORKS ENDPOINT SECURITY MANAGEMENT
+
+This product deals with sending updated security policies as and when required to the systems in a large enterprise
+
+My role is involved in coding the interface for the administrators to manage the systems accordingly
+
+
+
+NOVELL – ZENWORKS REMOTE MANAGEMENT
+
+This product deals with managing various systems in an enterprise remotely from an administrators system via the browser or a linux console. Developed web pages for navigating wizards using the custom JS frameworks and backend Java
+
+
+
+
+
+AWARDS AND ACHIEVEMENTS
+
+
+
+		   State 131 in EAMCET Exam held in the state where 0.1 million people attended.
+
+		   234th Rank in AIEEE held all over the nation attended by 0.3 million people.
+
+		   School 1st in class X (CBSE) with 90.8%.
+
+		   Distinction in class XII (IPE) with 96.4 % .
+
+
+
+VISA Status: US B1 VISA Valid till 2020

@@ -1,0 +1,222 @@
+Name     :  V V S K Phani Jitendra						Software Engineer
+
+Email     :  vvskphanijitendra@gmail.com       				Mobile   : +91-9989518452
+
+
+
+Summary:
+
+
+
+Having 4 years & 10 months of IT experience in Software Development, experience and expertise in Java/J2ee and Web technologies.
+
+Having Good Knowledge and hands on experience in working with Core Java, J2EE Technologies.
+
+Having Knowledge & hands on experience on JSF.
+
+Having Knowledge on Frameworks - Spring.
+
+Having Knowledge on ORM Frameworks like JPA, HIBERNATE.
+
+Having Knowledge on Web services.
+
+Having hands on experience on Linux based UNIX and Shell Scripting
+
+Having hands on experience on working with Apache Tomcat server
+
+Having good knowledge and hands on experience on deploying applications using Microsoft Access.
+
+Proficient in database operations like CRUD operations and writing queries using joins.
+
+Good knowledge on software configuration management tools like CVS and SVN Tortoise. 
+
+Good Customer interfacing skills for business requirement.
+
+Involved in all phases of SDLC right from requirement gathering till deployment of application in Production environment.
+
+Possess excellent analytical, problem-solving and learning and debugging skills as well as a keen interest in the emerging technologies.
+
+Good communication and interpersonal skills.
+
+Worked extensively on Retail Domain.
+
+
+
+Educational Qualification:
+
+
+
+B. E (Electronics & Instrumentation) from Gandhi Institute of Technology And Management, in May’10 with 72.10%.
+
+
+
+Professional Experience:
+
+
+
+Working as a Software Engineer in Accenture Services Private Limited, Hyderabad from July 2010 to till date.
+
+
+
+
+
+
+
+
+
+
+
+
+Technical summary  
+
+
+
+Languages & Technologies	:  Java, JDBC, J2EE Technologies (Servlets, JSP)
+
+Databases            		:  Oracle10g, DB2
+
+Web Technologies   	:  XML, HTML, JavaScript
+
+IDE           		:  Eclipse
+
+Framework             	:  JSF, Spring
+
+Application Server   	:  Weblogic, WebSphere
+
+Web Server            	:  Tomcat
+
+Operating Systems  	:  Windows 7, Windows XP/2000.
+
+Version Control       	:  SVN.
+
+Other Tools           		:  Oracle SQL developer.
+
+
+
+Project Details 
+
+
+
+Project Name         : Talisman Energy AO (Jun ‘13– till date)
+
+Client                     : Talisman, Canada
+
+Environment 	  : Apache Tomcat, UNIX & Shell Scripting, Core Java, Spring MVC.
+
+Role                       : Application Developer
+
+Team Size              : 5
+
+Description: An Upstream Oil & Gas production Company who extracts crude oil and delivers the products obtained out of the crude to midstream and downstream companies.
+
+Accounting:
+
+A Production Accounting Solution PAS is a system where all the accounting for the crude obtained is calculated. This system performs complex financial calculations on the obtained financial data.This system is an application developed upon Java using Spring MVC Architecture. The application is hosted on an Apache Tomcat server. 
+
+Roles & Responsibilities:
+
+Handling maintenance activities on the Apache Tomcat server.
+
+Deployment of functional & version upgrade patches on to the application server and troubleshooting issues that occur. These will be done using UNIX commands.
+
+Written shell scripts based out of UNIX to automate daily jobs that need to be run on the server.
+
+Performed peer reviews in the team and a critical support analyst within the team.
+
+
+
+Project Name         : RSI (Retail Shared Infrastructure) (Aug’12 – May ‘13)
+
+Client                     : JP Morgan Chase, USA
+
+Environment 	  : Web sphere, SOAP based Web services, XML over HTTP.
+
+Role                       : Application Developer
+
+Team Size              : 5
+
+Description: A banking project that performs various operations on user’s accounts based on requests received from a banker. The system handles various banking functionalities like creating an account for a user, deleting a user’s account, enrolling users to different banking services, adding special offers to accounts, fund transfers, deposits, withdrawals etc. There is a specific flow for each service which when a banker executes, the application communicates with backend via a middleware system. The middleware system performs multiple validations on the data obtained from the application, decides the backend that should be contacted based on the type of request received and communicates with the backend to successfully complete transactions.
+
+RSI Module is a key publisher of Webservices
+
+It is a tightly Coupled framework where communications are carried out in the form of XML over HTTP protocol.
+
+Webservices are developed based on the elements received in the requirement document for each functionality in the front-end.
+
+Roles & Responsibilities:
+
+Involved in understanding functional design document and preparing technical design document.
+
+Designing different delivery modules (web services) based on the technical design document.
+
+Designing validation functionalities in the middleware system using Core Java.
+
+Performed peer reviews in the team and a key developer in the team.
+
+
+
+
+
+
+Project Name         : SDP (Subscription Delivery Platform) (Nov’10 – Jul’12)
+
+Client                     : BestBuy, USA
+
+Environment 	   : WebLogic, JSF, JavaScript, Spring MVC, JUnit and Oracle10g.
+
+Role                        : Application Developer
+
+Team Size               : 7
+
+Description: SDP is a module within BestBuy where user’s subscription details are created and captured and transaction details are recorded. Users want to subscribe for various products on the BestBuy website or at the store directly. Basic details of the user will be recorded on the POS (Point Of Sale) machine and sent to SDP. SDP maintains the details of products provided by a vendor. It checks the details of the product when a user is trying to subscribe and generates a key for the user to use for a specific period of time.  If the user is already subscribed to a product, SDP generates an extension key for the user to continue the subscription. It also performs backend operations like maintaining the list of exceptions which users faced while subscribing for products online and handles them. SDP is an interactive web application whose UI is designed using JSF and the backend functionality is developed using core java and Spring MVC architecture.
+
+
+
+Roles & Responsibilities:
+
+Gathering requirements and analyzing them for designing web pages of the application.
+
+Involved in developing UI screens which in turn uses technologies like JSF.
+
+Involved in developing functionalities within pages using Core Java and writing SQL queries to retrieve records from the database.
+
+Involved in performing validations on the code using JavaScript.
+
+Involved in Bug fixing and handling defects within the code
+
+Involved in peer reviews.
+
+Implemented Unit testing on various modules of the code and assisted in performing integration testing.
+
+
+Project Name         : ESC (Electronic Subscription Capture) (Nov’10 – Jul’12)
+
+
+
+Client                     : BestBuy 
+
+Environment          : JSF, Core Java, Windows-XP, Oracle10g.
+
+Role                       : Application Developer
+
+Team Size              : 7
+
+Description: ESC (Electronic Subscription Capture) is a BestBuy system where details of already existing vendors and new vendors willing to subscribe to BestBuy are maintained. New vendors are added to the system from the frontend of ESC and maintained which are in turn referred by SDP. ESC and SDP go hand-by-hand in maintaining details of vendors and providing subscription keys to the users. 
+
+Roles & Responsibilities:
+
+Involved in analysis of requirements, development and deployment.
+
+Involved in fixing bugs with different functionalities 
+
+Involved in development of user interfaces using JSF
+
+Involved in writing oracle queries to insert data into the database.
+
+Involved in peer reviews.
+
+
+
+
+
+Jitendra Phani

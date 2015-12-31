@@ -1,0 +1,205 @@
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate                                             -  1.5year
+
+Spring                                                    - 1.5 Years                                               
+
+Web Services                                       -  3.2years
+
+Core Java                                              -  3.2 years                
+
+Design Patterns                                   -  1.5 years            
+
+UML design                                          -   
+
+Build Tools (Maven/Ant)                   -    2year maven 
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+Tomcat,weblogic,MVC
+
+Code: 100%coding
+
+Ok  to work with startup
+
+
+
+
+
+Srinivasulu.m		                                                                          Email: srinivasulu.m1989@gmail.com                                                                                                  Contact No: +91-8792533494                           
+
+Career Objective:
+
+Having 3.2 years of extensive experience in system analysis, design, development, Implementation & maintenance of Web-based and Client-Server applications using Java and J2EE Technologies.
+
+Professional Summary:
+
+3.2 years of experience in software development using JAVA, J2EE technologies like Core Java, JSP, Servlets, Hibernate, and Struts & Spring.
+
+Hands on experience in developing Applications with Model View Controller Architecture using Struts Frame work and Spring MVC. 
+
+Hands on experience in Object Relational Mapping tool Hibernate.
+
+Developing applications using Design Patterns.
+
+Hands on working experience on IDE’s like Eclipse and My Eclipse.
+
+Responsible for coding and development of modules.
+
+Strongly initiative, creative and able to learn new technologies.
+
+Hands on experience Application servers like JBoss, Web Logic and Tomcat.
+
+Technical Skills:
+
+Languages				: Core java
+
+Java Technologies 			: Jdbc, Servlets, Jsp
+
+Application Framework 		: Spring, Struts
+
+ORM Tool				: Hibernate
+
+Web Technologies			: Html, JavaScript, Xml
+
+Operating systems			: Windows XP
+
+IDE’s					: Eclipse
+
+									Relational Databases		: Oracle		
+
+Server’s				: Apache Tomcat, Web Logic
+
+Tools					: Maven, Svn
+
+Professional Experience:
+
+Working as Software Engineer in Birla Soft Pvt ltd Bangalore from January 2013 to till date.
+
+Worked as Software Engineer in Zenith Software Ltd Bangalore from May 2011 to December 2012.
+
+
+
+
+
+
+
+Education details:  
+
+B.Tech in Computer Science Engineering, Dr.M.G.R Educational and Research Institute in Chennai
+
+Project# 4:
+
+Project Title      : TataMutualFund (TTMF)  
+
+Client	               : TATA
+
+Team Size          :  5
+
+Description:  
+
+Tata Mutual Fund has earned the trust of lakhs of investors with its consistent performance and world-class service. offers an investment option for everyone whether you are a businessman or salaried professional, a retired person or housewife, an aggressive investor or a conservative capital builder The Tata Asset Management philosophy is centered on seeking consistent long-term results. Tata Asset Management aims at overall excellence, within the framework of transparent and rigorous risk controls. Whatever area of investment you are looking to become involved in, Tata Mutual Fund can help. Go to the website today and see it for yourself
+
+Roles and Responsibilities:
+
+Implemented User Interfaces using JSP.
+
+Responsible for implementing controller Class spring MVC
+
+Extensively used Hibernate 3.0 in data access layer to access and update information in database.
+
+Extensively Used Spring MVC for presentation layer.
+
+Involved in developing the Pojo classes and DAO in model layer
+
+Environment: Spring (MVC), Hibernate, Jsp, Web logic, Oracle, Eclipse
+
+Project# 3:
+
+Project Title	   :    KOTAK AMC    
+
+Client		   :   Kotak Mahindra Bank
+
+Team Size     	   :     5
+
+Description:
+
+Kotak Mutual Fund Offering a great many different ways for you to invest your hard earned money, Kotak Mutual Fund has something for everyone. There are varying average returns on investments and varying risk factors to each different type of course, all of which can be thoroughly researched direct from the Kotak Mutual Fund website. There are investment opportunities in stock brokering, commercial banking, mutual funds and even life insurance. Whatever your line of expertise or even if this is your very first start at an investment portfolio, Kotak Mutual Fund is there to help you. Kotak Mutual Fund Whatever your reason, and whatever area of investment you are looking to become involved in, Kotak Mutual Fund can help. Go to the website today and see it for yourself
+
+				
+
+Roles and Responsibilities:
+
+Implemented JSP’s as per the requirement.
+
+Writing validation classes  by  using Action Form class 
+
+Designed and Implemented Business DTO Design Patterns.
+
+Worked on Pojo classes 
+
+Developed Util Classes for getting Data base connection.
+
+Responsible for implementing Database Connectivity Through  Hibernate
+
+Environment: Struts, Hibernate, Jsp, MySql, Tomcat, Eclipse
+
+Project# 2:
+
+Project Title		:    BRS
+
+Client                                :   Limo Liner
+
+Team Size                        :   6
+
+BRS is an online bus reservation system for different cities in US. Users can book tickets by searching the tips, by selecting date of journey. Seating chart, which have look a fell of the bus seating arrangement will be provided for the users after selecting the date of journey, based on this user can select the seats and proceed to payment gateway. User can also select around trips. Administrators also use application to set up Promotion codes. Promotion codes will be assigned to specific seats for specific trips by administrators and this code will be given to selected users. Users will be given discount on the selected promotion seats after entering valid promotion code.
+
+Roles and Responsibilities:
+
+Analyzing the requirements by using SRS Documentation.
+
+Understanding use cases and Design documents and implementing design. Specifications using Java & J2EE
+
+Developed UI using JSPs and Developed java bean for all use cases.
+
+Developed Persistence layer using Jdbc.
+
+Environment:    Jsp, Servlets, Jdbc, Oracle, Eclipse
+
+
+
+
+
+
+
+
+
+Project # 1:
+
+Project Title		 :    CATALOGMANAGEMENT             
+
+Client		   	 :    Instrumentpro
+
+Team Size         	:    5
+
+
+
+Description:
+
+Catalog Management refers to the support of product management in the management of product information in a structured and consistent way in the form of catalogues. InstrumentPro is a website source for buying musical instruments, and it is one of the finest online superstore for electric guitars. Catalogue Management is a module to manage various categories, subcategories and products of the source. It also provides tools to handle bulky insertions and deletions of products.
+
+Environment: Servlets, Jdbc, Jsp, Tomcat, Eclipse, MySql
+
+Responsibilities: 
+
+	Responsible for implementing Database Connectivity through jdbc
+
+	Validating User input validation by using javascript in validation function 
+
+	 Involved in Development of Customer Module
+
+	 Responsible for implementing Servlets Controller
+
+	Worked on jsp in presentation layer

@@ -1,0 +1,177 @@
+RESUME
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESUME
+
+
+
+
+
+
+
+
+
+
+
+Spring: 
+
+Hibernate: 3 year & current
+
+Webservices: same
+
+DB: mysql
+
+Build tools : maven
+
+8/30% hike/30days
+
+
+
+Jitendra Prasad
+
+Mob:  +91-9010250734
+
+Email: jeetu345@gmail.com
+
+Address: #1-60/30/12,Anjaih Nagar Bus Stop Near Jayabheri Enclave Hyderabad - 500032
+
+LinkedIn: http://www.linkedin.com/in/jitendra2  
+
+
+
+Summery
+
+Result oriented IT Professional offering over 2.6 years experience with startup environment
+
+Professional certification in Software Development using Java from IIIT- Bangalore
+
+Innovative, Techie, smart and Quality oriented.
+
+Deadline sensitive, Proven Developer.
+
+Technology Span
+
+Skill Expertise
+
+Core Java, Spring Framework, Hibernate, JPA, JSP, Servlet, Filter.
+
+Restful Web Services, MySQL, NoSQL, Memchache.
+
+Google App Engine, Objectify Data Store, CRON (Job Scheduler),
+
+Also Worked In
+
+HTML, CSS, JavaScript, JQuery, JQuery Plugins, Twitter’s Bootstrap
+
+Head.js, JSON, JSONP, Backbone.js, Handlebars.js
+
+Familiar With
+
+Data Structure, Algorithms Design, Bash/Shell Scripting, Linux
+
+Experience
+
+
+
+Agilecrm (agilecrm.com) May 2014
+
+Designation:    Software Developer
+
+Avventuro Business Solutions (Startups)  (avventurosolutions.com) Nov 2012
+
+Designation:    Software Analyst
+
+Radix Learning (radixlearning.com) June 2012
+
+Designation:     Internship
+
+
+
+
+
+
+
+Projects
+
+AgileCRM                                                                                                                               May 2014 
+
+Agilecrm is SaaS based Application which Provides Excellent way to Managing Contacts, various Social Integration LinkedIn, Twitter, Rap leaf etc, Chat Plugins Zendesk, ClickDesk, Help Scout Integration, Call Service Support Twilio, VoIP, Billing Supports Plugins Stripe and Fresh Book and E-commerce Shopify integration and Support Varius CMS like Word Press.
+
+Organization                                                             - Mantra technology (Agilecrm.com)
+
+Team -size                                                                 - 10
+
+Roles                                                                          - Software Developer
+
+Tools                                                                          - Eclipse, Git, Bash
+
+Environment                                                              - Google App Engine, Objectify Data Store, Git, Jersey Restful Web service, Google appengine , Servlet, JSP
+
+Highlights
+
+Module Development 
+
+Third Party Plugins integration
+
+UI Development
+
+Social Widget development and Integration
+
+OAuth Login Implementation
+
+Bug Fixing and Code Testing
+
+InstiConnect                                                                                                   Nov 2012 - May 2014
+
+InstiConnect is SaaS based ERP solutions for schools. Integrates different departments providing efficient flow of information. It works well a collaborative tool for Teachers, Parents, Students and Administrators. Key areas are management, information, communications and Analysis.
+
+Organization:                                     - Avventuro Business Solution (avventurosolutions.com) 
+
+Team Size:                                         - 3 
+
+Roles:                                                 - Java Web Developer  
+
+Tools:                                                  - Eclipse, Maven Git/SVN, Bash Environment: AWS [EC2, ELB, S3, RDS (MySQL), Route 53], Tomcat, Linux (Ubuntu).
+
+Technology :                                       - Spring 3.xx, Hibernate, MySql, JQuery, Twitter’s Bootstrap
+
+ Highlights: 
+
+Module Development
+
+ Graphs and Report Generation (Analysis)
+
+ Security Implementation 
+
+UI development
+
+Certification
+
+Professional Certification in Software Development (PCSD) using java    IIIT- Bangalore 2011
+
+
+
+Education Background
+
+ B-Tech (Computer science and engineering) 2007-2011
+
+Institute of Engineering and Rural technology (U.P.T.U) Allahabad 
+
+Intermediate (10+2)                                                                                                                  2003 – 2005
+
+Inter College Captainganj Azamgarh (U.P Board)
+
+High School (10th) 2002 - 2003
+
+Inter College Captainganj Azamgarh (U.P Board)

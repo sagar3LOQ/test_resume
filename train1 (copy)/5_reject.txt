@@ -1,0 +1,784 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                 -  5 year &
+current                                �
+�              
+
+Spring                  
+                                 -  5
+Years   &
+current                                �
+�          
+
+Web
+Services                                
+       -  4
+years                                 �
+�              
+
+Core
+Java                                  
+            -  9 years                
+
+Design
+Patterns                                
+   -  4 Years            
+
+UML
+design                                 
+         -   worked
+
+Build Tools (Maven/Ant)                   -   
+maven/ant
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Apache Tomcat , jboss/weblogic/websphere/eclipse
+
+DB:oracle/mysql
+
+3-5 ppl reporting
+
+Radha Krishna
+
+  
+
+     
+
+T.V.S.S.RADHA KRISHNA          
+
+Email: vturime@gmail.com    													    				
+
+Phone No: 9949401149                											  
+
+ 								   
+
+SUMMARY 
+
+  
+
+An IT Professional with 9+ years of experience in Requirement Analysis,
+System Study, Systems Design, Development, Testing, Integration and
+Implementation of complex Client/Server, Distributed n-tier and web
+based application systems. 
+
+  
+
+A diversely skilled Applications Development Programmer with a strong
+background and experience in designing and developing complex,
+sophisticated products with ambitious time schedules. Proven ability to
+quickly learn new technology and apply them in business solutions.
+Experience in leading all phases of the software life cycle (feasibility
+studies, estimating, system analysis, design, development, quality
+assurance and implementation).  Strengths include good team player,
+excellent communication and interpersonal, analytical and writing
+skills. 
+
+  
+
+PROFESSIONAL EXPERIENCE   
+
+Sun Certified Java Professional. 
+
+Expertise in design patterns that include MVC Model, Front Controller,
+Service Locator, Business Delegate, Session Façade, DAO, Value Object
+and Factory. 
+
+Experienced in design and development using Object oriented
+methodologies. 
+
+Technically adapt in Core Java concepts like concurrency,
+multithreading, TCP/ IP Sockets, RMI and asynchronous communication
+frameworks.
+
+Excellent work experience in JAVA-J2EE technologies that include J2SE,
+JDBC, SERVLET , JSP , JSTL 1.1, Custom Tags, Spring, Hibernate, Struts,
+Java Server Faces (JSF), JMS, EJB, JNDI, RMI, Web Services, XML, XSL,
+XSLT, SAX, DOM. 
+
+Extensive working experience in developing GUI using JSP, Servlets,
+XSLT, AJAX, HTML, and JavaScript. 
+
+Excellent work experience with Data modeling and ORM frameworks like
+JPA, and Hibernate and ADF BC.
+
+Worked extensively in server side MVC frameworks using the Java Spring
+MVC, STRUTS, Java Server Faces (JSF), Application Development Framework
+(ADF) frameworks. 
+
+Hands on experience in Hadoop technologies such as HDFS, Map Reduce,
+HBase and Pig.
+
+Excellent work experience with writing SQL queries, Store Procedures for
+major Relational Databases that include Oracle and DB2. 
+
+Exposures working with NoSQL databases like Mongo DB.
+
+Excellent work experiences in multiple application servers like BEA
+Weblogic, JBoss and Apache Tomcat.
+
+Experience in client side Technologies such as HTML, DHTML, CSS and
+JavaScript 
+
+Good experience working with java script frameworks like jQuery,
+prototype, angular, node.js, mongoose and express.js.
+
+Expertise in deploying J2EE Applications archives (Jar, War and Ear) on
+JBoss application server and BEA Weblogic Application Server and Tomcat.
+
+
+Lead off-shore team, mentored developers, code reviews through life
+cycle of the projects and also experienced in reporting the status of
+the project to the management. 
+
+Extensively worked on multiple IDE tools like Intelliji IDE, JDeveloper,
+and Eclipse 2.x/3.2. 
+
+Extensively worked on different configuration tools like  SVN, CVS,
+GIT, Perforce and ADE (Application Development Environment) involved in
+various releases. 
+
+Experience in range of enterprise tools for build management (Ant,
+Maven) and continuous integration (Cruise Control , Anthill Pro,
+Jenkins)
+
+Knowledge in profiling tools and monitoring tools such as JVisualVM ,
+JConsole and Eclipse Memory Analyzer Tool -MAT.
+
+Client interaction experience and ability to understand customer needs
+and meet expectations. 
+
+Goal oriented team player, initiative ness, quick learner, and
+proficient in handling multiple modules simultaneously. 
+
+Have strong analytical skills with proficiency in debugging and problem
+solving. 
+
+Experience working in agile methodology and played scrum master role in
+couple of projects.
+
+Experience in training resources on technologies such as JSF.
+
+  
+
+TECHNICAL PROFILE 
+
+Application Server 	JBoss, BEA WebLogic,OC4J (Oracle Application Server)
+
+
+Web Server 	Apache Tomcat 
+
+Programming Languages 	Java, C, C++, SQL, PL/SQL 
+
+Web Technologies 	Servlets, JSP, JSTL, EJB, JNDI, RMI, SOAP/ REST
+WebServices, XML, XSL, AJAX, HTML, DHTML, Java Script, jQuery,
+Prototype, Node.js , Express.js , angular.js
+
+Framework 	Spring Core, Spring MVC, Spring ORM, Spring Security, Spring
+Batch, Spring Remoting, JPA, Hibernate, Struts, Java Server Faces (JSF),
+Rich Faces, Prime Faces, , JMS,apache commons utilities, web service
+frameworks like apache cxf, restlet, jersey. Xml binding frameworks like
+jaxb, jibx. log frameworks such as log4j, slf4j, Hadoop frameworks such
+as HDFS, Map Reduce, HBase, Hive and Pig etc.
+
+Development Tools 	JDeveloper, Intelliji IDEA, Eclipse
+
+Design Patterns 	MVC Model, Front Controller, Service Locator, Business
+Delegate, Session Façade, DAO, Value Object and Factory
+
+RDBMS 	IBM DB2, Oracle
+
+DB Tools 	TOAD, SQL Developer , SQL Tools
+
+Configuration Tools 	Perforce, CVS, SVN, GIT, ADE (Application
+Development Environment) 
+
+Testing Tools  	JUnit , Fitnesse, Spring Test
+
+Profiling Tools	JProfiler, JVisualVM , JConsole , Eclipse Memory
+Analyzer Tool -MAT
+
+Build Management	Ant, Maven
+
+Continuous Integration	Cruise Control, Anthill Pro and Jenkins
+
+Operating Systems 	Microsoft Windows 98/NT/2000/XP/2007,Linux 
+
+  
+
+EDUCATION   
+
+Qualifying Examination 	Institution 	Board/University 	Year of passing 
+Percentage 
+
+Graduation (B.Tech I.T) 	R.V.R.& J.C. College of Engineering 	Nagarjuna
+University 	2005 	86% 
+
+Intermediate 	Jupitor Junior 
+
+College, Guntur. 	Board of Intermediate Education 	2001 	 91% 
+
+X 	ZPHS School, Boggaram, 
+
+Ipur(m.o), Guntur. 	State Board of Secondary Education AP 	1999 	81% 
+
+  
+
+ACHIEVEMENTS 
+
+4th rank in  B.Tech degree in Nagarjuna University. 
+
+98 percentile in GATE. 
+
+Sun Certified Programmer java 1.4.2 
+
+Placed in Exceeded All Category for my contribution to INGA Project. 
+
+Developed innovative project  hotcompiler (auto compile/reload of java
+files on save).
+
+JSF trainer for  the corporate
+
+Participated in Topcoder and HackerRank coding communities. Current Rank
+is 1421 (@vturime)
+
+AWARDS 
+
+Most Valuable Performer of the Quarter award in Cognizant Technology
+Solutions 
+
+Associate of the Year award in Cognizant Technology Solutions 
+
+Employee Recognition Award in Oracle. 
+
+Spot award for contribution to the projects in United Health Group.
+
+EMPLOYERS
+
+Cognizant Technology Solutions - (Jan 2006- May2008)  - Programmer
+Analyst
+
+Oracle Corporate Pvt Ltd - (May 2008- August 2010) – Application
+Developer
+
+OpenText (Content Experts) – (August 2010 – March 2012)  - Senior
+Software Engineer
+
+United Health Group – (March 2012 – till now) – Technical Lead
+
+PROJECT DETAILS 
+
+  
+
+Client: American Express		Period: Jan 2006 - May 2006 
+
+Project: My Amex Home Page                     
+
+  
+
+Description 
+
+This Project is the migration of Amex Home Page to Flash Environment.
+This involves the following phases 
+
+Learning - Flash Amex Components. 
+
+Learning - Amex Framework for the project. 
+
+Restructuring of the Amex components. 
+
+Implementing the components in the project. 
+
+Role
+
+         Driven this by implementing the components with-in expected
+dead line.	
+
+Responsibilities 
+
+I have involved in Flash Amex Components Phase and restructured some of
+the flash amex components. 
+
+I have given Knowledge Transfer for the new Joinees about Flash Amex
+Components used in our project. 
+
+  
+
+Client: American Express				Period:   June 2006 - July 2007 
+
+Project: International Next Generation E-Apply                  
+
+Description 
+
+       International Next Generation apply (INGA) is a web based
+application which enables user to apply for cards (charge / credit,
+business cards, supplementary, add on cards, bank loans) on line. The
+application collects the user data along with his financial / bank
+details and is intelligent enough to give back a decision as to whether
+the applicant is eligible for a card.   
+
+  
+
+The scope of this project extends to 19 countries and involves
+interaction with more than 20 third party dependent systems. INGA is a
+migration cum development project where the existing application
+(Eapply) is to be migrated from 3.5 websphere to 5.1 websphere server.
+Along with the migration, the requirement was to completely rewrite the
+entire code base. The objectives of the project are 
+
+Deliver faster time to market for new products. 
+
+Lower costs towards new products 
+
+Improve the performance of the system. 
+
+Ensure International eApplication is supported by IBM 
+
+Role
+
+Key resource in the project and mentored colleagues.
+
+Responsibilities  
+
+involved in the development of new processes and the design artifacts of
+this project. 
+
+involved in analyzing the impact of the new development on the existing
+system, Creation of Design documents, Development and Testing. 
+
+Was responsible for delivering Proof of Concepts for the INGA Project. 
+
+Involvement in end to end development and bug fixing. 
+
+Was Responsible for designing the framework for INGA Batch. 
+
+Was Responsible for delivering the batch for Australia, France, Italy
+and Hong Kong markets. 
+
+Was Responsible for delivering the Japan INGA Application. 
+
+Involved in bug fixing for Various Market applications. 
+
+  
+
+Client: American Express		Period: July 2007 - Sep 2007 
+
+Project: CCSG DynamicApply(RIA)         
+
+Description 
+
+CCSG(Consumer Card Services Group)Dynamic Apply is a web based
+application which enables users to apply for credit cards (or) loans
+online. It is basically a Flash to DHTML Migration. Along with, the
+requirement was to perform client side validations and ensure that Flash
+look and feel remains the same in DHTML. The main Objectives are 
+
+ Performance improvement relative to Flash. 
+
+ Easily Extendable code to develop for new products. 
+
+ Implementing the MVC Architecture. 
+
+Role
+
+      As a senior developer, I gathered requirements from clients and
+involved in designing Amex validation framework.
+
+Responsibilities  
+
+ I have involved in Amex validation Framework development in DHTML. 
+
+ I have worked as a key member in creating struts Templates for all the
+card products. 
+
+Client: American Express		Period: Oct 2007 - Nov 2007 
+
+Project: Application Redesign        	 
+
+Description 
+
+Application Redesign is a web based application which renders home page
+for applying credit (or) loan cards. The Requirement was to design four
+other layouts for the existing apply home page and render it to user
+randomly. Once the user visits one layout, he keeps on viewing it for
+next 120 days.
+
+Role
+
+      Being little unaware to CSS Layouts, learned them, designed the
+layouts and performed 20-20 redirection process.
+
+Responsibilities  
+
+I have done the 20-20 redirection for the all the five layouts of apply
+home page.
+
+I took part in integrating external tracking tags in our code by
+interacting with external teams.
+
+I have maintained our code in Configuration version management ( CVS).
+
+  
+
+Client: Western Union		Period: Dec 2007 - April 2008 
+
+Project: WU CSC                	 
+
+  
+
+Description 
+
+Western Union is subject to a variety of legal requirements that entail
+pending and reviewing transactions conducted by certain consumers.  The
+scope of this project is to automate the workflow activities for
+investigating transactions that are pended / queued for the following
+reasons like Over Limit, Security and Duplicate Transaction. The project
+also addresses the functions required to efficiently manage the queues,
+create new queues, integrate the workflow process and Compliance
+Analytics, and generate management and queue metrics reports. 
+
+It involves interaction with several backend components. 
+
+UNISYS - keeps the all sensitive information about transactions
+conducted by consumers. 
+
+Apache MQ - Batch Process is run periodically on UNISYS which retrieves
+erroneous transactions, determines the process and pushes it to the
+respective MQ. 
+
+IBPM - It is a workflow engine which gathers workflow data by executing
+workflow activities for a process instance created from the process
+taken from the queue listeners. It interacts with several interfaces to
+update the work request information in UNISYS. 
+
+LDAP - makes the application secure by providing authentication and
+authorization services. 
+
+External Interfaces to UNISYS (RSI and Property) : makes loose coupling
+with 
+
+UNISYS and retrieves the requested information effectively. 
+
+The Requirement was to show the consumer the work request details he
+conducted and enables him to change the details and submit them by
+escalating to higher role (or) by reassigning to lower role etc. 
+
+Role
+
+      Acted as Technical POI for Spring / Hibernate Technologies and
+developed several POCs.
+
+Company: Oracle						Period:  May 2008 – June 2008
+
+Project: FUSION SINGLE ATTACHMENT COMPONENT	
+
+Description
+
+Develop single attachment component for internal fusion apps customers.
+This is used to associate image to catalogs, categories and items. This
+is very highly desirable feature for Oracle CRM and other customers.
+
+Role
+
+      Being unaware of component code, adapted to it and completed it in
+15days. 
+
+Responsibilities  
+
+Worked with Oracle ST team for attachment component development. 
+
+Company: Oracle            	 						Period: July 2008 –
+August 2010 
+
+Project: FUSION SUPPLY CHAIN MANAGEMENT CATALOGS	 
+
+Description 
+
+Alternate catalogs are used to organize and classify collections of
+items. An Alternate Catalog consists of a hierarchy of alternate catalog
+categories, each containing items assigned to the Alternate Category. 
+You can define any number of catalogs and assign an item to more than on
+catalog.  Currently Oracle E-Business suite shares a common data model
+to support Oracle SCM, CRM, Financials and HCM applications areas. The
+next generation Fusion Applications will align the common data model to
+include Seibel CRM. 
+
+The common product model needs to provide the ability to support
+defining multiple sales catalogs, provide a mechanism for releasing when
+these sales catalogs are available to end users through Effectively as
+well as releasing these catalogs. Additionally catalog security needs to
+be provided in order to control access to these catalogs during product
+selection and configuration during order capture, quoting or other
+transactions that require product selection. Other capabilities would
+include the ability to provide images, collateral/literature and display
+templates for presentation and display purposes of these sales catalogs.
+Users should also be able to import and export these sales catalogs as
+well syndicate them to other systems consuming catalogs for other
+operational purposes. 
+
+Role
+
+      Taken the ownership of Catalogs Module and delivered it in time
+without much rework.
+
+Responsibilities  
+
+I developed Single Attachment component for fusionapps internal
+customers. 
+
+I worked on Fusion catalogs development and delivered it on time to
+production. 
+
+I involved in bug fixing for various modules like (Catalogs,ItemClass
+and Items) with in Product Information Management(SCM). 
+
+Company: Open Text				Period: August 2010 – March 2012
+
+Project: Open Text Social Communities               
+
+Description:
+
+ 
+
+Open Text Social Communities provides easy to use social apps that can
+socially-charge your 
+
+current business processes in a safe and complaint fashion that helps
+fuel a more immersive user 
+
+experience both for the social business and the social web. Its features
+include the following
+
+Ready to deploy Social Applications for Social Intranet, Social
+marketing & Social Workplace 
+
+business processes
+
+ Reusable Site templates
+
+Social Community Workspaces for creating & managing sites
+
+Moderation workspace for performing global content moderation
+
+An In Context Editing console for modifying a site 
+
+Activity Feed to get the list of all activities in the site
+
+Enhancements to File application to create & manage nested folders
+within the File 
+
+Application
+
+Ability to create sub communities within a community ( earlier called
+social groups)
+
+Support for OpenID, OAuth authentication
+
+Ability to post content from the community site to
+Facebook/Twitter/Google
+
+Modified User profile management to support multiple sources of users
+
+Application Collection – Ability to create new Applications, e.g.,
+“My own blog” page
+
+ Abuse Reporting – Site member ability to report a piece of content as
+abusive.
+
+ Bad word filtering – Filter all user generated content by a set pre
+defined words
+
+ Ban a User from specific site
+
+ Inline Moderators (Curators) – Ability to feature or delete content
+
+ Integration with Content Server to store all social communities content
+for compliance 
+
+requirements
+
+ Enhancement of the Portal installer to optionally install Social
+communities
+
+ Support for Apache Solr Search
+
+Role:
+
+      Played key role in team and contributed to release of  OTSC 8.1
+release.
+
+Responsibilities:  
+
+      Worked on the following features
+
+Ability to create sub communities within a community ( earlier called
+social groups)
+
+Application Collection – Ability to create new Applications, e.g.,
+“My own blog” page
+
+Bad word filtering – Filter all user generated content by a set pre
+defined words
+
+Ban a User from specific site
+
+Inline Moderators (Curators) – Ability to feature or delete content
+
+Company: UnitedHealth Group		Period: March 2012 – Jan 2013
+
+Project: Chimera                               
+   Technical Lead 
+
+Description:
+
+Chimera is the United Health middleware platform for the creation,
+testing and execution of business rules and analytics. Chimera provides
+a high performance, robust, flexible and rapid to use platform to
+support business in responding to market requirements quickly. Chimera
+consists of two main elements.
+
+Chimera Optimized rules execution system (CORES) :
+
+The CORES is the component that performs the processing required by the
+business. This application typically reads input from a source, enriches
+it with some business rules, and then persists the data to one or more
+destinations. The CORES provides a number of input and output components
+that make read and writing data straight forward. The CORES also
+provides a number of administrative tools that enable process
+monitoring, process enhancement, termination, error management and other
+facilities. An important part of CORES is that it provides several
+convenient and powerful deployment options out of the box.
+
+Chimera Application and Rules Store (CARS):
+
+Typically at the outset of a project rules will be written using IBM
+Decision Center. However this powerful tool provides very little
+guidance to the business user. The CARS is the Chimera solution that
+provides a stripped down, easy to use environment for a business user to
+add additional rules and artifacts to a pre-built ruleset.
+
+Role:
+
+      Played key developer and technical lead roles in team and
+contributed to the end to end development release of chimera.
+
+Responsibilities:
+
+    
+
+Involved in end to end development of chimera components from scratch
+
+Company: UnitedHealth Group		Period: Jan 2013 – March 2013
+
+Project: UIToolkit                             
+    Technical Lead 
+
+Description: 
+
+The UIToolkit is designed to be an implementation of the UX design
+patterns as well as conform to the Technology Engineering Architecture
+Council (TEAC) approved System Architecture for the UIToolkit. In
+addition, it supports many components of the UHG Java Technology Stack
+that form the base of the OptumInsight Java Technology Stack and Spark
+security policies.   Right now, It utilizes Java Server Faces (JSF 2.x,
+Mojarra 2.1.5) and RichFaces 4.0.  As part of next generation, the
+architecture involves developing components using client side MVC
+frameworks. 
+
+Role:
+
+      Played key role in developing POC’s on client side java script
+frameworks for finalizing the architecture.
+
+Responsibilities:
+
+    
+
+Involved in developing POC’s on angular , node and express js.
+
+Company:UnitedHealthGroup            			                    
+March 2013 – till now
+
+Project: Analytical common
+Capability (ACC)                                
+ Technical Lead 
+
+Description:
+
+Analytical Common Capability(ACC) is common platform used in optum to
+process the  health care analytics  such as HEDIS, STAR, VBR and
+SYMMETRY. The aim of this project to bring processing of all analytics
+under one umbrella and use Hadoop for high scalability. Right now HEDIS
+is the only analytic which is brought to ACC. The future scope of this
+project is to bring STAR , VBR and SYMMETRY analytics as well into this
+system.
+
+HEDIS: The Healthcare Effectiveness Data and Information Set (HEDIS) is
+a set of standardized performance measures related to care and service
+developed by the National Committee on Quality Assurance (NCQA) and is
+used by more than 90% of America’s health plans.
+
+HEDIS is designed to ensure that purchasers and consumers have the
+information they need to reliably compare the performance of health care
+plans.
+
+Health plans carry out HEDIS measures following exact specifications so
+that the results are comparable and can be used nationally.
+
+Role:
+
+      Played key role in developing the ACC platform .
+
+Responsibilities:
+
+    
+
+Involved in developing map reduce jobs.
+
+Done R&D on Hadoop frameworks like cascade to implement workflow of
+jobs.
+
+HotCompiler                 OpenSourceProject
+
+Description 
+
+Developed Tool for auto compile and reload of  java files on save.  With
+this, you could see your changes reflecting on save just like a
+scripting language. Its features include the following
+
+multiple project monitoring for auto compile & reload on save
+
+import the project configuration from build tools like ant
+
+import and export of project settings
+
+hot swap through different debug transports like socket and shared
+memory
+
+hot swap through java agent
+
+project clean/incremental compile
+
+More info about it can be found at   HYPERLINK
+"http://hotcompiler.wordpress.com/"  http://hotcompiler.wordpress.com/ 
+and It is uploaded to sourceforge at   HYPERLINK
+"http://sourceforge.net/projects/hotcompiler/files/" 
+http://sourceforge.net/projects/hotcompiler/files/ 
+
+Personal Details:
+
+ 
+
+Date of Birth          : 30-08-1984
+
+Father's Name        :  LAKSHMI NARAYANA 
+
+Name                     :  T.V.S.S.RADHA KRISHNA
+
+Gender                   :  Male
+
+Languages              :  English, Hindi and Telugu.
+

@@ -1,0 +1,431 @@
+PROFILE SUMMARY
+
+3.1 years of experience in IT Industry in Developing JAVA and J2EE
+applications. 
+
+Proficient in Java/J2EE technologies with programming experience in Java
+Web application development 
+
+Hands on experience in programming in Spring 3.0, Hibernate framework. 
+
+Experience with technologies such as JSP, Servlet, JDBC, HTML, JQuery,
+htaccess redirects and SQL programming. 
+
+Have used  tools like HPQC , SVN.
+
+Good communication, interpersonal skills, and presentation skills, good
+team player, and customer oriented attitude. 
+
+Java Developer
+
+PROJECT DETAILS:-
+
+P&G GWSC PROJECT:
+
+Have worked around 3 years in Atos India for P&G GWSC (Procter and
+Gamble - Global Web Solution Center) for development projects, have
+created web pages for P&G site using JSP , Servlet, Hibernate ,Xhtml,
+JSF and spring.
+
+Description:
+
+It is a project about baby care products. This project gives totally
+information about the baby’s and Mom health .It contains many
+informative and interactive, dynamic pages related to many sections
+related to baby. It requires location for many countries with
+customizations and new additions of functionality as per respective
+country’s demand. This project contains Tag cloud, Forum, Blog, and
+Google Map.
+
+Responsibilities:
+
+o Implementing Rating & Reviews by integrating BV API , implementation
+of Bright tags. o Implementing online retailers for products.
+
+o	I have been part of the team responsible for the development of card
+based architecture using custom JSF tags.
+
+o  Development of important pages related to user profile management.
+
+o  Provide application support and work on customer requests on a
+priority basis.
+
+Performed data extraction, transformation, and loading; implemented
+extended relational database and supported the migration of data from
+flat file to relational database 
+
+As a team member is responsible for
+
+Developments, enhancements and maintenance of modules as per
+client/end-user requirements with proper maintenance of quality
+standards. 
+
+Communication with customers for requirement gatherings, clarifications
+etc 
+
+Intake Analysis, Freezing of requirements, Design Analysis, Impact or
+Solution analysis , Developer and tester user Guide and Technical
+documents preparation(code review, BTM preparation) of the project. 
+
+Review of documentation, developments and test cases done by peers. 
+
+Conducting technical and standard quality audits for other projects. 
+
+Following procedures as defined by customer standards 
+
+giving induction and KT to new team members as well as freshers. 
+
+EDUCATION
+
+B.E 2011(Computer Science and Engineering) with 75% from Birla institute
+of technology Mesra, Ranchi.Java Developer
+
+PERSONAL PROFILE
+
+Name	: Shashi Shankar
+
+Date of Birth	: 07th December,1989
+
+Languages Known : English, Hindi
+
+Mobile	: +91 9765313085
+
+Email	: shashi_bit07@yahoo.in
+
+Passport	: Yes
+
+Address	: Pune, Maharastra.
+
+
+
++
+
+.
+
+/
+
+6
+
+7
+
+8
+
+9
+
+G
+
+K
+
+U
+
+b
+
+c
+
+i
+
+j
+
+l
+
+„
+
+ˆ
+
+Á
+
+Ä
+
+Å
+
+Ë
+
+Ú
+
+Ý
+
+Þ
+
+ä
+
+å
+
+ç
+
+ÿ
+
+,
+
+-
+
+.
+
+/
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+9
+
+H
+
+I
+
+J
+
+K
+
+`
+
+a
+
+b
+
+c
+
+d
+
+e
+
+f
+
+g
+
+h
+
+i
+
+†
+
+‡
+
+ˆ
+
+Â
+
+Ã
+
+Ä
+
+Å
+
+Æ
+
+Ç
+
+È
+
+É
+
+Ê
+
+Ë
+
+Û
+
+Ü
+
+Ý
+
+Þ
+
+ß
+
+à
+
+á
+
+â
+
+ã
+
+ä
+
+ 
+
+"
+
+6
+
+B
+
+D
+
+F
+
+Z
+
+\
+
+b
+
+d
+
+~
+
+‚
+
+„
+
+ˆ
+
+¬
+
+°
+
+²
+
+´
+
+È
+
+Ê
+
+Ð
+
+Ò
+
+ê
+
+î
+
+ð
+
+ô
+
+ 
+
+-
+
+ 
+
+"
+
+8
+
+:
+
+<
+
+>
+
+@
+
+B
+
+D
+
+F
+
+ሀF
+
+H
+
+J
+
+L
+
+N
+
+P
+
+R
+
+T
+
+V
+
+X
+
+Z
+
+\
+
+^
+
+`
+
+b
+
+f
+
+€
+
+‚
+
+†
+
+ˆ
+
+ጀˆ
+
+®
+
+°
+
+²
+
+´
+
+¶
+
+¸
+
+º
+
+¼
+
+¾
+
+À
+
+Â
+
+Ä
+
+Æ
+
+È
+
+Ê
+
+Ì
+
+Î
+
+Ð
+
+Ô
+
+ጀÔ
+
+ì
+
+î
+
+ò
+
+ô
+
+h¾ÑCJ
+
+OJQJaJ
+
+ information furnished above is factually correct.
+
+Date : 23-07-2014
+
+Place : Pune                                                            
+                  SHASHI SHANKAR
+

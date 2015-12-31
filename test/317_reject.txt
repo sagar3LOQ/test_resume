@@ -1,0 +1,858 @@
+SRIDHAR BANDARU
+
+                                                    		Mobile 	:	+91-
+9848430885, 8179608101
+
+						E-mail  	:	sridhar.banddaru@gmail.com
+
+Professional Summary
+
+Having 11+ years of experience Front End Designing and Development of
+Web based and enterprise applications.
+
+Parallax Designing, Single Page Applications, Liquid Flow Applications,
+Native Applications.
+
+Proficient in
+
+Waterfall Model
+
+Interactive Incremental Model
+
+Agile Developments
+
+Agile Manifesto
+
+Scrum Master
+
+Scrum Master Services to the Product Owner
+
+Scrum Master Services to the Scrum Team
+
+Scrum Master Services to the Organization
+
+Scrum Process Frame Work
+
+Sprint
+
+In Sprint planning,the work to be performed in the Sprint is planned
+collaboratively by the Scrum Team.
+
+The Daily Scrum Meeting is a 15-minute time-boxed event for the Scrum
+Team to synchronize the activities and create a plan for that day.
+
+A Sprint Review is held at the end of the Sprint to inspect the
+Increment and make changes to the Product Backlog,if needed.
+
+The Sprint Retrospective occurs after the Sprint Review and prior to the
+next Sprint Planning this meeting, the Scrum Team is to inspect itself
+and create a plan for improvements to be enacted during the subsequent
+Sprint.
+
+              Sprint Backlogs
+
+              User Stories
+
+Experience in Web Applications Development Using Angular JS, JavaScript,
+Jquery, HTML5, CSS3, XHTML, Bootstrap,  Magento, Wordpress. XML, JSON, 
+Ajax, Notepad++, Dream-weaver, Eclipse to develop web-based solutions.
+
+Proficient in Trendy and  Web 2 Template Designing Using Photoshop &
+CorelDraw for Mobile,Tablet, PC Compatibility. 
+
+Experience in Logo & Icon  Designing using CorelDraw & Illustrator for
+Branding
+
+Good interpersonal skills, commitment, result oriented, hard working
+with a quest and zeal to learn new technologies and undertake
+challenging tasks.
+
+Work Experience
+
+Working as a Sr. Software Engineer for, Adaequare Info Pvt Ltd. in
+Hyderabad from January 2013 to Till Date.
+
+Worked as a Sr. Software Engineer for, Photon Infotech Pvt Ltd in
+Chennai from October 2011 to august 2012
+
+Worked as a Sr. Web Developer for, Summit works Technologies Inc. in
+Hyderabad from March 2011 to October 2011.
+
+Worked as a Sr. Web Developer for, Landon School of Scholars. in
+Hyderabad from  Feb 2010 to March 2011.
+
+Worked as a Web Designer for, Beryl Springs Infrastructure Pvt Ltd. In
+Hyderabad from December 2008 to Feb 2010.
+
+Worked as a Web and Graphic Designer for, Colors Impact Multimedia. in
+Tirupati from  Feb 2004 to November 2008.
+
+
+
+
+
+Technical Skills
+
+Scripting Language		: HTML, CSS, JavaScript, Jquery, XML, JSON, Ajax.
+
+Frame Works		 	: Angular JS, Responsive Design  with Bootstrap, 960GS,  
+                                                    				  WordPress,
+Magento.
+
+Responsive 			:  HTML 5, CSS3, LESS, SASS, Responsive Design, 
+
+      
+
+Editing Tools Web     		: Dreamweaver, Eclipse, Adobe Premier, Sound
+Forge
+
+Animation Tools        		: Adobe Flash, 3DS Max
+
+Design Tools		    	: Adobe Photoshop, Illustrator, CorelDraw
+
+Crass Browser Computability	: IE, Chrome, Opera, Firefox, Safari etc.
+
+Projects Experiences
+
+Project #16	
+
+	Project Name: 		Udyog Software Web Site,
+
+	Environment: 		WordPress,HTML5, JQuery, JavaScript, CSS3, Eclipse,
+Bootstrap responsive  Design with 			Bootstrap.
+
+			
+
+	Client: 			Udyog Software Pvt Ltd, 
+
+	Duration: 		March 2015  Till Date
+
+	Role: 			UX&UI Lead for Part Time Role,
+
+	Description: 		 This is Udyog Software Website, This will explain about
+Udyog Software , 				Product and their Services, completely informatics
+site which is designed in 				WordPress.
+
+  
+
+	Responsibilities:
+
+Wire frame Designing using Photoshop
+
+Creating web site designs 
+
+Scrum Process Frame Work
+
+In Sprint planning,the work to be performed in the Sprint is planned
+collaboratively by the Scrum Team.
+
+The Daily Scrum Meeting is a 15-minute time-boxed event for the
+ScrumTeam to synchronize the activities and create a plan for that day.
+
+A Sprint Review is held at the end of the Sprint to inspect the
+Increment and make changes to the Product Backlog,if needed.
+
+The Sprint Retrospective occurs after the Sprint Review and prior to the
+next Sprint Planning this meeting, the Scrum Team is to inspect itself
+and create a plan for improvements to be enacted during the subsequent
+Sprint.
+
+Keeping up-to-date with recent technological and software developments
+
+Developing skills and expertise in appropriate software/programming
+languages including WordPress, AngularJS,HTML5, CSS3, Javascript ,
+Jquery and others 
+
+Producing products that are user-friendly, effective and appealing 
+
+Working as part of a multidisciplinary team 
+
+Producing products that are user-friendly, effective and appealing
+
+Code Integration
+
+Working as part of a multidisciplinary team
+
+Bugs Fixing
+
+Project #15	
+
+	Project Name: 		Excellor
+
+	Environment: 		HTML5, JQuery, JavaScript, CSS3, Eclipse, Bootstrap
+responsive  Design with 				Bootstrap.
+
+			
+
+	Client: 			Adaequare, 
+
+	Duration: 		January 2015  Till Date
+
+	Role: 			UX&UI Lead
+
+	Description: 		 This is one of the Online Product selling portal, with
+futures of Dashboard and 				Admin pannel along with social futures.
+This site Completely Responsive 					Designed for Desktop, Tablet &
+Mobile devices independent.
+
+  
+
+	Responsibilities:
+
+Wire frame Designing using Photoshop
+
+Creating web site designs 
+
+Scrum Process Frame Work
+
+In Sprint planning,the work to be performed in the Sprint is planned
+collaboratively by the Scrum Team.
+
+The Daily Scrum Meeting is a 15-minute time-boxed event for the
+ScrumTeam to synchronize the activities and create a plan for that day.
+
+A Sprint Review is held at the end of the Sprint to inspect the
+Increment and make changes to the Product Backlog,if needed.
+
+The Sprint Retrospective occurs after the Sprint Review and prior to the
+next Sprint Planning this meeting, the Scrum Team is to inspect itself
+and create a plan for improvements to be enacted during the subsequent
+Sprint.
+
+Keeping up-to-date with recent technological and software developments
+
+Developing skills and expertise in appropriate software/programming
+languages including AngularJS,HTML5, CSS3, Javascript , Jquery and
+others 
+
+Producing products that are user-friendly, effective and appealing 
+
+Working as part of a multi-disciplinary team 
+
+Producing products that are user-friendly, effective and appealing
+
+Code Integration
+
+Working as part of a multi-disciplinary team
+
+Bugs Fixing
+
+Project #14	
+
+	Project Name: 		Havasay
+
+	Environment: 		AngularJS,HTML5, JQuery, JavaScript, CSS3, Eclipse,
+Bootstrap, Sansa Touch 				with Responsive Design with Bootstrap.	
+
+		
+
+	Client: 			Adaequare, 
+
+	Duration:		 March 2014 January 2015
+
+	Role: 			UX&UI Lead
+
+	Description: 		 This is Service provider for social plunging and
+analytic Web Application for 				Android Mobile, Android Tablets  and
+desktops, This is fully HTML5, CSS3, 				Jquery Mobile and Sansa Touch
+Loaded Application.
+
+	Responsibilities: 					
+
+Planning for Wire frame Designing using Photoshop, 
+
+Suggesting to the team to give Trendy Themes, and user friendly
+Templates
+
+Producing sample sites
+
+Scrum Process Frame Work
+
+Meeting with Client to discuss requirements and/or project progress
+
+Keeping up-to-date with recent technological and software developments
+
+Developing skills and expertise in appropriate software/programming
+languages including HTML5, CSS3, AngularJS,Javascript , Jquery and
+others 
+
+Producing products that are user-friendly, effective and appealing 
+
+Working as part of a multidisciplinary team 
+
+Producing products that are user-friendly, effective and appealing
+
+Designing,developing and updating the web sites in particular using
+graphic design skills 
+
+Code Integration
+
+Bugs Fixing
+
+Project # 13                                          
+
+	Project Name: 		Listany
+
+	Environment: 		HTML5, JQuery, JavaScript, CSS3, Eclipse, Bootstrap,
+Sansa Touch, 					backbhone js
+
+	Client: 			Adaequare
+
+	Duration: 		January 2013 to March 2014	
+
+		
+
+	Role: 			UX&UI Lead
+
+	Description:		Listany is shopping cart project, as of now we are
+released Classifieds Version. 				Here will sell all human needs &
+fashion related Product selling by online. Here 				is different kind of
+products like Gent's ware, Women Ware, Kids ware, Kitchen 				Ware,
+Decoration Ware, cosmetics etc. selling by online.	
+
+	Responsibilities:	
+
+								
+
+Wire frame Designing using Photoshop
+
+Creating web site designs 
+
+Producing sample sites
+
+Meeting with Client to discuss requirements and/or project progress
+
+Keeping up-to-date with recent technological and software developments
+
+Designing,developing and updating the web sites in particular using
+graphic design skills 
+
+Developing skills and expertise in appropriate software/programming
+languages including HTML5, CSS3, Javascript , Jquery and others 
+
+Producing products that are user-friendly, effective and appealing 
+
+Working as part of a multi-disciplinary team 
+
+Producing products that are user-friendly, effective and appealing
+
+Code Integration
+
+Working as part of a multi-disciplinary team
+
+Bugs Fixing
+
+Project #12
+
+	Project Name: 		Macy's
+
+	Environment: 		HTML5, JQuery, JavaScript, CSS, Eclipse
+
+	Client: 			Macy's US
+
+	Duration: 		March 2012 to August 2012
+
+	Role: 			UI Designer
+
+	Description:		Macy's is shopping cart project, All human needs &
+fashion related Product 				selling by online . Product order and order
+tracking process web site. Here is 				different kind of products like
+Gent's ware, Women Ware, Kids ware, Kitchen 				Ware, Decoration Ware,
+cosmetics etc. selling by online.This is fully HTML5, 				CSS3, Jquery
+Mobile and Sansa Touch Boostrap and Backbhone Js Loaded 				Application
+.
+
+	Responsibilities: 		
+
+Meeting with Client to discuss requirements and/or project progress
+
+Keeping up-to-date with recent technological and software developments
+
+Designing,developing and updating the web sites in particular using
+graphic design skills 
+
+Developing skills and expertise in appropriate software/programming
+languages including HTML5, CSS3, Javascript , Jquery and others 
+
+Producing products that are user-friendly, effective and appealing 
+
+Working as part of a multi-disciplinary team 
+
+Producing products that are user-friendly, effective and appealing
+
+Code Integration
+
+Working as part of a multi-disciplinary team
+
+Bugs Fixing
+
+Project #11
+
+	Project Name: 		Ballard Designs
+
+	Environment: 		Photoshop, HTML CSS, JavaScript, Jquery.	
+
+	
+
+	Client: 			Ballard Designs, US
+
+	Duration: 		February 2012 to March 2012
+
+	Role:			UI Designer
+
+	Description:		Cart to sell furniture, Wall Decors, Lighting,
+Accessories, Rugs, Table wares, 				Entertainments, Outdoor living,
+Liners & Fabrics etc. 
+
+	Responsibilities: 				
+
+Creating web site designs 
+
+Producing sample sites
+
+Meeting with Client to discuss requirements and/or project progress
+
+Keeping up-to-date with recent technological and software developments
+
+Designing,developing and updating the web sites in particular using
+graphic design skills 
+
+Developing skills and expertise in appropriate software/programming
+languages including HTML5, CSS3, Javascript , Jquery and others 
+
+Producing products that are user-friendly, effective and appealing 
+
+Working as part of a multi-disciplinary team 
+
+Producing products that are user-friendly, effective and appealing
+
+Code Integration
+
+Working as part of a multi-disciplinary team
+
+Bugs Fixing
+
+Project #10
+
+	Project Name: 		Whitehat
+
+	Environment: 		HTML5, Jquery, JavaScript	
+
+		
+
+	Client: 			Whitehat, US
+
+	Duration: 		December 2011 to February 2012
+
+	Role: 			UI Designer
+
+	Description:		White-hat is a private browser, which is code copyrights
+taken by Google 				Chrome, we are modified and added new futures like
+Ad blocking by URL wise 				and by advertisements list wise as per
+client requirement. This is fully HTML5, 				CSS3, Jquery , Java Script,
+Node js Loaded Application.
+
+	Responsibilities: 					
+
+Wire frame Designing using Photoshop
+
+Creating web site designs 
+
+Producing sample sites
+
+Meeting with Client to discuss requirements and/or project progress
+
+Keeping up-to-date with recent technological and software developments
+
+Developing skills and expertise in appropriate software/programming
+languages including HTML5, CSS3, Javascript , Jquery and others 
+
+Producing products that are user-friendly, effective and appealing 
+
+Working as part of a multi-disciplinary team 
+
+Producing products that are user-friendly, effective and appealing
+
+Code Integration
+
+Working as part of a multi-disciplinary team
+
+Bugs Fixing
+
+Project # 9    
+
+	Project Name: 		TravelClick
+
+	Environment: 		HTML5, YUI, Jquery, JavaScript, JSON	
+
+	
+
+	Client: 			TravelClick, US
+
+	Duration: 		October 2011 to December 2011
+
+	Role: 			UI Designer
+
+	Description:		TravelClick is online Reservation for hotelier service,
+Booking Engine service to 				book the hotel all over the world. Nearly
+thousands of hotels are in under this 				booking engine, those hotel
+informations are getting from services.
+
+	Responsibilities:				
+
+Wire frame Designing using Photoshop
+
+Creating web site designs 
+
+Producing sample sites
+
+Meeting with Client to discuss requirements and/or project progress
+
+Keeping up-to-date with recent technological and software developments
+
+Developing skills and expertise in appropriate software/programming
+languages including HTML5, CSS3, Javascript , Jquery and others 
+
+Producing products that are user-friendly, effective and appealing 
+
+Working as part of a multi-disciplinary team 
+
+Producing products that are user-friendly, effective and appealing
+
+Code Integration
+
+Working as part of a multi-disciplinary team
+
+Bugs Fixing
+
+Project #8
+
+	Project Name: 		HR Management
+
+	
+
+	Environment: 		Photoshop, HTML CSS, JavaScript, Jquery		
+
+	Client: 			Summit Works, US 
+
+	Duration: 		August 2011 September 2011
+
+	Role: Sr. 		Web Designer
+
+	Description:		Application , This is designed for Payroll, Attendance,
+Leave and Employee 				management software, This is free ware any one
+can Download and use, This is 				powered and presented free of cost by
+Summit Works Technologies Inc.
+
+ 	Responsibilities:					
+
+Wire frame Designing using Photoshop
+
+Creating web site designs 
+
+Producing sample sites
+
+Meeting with Client to discuss requirements and/or project progress
+
+Keeping up-to-date with recent technological and software developments
+
+Developing skills and expertise in appropriate software/programming
+languages including HTML5, CSS3, Javascript , Jquery and others 
+
+Producing products that are user-friendly, effective and appealing 
+
+Working as part of a multi-disciplinary team 
+
+Producing products that are user-friendly, effective and appealing
+
+Code Integration
+
+Working as part of a multi-disciplinary team
+
+Bugs Fixing
+
+Project #7
+
+	Project Name: 		Tropical Cheese (Desk top Application)
+
+	Environment: 		Photoshop, HTML CSS, JavaScript, Jquery	
+
+	
+
+	Client: 			Tropical Cheese, US
+
+	Duration: 		June 2011 August 2011
+
+	Role: 			Sr. Web Designer
+
+	Description:		This is Cheese online selling Company, we did desktop &
+Ipad Application to 				track the Stock, Orders and Delivery status and
+store the Customer Details.
+
+ 	Responsibilities:					
+
+Wire frame Designing using Photoshop
+
+Creating web site designs 
+
+Producing sample sites
+
+Meeting with Client to discuss requirements and/or project progress
+
+Keeping up-to-date with recent technological and software developments
+
+Developing skills and expertise in appropriate software/programming
+languages including HTML5, CSS3, Javascript , Jquery and others 
+
+Producing products that are user-friendly, effective and appealing 
+
+Working as part of a multi-disciplinary team 
+
+Producing products that are user-friendly, effective and appealing
+
+Code Integration
+
+Bugs Fixing
+
+Project #6
+
+	Project Name: 		Event Management (Desk top Application)	
+
+	Environment: 		Photoshop, HTML CSS, JavaScript, Jquery	
+
+	
+
+	Client: 			Summit Works, US 
+
+	Duration:		 May 2011 June 2011
+
+	Role: 			Sr. Web Designer
+
+	Description: 		This project explains about event management, like Event
+Organizer will 					conduct events, with help of VIP celebrities and
+with their comfort dates, in 				where r cities shopping malls. So this
+application is looks like a calendar in 				which date are going to
+conduct the event, there they can store data like 					celebrity
+Details, Shopping mall Details, City & country Details, What kinds of 		
+	Prices and Discounts they are going to announce. By Clicking on the
+date, all 				the details will display in pop-up window.
+
+	 Responsibilities: 					
+
+Wire frame Designing using Photoshop
+
+Creating web site designs 
+
+Producing sample sites
+
+Meeting with client to discuss requirements and/or project progress
+
+Keeping up-to-date with recent technological and software developments
+
+Developing skills and expertise in appropriate software/programming
+languages including HTML5, CSS3, Javascript , Jquery and others 
+
+Producing products that are user-friendly, effective and appealing 
+
+Working as part of a multi-disciplinary team 
+
+Producing products that are user-friendly, effective and appealing
+
+Code Integration
+
+Bugs Fixing
+
+Project #5
+
+	Project Name: 		SBA (Transport Management Desktop Application)	
+
+	Environment: 		Photoshop, HTML CSS, JavaScript, Jquery
+
+		
+
+	Client: 			Summit Works, US 
+
+	Duration: 		March 2011 May 2011
+
+	Role: 			Sr. Web Designer
+
+	Description:		This project explains about Transport management, Once
+you book transport 				of your goods, hear you can track the details
+where your things are hold and 				when its will deliver, tracking
+numbers everything. And here can store customer 				details once you
+approach. This application will provide you user name and 				password
+if you are transport dealer.
+
+ 	Responsibilities:					
+
+Wire frame Designing using Photoshop
+
+Creating web site designs 
+
+Producing sample sites
+
+Designing,developing and updating the web sites in particular using
+graphic design skills 
+
+Meeting with client to discuss requirements and/or project progress
+
+Keeping up-to-date with recent technological and software developments
+
+Developing skills and expertise in appropriate software/programming
+languages including HTML, CSS, Javascript , Jquery and others 
+
+Producing products that are user-friendly, effective and appealing 
+
+Working as Individual contributor,
+
+Producing products that are user-friendly, effective and appealing
+
+Bugs Fixing
+
+Project #4
+
+	Project Name: 		Landon school of scholars	
+
+	Environment: 		Photoshop, HTML , CSS, Dreamweaver, Flash	
+
+	
+
+	Client: 			Landon School of Scholars, UK
+
+	Duration: 		February 2010 November 2010
+
+	Role: 			Web Designer
+
+	Description:   		This project explains about Landon School of School of
+Scholars course and 				fees structures and student visa process
+details, student application process, 				and eligibility etc details.
+
+ 	Responsibilities:	
+
+Wire frame Designing using Photoshop
+
+Creating web site designs using HTML, CSS and Dreamweaver
+
+Producing sample sites
+
+Meeting with client  to discuss requirements and/or task progres
+
+Logo Designing
+
+Flayer Designing
+
+Working as Individual contributor
+
+Existing Website Modification,
+
+Project #3
+
+	Project Name: 		Beryl Springs	
+
+	Environment: 		Photoshop, HTML, CSS, Dreamweaver	
+
+	Client: 			Beryl Springs Infrastructure Pvt Ltd.
+
+	Duration: 		July 2009 January 2010
+
+	Role: 			Web Designer
+
+	Description:		This project explains about Beryl Springs and there
+futures, this is an 					infrastructure company. There is a lands near
+by Hyderabad, they will give the 				publicity information through this
+site. And trying to give clear details about 				infrastructure using
+videos and images
+
+ 	Responsibilities:					
+
+Wire frame Designing using Photoshop
+
+Creating web site designs using HTML and CSS 
+
+Producing sample sites
+
+Meeting with client  to discuss requirements and/or task progres
+
+Logo Designing
+
+Flayer Designing
+
+Working as Individual contributor
+
+Project #2
+
+	Project Name: 		Logo Designing & Brouchers Designing
+
+	Environment: 		Photoshop, CorelDraw	
+
+	Client: 			BerylSprings Infrastucture Pvt
+
+	Duration:		 January 2009 July2009
+
+	Role: 			Web Designer
+
+	Description:		I designed 35 Logos to finalize to one logo for this
+organization. But every logo 				indicates the goal of the company. 
+
+ 
+
+	Responsibilities:					
+
+Wire frame Designing using Photoshop
+
+Creating web site designs 
+
+Producing sample sites
+
+Designing,developing and updating the web sites in particular using
+graphic design skills 
+
+Template Designing
+
+Logo Designing
+
+Flayer Designing
+
+Working as Individual contributor
+
+Project #1
+
+	Project Name: 		Logo Designing & Brouchers Designing and web sites,
+Leafe Letrters, Cartoon 				Drawings for Animation Project for Local
+School
+
+	Environment: 		Photoshop, CorelDraw		
+
+	Client: 			Colors Impact Multimedia.
+
+	Duration: 		February 2004 November 2008
+
+	Role: 			Graphic & Web Designer
+
+	Description:		I designed 35 Logos to finalize to one logo for this
+organization. But every logo 				indicates the goal of the company
+
+ 	Responsibilities:	
+
+Wire frame Designing using Photoshop
+
+Creating web site designs 
+
+Designing,developing and updating the web sites in particular using
+graphic design skills 
+
+Logo Designing
+
+Flayer Designing
+
+Working as Individual contributor
+
+Education	
+
+	Bachelor of Business Administration from Ch. Charansingh University,
+Meerut.
+
+
+
+
+

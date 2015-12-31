@@ -1,0 +1,314 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                 -  2
+year                                  
+             
+
+Spring                  
+                                 - 3.5
+year& current
+
+Web
+Services                                
+       -  REST – 3 year& current
+
+Core
+Java                                  
+            -  6 years                
+
+Design
+Patterns                                
+   -  2 years            
+
+UML
+design                                 
+         -   2Years
+
+Build Tools (Maven/Ant)                   -   
+Maven
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Tomcat/eclipse/sonar/jboss.
+
+Lil bit exposure on reflection,good in DB
+
+Mohammed Khaja
+
+  HYPERLINK "mailto:mohammedkhaja14@gmail.com" 
+mohammedkhaja14@gmail.com 
+
++91- 9701668067
+
+PROFESSIONAL SUMMARY
+
+         
+
+Over 6.3 years of experience in Design, Development and Architecting
+activities including Requirement Analysis, Implementation, Packaging and
+Deployment, developing Web based enterprise applications and expertise
+in implementing Object Oriented Programming (OOPS) with Java, J2EE.
+
+Experienced in design and development of various commercial applications
+using Client/Server architecture.
+
+Working experience in development of custom portlets, hooks, themes,
+customizing out of box portlets, integrating third party tools with
+Liferay 6.0.x and 6.1.x (CE & EE).
+
+Good expertise in developing web based applications using JSF and Spring
+MVC web frameworks.
+
+Good expertise in working with various open source software like Spring,
+Hibernate, Log4j, JUnit, Ant and Maven in development. 
+
+Working experience with Apache Tomcat web server, Weblogic, JBoss,
+Websphere application server and Web sphere Portal servers.
+
+Excellent experience in the development of Portlets using JSR168 and
+JSR286 specifications and also excellent experience in implementing
+Inter Portlet Communication (IPC) between different portlets.
+
+Experience in java application testing using JUNIT framework, Mockito,
+JMock and PowerMock for unit testing.
+
+Extensive experience in major build management systems and version
+systems such as IBM Clearcase and SVN.
+
+Proficient in implementing various Java/J2EE design patterns including
+Singleton, Factory, MVC, Front Controller, DAO etc.
+
+Experience in configuring and deploying java web applications (WAR and
+EAR) on Web logic, JBoss 5.x and Tomcat 5.x/6.x application servers.
+
+Hands on experience using ANT, MAVEN build tool.
+
+Worked in Waterfall model and Agile Methodologies (like Scrum and
+Scrumban) efficiently.
+
+TECHNICAL SKILLS
+
+Programming Languages		:    Java 1.4/1.5/1.6
+
+J2EE Technologies		:    JDBC, Servlets, JSP, Restful Webservices.
+
+Application servers			:    Jboss 5.x, Weblogic 10.x, WebSphere 6.x
+
+Web Servers		:    Tomcat7.x
+
+Frameworks                   	 	:    JSF 1.1, Spring, Hibernate, Liferay
+Portal framework
+
+Markup languages		:    HTML, XML
+
+Databases		:    Oracle 9i/10g and MySQL 5.0
+
+Tools		:    PL/SQL Developer
+
+Build and CI Tools 		:   Jenkins (for build atomization tool), Sonar (To
+check Code Rules compliance)
+
+Management Tool		:    SVN, Clearcase
+
+IDE					:    RAD7.x, Eclipse
+
+Portal Technologies		:    IBM WebSphere Portal 6.x, Liferay Portal
+6.0.x, 6.1.20
+
+ 
+
+EDUCATION
+
+Master of Computer Applications (M.C.A) from Kakatiya University,
+Warangal, India.[2008]
+
+Bachelor of Science B.Sc (M.P.CS) from Kakatiya University, Warangal,
+India.[2005]
+
+Awards:
+
+Received best employee of the quarter for two times.
+
+PROFESSIONAL EXPERIENCE 
+
+ProKarma, Hyderabad, India		                                            
+                                 		Feb 2014 – Till date
+
+Waybill History Inquiry / Historical Car Trace.
+
+Senior Developer
+
+ 
+
+Project Description:
+
+The Union Pacific Railroad Waybill History Inquiry allows customers (who
+are shipper or consignee ) to view details of the last one year waybills
+related to a piece of equipment, based on the equipment's ID number. 
+
+This includes showing movement information of waybills. Movement events
+will be generated on every station from where equipment passes. Waybill
+details include billing information, special conditions, third parties
+to the bill, and data on multiple car shipments, among other items.
+
+Responsibilities
+
+Designed and implemented Restful Service for getting Movement event
+details of waybills.
+
+Responsible for planning the work with onshore business analyst.
+
+Successfully implemented spring restful service.
+
+Designed and implemented Rest client with Apache’s http client.
+
+Responsible for writing unit tests using Junit, Mockito and PowerMock.
+
+Responsible for code reviews and code deliveries to production.
+
+Environment:
+
+Windows, Java 1.6, Maven 2.x,  Oracle 10g, Jboss 5.x, spring , JSF 1.1,
+JSP, Junit frameworks , JavaScript, jQuery, Eclipse and Sub Version.
+
+ProKarma, Hyderabad, India                  	                           
+                                		October 2011 – Feb 2014
+
+MyUPRR Customer Portal
+
+Senior Developer
+
+ 
+
+Project Description:
+
+MyUPRR Customer Portal is a business critical application to all
+internal and external customers.
+
+First, MyUPRR is the main portal for all external customers.  It
+provides a starting point for all customers to branch off to other
+applications.  The information displayed is tailored to meet the
+customers need and thus, is based on business group and user role
+information.
+
+Second, MyUPRR provides interface to notifications. This will provide
+owner the ability to target specific customer segments for marketing
+campaigns.
+
+Customers include employees of all levels, with portal page views
+designed based on an employee’s job functionality. External customers
+consist of any of Union Pacific's varied industry customers, with their
+pages based on industry and/or geographic location.
+
+Responsibilities
+
+Designed/Implemented Liferay plug-ins such as portlets, themes, hooks
+and layouts.
+
+Responsible for planning the work with onshore business analyst.
+
+Successfully implemented spring based hooks and portlets.
+
+Successfully integrated different projects with web portal.
+
+Responsible for code reviews and code deliveries to production.
+
+Responsible for writing unit tests.
+
+Environment
+
+Windows, Java 1.6, Maven 2.x,  Oracle 10g, Liferay Portal 6.0.5 EE,
+Jboss 5.x, spring core, spring aop , spring jdbc, JSP, Velocity
+template, HTML, CSS, JavaScript, AJAX, jQuery1.6, Eclipse, Version One.
+
+Infinite Computer Solutions, Bangalore, India                           
+                                                		Dec 2009 – Oct 2011
+
+NH-MMIS
+
+Software Engineer
+
+NHMMIS (New Hampshire Medicaid Management Information System) Medicaid
+is a health insurance program financed and run jointly by the federal
+and state governments for low-income people of all ages who do not have
+the money or insurance to pay for health care. The goal of the program
+is to provide medical and other health care services to eligible
+individuals so that they are able to remain as self-sufficient as
+possible. Medicaid is a state administered program. Each state sets its
+own guidelines, subject to federal rules and guidelines. Certain
+services must be covered by the states in order to receive federal
+funds. Other services are optional and are elected by states.
+
+Responsibilities
+
+Involved in requirement analysis.
+
+Implemented test cases for different modules.
+
+Implemented custom portlets using JSR 168.
+
+Extensively used interportlet communication (IPC) between various custom
+portlets.
+
+Involved in testing the application components using JUnit framework.
+
+Developed the action components as request handlers and configured using
+JSF.
+
+Environment
+
+Java 1.5, Java/J2EE, JSF, Hibernate, Oracle, RAD 7.5.4, WebSphere
+Application Server, WebSphere Portal Server 6.0
+
+DGB Soft, Hyderabad, India                                              
+                             		July 2008 – Nov 2009
+
+Web tools - MLM
+
+Junior Software Engineer
+
+The product is for direct sales of products. The users involved in Multi
+Level Marketing (MLM) business. Here customers are MLM members ,they get
+benefit from commission based on the their legs purchase the products
+.So customer wants to keep track of information every time who is
+active/inactive, how much sales volume for me/for my legs in this
+week/month. MLM is having communication service and  E-cards sending
+services.
+
+The project have Admin module, Login module, Customer module, Reporting
+module and Content management module.
+
+Content Management System (CMS) is a sub module of Admin module. It is
+developed to upload the required content into system / server. The
+content includes project related Help files, terms and condition
+documents, project specific images, E-cards and most importantly Excel
+to flat file conversion services.
+
+Those flat files will be using for DB uploads. CMS is useful for manage
+project content efficiently.
+
+Admin module has the services to create and update the users online.
+Able to update project content online. Updating the user privileges
+online. 
+
+Responsibilities
+
+Involved in requirement analysis.
+
+Involved in writing code for enhancements and defects.
+
+Involved in analyzing & dealing with cases which are coming in
+Production Environment.
+
+Written Junit test cases.
+
+Involved in production deployment process.
+
+Environment
+
+Java 1.4, HTML, JavaScript, JSP, JSF, Hibernate, Oracle, Tomcat and
+Eclipse.
+

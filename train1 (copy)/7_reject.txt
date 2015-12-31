@@ -1,0 +1,23 @@
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate  & toplink(eclipse)                      -  3years  
+
+Spring                                                  -  2 years&current                                                
+
+Web Services                                       -  2 years                                                
+
+Core Java                                               -  6 years
+
+Design Patterns                                    -   used design pattern  
+
+UML design                                           -    done
+
+Build Tools (Maven/Ant)                    -    Maven/Ant   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+Tomcat/weblogic/intellJ/eclipse
+
+DB:oracle,sqlserver

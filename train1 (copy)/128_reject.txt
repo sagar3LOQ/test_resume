@@ -1,0 +1,227 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate           -  2 year &
+current                                �
+�              
+
+Spring                -  2
+year&current                              
+                  
+
+Web Services       - 
+NA                                   
+             
+
+Core Java              3years
+
+Design Patterns                   -No    
+
+UML design                         -No    
+
+Build Tools (Maven/Ant)       -    Ant-2.5years   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Apache Tomcat 6.0/ Web logic/jboss
+
+                                                                        
+          Email:nagaraju425gkm@gmail.com
+
+NAGARAU BOMMIDI	                                 Mobile: +91-7842833571 
+                                                                   
+
+                                                			       
+
+                                                       
+
+  Professional Summary
+
+Having 3+ Years of Experience as a Software Developer in the IT
+industry.
+
+Excellent Object Oriented Programming knowledge and having work
+experience on Core Java, collections, Multi Threading, Exception
+Handling, Oops Concepts JDBC, Servlets and JSP.
+
+Hands on work experience in open source frameworks like Struts and
+Hibernate.
+
+Hands on work experience in Spring framework.
+
+Having Good knowledge on Developing the applications using various
+Design Patterns.
+
+Having Working experience in Oracle 10g.
+
+Hands on experience in using Logger Framework Apache Log4J.
+
+Hands on experience in using IDE like Eclipse.
+
+Expertise in the requirement analysis and modeling and development of
+various software applications.
+
+Good team member, positive attitude and result oriented Self-motivated,
+quick learner, willing to adapt to new challenges & new technologies.
+
+Actively participated in Team meeting and Status calls also.
+
+Actively participated in fixing the defects in testing environments.
+
+Quicken adapted the new technologies implemented in project.
+
+  Work Experience
+
+Working as Software Engineer with Eka Software Solutions Pvt Ltd
+Bangalore, from Feb 2013 to till date.
+
+Worked as Associate Software Engineer with Access Automation Pvt Ltd
+Bangalore, from Jan 2011 to Jan 2013.
+
+  Education
+
+Bachelor of Technology from JNTU University.
+
+  Technical Skills
+
+          Java Technologies		:    Core Java, Jdbc, Servlets, JSP’s.
+
+          Database				:    Oracle10g.
+
+          Web/App Servers		:    Apache Tomcat, Web logic, JBoss.
+
+          Java IDE				:    Eclipse
+
+          Version Control Tools		:    CVS, SVN.
+
+          Operating Systems		:    Windows, Linux.
+
+          Framework			:    Spring, Hibernate, Struts, Log4J, Junit.
+
+PROJECT SUMMARY:
+
+Project #1              
+
+Title			: CTRM(Commodity Trading and Risk Management) 
+
+Role			: Developer
+
+Client			: Gavilon (Australia)
+
+Environment		:Weblogic, Java, J2EE, Spring, Hibernate and oracle.
+
+Team Size		: 5
+
+Duration	: Feb’13 to till date.
+
+Description:
+
+          CTRMS best-of-breed solutions manage commodity trading,
+procurement, logistics, storage and handling, processing, enterprise
+risk, and compliance. It helps to accelerate growth, increase
+profitability improve operational control, and manage risks and
+exposures. Our product basically has 3 major types. 1) Ags 2) Metals 3)
+Energy
+
+         Ags: Comprehensive solution for managing physical trading,
+position P&l, derivatives,
+
+Risk, logistics and finance across softs, grains, feeds, edible oils,
+oilseeds, livestock and other agriculture based businesses.
+
+           Metals: End-to-End Trade and Risk Management Platform for the
+Metals and Mining, Smelting, Processing & Fabrication and Trading.
+
+           Energy: Eka Energy is a fully integrated multi-commodity
+energy trading and risk management (ETRM) system covering the entire
+transaction life cycle from capture through  confirmation, operations,
+settlement and risk management.
+
+Responsibilities:
+
+Exposing wrapper Web services in EKA System.
+
+Invoking WS through EIF.
+
+Implementing marshalling and unmarshalling through JAXB.
+
+ Intercepting CTRM code using Spring AOP
+
+ Developing of DAO using Hibernate.
+
+Project #2   
+
+Title			: Portal Project
+
+Role                         : Developer
+
+Environment 	: Java, Struts, JSP, Hibernate, Eclipse IDE, Oracle.
+
+Application Server	: web logic
+
+Duration	: Jan’12 to Dec’12.
+
+Description:
+
+The project is meant to develop a portal that gives information about
+all happening things in the city including general information like
+hotels, pubs, restaurants, visiting/tourism places etc.
+
+The concept of this application is not only to facilitate the
+customers/users get the information about different places and events in
+the city but also to reserve their seats online and place their order
+for eatables, drinks etc. through our portal. This saves the time for
+the customers where in the current system, a person or a group of people
+go to restaurants and wait for quite some time after placing the order
+to get them ready. This problem is addressed in our application. The
+application requires the customers to buy coupons that are issued at
+different places and the coupons range starting from Rs.1000/- to
+Rs.5000/- or above.
+
+All selected pubs, restaurants, hotels, clubs and resorts accept these
+coupons. Any customer can log on to our portal and check for the
+information about their choice of pubs or restaurants. If they want to
+place an order, they can check the available items and the prices of
+each. 
+
+Responsibilities:
+
+Developing of JSP Pages
+
+Involved in coding for Java Beans 
+
+ Involved in implementation of Controllers.
+
+ Involved in struts with Hibernate configuration.
+
+ Developing of DAO using Hibernate.
+
+Project #3	     
+
+Title                   : Car Hire
+
+Role                   : Developer
+
+Client		     : AA Systems, U.K
+
+Duration	     : Jan’11 to Dec’11
+
+Environment	: Java, J2ee, Struts, Hibernate,Oracle, Ant.
+
+Description:
+
+	The Car Hire is an insurance policy sponsored by The Automobile
+Association Limited (The AA) to provide a replacement vehicle for a
+driver in the event that their vehicle has been rendered a total loss
+either in a road traffic accident or by the theft of the vehicle. The AA
+has selected Albany Assistance Limited to supply the new Car Hire
+product. The new product will be offered to those people who have an AA
+fully comprehensive or TPF&T motor policy.
+
+Responsibilities:
+
+ Designed GUI’s using JSP’s.
+
+ Responsible for writing Action Classes And Form Beans.
+

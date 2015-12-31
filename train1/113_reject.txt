@@ -1,0 +1,203 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                  -  1year &current
+
+Spring                  
+                                  -  1
+year &
+current                                �
+�               
+
+Web
+Services                                
+      - 
+NA                                   
+           
+
+Core
+Java                                  
+             -  2.2year
+
+Design
+Patterns                                
+    -    aware
+
+UML
+design                                 
+          -    Aware
+
+Build Tools (Maven/Ant)                    -   
+Ant  
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Eclipse,tomcat
+
+Ok for startup
+
+RESUME
+
+Vinod Bharathala
+
+Narayanaguda,	                           	                              
+             Email:vinodbharathala.09@gmail.com
+
+Hyderabad				                               Mobile: +91-7386840623	 
+
+PROFESSIONAL SUMMARY
+
+2.4 years of experience in IT industry as a Software Engineer in
+development and implementation of applications using JAVA based
+technologies.
+
+Experience on Java, J2EE (Servlets, JSP, JDBC )
+
+Experience on J2EE framework Spring 2.5 
+
+Experience on ORM framework like Hibernate 3.0 
+
+Exposure on application & web server like Jboss and Tomcat and Web logic
+Server                                                                  
+                                                                        
+                                               
+
+Exposure to relational database like Oracle 10g and MY SQL
+
+Experience on Eclipse IDE
+
+Exposure on Log4j
+
+Capable of working in team as well as independently with excellent
+communication, interpersonal and analytical skills
+
+Highly adaptable to fast-paced software development environment
+requiring quick problem solving skills without compromising on the
+quality of work.
+
+Exceptional ability to quickly master new concepts and technologies.
+
+EDUCATIONAL QUALIFICATIONS
+
+Bachelor’s in Computer Science from Global Institute of Engineering &
+Technology Hyderabad 
+
+PROFESSIONAL EXPERIENCE
+
+Working as Software Engineer for CLS System  (p) Ltd from 2012 to till
+Date
+
+TECHNICAL SKILLS
+
+	
+
+  Languages	:  Java.
+
+  Operating System		: Windows, Linux.
+
+  Web Technologies                         : HTML, XML, JavaScript.
+
+   Server side Technologies	 :  JDBC, Servlets, JSP.
+
+   Frame-works	 : Struts, spring.
+
+   ORM Software’s                           : Hibernate.
+
+   Web/Application Servers             : Apache Tomcat, Web logic,
+JBoss.
+
+    IDE’s 			  : Eclipse, Net bean.
+
+  RDBMS/Database		   : Oracle, MySQL.
+
+CAREER HISTORY 
+
+	
+
+Project #1	 
+
+Title              : Smart Card                                         
+                                                                        
+                                                                     
+
+Description: 
+
+                        The project entitled "SMART CARD" has been
+developed using Servlets and Jsp as front end and Oracle8i as back end.
+
+The project aims at providing corporate information and hospital
+statistics can be viewed in a web on the Internet. This Information is
+to be integrated into the existing web page of the company but the
+access to it would be restricted to the Chairman and Directors or the
+concerned person who has been authorized or register users. According
+patients needs the hospital management introduce Smart Card Schemes like
+one year smart card, two year smart card and lifelong Smart Cards? First
+Patient chooses the smart card according to the patient requirement,
+depending on Smart card patient get the discount on medical bill. Every
+person who is willing to take the smart cards, depending on card value,
+first they pay Card Value to Organization. This information is shared to
+all the branches of the Hospital group so that they can maintain global
+information of the group
+
+Environment:
+
+Technology Used: Java Servlets, Jsp, Jdbc.
+
+Client on Internet/Intranet: Web Browser.
+
+Web Server: Apache Tomcat.
+
+Database Server: Oracle.
+
+Development End: Eclipse.
+
+Responsibilities: 
+
+Study of Requirement Document.
+
+Involved in developing the application.
+
+Developing server side communication with database using JDBC.
+
+Project #2	 
+
+Title              : Global Release
+
+Description: 
+
+        This project involves the development of Following Modules
+Globally. The Modules consists of Accessibility, Forums, and Internal
+Search. The Accessibility Module deals with the development of the
+project in login, registration and forgot password pages. The Forum
+Module is developed to make users to discuss on the different relevant
+topics. Users can communicate with each others in this forum by writing
+their respective blog which is visible to all the users. The Internal
+Search Module deals the searching of the internal contents related to
+products, blogs, articles, forums etc.
+
+Environment:
+
+Technology Used: Java /j2ee, spring, Hibernate.
+
+Client on Internet/Intranet: Web Browser.
+
+Web Server: Apache Tomcat.
+
+Database Server: Oracle.
+
+Development End: Eclipse.
+
+Responsibilities:
+
+Study of Requirement Document.
+
+Updated spring configuration file and XML documents.
+
+Written Business Delegates.
+
+Written ORM’s and their implementations With Hibernate
+
+        
+

@@ -1,0 +1,299 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                              
+3years
+&current                                
+               
+
+Spring                  
+                      - 3
+years&current                             �
+�                  
+
+Web Services             -  3
+years(RESTFUL )                            
+                  
+
+Core
+Java                                  
+             -  5.2 years
+
+Design
+Patterns                                
+    -   used design pattern  
+
+UML
+design                                 
+          -    
+
+Build Tools (Maven/Ant)                    -   
+Maven
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Weblogic/eclipse/PMDwebport/tomcat
+
+DB – oracle
+
+Worked on reflection
+
+SUBBAIAH GANJIKUNTA
+
+E-Mail: subbu674@gmail.com   Mobile No. +91-7097146450
+
+========================================================================
+======
+
+Professional Summary:
+
+Having 5 plus years of experience in Information Technology in terms of
+Software development life cycle(SDLC) involving Analysis, Object
+Oriented Design, Development, Deployment, Testing, Documentation and
+Maintenance in a web based environment, Distributed n-tier architecture
+and Client Server architecture.
+
+Specialized in Java and J2EE technologies: Core-Java, Servlets, JSP,
+JDBC, Hibernate and Spring framework.
+
+Work Experience in designing and development of object oriented software
+applications with a wide exposure to Enterprise applications.
+
+Extensive experience in Core Java and Design Patterns.
+
+Sound knowledge of developing applications based on architectures like
+MVC architecture and Spring Framework.
+
+Adroit experience in Apache Tomcat, Weblogic, JBoss Web and Application
+Servers and IDE’s such as Eclipse and NetBeans, Logging using Log4J.
+
+Experience in working with ERP systems as Functional End user.
+
+Worked on Oracle, MySql and DB2 databases.
+
+Knowledge on HTML, JavaScript, Web-Services, XML, XSD, JMS and Wicket
+Frame Work
+
+Excellent analytical, problem solving, learning, communication skills
+and a team player.
+
+Capability of Handing Team and other Management activities.
+
+Experience (Concise):
+
+Working as Senior Java Developer in ProKarma Softech Pvt. Ltd.,
+Hyderabad from Aug 2013 to till date
+
+Worked as a Software Engineer in Verizon Data Services India Pvt. Ltd,
+Hyderabad from June 2011 to July 2013
+
+Worked as a Software Engineer in BridgeLogix Systems Pvt. Ltd, Hyderabad
+from Sep 2009 to June 2011
+
+Educational Qualification
+
+B-Tech (CSE) from K.S.R.M. College of Engineering in the year 2009,
+passed in First Class. 
+
+Technical Skills/Competencies
+
+Operating Systems:	Windows, Unix, Linux
+
+Languages:	Java, JEE
+
+Databases:	Oracle, MySql and DB2
+
+Web / Application Servers	Tomcat, JBoss and Weblogic
+
+Frameworks:	Spring
+
+ORM tools:	Hibernate
+
+IDE’s	Eclipse and NetBeans
+
+Unit Testing:	Junit, Mockito
+
+ERP Systems:	Baan, Baan4 and ERPLN
+
+Other tools	Log4j, Ant, Maven, Jenkins, MS-Office
+
+
+
+Achievements/Awards:
+
+Got Appreciations award from onsite project manager for delivering
+complex application during Weblogic migration.
+
+Projects Exposure:
+
+Project: VTI Weblogic Migration    		                                
+Aug ’13 – till date
+
+Client: Verizon Telematics Inc.
+
+Description: 
+
+           This project aims is to migrate web applications running in
+JBoss server to Weblogic server. Verizon is having telematic
+application, like StateFarm, Indrive, SendToBenz, MBrace e.t.c across
+the world. All these applications track the vehicle status, control
+vehicle functions with the help of telematic device installed in the
+vehicle. The applications code is migrated to Welogic server as it is
+offering load-balancing, clustering, high security, connection pooling
+et.c. 
+
+Responsibilities:
+
+Analyzing the code changes for Weblogic server migration
+
+Coding the Weblogic configuration changes and building the applications
+
+Checking Jboss compatibility for the original code
+
+Creating maven build profiles for Jboss and Weblogic server
+environments.
+
+Unit testing the applications with JUnit and Mockito.
+
+Deploying the applications in for Jboss and Weblogic servers
+
+Documenting the code changes done (errors-resolution) during deployments
+
+Committing the code to SVN repository.
+
+Configuring jobs in Jenkins for build and deployment 
+
+Environment: Java, Spring Framework, Hibernate, Log4j, Eclipse, Maven,
+Weblogic and Oracle DB.
+
+Project:   Voice portal  						           June ’11 – July ’13
+
+Company: Verizon
+
+Description: 
+
+                  The Voice portal is a VRU System. The portal has
+Screening, marketing, technical, outbound and routing modules. The
+Screening module takes all type of calls, screens the calls and sends
+them to appropriate portals based on caller intent. The marketing module
+takes retail marketing calls to address marketing related(Products,
+orders, delivery, bills) queries and sends them to appropriate portals
+based on caller intent. The technical module handles technical issues of
+customer, facing with the product. The routing module routes the calls
+to an agent or any Self Serve portals. The downstream portals can self
+server the caller or send to routing module. The routing engine sends
+the caller intent to “CTI, ICM, Genesis components”, to get the
+routing information. Based on the routing info calls will be routed to
+an agent or suitable SS portal. If call failed to get routing
+information, then it sends to default transfer queue. 
+
+Responsibilities:
+
+Understanding the BRDs and front end documents
+
+Implementing work requests as per the design laid out in UI document,
+unit testing the project and deploying the project
+
+Fixing the issues in prod and test environments
+
+Developing tools to test the project  (VDT)
+
+Creating build scripts to take rpm packages using tfs branch code
+
+Analysis of metrics records and calculating Hand off percentages, HO
+report generating
+
+Environment: Java, Servlets, JSP, VXML, JavaScript, Verizon Specific API
+
+TFS, VG, OSR, Sun Web server and Weblogic, DB2, Linux
+
+Project:   Virtual Dial Tool						July ’11 – Sep ’11
+
+Company: Verizon
+
+Description:   
+
+                  The NRP Virtual Dial Tool, VDT is a call simulation
+tool that produced vxml pages dynamically, it takes the caller intent /
+data, insert the data into DB, and gives request id to the user, to key
+in for simulation. It is designed based on spring MVC architecture. It
+supports three kinds of simulation 1. Using Form data, 2. Using Dynamic
+Form Data configured in properties file 3. Using production calls db
+record details. Each of the above methods will give a unique request id
+to user for call simulation.
+
+Responsibilities:
+
+Creating build scripts using ant, tfs versioning the code
+
+Taking rpm package and deploying in weblogic server
+
+Testing the NRP module using this tool.
+
+Enhancing the features to this tool as per the work requests.
+
+Maintaining backward compatibility for previous version code
+
+Environment: Java, JSP, Spring, HTML, Weblogic, TFS, DB2, Linux
+
+Project: Bridge2Barcode (B2Bar) 	                                       
+     Sep ’09 – Jun ’11
+
+Company: BridgeLogix Systems Pvt. Ltd
+
+Description: 
+
+                     The “B2BAR” is an Automated Data Collection
+System, which maintains real time data in the database. It provides
+simple bar coding solutions to warehouse users. Enable the users to
+perform complex transactions using scanners in simple manner. Automatic
+log files will be created for every scanner. The heart of b2bar is
+b2bgend and b2world services, for these services also log files
+generated. The ADCAdmin console will keep track of scanners, users,
+allowed transactions per user and main parameters for these things. The
+various inventory transactions are item inquiry, inventory transfer,
+inventory adjustment (write on or write off), sales order, purchase
+order, production order and etc. Remote scanners will be monitored using
+web scanners available on Admin console.
+
+Responsibilities:
+
+Implementing new Transactions APIs
+
+Customizing the project and enhancing the functionalities to the
+project. 
+
+Developing user interfaces using JSP. 
+
+Testing and deploying the project.
+
+Fixing the bugs
+
+Environment: Windows XP, Tomcat 5.5.x with JDK1.4 Compatible, Core Java,
+JDBC, XML, JSP, HTML, Bartender, Putty, TE2000/I-Browse (Scanner
+Emulator),
+
+Baan, Baan4, ERPLN (ERP Systems) and Bridgelogix Specific API, Oracle
+and MySql
+
+Personal Details:
+
+Full Name	Subbaiah Ganjikunta
+
+Date of birth	17-06-1987
+
+Father Name	Subbanna G
+
+Gender	Male
+
+Nationality	Indian
+
+Location	Hyderabad
+
+Marital Status	Married
+
+
+
+		Page   PAGE   \* MERGEFORMAT  1  				
+

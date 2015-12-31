@@ -1,0 +1,347 @@
+Spring:4 year& current
+
+Hibernate:4 year
+
+Web services:RESTFUL
+
+Java: 8 years
+
+Build tools: ant/maven
+
+9..8/14/60days
+
+Bhanu Pratap Singh					Postal Address:
+
+DOB: 28 July 1981.					B-211, Sector-20
+
+  HYPERLINK "mailto:Bhanu.singh007@outlook.com" 
+Bhanu.singh007@outlook.com               			Noida
+
+Cell: +91-9911685132					India, zip code - 201301
+
+Objective:
+
+To work in an organization with people who are dedicated to solve
+complex business issues and suggest as well as implement solutions.
+
+To be a part of an organization where the work is stimulated based on
+Employee Satisfaction and sound business practices.
+
+Experience Summary:
+
+I am having around 8 years of work experience in Analysis, Designing,
+Development, and implementation of Software in desktop and client/server
+environment using J2EE Technology with
+CoreJava,JDBC,JSP,Servlet,Struts1.2,Hibernate3.0,Spring2.5/3.0,JMS,jaspe
+rReport,Eclipse,NetBeans6.5,Ajax,JQuery,DWR,SQLServer2000, 2005.
+
+Design Pattern:
+
+I have experience in different design patterns, which supports
+persistence framework, improve performance and scalability, manage
+security, integrate enterprise application and enable reusability,
+maintainability and extensibility.
+
+Computer Skills:
+
+Skill Type	Skill Name	Level
+
+Framework	Struts1.2,Spring3.0 (IOC,MVC,AOP,WS,Security, ORM,DAO)	Good
+
+Architecture	MVC 2, Page centric	Proficient
+
+App. Server	Weblogic8.1,JBoss Web Sphere	Good
+
+Web Server	Tomcat 6.0	Proficient
+
+Programming	J2sdk1.6,JDBC,JSP,jstl,Servlet	Proficient
+
+Persistence Framework	Hibernate 3.0,IBatis	Good
+
+SOA	Web Service,JMS(MQ), BPEL,SCA,Apache Camel	Good
+
+Reporting Tools	Jasper Report	Good
+
+Database	SQL Server 2000,2005	Proficient
+
+Database	Oracle 10G	Beginner
+
+Deployment Tools	Maven, Ant	Good
+
+Data Transfer	XML,JAXB,XMLBean	Good
+
+Security framework	Java Cryptography	Good
+
+Deployment Tools	Putty,WinSCP,FTP	Good
+
+Repository	SVN,VSS	Good
+
+OS	Window 2000/XP,Linux.	Proficient
+
+Other	Payment gateway and SMS	Good
+
+
+
+Domain Experience:-
+
+Domain	Experience
+
+Finance	5.3 Years
+
+e-procurement	08 months
+
+Hospitality	1 Years
+
+e-learning	06 months
+
+
+
+Educational Background:
+
+Master Of Computer Application	Aug 2003 – Jan 2006	NIET,G.Noida
+
+Bachelor of Science	July 1999 – July 2002	Govt.Degree Collège, obra
+(Sonbhadra)
+
+
+
+Working Experience:
+
+1- Job Title :-Lead Consultant (java/j2ee)
+
+Company: - Genpact headstrong capital markets
+
+Job Duration :-Nov2014 to  till Date
+
+2- Job Title :-Sr.Software Developer (java/j2ee)
+
+Company: - Dell Services
+
+Job Duration :- Sep2012 to  May2014
+
+Projects :-
+
+Title:-CCT (Customer Contact Tools)
+
+CLIENT:-Hilton
+
+Duration:-Aug2013 to Till Date
+
+Software:-Java , Spring , Multithreading
+
+Role:- Developer
+
+Project Description: CCT is a browser based dashboard application which
+helps agent in booking The Property for the customer. Agent is a
+customer care representative who books property for customer through IVR
+facility. Agent could search the guest details by inputting first name,
+last name etc. On searching parameters based, application list down all
+the properties.
+
+Title: - Texas Language Arts (TxLA)
+
+Client: Houghton Mifflin Harcourt
+
+Duration:-Sep 2012 to Aug 2013
+
+Role:-Developer
+
+Software: Java, spring, Web service, Hibernate, Ejbs, Oracle 10G.
+
+Project Description:
+
+The Texas Language Arts program aims to provide an innovative print and
+digital language arts program that is focused on the key customer
+technology needs. This digital program will offer one log in for each
+student and teacher and provide a system with defined student and
+teacher portals which facilitate seamless a navigation path between the
+key teacher and student digital aids such as Assignments, Class
+Management, Net Text and the Grammar Snap.  One of the key intentions
+of the project is to provide a 21st Century look and feel to reflect the
+characteristics of the changing teacher student demographic and digital
+user styles.
+
+3- Job Title:-Sr.Software Developer (java/j2ee)
+
+Company: - Birlasoft (India) Ltd D–195, Sector 63,NOIDA 201306.
+
+Job Duration:-April 2011 to Aug 2012
+
+Job Profile:-I am member of software development team in the company.
+
+Company Profile: - Birlasoft (India) is ISO 9001:2000 and SEI CMM Level
+5 Company.
+
+Projects :-
+
+Title :-iFleet
+
+Role :-Developer
+
+Duration:-May 2012 to Aug 2012
+
+Software:-Spring MVC, Spring DAO,GWT,Oracle 10G,Jboss,WebService
+
+Description :-The Application is use to sell the terminate Vehicle
+through different channel like stock list, Dealer, E-Bidding and
+occasion channel.
+
+Title :-FileNet (Content Engine Developer)
+
+Role :-Developer
+
+Duration:-October 2011 to March 2012
+
+Software:-Spring MVC, iBatis, Oracle 10G,Web Sphere, JMS, XMLBeans,JMS
+
+Description :-I have migrated FileNet 3.5 to FileNet 4.5.This is a
+Middleware application which is communicating to FileNet server to
+insert,delete and update the document.
+
+Title :-Siebel Interface
+
+Role :- Developer
+
+Duration:-May 2011 to September 2011
+
+Software :-Spring MVC,Spring Web Flow, Spring Web Service, iBatis,
+Oracle 10G,
+
+Web Sphere, JMS,XSLT, XMLBeans, JMS
+
+Description:-
+
+The project description is given below:-
+
+IAR:-This application is directly communicate to DocGen web service to
+create the
+
+Document.
+
+FileNet 3.5:-This is used to manage the content.
+
+Extranet:-This application is using to manage the inbound and outbound
+Siebel request.
+
+Siebel Pace:-This application is using to communicate the Pace and
+provide the information on basis of search criteria.
+
+4- Job Title :-Sr.Software Developer (java/j2ee)
+
+Company :-C1 india,C-104 sector-2,Noida
+
+Job Duration :-Sep 2010 to April 2011
+
+Job Profile :-I am member of software development team in the company.
+
+Company Profile :-c1 india is ISO 9001:2000 and SEI CMM Level 5
+Company.
+
+Projects :-
+
+Title :-CMS
+
+Role :-Developer
+
+Duration:-Sep 2010 to April 2011
+
+Software :-Spring MVC, Spring ORM, Hibernate, Sql server 2000, Apache
+Tomcat 6.0	
+
+Description:-This project is using for Manage the Tender Based Document
+.This Application is part of some other application. We are importing
+the data from some other Application to this application. There is a
+background job which is running and automatic Import the data to this
+application.
+
+5-Job Title:-Software Developer (java/j2ee)
+
+Company :-Excel Net Solution Pvt Ltd, South Ex-2, New Delhi
+
+Job Duration :-Nov 2006 to August 2010
+
+Job Profile :-I am member of software development team in the company.
+
+Company Profile :-Excel Net Solution Pvt Ltd is a Delhi based Software
+Development Company  Working in financial Domain. It is operations since
+1992, with an objective of  providing Software solutions for Financial
+Service Companies. Based in New Delhi & Mumbai in India, we are serving
+clients across over 60 cities all over India. More Information Please
+visit Company
+
+WebSite : -http://www.investwellonline.com
+
+Projects :-
+
+Title:--AMC online Buy and sell
+
+Role :-Developer
+
+Description :-This Project are used to purchase AMC through payment
+Gateway. This Software is directly connect to broker web site. Client
+login through broker web site and Purchase, Sell, Switch and view
+report. There are Various report like transaction statement, Portfolio
+Summary, Capital gain, top Performing fund, current holding report and
+lot of other report.
+
+Software :-Struts ,Spring Jbdc template,Japser report,iText,JFree Chart
+,
+
+SQL Server 2000
+
+Responsibilites :-Design,coding,client handling
+
+Title :-Investonline
+
+Role :-Developer
+
+Description :- This project are use to purchase the mutual fund online
+through Payment gateway. Client simply registers online simply fill the
+online form. After register the client then this client is purchase the
+mutual fund in specific bank which is mention in at a time in
+registration. Also view transaction Detail, and various level of report.
+
+Software :-Struts,Hibernate,Spring, jsp, iText, Apache Poi, jfree
+Chart.
+
+Responsibilities :-Software analysis,coding,Client handling and
+deployment.
+
+Web sites :-www.investonline.in
+
+Title :-Investwell
+
+Role :-Developer
+
+Description :-This branch-based application facilitates investment in
+mutual fund, private bond, government bond and portfolio of brokers and
+clients. It also provides many online data such as NAV, dividend, and
+fact-sheets of different schemes that helps in investment and reports in
+tabular as well as graphical format.
+
+Software :-Struts, jsp,servlet, Jasper Report, iText, Apache Poi, jfree
+Chart.
+
+Responsibilities :-Software analysis,coding,Client handling and
+deployment.
+
+Web sites :-www.investwell.in
+
+Title :-InvestwellGold
+
+Role :-Developer
+
+Description :-This is a branch wise Mutual fund Software. This project
+are Use for manage the Portfolio in branch wise. There are various level
+of login, Branch, Broker, RM, Executive, Franchise, Sub broker,
+grplead.The Feature of this project are upload file from Register like
+Campus,Karvy and View portfolio like MIS Report, Portfolio Summary,
+Portfolio Performance, Brokerage,Sip,FD etc as well as Latest Nav,
+calculator Sip, calculator STP,SWP Calculator, Scheme Performance,AVM
+Report etc.
+
+Software :-Jsp,Servlet,java Bean,SQL server 2000,iText,Apache Poi.
+
+Responsibilities :-Software analysis,coding,Client handling and
+deployment.
+

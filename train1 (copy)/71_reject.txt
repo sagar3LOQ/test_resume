@@ -1,0 +1,256 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                 -  2 year 
+
+Spring                  
+                                 - 2 Years
+
+Web
+Services                                
+       -  1 years  &
+current                                �
+�             
+
+Core
+Java                                  
+            -  4.5 year                
+
+Design
+Patterns                                
+   -   singleton
+
+UML
+design                                 
+         -   
+
+Build Tools (Maven/Ant)                   -   
+Maven/Ant   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Tomcat/jboss/eclipse
+
+8.6/10/45days
+
+DB:oracle
+
+Monday ready
+
+RAJESH REDDY.S.                                                         
+                                                     HYPERLINK
+"mailto:s.rajesh1230@gmail.com" s.rajesh1230@gmail.com                  
+                                                   9959595145,
+9966116500
+
+													
+
+EXPERIENCE SUMMARY
+
+                      
+
+4 yrs of experience in developing java based projects by using my
+technical knowledge.
+
+Currently in the role of Software Developer by following agile
+methodology in the current project.
+
+Responsible for the designing of the static and dynamic web pages and
+navigations for the projects done on the platforms of wicket, spring
+JDBC, struts and JSP.
+
+Developed the Action classes, respective Services and DAO’s for the
+functionality to run according to the requirements.
+
+Designed, accessed and maintained the Data Base with suitable SQL
+queries with MySql and Oracle in backend.
+
+                                                      
+
+PROFESSIONAL CHRONICLE
+
+April, 2014 – Till Date             Modeln N India Pvt., Ltd
+
+June, 2012 – March, 2014     Prokarma Softech Pvt., Ltd, Hyderabad
+
+May, 2011- June, 2012	       Mahaveer Info Way Ltd., Begumpet,
+Hyderabad.
+
+EDUCATION
+
+M-TECH	        :  SE from Sree Kavitha Engineering College affliated to
+JNTU,HYDERABAD, in 
+
+2009-11 batch , with an aggregate of   79.7% .                          
+    
+
+TECHNICAL EXPERTISE
+
+Programming Languages: Java (core & advanced), Wicket 1.4.17.
+
+Frameworks: Struts2.0 &1.2, Spring JDBC, Dozer bean mapper, Mockito. 
+
+Databases: MySQL 5.0, Oracle 10g.
+
+Packages: Microsoft office
+
+Operating Systems:  Windows XP
+
+PROJECT DETAILS
+
+April 2014 – Till Date
+
+Hi-Tech Revenue Management System
+
+Description
+
+	This is a 15 yr old product being enhanced in regular intervals with
+different versions. This deals with problems of revenue leakage in
+companies like J&J, HP, CTC, ST Micro, NXP etc., This product handles
+discount prices on some limited quantity of product for certain period
+were properly validated or not. If not, how to overcome those losses and
+maintain company revenue in profit.
+
+ Technologies Used : Java, Oracle
+
+Frameworks Used : HiTech Framework(Specially designed for this product)
+
+Responsibilities : 
+
+Evaluating existing customer problems and providing alternative
+solutions if possible.
+
+Running the functionality through the respected java classes.
+
+Resolving defects raised by QA by proper analysis and specifications.
+
+July 2013 – March 2014
+
+Discipline Document Management
+
+Client: UPRR(Union Pacific Rail Road), USA
+
+Description
+
+	This project deals about the employee discipline, regulations,
+terminations, resignations and maintenance of their behavior throughout
+their employment in organization. The project is mainly categorized into
+3 major modules namely Administrators, Delegators and co-ordinators.
+Depending upon the roles assigned, an employee of that organization will
+have privilege to act accordingly.
+
+ Technologies Used : Wicket 1.4.17, Java, Oracle
+
+Frameworks Used : Wickola 2.4, Dozer bean mapper, Spring JDBC 3.0,
+Oracle 10g, 				Hibernate 3.6, Activity Workflow.
+
+Responsibilities : 
+
+Designing the UI
+
+Running the functionality through the respected java classes and wicket
+scripting .
+
+Writing service logic and DAO classes along with respective queries.
+
+Writing XMF webservices to connect to other application services for
+information required. 
+
+June 2012 – July 2013                                                 
+                                                                        
+     PowerLaw
+
+Client: UPRR (Union Pacific Rail Road), USA
+
+Description 
+
+This project deals about Insurance Claiming and Judicial Investigation
+Process. In this project user can save the information of a Claim and
+track its progress, can search for the desired Claims, can view the
+details of the Payments or Settlements made for that claim etc.
+
+Technologies Used : Wicket 1.4.17, Java, Oracle
+
+Frameworks Used : Wickola 2.4, Dozer bean mapper, Spring JDBC 3.0,
+Oracle 10g  
+
+Responsibilities : 
+
+Designing the UI
+
+Running the functionality through the respected java classes and wicket
+scripting .
+
+Writing service logic and DAO classes along with respective queries.
+
+Dec 2011 – May 2012                                                   
+                                                                        
+               PaniSMS                                                  
+                                                                        
+         Client: PGC InfoTech pvt., Ltd.
+
+Description
+
+ The objective of the project is to build up the gap between the
+employers(Eg:-construction companies, Factories, Industries etc.,) and
+employees(Eg:-Coolies, Electricians,Plumbers etc.,) who work for the
+daily wages in different sectors .  It has to maintain the complete
+details of paid employers, free employers and registered job seekers.
+Depending upon the requirements of employers, every day morning at
+7.30AM a message or voice mail has to be delivered to the respective
+jobseekers mobile depending on his locality.
+
+Technologies Used 	: Flex, jsp's, servlets, collections, MySql.
+
+Frameworks Used : Flex, Struts, Hibernate. 
+
+Responsibilities	: 
+
+Designing the Flex pages
+
+Running the functionality through the action classes, services, DAO’s
+and suitable SQL queries.
+
+Creating the reports of  tele callers, job seekers and employers and
+exporting them into en excel sheets.
+
+May 2011 – Dec 2011                                                   
+                                                       Noodle.com       
+                                                                        
+                          Client: Noodle Insurane Group, USA        
+
+Description 
+
+ It is an insurance organization for the owners of any commercial
+buildings and flats. The owners insure with monthly investments in the
+organization to secure themselves from the sudden tenant fall out of the
+building, before the completion of the bond period. In those cases this
+insurance group will repay the amount to owners that have to be paid by
+the tenants till the bond period. We automated this process with a site
+with complete calculations required for the noodle group.
+
+Technologies Used 	: Struts, Ajax, JSON, Java Script, MySql
+
+Responsibilities	:
+
+Designed the web pages and created the functionality for them with
+proper java classes like actions, DAO’s and services.
+
+Designed the database with the required tables and connectivity’s in
+between them.
+
+Responsible for making the Ajax calls.
+
+Declaration:
+
+	I hereby declare that the above mentioned details /particulars are true
+to the best of my knowledge and belief.
+
+Place:
+
+Date :									(S.RAJESH REDDY)
+
+.
+

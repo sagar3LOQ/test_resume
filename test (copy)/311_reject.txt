@@ -1,0 +1,222 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                  -  1
+year                                  
+              
+
+Spring                  
+                                  - 
+2years    &
+current                                �
+�          
+
+Web
+Services                                
+        - 
+knowledge                               �
+�               
+
+Core
+Java                                  
+             -  2.5years
+
+Design
+Patterns                                
+    -    singleton/factoey
+
+UML
+design                                 
+          -    
+
+Build Tools (Maven/Ant)                    -   
+Ant/Maven 
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Weblogic/jboss/tomcat/eclipse/RAD
+
+DB: oracle
+
+Surisetty Neeraja
+
+Email:   HYPERLINK "mailto:neerajasurisetty@gmail.com"
+neerajasurisetty@gmail.com 
+
+                                                                        
+                                                      Contact No:
+9533108118 
+
+ 
+
+Career Objective:
+
+		To seek a position that is challenging, rewarding and technically
+sophisticated, where I can focus on effectively  by contributing my
+knowledge and skills for the growth of the organization as well as
+myself. 
+
+Professional Summary:
+
+2 year 3 months experience in JAVA,J2EE Technology.
+
+Exposure to Software Development, Coding and Web Designing and
+Development.
+
+Flexibility to handle multiple projects concurrently. 
+
+Professional Experience 		
+
+Company Name:  Prokarma Softech Pvt Ltd.
+
+Role: Junior Software Engineer
+
+Project Title:  “Car Repair Billing”
+
+     Customer:  Union Pacific Rail Roads [UPRR]
+
+Description: This project is  aimed  to implement an offline  and online
+systems to maintain billing reports of the repairs performed on the
+trains.  This web application will used by all the workers.
+
+Role:  Team Member(Developer)
+
+     Team Size:  4
+
+Technology:  Wicket framework, JavaScript, JQuery, HTML5, webservices,
+Spring 3.0, Oracle 10g, JBoss.
+
+Responsibilities:  
+
+Involved in developing pages as per business requirements.
+
+UI/Business validations  for owned use cases
+
+Testing (unit and integration) for owned use cases.
+
+Project Title: “Damage and Defect Car Tracking System” 
+
+     Customer:  Union Pacific Rail Roads [UPRR]
+
+Objective: The project helps in mostly implementing the communication
+link between the repair shops and workers for mechanical status of the
+trains, involves automatic email reporting process. 
+
+Team Size: 3
+
+Role:  Team Member(Developer)
+
+Technology: Wicket, JavaScript,  JQuery, webservices, Spring, Oracle
+10g, WebLogic
+
+Responsibilities:  
+
+Involved in developing pages as per business requirements.
+
+ UI/Business validations for owned use cases
+
+Testing (unit and integration) for owned use cases.
+
+Project Title:  “Car Task  Closeout”
+
+     Customer:  Union Pacific Rail Roads [UPRR]
+
+Description: This project is  designed  in 2 modules  Close Task,
+Dynamic  Query. Each module  has  independent uses and  implemented 
+with a portability  to integrate with other projects. 
+
+Close Task: UI interface to make settlement for repair performed, where
+each repair is named with a task name. This  module  is  integrated with
+a C++ project.
+
+Dynamic Query : Creates, Executes, and verify the results  of query
+build dynamically  through the UI screens  provided  which are designed 
+robustly to create a any complex queries  just by selecting options on
+screen.
+
+Role:  Team Member(Developer)
+
+     Team Size:  4
+
+Technology:  Wicket framework, JavaScript, JQuery, HTML5, webservices,
+Spring 3.0, Oracle 11g, JBoss.
+
+Responsibilities:  
+
+Involved in developing pages as per business requirements.
+
+UI/Business validations  for owned use cases
+
+Testing (unit and integration) for owned use cases.
+
+Involved in analyzing  application  free from vulnerabilities,  by using
+ application security software's  for each every enhancements.  
+
+Technical Skills:
+
+Programming Language:	J2SE,J2EE(Spring,Hibernate,Servlets,Jsp)
+
+Tools:				Ecllipse, Rational Application Developer(RAD)
+
+Application Server:		Websphere, WebLogic, Jboss
+
+Scripting Languages:		javascripting, UNIX shell programming
+
+OS Environment:		Windows 
+
+Database Systems:		SQL,DB2,Orace 10g
+
+Web Technologies:		wicket framework, HTML5,JQuery,Ajax,CSS.
+
+Education Details:
+
+B.Tech (CSE) JNTUK, Sasi Institute of Technology & Engineering College,
+2012, 77.87%
+
+Intermediate (MPC) BIE, Sri Chaitanya Junior College (Vijayawada), 2008,
+89.1
+
+SSC BSE, Kennedy High School(Vijayawada), 2006, 83.83
+
+Achievements:
+
+Obtained prize during company training program for presentation skills.
+
+4th year academic project was selected for IBM TGMC-2010 contest.
+
+Obtained 1st prize as the department topper in the B.Tech 1st  year and
+B.Tech 4-1.
+
+Obtained 1st prize in the poster presented on ‘Biometircs’ at GITE
+on 2010.
+
+Extra Curricular Activities:
+
+Represented our college in the JNTUK  sports competition for Throw Ball
+Team held at Sri Vishnu College of Technology and Engineering in (3year
+B.Tech)
+
+Achieved the NCC cadets certificate-A in 2005 .
+
+Personal Particulars:
+
+Name:			Neeraja.S
+
+Date of Birth:		21-01-1990
+
+Languages known:	English,Telugu
+
+Permanent Address:	3-641/1,  UndavalliCenter,  Tadepalli, 
+Guntur-522501,AP
+
+					                           
+
+	I hereby declare that the above mentioned details are true to the best
+of my knowledge and belief.
+
+PLACE: Hyderabad
+
+DATE: 	4/01/2014									(Neeraja.s)
+

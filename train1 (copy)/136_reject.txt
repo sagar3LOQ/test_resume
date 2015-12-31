@@ -1,0 +1,254 @@
+Swami L
+
+Email:   HYPERLINK "mailto:swami.lingala80@gmail.com" 
+swami.lingala80@gmail.com  , Phone: +91-9550345629
+
+Professional Summary 
+
+6.8-years of experience in developing Web based, Internet/Intranet
+Applications using Java and J2EE Technologies.
+
+Experience in J2EE application development using Servlets, Jsp and EJB.
+
+Experience in using Struts, JSF and Hibernate.
+
+Experience in using IBM Portlets, Chordiant.
+
+Experience in Web-Services.
+
+Experience in using various web/application servers like Apache Tomcat, 
+
+BEA Web Logic, WebSphere, WebSphere portal server.
+
+Good Exposure in Health Insurance, Finance and banking domain.
+
+Experience in Production support.
+
+Strong programming skills with good understanding of Java language.
+
+Exceptional ability to learn new technologies and to deliver outputs in
+short deadlines.
+
+Educational Qualification
+
+MCA from Osmania University.
+
+Experience
+
+      
+
+Working as a “Senior Software Engineer” at Kony IT Services Pvt Ltd,
+Hyderabad from August 2013 to Till Date.
+
+Worked as a “Senior Software Engineer” at CGI Information Systems,
+Hyderabad from April 2010 to August 2013.
+
+Worked as a “Software Engineer” at Larsen & Toubro Infotech Ltd,
+Mumbai from December 2007 to March 2010.
+
+Technical Skills
+
+Language	 Java
+
+J2EE Technologies	Jdbc, Servlets, Jsp, EJB
+
+Framework	Struts, JSF and Hibernate
+
+Web Technologies	HTML, JavaScript, xml
+
+Web/Application Server		Tomcat, weblogic, WebSphere and WebSphere portal
+server  
+
+IDE	RSA, WSAD, RAD and Eclipse
+
+Databases	Oracle, DB2
+
+Operating System	Windows 8/ XP /2000
+
+Configuration Tools	Clear case, VSS, SVN
+
+
+
+Certification:
+
+                    PAHM (Professional Academy for Healthcare
+Management)
+
+Project Details:
+
+  Project  # 1	TMB Retail Banking
+
+Client	TMB
+
+Company	Kony IT Services PVT LTD
+
+Duration	Sep 2013 – till date
+
+Role	Developer
+
+
+
+Responsibilities	    
+
+Involved in analysis of user requirements.
+
+Involved in Coding.
+
+Involved in Defect fixing.
+
+Involved in CR.
+
+Involved in unit testing
+
+Involved in preparation of  UTC and UTR documents
+
+
+
+Technology	Java, Servlets, JavaScript, JSON, Eclipse and Tomcat Server.
+
+Description	The goal of the project is to develop a Mobile and desktop
+web application for TMB (Thailand Military Bank) by using KonyIDE.
+Developed the banking applications for Mobiles multiple devices like
+Android and  iPhone, Desktop web and SPA(Single Page Application)
+
+
+
+
+
+  Project  # 2	Image Plus
+
+Client	CIGNA 
+
+Company	CGI
+
+Duration	July 2012 – till date
+
+Role	Developer
+
+
+
+Responsibilities	
+
+Involved in Analysis of ADS and preparation of PGS documents for SRs and
+Migration projects.
+
+Involved in Coding.
+
+Involved in unit testing.
+
+Involved in preparation of DOU, UTC and UTR documents
+
+Involved in Estimates
+
+Involved in Reviews
+
+Involved in Production support
+
+
+
+Technology	Java, Struts, JSP, DB2, WSAD, UNIX 
+
+Description	Image plus is a desktop application used by the claim
+services operations of Cigna Healthcare for logical work distribution
+and inventory management (similar to work flow engine). iTrack uses RBAC
+(Role Based Access Control) mechanism to authenticate users and restrict
+the functions that can be performed by them. It comprises of batch and
+online applications.
+
+
+
+.	
+
+Project  # 3	Oneview
+
+Client	CIGNA 
+
+Company	CGI
+
+Duration	April 2010- June 2012
+
+Role	Developer
+
+
+
+Responsibilities	
+
+Involved in Analysis, Design and development of the Appeals, CNR CHU
+Correspondence. 
+
+Involved in development of Correspondence Interim Solution
+
+Involved in development of Manage Workgroups (Added new attribute
+PrimaryBusinessUnit).
+
+Involved in development of Manage Agents.
+
+Involved in development of adding new grid for displaying correspondence
+recipient details.
+
+Involved in development of the Routing Rules and Correspondence Alerts
+in Admin Portlet.
+
+Involved in 5010 project
+
+Involved in Bug fixing.
+
+Involved in unit testing.
+
+Involved in preparation of UTC and UTR
+
+
+
+Technology	Java, JSF, Portlets, Servlets, JSP, Hibernate, AJAX, JSON,
+WebServices, DB2, Web sphere, Portal Server, RSA. 
+
+Description	The goal of the project is to deliver a desktop application
+for CIGNA customer service Agents (CSAS) to deploy across multiple lines
+of business. Where lines of business Medical, Dental, CBH (Cigna
+Behaviour Health) and Pharmacy. The primary business need for Oneview is
+improving the efficiency and effectiveness of CIGNA call center this
+will accomplish through updating and improving the desktop technology.
+
+
+
+
+
+Project  # 4	Sungard Kiodex Risk Work Bench
+
+Client	L & T Treasury
+
+Company	L&T Infotech
+
+Duration	February 2008 – March 2010
+
+Role	Involved in analysis of user requirements.
+
+Involved in developing of front-end application.
+
+Involved in bug fixing
+
+Preparation of the documentation.
+
+Code review.
+
+Involved in unit testing.
+
+
+
+Technology	Java, Jsp, Struts,EJB, Oracle, Eclipse, Tomcat  
+
+Description	Larsen & Toubro Ltd. (L&T), a US$ 4 Billion Conglomerate, is
+a leader in core sectors of the economy and is emerging as a major
+global player in executing turnkey projects. The Central Treasury Dept.
+of L&T, one of the largest corporate Treasuries, is responsible for
+funding requirements and doing risk management for L&T. L&T Treasury is
+currently using SAP CFM Module for their trading and back office
+operations. As part of Treasury's initiatives, they have identified
+Sungard Kiodex, as a potential system to address their International as
+well as domestic commodities
+
+
+
+                                                                        
+                                                                 
+

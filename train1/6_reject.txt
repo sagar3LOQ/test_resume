@@ -1,0 +1,441 @@
+Spring: 3,5 year
+
+Hib: 4 year
+
+Web services: 4.5 year
+
+Uml design: have worked
+
+Build tools: Maven
+
+
+
+9.8/13/90days
+
+
+
+
+
+                                                             <Santosh Kumar>
+
+
+
+Email: santosh178_cvrce@yahoo.com                                                 Present Address:
+
+Mobile No:  +91-7022376173, +91-9481325660                                   Santosh Kumar
+
+                                                                                                                #78,1st Main, 2nd Cross
+
+                                                                                                                MG Palya, Bangalore-560068
+
+
+
+  		
+
+Technical Summary
+
+Software professional with 5.8 years of in-depth experience in design and development of software applications across various industries, which includes Java, J2EE, Design Pattern, MySQL, WebService (REST) Possess basic understanding on framework involving Hibernate, spring. An excellent team player and possess good communication, analytical, problem-solving and inter-personal skills.
+
+Professional Summary:
+
+Total Experience: - 5.8 Years (Sep 2009 – till date) 
+
+
+
+Current Working Organization:
+
+Velankani Software PVT LTD, Bangalore as Senior Software Engineer. Duration: 2nd SEP 2013 to Continue.
+
+
+
+Previous Organization:
+
+SIEMENS Industry Software (India) PVT LTD, Pune as Software Product Consultant. Duration: From 2nd JAN 2012 to 31st AUG 2013.
+
+Wipro Technologies Ltd, Pune as Software Engineer. Duration: From 22nd SEP 2009 to 28th DEC 2011.
+
+Client Location (On Site) Experience: 
+
+Client: Cisco System India PVT LTD Duration: AUG14 to Continue
+
+Skill Set:
+
+Education: 	Bachelor of Technology (B.Tech.), in Mechanical Engineering
+
+Language:	Java, Design Pattern, Shell Script (Basic)
+
+Database:	MySQL
+
+Web Technology:	Servlet, JSP, WebService (REST)
+
+Framework:	Hibernate , spring
+
+Application Servers:	Jboss App Server
+
+IDE’s / Tools/Product:	Eclipse, SQL Developer, Adobe Dreamweaver CS6, Wireshark, Fiddler and Firebug.
+
+
+
+Experience
+
+Cisco Prime Network [Client: Cisco
+
+Employer: Velankani Software PVT LTD]: Cisco Prime Network is a product of Cisco that provide comprehensive and cost-effective device operation, administration, and network fault management solution for complex networks. 
+
+ Assignments included:
+
+Analysis of requirement Doc, discuss with Product manager.
+
+Prepare prospectus and DFS (Detailed Software Functional Specification) Doc of module that need to develop. 
+
+Get approval of Product manager on prospectus and DFS.
+
+Install and configure Prime Network on VM.
+
+Distribution of action item in team, monitor progress of development and delegate the same to Product manager in scrum call.
+
+Do individual contribution in development of module.
+
+Do Bug analysis and investigation.
+
+Configure required Device with need full configuration to reproduce bug.
+
+Fix Bug and test fixes on Local Prime Network.
+
+Check in code in Clear Case (Central Repository).
+
+Environment: Java, Prime Network 4.2.2(Cisco NMS/EMS Product)
+
+Technology: MPLS, MPLS-TE, MPLS-TE-FRR
+
+
+
+
+
+HPE Portal Development [Client: Tata Communication LTD, USA
+
+Employer: Velankani Software PVT LTD]: HPE Portal is used to integrate various NMS at one place. HPE Portal supports various features such as Use administration using LDAP, SSO (Single Sign On), SSL (Secured Connection). 
+
+Assignments included:
+
+Analysis of requirement Doc, discuss with project manager and give suggestion on Feasibility of requirement. 
+
+Install HPE Portal (enPortal) at Local and DEV environment. 
+
+Implement User management (User/Role/View Set).  
+
+Integrate various web applications with HPE Portal (enPortal) 
+
+Implement Single Sign on (SSO), Single sign out and session restoration.
+
+Implement cookies and session management. 
+
+Integrate LDAP with HPE Portal (enPortal) 
+
+Configure LAF (Look and Feel) on MNO basic. 
+
+Configure SSL (secure connection) for HPE Portal (enPortal)  
+
+Develop User manual and Installation document. 
+
+Build Project and Deploy on Preproduction environment.
+
+Provide maintenance support in term of Bug fix.
+
+Environment: MySQL, REST Web Service, Java, Hibernate, Spring, RHDS and enPortal 5.3.
+
+
+
+
+
+Teamcenter Active Workspace [Client: Siemens Industry, USA
+
+Employer: Siemens Industry Software PVT LTD]: This is enterprise based application that makes Teamcenter more usable, faster and independent of browser layout.
+
+Assignments included:
+
+Involved in understanding of Requirement and find out all possible solution to full fill client requirement.
+
+Created low level design of application and discuss on this with Solution Architect.
+
+Responsible for creating and implementing algorithm/Execution Logic of application.
+
+Responsible to perform unit test on DEV environment.
+
+Environment: Java, Hibernate, REST Web Service, GWT, JavaScript, CSS
+
+
+
+
+
+Next Generation Architecture Engineering [Client: Daimler, Germany
+
+Employer: Siemens Industry Software PVT LTD]: This is OXDB (Oracle XML DB) based application which creates delta computation in GMS process chain to improve performance of Data Migration process chain. 
+
+Assignments included:
+
+Involved in understanding of Requirement and find out all possible solution to full fill client requirement.
+
+Developed design doc and share it with client.
+
+Developed application according to approved design doc.
+
+Registere and upload TCXML Scheme in Oracle Table.
+
+Identified GSIdentity that doesn’t exists in the TC database/ GSIdentity exists in TC database, but the last modified timestamp differs from the timestamp in PPOM_OBJECT Table.
+
+Created xml delta file of Identified GSIdentity.
+
+Environment: Java, OXDB, SQL, XML, XSD.
+
+
+
+
+
+
+
+Siemens Energy – Duisburg Migration [Client: Siemens Energy, Germany
+
+Employer: Siemens Industry Software PVT LTD]: Integrate Siemens Energy Duisburg site with GloBus. This is Teamcenter migration project in which data is migrated from Teamcenter engineering to TCUA. 
+
+Assignments included:
+
+Responsible for Installation and configuration of the migration servers and utilities.
+
+Involved in monitoring the migration process.
+
+Responsible for error analysis and investigation of the failed objects. Fixing the failed objects.
+
+Developed Java utilities to enhance performance of fixing.
+
+Developed DML and DDL SQL statements for report generation and failure fixes.
+
+Environment: Java, Hibernate, REST Web Service, JMS, TCGS (Teamcenter Global Service).
+
+
+
+
+
+
+
+SFR, BA06 [Client: SFR, France
+
+Employer: Wipro Technology LTD]: This is a telecom project in which there are 3 palier in each year. Client gives the requirement according to business policy change on palier basis. 
+
+Assignments included:
+
+Prepared SFD (Functional Document) on the basis of requirement and get approval of client on prepared SFD.
+
+Developed application on basis of approved SFD to full fill requirement of client.
+
+Develop Java code on basis of approved SFD to full fill requirement of client.
+
+Involve in testing of developed application on Local and DEV environment.
+
+Deploy application on Production Environment.
+
+Responsible for configuration application server (Jboss App Server) on DEV and Local Environment.
+
+ Provide on-call support of previous Palier.
+
+Configured pre-production environment from Scratch.
+
+Environment: Java, JSP, Web Service(REST), Hibernate 3.6, spring, Shell Script, JMS, Jboss App Server
+
+
+
+AVIVA UK Life [Client: AVIVA, UK
+
+Employer: Wipro Technology LTD]: This is Insurance Project. Application contains different type of Insurance Policy and each Policy has its specific approval / Rejection and Execution step. 
+
+Assignments included:
+
+Responsible for understanding of Use Case documents for the services and clarified the doubts with design team.
+
+Involved in service setup in local machine and perform the development work.
+
+Major part of Development :
+
+Create and maintained WPS services based on BPEL.
+
+Create and maintained JDBC Adapter for Batch run. In this I create JDBC Inbound Adapter and JDBC Outbound Adapter.
+
+Developed Java application for Policy Approval / Rejection and Policy Validation.
+
+Responsible for test application on Local and DEV environment.
+
+Responsible for Check-in the code in CVS repository.
+
+Environment: Java, Hibernate, JSP, Java Script, HTML, CSS
+
+
+
+
+
+Classification
+
+Technology
+
+Name
+
+Santosh Kumar
+
+Father’s name
+
+Indra bhusan PD Singh 
+
+Sex
+
+Male
+
+Nationality
+
+Indian
+
+Permanent Address
+
+C/o – Indra bhusan Singh, Lohia Nagar, Suhird Nagar, Begusarai, Bihar. Pin-851101
+
+
+
+Current Address
+
+Santosh Kumar, #78, 1st Main, 2nd Cross, MG Palya, Bangalore-560068
+
+ 
+
+Classification
+
+Technology
+
+Name
+
+Santosh Kumar
+
+Father’s name
+
+Indra bhusan PD Singh 
+
+Sex
+
+Male
+
+Nationality
+
+Indian
+
+Permanent Address
+
+C/o – Indra bhusan Singh, Lohia Nagar, Suhird Nagar, Begusarai, Bihar. Pin-851101
+
+
+
+Current Address
+
+Santosh Kumar, #78, 1st Main, 2nd Cross, MG Palya, Bangalore-560068
+
+  Personal Detail:
+
+Educational Details:
+
+
+
+Degree
+
+College
+
+University/Board
+
+Year
+
+Marks (%)
+
+B.Tech
+
+C.V.R.C.E , Bhubaneswar, Orissa
+
+B.P.U.T , Orissa
+
+2008
+
+70.3%
+
+12th
+
+Gossner  College
+
+JIEC, Ranchi
+
+2002
+
+64.8%
+
+10th.
+
+R.N.H.S , Samastipur
+
+B.S.E.B , Patna
+
+2000
+
+75%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Passport Details:
+
+		
+
+Passport Number
+
+H3323391
+
+Place of Issue
+
+Patna
+
+Issued on
+
+27.01.2009
+
+Validity	
+
+10 Years
+
+PAN Number
+
+AVQPK2236D
+
+
+
+
+
+
+
+
+
+ Declaration:
+
+ I hereby affirm that the information provided in this document is accurate and true to the best of my knowledge.
+
+Date: 25th May 15
+
+Place: Bangalore                                                                                                            Santosh Kumar

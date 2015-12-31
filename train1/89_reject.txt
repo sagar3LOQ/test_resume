@@ -1,0 +1,639 @@
+Mobile: +91 9494770007                                                                                                                          Email: rajashekharathota@gmail.com
+
+RAJASHEKHAR ATHOTA
+
+Mobile: +91 9494770007						                Email Address: rajashekharathota@gmail.com
+
+
+
+Technical Lead – Product Engineering, ProKarma, Hyderabad
+
+- UI Design & development 				- Programming				- Unit Testing
+
+- Training                       				- Research				- Best Practices
+
+
+
+Career Highlights
+
+Around 8.5 years of Enterprise level product development experience which includes 3.5 years as Technical Lead experience.
+
+Expertise in Product development in agile methodology and tools research to simplify the development process.
+
+Worked on most of the areas of product development like high level, detailed design, product integration, core programming, code reviews & prototype.
+
+Possess excellent interpersonal, analytical, trouble shooting and team building skills with proven ability in establishing quality systems/procedures and planning/managing resources.
+
+Extensively worked on UI technologies like (HTML/HTML5 with JavaScript, Jquery, AngularJS, Flex with ActionScript, CSS) and have good experience in Java, Spring, Hibernate, JSP, Servlets.
+
+Proven performer and have consistent career growth in all aspects from the date of joining to till date.
+
+Skilled in designing and developing J2EE applications using AngularJS / Jquery / HTML5 / Flex / CSS as UI interface. 
+
+Worked on parallel product development, leading teams to reach the goals within stipulated time with good quality by providing technical and operational inputs.
+
+Certified internal trainer in ZETA for UI technologies and best practices.
+
+
+
+Current Role & Responsibilities (Role: Technical Lead)
+
+Technology, Product domain, Development
+
+
+
+Technology: Building the same/improved UI by using HTML5, JQuery, Spring from the existing product which was developed using Flex & ActionScript and also responsible for selection of the tools, functionalities and services available to speed up the development cycle. Understand the business requirement and the need the product meets.
+
+Product Research & Innovation:  Responsible for evaluating and identifying gaps in the technology & product features and functionality. Responsible for conceptualizing, researching and building solutions for future business needs.
+
+Development Process: Collecting requirement from the existing product as well as from HLDs, prioritize and maintain product feature enhancement plan. Responsible for every aspect of the development process in the technology, domain, how to do it, how long it takes, best practices, etc. Responsible to guide and train new members in all aspect of the product development.
+
+
+
+Education 
+
+Master of Computer Applications (MCA) from Madurai Kama raj University (MKU) in Distance Mode.
+
+Bachelor of Commerce & Computer Applications (B.Com (CA)) From Osmania University in Regular Mode. 
+
+
+
+Key Skills
+
+Strong Coding and Training Skills in Java, J2EE [JSP, Servlet, Spring, Hibernate, JDBC], Angular JS, JQuery, HTML5, CSS3, JavaScript, Object Oriented JavaScript, Flex & Action Script.
+
+Strong business, technical and quality vision
+
+Product development, vision, research and innovation
+
+Meeting the deadlines with in the time lines by leading a team.
+
+
+
+Career Profile 
+
+
+
+Working as Technical Lead – Development in ProKarma Softech Pvt. Limited, Hyderabad.
+
+
+
+From
+
+To
+
+Organization
+
+Location
+
+1st -Apr-2013
+
+Till Date
+
+ProKarma Softech Pvt. Limited
+
+SEZ UNIT 1,
+
+Divyasree Orian,  
+
+Gachi Bowli, 
+
+Hyderabad – 500 032
+
+Phone: +91-40-33122000
+
+26th -Nov-2009
+
+31st -Mar-2013
+
+Zeta Interactive Pvt. Limited
+
+Somajiguda,
+
+Hyderabad – 500 082
+
+Phone: +91-40-40309000
+
+25th-Jan-2006
+
+25th- Nov-2009
+
+ITON Technologies Pvt. Limited
+
+Worked in Three Locations
+
+Tanuku, India.
+
+Muscat, Oman.
+
+Dubai, UAE. 
+
+
+
+Major Assignments & Technologies
+
+Work Experience
+
+Developed & delivered three modules of QuikView (XP) with the new technologies (JQuery, Angular JS, HTML5, CSS3) from the QuikView Flex Application.
+
+Designed, developed and Delivered Zeta Mail v5.0, v6.0,v7.0 – Email marketing product which is listed in Forrester and Jupiter research reports in email marketing consistently.
+
+Placed Major role in converting the product User Interface from Flex to HTML5/AngularJS technology.
+
+Did good research to develop I-Office Arabic version which is right to left language. Developed flex components by extending flex 3.2 core components to support right to left language.
+
+
+
+Technologies worked on
+
+Programming Languages
+
+Javascript, Object Oriented Javascript, JQuery, AngularJS, HTML5, CSS3, Flex, JAVA, J2EE, Spring
+
+Databases (RDBMS)
+
+MySQL (Installation, Performance Tuning, Query Optimization)
+
+IDE/RAD Tools
+
+Eclipse, NetBeans, IntelliJ, Flex Builder, Deam Viewer, Sublime
+
+UML designing tools
+
+StarUML
+
+Frameworks, Libraries and Tools
+
+Springs, Servlets, JSP,  POI, Aspose, Flex Frame works (Cairngorm, Swiz), Design Patterns, Hibernate, Maven, Continuum,
+
+Application and Web Servers
+
+Apache, Tomcat,  WebLogic
+
+Version Control Tools
+
+SVN
+
+Operating Systems
+
+Windows
+
+Development Methodologies
+
+Agile
+
+Project Management tools
+
+Celoxis,  Intacct, Clarity
+
+
+
+
+
+
+Projects Developed
+
+#1. 	Title			: Paragon
+
+	Organization		: ProKarma
+
+Cleint			: T-Mobile
+
+Product Description	: This Version of QuikView  application will have cross platform support.
+
+Duration		: [Dec 2014 – Till now]
+
+	Team Size		: 5
+
+Roles Played		: Technical Lead
+
+Process Followed	: Agile and T-Mobile defined processes
+
+Environment		: HTML5, CSS3, AngularJS, JQuery, J2EE, Spring MVC, Hibernate, Weblogic Server
+
+Responsibilities	:
+
+Preparing DDD based on the existing QV flex application & FSD provided by the SA.
+
+Identifying the tasks from DDD, R&D items, providing solutions to the team.
+
+Identifying the UI areas which can be improved & getting approval from SA through onsite lead.
+
+Participating in Product features elaboration discussion and freeze the scope of the projects.
+
+Doing technical feasibility analysis and Proof Of Concepts in the specified technologies for the UI components developed in Flex.
+
+Involved in code reviews & designs.
+
+Providing resolutions for technical issues.
+
+Responsible for meeting timelines to deliver the Project features and it’s Quality. 
+
+Participating in production issues / lifeline calls based on the AOR matrices.
+
+Keep tab on new technology changes and bring them into usage by the team.
+
+
+
+
+
+#2. 	Title			: Quik View 3.0 (XP)
+
+	Organization		: ProKarma
+
+Cleint			: T-Mobile
+
+Product Description	: This Version of QuikView  application will have cross platform support.
+
+Duration		: 1 year 1 month[Nov 2013 – Dec 2014]
+
+	Team Size		: 5
+
+Roles Played		: Technical Lead
+
+Process Followed	: Agile and T-Mobile defined processes
+
+Environment		: HTML5, CSS3, JQuery, GSP, Grails, Weblogic Server
+
+Responsibilities	:
+
+Preparing DDD based on the existing QV flex application & FSD provided by the SA.
+
+Identifying the tasks from DDD, R&D items, providing solutions to the team.
+
+Identifying the UI areas which can be improved & getting approval from SA through onsite lead.
+
+Participating in Product features elaboration discussion and freeze the scope of the projects.
+
+Doing technical feasibility analysis and Proof Of Concepts in the specified technologies for the UI components developed in Flex.
+
+Involved in code reviews & designs.
+
+Providing resolutions for technical issues.
+
+Responsible for meeting timelines to deliver the Project features and it’s Quality. 
+
+Participating in production issues / lifeline calls based on the AOR matrices.
+
+Keep tab on new technology changes and bring them into usage by the team.
+
+
+
+#3. 	Title			: Quik View 2.5
+
+	Organization		: ProKarma
+
+Cleint			: T-Mobile
+
+Product Description	: This Version of QuikView  application will have the enhancements for the newly added SOCs
+
+Duration		: 11 months [May 2013 – Sep 2013]
+
+	Team Size		: 4
+
+Roles Played		: Technical Lead
+
+Process Followed	: Agile and T-Mobile defined processes
+
+Environment		: Adobe Flex 3.5 & Action Script, Java, Web Service Client.
+
+Responsibilities	:
+
+Identifying the tasks based on the DDD provided by the onsite Lead.
+
+Identifying & communicating the gaps in DDD with the onsite Lead.
+
+Assigning the tasks with in the team based on the given time lines.
+
+Responsible for meeting timelines to deliver the Project features and it’s Quality. 
+
+Clarifying the technical & domain requirements to the team. Responsible to get them clarified from the onsite lead.
+
+Participating in production issues / lifeline calls based on the AOR matrices.
+
+Responsible for the team should be trained on the new QVXP technical stack.
+
+
+
+#4. 	Title			: Zeta Mail 7.0 [major feature releases]
+
+Organization		: Zeta Interactive
+
+Product Description: 
+
+Zeta Mail is an Enterprise email marketing product with an intuitive flex based user interface and a powerful email delivery engine capable of sending 1 millions emails in an hour. Zeta mail comes with a rich feature set to cater to all the business needs of an email marketer from Profile and list management, profile / list segmenting, web page management, life cycle campaign management and comprehensive reporting on delivery and responses. Zeta Mail allows users to manage test lists, content A/B testing, content sampling, automatic / manual approvals for content and list, manage inbound outbound data transfers. Zeta mail with its rich Zeta Mail API as well as Zeta Mail WS interfaces allows easy integration with client systems. The product is integrated with Social Media channels Facebook and Twitter to manage customer data streams. The SMS delivery module is recently integrated into the product from which common reporting can be derived. The product also integrates with Web analytics like GA and Omniture as well as social sharing and reporting for Face book, Twitter, Digg.. etc.
+
+
+
+The major features in this release are Campaign Approval Functionality, HTML5 reports and Mobile Compatible Email.
+
+
+
+Campaign Approval Functionality:	Campaign approval is possible in Zeta Mail 7 version via mobile devices. Providing flexibility and availability to the marketing and campaign executives who can approve their campaign deployment remotely from anywhere and need not be present before the computer to approve
+
+
+
+HTML5 reports: Mobile version of reports that gives user quick access to great looking reports on any campaigns you’ve sent. Providing the feasibility to get the latest stats on a campaign you’ve sent in a couple of thumb presses. Zeta Mail provides extensive reporting for campaigns and lists along with the below major activities
+
+Report Creation
+
+Chart Creation
+
+Quick Chart Preview
+
+Reports Summary
+
+Export Reports
+
+Schedule Reports
+
+Standard Reports 
+
+Dashboard Reports.
+
+
+
+The access to the reports application will be as secure. This feature provides comprehensive reporting and analytics that enables customers to quickly identify what activities attributes and recipient behaviors have the most impact—allowing you to quickly adjust your email marketing campaign management accordingly.
+
+
+
+Mobile Compatible Email: Campaign executives can upload mobile compatible images to their campaigns which redirects to the landing page on tablet and mobile devices such as iPad, iPhone, Android and other devices when recipient opens their emails.
+
+ These emails are sent to the customers to create increased visibility for their campaigns and also give readers multiple viewing options.
+
+Zeta Mail provides the following key features as part of Mobile Compatible Email Messaging
+
+Device Specific email 
+
+Geo Targeting or Location specific emails
+
+Count down timer
+
+Rules engine 
+
+Click To Call and Reporting
+
+
+
+Inbox Reporting: In Inbox Reporting feature, we integrated ZetaMail with eDataSource API. eDataSource is a data service company which provides email campaign real-time stats like Inbox Rate, Spam Rate and Missing Rate.
+
+
+
+Email Device Preview:This feature gives option to user to review how the email creative is being rendered in different browsers and devices. We have integrated ZetaMail with Email On Acid company tool which provides these screenshots data.
+
+
+
+Duration		: 6 months [July 2012 – March 2013]
+
+	Team Size		: 6
+
+Roles Played		: Technical Lead
+
+Process Followed	: Agile and Zeta defined processes
+
+Environment		: Linux, MySQL, Java, Spring3, Hibernate, Tomcat, Apache, JqCharts, JQuery, HTML5
+
+
+
+#5. 	Title			: Zeta Mail 5.4/6.0/6.1/7.0 [major feature releases]
+
+Organization		: Zeta Interactive
+
+Product Description: 
+
+Zeta Mail is an Enterprise email marketing product with an intuitive flex based user interface and a powerful email delivery engine capable of sending 1 millions emails in an hour. Zeta mail comes with a rich feature set to cater to all the business needs of an email marketer from Profile and list management, profile / list segmenting, web page management, life cycle campaign management and comprehensive reporting on delivery and responses. Zeta Mail allows users to manage test lists, content A/B testing, content sampling, automatic / manual approvals for content and list, manage inbound outbound data transfers. Zeta mail with its rich Zeta Mail API as well as Zeta Mail WS interfaces allows easy integration with client systems. The product is integrated with Social Media channels Facebook and Twitter to manage customer data streams. The SMS delivery module is recently integrated into the product from which common reporting can be derived. The product also integrates with Web analytics like GA and Omniture as well as social sharing and reporting for Face book, Twitter, Digg.. etc.
+
+
+
+Duration		: 7 months [December 2011 – June 2012]
+
+	Team Size		: 5
+
+Roles Played		: Technical Lead
+
+Process Followed	: Agile and Zeta defined processes
+
+Environment: Linux, MySQL, Flex, C, C++, Java, Hibernate, Tomcat, Apache, Web Services with Apache Axis, Python and PHP
+
+
+
+#6. 	Title			: Zeta Warehouse
+
+Organization		: Zeta Interactive
+
+Duration		: 1 Year [January 2011– December 2011]
+
+	Team Size		: 5
+
+Roles Played		: Technical Lead
+
+Process Followed	: Agile and Zeta defined processes
+
+Product Description in brief: 
+
+Zeta Warehouse supports day-to-day and strategic business, both at the decision-making and operational level by offering solutions for reporting, multidimensional analysis, simple and interactive dashboards, geographic analysis, management and presentation of a KPI models, free inquiry/ADHOC data query, data mining, comparative trend analysis and collaboration for the informative enrichment/ analytical dossier.
+
+Environment: Linux, MySQL, Flex3.2, Java, Spring 2.0, Hibernate, Tomcat, Apache. 
+
+Responsibilities	:
+
+Designing prototype and make it approved by Product Lead.
+
+Developing UI screens using adobe flex and JAVA from JSO layer.
+
+Assigning and approving team tasks for the module owned by me.
+
+Reviewing code and giving guidelines to the team.
+
+Meeting project timelines.
+
+
+
+
+
+#7.	 Title			: Zeta Buzz 4.0/4.1
+
+Organization		: Zeta Interactive
+
+Duration		: 3 months [October 2010 – December 2010]
+
+	Team Size		: 3
+
+Roles Played		: Team Member
+
+Product Description in brief: 
+
+Zeta buzz is a web-based social media mining tool, instantly taps into today’s millions of online blogs, as well countless message boards and online communities, this tool help to gain real-time insight into the consumer opinions and perceptions of a company, their offerings, and their competitors that will help steer their future marketing strategies, messaging and overall business planning.
+
+Environment: Linux, MySQL, Flex3.2, Tomcat, Apache, Web Services with external API, Java, Spring2.0, Hibernate.
+
+#8. 	Title			: Zeta Mobile 
+
+Organization		: Zeta Interactive
+
+Duration		: 11 months [October 2009 – September 2010]
+
+	Team Size		: 5
+
+Roles Played		: Team Member
+
+Product Description in brief: 
+
+Zeta Mobile Product is a channel of digital marketing for Zeta Interactive, a digital marketing company. Zeta Mobile is a carrier-grade interaction mobile messaging application for managing large scale mobile campaigns through SMS. It brings out businesses of all sizes by promoting sales, initiating contests and polling driven for the customers with plug and play access to virtually all mobile networks worldwide. This product supports both Push and Pull channels developed with well-defined workflows and flawless integration through messaging gateways to track each and every aspect of the campaign activity and improves the business intelligence needs of the customers.
+
+Environment: Linux, MySQL, Flex3.2, Tomcat, Apache, Java, Spring2.0, Hibernate.
+
+#9. 	Title			: Fax Manager(English & Arabic Language)
+
+Organization		: ITON (Client: Square One, Dubai)
+
+Duration		: 6 months [June 2009 – Nov 2009]
+
+	Team Size		: 12
+
+Roles Played		: UI Lead
+
+Process Followed	: FDD & ITON defined processes.
+
+Product Description in brief: 
+
+Fax Manager is to manage all faxes received-sent in an organization. Here we used Right Fax Server to receive and send the faxes.
+
+Environment: Java, Servlets, Flex3, ActionScript3, Javascript, HTML, .Net , Fusion Charts, Apache Tomcat, SQL Server
+
+#10. 	Title			: IService(English & Arabic Language)
+
+Organization		: ITON (Client: RTA, Dubai)
+
+Duration		: 4 months [February 2009 – May 2009]
+
+	Team Size		: 4
+
+Roles Played		: UI Lead
+
+Process Followed	: FDD & ITON defined processes.
+
+Product Description in brief: 
+
+IService is a Service management system. Employee can able to create his request. And if that service goes to the Service owner. And if there is any approval process it will go to the management level. And Service owner can escalate that request and handover and also delegate. Once the Service owner closes the ticket. The request process will finishes. Here we have Four Roles. Normal Employee, Service Owner, Manager, Director. For director entire organization reports. And for the manager Service Owners reports and also approval actions. For service Owners all actions like close , Escalate, Assign, Transfer.
+Environment: Java, Servlets, Flex3, ActionScript3, Javascript, HTML, Fusion Charts, Apache Tomcat, SQL Server
+
+#11. 	Title			: IOffice (English & Arabic Language)
+
+Organization		: ITON (Client: Chamber Of Commerce, Dubai)
+
+Duration		: 8 months [April 2008 – December 2008]
+
+	Team Size		: 5
+
+Roles Played		: UI Lead
+
+Process Followed	: FDD & ITON defined processes.
+
+Product Description in brief: 
+
+Ioffice is a software which will maintain entire organization in one root.   Employee can able to receive the mails, fax and scaned documents. And also it can able to send fax, mail from this system. And the document whatever coming in to this system need to store in to the File Explorer. The document should also have common features like Assign, Reply, Pending, Forward, Close, Email, Fax etc. And The department head can able to see all his department employees statistics. Below are the special features developed.     
+
+
+	One Screen: User can finish their work with one screen. User can see all his necessary components like his Inbox , Assigned documents, Organization Tree, File Explorer, Document Viewer, Appointments, History Attachments Links Document notes of that document.
+
+
+
+Document Viewer: This is a viewer where user can able to add his annotations inside a document. In this viewer user can sign, he can block some content, he can draw, stamping etc. And also he can add some sticky notes on it and another user can also reply for that sticky notes like forum. Faster retrieval of the documents. It can accept any document from msOffice and Pdf’s it is converting every document to a swf.
+
+Organization Tree : This is the place where department heads can see his entire department members and their current status of the work. And also DH can able to chat with that employee.
+
+Quick Search: This feature is very useful for our clients to search the document within seconds from the file explorer and for his inbox documents. And also he can see all details regarding that document like Attachments, History, Activity, Links, and Document Notes etc.
+
+Statistics: In this Head of the departments can see his employees’ efficiency. Comparison between two employees. He can see the exact point of the problem with the help of this. And he can see All the statistics in multi-dimensions. Here we have deferent type of charts from the fusion charts like pie, 3d-column, 2d-column, Bar charts etc. Charts with Animated interactivity.
+
+Internationalization: This Application support internationalization. In this we faced problem with Arabic Components. In flex 3.0 there is no Arabic components which will supports right to left language. We built our own Arabic components like Tree, Text Area, Scrollbars, Buttons with icons, Tabs etc.
+
+Environment: Java, Servlets, Flex3, ActionScript3, Javascript, HTML, Fusion Charts, Apache Tomcat, SQL Server
+
+
+
+#12. 	Title			: Fault and Complaint Management System
+
+Organization		: ITON (Client: Oman Mobile, Sultanate of Oman.)
+
+Duration		: 6 months [October 2007 – March 2008]
+
+	Team Size		: 6
+
+Roles Played		: UI Lead
+
+Process Followed	: FDD & ITON defined processes.
+
+Product Description in brief: 
+
+IService is a Service management system. Employee can able to create his request. And if that service goes to the Service owner. And if there is any approval process it will go to the management level. And Service owner can escalate that request and handover and also delegate. Once the Service owner closes the ticket. The request process will finishes. Here we have Four Roles. Normal Employee, Service Owner, Manager, Director. For director entire organization reports. And for the manager Service Owners reports and also approval actions. For service Owners all actions like close , Escalate, Assign, Transfer.
+Environment: Java, Servlets, Flex3, ActionScript3, Javascript, HTML, Fusion Charts, Apache Tomcat, SQL Server
+
+#13. 	Title			: Process Automation System
+
+Organization		: ITON (Client: Oman Arab Bank, Sultanate of Oman.)
+
+Duration		: 1 Year [September 2006 – September 2007]
+
+	Team Size		: 7
+
+Roles Played		: UI Lead
+
+Process Followed	: FDD & ITON defined processes.
+
+Product Description in brief: 
+
+The objective of the project is to support front office operations.  It includes three target workflows.
+
+Remittance Application: The client submits the remittance form and the teller (Initiator) scans the form and fills in the details and sends to the Branch Manager or Head Office. Here the branch manager reviews the document and approves it. From this stage it goes to the head office “Swift Department”. At this stage the document is accessed internally and generates a receipt, which is automatically attached to the document and forwarded to the teller. Once it reaches the initiating user at his branch, the workflow will said to have completed successfully.
+
+Corporate Banking Workstation: This is for the registration of the corporate bank accounts. The marketing department will registers the corporate accounts and then the access permissions will be allocated to the account for the three users of the company through which they can access the account.
+
+Environment: Java, Servlets, JSP , HTML, CSS, Apache Tomcat, SQL Server.
+
+
+
+
+
+Personal Information
+
+DOB :  13-April-1985
+
+Marital Status	: Married
+
+Present Address	: 	
+
+A Rajashekhar.
+
+Flat No. 102, Sai Balaji Residency,
+
+Prashanth Nagar – 5, Medipalli,
+
+Near Uppal Bus Depot,
+
+Hyderabad – 500039,
+
+ Andhra Pradesh.
+
+Permanent Address : 
+
+A Rajashekhar.
+
+Flat No. 102, Sai Balaji Residency,
+
+Prashanth Nagar – 5, Medipalli,
+
+Near Uppal Bus Depot,
+
+Hyderabad – 500039,
+
+Andhra Pradesh. 
+
+
+
+
+
+Resume of Rajashekhar Athota                                                          	                                                                   Update: Feb 2014                                                                                     Page 2
+
+Page 1

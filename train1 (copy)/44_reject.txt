@@ -1,0 +1,239 @@
+Springs: 2.7 year & current
+
+Hib:2.7 year & current
+
+Web services:REST
+
+UML design:no
+
+Application server: tomcat
+
+DB:oracle/mysql
+
+
+
+
+
+
+
+Addepalli Varun Ramesh Kumar                  			        addepalli.varun@gmail.com
+
+										   +91-8861277734
+
+Professional Summary
+
+Having overall 2.7 years of IT experience in Java, J2EE and database technologies.
+
+Having good work experience in Spring MVC, Spring Data and Hibernate in previous and present projects.
+
+Development experience of Java applications by using IDE tools like Eclipse and IntelliJ.
+
+Having good experience on code tracking and debugging.
+
+Having good experience on HTML5, CSS3, Bootstrap, JavaScript and several other JavaScript libraries and frame works like jQuery and Angular JS.
+
+Good knowledge of oops concepts and there role in real-time applications.
+
+Having experience on creating ETL jobs using kettle.
+
+Having experience on Mondrian and MDX.
+
+Have an enthusiasm for learning new technologies and aptitude to develop and retain the knowledge gained.
+
+Highly committed individual with proven ability to work well under pressure. 
+
+Good interpersonal communication, Client interaction skills and playing a crucial role in the team.
+
+Skills Profile
+
+Operating Systems
+
+Windows, Ubuntu
+
+Languages
+
+C, Java, HTML, JavaScript
+
+J2ee
+
+Servlets, Jsp, JDBC
+
+ORM Tool
+
+Hibernate
+
+IDE
+
+Eclipse, IntelliJ IDEA
+
+Servers
+
+Tomcat
+
+DBMS
+
+Oracle, MySQL, Mongo DB
+
+Version Control
+
+Git
+
+Frameworks
+
+Spring(MVC, AOP and Security), JQuery
+
+
+
+Education
+
+Pursued B.Tech in Electronics and Communications from Loyola Institute of Technology and Management in the year 2011 with 71.96% aggregate.
+
+Pursued Intermediate in Sri Chaitanya Vidhyalaya Jr. College in the year 2007 with 88.6% aggregate.
+
+Pursued SSC in Kennedy E.M. High School in the year 2005 with 80.3% aggregate.
+
+
+
+Professional Career
+
+Innominds Software Pvt. Ltd., Hyderabad, AP, India, November 2012 - present
+
+
+
+Professional Experience
+
+
+
+ConvergeHealth Product                      		    	                           Jul 2014 – Present
+
+Product Developer
+
+Description:
+
+PrecisionMiner is a translational research solution that provides an integrated set of cohort exploration and data delivery tools spanning clinical trials, claims, EMR, research, and genomic data sets. The platform leverages open source solutions such as tranSMART, i2b2, SHRINE, and OMOP and leverages ConvergeHEALTH’s broader set of data integration and analytics tools.
+
+Responsibilities:
+
+Application User Management using Spring Security consists of Users, Roles, Permission and Groups. 
+
+Exploring the Spring Security features and customized according to the application.
+
+Implemented the AOP module for the Logging purpose.
+
+Involved in both UI and backend.
+
+Environment: Spring (MVC, Security and AOP), Hibernate, HTML, JavaScript, jQuery, CSS, Bootstrap and Git.
+
+
+
+Marketing Operations Command Center (MOCC) 			         Apr 2014 – Jun 2014
+
+Developer
+
+Description:
+
+MOCC is a dashboard that is designed for the retail investors in US to understand and analyze the sales of products that are sold online, in stores etc. It also gives the end users to view the sales of different products with different filters like age groups, sex, geographical criteria graphically.  
+
+
+
+
+
+Responsibilities:
+
+Loading the flat files to the database using Kettle.
+
+Preparing the Mondrian cubes for the tables with the requirements.
+
+Developing the MDX queries based on the cubes and then converting the xml response to JSON.
+
+Involved in both UI and backend.
+
+Environment: Spring (Restful), Mondrian, Kettle, PostgreSQL, HTML, JavaScript, jQuery, CSS, Bootstrap and Git.
+
+
+
+Global Bench Marking Center (GBC)				                     Feb 2014 – Mar 2014 
+
+Developer
+
+Description:
+
+	GBC came from the idea “A little insight about what your competitors are doing can dramatically improve your strategy and investment decisions”.  It helps executives compare their business performance against industry-median and lowest-cost performers. Metrics such as cost and staffing can be compared with a defined set of industry peers to help identify cost gaps that don’t just highlight opportunities–they quantify them. In addition, the GBC approach uses highly structured, industry-codified process taxonomies. No matter how you or your competitors name or categorize a process, our analysis will provide an “apples-to-apples” comparison.
+
+Responsibilities:
+
+Implemented the Spring Restful, AOP and Security.
+
+Implemented the Nuxeo for the document management.
+
+Implemented the design and developed the role based authentication and authorization using spring security 3.0
+
+During the starting of the project wrote the Linux scripts for the internal build management and then used Bamboo tool for the Build process.
+
+Implemented the Spring Data JPA on top of hibernate for reducing the boilerplate code. 
+
+Followed the agile methodology and involved in daily scrums.
+
+
+
+Environment: Spring (MVC, Security), Hibernate, HTML, JavaScript, jQuery, CSS, Bootstrap and Git.
+
+
+
+
+
+Bridge								    	         Aug 2013 – Jan 2014
+
+Developer
+
+Description:
+
+	A digital platform that helps enterprises connects directly with startups, monitor the innovation landscape, and foster new ideas together. It combines the sector-specific knowledge and depth of Deloitte insights with powerful algorithms to scan the innovation ecosystem for startup partners based on specified criteria.
+
+Responsibilities:
+
+Involved in the Design, Develop and Deployment of application modules for the core server component.
+
+Implemented search and filtering algorithm to search for various startups with different parameters.
+
+Implemented the design and developed the role based authentication and authorization using spring security 3.0
+
+Implemented the Spring Data JPA on top of hibernate for reducing the boilerplate code.
+
+Integration of new frameworks like swagger
+
+Implemented the Spring Batch upload for the application seed data.  
+
+Environment: Core Java 1.7, Spring, Hibernate, MySQL and Git.
+
+
+
+Pelican			                         					          Nov 2012 – Jul 2013
+
+Developer
+
+Description: 
+
+	  Pelican camera, a radical smart camera with an innovative 16 distinct lens for mobile devices, which provides depth at every pixel. Each lens operates independently a single camera devoted to red, blue, green and so on... The Pelican camera capabilities include high end features like refocus, distance calculation, depth map, segmentation, image manipulation features like filters to the images, luminance and chrominance. 
+
+Responsibilities:
+
+Framed and documented the design documents and the pseudo code for the implemented features.
+
+Designed and developed the Refocus / Multi refocus feature using canvas.
+
+Designed and developed the options menu User interface for pelican camera implementing animation controls for the tools.
+
+During the project execution was part of agile methodologies.
+
+Involved in Bug fixing on both Android and backend development.
+
+Implemented Observer pattern for UI listeners.
+
+Implemented custom views.
+
+Explored various features of ImageMagick and used them for implementing image effects.
+
+Involved in the unit testing of the features developed and code review as per the specific standards.
+
+Environment: Core Java 1.7, Spring, Hibernate, MySQL, ImageMagick, Android and Git.

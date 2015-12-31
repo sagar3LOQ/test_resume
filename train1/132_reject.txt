@@ -1,0 +1,237 @@
+       Alapati Uday Bhaskar
+
+E-mail: alapati.bhaskar@gmail.com         
+
+Mobile: + (91) 9948935537
+
+ Summary: 
+
+Above 5 years of IT experience in software development involving all
+phases of software life cycle analysis, design, coding, testing,
+implementation, debugging.
+
+Hands-on technology experience with CORE JAVA 
+
+Hands on experience with   HIBERNATE, DB2 and Rest Api
+
+Having knowledge of 3-tier layered architecture
+
+Excellent experience in onsite-offshore model interacting with clients
+and Onsite managers
+
+Experience in development, functional testing and efficient at
+fact-finding, root cause analysis and bug-fixing
+
+Very well conversant with quality procedures and standards
+
+Effectively communicated with application representatives from both IT
+and Business to resolve issues
+
+Self-motivated, hard working professional with good organizational and
+leadership skills
+
+Very good Team player with excellent interpersonal and communication
+skills
+
+Professional Qualification: 
+
+B.Tech (7.1 CGPA) from Indian Institute of Information Technology,
+Allahabad in May 2010.
+
+Experience: 	
+
+               Organization	Designation	        Place	Duration 
+
+CSC India Pvt Ltd.	Professional1-
+
+Product Developer	      Hyderabad	06 Aug 2010 – Till
+
+Date
+
+
+
+Technical skill profile: 
+
+	
+
+Operating Systems	Windows-XP,Win7
+
+Languages	JAVA, HIBERNATE and JDBC
+
+Databases	DB2
+
+Tools & Utilities	Eclipse, SVN, Mainframes(Basics) and Git 
+
+Web Server	Apache Tomcat 6.0
+
+Application Server	Web Sphere
+
+Domain Knowledge	Insurance  - Billing, Policy and Client Subsystems
+
+
+
+Achievements:
+
+      
+
+I received Client Appreciations during deployment & Implementation of
+Exceed product.
+
+Got lot of appreciation certificates as a Movers/Shakers and Key
+resource.
+
+Member of winning team in HPCCL and won Man of the Match award.
+
+Insurance Products:
+
+Exceed: Policy and Billing subsystems
+
+Roles and Responsibilities: 
+
+	
+
+	My task involved all the aspects of Software development life cycle,
+analysis and designing of module. Then according to the algorithm I have
+done coding. Once the coding part was over I have done unit testing.
+This all involved compliance with the requirements and at the same time
+with the quality standards. Final stage involved 
+
+documentation of my module. Additionally I worked on other modules as
+and when required.
+
+Project Details: 
+
+Project Name:	Exceed J Base
+
+Client 	Kemper & CSC
+
+Role	Team Member
+
+Duration	September 2010 - July 2012
+
+Environment
+
+(with skill versions)	Languages : 	JAVA and Framework: Hibernate
+
+	Database :	IBM DB2, SQL Server
+
+	Tools :	Eclipse IDE, Tortoise SVN and Git Hub
+
+
+
+Project Description: Exceed J is the IP of CSC. We are working with
+Unitrin, to make significant changes in architecture of Exceed J. We are
+into R & D work, involves proof of concept as deliverable. Worked on
+enhancements as part of Billing Subsystem.
+
+Technical Contribution: 
+
+( Individual Contributor Responsible for Estimating, Design, Coding,
+Reviewing, Unit testing for the requirements/assignments, support of
+deployed application.
+
+( Resolving technical issues, working on Service requests, reviewed
+deliverables and engaged in correspondence on technical queries. 
+
+( Tune the performance of a Java application and coding standards and
+best practices for the project.
+
+( Developed several User Defined Functions as per business requirements
+
+( Working independently to get closure on Java design strategies for
+topics such as logging, exception handling and unit testing.
+
+Project Name:	Exceed J Base
+
+Client 	CSC
+
+Role	Team Member
+
+Duration	July 2012 – August 2013
+
+Environment
+
+(with skill versions)	Languages : 	JAVA, SQL and Framework: Hibernate
+
+	Database :	IBM DB2, SQL Server
+
+	Tools :	Eclipse IDE, Tortoise SVN and Git Hub
+
+
+
+Project Description: Exceed is an end-end Insurance product, Proprietary
+product developed by CSC. It is a Enterprise Product which has various
+subsystems like Policy, Billing, Claims, Print, Client, etc The product
+is built on three tier architecture involving Front end, Middle ware and
+Backend. Front end runs on Visual Basic, Java script and Middle ware
+works on XML & XSL and Backend runs using DB2, JAVA and other Mainframe
+technologies.
+
+Technical Contribution: 
+
+( Product Development.
+
+( Exceed J Performance improvisation
+
+( Analysis of enhancements and production issues
+
+( Bug-fixes and coding for enhancements
+
+( Working independently to get closure on Java design strategies for
+topics such as logging, exception handling and unit testing.
+
+Project Name:	Kemper-UX-Performance
+
+Client 	Kemper
+
+Role	Team Member
+
+Duration	February 2014 - till date
+
+Environment
+
+(with skill versions)	Languages : 	JAVA
+
+	Database :	IBM DB2, SQL Server
+
+	Tools :	Eclipse IDE, Tortoise SVN ,Git Hub and Dyna trace Client
+
+
+
+Technical Contribution: 
+
+( Implemented caching to improve the performance.
+
+( Optimized hibernate queries. 
+
+( Optimized web service request and response time.
+
+( Used DTC (Dyna Trace Client) to check the performance parameters.
+
+Educational Qualification: 
+
+B.Tech (7.1 CGPA) in 2010 from Indian Institute of Information
+Technology, Allahadbad UP.
+
+Intermediate (92%) in 2006 from Board of Intermediate (A.P.)
+
+High School (89.10%) in 2004 from SSC (A.P.)
+
+Personal Details: 
+
+Father’s Name	             	:  Murali Mohan
+
+Date of Birth		:  04/11/1988
+
+Marital Status		:  Single
+
+Nationality		:  Indian
+
+Languages Known         	:  English, Telugu,and Hindi
+
+Permanent Address        	:  H:no 2-5-196, Kalidasu Street Khammam.
+
+Date:     
+
+Place:	 Hyderabad									Alapati Uday Bhaskar
+

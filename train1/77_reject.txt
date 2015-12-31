@@ -1,0 +1,247 @@
+K Srinivasa Rao	
+
+(:+91 8185943218 / 7386663869 (or) +91 9985630190
+
+(:ksrinu8090@gmail.com
+
+Experience Summary 
+
+3.9 years of programming experience in Application Software development
+using Core Java, Servlets, JSPs, Oracle (SQL, PLSQL) ,DB2 (SQL, PLSQL),
+Shell Scripting and VB06.
+
+Extensive experience in developing Stored Procedures, Functions,
+Triggers, Views, Cursors, Packages, Exceptions, Joins and Sub Queries.
+
+Experience in Xquery language which is used to manipulate with XML
+documents.
+
+Good expertise in UNIX Shell programming.
+
+Hands on experience on Spring and Hibernate.
+
+Hands on experience on Mongo DB (NoSQL).
+
+Team player with good communication, Interpersonal and Customer service
+skills.
+
+Ability to absorb any new technical knowledge quickly.
+
+Extensive understanding of Software Development Life Cycle (SDLC).
+Highly experienced in all aspects of SDLC - requirement analysis,
+design, development, testing, implementation & maintenance of Projects.
+
+Involved in projects of Banking and Financial services Domain.
+
+Career Path
+
+Working as Associate-Projects in Cognizant Technology Solutions,
+Hyderabad since december 2010.
+
+Skill Set
+
+Database Languages: SQL, PL/SQL and Xquery.
+
+RDBMS   : Oracle 11g/10g/9i, DB2 v9.7 and MS Access 2007.
+
+NoSQL: MongoDB.
+
+Programming Languages: Core Java, Servlets, JSPs, Spring and Hibernate.
+
+Scripting: UNIX Shell scripting and VB06. 
+
+Tools: SQL developer, Eclipse, Putty, Aqua Data Studio, IBM Data Studio,
+OracleRTD, 
+
+Operating System: Windows family, UNIX/Linux.
+
+Achievements
+
+Received Hall of Eminence award in Cognizant academy training.
+
+Received BFS Star Award from Cognizant Technology Solutions.
+
+Received Kudos Award from Cognizant Technology Solutions.
+
+Academic Qualification	
+
+Master of Computer Applications (M.C.A) from JNTU University (2007-2010)
+with 78% marks.
+
+Bachelor of Science (B.Sc) from Nagarjuna University (2004-2007) with
+80% marks.
+
+Inter mediate from S.K.K.S.C.V.S Junior college (2002-2004) with 81%
+marks.
+
+X standard from Sri Sai public school (2001-2002) with 80% marks.
+
+Project Details:
+
+PERSONALIZATION
+
+Description	Application provides personalized service to customers and
+prospects to provide offers, services and products that are of interest,
+and are more likely to be opted by them. Increases the Customer
+Loyalty/Customer retention and revenue by Cross-selling of
+products/offers.
+
+Duration	April -2011 to present
+
+Team size	60
+
+Contribution	NGD
+
+As a part of this project, new taxonomy structure has been introduced
+into RTD by adding pages and placements. This provided the new way of
+showing best offers to customer through new arbitration methods
+implemented.
+
+Roles & responsibilities :
+
+Involved in analysis and estimation for several requirement.
+
+Involved in Design.
+
+Involved in Development.
+
+Involved in Integration Testing in QA, UAT, PROD environment.
+
+Dynamic Profile :
+
+Previously in Personalization, customers used to get offers based on
+their profiles after a period of one month from their date of
+registration into MYCA.This project deals with providing personalized
+experience to customers based on enrollment attributes (e.g.: (Benefit
+Connect, AM, EAC, Alerts, GNA), SPEND details in different billed cycles
+(i.e. Last 180 days, last 90 days, 60 days, previous billed cycle,
+current billed cycle and unbilled cycle) and using real-time loyalty
+information of Customer's MR Cobrand and Cash rebate cards. For US and
+INTL markets.
+
+Roles & responsibilities :
+
+Involved in analysis and estimation for several requirement.
+
+Involved in Design.
+
+Involved in Development.
+
+Involved in Integration Testing in QA, UAT,PROD environment.
+
+Vente Privee:
+
+  Vente Privee is a joint member with American Express for which offers
+will be provided only when VP user is mapped with American express
+profile.
+
+Roles & responsibilities :
+
+Involved in analysis and estimation for several requirement.
+
+Involved in Design.
+
+Involved in Development.
+
+Involved in Integration Testing in QA, UAT,PROD environment
+
+DEL Capabilities: 
+
+ User Interface is created using VB06 in MS access 2007 which will be
+used to create offers for markets.
+
+Roles & responsibilities :
+
+Involved in analysis and estimation for several requirement.
+
+Involved in Design.
+
+Involved in Development.
+
+Involved in Integration Testing in QA, UAT,PROD environment
+
+Epiphany to DEL migration:
+
+Markets under epiphany are migrated to decision engine lite(DEL) .
+
+Roles & responsibilities :
+
+Involved in analysis and estimation for several requirement.
+
+Involved in Design.
+
+Involved in Development.
+
+Involved in Integration Testing in QA, UAT,PROD environment
+
+Card Center Redesign:
+
+Card center page on website is modified and rendering new offers with
+new profile basis.
+
+Involved in analysis and estimation for several requirement.
+
+Involved in Design.
+
+Involved in Development.
+
+Involved in Integration Testing in QA, UAT,PROD environment
+
+POC on Hadoop:
+
+Customer profile and Offers data can efficiently be fetched from
+databases using hadoop map reduce distributed computing power.
+
+Involved in analysis and estimation for several requirement.
+
+Involved in Design.
+
+Involved in Development.
+
+POC on MongoDB:
+
+Customer profile and Offers data can efficiently be fetched from NoSQL
+DB.
+
+Involved in analysis and estimation for several requirement.
+
+Involved in Design.
+
+Involved in Development.
+
+
+
+
+
+	Language/frame works/OS/Tools used
+Java,Struts,Springs,WebSerices,JUnit,OracleRTD,Oracle and DB2 Sql,Stored
+Procedures,Shell Script,VB06,UNIX(AIX) and WINDOWS-7.
+
+
+
+Personal Details
+
+Name	Srinivasa Rao
+
+Father’s Name	Nageswararao
+
+Date of Birth	13th May 1987
+
+Gender	Male
+
+Marital Status	Married
+
+Languages Known	English, Hindi, Telugu
+
+Address	Dno:LIG 28/5,KPHB, Hyderabad,AP.
+
+Current Location	Hyderabad
+
+Nationality	Indian
+
+Passport	Valid
+
+
+
+Page   PAGE  4  of   NUMPAGES  4 
+

@@ -1,0 +1,238 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+            -  3 year &
+current                                �
+�               
+
+Spring                  
+                            3 year &
+current                                �
+�              
+
+Web
+Services                                
+        2.5 years  &
+current                                �
+�             
+
+Core
+Java                                  
+             -  3.5year
+
+Design
+Patterns                                
+    -    worked
+
+UML
+design                                 
+          -   worked 
+
+Build Tools (Maven/Ant)                    -   
+Maven   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Apache Tomcat / Web Sphere Application Server,my eclipse
+
+Ok for bitchemy
+
+Kumar Kothapally
+
+(: +91 9030126102
+
+(: kumark916@gmail.com
+
+Career Objective:
+
+
+
+To work with a world class innovative organization, gain experience at
+delivering excellence, in the areas of Technology / Solutions /
+Projects, in the IT arena and thus deliver the best possible results to
+the organization and to its Customers.
+
+Summary:
+
+
+
+Around 3 years 5 months of work Experience in Developing JAVA and J2EE
+based applications using Jetty and Tomcat, Websphere servers.
+
+Implementation Knowledge in Core Java (Collections, OOPs, etc…)
+
+Developing Applications using JSP, Servlets and JDBC
+
+Implementation Knowledge in Spring (Core,ORM,MVC) and Hibernate
+Frameworks 
+
+Exposure to the Agile methodologies
+
+Professional Experience:	
+
+
+
+Currently working in United Health Group, as a Software Engineer from
+June 2011 to till date.
+
+Academic Details:
+
+
+
+Completed post graduation in “Master of Computer Applications” from
+Osmania University in 2011 with 72%.
+
+Completed graduation in B.Sc from Osmaina University in 2008 with 79%.
+
+Completed 12th standard from M.K.R.M jr College in 2005 with 91%.
+
+Completed SSC from Z.P.H.S.JULOOR in 2003 with  87%.
+
+	
+
+Skill Set
+
+
+
+Operating System		:	Windows/Unix
+
+Languages/Scripts		:	Java, Android, HTML, JavaScript, CSS 
+
+Tools				:	Maven, Log4j
+
+Web Servers /Application	:	Jetty, Tomcat
+
+Java Technologies		:	J2EE (Servlets, JSP) 
+
+RDBMS			:	Oracle 
+
+Frameworks			:	Spring and Hibernate
+
+IDE				:	Eclipse, MyEclipse
+
+	
+
+PROJECT #1
+
+
+
+Project Title	:    Health4Me (Health4Me Application)                    
+     
+
+Client	        		:    United Health Group
+
+Environment    	:    Spring, Hibernate, Webservices, Oracle with
+Websphere 
+
+			      and Jetty Servers
+
+Team Size       	:    5
+
+Health4Me provides instant access to health insurance subscribers and
+their family's critical health information – anytime/anywhere. We can
+find physicians near by, check the status of a claim or speak directly
+with a nurse, Health4Me is a go-to resource for everything related to
+health. The functionality provided with the following modules
+
+Urgent Care
+
+ID Card
+
+Account Balances
+
+Benefit Amounts
+
+Provider Search
+
+	
+
+Key Responsibilites handled:
+
+
+
+Developed application using Android Support 
+
+Involved in developing the UI pages.
+
+Writing UI/ Business validations for Owned  use cases.
+
+Fixing of bugs coming out of unit testing and Integration testing.
+
+PROJECT #2
+
+
+
+Project Title 	: myHCE( myHealthCare Cost Estimator)                    
+     
+
+Client	           	:    United Health Group
+
+Environment    	:    Spring, Hibernate, Webservices, Oracle with
+Websphere
+
+      and Jetty Servers
+
+Team Size        	:    7
+
+	United Health Group is a leading insurance company in United States. As
+part of the customer satisfaction United Health Group come forward to
+provide an application (myHCE) to know about different health services
+Geo Average and Provider Specific costs.
+
+Cost of health service and the total treatment will decides based on the
+member plan and benefits of plan taken by the member. The provider or
+geo average costs calculates based on the member benefits, Deductible,
+Co-Insurance, Co-Pay, Out Of Pocket details and the service costs should
+decide based on the member latest deductible and Out Of Pockets. The
+functionality provided with the following modules
+
+Signin (Sign in and calculate member plan benefits)
+
+Carepath (Treatment search and selection to estimate the cost)
+
+Cost ( Calculate the different costs for the selected carepath)
+
+Provider (Provider search and selection to estimate provider specific co
+
+
+Key Responsibilites handled:
+
+
+
+Requirement Analysis.
+
+Developed application using Spring (Core,MVC ,ORM)and Hibernate Support 
+
+Involved in developing the JSP pages.
+
+Developed controllers using Spring MVC
+
+Writing UI/ Business validations for Owned  use cases.
+
+Developed persistence logic using Hibernate
+
+Perform unit testing of application codes. 
+
+Bug fixing and new tasks implementation for the releases
+
+Personal Details:
+
+
+
+Date of Birth 			: 	12-04-1987
+
+Nationality 			: 	Indian
+
+Languages Known 		          : 	Telugu, English and Hindi
+
+                                                                        
+                                                                        
+                                                                        
+                                                                        
+                                                  
+
+                                                                        
+      (Kumar Kothapally)
+

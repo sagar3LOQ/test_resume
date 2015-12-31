@@ -1,0 +1,812 @@
+Senthil Kumar R
+
+
+
+Senthil Kumar R
+
+
+
+R. Senthil Kumar
+
+Email: senthil245@gmail.com
+
+Phone Number - +91-9030002423/9940106708
+
+
+
+
+
+PROFESSIONAL SUMMARY:
+
+
+
+Proficient in building large scale distributed parallel processing providing scalability, higher availability, best performance and disaster recovery storages.
+
+Strong programming skills on building large scale distributed systems using Apache Storm & Hadoop
+
+Strong design skills on RDBMS & NoSQL databases using Cassandra, MongoDB, HBase
+
+Good understanding of applying statistical algorithms for developing recommendation, clustering and classifications
+
+Deployment of Hadoop distributions using Cloudera, MapR
+
+2.5 + years of experience in building big data applications
+
+7+ years of IT experience in Enterprise web/application development (Includes over 3 years of experience in Banking and Finance domain). 
+
+5+ years in design and development of internet, intranet and mobile software applications using Java, J2EE, Struts, Spring, Hibernate, MyBatis, ATG. 
+
+Exposure of consulting in areas of Bigdata Solutions, Cloud Computing and Greener Data Center. 
+
+Strong expertise in open source technologies and customization providing business needs.
+
+Managing AWS cloud environment in preparation of server instance,sound knowledge of AWS services & monitoring
+
+Managed servers in Linux and Windows environment for application hosting.
+
+
+
+Education
+
+
+
+
+
+Title of the Degree
+
+College/University
+
+Year of Passing
+
+Masters Degree
+
+MBA –Finance (Distance Education) Anna University 
+
+2011
+
+Bachelor Degree
+
+B.E Computer Science & Engg.
+Sri Ramakrishna Institute of Technology
+(Anna University) ,Coimbatore
+
+2006
+
+XII
+
+RKV Matric Higher Secondary School, Coimbatore
+
+2002
+
+X
+
+Sainik School (CBSE)
+Amaravathi Nagar,Udumalpet
+Coimbatore
+
+2000
+
+
+
+
+
+Technical Skills
+
+
+
+Big Data Technologies
+
+Apache Hadoop,Apache Storm
+
+NoSQL
+
+Cassandra,HBase,MongoDB,Neo4j
+
+Hadoop Ecosystem
+
+Hive,HBase,Sqoop,Pig,Flume,Avro,
+
+Cloudera Impala,Parquet
+
+Caching Mechanisms
+
+Memcached,Redis
+
+Statistical Tools (Basics)
+
+R,PSPP(Alternative to SPSS)
+
+Search Server(Basics)
+
+Apache Solr,ElasticSearch
+
+Algorithms (Basics)
+
+Machine Learning ,Apache Mahout
+
+Specialization in languages
+
+Java,J2EE
+
+Framework/Other Utilities
+
+Struts1.2,Struts2.0,MyBatis,Hibernate,Spring, ATG
+
+Databases & Tools
+
+Oracle,MySQL,IBM DB2
+
+Application/Web Servers
+
+Tomcat,Weblogic,Jboss
+
+Other Tools
+
+SVN,CVS,Ant,Maven
+
+Operating System
+
+Unix Concepts, Linux,Windows
+
+Tools/IDE
+
+Eclipse
+
+
+
+
+
+
+
+
+
+Major Specialisation
+
+
+
+IT
+
+
+
+Big Data,
+
+NoSQL
+
+Web Development
+
+Cloud Computing
+
+Green Data Center
+
+Software Quality
+Operating System
+
+Business Intelligence
+
+Data Analysis
+
+Data Mining
+
+Machine Learning Algorithms
+
+Statistics
+
+Finance Domain
+
+Primary Market
+Equity Market
+Derivatives
+Commodity Markets
+Portfolio Management
+
+
+
+
+
+
+
+
+
+
+
+EMPLOYMENT HISTORY: 
+
+
+
+Name of the Company
+
+Designation
+
+From
+
+To
+
+Duration
+
+Cognizant
+
+Technology Solutions
+
+Programmer Analyst
+
+Feb 2007
+
+May 2010
+
+3 yrs  4 months
+
+Wipro Technologies
+
+Associate Consultant
+
+May 2010
+
+Nov 2011
+
+1 yr 7 months
+
+JNET Technologies
+
+Systems Analyst
+
+Nov
+
+2012
+
+Nov 2013
+
+1 year
+
+Cafyne Inc.
+
+Senior Software Engg.
+
+Dev 2013
+
+Till Date
+
+Till Date
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PROJECT EXPERIENCE:
+
+
+
+10. Project Name
+
+Cafyne Product Development
+
+	Company
+
+				Silicon valley product startup - Cafyne Inc. 
+
+	Duration
+
+				Dec 2013  – Till Date
+
+	
+
+	About Cafyne Inc.:
+
+	Cafyne is a comprehensive enterprise Social Media solution for Compliance, Engagement and Talent Management. Cafyne specializes in big data analytics for enterprise social media policy compliance and improving sales, services and marketing by leveraging social media optimizations. Gartner positioned Cafyne as 1 of 3 Cool Vendors in Risk Management 2014.
+
+	
+
+	Product Development Activities:
+
+	Involved in conceptualization of business use cases and translate to wireframes
+
+	Built real-time large scale processing & database of handling streaming data
+
+	Translation of business requirements into technical specifications.
+
+	Full stack web application development – Involved in End to end product development lifecycle.
+
+	Ensuring architecture scales for larger datasets, high availability & throughput & response time.
+
+	Preparation of DFDs, Workflow Diagram, Sequence and Package Structure diagrams, Class Diagrams, Capacity Planning diagram
+
+	DB – Involved in thorough designing & implementing ER diagrams, DB Schema Diagram and providing multitenant support
+
+	Large scale database – modelling database as per business use cases for RDBMS and NoSQL
+
+	Social Media domain knowledge – Integration of 3rd party integration & social media APIs with application, preparation of analytics scores.
+
+	Basic understanding & implementation skills on applying & selection of machine learning algorithms
+
+	
+
+Technical Activities:
+
+	Involved in complete architecting product from scratch
+
+	Real time monitoring using Apache Storm
+
+	Calculation of real-time analytics data at various levels – Post, Social Media Profile, Company Level
+
+	Verifying compliance against streaming social media post data
+
+	Preparation of topology,workflow,cluster management
+
+	Integration with message queues.
+
+	Worked with data science team for preprocessing works
+
+	Used reddit comments data of 1 TB from google big query & built indexes to filter 200 GB of hate speech data eventually to act as trained dataset. Problem Statement – to identify to hate sentence from trained dataset. 
+
+	Complete and thorough DB modelling of application to accommodate RDBMS and NoSQL models.
+
+	MongoDB clustering & fixed the issues on performance to improve reads/writes at large scale
+
+	DB – ER Modelling, designed database schema for MySQL, preparation of queries for all use cases of application, translation of RDBMS entities to MongoDB
+
+	Involved in developing modules – Login, Authentication, preparation of json structure to consume in frontend, Preparation of service layers, controllers for modules - Analytics, Profile Discovery, User Management and Administration, Group Management, Registration of company & users, Social Media Authorization.
+
+	Role based access control at service method level, URL level and DB level
+
+	Rule Engine – Drools – creation of rules for business processes to generate alerts in real-time.
+
+	Profile Discovery Module – Preparation of dataset, crawl across social networking sites, generate scores for discovered profiles using machine learning algorithms
+
+	Involved in analytics preparation and calculations and to perform real-time and batch process computations.
+
+	Server management and monitoring using AWS Cloud. Installation of monitoring tools like Nagios and Zabbix.
+
+	Involved selection of technology stack, wireframing, preparation of DB models, and application of machine learning algorithms to business problems.
+
+	Salesforce Integration & App Creation – 
+
+	Authorize, access salesforce contact & utilize in application for profile discovery process.
+
+	
+
+Technologies Used:
+
+	Real-time Streaming – Apache Storm
+
+	Machine Learning Algorithms – Apache Mahout, Weka
+
+	Caching - Redis
+
+	DB – MongoDB, MySQL
+
+	J2EE - Spring Security, Spring Data, Spring MVC and MyBatis Integration, Spring DI
+
+	UI Frontend – AngularJS,HTML5,CSS3 and Twitter Bootstrap
+
+	AWS Services – RDS,SQS,SNS,S3,Load Balancer
+
+	Salesforce Integration & App Creation
+
+	
+
+	
+
+9. Project Name
+
+Works at JNET Technologies
+
+	Client
+
+				Cloudvu.com, backcounty.com,SecViz,GIS,Online Voter Registration
+
+	Duration
+
+				Nov 2012 – Nov 2013
+
+	Technical Skills:
+
+	Backcounty.com 
+
+	Use of Talend data integration tool – process huge datasets of daily logs and provide analytics reports. 
+
+	Developed and implemented use case to understand & analyze the reading behavior of amazon book readers. 
+
+	
+
+	Web Analytics for Security Visualization (SecViz) – (Ongoing Project)
+
+	Processing of 1TB(at minimum) of log data and store in a data store(NoSQL – Hbase)
+
+	Performed thorough analysis on selection various technologies for data serialization, data transportation from various sources, NoSQL columnar datastore, MapReduce Workflow Management.
+
+	Preparation of message queues for sending and receiving streaming messages.
+
+	Using Flume, Transporting & Streaming of log files from Data Dump to HDFS/NoSQL store
+
+	Data Writing to HDFS without and with processing cases.
+
+	Prepared MapReduce algorithms for parsing logdata,streaming of input data, performing aggregate function for count, distinct count, sum and store in HDFS
+
+	Serializing of objects to perform compression and authentication
+
+	Implementation of caching Mechanism for retrieving larger datasets in distributed way
+
+	Created data models, designs and tables for Hbase
+
+	Prepared POC for implementing fast retrieval querying capabilities using Impala
+
+	
+
+	Data Analytics on GIS data 
+
+	The objective of this project is to develop slum free development zone for Bhilai Municipality and to collect useful insights that helps to overcome illiteracy, crime and health issues.
+
+	Involved in end to end delivery from data collection to reporting phases.
+
+	Setting up using Cloudera (CDH4) cluster manager for 4 nodes. Involved in administering nodes, managing services, performance management. 
+
+	Utilized HUE for querying Hive, Cloudera Impala and to perform user operation HDFS.
+
+	Identifying use cases to provide more useful insights with available data.
+
+	Implemented various approaches for processing and storing of larger datasets.
+
+	Performed MapReduce algorithms on HDFS layer for CSV and log data
+
+	Chained jobs for multiple MapReduce tasks
+
+	Performed various type of MapReduce Joins and Patterns to process complex datasets
+
+	Used Hive for performing query like capability.
+
+	Written Pig scripts for loading of input to HDFS,performed grouping and aggregations, store the results in HDFS
+
+	
+
+	Online Voter Registration System
+
+Developed web application from scratch using Java, J2EE, Spring, MySQL, and IBM MQSeries. Was involved in the architecting and development of Voter Registration, Validation with third party system, preparation of message queues for sending and receiving messages.
+
+
+
+	Other Activities 
+
+Provided reports on In-depth analysis and comparison of NoSQL databases.
+
+Exposure towards applying machine learning algorithms (using Mahout and R) on top of HDFS data.
+
+Provided comparative analysis on selection of Hadoop distributions - Cloudera, MapR, and HortonWorks. Having good amount of knowledge on cloudera distributions and packages.
+
+Good Understanding and knowledge on Predictive Analytics, Statistical tools like R,SPSS
+
+	
+
+	Sales & Marketing
+
+	Preparation of value propositions for big-data,In-depth analysis on various open-sources technologies, big-data analytics products
+
+	Prepared and presented on Bigdata use cases on healthcare.
+
+	Worked on a proposal for RBI(Reserve Bank of India) on website CMS and prepared RFP,Preparation  & reply to questionnaire, Presented proposal to panel of members 
+
+	Identification of use-cases in marketing, retail functions in big data
+
+	
+
+	
+
+
+
+8. Project Name
+
+Consultant
+
+	Duration
+
+				Dec 2011 – Oct 2012
+
+
+
+Worked with a Silicon Valley startup company for a 2 months period of time for developing online real time media streaming website. This application target was to store and process billion records with low latency. Twitter Storm used as scaling and processing large datasets. Cassandra was used as NoSQL datastore to store large keysets in columnar fashion.
+
+Architected and DB modeling, designed for 2 online web application from scratch for recruiting firm and Deals website similar to Groupon
+
+Evaluation of technologies and frameworks that solves architectural problems of cloud
+
+Solutions to scalability, availability, performing computation on large volumes of data.
+
+
+
+
+
+7. Project Name
+
+Cloud and Green Data Center Consulting
+
+	Client
+
+Wipro EcoEnergy
+
+	Duration
+
+				Sept 2011 – Nov 2011
+
+Team Size
+
+6
+
+Environment
+
+Java,J2EE,Product Deployment, Reporting Tools 
+
+
+
+Built solutions to make datacenter into greener datacenter.
+
+Worked as technical consultant in managing and maintaining data center energy monitoring tools.
+
+ Expertise and knowledgeable in the area of cloud solutions offering in -Infrastructure as a Service (IaaS) and Software as a Service (SaaS) models.
+
+ Evaluation of green IT Datacenter products in market.
+
+ Involved in complete lifecycle of green Datacenter process –
+
+Analyze, monitor, plan and control of Datacenter to achieve efficiency.
+
+Applied data analytics for monitored data which guided datacenter managers to decide upon provisioning number of devices (servers, storage & switches) in datacenter space.
+
+ Responsible for preparation of green metrics on par with industry standards.
+
+
+
+
+
+6. Project Name
+
+Wipro Energy Optimizer (Product Development)
+
+	Client
+
+Wipro CTO Product
+
+	Duration
+
+				Feb 2011 – Aug 2011
+
+Team Size
+
+6
+
+Environment
+
+Java,J2EE,Adobe Flex,Struts,Hibernate,PostGre SQL,JBoss
+
+
+
+       This product enables datacenters to be intelligently monitored and managed to optimize energy usage. It cuts across servers, networks, storage equipment, cooling and UPS in a non-intrusive and scalable manner. The solution complies with the SNIA and Green Grid industry standards.
+
+
+
+This application was built from scratch and involved in designing, architecting and development.
+
+Technologies used were JSP, Java/J2EE and Adobe Flex RIA, Postgre SQL as database.
+
+Involved in complete lifecycle of green Datacenter process –
+
+Analyze, monitor, plan and control of Datacenter to achieve efficiency.
+
+
+
+
+
+
+
+
+
+5. Project Name
+
+DotCom, Blackberry Application
+
+	Client
+
+DirecTV
+
+	Duration
+
+				Jun 2010 – Jan 2011
+
+Team Size
+
+6
+
+Environment
+
+Java, J2EE,Unix, Spring,ATG Framework,Oracle, Apache Tomcat,AJAX,JQuery
+
+
+
+
+
+ About DirecTV
+
+DIRECTV delivers satellite-based television services to U.S. customers in homes and businesses. Their operations include some of the world's most advanced technologies in the delivery of a seamless viewing experience.
+
+
+
+ My Works at DirecTV
+
+Involved in support and maintenance of DirecTV Dotcom application.
+
+Developed mobile application from scratch for prospect customers that works on Blackberry phone. Was involved in the architecting and development of login, customer registration, payment integration, Home Page modules.
+
+ Technologies used to build apps are ATG Framework, Java/J2EE, and JS Prototype framework.
+
+
+
+
+
+4. Project Name
+
+SAS based Online Appointment System
+
+	Client
+
+				Mazda
+
+	Duration
+
+				Jan 2010 – May 2010
+
+Team Size
+
+3
+
+Environment
+
+Java, J2EE, Mainframe DB, MySQL, Apache Tomcat.  
+
+
+
+          An application was built to service the customers of Mazda Dealers. This application assisted the customer to get an appointment through online. This application was built as an independent system and was made available on web for the use of Mazda dealers, employees, and vendors only. 
+
+
+
+This application was built from scratch and involved in designing, architecting and development.
+
+Technologies used were JSP, Java/J2EE and mainframe, DB2 as database.
+
+
+
+Application link live in production: http://mymdol.com/
+
+
+
+3. Project Name
+
+Corporate intranet app of DHL
+
+	Client
+
+				DHL
+
+	Duration
+
+				Sep 2009 – Jan 2010
+
+Team Size
+
+3
+
+Environment
+
+Java, J2EE, EXTJS, Unix, ATG Framwork,Oracle-9i, Apache Tomcat.
+
+
+
+About DHL
+
+DHL Express is a division of the German logistics company Deutsche Post providing international express mail services. DHL is expertise in international express, air and ocean freight, road and rail transportation, contract logistics and international mail services to its customers. DHL is a world market leader in sea and air mail. 
+
+
+
+My Works at DHL
+
+Developed features for user interaction, feedback system, subscription, rating using Java/J2EE, ATG Framework, Ext JS.
+
+Involved in configuring,managing,administering articles using CMS
+
+Implemented newsletter features to manage and maintain users personalized articles
+
+Developed a system called “The First choice activity profile” helped the users to showcase their innovation skills and proposing their ideas to higher management.
+
+
+
+2. Project Name
+
+Asset Management System
+
+	Client
+
+Fox Mobiles
+
+	Duration
+
+				Dec 2008 – Jul 2009
+
+Team Size
+
+6
+
+Environment
+
+Java, J2EE, AJAX, Unix, JUnit, Oracle-9i, Apache Tomcat.  
+
+
+
+Provided solution to reduce the load time of apple tree with AJAX tree.
+
+Prepared and verified JUnit test cases 
+
+Implemented code quality standards throughout the application.
+
+
+
+
+
+1. Project Name
+
+Ethical Hack, Information Service Desk, Customer Service Desk
+
+	Client
+
+				Bank of New York Mellon
+
+	Duration
+
+				Apr-2007 to Nov-2008
+
+Team Size
+
+4
+
+Environment
+
+Java,JSP,Struts 1.2, Oracle-9i,Weblogic Server,IBM DB2,Mainframe , Javascript
+
+
+
+ About Bank of New York Mellon
+
+         BNY Mellon is a leading investment management and investment services company, help clients to build assets, enhance performance, improve operating efficiency and reduce risk through a wide range of asset management and securities services solutions. Headquartered in New York, BNY Mellon has $25.8 trillion in assets under custody or administration and $1.26 trillion under management.
+
+My Works at Bank of New York Mellon
+
+Worked on ethical hack that dealt with preventing unauthorized users to access the application
+
+Coded the relevant security feature to prevent access from malicious users.
+
+Using Struts framework, worked on application enhancements to perform CRUD operation for CSD application.
+
+Involved in rebranding of CSD application - The pictures, Colors, login page, tabs, panels, tables, page headers, and hyperlinks, Messages / Warnings / Notices were modified.
+
+Involved in Design and Development phase of feature development.
+
+Worked on 2 enterprise banking applications - Information Service Desk (ISD) and Customer Service Desk (CSD).
+
+
+
+                                     	- 9 -
+
+
+
+
+
+
+
+			   	                                   	- 1 -

@@ -1,0 +1,947 @@
+Suhail Aziz Khan 	
+
+.
+
+Summary:
+
+Having over all 10+ years of IT industry experience, working as
+‘Associate Architect’ with PegaSystems in field of Product
+development. 
+
+Worked on frameworks such as Struts, Springs, Seam and JSF also strong
+in Core Java concepts. Worked extensively on EJB, Hibernate and SQL.
+Also worked on Sterling E-Commerce Suite.
+
+Have experience in UML modeling and designing of applications. Also
+involved in estimation process. Strong in data structures and
+algorithms.
+
+Have also handled deployment and build release activities.
+
+I am also working as a Scrum master in my current team.
+
+Exposure to PRPC aka Pega 7.
+
+Experience on NodeJS , ExpressJS , AngularJS and  MongoDB.
+
+Tools/Skills:
+
+Technology: Core Java, Java-J2EE , NodeJS 
+
+Frame Work:  STRUTS, SPRING, JSF and SEAM ,  AngularJs , expressJS
+
+Web Technology: JSP, Servlets and JavaScript and life-ray portlets
+(JSR-168 and 286)
+
+Middleware: EJB and Hibernate.
+
+Database: Oracle 10g and Mainframes and MOngoDB.
+
+Methodology: RUP, Agile, RAD , Scrum.
+
+Testing: JUNIT Testing.
+
+Build Tools: Cruise Control and Bamboo.
+
+Tools: Web Sphere Studio Application Developer 5.1, Rational Application
+Developer 7.0, Rational Software Architect 6.1, Web Sphere Integration
+Developer, JDeveloper , Eclipse , Dreamweaver, VSS, Perforce ,  CVS,
+SVN, Mercury Quality Centre .
+
+O/s: Windows XP, Windows NT, Windows 2000 , windows 7.
+
+Education:
+
+BE (Information Technology)	 R.G.T.U. (M.P.)	June 2005     74.56%
+
+12th				 All Saints , Bhopal 	June 2001     75%
+
+10th	 			 All Saints , Bhopal 	June 1999     73%
+
+Work Experience:
+
+with Automatic Data Processing, Inc. Since Sept-2012 – May’2015 
+
+with Deloitte Consulting India Pvt.Ltd. Since May-2009 – Aug-2012
+
+With Satyam Computer Services Ltd.  Since July 2005 - May 2009.
+
+Work Experience: 
+
+PegaSystem
+
+May 2015 – Till date
+
+Designation: Associate Architect.
+
+Currently working as Associate Architect at PegaSystems. 
+
+I am currently working in the Integration team for Pega, which deals
+with all the enhancements/development activities which are required to
+connect pega to other external systems. We use rest-apis , pega
+connector which are built on webservices.
+
+Responsibilities:
+
+Design : My main responsibility is to work with product owners and
+senior architects to come up with a design for the modules taken up by
+the team. I also participate in the development activities.
+
+Development: My main responsibility is to develop user stories using
+spring and PRPC.
+
+Using OAuth2.0 to connect to Facebook, LinkedIn etc.
+
+Planning: Provide a plan to the Product Owner for development cycle.
+
+Deployment: Taking care of the deployment of the application on server
+and build release management.
+
+Scrum Master: I take care of Sprint planning, User Stories grooming and
+retrospective meeting for the team. I also work with onsite PO for
+release plan.
+
+1.)	Project Name :Open Authentication
+
+Role	Associate Architect/ Scrum Master 
+
+Organization	Pega Systems
+
+Duration	May 2015 – Till date
+
+Size	Project : 12
+
+	Team Size : 12
+
+Environment
+
+(with skill versions)	Software
+
+	Languages: JavaScript 
+
+Technologies: Java-J2ee , PRPC
+
+Database :  Oracle 10g
+
+Tools: Eclipse IDE.
+
+O/s : Windows 7
+
+Server: Tomcat
+
+
+
+Automatic Data Processing, Inc.
+
+Sept 2012 – May 2015
+
+Designation: Consultant.
+
+Currently working as Consultant at Automatic Data Processing, Inc.. 
+
+I working on a product in SCM domain called Procure2Pay. This provides
+clients to create electronic purchase orders and invoices. 
+
+Procure 2 Pay electronic invoicing solutions transform the way
+organizations manage accounts payable and procurement. Whether Clients
+are looking for a simple solution with basic imaging-and-workflow
+capabilities or a fully-integrated electronic invoicing application
+tightly linked to existing internal accounting systems and supplier
+applications, P2P can streamline their procure and AP business
+processes.
+
+ADP electronic invoicing and electronic payment solutions help to reduce
+payables cost, improve spend control and scale easily.
+
+My Job responsibilities include development using Java-J2ee
+technologies. In addition to that I have also taken care of application
+deployment and build release activities for the project.
+
+n addition to this I was also involved in performance tuning of the
+application. I was involved in implementing and developing the project
+modules using Spring framework and JSF framework. Worked on JavaScript
+and xhtml , JSP , entity beans , myBatis , JDBC. I also worked on web
+api’s such as High Charts , dojo and d3 charts to prepare a dashboard
+for the project.
+
+As a Scrum Master, my job was to ensure that the team was being
+productive during grooming and planning meetings. I was also responsible
+for conducting retrospective meetings for the team , and coming up with
+a release plan with the product owner.
+
+2.)	Project Name :Innovation Labs
+
+Role	Consultant 
+
+Organization	Automatic Data Processing, Inc.
+
+Duration	March 2014 – Till date
+
+Size	Project : 3
+
+	Team Size : 1
+
+Environment
+
+(with skill versions)	Software
+
+	Technologies: BootstrapCss, NODEJS AngularJS ExpressJS
+
+Handlebars. PassportJS
+
+Database :  MongoDB
+
+Tools: Eclipse IDE.
+
+Languages: JavaScript  HTML5 CSS3 
+
+O/s : Windows 7
+
+Server: NodeJS Server
+
+
+
+Responsibilities:
+
+Development: My main responsibility is to create a webapplication using
+NodeJS , ExpressJS and AngularJS on top of MongodB database.
+
+Using passportJS api to connect to social networking sites, google+ ,
+facebook, linkedIn and Twitter for authentication.
+
+Planning: Provide a plan to the Product Owner for development cycle.
+
+Deployment: Taking care of the deployment of the application on server
+and build release management.
+
+Database: Designing mongodb schema and preparing mongo queries.
+
+ 
+
+1.)	Project Name :Procure2Pay
+
+Role	Consultant / Technical Lead 
+
+Organization	Automatic Data Processing, Inc.
+
+Duration	Sept 2012 – Till date
+
+Size	Project : 19
+
+	Team Size : 6
+
+Environment
+
+(with skill versions)	Software
+
+	Languages: Java-J2EE , 
+
+Technologies: Springs and Hibernate
+
+Database :  Oacle10g 
+
+Tools: Eclipse IDE and Toad for Oracle.
+
+O/s : Windows 7
+
+Server: Weblogic
+
+
+
+Responsibilities:
+
+Grooming: Breaking a user story at different levels to provide better
+understanding . Providing velocity points for a user story, in agile
+framework.
+
+Planning: Provide a team commitment for User Stories to be done in
+Sprint.
+
+Development: development of the Model, View and Controller.
+
+Deployment: Taking care of the deployment of the application on server
+and build release management.
+
+Database: Writing SQL queries and performance tuning of queries using
+XplainPath.
+
+Testing: Writing Junit test cases and preparing test reports.
+
+Others: Reviewing work done by team members.
+
+Deloitte Consulting India Pvt. Ltd.
+
+May 2009- Aug 2012
+
+Designation: Consultant.
+
+Currently working as Consultant at Deloitte Consulting India Pvt. Ltd. 
+
+I am involved into estimation of the projects as well as designing of
+small/medium scale projects.
+
+My Job responsibilities also include development using Java-J2ee
+technologies. In addition to that I have also taken care of application
+deployment and build release activities for the project.
+
+I also have exposure on portal environment, currently using liferay
+portal technology.
+
+In addition to this I was also involved in performance tuning of the
+application. I was involved in implementing and developing the project
+modules using framework such as JSF and Springs and Seam framework.
+Worked on JavaScript and xhtml , Jets, JSP and servlet. I was involved
+in writing batch processes to execute batch reports and configuration of
+same on Tidal Soft scheduler. I have also used Nautilus tool for storing
+the reports generated through the batch processes.
+
+Responsibilities:
+
+Estimation: Providing right estimates for the project , using standard
+estimation framework.
+
+Designing: Working to create a high level design which includes class
+diagrams, sequence diagrams and activity diagrams. Also working on low
+level designing which includes creation of technical design document.
+
+Development: development of the Model, View and Controller.
+
+Deployment: Taking care of the deployment of the application on server
+and build release management.
+
+Database: Writing SQL queries and performance tuning of queries using
+XplainPath.
+
+Testing: Writing Junit test cases and preparing test reports.
+
+Others: Reviewing work done by team members.
+
+Projects:
+
+1.)	Project Name :VM Ware - EPP
+
+Client	VM Ware corporation
+
+Role	Consultant / Technical Lead 
+
+Organization	Deloitte Consulting India Pvt.Ltd.
+
+Duration	Jan 2012 – Aug 2012
+
+Size	Project : 5
+
+	Module : 
+
+Environment
+
+(with skill versions)	Software
+
+	Languages: Java-J2EE , Liferay Portals
+
+Technologies: Springs and Hibernate
+
+Database :  Oacle10g 
+
+Tools  :Eclipse IDE and  Oracle XE..
+
+O/s : Windows XP
+
+Server: Apache- Tomcat 6.0
+
+
+
+VM Ware -EPP: 
+
+This application is developed for the VM Ware Corporation. This
+application handles an intrinsic part of the business , which is called
+enterprise purchase program. This application enables the organization
+to oversee business with a broad spectrum and at the same time gives a
+enormous control to modify the business strategies and create new
+ventures as and when needed. This is developed on liferay portal which
+has Spring portlets.
+
+ 
+
+Contribution:
+
+ As a Consultant was responsible for:
+
+  Coding using Java: jet and Springs frameworks 
+
+  Connection to database and data retrieval using Hibernate Named
+queries
+
+  Testing - Unit testing & Integration testing 
+
+  Deployment of the application to dev, test environment.
+
+  Build release management.
+
+  Timely reporting to the stakeholders.
+
+2.)	Project Name :Bio-Rad Release 2.5
+
+Client	Bio-Rad Corportion
+
+Role	e-Commerce Consultant 
+
+Organization	Deloitte Consulting India Pvt.Ltd.
+
+Duration	March 2011 – Dec 2011
+
+Size	Project : 7
+
+	Module : 
+
+Environment
+
+(with skill versions)	Software
+
+	Languages: Sterling E-commerce Suite , Java-J2EE
+
+Technologies: Struts and Portals
+
+Database :  Oacle10g 
+
+Tools  :Eclipse IDE and  Oracle XE..
+
+O/s : Windows XP
+
+Server: Apache- Tomcat 6.0
+
+
+
+Bio-Rad Systems: 
+
+This application is developed for the Bio-Rad Corporation. This
+application involves complex integrations between CMS (Content
+Management Systems), Portal (Web-Logic Portal) and Sterling e-commerce
+suite. I was primarily involved in Sterling development. 
+
+ 
+
+Contribution:
+
+ As a Consultant was responsible for:
+
+  Coding using Sterling suite: Jsp and classes.
+
+  Connection to database and data retrieval using Sterling.
+
+  Testing - Unit testing & Integration testing 
+
+  Deployment of the application to development environment, test
+environment.
+
+  Timely reporting to the stakeholders.
+
+3.)	Project Name :VM Ware solutions
+
+Client	VM Ware corporation
+
+Role	Consultant / Technical Lead 
+
+Organization	Deloitte Consulting India Pvt.Ltd.
+
+Duration	Nov 2010 – March 2011
+
+Size	Project : 2
+
+	Module : 
+
+Environment
+
+(with skill versions)	Software
+
+	Languages: Java-J2EE.
+
+Technologies: Springs and Hibernate
+
+Database :  Oacle10g 
+
+Tools  :Eclipse IDE and  Oracle XE..
+
+O/s : Windows XP
+
+Server: Apache- Tomcat 6.0
+
+
+
+VM Ware Solutions: 
+
+This application is developed for the VM Ware Corporation. This
+application currently handles the main web application (www.vmware.com).
+The contents of the website are entered and published using interwoven
+tool, and the contents are stored in database in forms of fragments
+(BLOB, CLOB). This application then retrieves the fragments from the
+database and resolves the contents into meaningful data to create the
+view. The type of data that application should support varies from
+simple text paragraphs to Media player, external links, RSS feeds etc.
+
+ 
+
+Contribution:
+
+ As a Consultant was responsible for:
+
+Providing the initial estimates for the project. 
+
+Creating high level design document.
+
+Coding using Java: jet and Springs frameworks 
+
+Connection to database and data retrieval using Hibernate Named queries
+
+Testing - Unit testing & Integration testing 
+
+Deployment of the application to dev, test environment.
+
+Build release management.
+
+Timely reporting to the stakeholders.
+
+4.)	Project Name :Dlinx
+
+Client	Federal Government USA
+
+Role	Consultant
+
+Organization	Deloitte Consulting India Pvt.Ltd.
+
+Duration	May 2010 – Nov 2010
+
+Size	Project : 4
+
+	Module : Reconciliation / Vendor Management / Debtor Management
+
+Environment
+
+(with skill versions)	Software
+
+	Languages: Java-J2EE.
+
+Technologies: Springs 
+
+Middleware: JDBC.
+
+Database :  Oacle10g 
+
+Tools  :Jdeveloper 2.x.
+
+O/s : Windows XP
+
+Server: Jboss
+
+
+
+DLinx: 
+
+Dlinx (Deloitte Links), is a project developed for the federal
+government of USA. This links the debts owed by/to a debtor/government
+in order to facilitate a one shot view of a debtor’s account summary.
+This facilitates management of information at a single repository,
+rather than individual states. With this application both the government
+officials as well as citizens can check the status and history of the
+taxation implied.
+
+ 
+
+Contribution:
+
+ As a Consultant was responsible for:
+
+  Coding using Java: jsp and Springs frameworks 
+
+  Creation of database triggers, stored procedures.
+
+  Testing - Unit testing & Integration testing 
+
+  Bug Fixing 
+
+  Timely reporting to stake holders about the project.
+
+5.)	Project Name :Latter Day Saints
+
+Client	LDS Group USA
+
+Role	Consultant
+
+Organization	Deloitte Consulting India Pvt.Ltd.
+
+Duration	June 2009 – May 2010
+
+Size	Project : 30
+
+	Module : Reports
+
+Environment
+
+(with skill versions)	Software
+
+	Languages: Java-J2EE.
+
+Technologies: JSF and Springs 
+
+Middleware: Hibernate and Spring JDBC.
+
+Database :  Oacle10g 
+
+Tools :Eclipse 3.5
+
+O/s : Windows XP
+
+Application Server: Tomcat 5.5 server
+
+
+
+LDS-CUBS: 
+
+The CUBS is an integrated enterprise solution provided for the Church of
+Latter Day Saints, in USA. The Church has different operations such as
+Donations, Disbursement of money, Missionary Fund management etc. which
+are again divided into various subcategories. The distributed nature of
+these operations makes it difficult for them to maintain the management
+of money and management of the processes involved in them. The solution
+offered by CUBS is to provide an online application which will handle
+all the operations and maintain a central repository of the information.
+This has been proposed for various countries such as USA, Canada,
+Guatemala, Puerto Rico and Germany, where the Church is operational.
+
+ 
+
+Contribution:
+
+ As a Consultant was responsible for:
+
+  Coding using Java, xhtml and JSF and Springs frameworks 
+
+  JUnit Test Cases 
+
+  Testing - Unit testing & Integration testing 
+
+  Bug Fixing 
+
+  Creating Crystal Reports.
+
+  Creation of Batch Processes using Tidal Soft.
+
+  Writing SQL for Crystal Reports and Batch Processes. 
+
+SATYAM Computer Services Ltd.
+
+June 2005– May 2009
+
+Designation: Software Engineer
+
+Worked as a Developer with Satyam Computer Services Ltd. My Job
+responsibilities included Coding, Designing, and Development. I was
+involved in designing Class Diagrams, Web Diagram, Activity Diagram,
+Sequence Diagrams and Detail Design Document. I was involved in
+implementing and developing the project modules using framework such as
+Struts, springs and have worked extensively on EJB. Worked on JavaScript
+and JSP and Servlets. Involved in designing BPEL Process flow. Have
+exposure to working on Portal environment, Web sphere Portal Server 5.1,
+Web sphere Application Server and Process Server 6.0. 
+
+Responsibilities:
+
+Development: Managing complete software development life cycle from
+Requirements study, Design, Coding, Testing and Release of the module.
+
+Designing of Sequence Diagram, Activity Diagram and Web Diagram for my
+module. 
+
+Root cause analyses of any bug/error/crashes occurring in the module
+through debugging in the code.
+
+Ensuring the timelines fixed for the deliverables was met.
+
+Reviewing work done by team members and suggesting innovative solutions.
+
+Carrying out Unit Tests and Integration Tests and Preparing Unit and
+Integration test Reports.
+
+	
+
+Projects:
+
+1.)	Project Name : Loss Mitigation CSW
+
+Client	CITI GROUP
+
+Role	Developer
+
+Organization	SATYAM COMPUTER SERVICES LTD.
+
+Duration	October 2008 – May 2009
+
+Size	Project : 2
+
+	Module : Year End
+
+Environment
+
+(with skill versions)	Software
+
+	Languages: Java-J2EE.
+
+Technologies: Struts and EJB
+
+Database :  Oacle10g , Mainframes
+
+Tools :RAD-7.0,
+
+O/s : Windows XP
+
+Application Server: IBM Web Sphere Application  Server 6.0
+
+
+
+Loss Mitigation CSW: 
+
+Loss Mitigation CSW is developed for the internal agents of the
+CitiGroup’s REL department which deals with Real Estate Lending
+related loans. This particular part for the application deals with the
+loss mitigation details maintenance for a loan account. This allows the
+user to update the information once received by the customer under a
+particular loan number or account number for which the loan was issued.
+Various sub modules such as Extensions, Refer to Loss Mitigation,
+Bankruptcy, Borrower allows them to enter specific details in a
+systematic way.
+
+ 
+
+Contribution:
+
+ As a team member was responsible for:
+
+  Coding using Java, JSP and Struts frameworks 
+
+  JUnit Test Cases 
+
+  Testing - Unit testing & Integration testing 
+
+  Bug Fixing 
+
+  Activity Diagram 
+
+  Sequence Diagram 
+
+  Prepared the Detailed Design Document 
+
+2.)	Project Name : Year End OCS
+
+Client	CITI GROUP
+
+Role	Developer
+
+Organization	SATYAM COMPUTER SERVICES LTD.
+
+Duration	July 2008 – October 2008
+
+Size	Project : 2
+
+	Module : Year End
+
+Environment
+
+(with skill versions)	Software
+
+	Languages: Java-J2EE.
+
+Framework: Spring
+
+Database :  Oacle10g , Mainframes
+
+Tools :RAD-7.0,
+
+O/s : Windows XP
+
+Application Server: IBM Web Sphere Application  Server 6.0
+
+
+
+Year End OCS: 
+
+Year End OCS is developed for the internal user of the CitiGroup’s REL
+department which deals with Real Estate Lending related loans. This
+particular part for the application deals with the Year End details
+maintenance for a loan account. This allows the user to update the
+information once received by the customer under a particular loan number
+or account number for which the loan was issued. Various sub modules
+such as Extensions, Refer to Loss Mitigation, Bankruptcy, Borrower
+allows them to enter specific details in a systematic way.
+
+ 
+
+Contribution:
+
+ As a team member was responsible for:
+
+  Coding using Java, JSP and Springs frameworks 
+
+  JUnit Test Cases 
+
+  Testing - Unit testing & Integration testing 
+
+  Bug Fixing 
+
+  Activity Diagram 
+
+  Sequence Diagram 
+
+  Prepared the Detailed Design Document 
+
+3.)	Project Name: ONLINE COLLECTION SYSTEM.
+
+Client	CITI GROUP
+
+Role	Developer
+
+Organization	SATYAM COMPUTER SERVICES LTD.
+
+Duration	December 2007 – June 2008
+
+Size	Project : 3
+
+	Module : Extensions and Bankruptcy
+
+Environment
+
+(with skill versions)	Software
+
+	Languages: Java-J2EE.
+
+Framework: Spring
+
+Database :  Oacle10g , Mainframes
+
+Tools :RAD-7.0,
+
+O/s : windows XP
+
+Application Server: IBM Web Sphere Application  Server 6.0
+
+
+
+Online Collection System: 
+
+Online Collection System is developed for the internal user of the
+CitiGroup’s REL department which deals with Real Estate Lending
+related loans. This allows the user to update the information once
+received by the customer under a particular loan number or account
+number for which the loan was issued. Various sub modules such as
+Extensions, Refer to Loss Mitigation, Bankruptcy, Borrower allows them
+to enter specific details in a systematic way.
+
+ 
+
+Contribution:
+
+ As a team member was responsible for:
+
+  Coding using Java, JSP and Springs frameworks 
+
+  JUnit Test Case 
+
+  Testing - Unit testing & Integration testing 
+
+  Bug Fixing 
+
+  Activity Diagram 
+
+  Sequence Diagram 
+
+  Prepared the Detailed Design Document 
+
+4.)	Project Name : NextGen
+
+Client	CITCO
+
+Role	Developer
+
+Organization	SATYAM COMPUTER SERVICES LTD.
+
+Duration	November 2005 – November 2007
+
+Size	Project : 100
+
+Module: 10	Module : Company and Assets
+
+Environment
+
+(with skill versions)	Software
+
+	Languages: Java-J2EE
+
+Framework: Struts and JSF.
+
+Middle Ware: EJB and Hibernate
+
+Database :  Oacle10g
+
+Tools : WSAD-5.1,RAD-6.0,ISqlPlus
+
+O/s : windows XP
+
+Application Server: IBM WebSphere Application  Server 6.0
+
+
+
+NextGen System:
+
+The NextGen project is a banking domain project. The client is replacing
+its old system with the new system. NextGen basically transacts in
+Securities and Assets. NextGen  is responsible for taking and executing
+Trade for different Assets. Client places the trade with the online
+website provided by the NextGen. The trade then goes through its full
+lifecycle till it gets completed in NextGen. NextGen also interacts with
+many external systems .These external systems either hold data relating
+to NextGen or NextGen receives trade order from Client via these
+external systems e.g SWIFT. So to interact to the external systems
+NextGen sends messages to a Middleware in XML format. From there the
+messages are sent to the respective destinations. Similarly NextGen
+receives message from External systems via Middleware.
+
+Contribution:
+
+ As a team member was responsible for:
+
+  Coding using Java, JSP and JavaScript in Struts and JSF frameworks 
+
+  Development of Enterprise Java Beans 
+
+  Executing BPEL 
+
+  Testing - Unit testing & Integration testing 
+
+  Bug Fixing 
+
+  High level Design 
+
+  Activity Diagram 
+
+  Sequence Diagram 
+
+  Prepared the Detailed Design Document 
+
+Personal Information:
+
+Date of Birth: 27th October, 1983
+
+PASSPORT: YES
+
+E-mail-:   HYPERLINK "mailto:suhail.aziz.khan@gmail.com" 
+suhail.aziz.khan@gmail.com 
+
+Contact: 888-621-7070
+
+TECHPOINT PROFILE
+
+                                                                        
+                                                                        
+  Email:   HYPERLINK "mailto:suhail.aziz.khan@gmail.com" 
+suhail.aziz.khan@gmail.com 
+
+Phone: +91 – 888 621 7070
+

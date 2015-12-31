@@ -1,0 +1,192 @@
+Spring: 4 year& current
+
+Hibernate: 4year & current
+
+Wec=b services: not worked
+
+Uml design: worked
+
+Java: have worked on reflection
+
+DB: oracle
+
+Eclipse/tomcat/weblogic
+
+Want to move to Hyderabad is in Bangalore
+
+6.7/20%hike/60days
+
+Narasimha Reddy
+
+                                                                        
+     
+
+Mobile:   8971956232                                                    
+    E Mail:   ynr.bus@gmail.com
+
+Professional  Summary :  
+
+Having 5 years of Experience in IT Industry, Developing Enterprise
+applications using J2SE and J2EE Technologies.
+
+Strong programming skills in Core java, JDBC, Servlets, JSP,Struts2.
+
+Working knowledge in Spring3,  Hibernate frameworks.
+
+Hands on Experience in Tomcat web server.
+
+Hands on experience using VSS, CVS, JIRA, HPQC, Rally tools. 
+
+Having experience using  IDEs Eclipse .
+
+Working Knowledge on Oracle  database.
+
+Working knowledge of Agile Scrum methodology.
+
+Good experience in developing enterprise, web applications by following
+SDLC and Agile scrum methodologies .
+
+Excellent team player with commitment, dedication and planning towards
+goal oriented tasks and problem-solving skills with good interpersonal
+and communication skills.
+
+Education :   
+
+M.C.A( from Osmania University Hyderabad).
+
+B.Sc(from Kakatiya University, Warangal).
+
+Soft Skill Profile :  
+
+Operating System	: 	Windows (2K/ NT/XP)
+
+Languages		: 	Java, J2EE, Java Script, SQL, PL/SQL
+
+Front End 		: 	JSP2.2,  HTML
+
+J2EE Technologies	: 	Servlets3, JSP2.1, JDBC4.0
+
+Frameworks		: 	Spring3,Hibernate4, Struts2
+
+IDE 			: 	Eclipse4.
+
+Servers			: 	Tomcat7
+
+Database		: 	Oracle10g.
+
+Experience Summary :
+
+Working with Mphasis Bangalore as Sr.Software Engineer from May-2010 to
+till date.
+
+Project #1 : Javalina
+
+Client		 :  Mphasis Internal Product.
+
+Environment    :  Spring , Hibernate ,Oracle10g, tomcat6,Eclipse4. 		 
+
+Duration	 :  Feb 2014 to till date.
+
+Description:
+
+Javelina's payer platform for health benefits and reimbursement
+administration gives you the flexibility required to support ongoing
+regulatory mandates and adapt to new value-based care management models.
+
+
+Its architecture and business-driven configuration ensure optimal
+operations performance, while its expanded interoperability maximizes
+efficiency of enterprise.
+
+Some of the critical modules in Javelina are – B&A, MFM, Enrollment,
+Plan Building, Claims Pricing, Adjudication setup rules,  Claims
+Processing, EDI, WebECI, CRM.
+
+Responsibilities:
+
+Involved in Spring & Hibernate integration.
+
+Implemented various configuration files and Mapping files using
+Hibernate.
+
+Created various classes and beans files using Spring.
+
+Involved in coding for B & A module.
+
+Responsible for Low level design, and Impact analysis documentation.
+
+Project #2 :  EWS .
+
+Client		   :   AIG  
+
+Environment	   :   AIG Framework , Jsp, Eclipse4, Tomcat6, Oracle10g,
+jsp.
+
+Duration		   :   Sep 2012 to Feb 2014.	
+
+Description:
+
+EWS it is an Insurance Application. It provides end-to-end support for
+Insurance domain.  This application is deployed in various countries.
+Using EWS Clients can issue Warranty certificate to its customers. The
+CSR will open a Claim if there is an issue with the product.
+
+Claim contains work orders like job order, purchase order, or refund
+order, based on the product status. Once the product is successfully
+repaired or replace, the amount will be settled. 
+
+This application provides end to end functionality from Issuing
+certificate to Closing the claim and settlement the amount to the user.
+
+EWS contains modules like Users (Internal, External users), WCA, P&S,
+Reports, Plan, Program, PPC,CSPC, SISE Endorsement, Settlement modules.
+
+Responsibilities:
+
+Development of the application using AIG Framework
+
+Implemented Controller classes and Config files using AIG framework.
+
+Responsible for the Impact analysis and time estimates for the modules.
+
+Responsible for UAT, and Live deployments environment files preparation.
+
+Implemented remarks functionality across the application.
+
+Involved in SISE endorsement and Settlement modules.
+
+Project #3 : One Net
+
+Client		 :   Vodafone UK  
+
+Environment	 :   Struts2, servlets, jsp, jdbc, java EE,  tomcat6,
+oracle10g, eclipse4.
+
+Duration		 :   May 2010  to aug-12.	
+
+Description 	:
+
+	OneNet is used for small and medium organizations,(50-100 employees) .
+The objective of this application is to reduce bill cost for Land line
+phones in UK, and all calls should be handled. If any call come to Land
+line it will automatically forwards to it virtual Numbers, based on the
+parameters configured.
+
+This application contains modules Call Forwarding, Call Screening, DND,
+UserManagement, Hunt groups, organisational groups.
+
+	
+
+Responsibilities:
+
+Implemented various classes for DND module.
+
+Involved in Call forwarding, and Call screening modules.
+
+Implemented Database coding using jdbc. 
+
+Implemented Various classes using Struts2 and xml files for configure
+them.
+
+Implemented JSPs for the DND, Forwarding modules.
+

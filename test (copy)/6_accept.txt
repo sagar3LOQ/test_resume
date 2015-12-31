@@ -1,0 +1,230 @@
+ 
+HOUSE NO 225
+DOYENS COLONY
+SERILINGAMPALLY, HYDERABAD
+
+SUSHANT KUMAR 
+
+sushant001@gmail.com
++91-9908261990
+
+OBJECTIVE
+
+SKILL SUMMARY
+
+Seeking a career in Software Development, Modularization, Software Engineering and life
+cycle management, Planning, Design Architecture and reverse engineering.
+
+Java Desktop / Swing
+and Enterprise with
+Spring and JSP
+JSF/RichFaces , Spring
+IOC, JDBC Template and
+Hibernate
+
+CAREER INTEREST
+
+ 
+Application   Development  Framework  for  JAVA  /  J2EE,  innovations  in  Enriched  User  Experiences 
+using  Java  Swing  /  JSF  /  Rich  faces   Components,  Modularization,  Plug­in  Development  for  Basic Linux Platform
+Eclipse/Netbeans, Software Engineering and software life cycle management. 
+Android Platform 2.2
+using Eclipse Tool
+
+EDUCATION
+
+Computer Science, Bachelor of Technology
+
+August 2005 – May 2009
+
+Shri Mata Vaishno Devi University, Jammu, India
+
+Work Experiences / Internship
+Sr. Development Engineer Pramati Technologies July 2014 – Present
+Working on CastlightHealth application , which mines various data sources to predict the best
+price for medical services to its customers.
+
+DATABASE
+MANAGEMENT
+MySQL 5.x
+Apache Derby H2
+TRAINING/Internship
+India Engineering
+Center, Banglore
+Sun Microsystems
+DEVELOPMENT AIDS
+
+Team Size : 100
+Technologies : Spring, Java, Jersey, Mysql, MongoDb,ROR, MyBatis
+Working on CastlightHealth application , which mines various data sources to predict the best
+price for medical services to its customers.
+
+Working Experience on
+Netbeans/Eclipse IDE
+Jasper Report,iReport (
+Report Designing)
+platform
+
+Software Engineer CoMakeIT Sept 2013 – June 2014
+Team Size : 40
+Technologies : EJB 2,3, Java, Oracle, Web Logic, Jsp
+
+CVS, Subversion ,GIT
+(mostly via IDE) as
+version control.
+
+Worked for LeanApps, a dutch firm to manage & automate insurance and pension using highly
+Java Application Servers
+customizable software system.
+
+Team Size : 100
+Technologies : Spring, Java, Jersey, Mysql, MongoDb,ROR, MyBatis
+Project is being developed in Java Spring as core Development Framework and uses
+MongoDB and Mysql as primary database.
+
+Sr. Software Engineer E-Data Experts Sept 2011 – Present
+Working on NextGen , an ambitious project to manage Credit Bureau for Experian
+
+Tomcat 6,7
+Glassfish : 3,3.1 Prelude
+JBoss AS 4,5,7
+
+Team Size : 75
+Technologies : Spring, EJB, DB2, MongoDb,GWT
+Project is being developed in Java Spring as core Development Framework and uses
+MongoDB and DB2 as primary database.
+
+Sr. Software Engineer and project designer, Financial Module, Brishashpati March
+2010 – Aug 2011
+Worked as lead developer and project lead for Financial Module of ERP Mission sponsored by
+MHRD, GOI. Project is being developed as Free and Open source, written in JSF/Rich faces and
+Mysql server. This project is being developed by CSE Department, Sri Mata Vaishno Devi
+University, and Jammu under Asst. Prof. Ms. Sonika Gupta.
+
+Lead Java Web Developer, Algox Technologies June 2009 – Feb 2010
+Worked on various Java based packaged systems to incorporate features, security
+enhancement and performance enhancement along with embedding modular architecture,
+integration between modules and plug-in support. Technologies include MySQL, Apache
+Derby, Java, Jasper (for reporting), JDOM (xml processing) and Lucene (For searching text).
+
+Sun Campus Ambassador, Sun Microsystems Nov 2007 – June 2009
+Worked on various Sun and Open source technologies, Organized Events, Demonstrations and
+classes and developed projects on java.net and sourceforge.net.
+
+Sun Campus Intern, Sun Microsystems May 2008 –July 2008
+Worked at India Engineering Center, Banglore Under Srinivas, On Internationalization and JSF/
+Sun RI.
+
+PROJECTS AND RELATED WORK EXPERIENCE
+Major project
+
+January 2009 - April 2009
+Developed JWriter, a multi language programming environment (IDE) in Java. It supports I/O,
+File management, Syntax Highlighter, code completion and many more features for more
+than 10 different programming languages.
+
+Payroll System (Desktop Application) August 2008 – April 2009
+IDE : Net Beans
+Platform: Windows
+Language: Java (Swing, JDBC & Core Java)
+Database: MySQL 5.0
+Reports : Jasper Report ( An Open Source platform for robust Reporting)
+
+Role: Project Initiator, Requirement gathering, prototyping, Planning and Development.
+Developed Payroll System for SMVDU , managing more than 250 employee payroll.
+
+Erp-360 Business Suite
+IDE : Net Beans/ Eclipse
+Platform: Linux
+Language: Java/Mysql/Richfaces/JSF 2.0
+Deployed at http://182.18.142.83/e360/
+Role: Analysis, prototyping, Development and final deployment.
+
+Erp-360 Business Suite On Mobile / Android
+IDE : Eclipse ADT
+Platform: Linux
+Language: Java/Android Kit
+Deployed at http://182.18.142.83/e360/download/erpm.apk
+Role: Analysis, prototyping, Development and final deployment and integration with Online
+App.
+
+SchooSim (Desktop Application) January 2009 – feb 2010
+AlgoX Technologies, New Delhi
+Role: Initiator, Planning and Lead Developer /architect.
+A Complete School Management Software for fee, exam, staff management. In more than 400
+schools across India. Currently more than 50 plug-ins developed by various developers.
+SchoolSim is developed using Java Swing, Mysql and Jasper report.
+
+HOBBY PROJECTS (HOSTED ON JAVA.NET)
+Spring Introspect: An eclipse plug-in for quickly browsing Spring beans.
+Spring Run: An eclipse standalone program which inspects and presents visual beans for
+spring.
+
+PAM: Personal Accounting management tool for Android.
+DB/J: Developed a MySQL client application with unique feature of Database comparison and
+diff generation tool.
+DB/J incorporates support for Apache Derby and can be used for schema and data migration
+between Mysql and Derby and vice versa.
+It has also got simple Data Definition, data manipulation and other services like backup and
+script execution.
+JWriter: Added support to compile & run more than 10 languages on screen.
+
+MaX ADF: Java desktop based Application development framework integrated with MySQL .
+Feature set include Modularization, Integrated Help support, Window services,
+Error/Exception Management.
+DB Code Gen: A Java tool to generate model and controller code from database tables.
+Currently code generated is native jdbc.
+ 
+
+CURRENT CTC AND EXPECTATIONS
+Current : Rs 8.5 LPA 
+Expected : 11­12 LPA (negotiable wrt profile and work interest) 
+
+ACHIEVEMENTS
+● Conducted more than 80 Java interviews for e-Data experts in past 1 yr
+● Conducted 2 days workshop on android at IIT Guwahati in AUG 2012.
+● Conducted a 2 days’ workshop on Android Development in Assam University Silchar
+with more than 75 participants
+● Conducted a 2 days’ workshop on Android Development in NIT Agartala with more
+than 50 participants
+● Trained more than 100 students of NIT Silchar on Java Technology during may-June,
+2010 conducted by AlgoX Technologies. I played the role of Program manager and
+Faculty
+● Trained 96 students on PHP / Web technologies at NIT Agartala in Oct 2010.
+●
+
+7 times selected as best campus ambassador by Sun Microsystems.
+
+● Established Sun Club, SMVDU as Sun Campus Ambassador with more than 300
+members. Organized classes, training sessions and demonstration on various
+technologies.
+●
+
+Initiator of CAMS project. Currently sponsored by MHRD, GOI. Promoted by Sun
+Microsystems during Sun Tech Days, 2008. It was part of KeyNote Speech of Sun Vice
+President, education APAC.
+
+● Awarded special scholarship by Respected Vice Chancellor, SMVDU for planning and
+implementing Payroll System at SMVDU.
+
+PERSONAL DETAILS
+Father’s Name
+
+: Shri Satyendra Narayan Choudhary
+
+Blood group
+
+: O+
+
+Marital Status
+
+: Single.
+
+Nationality
+
+           : Indian. 
+
+Hobbies                      : Computer Programming, Blogging, Software Designing and planning.  
+Languages known      : English, Hindi (Written & Spoken). 
+
+

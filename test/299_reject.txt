@@ -1,0 +1,196 @@
+Pre-screening Technical Questionnaire :-
+
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                       3 year&
+current  project                           
+         
+
+Spring                            3 year&
+current project
+
+Web Services                            
+                                    
+            
+
+Core Java                        4 year
+
+Design Patterns               2 year    
+
+UML design                         -    
+
+Build Tools (Maven/Ant)      - Maven 
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc. Tomcat
+
+Ok to start up
+
+80% code 20% design
+
+Name	: AAVULA MOGILI
+
+E-mail	:  HYPERLINK "../../../AppData/Local/Microsoft/Windows/Temporary
+Internet Files/Content.Outlook/WPEMDN3D/mouli.iitkgp@gmail.com"
+mouli.iitkgp@gmail.com 
+
+Cell	: 91 9908225989
+
+	
+
+SUMMARY
+
+Having 4+yrs of IT experience in Software Development related to
+Insurance  domain.
+
+Hands on experience in development of web applications using Java with
+OOPS concepts and various design patterns
+
+Hands on experience in Spring Framework modules like IOC, AOP, ORM,
+Spring MVC and Spring JMS.
+
+Hands on experience in using Hibernate ORM tool.
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer, Feb 2012 to present in EBIX Software India
+Pvt. Ltd. 
+
+Software Engineer, Sep 2010 to Feb 2012 in One Convergence Devices Pvt.
+Ltd. 
+
+TECHNICAL SKILLS
+
+Programming Languages: Java, Data Structures and C 
+
+ORM			 : Hibernate-4.2.0
+
+Frameworks		 : Spring -3.2.3(IOC, AOP, ORM, Spring MVC and JMS)
+
+Rule Engine		 : J Boss Drools-5.0.1
+
+BPM Engines		 : Activity 5.13
+
+DBMS			 : My SQL, MS SQL Server
+
+Web servers		 : Tomcat
+
+Version control Tools	 : SVN
+
+EDUCATIONAL PROFILE
+
+M.Tech in Computer Science from IIT  Kharagpur, with 8.59 CGPA
+
+M.Sc in Mathematics from NIT Warangal, with 8.13 CGPS
+
+B.Sc in Computer Science from Kakatiya University, with 76.5% 
+
+Intermediate (Mathematics, Physics, Chemistry) from AP state board,
+70.4%
+
+SSC from AP state board, with 71.33%
+
+WORK EXPERIENCE
+
+#1  Project Name 	:	LMIPSS
+
+      Client		:	Liberty Mutual Insurance
+
+      Role		:	Software Developer.
+
+      Technologies	:	Java, Spring, Hibernate, BPMN, Drools, JMS, MS Sql
+Server
+
+      Experience		:	Sep -2013 to Present 
+
+      Company		:	EBIX Software India Pvt. Ltd
+
+      Synopsis
+
+LMIPSS is a Rich Enterprise Application that deals with
+Producer(Agent/Agency) life cycle.  Producer is a person or some firm
+that can sell and/or solicit business for an Insurance Carrier for one
+more carrier products/plans for a single or multiple lines of business.
+Producer on-boarding or Relationship Management refers to the business
+process through which Producer enters into contract with LLAC(Liberty
+Life Assurance Co. of Boston) to sell LLAC’s products. Onboarding
+process involves multiple phases of evaluation and approvals to assess
+the Producer’s eligibility to conduct business with LLAC
+
+      Responsibilities
+
+Analyze and understand requirements.
+
+Developed business process to drive business flow for add/remove  one or
+more products in one or multiple lines of business to a producer.
+
+Developed business process to drive business flow for quick actions like
+ producer name change request, producer termination, reinstate producer
+etc .
+
+Customization of  Party  Management Module like adding relationship
+profile information, products while on boarding producer and 
+enhancements to the existing PSS Product features
+
+#2 Product Name	:	PSS (Producer Support System) Product
+
+     Role			:	Software Developer.
+
+     Technologies	:	Java, Spring, Hibernate, BPMN, Drools, JMS, My SQL
+
+     Experience		:	Feb -2012 to Sep -2013
+
+     Company		:	EBIX Software India Pvt. Ltd
+
+     Synopsis 
+
+Producer support system manages entire distribution mechanism of any
+insurance provider. It deals with the establishment of contracts with
+third parties (organizations and individuals) called as enrollment,
+hierarchy setup, license, appointment and renewal processes. It also
+offers a compensation system to compute commissions and incentives of
+producers. 
+
+      Responsibilities
+
+Analyze and understand requirements.
+
+Implementation of enhanced features  in party management module.
+
+Developed business process to drive business flow for quick actions like
+  deactivate/reactivate producer.
+
+#3 Project Name	:	Standard AMU(Automated Medical Underwriting)
+
+     Client		:	Standard Life Insurance, Portland, US.
+
+     Role			:	Software Developer.
+
+     Technologies	:	Java, Spring, Hibernate, My SQL.
+
+     Experience		:	Sep -2010 to Feb -2012
+
+     Company		:	One Convergence Devices Pvt. Ltd.
+
+     Synopsis
+
+Standard is a project which gives us the significance of Group insurance
+and it deals with group of Applicants who ever applicable for the
+Policy. The central idea of this project is having policy life cycle
+which have been involved internally in Admin portal and Automated
+Underwriting. Standard is having extensive and innovative automated
+underwriting process based upon demographic details of the Applicant.
+Standard project ensures must be minimized the customer risk while
+issuing the Policy unlike paper entry and it also drives group insurance
+market to reduce the cost of issuing policy in time frames for the
+authorized group of people based on health conditions.
+
+      Responsibilities
+
+Implementation of enhanced features and defect fixing 
+
+Developed screens based on client request
+
+	
+

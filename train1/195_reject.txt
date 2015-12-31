@@ -1,0 +1,181 @@
+Kushagra Kapoor
+Email-Id: kushagra.kapoor@yahoo.com
+Mobile: +918588899280
+
+PR O FE S S I O NA L SU M MA R Y
+
+
+
+
+
+
+
+Currently working as a Senior Software Developer at MakeMyTrip.
+3 years of hands-on experience in designing and developing Java/J2EE applications.
+Strong in Concepts (Object Oriented Design, Coding Standards and Best Practices)
+Experience in building SOAP & REST services.
+Proficiency in Core Java, Data Structures, Algorithms and in frameworks like Hibernate, Spring &
+Struts.
+Excellent Interpersonal and Communication Skills.
+
+TEC HN I C A L S U M MA R Y
+Technologies
+
+Core Java, Spring 3.0, Struts 2.0, Apache CXF, SOAP & REST
+Services, Hibernate, MYSQL
+
+Development IDE
+
+Eclipse
+
+Tools
+
+Clarify CRM, MYSQL Workbench, Putty, BIRT, SOAP UI, Maven, JIRA,
+GIT, Bugzilla, FireBug
+
+Web Development
+
+Native JavaScript, JSP, Servlet, Ajax
+
+Web Servers
+
+Apache tomcat.
+
+W OR K EX PE R I E NC E
+Makemytrip.com
+Senior Software Developer-I
+
+Gurgaon, IN
+August 25, 2014 – Present
+
+Monolithic to Micro services
+MakeMyTrip extranet’s legacy code and architecture being moved to Micro service’s architecture. The
+legacy monolithic architecture overloaded the web container and was difficult for new developer to
+understand. To scale the application, reducing large applications deployment risks and making IDE faster
+the architecture is moved to Micro services.
+Hotel Sequencing
+This utility allows the BD Managers to directly update the sequence of the hotels that are shown on the
+MakeMyTrip’s. Thorough this utility the managers can sequence the sponsored hotels which pay to
+MakeMyTrip to come above in the listing and the promoted hotels which are observed by the managers to
+be high on sale.
+Business Intelligence
+Developed an end to end utility that generates monthly financial reports for all the hotels associated with
+MakeMyTrip & sends it to the respective hotels on first day of every month. This project plays a crucial role
+
+by letting hoteliers know their financial performance with MakeMyTrip in the past months, which helps the
+hoteliers in improving their business strategies.
+Hotel Double Check
+Firstly was called Marriot Double Check, for double checking availability with the hotels before booking to
+reduce booking failures. Marriot is among the Gold class hotels associated with MakeMyTrip which feed
+their inventory & rates to MMT in a gap of 4-5 hours twice daily. Marriot wants the booking request made
+to them must succeed, so to wave off the booking failure in case of unavailable inventory just before
+booking we make a call to China Online(third party handling integration b/w Marriot & MMT). As per their
+response booking is further proceeded. Initially this service was created for Marriot but now has been
+exposed to multiple Gold class hotels.
+Redis Info Utility
+This utility makes access to Redis very handy through GUI. Redis being one of the cache’s responsible for
+fast response of MMT site, the data in it is very sensitive and frequently used. So for saving the effort to
+reach Redis server and fire commands every time to access the data in it, this application was developed.
+This application basically provides all the features like key, server info, pattern, TTL which makes hit to
+Redis on click of a button and gets all the required information.
+Wipro Technologies
+Software Engineer
+
+Gurgaon, IN
+11th June, 2012 – 14th Aug, 2014
+
+COP(Clarify Online Portal)-Subcase
+Wipro’s client Orange Business Services used the Amdocs Clarify CRM tool whose maintenance cost was
+very high. My role was to replicate the whole Subcase functionality into a web module. It included various
+feature like New Subcase Creation, Edit Subcase, Dispatch Subcase, Change Subcase Status, Log Notes,
+Close Subcase and tons of VB validations were converted into java. Being one of the biggest modules and
+also a very crucial one, its success was highly appreciated from Wipro as well as client.
+Pulse-AMS
+PULSE project involved in building an end to end application for internet gambling. The system proposed
+provides Registration, Validation, Card Management, Deposit, Refund, Withdrawal and Account
+Administration. My role was to work on iText for report generation of transactions for all modules of the
+project, fixing the security issues (majorly SQL injection) that were reported for modules like Advice Note,
+Inbound & Outbound, Reports, Segregation of Funds.
+
+OT H ER A C HI E V EM EN TS
+
+
+
+Was awarded “Feather in my Cap” in OBS, for excellent contribution in the project.
+Got recognition for BI reporting for its high business importance.
+
+ED UC A TI ON
+
+
+B-TECH in Computer Science from Amity University, Noida with 7.73 C.G.P.A
+
+
+
+H.S.S.C from St Don Bosco School, Lakhimpur Kheri(UP) with 76.4%
+
+
+
+S.S.C from St Don Bosco School, Lakhimpur Kheri(UP) with 77%
+
+
+
+Three months internal training on Core Java and J2EE in Wipro Technologies, Pune
+
+
+
+Three months industrial training in Web Development in Advance JAVA in HCL, Noida
+
+PER S ON A L D E T A I L S
+
+
+Date of Birth
+
+:
+
+14th May 1990
+
+
+
+Gender
+
+:
+
+Male
+
+
+
+Father Name
+
+:
+
+Rajendra Kumar Kapoor
+
+
+
+Nationality
+
+:
+
+INDIAN
+
+
+
+Languages Known
+
+:
+
+Hindi & English
+
+
+
+Hobbies
+
+:
+
+Travelling & Playing Cricket
+
+Declaration
+I Kushagra Kapoor hereby declare that the information given above in My Profile is true and correct to the best
+of my knowledge.
+
+

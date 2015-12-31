@@ -1,0 +1,319 @@
+Sulabh Bajaj
+
+E-mail: sulabh30@gmail.com
+
+Contact No- +91 9953447456
+
+
+
+SYNOPSIS
+
+3+ yearsof experience in IT Industry. 
+
+Presently associated with Edifecs, as a Software Engineer.
+
+Hands on experience in implementation of multiple Cloud solutions.
+
+ITIL Service Management (ServiceNow) process workflow automation and orchestration.
+
+
+
+
+
+Technical Skills
+
+
+
+Languages
+
+C, C++, java
+
+Databases
+
+MySQL, PostgresQl,SQL server
+
+Framework
+
+Spring
+
+Build Management   
+
+Ant,maven
+
+Web Development   
+
+JSP, HTML5, Java script, JQuery/AJAX, Ext JS
+
+Cloud solutions
+
+AWS, 
+
+service management(ServiceNow)
+
+IDE
+
+Eclipse
+
+ORM
+
+Hibernate
+
+
+
+CORE COMPETENCIES
+
+Comprehensive knowledge of software products and its operating systems 
+
+Knowledge of business process and management with strong customer service skills 
+
+Attention to detail with sound oral and written communication skills 
+
+Possess sound decision making skills and has the ability to take initiatives 
+
+Excellent team player with good negotiation and leadership skills 
+
+Target oriented and has the ability to handle multiple tasks.
+
+Ability to adapt to 24*7 work environment.
+
+
+
+Roles and Responsibilities:-
+
+	
+
+Java Code development, Web development and testing  in various modules of Health Information Exchange and Cloud Eco System Hub 
+
+Deliver technical sessions to various managers and colleagues.
+
+Writing code specific to Amazon Integration with Eco System Hub.
+
+Worked on the TMobile, Rwest, AMP specific implementation of Eco System Hub. 
+
+Handling documentation of the Cloud Eco system Hub. 
+
+Continuously improve troubleshooting skills, product expertise, and knowledge on related technical topics. 
+
+Meet all quality and productivity performance goal.
+
+
+
+
+
+
+
+
+
+Projects undertaken
+
+
+
+
+
+	Health Information Exchange:
+
+Seamless sharing of clinical data to improve care and gain valuable insight  across partner ecosystem
+
+Through a solution that provides you with actionable intelligence for early intervention on key clinical and financial risk markers. Edifecs Collaboration Solution leverages your existing trading infrastructure, then observes, validates and links your incoming clinical and administrative data in near real-time. What gets created? Comprehensive, concurrent, transparent, customer-centric records with a single context of care.
+
+Providing one single interface to view and operate entire clinical data: different Edi files like hl7, ccd, x12 file are mapped to a database from where data is fetched and displayed onto the User interface.
+
+Implementing real time graphs: generating real time information of an individual including the lab reports and basic vitals.
+
+Implementing Restful web service:service manager which is in house wrapper on tomcat enables restful service calls.
+
+The project requires to the core knowledge of spring core, SQL, Maven, Ext JS MVC, Java Script, AJAX/JQuery, hibernate,Junit.
+
+Duration – 9 months.
+
+Team Size – 10
+
+
+
+
+
+	Ecosystem Hub Solution :
+
+Infosys Cloud Ecosystem Hub enables your enterprise to build, manage and govern a unified hybrid cloud environment.
+
+It helps you rapidly create, adopt and govern cloud services across your ecosystem. As a result, you can accelerate time-to-market of cloud services by up to 40%, improve productivity by up to 20% and achieve cost savings of up to 30%
+
+Provision IT infrastructure and platforms in a matter of minutes
+
+Easily subscribe to enterprise cloud services through a unified self-service catalogue.
+
+Integration of Ecosystem Hub with AWS : Amazon Web Services (abbreviated AWS) is a collection of remote computing services (also called web services) that together make up a cloud computing platform, offered over the Internet by Amazon.com. The most central and well-known of these services are Amazon EC2 and Amazon S3. The service is advertised as providing a large computing capacity (potentially many servers) much faster and cheaper than building a physical server farm.
+
+Implementing and automating ITIL service Management (serviceNow):ServiceNow is the enterprise IT cloud company to transform IT by automating and managing IT service relationships across the global enterprise.Deploying services offered by ServiceNow to create a single system of record for IT and automate manual tasks, standardize processes, and consolidate legacy systems. It includes raising tickets (Incident Management), Service Request Management, Change Request Management, Problem management.
+
+Implementing Restful web service: Representational State Transfer (REST) is an architectural style consisting of a coordinated set of constraints applied to components, connectors, and data elements, within a distributed hypermedia system to achieve desired architectural properties. REST ignores the details of component implementation and protocol syntax in order to focus on the roles of components, the constraints upon their interaction with other components, and their interpretation of significant data elements. Transforming services provided by Eco System hub to be used by the Client. AMP offers Two Kind of Application some of which are in BMC remedy another ITSM and some In ServiceNow the REST service helps Synchronisation of both.
+
+The project requires to the core knowledge of Amazon API, Springs MVC 3.0, SQL, Ant, JSP, Java Script, AJAX/JQuery, XML,ITSM(Service Now),JBPM.
+
+Duration – 1 year 9 month.
+
+Team Size – 7
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+	Automated Testing for business Tier and Persistence Tier of JavaEE application
+
+Undertaken automated testing project during internship program at Infosys.
+
+It provides the faculty of Infosys Limited to test Business Tier and Persistence Tier module of a trainee automatically.
+
+It is accustomed to test up to 5 projects submitted by trainees simultaneously
+
+Java, JPA, JSF, JUNIT tool  were the building blocks of the project
+
+Duration – 5 months.
+
+Team Size – 5
+
+
+
+	Text Editor
+
+Undertaken Text editor project during graduation period.
+
+Text editor used java concepts and is much like notepad.
+
+It is accustomed to write and manipulate text.
+
+Duration –1.5 months.
+
+Team Size – 2
+
+
+
+
+
+
+
+Professional Qualification: - 
+
+
+
+Qualifications
+
+College / University
+
+Year
+
+ %
+
+B.Tech (Computer Science)
+
+ Punjab University
+
+2012
+
+74.38
+
+XII
+
+Bal niketan senior secondary school
+
+(CBSE)
+
+2008
+
+73.4(PCM 81)
+
+X
+
+Chaman vatika residential school (CBSE)
+
+2006
+
+81
+
+
+
+
+
+
+
+
+
+Certifications & training
+
+Successfully completed internship at Infosys Limited with a CGPA of 4.6 out of 5.
+
+Completed training in CLOUD Services (Cloud Ecosystem Hub) from Infosys Limited.
+
+Successfully completed 6 weeks training at Oops Info Solutions, Sector34,Chandigarh in Java Core(25th May 2009- 1st July 2009)
+
+Microsoft Certified in HTML5, javascript and CSS(2013).
+
+Achievements and Co-Curricular
+
+
+
+Stood First in street play at Punjab Engineering College Fest.
+
+Stood First in street play at National Institute of Technology.
+
+Stood First in street play at Jalsa Youth festival.
+
+Stood First in Ad mad at Jalsa Youth festival.
+
+Stood Second in Street play at Indian Institute of Technology
+
+Active member of the Dramatics club of college
+
+Active Member of Dance and Music club of college
+
+Member of Core committee of college annual function
+
+Member of core committee college fest APRATIM-2011
+
+Secured 93 percentile in E-Litmus.
+
+
+
+Skills
+
+Sincere, workaholic, quick learner, decision making capabilities, leadership qualities, willing to take initiative and adaptive according to the environment or needs.
+
+
+
+Personal Information
+
+
+
+Father’s Name: Mr.  Ashok Bajaj
+
+Mother’s Name: Mrs. Monika Bajaj
+
+Date of Birth: Oct 30, 1990
+
+Nationality: Indian
+
+Address: #330, sector-8, Ambala City
+
+	Languages Known: English, Hindi and Punjabi
+
+
+
+
+
+Reference:
+
+
+
+DATED: ------------		                                                     (Sulabh Bajaj)

@@ -1,0 +1,179 @@
+VIKRAM GROVER
+
+Email:grover.vicky1990@gmail.com | Mobile: +91(0)9999863458
+
+							
+
+Experience Summary
+
+
+
+A quantitatively oriented analytics professional, with experience applying statistical modeling, data mining and machine learning techniques to solving real-world problems  and expertise in Airline and Travel domain. Experience analyzing 2M+ large data sets with 100-200 variables.
+
+
+Analytic Skills: 
+
+Regression Techniques– Multiple Regression, Logistic Regression, Multinomial Logit models, Classification and Regression Trees,  Probit Regression, GLM, Time Series Analysis, Forecasting, Panel data analysis(Fixed effects, Random effects)
+
+Machine Learning Techniques –  SVM, Decision Trees, Classification, Clustering, Neural Networks, Ensemble Learning, Naïve Bayes, Random Forest, Gradient Boosting Machine
+
+Text Mining
+
+Multivariate Stats – Factor Analysis, Cluster Analysis, Discriminant Analysis, Principal Component Analysis
+
+Analysis Packages for statistics–  R, SPSS, base SAS, MATLAB, MINITAB, ITSM
+
+Currently Working on Big data tools like Hadoop, Rhipe, and RHadoop etc. 
+
+
+Employer
+
+
+
+June 2013 to present - Associate Software Engineer, Predictive Analytics | Interglobe Technologies Private Limited, Gurgaon, Haryana
+
+
+
+Job Responsibilities:
+
+Designing, developing and implementing predictive and descriptive data mining models
+
+Interpreting and analyzing results of predictive/data mining models
+
+Presenting complicated technical findings to a non-technical audience
+
+Writing reports that present findings and conclusions in a clear, concise fashion
+
+Sharing significant findings, methodologies and knowledge with peers (conference presentations)
+
+Delivering quality analysis to senior management
+
+
+
+Academic Qualification
+
+
+
+PG in Statistics from University of Warwick, Coventry, UK (Full-Time, 20011-2012) 
+
+Main subjects included: Statistical Methods, Statistical Practice with R, Design of Experiments, Bayesian Forecasting and Intervention, Multivariate Statistics, Financial Time series etc.
+
+BSc (Hons) Statistics from University of Delhi, India (2008-2011)
+
+Main subjects included:  Probability Theory, Linear Algebra, Operational Research, Econometrics, Stochastic Processes, Linear Models, Sampling Theory and Methods and SPSS etc.
+
+
+
+Project Walkthrough
+
+
+
+Title
+
+Predicting No-Shows for revenue optimization through overbooking                                                
+
+Client
+
+Leading Airline in Airline Sector
+
+Project Description
+
+Frequent practice in the airline industry is to overbook flights to make up for losses caused by absent passengers (also called no-shows). The focus of this case was to build models and understand the effects of various flight and passengers characteristics on No Show rate.
+
+Approach
+
+Random Forest, Support Vector Machine, Naive Bayes Classifier and Logistic Regression to predict  whether the passenger will be a show or a no-show based on the attributes like Departure Time , Gender, Aircraft Type, Departure Airport, Booking Class etc.
+
+Achievement
+
+Appreciation from top management for predicting No-Shows with good accuracy and developing the model in a very short span of time.
+
+Environment and Languages worked on
+
+Office Automation
+
+R, Base SAS and SPSS
+
+MS Office (Excel, Power Point, Word)
+
+
+
+Title
+
+Predicting factors influencing flight delays
+
+Client 
+
+Leading Airline
+
+Project Description
+
+Flight delays are a major problem within the airline industry and a minute reduction per flight could save $1.2 million in annual crew costs and $5 million in annual fuel savings for a midsized airline.  Build the models to predict the flight delays and delay time for a prominent mid-sized airline. For data-mining purpose, used R to develop models for predicting flight delays based on various attributes of a particular flight. The dataset contained 2,50,000 flights and 50 variables.
+
+Approach
+
+Classification and Regression tree (CART) algorithm used to depict the co-dependent factors (Location of the Airport, Time of Departure, Flying Distance, Aircraft Type etc.) causing flight delays
+
+Logistic Regression to predict whether or not a given departure will be delayed or on-time
+
+Mutinomial Logistic regression or CART to create models that predict the flight delay interval
+
+Responsibilities
+
+Prepared the case study to provide the business insights for the clients
+
+Performed the coding in R for analysis
+
+Environment and Languages worked on
+
+R and SAS
+
+
+
+
+
+Title
+
+Seat Inventory Forecasting
+
+Client
+
+Leading Airline in the Indian Sector
+
+Project Description
+
+Inventory is a perishable good, so an airline wants to sell all the tickets before the departure of the flight
+
+The center of the analysis was on forecasting seat inventory (booked count) based on the prior days booked count which gives an ability to airline to provide promotional offers so that the flight is fully filled at the time of departure.
+
+Approach
+
+	SVM, Neural Networks and Ensemble Learning
+
+	Time Series/ Panel data modeling to forecast the booked count based on the prior days buckets
+
+Environment and Languages worked on
+
+R, MINITAB, ITSM
+
+
+
+
+
+Title
+
+POC on Mining Twitter for Airline Consumer Sentiment and classifying tweets
+
+Project Description
+
+Text Mining for mining twitter data to check the customer sentiment for airlines by using R
+
+Unsupervised learning to identify network of terms based on their co-occurrence in the same
+
+Classifying the tweets based on the terms shared by them
+
+Social Network Analysis
+
+Environment and Languages worked on
+
+R packages used (twitteR, plyr, stringR, tm, ggplot, flemix, nnet, fpc etc.)

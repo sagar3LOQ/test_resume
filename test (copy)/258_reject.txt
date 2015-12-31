@@ -1,0 +1,268 @@
+6.3/30%hike/60days
+
+Arun Kumar Mahanty
+
+E-mail: arunmahanty408@gmail.com
+
+Contact:  +91-8970707252
+
+Professional Summary:
+
+Working as Senior Software Engineer with 3+ years of progressive
+Experience in the field of Java and J2EE.
+
+Currently working in Tavant Technologies India Pvt Ltd. as a Developer
+for Nacco-Fleet project with client Nacco.
+
+Got Pat on the Back award in iGATE for delivering a critical module in
+less time with good quality.
+
+Capability to explore, learn and understand newer business domains and
+technology.
+
+Has good experience on manufacturing, retail sectors.
+
+Have good experience in Software Development Life Cycle entailing
+Requirement analysis, design, development, testing and trouble shooting.
+
+Expertise and practical experience in developing Web Based Applications,
+Coding & Unit Testing.
+
+Worked on Quality Center Management and Test Notes for defect status
+tracking.
+
+Have good knowledge on Svn Repository for code check in, update and
+synchronization with Eclipse id.
+
+Has actively participated in self code review, peer review to help the
+team, written proper documentation wherever needed.
+
+Followed the coding standards as per client check list to improve the
+code quality.
+
+Objective:
+
+To pursue a challenging career in IT field, which offers excellent
+opportunities for learning and consistent growth, which provides a
+challenging environment for target achievements through professional
+excellence, dedication and commitment. 
+
+Technical Skills:
+
+Languages                                    :  Core Java, JDBC,
+Servlets, XML, Apache Wicket, Hibernate, JPA,
+Spring,Servlet’s,Jsp,Angular Js,Json
+
+DESIGN                                          : Star UML and Agro UML
+
+RDBMS                                  : ORACLE, DB2
+
+    APPLICATION/WEB SERVERS   : JBOSS  6.x, Apache Tomcat 5.0
+
+    Operating System	                :  Windows
+
+    Tools                                              :  Eclipse IDE,
+SVN, MAVEN, JRebel, Find Bug, PMD Check Style, Log 4j
+
+Academic Qualification:
+
+Course		                                  Institution                   
+                           %Marks
+
+B.Tech in Electronics and Communication Engineering	
+
+JNTU KAKINADA	
+
+67.8
+
+Higher Secondary Examination Certificate	Board of Secondary Education,
+Andhra Pradesh	
+
+91.5
+
+Secondary School Certificate	School of Secondary Education, Andhra
+Pradesh	83.3
+
+
+
+Project Details:
+
+NACCO-FLEET  for Nacco
+
+Summary: 
+
+Fleet Management is a reduction of materials handling costs resulting in
+increased efficiency. This requires a planned replacement program which
+optimizes the economic life of the equipment. 
+
+              The over all goal is to reduce cost.   
+
+               However, each customers definition of, and expectation
+from, fleet management is unique.
+
+Responsibilities and Contributions:
+
+Analysing the requirements.
+
+Creation of tables.
+
+Code Development.
+
+Writing unit test cases.              	
+
+Fixing Defects.
+
+Technical Skills		: Java, spring, Hibernate, JPA, Angular JS, Json,jsp
+
+Employer		: Tavant Technologies India Pvt Ltd.
+
+Duration		: Jan 2014 to till Date
+
+Information Hub for Honda
+
+Summary: 
+
+Infohub manages two applications Seihan and MDM where configuration is
+relatively simple and message traffic is low.
+
+The main goal of the project is to have a proper application to support
+both message follow up and routing configuration. It only acts as the
+User Interface allowing for easy maintenance of the message routing and
+configuration parameters and also as the means to track messages flowing
+through the infohub and to monitor and remediate message processing
+failures. Its concern is to specify how message routing configuration
+can be specified and maintained and messages flowing through infohub can
+be monitored.
+
+Responsibilities and Contributions:
+
+Requirement analysis
+
+Developing LLDs and HLDs. 
+
+Developing Prototypes 
+
+Development of Modules after signing off the prototypes.
+
+Unit testing, deployment testing and Integration Testing 
+
+Technical Skills		: Java, J2EE- Spring, Hibernate, Java Script, Jquery
+
+Employer		: iGATE Global Solutions  Private  limited, Bangalore
+
+Duration		: May 2013- Dec 2013
+
+PPM (Price Policy Management) for Honda
+
+Summary: 
+
+Price Policy Management defines price policy for each part of Honda
+Cars, bikes and equipment. Each price which is not set manually needs to
+be related to a given policy defined in the system. Each defined price
+policy in the system need to be in translation of a business price
+policy defined and set up by the pricing team. Two policies will be
+defined: initial price policies and price review policies. Along with
+defining policies, system also keeps information about competitors to
+compare the prices offered by them and changes the prices according to
+the market. Based on the sales for a particular year policies are
+revised. Pricing team sets prices for the parts. Management can accept
+or reject the prices. Policy will be applicable from the day management
+accept the policy defined for the part. Even management can set new
+policies.
+
+Responsibilities and Contributions:
+
+Requirement gathering.
+
+Developing LLDs and HLDs. 
+
+Developing Prototypes and presenting the same to the Clients.
+
+Development of Modules after signing off the prototypes.
+
+Unit testing, deployment testing and Integration Testing and customer
+demo
+
+Technical Skills		: Java, J2EE- Spring, Wickets,
+JPA,HTML,CSS,JavaScript,Jquery
+
+Employer		: iGATE Global Solutions pvt ltd, Bangalore
+
+Duration		: June 2012 – Apr 2013
+
+CPS (Common Planning System) for Honda
+
+Summary: 
+
+CPS – Common Planning System is a Supply Chain management that enables
+Honda Europe to manage stock across Honda organizations and
+distributors.
+
+The stock is currently owned and managed by individual countries
+organizations. Each country runs its own stock calculation process which
+establishes the availability of a product by simulating the effect that
+a planned production volume and a forecasted sales plan have on future
+stock levels. Without a Common System across countries, each stock
+calculation process is developed independently as an excel document,
+making it difficult to consolidate and analyze demand date in meaningful
+manner.
+
+The move to Common Stock will require changes to the current stock
+calculation process, accountabilities and most importantly the
+underpinning common planning system
+
+Responsibilities and Contributions:
+
+Played an active role as an Application Developer. 
+
+Analyzing and understanding the requirements 
+
+Developed Prototype 
+
+Preparation and updating of design documents
+
+Involved in preparation of Unit test cases.
+
+Involved in unit testing.
+
+Technical Skills		: Java, J2EE- Spring, Hibernate, JPA, JMS , Apache
+Wicket, JPA, Jquery, Java Script
+
+Employer		: iGATE Global Solutions private limited, Bangalore
+
+Duration		: Mar 2011 – May 2012
+
+Personal Skills:
+
+Excellent written and oral communication, energetic  team player and
+organizer 
+
+Focused and unambiguous in presentations , documenting and reviews
+
+Personal Details:
+
+Name: Arun Kumar Mahanty
+
+DOB: 07/06/1989
+
+Sex: Male
+
+Marital Status: Single
+
+Contact Number: 8970707252
+
+E-mail:arunmahanty408.@gmail.com
+
+Language Known: English, Hindi, Oriya, Telugu
+
+	
+
+I hereby declare that information stated above is true to best of my
+knowledge and belief.
+
+Place: Bangalore
+
+Date: 								(Arun Kumar Mahanty)
+
+  PAGE   \* MERGEFORMAT  1 
+

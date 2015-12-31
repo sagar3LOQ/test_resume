@@ -1,0 +1,321 @@
+Gourav Mahindra
+
+Bangalore	Phone: +91-9972030003, 9900191411		E-mail: gmahindra0@gmail.com
+
+Education
+
+B. Tech. 	Aerospace Engineering 	IIT Bombay, India 	1999 – 2003	    7.46/10
+
+Professional Experience Summary
+
+10 years’ experience in software development Java and related technologies and making notable contributions as an Individual Contributor as well as Leading the team.
+
+Lead Engineer
+
+Informatica Corp.
+
+Apr 09 – till date
+
+Sr. Engineer - Product Dev.
+
+Oracle Hyperion (Symphony)
+
+Jul 07 – Mar 09
+
+Consultant
+
+Headstrong Services
+
+Mar 05 – Jul 07
+
+Software Engineer	
+
+Geometric Software (3DPLM)	
+
+Oct 03 – Mar 05
+
+Achievements
+
+Won 2nd prize globally for innovative idea and prototype on Innovation day 2012 event organized at Informatica. The prototype is getting productized now for next release.
+
+Among 8 Global Finalist on Innovation day 2013 – Informatica. 
+
+Awarded “Outstanding Performer” award for designing skills and leading Annotations Project (in Symphony)
+
+Received Client Manager (Oracle – Hyperion) feedback – Out of Box thinking (in Symphony).
+
+Won 1st prize in Team of the Year, 2006 award (Headstrong) - a proficient Team Player.
+
+Received Customer Kudos Gift Cheque from client in 2007 and Client response: “Exceeds Expectations” for Admin Consolidation Project in Headstrong.
+
+Won 1st Prize in TQA (Total Quality Achievement), 2005, in Headstrong- showing Strong Focus towards Quality.
+
+Selected as a Forum member of GRID (Group for Integration of Development), an initiative to promote knowledge about CATIA development and domain in the 3DPLM (Geometric).
+
+
+
+Key Skills
+
+Key Technologies: 
+
+Java, JavaScript, Struts, Ajax, JSP, JSTL, XML, Smartclient (JS Framework), Bindows (JS Framework)
+
+Other Technologies:
+
+Hibernate, Spring MVC, Spring, SQL, HTML, C++
+
+Systems: 
+
+Windows, Linux, Unix, 
+
+Designing: 
+
+Basic knowledge of UML, Design Patterns
+
+Web/App. Server used: 
+
+Apache, Apache Tomcat, Weblogic, Websphere 
+
+Databases: 
+
+Oracle, MS SQL 
+
+Development Tools: 
+
+Eclipse, Maven, Ant, Microsoft Visual Studio, TOAD, Erwin, SQL Navigator, Rational Rose, Perforce, MS VSS, Clearcase, MS Visio.
+
+Competencies
+
+Worked on various major and minor product releases. Designed, developed and extended various Frameworks. Also delivered Key Features and enhancements under sharp timelines.
+
+Expert in Designing and Implementing Reusable and Scalable Frameworks and Components 
+
+Demonstrated ability in Requirement Analysis, Effort Estimation, Designing and Developing scalable applications
+
+Working Knowledge of software development life cycle (SDLC) using both Agile methodology and Waterfall model 
+
+Adept in Status Reporting activities, Planning, Dependency Analysis and Risk forecasting.
+
+Good knowledge of Algorithms and data structures and good knowledge of architecture, design patterns and Multi-tier architecture
+
+Proven track record in adhering to established plans and delivering work in tight timelines
+
+Demonstrated ability in Deciphering and Collating written and verbal Requirements in clear and concise manner
+
+Experience in conducting daily standups, weekly, monthly scrums as a scrum master.
+
+Experience in handling monthly Process Compliance activities – Calculating various Metrics, Maintaining Process Compliance Documents. 
+
+Expert and Assertive in Communication (both verbal and written) and creating Rapport with stakeholders
+
+Ability to understand the domain, and design and develop applications keeping in mind an end user perspective
+
+Appreciated for decreasing turnaround time, increasing process compliance and good understanding of business.
+
+Currently involved in all phases of development cycle including Requirement Gathering, Prototyping, Effort Estimation, Design and Implementation.
+
+Experience in implementing quick Prototypes and POC (Proof of Concepts).
+
+Played a key role in recruiting new team members and training and mentoring them.
+
+Proven track record in Assigning and Monitoring tasks to junior members.
+
+
+
+Professional Experience Details
+
+Designation: Lead Engineer	      			Duration: Apr 09 – till date
+
+Company: Informatica Corporation		      	Product: Admin Console (Administrator)
+
+Product: Operational  Monitoring and Administrator		        April 2009 – till date
+
+Technologies: Java, Ajax, JavaScript, JSP, Isomorphic Smartclient (JS based Ajax UI framework)
+
+Development Tools: Eclipse, ANT, Maven, Perforce, Firebug, MS Studio Debugger
+
+Role:
+
+Complete Ownership of Reporting, Monitoring and Data Integration Modules 
+
+Expert in all phases of Development – Requirement Analysis, Design/Architect, Implementation, Bug fixing.
+
+Prioritizing, Planning and Defining Scope, 
+
+Risk Identification and Escalation
+
+Tracking and reporting status of cross team dependencies and deliverables
+
+Interact with all the stakeholders (Product Manager, QA, etc) on regular  
+
+Follow the Agile XP methodology 
+
+Analyse and Understand the Requirements from Stories, break them into tasks and provide estimates and deadlines.
+
+Conduct daily Standups, weekly Scrums, monthly planning and Retrospective as Scrum master.
+
+Leading and Guiding other team members – assign, monitor, track their deliverables.
+
+Product Summary:
+
+Currently working under Platform Business Unit in Informatica. Platform team is responsible for designing and developing core frameworks and tools which other products can utilise. Administrator is a web based platform tool where other services/products can plug-in.
+
+Involved in designing and developing the Monitoring framework which can help other Business Units or Products to integrate and plug into Monitoring without impacting each other. Monitoring is a tool designed to help Administrators monitor both top level view and drill down into live and historical data. It provides various Reports and Statistics for this purpose and provides direct view of data as well.
+
+Earlier worked on designing Data Integration framework in Administrator tool to help other plugins like SQL Data Services, Web Services etc. to run and execute Requests from a web application. Admin Console is a web based application UI to assist other products in performing various activities using a web based UI. It also acts as a one stop solution for providing real time information of various tools and services currently running and modifies them as well. 
+
+Designation: Sr. Engineer – Software Product Development	   Duration: Jul 07 – Mar 09
+
+Company: Symphony Services					Client: Oracle - Hyperion
+
+Project:  Annotation Manager (Financial Reports)		July 2007 – till date
+
+Technologies: Java, Ajax, JavaScript, JSP, Bindows (JS based Ajax UI framework)
+
+Development Tools: Eclipse, MS Visio, TOAD, ANT, Clearcase, CVS
+
+Project Summary:
+
+Annotations are objects that can be created on any reporting object. They can be seen as something similar to comment in Office Excel but having much wider functionality. One can reply to them, add attachments to them, send emails from there etc. Annotations could be created on any report object. An annotation could be accessed either from the reports or from a centralized called Annotation Manager. In Annotation Manager one can search, view, modify and delete annotations using Ajax calls.
+
+Tasks:
+
+Lead the Annotations Project from Bangalore - complete ownership of the Annotations module.
+
+Understand the Requirements for Annotation Manager and provide Estimates.
+
+Prepare Design documents and UML Class Diagrams, Sequence diagrams for Annotation Manager module.
+
+Bugs resolution within release deadlines.
+
+Guide junior team member – Monitor and help them in completing their deliverables.
+
+Designation: Consultant	        				Duration: Mar 2005 – Jul 2007
+
+Company: Headstrong (Techspan India Ltd.)			Client: Bank of America
+
+Project:  Admin  Consolidation  Phase  I				June 2006 – May 2007
+
+Primary Technologies: Java, JSP, JSTL, JavaScript, Hibernate.
+
+Secondary Technologies: Spring MVC, EJB, HTML, Weblogic Server.
+
+Development Tools: Eclipse, MS Visio, TOAD, ANT, Juliet (code base analysis), MS VSS, Perforce.
+
+Project Summary:
+
+The purpose of the Admin Consolidation Initiative was to integrate all administrative activities for Clients using Foreign exchange trading through BoA into one single FXtransact Admin. The existing system lacked in extensibility and did not allow addition of Product and Attributes. Primary aim was to make it to allows users to add Product and Attributes dynamically. At the same time making it as much Generic and Extensible as possible. This project used Agile XP methodology. The application is being developed to run on both Windows and Solaris platforms.
+
+Tasks:
+
+Understand the requirements for the new Admin UI 
+
+Database redesign: Making a normalized database
+
+Preparing High Level and Low level designs using Rational Rose – prepare UML diagrams (Class Diagrams, Sequence Diagrams)
+
+Analyze the impact of the schema change on legacy code 
+
+Migrate the existing code using old database schema to new database schema
+
+Design and develop new UI and backend code based on Spring Framework.
+
+Project:  TFM  (Trade  Flow  Manager)				 Feb 2006 – May 2006 
+
+Primary Technologies: Java, JDBC
+
+Secondary Technologies: MQ, SQL, JSP, Servlet
+
+Development Tools: Idea, MS Visio, SQL Navigator, SVN
+
+Project Summary:
+
+TFM is a system which basically acts as router/middleware between front-end and back-end settlement systems. Its main job is to read data, parse it, validate and enrich it and send it to settlement system. 
+
+Tasks:
+
+Understand the data and design an inbound handler
+
+Receive data from Queue
+
+Parse and validate data in inbound handler
+
+Enrich and populate inbound tables with this data
+
+Outbound handler picks up data from these inbound handlers
+
+It does further enrichment and consolidation of data
+
+Forms a message string out of this data and sends it to settlement system
+
+Project:  QPC  (Quality  Project  Connect)			May2005 – Jan 2006
+
+Primary Technologies: Java, JSP, JavaScript, Struts and Hibernate. 
+
+Secondary Technologies: HTML, EJB
+
+Development Tools: WSAD (Websphere Application Developer), MS Visio, SQL Navigator, MS VSS
+
+Project Summary:
+
+QPC started as a need to have a single UI based system, which can manage all the information about Bank of America’s six sigma projects across geographical locations. QPC dealt with data starting from Employee records and Projects details and handled all the information related to:
+
+Employee details and their Six-Sigma Certifications.
+
+Creating and searching various projects
+
+Various team members in a project such as Coach, Project Leads, Team members etc.
+
+Timeline details and project summary
+
+Financial details about the project.
+
+Tasks:
+
+Understand requirements and design the system.
+
+Preparing High Level and Low level designs for all development work – using Rational Rose to prepare UML diagrams (Class Diagrams, Sequence Diagrams)
+
+Creating UI using JSP, Struts.
+
+Using Hibernate for backend data management.
+
+Designation: Software Engineer, 				Duration: Oct 2003 – Mar 2005
+
+Company: Geometric Software Sols. & 3DPLM Software Sols (A JV with Dassault Systemes)
+
+Project: CATIA  V5  Development					Dec 2003 – March 2005
+
+Technologies: Java, C++, CAA V5 architecture.
+
+Development Tools: MS Visual Studio Dev Environment, UML, Rational tools, Adele SCM, MS VSS.
+
+Project Summary:
+
+Dassault Systemes, France is a part of Dassault group of companies which are manufacturers of Mirage Aircraft. It is world leader in PLM services with products like CATIA, Delmia, Solidworks, Enovia etc. CATIA V5 is leading CAD software. CATIA V5 can be run on Windows and UNIX (aix, solaris). It is used by major Automobile and Aircraft companies (Ford, Toyota, GM, Daimler Chrystler, Boeing, Airbus etc.). 
+
+Project involved development of CATIA V5 using CAA V5 architecture.
+
+		Two months initial Onsite Training in France to understand Product, Requirements and Expectations.
+
+		Creation of new interfaces, components and classes.
+
+		Use these to make new features and datum and handle the corresponding UI in CATIA.
+
+		Prepare Test Cases for developing new commands, enhancing migrating old commands and maintenance of old commands.
+
+Tasks:
+
+		Gathering requirements from team in France, preparing specifications accordingly and getting approval.
+
+		Preparing High Level and Low level designs for all development work using UML tools
+
+		Enhancements and suggesting additions and removals from them.
+
+		Direct interaction with team in France.
+
+		Helping junior team members in development work.
+
+		UI Design on CAA architecture and come up with standardizations on this UI.
+
+Page 5 of 5	CV - Gourav Mahindra	Confidential

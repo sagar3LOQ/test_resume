@@ -1,0 +1,201 @@
+502, Pushkraj
+
+Nr. Indira Kids School, Baner
+
+Pune-45
+
+Maharastra 
+
+Email ID    : nitin.mnit2005@gmail.com
+
+Contact no   :  +918600033864 and +918007601472
+
+			
+
+Total Experience of 7 years in IT industry as Java Developer.
+
+Languages		: Java Core,J2EE, SQL, HTML, Java Script, JSP, Servelet.
+
+Operating system  	: Windows, UNIX.  
+
+Server		: Tomcat, Weblogic, JBoss.
+
+Framework	: Eclipse RCP, GWT, SWT, JFace, GEF, Spring, Struts, Ajax,
+iBatis, Hibernate.
+
+Other		: Design Patterns, Agile, Multithreading, ATDD.
+
+Skill Details
+
+Technologies worked on:
+
+Eclipse RCP, SWT, JFace, GEF 			Jan 2013 till Now
+
+GWT							Sep 2014 till Now
+
+Spring, Hibernate					Aug 2009 to June 2012
+
+Struts, iBatis						Aug 2009 to Feb 2010
+
+          
+
+Educational Detail		
+
+Completed M. Tech in Software Systems from BITS, Pilani in 2015 with
+CGPA 8.7/10.
+
+Completed B. Tech in Computer Engineering from NIT, Jaipur in 2008 with
+CGPA 7.45/10. Passed Senior Secondary from D.A.V. ACC Sr. Sec. Public
+school with 80.6% in CBSE.
+
+Passed Secondary from D.A.V. ACC Sr. Sec. Public school with 82.6% in
+CBSE.
+
+SCJP 5.0:  Sun Certified Java Programmer 5.0 with 91% score [25 Aug,
+2008].
+
+SCWCD 5.0: Sun Certified Web Component Developer 5.0 with 97% score [14
+Jan, 2009 ].
+
+All India Rank 2047 in AIEEE 2004 to get Admission in NIT, Jaipur
+Formerly REC Jaipur.
+
+Experience
+
+COMPANY NAME: S	IEMENS INDUSTRY SOFTWARE INDIA PVT LTD [April 2012 -
+Till Now]
+
+1)  Project Name 	     Easy Plan
+
+     Duration                    Sep 2014 – Till Now
+
+     Role	                Developer
+
+     Technology               GWT, GIN, Guice, Maven, Core Java
+
+     Description	Project is regarding development of rich client web
+application which will be providing teamcenter user a web interface for
+handling most of the basic features of TC client which is a desktop
+application.
+
+	
+
+	I took part as a developer for developing some user stories which were
+plan of Easy Plan. Agile development methodology was chosen for
+development of this project.
+
+2)  Project Name 	     Line Balancing Worker Level
+
+     Duration                    Oct 2013 – Aug 2014
+
+     Role	                Developer
+
+     Technology               GEF, RCP, Core Java
+
+     Description	Project is regarding enhancement of rich client
+teamcenter application which will be providing balancing of worker load
+working in a station inside a plant. User can plan production and
+optimize work better by balancing workers on station.
+
+	
+
+	I took part in complete process of product development process in the
+project. Agile development methodology was chosen for development of
+this project.
+
+3)  Project Name 	     Time Way Plan Viewer
+
+     Duration                    Nov 2012 – Sep 2013
+
+     Role	                Developer
+
+     Technology               GEF, RCP, Core Java
+
+     Description	Project is regarding development of rich client for
+teamcenter application which will be providing details of work done on a
+station inside a plant. User can plan production and optimize work
+better by planning in viewer.
+
+	
+
+	I took part in complete process of product development process in the
+project. Agile development methodology was chosen for development of
+this project.
+
+4)  Project Name 	     Shop Floor Planner
+
+     Duration                    April 2012 – Oct 2012
+
+     Role	                Developer
+
+     Technology                GWT, Core Java, Teamcenter, Eclipse.
+
+     Description	Project was regarding development of thin client for
+teamcenter application which provides user an option to plan complete
+shop floor of a plant. User gets complete visual information of a plant
+and minor details on demand. 
+
+	
+
+	My Role was to develop thin client using GWT framework. GWT is latest
+framework provided by Google for developing light weight application. 
+
+COMPANY NAME: S	EARS IT AND MANAGEMENT SERIVCES INDIA  [June 2010 –
+April 2012]
+
+Worked in various web projects including a web-service project. All
+projects were in-house project for retail giant in USA-Canada [Sears and
+Kmart]
+
+My role was as main Java Developer and Main technologies involved in
+project were Spring, Hibernate, HSQLDB and Domain was Retail.
+
+	
+
+COMPANY: COREOBJECTS INDIA  [Aug 09  to June 10] [A Product Development
+Company]
+
+Worked in various web projects for client Medtronics USA. Main projects
+involve myHome application for medical patients and myStore application
+for medical devices for patient.
+
+I was Java developer in project and Main technology involved Spring ,
+Struts, iBatis.
+
+COMPANY NAME : CAPGEMINI INDIA PVT LTD.  [June 2008 to July 2009]
+
+   
+
+Worked in 2 project which involved creation of risk management website
+for a French client. Project were creation of website. 
+
+I was junior developer in project with responsibility of developing
+small use-cases and creating Junit test-cases for various
+functionalities.  
+
+Personal Information
+
+Fathers Name 		:  	Mr. G. A. Paretha
+
+Nationality		:	Indian.
+
+Degree			:	B. Tech , M. Tech
+
+Branch  		:   	Computer Engineering. 
+
+Institute		:    	NIT, Jaipur (Rajasthan) Formerly REC Jaipur [B. Tech]
+
+				BITS, Pilani (Rajasthan) [ M. Tech.]
+
+Permanent address	:  	M/s Umesh Electricals, Bottom Level, Station Road 
+
+				Lakheri. Distt. – Bundi (Rajasthan)
+
+			
+
+ Passport Number	:	G 0685448 
+
+Computer Skills
+
+Achievements 
+

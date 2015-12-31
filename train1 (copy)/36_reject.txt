@@ -1,0 +1,362 @@
+																							          												
+
+                                            Venkata Nagendra Babu				 
+
+Hibernate-2 years                        
+                  
+
+Spring  -3 years                
+                                 
+
+Web Services  -1
+year                                
+      
+
+Core Java- 5.2
+years                                 �
+�           
+
+Design
+Patterns-exposure                           �
+�       
+
+UML design -1
+year                                  
+        
+
+Build Tools (Maven/Ant)-5 years                   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Database -MySql / DB2 
+
+					                 
+
+Email:yvnagendrababu  HYPERLINK "mailto:brahma.g4u@gmail.com" @gmail.com
+                                                 Mobile:91- 9686653404
+
+	
+
+Professional Summary
+
+
+
+Around 5 years of experience in the IT field in Java and J2EE
+technologies.
+
+Experience in developing web applications using Java, JSP, Servlets and
+Jdbc.
+
+Experience in web application frame works like Struts and Spring.
+
+Having knowledge in ORM tools like Hibernate.
+
+Having working knowledge of Hybris Ecommerce Platform.
+
+Worked in Information and Financial health care, Retail domains.
+
+Possess strong analytical and problem-solving skills.
+
+Having much knowledge in OOPS concepts.
+
+Ability to work with Team and having good communication skills.
+
+Work Experience
+
+
+
+Working as Senior Software Engineer in UNISYS, Bangalore from Dec 2014
+to till date.
+
+Worked as Application Consultant in Computer Science Corporation (CSC),
+Hyderabad from May 2012 to Dec 2014.
+
+Worked as Software Engineer in Nihilent Technolgies pvt ltd, Pune from
+March 2010 to April 2012.
+
+Technical Skills
+
+Languages                             :   Core Java
+
+Technologies                          :  JSP, Servlets and JDBC
+
+Frame Works                        :   Struts, Spring, Hybris 
+
+ORMS                                   :   Hibernate 
+
+Web/Application Servers     :   Hudson Integration Server and Apache
+Tomcat 
+
+Databases                	  :   My Sql, Sql Server 2005, DB2.
+
+Operating Systems               :   Windows and LINUX 
+
+IDES                                        :   Eclipse, Net Beans
+
+Tools                                       :   SVN Tortoise, I Report,
+Ant, JUnit, Aqua Studio, Visio, Toad.
+
+Educational Profile
+
+B.Tech from Acharya Nagarjuna University, Andhra Pradesh  in the year
+2008
+
+Project Experience 
+
+
+
+Project-1
+
+           Title                            : NIMS
+
+           Team Size                  :  18
+
+           Client	                      :  Nihilent Technologies
+
+           Technology                 : Core Java/J2EE, Struts, spring,
+Hibernate  
+
+           Server                         : Tomcat (6.0)
+
+           Role	                       : Developer
+
+           Duration                     : Mar 2010 – April 2012   
+
+ Description:
+
+                NIMS is a comprehensive integrated application software
+solution, which has been developed to automate each and every process of
+Nihilent Technolgies which includes capturing of all the associate’s
+details who has joined Nihilent to associate’s project allocation and
+seat allocation, associate foreign travel and associate leave form and
+annual appraisal form and pay slip generation of the associate’s are
+some of the key processes. This project spans over each and every
+department of Nihilent so that the respective departments can carry on
+with their day to day work.
+
+Responsibilities:
+
+ Used Struts framework to implement the MVC design pattern in the
+application
+
+Created struts-config files and resource bundles for Profile and new
+modules using Struts  framework
+
+Extensively used struts Action and Form Classes (Action, Dispatch
+Action) which will     validate the input forms (Form Beans populated by
+JSP pages) based on the business logic
+
+ Implemented spring IOC module for dependency Injection
+
+Provided database connectivity, mappings, and cache system by using
+Hibernate
+
+Used SVN for software configuration management and version control
+
+Involved in Writing J-Unit Test Cases
+
+Involved in maintaining Project Integrated Building activities using
+Hudson integration server
+
+Involved in some of the modules data base design and development.
+
+Involved in resolving client requests as a part of day to day support
+and maintaining activities which includes from browser related issues to
+new enhancements to a particular module.  
+
+Project-2
+
+           Title                            : CMS
+
+           Team Size                  :  6
+
+           Client	                      :  Truven Health Analytics
+(Thomson Reuters)
+
+           Technology                 : Core Java, Swings, XSLT, XML
+
+           Server                         : Jboss
+
+           Role	                       : Java Developer/ System Analyst
+
+           Duration                     : May 2012 – Dec 2012.   
+
+ Description:
+
+                  CMS is a Content Management System. Truven Health
+Analytics business provides Clinical Decision Support Information to
+doctors, nurses, clinicians. It has a team of professionals from the
+healthcare domain. This team of experts writes, validate and approve the
+content. This is called CPP team or Editorial Team. Content developed by
+Truven Health Analytics is Truven Health Analytics proprietary and will
+sell content to external parties. Truven Health Analytics also receives
+data from external parties. That is called third Party Feed. 
+
+CMS (Content Management System) is the heart of this Clinical Decision
+Support Information as it is responsible for pumping up of the
+Information in required formats to various downstream applications like
+THIDS, THIAS and MEDITECH after processing the raw data fed to it by the
+Editorial team or Third Party Feed.
+
+Responsibilities:
+
+Followed Agile Methodologies (SCRUM) as a part of project requirement.
+
+Updating of Rally (Bug Tracker Tool) with daily status as a part of
+analysis and solution for a defect.
+
+Used SVN as a version controlling tool for deployment tasks and code
+check-in.
+
+Developed Java Programs to reduce manual work such as detection of
+invalid ASCII character set in the Clinical Decision Support Information
+for some defects and user stories.
+
+Writing database queries on Oracle9i as a part of defect analysis and
+solution.
+
+Peer Review and Unit Testing as a part of team work as per requirement.
+
+Learned about Health Care domain by completing various health care
+trainings like HIPAA and ICD 10.
+
+Project-3
+
+           Title                            : Enterprise Journals (Local
+Check Requests Module)
+
+           Team Size                  :  2
+
+           Client	                      :  Kroger
+
+           Technology                 : Core Java/J2EE, Struts, Jsp,
+Jdbc, DB2
+
+           Server                         : Web Sphere
+
+           Role	                       : Java Developer
+
+           Duration                     : Jan 2013 – July 2013   
+
+ 
+
+Description:
+
+                     The Enterprise Journals (EJ) Application is the
+Kroger standard interface for entering Local Check Request Details into
+the Vendor Payment System (VPS).  The application includes the code
+required to accomplish all of the functions necessary for ensuring Local
+Check Requests data is captured, processed and maintained.
+
+The local check process is a very manual process involving emails,
+faxes, and paper.  Kroger would like to create an electronic submission
+module using the EJ approval process so that a user can submit the local
+check and detail into the system - the information would route to the
+appropriate approver and submit the payment to VPS. Finally, all the
+paperwork/approvals would be housed in this program to reduce paper
+storage.
+
+Responsibilities:
+
+Gone through the Requirements Document for Local Check Module and
+analyzed the requirements.
+
+Finalized the client requirements after having discussions to get
+clarification on some of Requirements.
+
+Developed Local Check Module User interfaces (GUI) with required and
+necessary validations of data to be keyed in by the user.
+
+Developed Some UI Components like Calendar control and Ajax Text Box
+using Java Script. 
+
+Developed POJO, Action and Service layer classes as a part of Local
+Check Module Development.
+
+Writing database queries on DB2 as a part of development of DAO layer
+for interaction with Data Base.
+
+System Testing and Fixing of defects identified as per the UAT testing
+and peer testing.
+
+Usage of SVN as a part of Project Maintenance.
+
+Project-4
+
+           Title                            : EStore
+
+           Team Size                  :  3
+
+           Client	                      :  EMC
+
+           Technology                 : Hybris, Spring
+
+           Server                         : Hybris
+
+           Role	                       : Hybris/Spring Developer,
+Application Support
+
+           Duration                     : Aug 2013 – Present   
+
+Description:
+
+                     EMC Estore is a website for the customers who want
+to Browse through the various products and Quote their Products for the
+submission as Anonymous user, Authenticated and Web user. One of the
+primary goals of the EMC Store is to drive inbound demand for EMC
+products.  To support this demand, web users of the EMC store can
+contact EMC in a variety of ways 
+
+The EMC store is catalog-driven. The store design has only 8-12 page
+templates for displaying product and category content for many current
+and future pages.  The content is managed using a product catalog with
+business rules that the eBusiness team controls. From this catalog,
+hundreds of pages are created using the 8-12 template pages. Users find
+products through faceted search and dynamically created navigation
+menus. Individual page URLs are also dynamically generated and can be
+dependent on the navigation path taken as well as the individual product
+or category IDs. As new products and product categories may be added
+weekly, the set of existing URLs on the store will increase regularly
+
+Responsibilities:
+
+Added new filter to Estore work flow for preventing cross site scripting
+vulnerabilities for Estore
+
+Application related Urls.
+
+Developed new item type, Product Cockpit UI, Admin Cockpit UI
+components, Façade classes, DAO, Service layer classes as a part of
+enabling business users to modify the contents of Robots.txt on fly.
+
+Added new attribute type for Product Model Item in HMC and Product
+Cockpit for enabling various business users to change the title and meta
+title tag of product details page as per their requirement 
+
+Modified existing controller classes to provide business users, the
+ability to execute the Java Script code in each and every page of Estore
+web site through properties file modification. 
+
+Modified existing functionality to make request parameters to get
+retained in Urls which are used to add products to the cart directly.
+
+Done Poc on handling null cart entries and validating previous cart
+entries with current session cart entries and notifying the users and
+thus saving the time for users from filling the contact form.
+
+Automated the process of updating the sitemap.xml contents for business
+users by creating a item type in admin cockpit with text area attribute
+with WYSIWYG editor for adding/modifying the sitemap.xml contents and
+forming the xml file on fly.
+
+Created a new web service consumer class using spring framework to call
+new web service to fetch user profile details from NGOE application and
+map with user groups in Hybris platform.
+
+Worked on scheduled Estore release activities as a part of work routine.
+
+
+Worked on Application support and incidents as a part of daily
+activities.
+

@@ -1,0 +1,524 @@
+ Synopsis: 
+
+
+
+About 10 years of experience in the IT Industry, sound experience in the
+Development, Coding and Testing under Windows, Client Server
+environment. Experience on Java2.0, Servlets, Applets, RMI, Java Beans,
+EJB, XML, Swing, C/C++, HTML and JavaScript.
+
+  Professional Summary:
+
+
+
+Specific Expertise:	
+
+Expertise with Tomcat, Web Sphere 5.1,JBOSS
+
+Experience in wring documents Software Design, FRS and Test Case
+
+Experience in different operating systems like windows, red hat and Suse
+Linux 
+
+Experience in Enterprise and web application 
+
+Knowledge in of Struts Frame Work
+
+J2EE include with authentication, authorization and transaction
+management
+
+Presentation layer design and programming on HTML, Applets, AWT and
+Swing
+
+Business Logic component design and programming using EJB, Servlets,
+Beans and RMI 
+
+Good exposure web services like SOAP 5.1
+
+Working Knowledge on ANT, MAVEN and Eclipse 3.1
+
+Experience of understanding Unified Modeling Language.
+
+J2EE includes with Authentication, Authorization and High Level Security
+and Transaction Management.
+
+Good Exposure to understanding Software Development Life Cycle.
+
+Experience in Design Patterns.
+
+Experience in Interacting RELATIONAL DATABASE like Oracle, and My SQL.
+
+Knowledge on java card API and APDU Commands
+
+Good exposure writing documents in FRS, Technical specification and
+Software implementation
+
+Good exposure design table objects according to business requirements.
+
+Good experience  on JBPEL , Guvnor and Drools
+
+	
+
+Industries:
+
+Insurance, Banking and Telecom, Air Cargo, Leasing
+
+Server Technologies:
+
+JDBC 3.0,Servlets, JSP, RMI, EJB, Struts, JMS, WSDL, UDDI, JSF, Drools,
+Guvnor, JBPM, JPA, Spring
+
+Language:
+
+C++, Core Java, 
+
+Markup Language:
+
+HTML, XML,UML XSD
+
+Scripting Language:
+
+JavaScript
+
+Servers:
+
+Tomcat, WebLogic, WebSphere, JBoss
+
+Thick Client GUI:
+
+AWT, Swings, Applets, ADOBE Flex 
+
+Operating system:
+
+Windows NT/95/98/2000
+
+Tools:
+
+Ant, Clear Case, Star team, MKS, Quality Control, SOAP UI, Maven,SVN
+
+
+
+Experience:	 
+
+Working As system analyst in Hexaware technologies – India Dec 2010 to
+till date
+
+Worked As Snr. Java Developer in AtosOrigin - SouthAfrica Apr 2008 to
+Nov 2010
+
+Worked As Snr. Java Developer in InsyteInformationSystemsEngneering –
+South Africa Feb 2007 to Apr 2008
+
+Worked as a Jnr Java Developer in Hitech Chemicals - Apr 2005 to feb
+2007
+
+Worked Jnr Programmer in Integrated Data System – India from May 2003
+to Dec 2004.
+
+  Educational Qualifications:
+
+
+
+Degree	Institute	Year of Passed
+
+S.S.C	Board of secondary education	1994
+
+Intermediate	Board of Intermediate	1996
+
+BSc	Bachelor of science	1999
+
+Diploma	Diploma in Information and Systems Management	2000
+
+
+
+  Professional Experience:
+
+Project name	:	Logistics Management System – Next Genration (LMS-NG)
+
+Environment	:	JBoss7.0,JSF, JAVA1.6 ,EJB3.0,JPA,Drools,Guvnor,Spring 
+
+Duration	:	July 2013 to till date
+
+Role		:	Team Lead
+
+Description:  LMS NG - Logistics Management System Next Generation is a
+product developed by Hexaware for a Fortune 500 client for the Airport
+Logistic management System. The product which is currently in production
+was developed using legacy IBM mainframe. The new LMS NG is developed by
+migrating it into multilayer J2EE application. The LMS NG product is a
+single stop solution for various Airport Logistic Management systems
+such as booking a flight for transporting different products and
+generating the Air Way bill.
+
+Responsibilities:
+
+Developing Airway bill Audit and flights restriction use case
+
+Involving design and analysis 
+
+Giving technical support to team members
+
+
+
+
+
+Project name	:	Unified Offer System (UOS)
+
+Company	:	Hexaware
+
+Environment	:	Weblogic, struts 1.2 , JSP, java1.5, EJB1.2
+
+Duration	:	Sep 2010 – May 2013
+
+Role		:	Team Lead
+
+Description:  
+
+Unified offer system is called group of application 
+
+[Auto Retails –Profi/SLO/CBS/HEFSKP/HEFOnline/Authentication
+Application]. Those applications developed with various functionalities.
+
+Responsibilities:
+
+Playing team lead role
+
+Code reviews
+
+Communicate with onsite with business requirement for CR
+
+Responsible server migration and technology up gradation. [JBOSS EJB3.0]
+
+Project name	:	Integrated Angebot System (IAS)
+
+Company	:	Hexaware
+
+Environment	:	JSF, JBPM, JBOSS, Magic Draw, EJB3.0 and window7
+
+Duration	:	Dec 2010 – Aug 2011
+
+Role		:	Team Lead
+
+Description:  
+
+DL intended to integrate all existing offer system hence IAS came up
+into picture to develop new offer system with new product line.IAS
+communicates external systems like CRM, Scoring, UCS contract system,
+Printing service via ESB layer. IAS User interface frame work developed
+by hexaware for IAS project itself only. All frame and component
+dynamically rendered internal configuration component and rules are
+validated by rules engine. 
+
+Responsibilities:
+
+Reviewing functional specification communicate Business analyst.
+
+Preparing class diagrams.
+
+Developing POC to integrate all external system.
+
+Setting development work space.
+
+Project name	:	Number Management System
+
+Company	:	AtosOrigin
+
+Environment	:	iNumeriTrack, Webservices, JSP, Servlets, JMS, Oracle and
+unix
+
+Duration 	: 	May 2009 – Nov 2010
+
+Role		:	Team Lead
+
+Description:
+
+Safaricom is leading mobile service provider in Kenya. Safaricom
+intended to implement Number management system to re use number from
+central data base. Atos origin gave efficient proposal based on
+Safaricom requirements.
+
+Responsibilities:
+
+Preparing CR proposal documents
+
+Creating tables according to requirements
+
+Developing soap and GUI interface
+
+Interacting with team members and client
+
+Test server environment responsibilities 
+
+Project name	:	STCProvisioning Tool 
+
+Company	:	AtosOrigin
+
+Environment	:	Windows, Suse Linux, Jdk1.3, Linqus-OTA2.6 and vmware
+server
+
+Duration	:	May09 to till Date
+
+Role		:	Team Lead
+
+Description:
+
+STC Provisioning Tool communicate RCA product. This product manages all
+sim cards in OTA2.6.
+
+This tool sends core API calls to provisioning card. Tool is failing to
+provision card security information in OTA.
+
+Responsibilities:
+
+Developing STC Test Platform in vmware server
+
+Reviewing all document
+
+Installation of suse Linux
+
+Installation of Oracle9i and visiborker5.0
+
+Installation of OTA2.6 Database and binaries
+
+Reviewing code.
+
+Project name	:	Batch Provisioning tool [Mar09 to Apr09]
+
+Client 		:	Gemalto
+
+Company	:	AtosOrigin
+
+Environment	:	Windows, Red Hat Linux, Jdk1.5, Axis2.0 and Provisioning
+Interface
+
+Description:
+
+Gemalto is world leader in telecom. They have different products in
+telecom, financial and digital securities. Batch provisioning is
+standalone an application. It will provision bunch of card. All sim
+cards information is stored in CSV files. It works on command line
+arguments. These command line arguments configured in Shell script and
+MS-Dos batch file. Operating this tool is pretty easy using these
+scripts.
+
+Responsibilities:
+
+Installation guide and usage documents
+
+Developing tool
+
+Prepare shell script and dos batch file
+
+Project name	:	Provisioning Interface 
+
+Company	:	AtosOrigin
+
+Environment	:	Windows XP, Red hat Linux Jdk1.5, Microsoft Visio,Axis2.0,
+Oracle, Hibernate, nChipher hardware security module, Ant Script, Log4j,
+dom4j, tomcat 5.0, Gem connect Secure, Linqus - Provisioning Manager and
+Linqus – Over The Air
+
+Duration	:	Apr2008 to Mar2009
+
+Role		:	Team Lead
+
+Description:
+
+Gemalto is world leader in telecom. They have different products in
+telecom, financial and digital securities. Provisioning Interface is a
+SOAP API, It integrate heterogeneous systems like Gemconect Secure,
+Linqus Provisioning Manager, nCipher Hardware Security Module and Linqus
+– Over The Air. It has very flexible configuration available to
+provisioning sim card in one or many systems. This SOAP API provides to
+third party different services for provisioning sim card. These are
+create, Delete, Swap, Change and Revision SIM services. It will support
+two key sets. GSM03.48 and OTA security keys are used by key sets. 
+
+Responsibilities:
+
+Writing Software Design Description and Software Test Description
+Document
+
+Extend Functional Requirement Specification
+
+Preparation Test Case templates
+
+Develop Installation Guide and Usage documents
+
+Preparation of shell scripts for tomcat
+
+Develop Provisioning Interface SOAP API
+
+Execute Test case.
+
+Project name	:	Question Mark Perception 
+
+Company	:	InsyteInformationSystemsEngneering
+
+Environment	:	Ms-Front Page, HTML, CSS, JavaScript, IIS, .Net
+
+Duration 	:	Feb 2008 to Apr2008
+
+Role		:	Team member
+
+Description:
+
+Eskom intended to take online surveys. Question Mark Perception is
+customized software for Exam, Quiz and Survey. After creating assessment
+need to publish Enterprise Perception Server to access those object
+throw browser. By default Question Mark Perception does not give any
+validation to Exam, Quiz or Survey.
+
+Responsibilities:
+
+Developing and Designing Web Screens
+
+Developing JavaScript
+
+Project name	:  	ABSA Insurance Company Workflow 
+
+Company	:  	InsyteInformationSystemsEngneering
+
+Duration	: 	Feb 2007 to Feb 2008
+
+Environment	:	Swings,  Sirius Frame Work, Web Service, Web Sphere,
+Content Manager, DB2, Windows XP.
+
+Role		:	Team member
+
+Description:
+
+	AIC Genesis is developed for ABSA Insurance. Absa Insurance is life
+insurance, Vehicle insurance and Medical insurance. Absa Insurance wants
+to automate claim process. AIC Genesis depends other components like
+Incoming Adapter, out coming Adapter and CM Adapter. Incoming Adapter
+converts in coming mails to PDF and keep Content Manager and CM Adapter
+converts scanning files to PDF and keep Content Manager then Claim
+Process. It’s continuing until process end. Genesis Contain Delete
+Content, General Content, Follow Up, Routed Message and Workflow.
+
+  
+
+Responsibilities:
+
+Developing Server Side Web Service 
+
+Implementing Client Side Delegate
+
+Creating GUI Screen in Swings
+
+Inter acting DB2 Data base and Content Manager
+
+Developing Ant Script for different Environments Dev, Testing, UAT and
+Prodution 
+
+Project name	:	Intranet Communicate Portal [Apr 2005 to feb 2007]
+
+Company	:	Hitech Chemical
+
+Environment	:	 Java1.4,  Web logic 7.0,  JDBC,  Servlets,  Ms-Access, 
+Windows/ NT,  MS-Dos.
+
+Role		:	Team member
+
+Description: 
+
+This module involved in the creation of a component to serve an
+organization that would like to share its information, about the
+branches etc with the user. The main objective of this project was,
+giving various information about departments and provide different
+services viz. a viz. information about an employee working in this
+organization, projects  being done currently, offices located etc to the
+users, who logon to this site. Access to the website is restricted to
+the valid users only and privileges are given to the users accordingly
+
+Responsibilities:
+
+I Involved in to develop GUI in Java Applets using Java Swing API 
+
+For Communication between applets was done using Java Socket
+Programming.
+
+I was actively involved in designing and development of Web pages using
+HTML and DHTML 
+
+I used Servlets and JDBC to check weather he is valid user or not to
+enter into particular department. 
+
+Interacting with database like ms- access
+
+Project name	:	Online Examination [May 2003 to Dec 2004]
+
+Client 		:	Integrated Data Systems
+
+Company	:	Integrated Data Systems
+
+Environment	: 	Java1.4, MVC 1 Architecture, EJB 2.0,JSP, Servlets, JDBC,
+WebLogic 7.0,Windows/ NT,My Sql.
+
+Role		:	Team member
+
+Description:
+
+This project deals with online examination. For this management decides
+to keep a mock test to the students so that they can easily get through
+test. In this project first a student is supplied with an exclusive user
+name and password and then he will be asked to take online test by
+entering that username and password. Once he enters username and
+password student will be given a set of question to answer, which is in
+the multiple choices form and we have a next button to get the next step
+of question and at last he will get his percentage of the marks of
+obtained. 
+
+I have used three components in the project 1) Session Bean 2) Entity
+Bean Two entity beans persists the data of the questions and students
+information. Mainly Session bean is used to keep track the session of
+the student while taking the exam, when he answers for the first
+questions, these answers are stored in a vector object where it resides
+in session.
+
+Responsibilities:
+
+Involved in designed and development of the Architecture using MVC
+framework
+
+Developed Servlets which acts as Controller in MVC Architecture
+
+Designed and Developed the Presentation tiers using J2EE presentation
+patterns.
+
+Coding JSP pages for dynamic representation of data on the client side.
+
+Developing EntityBeans
+
+ Connecting to database My - Sql
+
+  Personal Information:
+
+
+
+Father’s Name	:	Veereswara Rao
+
+Date Of Birth	:	02 – 06 - 1978
+
+Sex	:	Male
+
+Marital Status	:	Married
+
+	
+
+	
+
+	
+
+								
+
+	(ChandraShekhar.Chittipolu) 
+
+Resume
+
+Chandra Shekhar Chittiprolu              		Email :   HYPERLINK
+"mailto:chandra.chittiprolu@gmail.com"  chandra.chittiprolu@gmail.com 
+
+			Mobile : +91 - 9962283836
+

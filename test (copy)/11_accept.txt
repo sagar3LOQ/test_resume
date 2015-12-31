@@ -1,0 +1,189 @@
+Karthik Gaddam
+
+Cell: 9989371536
+
+Karthikgaddam1988@yahoo.com
+
+Hyderabad
+
+========================================================================
+====
+
+                                                
+
+OBJECTIVE: Software Engineer
+
+	
+
+HIGHLIGHTS OF QUALIFICATION
+
+Software Developer with history of productivity and successful project
+outcomes
+
+Worked as one of the Lead for ERP Software project, involved and
+contributed in design            discussions
+
+Successfully handled Production support issues of clients of
+organizations
+
+Education	
+
+2010 Birla Institute of Technology and Science, Pilani Rajasthan 
+
+TECHNICAL PROFILE
+
+Applications: ERP, Web Services, Multithreaded Applications, Mobile
+Cloud Services, Email, SMS Services
+
+Languages: Java/J2EE, C, SQL, JavaScript, UNIX, Data Structures, Design
+Patterns
+
+Frameworks: Struts, Spring, JQuery, Hibernate, EJB, Atmosphere, Junit,
+Selenium
+
+Tools, Servers: Eclipse, Maven, Tomcat, WebSphere, Sql Developer  
+
+PROFESSIONAL WORK EXPERIENCE 
+
+Software Engineer Current Company
+
+Kony Labs – Hyderabad
+
+Project: Kony Messaging Service (KMS)
+
+Product and Service based application which serves its clients to send
+Messages to their clients mobiles
+
+KMS intercepts clients requests and send to its mobile-users of
+different platforms, client don’t have to bother about  mobile
+platforms(Android,Iphone,Balckberry,Windows)
+
+Messages include Push (KMS intercepts and sends pushes to mobile
+specific clouds which will sends back to mobile users),Emails, SMS,
+Pass, Beacon(for ios users)
+
+I have worked on Email,SMS, Beacon modules of application
+
+Developed UI to Backend Rest Services , Junit and Selenium Test cases
+
+Platforms supported for clients are cloud and 4 Web Servers and 4 Data
+bases which makes it in 16 combinations for standalone clients
+
+Frameworks used in this are Spring, Hibernate, Quartz Jobs
+
+Software Engineer Dec-2012 to Jan 2014
+
+Next Education – Hyderabad
+
+Project 1: CRM Enhancements
+
+Its Company's Internal Application majorly used for operations,
+inventory management, call center
+
+Involved in Developing enhancements for various departments 
+
+Developed using Struts 2 ,Hibernate, Java Script, Tomcat, MySQL
+
+Project 2: NextERP (From Scratch)
+
+    
+
+Its Targeted to Schools for all their Operations 
+
+Involved in NextERP product from scratch , design discussions , DB
+Design ,Developed functionality using Spring 3 ,DWR(Ajax
+Wrapper),Hibernate,Mysql,Tomcat
+
+Developed Various Modules for Application (Student Admissions,
+Assignments, Attedence)
+
+Coded heavily using Spring 3 Annotations ,Java Script 
+
+Software Engineer Feb 2011- Nov 2012
+
+Wells Fargo - Hyderabad
+
+Project 1: ICCARD (Internal Commercial Card) Enhancements
+
+Application is about Maintaining Internal credit card data, its
+transactions, status, report generations user logins and their approval
+requests from the higher authorities    
+
+Involved in Development and maintenance for this application using java
+web frameworks (Struts, Struts2, spring), Oracle as backend and Web
+logic as web server.
+
+Developed new flows for the application as per the business requirement
+mainly using struts and EJB’s in the backend
+
+Project 2: Common Jar Gateway Implementation
+
+This gateway serves the purpose of converting generic requests from card
+pool applications to SOAP and consuming the TSYS (TOTAL SYSTEMS) web
+service calls
+
+TSYS will have current card transaction data and its status 
+
+We have mainly used Apache axis for web services , Apache camel for
+routing  
+
+Production Supports Issues were handled by me
+
+INTERSHIPS 
+
+Hurix Systems 01/06/10 to 31/10/10
+
+Worked as Adobe Flex Developer 
+
+Developed customize UI Components using Action Script 
+
+EdServe 05/01/09 to 30/06/09 
+
+Worked in web application called SCHOOLMATE using C#, ASP.NET, SQL 
+
+My work was mainly in developing reports, explored SQL a lot in writing
+complex queries to fetch data for reports 
+
+HINDALCO 01/05/07 to 30/07/07
+
+Summer internship worked for a project called MIS
+
+College Projects
+
+ 
+
+Created Desktop application using php, sql, apache
+
+Created 2D Games using Core Java 
+
+Working on own web project using spring and struts 
+
+Working on shell scripts to customize my desktop tasks
+
+Accomplishments
+
+Involved in Design, Implementation and maintenance of organizational
+level web application projects using spring, struts, web services, web
+logic
+
+Fixed lot of production issues for java application’s
+
+Created different 2D games using Core Java to explore Java API’s
+
+Solved many complex algorithm’s and participated in different code
+contests
+
+Interests 
+
+Exploring C and Java library, Algorithm analysis 
+
+Networking protocols 
+
+Unix programming 
+
+Open source projects 
+
+Certifications
+
+ SCJP 6.0 Certified Java Programmer 
+

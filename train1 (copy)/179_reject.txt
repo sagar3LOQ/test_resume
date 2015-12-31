@@ -1,0 +1,235 @@
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate                                              -  2years    & current                                         
+
+Spring                                                     -  3years   &current                                             
+
+Web Services                                        -    2.5 years& current                                             
+
+Core Java                                               -   4years
+
+Design Patterns                                    -    3years
+
+UML design                                           -     
+
+Build Tools (Maven/Ant)                    -    Maven/Ant   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+  Tomcat/eclipse/cod colabrotar
+
+DB: oracle/mysql
+
+Shanthkumar Khandre
+
+Email shanthkumar09@gmail.com
+Mobile +91 9618262729
+Mobile +91 7842541031
+
+
+
+
+
+
+
+	SUMMARY
+
+With a total of 3 Years’ and 6 Months of experience in development of web applications, I am a self-taught fast learner open to work for product development as a programmer writer as long as I get to quench my creative and innovative abilities sustaining my growth with that of the organization. 
+
+Having solid background of computer science and practical programming skills, I can research and develop with an expertise in Java programming and User Interface Programming .I focus on delivering high-quality code and products in high traffic environments. 
+
+
+
+CURRENT
+
+Wave Crest Payment Technology Private Limited, Hyderabad
+
+Senior Software Engineer, Product Development
+Sep 2014 – Till date
+
+
+
+	PAST
+
+Persistent Systems Limited, Hyderabad
+
+
+
+Senior Software Engineer, Product Development
+July 2011 – Till date
+
+
+
+Project: Certain-Badging
+
+Type: Web Application
+
+Role: Software Developer
+
+Environment: Java, Spring MVC, Hibernate, Java Web Services, MSSQL, PostgreSQL,  Apache Tomcat 7.0, AngularJs MVC
+
+Team Size: 3
+
+Responsibilities:
+
+Designed and developed Badge Layout Screen which contains a WYSIWYG’s and multiple barcodes layout using AngularJS
+
+Implemented the Restful web services to save/retrieve the badges information to MSSQL/PostgreSQL database using Spring and Hibernate
+
+Designed the front end and developed the back end to upload image for the badge layout page using AngularJS and Spring.
+
+
+
+Project: Certain-Multi-Payment
+
+Type: Web Application
+
+Role: Software Developer
+
+Environment: Java, Spring MVC, Hibernate, Java Web Services, Java Mail API, MSSQL, PostgreSQL,  Apache Tomcat 7.0, Jetty, AngularJs, DHTML & Basic Ajax, HTCondor.
+
+Team Size: 4
+
+Responsibilities:
+
+Designed and developed Batch Job for Recurring Payments and Email Queue.
+
+Developed front end UI screens using angular JS
+
+Implemented the Restful web services to retrieve the event’s information from both MSSQL and PostgreSQL using Spring Rest services and Hibernate
+
+
+
+Project: Certain_OPD
+
+Type: Web Application
+
+Role: Software Developer
+
+Environment: Java, Spring MVC, Java Web Services, Java Mail API, MSSQL, PostgreSQL,  Apache Tomcat 7.0, Jetty, DataNucleus, AngularJs, DHTML & Basic Ajax, HTCondor.
+
+Team Size: 6
+
+Responsibilities:
+
+Implemented the Restful Web Services for the Arch 2.0 components of the certain platform
+
+Designed and Developed the Batch Job UI screen of the Certain App using Angular JS.
+
+Used HTCondor for workload management.
+
+
+
+Project: Mobitv MultiScreen_SEZ
+
+Type: Web Application
+
+Role: Software Developer
+
+Environment: Core Java 6, Apache Hadoop.
+
+Team Size: 5
+
+Responsibilities:
+
+Finding the patterns of the log files.
+
+Processing and extracting the required information from the log files 
+
+Designed and Developed Map Reduce algorithm for the above.
+
+
+
+Project: OpenStack
+
+Type: Open Source Cloud Computing Software
+
+Role: Software Developer
+
+Environment: Python, RabbitMQ, MySQL.
+
+Team Size: 10
+
+Responsibilities:
+
+Worked on the nova api, scheduler and quantum components.
+
+Fixed bugs and contributed back to the community. 
+
+
+
+Project: HP Cloud Foundry
+
+Type: Web Application
+
+Role: Software Developer
+
+Environment: Ruby, Ruby on Rails, Java Scripting, Jquery, MySQL.
+
+Team Size: 4
+
+Responsibilities:
+
+Designed and Developed Front UI screens which provides an interface to user to perform the below operations.
+
+Implemented restful web services for the application to start, stop, update and delete the pushed application.
+
+
+
+
+
+	SOFTWARE
+
+Programming | Java | J2EE |
+
+IDE | Net beans | Eclipse |
+
+RDBMS SQL Server | PostgreSQL | MYSQL |
+
+Web | HTML | JavaScript | XML | AngularJS |
+
+Operating System | Windows |  Unix | Linux |
+
+
+
+
+
+	ACADEMICS
+
+Bachelor of Technology, CSE | 2011 | Keshav Memorial Institute of Technology, Jawaharlal Nehru Technological University, Hyderabad, India
+
+Diploma in CSE | 2008 | T.R.R. College of Technology | State Board of Technical Education and Training, Andhra Pradesh
+
+Secondary School Certificate | 2005 | New Era High School, Hyderabad, India
+
+
+
+
+
+	TRAINING, ACTIVITIES, and ACHEVIEMENTS
+
+JNTU FINISHING SCHOOL TRAINING | undergone training at Keshav Memorial Institute of Technology (JNTUH)
+
+Games and Sports| Cricket | Table Tennis | Chess | PC Games
+
+
+
+	PERSONAL
+
+Birth | August 01, 1990 | Male | Indian
+
+Family | Mother | Father
+
+Language Competencies | Hindi | Telugu | English
+
+Address | 4-6-93/5/B. Tejaswi Nagar Colony, Attapur, Hyderabad, India 500 048
+
+Phones | Hand +91 9618262729
+
+Email | shanthkumar09@gmail.com
+
+	
+
+References and/or any other information may be provided on request.

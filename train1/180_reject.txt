@@ -1,0 +1,282 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                  -  1.5 year &
+current                                �
+�               
+
+Spring                  
+                                  -  1.5
+year &
+current                                �
+�               
+
+Web
+Services                                
+        - 
+3years                                 
+               
+
+Core
+Java                                  
+             -  8 year
+
+Design
+Patterns                                
+    -  using  
+
+UML
+design                                 
+          -    using
+
+Build Tools (Maven/Ant)                    -   
+Maven   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Tomcat/jboss/eclipse
+
+24.6/30%hike/5 days
+
+Available for telecon on Monday after 4PM only
+
+Satpal Singh
+
+Lead Development Engineer
+
+Career objective
+
+To acquire a challenging career with a solid company utilizing the
+opportunity to offer proven and developing skills within the company.
+
+Technical skills
+
+Operating Systems:  Linux, Windows XP.
+
+Languages:  Core Java, Python, Lua
+
+Database:  MySQL
+
+Framework:   Spring, Hibernate
+
+Tools: Tomcat, Maven, Ant, Jersey
+
+        
+
+Professional experience
+
+An analytical software developer with deep expertise in Java and Python.
+
+Posses 1+ year hands on experience in cloud technologies.
+
+Versed in both agile and waterfall development techniques.
+
+Skilled in requirements analysis and project documentation.
+
+Able to communicate effectively with both technical and non-technical
+project stakeholders.
+
+Expertise in current and emerging trends and techniques.
+
+Proficient in coding and developing the new program.
+
+Kony Labs IT Service Pvt. Ltd, a cross platform mobile application
+development company Hyderabad.
+
+June 2008 - Present 
+
+Mobile Backend As A Service (Jan 2013 – Present Date)
+
+It is a model for providing mobile app developers a way to link their
+application to APIs exposed by Kony back end applications.
+
+Technologies: Java, Jersey, Spring and Hibernate
+
+Roles and responsibilities:
+
+Developing web services to support authorization module.
+
+Creating transaction and session factory dynamically using spring AOP.
+
+Integrated c3p0 connection pooling to make it work for multi tenant
+environment.
+
+Enterprise Mobility Management (Jan 2012 – Dec 2013)
+
+Enterprise Mobility Management is an approach to secure mobile app, data
+and devices.
+
+Kony has EMM model for all the platforms including Blackberry (Java),
+Windows, IOS and Android.
+
+Technologies: Spring, Hibernate, Java and Jersey
+
+Roles and responsibilities:
+
+Design and document the services required to be exposed as part of EMM
+to app developer.
+
+Developing web services to authenticate app user, query policies applied
+on device, revert existing policies and push new policies.
+
+Written query filter to save database from SQL injection attack. 
+
+Worked on developing various web services exposed by Blackberry
+Enterprise Server (BES).
+
+Resolved issues related to communication between BES and Microsoft
+Exchange Server.
+
+Written core adapter module for converting Kony Object to BES Object and
+vice versa.
+
+Written Job scheduler to check any update in BES and accordingly send
+notification to EMM portal.
+
+Kony BlackBerry Platform (March 2010 – Dec 2011)
+
+Kony Blackberry platform supports Kony IDE to build Blackberry native
+apps. 
+
+Technologies: Java, J2me Polish.
+
+Roles and responsibilities:
+
+Worked on supporting JavaScript as a new input language for platform.
+
+Implemented NetworkThreadPool to handle multiple network requests.
+
+Resolved issues related to backend threads executing Scriptable object.
+
+Implemented network hierarchies provided by Blackberry.
+
+Worked on several new features at the same time optimizing the existing
+one.
+
+Worked on critical bugs raised by clients and product support team.
+
+Scraper Tool Development (December 2009 – June 2011)
+
+It’s a java plugin bundled with Kony IDE helps in scraping websites
+provided relevant information in DSL files.
+
+Technologies: Python, Java, DSL and XPATH.
+
+Roles and responsibilities:
+
+As a single owner of this tool I worked on requirement gathering,
+designing and development.
+
+On the basis of requirement from various Kony teams who uses this tool
+delivered new feature in very less time.
+
+IPhone Application Development (July 2009 – November 2009)
+
+Technologies: Objective C 
+
+Roles and responsibilities:
+
+Worked on various UI flows and implemented the business logic for one of
+the company client (Southwest).
+
+Scraper Services Development (Oct 2008 – June 2009)
+
+Using X-Path and regular expression parse and scrap data from website.
+
+Technologies: Java, Python 
+
+Roles and responsibilities:
+
+Developed rest based python web services using scraper and deployed it
+on python twisted server.
+
+Web Services Development (July 2008 – Oct 2008)
+
+To support mobile application, developed various web services that get
+called by mobile via Kony middleware.
+
+ 
+
+Technologies: Java, Python, Axis 
+
+Roles and responsibilities:
+
+Developed and deploy web services in Java.
+
+Developed client side code by wsdl files and integrate with other
+modules. 
+
+Mobile Application Development Using Kony-IDE (May 2008 – July 2008)
+
+Used eclipse plugin to developed code in lua which get integrated with
+middleware to produce
+
+triple play for mobile application.
+
+Technologies: Lua, Python.
+
+Roles And Responsibilities:
+
+Developed code in Python to scrap data for Craigslist (Social Networking
+Site) application.
+
+Written code in Lua to manage the functionality of banking application.
+
+Tensor Technology Pvt. Ltd., RnD base Company, IIT- Delhi  
+
+June 2006 - April 2008       
+
+Software Engineer 
+
+Transliteration of Indian Languages (April 2007 – April 2008)
+
+Extracting patterns of words written in Roman script and displaying them
+in Unicode.
+
+Client:   HYPERLINK "http://www.ibibo.com/"  www.ibibo.com .
+
+Technologies: Java, Python
+
+Roles and responsibilities:
+
+Designed, developed and implemented an algorithm to give dynamic Unicode
+suggestions on provided input in Roman letters.
+
+Developed modules in Python to build language dictionary.
+
+Personalization of search results (June 2006 – April 2007)
+
+Used Tensor Algebra to personalize search results and indexing them
+according to the
+
+Personality of the user.
+
+Technologies: Java, Python.
+
+Roles and responsibilities:
+
+Written code in Python to run Personalization module.
+
+Worked on an enhancement of project called “Collaboration”.
+
+Education
+
+B Tech (Computer Science) from Uttar Pradesh Technical University, Jun
+2006 (74.6%).
+
+Miscellaneous
+
+Won scholarship in 1st and 2nd year of graduation.
+
+Personal information 
+
+Current Location: Hyderabad.
+
+Passport Number: G5704776
+
+PAN card number: AKCPJ9168Q
+
+Date of Birth: 31st July 1982
+

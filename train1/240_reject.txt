@@ -1,0 +1,462 @@
+TECHPOINT PROFILE
+
+
+
+RESUME
+
+Kanchan Ghosh						     Email - kanchan.j2ee@gmail.com Skype ID – ghosh.kanchan					      Phone - +91 8698259766
+
+───────────────────────────────────────────────
+
+Career Objective: -	Intend to work in an esteemed professional organization of information technology. Want to play an important role in the organization as software professional.
+
+
+
+Software Exposure: -
+
+Software Exposure: -
+
+
+
+
+
+Programming Language: -	Java, JEE (Oracle ADF, JSF, JSP, Servlet, EJB, JDBC, JPA, Hibernate, Spring Core, Spring MVC)
+
+Database: -			Oracle (SQL, PL/SQL)
+
+Others: -  	XML, Web Service (REST, SOAP), JavaScript, JUnit, Mockito, Linux, Maven.
+
+Design Tool: -			Enterprise Architect.
+
+
+
+
+
+:-
+
+
+
+:-
+
+
+
+Project Experience: -
+
+
+
+
+
+Project Experience: -
+
+
+
+
+
+
+
+
+
+In Emerson Innovation Center
+
+I am currently working as a Senior Developer (responsibilities include coding and creating preliminary and detail design document.) in a Data Center Infrastructure management software product development project named Trellis. This is an agile project.
+
+
+
+Sprint 22 – Currently working on quality improvement cycle to do fix few performance issues in application along with various bug fixes in multiple modules of Trellis.
+
+Duration – Sept, 2015 – till date, Technology- Oracle ADF 11g, EJB 3.0.
+
+
+
+Sprint 21 –Worked on Power connection CRUD (create, read, update, delete) operation development task in this Sprint. This includes various generic and device compatibility validations for connection, phase propagation, load accumulation of power from the power source till the last device in connection line.
+
+Duration – March, 2015 – August, 2015, Technology- Oracle ADF 11g, EJB 3.0.
+
+
+
+Sprint 20 –Worked on quality improvement cycle to do various bug fixes in multiple modules of Trellis.
+
+Duration – Dec, 2014 – Feb, 2015, Technology- Oracle ADF 11g, EJB 3.0, Oracle DB 11g.
+
+
+
+Sprint 19 –Worked on Remote Service Manager (RSM) Extension of Trellis Application, This is adapting existing Emerson product LifeNet into Trellis. RSM enabled Trellis will specifically monitor industrial UPS and Cooling Devices across the world.
+
+Duration – March, 2014 – Nov, 2014, Technology- Oracle ADF 11g, Oracle SOA-BPM 11g, EJB 3.0, Oracle DB 11g.
+
+
+
+Sprint 18 – Worked on technological Evaluation and POC development with various JavaScript technologies for a future product development. I have worked on D3, Angular and jQuery JavaScript libraries. 
+
+Duration – Jan, 2014 – Feb, 2014, Technology- D3, Angular, jQuery script
+
+
+
+Sprint 17:- In sprint 17 my task is to implement the Process Manager UI functionality of Trellis. Process Manager is implementing Oracle BPM technology for the business process for approval/rejection of various request placed by user. I am developing the ADF UI Screens related to these processes.
+
+Duration – Oct, 2013 – Dec, 2013, Technology- Oracle ADF 11g, Oracle SOA-BPM 11g, EJB 3.0, Oracle DB 11g.
+
+
+
+
+
+Sprint 16:- In sprint 16 my task was to implement the Smart Rack functionality for Inventory Manager Module of Trellis. Smart Rack is a rack which has RFID reader installed, any server/device placed/moved in/from smart rack in the will be automatically be updated its placement in Trellis Inventory and can be easily located in Datacenter.
+
+Duration – August, 2013 – Sept, 2013. Technology- Oracle ADF 11g, EJB 3.0, Oracle DB 11g.
+
+
+
+Sprint 15:- In sprint 15 my task was to integrate the Service Processor properties and also IPv6 implementation in trellis project. The service processor implementation is applicable for UMG (Universal Management Gateway, A device which monitors and instructs various devices in data center) and Blade Chassis system. It finds out the associated Service Processor with UMG and Blade Chassis also enables/disables the monitoring of the server’s which are mapped to any service processor. In IPv6 implementation we added the support for IPv6 in Site Manager Module of Trellis. 
+
+Duration – July, 2013 – August, 2013. Technology- Oracle ADF 11g, EJB 3.0, Oracle DB 11g.
+
+
+
+Sprint 14:- In sprint 14 my task was to implement the alarm viewer POC, which shows the real-time alarm generated on various device in a datacenter. Alarms are generated depending on the thresholds parameters or device hardware configuration. Alarm can be of Critical, Warning, Information and Custom (user defined) types. Once alarms are shown in alarm viewer it will need attention from datacenter engineer for resolving the alarm causing issue. This period also includes product stabilization bug fixes for Site Manager Module.
+
+
+
+Duration – February, 2013 – June, 2013. Technology - Oracle ADF 11g, EJB 3.0, Oracle DB 11g.
+
+
+
+Sprint 13:- In Sprint 13 my task was to develop the screen to associate and to find the associated device with the primary device. The association means the connection between two different devices via various ports opening. The device’s which are associated with the primary device will be listed in the Device View of the primary device (Device View developed in sprint 9). 
+
+Duration - December, 2012 to January, 2013. Technology - Oracle ADF 11g, EJB 3.0, Oracle DB 11g.
+
+
+
+Spring 12:- In Sprint 12 my task was to implement create and configure the alarm command rule for primary and its associated device (if there is any associated device).  The alarm will be generated for a device if the configured data points exceed its thresholds value. The alarm will be raised to the datacenter operator / admin user.
+
+Duration - November, 2012 to December, 2012.  Technology- Oracle ADF 11g, EJB 3.0, Oracle DB 11g.
+
+
+
+Sprint 11:- In Sprint 11 my task was to implement the graphical chart representation of device data points for average, minimum and maximum values collected for a specified duration. Device data point is specific property of a device like temperature / power consumption / humidity which will be constantly monitored in a datacenter. 
+
+Duration - August, 2012 to September, 2012.  Technology- Oracle ADF 11g, EJB 3.0, Oracle DB 11g.
+
+
+
+Sprint 10D2:- In Sprint 10 (Drop 2) my task was to implement the Unit of Measurement (UOM) conversion in the UI as per the user preference, The Data is saved in DB in British Standard, (like length in Inch, Temperature in Fahrenheit). If the user preference is Metric standard then the data and its UOM needs to be converted to Metric scale before display in UI and similarly after the modification of the value in the screen then the data needs to be converted back to British standard before saving in DB.
+
+Duration - April, 2012 to August,2012.  Technology- Oracle ADF 11g, EJB 3.0, Oracle DB 11g.
+
+
+
+Sprint 10D1:- In sprint 10 (Drop 1) my task was to create detail design and implementing the threshold view of device data points, there are 4 types of thresholds for a data point (high critical, high warning, low critical, low warning) on violating the thresholds for a data point (data point is a characteristic value of a device property at a specific instance, like temperature). User can modify the thresholds value and can see the data point current/past value with respect to thresholds in a graphical view in Line Chart.
+
+Duration - Feb, 2012 to March, 2012 date.  Technology- Oracle ADF 11g, EJB 3.0, Oracle DB 11g.
+
+
+
+Sprint 9:- In Sprint 9 my task was to create a framework to display device information (like configuration, system health, generic overview etc.) and device images (front view, top view, rear view) for those critical devices which are monitored constantly in a Datacenter, monitored device might be server or UPS or Router etc. This Device View Framework will be able to display all kind of device data and image which is in use in a Datacenter.
+
+Duration - Nov, 2011 to Feb, 2012 date.  Technology- Oracle ADF 11g, EJB 3.0, Web Services, Oracle DB 11g.
+
+
+
+Sprint 8:- In sprint 8 my task was to coding implementation for the device alert rules framework in the Trellis application. Rules can be created/modified/removed for specific devices, alert rules are used to monitor devices in a datacenter and notify the datacenter administrator in case any violation happens.
+
+Duration - Sept, 2011 to Nov, 2011. Technology- Oracle ADF 11g, EJB 3.0, Web Services, Oracle DB 11g.
+
+
+
+Sprint 7:- In sprint 7 my task was to create detail design doc and coding implementation for the export of data from trellis system to external csv file. The data that will be exported will contain device (Rack, server, sensor) information from a datacenter (grid / floor / building) to an external csv file which can be used in importing other similar kind of products or other instance of trellis application. 
+
+Duration - July, 2011 to Sept, 2011.	Technology- Oracle ADF 11g, EJB 3.0, Web Services, Oracle DB 11g.
+
+UML Design Tool – Enterprise Architect.
+
+
+
+Sprint 6:- In Sprint 6 my task was to create detail design doc for the import process of csv data to trellis system. This includes importing the data to an intermediary staging area where user can run multiple type of validation (Data Type, Symbol, Collision etc.) along with clearing validation errors by modifying the data using ADF screen directly modifying the staging area data. Once the data in the staging area gets cleared by validation process user can commit it to production table.
+
+Duration-June-July, 2011.	Technology- Oracle ADF 11g, EJB 3.0, Web Services, Oracle DB 11g.
+
+UML Design Tool – Enterprise Architect.
+
+
+
+Sprint 5:- In Sprint 5 my task was to create preliminary and detail design document as well as coding implementation for importing CSV Files (containing device data: like rack, server, other sensor information) in the trellis system. The CSV would contain device information (server, rack etc.)of a Data Center. 
+
+Duration – April-May, 2011.	Technology- Oracle ADF 11g, EJB 3.0, Web Services, Oracle DB 11g.
+
+UML Design Tool – Enterprise Architect.
+
+
+
+Sprint 4:- In Sprint 4 my task was to create preliminary and detail design document as well as coding implementation for importing CAD Drawing (of Floor plan of datacenter) in the trellis system. The CAD Drawing would be of a floor plan of a Data Center. 
+
+Duration–February-March, 2011.	Technology- Oracle ADF 11g, Web Services, Oracle DB 11g.
+
+UML Design Tool – Enterprise Architect.
+
+
+
+	
+
+In Tech Mahindra Ltd.
+
+I have worked as a Senior Technical Associate in the HRMS module customization for our client project. Worked on customization and UI enhancement for Oracle apps HRMS module.
+
+
+
+Description - 
+
+Done custom development for the IRecruitment section for various use cases as requested by the client.
+
+Done custom development for Performance management system (PMS) for various use cases.
+
+Development of new functionality called “Letter of Credit” for the SCM module which involves creating a reference link between Purchase Order, Bank Bill and Documents for Credit.
+
+Duration - June, 2010 to January 2011. Client – Etisalat DB
+
+Technology – Oracle OA Framework, Oracle SQL, PL/SQL.
+
+
+
+In Oracle India Pvt. Ltd.
+
+I have worked as a Java programmer in the Fusion project. This project is an Enterprise Application development project. I have worked in the Extensible Framework team of PIM (Product Information Management) under SCM (Supply Chain Management) division. All the tasks are for Project PIM. Many of the tasks ran in parallel they have overlap in duration.
+
+Task 1 Description – Customization of Application Core for PIM.
+
+In this task I have done customization of the UI Pages (JSF) from the Application Core (applcore) libraries specifically for the PIM. The UI taskflows from applcore libraries are consumed in PIM UI pages. I am doing the customization of these applcore taskflows for PIM product level.
+
+Technology – ADF Framework (ADF Implementation of JSF), XML.
+
+Duration – Dec, 2009 – June, 2010
+
+
+
+Task 2 Description – Web Service Generation.
+
+In this assignment I have written API’s which will dynamically generate XSD for ADF View Object. These ADF View Objects are part of Oracle Extensible Flex field (EFF) which will be created at the time of configuring Fusion at the client site. These XSD’s too will be generated at the clients place by the API’s I have written. These XSD’s will then be used by Items Web service to access Extensible Flex field attributes (or Attribute Groups) through service call.
+
+Technology – ADF Framework, XML, XSD.
+
+Duration – Nov 2007 – August 2009
+
+
+
+Task 3 Description – BI Publisher Integration.
+
+My task in this assignment was to investigate possible ways to integrate BI Publisher with Fusion for Report generation for search results. In this case client will search for Items by putting some attributes in the search screen, and then I need to generate a Report with BI Publisher with the data that the search retrieved. 
+
+Technology – ADF Framework, BI Publisher
+
+Duration – July 2008 – Oct 2008.
+
+
+
+Task 4 Description – UI Modeler.
+
+In this assignment we created API’s which will dynamically generate ADF page fragments at clients place at the time of configuring Fusion. These Page fragments will then be used in a container page to show the data specific to the client’s requirement as per the configuration of Fusion.
+
+Technology – ADF Framework, Oracle SQL/PL-SQL, Groovy, XML, XSD. JUnit
+
+Duration – Oct 2008 – June 2009.
+
+
+
+Task 5 Description – BUG Fixing & Others
+
+There are some tasks that are always running like Development Bug Fixing for Unit/System Test, SQL Query Tuning, Writing JUnit Test cases, Fixing JAudit Issues, Fixing PSR (Performance-Scalability-Reliability) issues, various prototype developments etc.
+
+Technology – ADF Framework, Oracle SQL/PL-SQL, Groovy, XML, XSD. JUnit
+
+Duration – Always running in parallel with other tasks.
+
+
+
+Task 6 Description – R-12C Bug Fixing.
+
+Before the Fusion project started at full pace I was involved in the BUG fixing for Oracle Apps R-12C for some time.
+
+Technology – OA Framework, Oracle SQL/PL-SQL.
+Duration – July-Aug 2007.
+
+
+
+In Caritor India Pvt. Ltd. (Now merged with NTT Data)
+
+I have worked as a Java programmer in the Unisys AirCore project. This project is a web-based project for Airlines industry; it provides the customized solution to some of the leading international airlines
+
+
+
+Task 1 Description – The assignment is to integrate the AirCore with USAS (Univac Standard Airline Systems) through OMSE (Open Message Switching Engine). These two systems will communicate with each other with EDIFACT messages. Our task was to develop the AirCore interfaces for Booking, Ticketing and Departure Control System, which will process and send the EDIFACT messages to USAS via OMSE and vice versa. The OMSE system is a middleware responsible for routing and load balancing of the messages.
+
+Team size – 5,	Duration – Mid February 2007 to 18 May 2007.
+
+
+
+Task 2 Description – The assignment was to do Server Side Validation (SSV). In SSV the validation was of two type’s format and context, in format validation we have validated the input data with regular expression and the context validation are written to check all the mandatory and conditional attributes for an API. I have written the SSV Framework, which invokes the format validation process when an EJB API was invoked for a business purpose.
+
+Team size – 15,	Duration – August 2006 to Mid February 2007.
+
+
+
+Task 3 Description – The assignment was to write the javadoc for the existing API of BOOKING module. My responsibility was to write the javadoc and test the EJB API with JUnit test cases.
+
+Team size – 8,	Duration – April 2006 to July 2006.
+
+
+
+Task 4 Description – The assignment was to search fares for a particular origin destination and specific day of a flight. We implemented the lowest available fares search for a class with OTA (Open Travel Alliance) standard. We have also developed the price itinerary for passenger who searches the available fare for the journey and books the seat on the lowest available fare.
+
+Team size – 6,	Duration – November 2005 to March 2006.
+
+
+
+
+
+Professional Experience: -
+
+
+
+
+
+Professional Experience: -
+
+
+
+
+
+
+
+
+
+Organization		Emerson  [web: www.emerson.com]
+
+Designation  		Senior Developer
+
+Tenure			31-Jan-2011 to till date.
+
+Training	Design of Detail Design Document with UML generation from Enterprise Architect.
+
+Platform	EJB, JSF, XML, Web Service, SOA, ADF Framework, Oracle SQL, PL/SQL.
+
+Domain		Datacenter Infrastructure management
+
+Tools 	Jdeveloper 11g, Weblogic Server 11g, Oracle 11g database 
+
+Location	Pune, India
+
+
+
+Organization		Tech Mahindra Ltd. [web: www.techmahindra.com]
+
+Designation  		Senior Technical Associate
+
+Tenure			7-June-2010 to 27-Jan-2011.
+
+Training		Trained on OA Framework
+
+Platform	J2EE, XML, OA Framework, Oracle SQL, PL/SQL.
+
+Domain	Oracle APPS – HRMS Technical.
+
+Tools 	Jdeveloper 10g, Oracle 10g database.
+
+Location	Kolkata, India
+
+
+
+
+
+Organization		Oracle India Pvt. Ltd. [web: www.oracle.com]
+
+Designation  		Applications Engineer
+
+Tenure			16-July-2007 to 4-June-2010.
+
+Training		Trained on SQL, PL/SQL, SOA and ADF Framework
+
+Platform	J2EE, JSF, XML, WebService, SOA, ADF Framework, SQL, PL/SQL.
+
+Domain	Enterprise Application Domain (Oracle Fusion APPS)
+
+Tools 	Jdeveloper 11g, Weblogic Server 11g, Oracle 11g database.
+
+Location	Hyderabad, India
+
+
+
+Organization	Caritor India Pvt. Ltd.  (Now merged with NTT Data) 
+
+Designation  		Senior Software Engineer
+
+Tenure			26 September 2005 to 18 May 2007.
+
+Training		Trained on JAVA and J2EE
+
+Platform	J2EE, JSP, EJB and XML 
+
+Domain	Transportation Domain (Airlines Industry.)
+
+Tools 	Eclipse 3.2, BEA Weblogic Server 9.1, WebSphere MQ 6.0, Oracle 10g, Rational ClearCase, Rational ClearQuest, PMD, Checkstyle, Findbugs.
+
+Location	Bangalore, India
+
+
+
+
+
+
+
+Educational Qualification: -
+
+Educational Qualification: -	
+
+
+
+
+
+B.Tech (Computer Science and Engineering) from JIS College of Engineering under West Bengal University of Technology in 2001 - 2005 with 8.25(DGPA) in a 10-point scale as per university rules.
+
+Higher Secondary (XII) from Shyamnagar Kanti Chandra High School under W.B.C.H.S.E. in 1999 with 70.2 %.
+
+Secondary (X) from Mulajore Sitanath Pathsala, Shyamnagar under W.B.B.S.E. in 1997 with 80.87 %.
+
+
+
+Personal Details: -
+
+
+
+Name		   	–	Kanchan Ghosh
+
+Present Address     –	Flat 303, Jogeshwary Apartment, Sukhda colony, Dangechowk,
+
+Pune, Maharashtra, PIN-411033. Beside Satish Executive Hotel.
+
+Permanent Address–	Chandibari (N), Shyamnagar, 24 Parganas (N), West Bengal, India, PIN -743127
+
+Date of Birth	      	–	2nd December 1980
+
+Gender	      	–	Male
+
+Marital Status	–	Single
+
+Nationality	      	–	Indian
+
+Passport		–	Valid till August, 2025.
+
+Language Known    –	English, Bengali and Hindi (verbal).
+
+
+
+Declaration: -
+
+
+
+I hereby declare that all the information furnished above is true to the best of my knowledge and belief.	
+
+
+
+
+
+Date: -  
+
+Place: - Pune							Kanchan Ghosh

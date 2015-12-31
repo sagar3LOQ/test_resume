@@ -1,0 +1,227 @@
+hibernate:       1.6 year
+
+springs -         2.5 year & current
+
+web services:1 year & current
+
+Core java : 4 years
+
+UML design - No
+
+BUild tools:   Maven/ sonar/weblogic/jboss
+
+worked on reflection.
+
+DB-mysql
+
+SREERAMA BALAKRISHNA
+
+           	 Email             :sbk.mca@gmail.com		 		 Contact 1       
+: +91-9441454652
+
+		 Contact 2        : +91-8978923100
+
+PROFESSIONAL  SUMMARY:
+
+Having 4 years of professional experience in java,j2ee application
+development.
+
+Experienced in Core Java with Object Oriented Concepts like Collections,
+Exception Handling and Polymorphism.
+
+Experience in J2EE technologies like Servlets, JSP, and JDBC.
+
+Experience in various Frameworks like SPRING 3.X, Hibernate. 
+
+Experienced in J2EE Design Patterns such as DAO, Factory and Single-ton
+in the development distributed Enterprise Applications.
+
+Exposure to various Relational Database Management Systems like
+Oracle,SqlServer 2005,Postgres Sql.
+
+Exceptional ability to quickly grasp the new concepts and capable of
+contributing individually as well as a Team Member also.
+
+PROFESSIONAL  EXPERIENCE : 
+
+Working as a Software Engineer in Prokarma Softech Private Ltd from July
+2013 to till date.
+
+Worked as a Programmer at National Informatics Centre (NIC) through IAP
+Company Private LTD(out sourcing) from December 13, 2010 to July 2013.
+
+TECHNICAL SKILLS:  
+
+          Languages             		:	JAVA
+
+Java/J2EE Technologies      :         JDBC, Servlets, JSP.
+
+Web Technologies		: 	HTML, XML, JavaScript.
+
+Frameworks			: 	Spring 3.x, Hibernate3.x. 
+
+Databases			: 	Oracle10g/9i, SqlServer2005, PostgresSql.
+
+IDEs				: 	Eclipse, NetBeans.
+
+Web/Application Servers	: 	Apache Tomcat.
+
+Platform			: 	Windows XP, Red Hat Linux 5.3.
+
+EDUCATION SUMMARY:
+
+Master of Computer Science (MCA) from JNTU Kakinada with 76% in 2007-10.
+
+Bsc Physics(Hons) from Berhampur University, Orissa. with 63% in
+2004-07.
+
+Intermediate from Andhra University, Visakhapatnam with 82% in 2002-04. 
+
+PROJECT SUMMARY: 
+
+#Project 1:
+
+Title		:	Equipment
+
+Client		:	UPRR(Union Pacific Rail Road)
+
+Environment	:	Core Java, Spring, Maven, XMF Services, JMS, Oracle
+10g,Postgres Sql 
+
+9.2,Fitnesse, Eclipse, SVN.
+
+Description: UPRR is largest rail road  in US. In this project we are
+handling/storing the information about the equipment details and the
+material that the car contains/carrying and also the cross references
+information which the car has. apart from these way bills related stuff
+of each and every equipment. And we store the information about the
+stops between the source and destination as well as the delivery
+(between stops) details of the equipment. and also Interchange
+Information Between Other Agencies.
+
+ 
+
+Responsibilities:
+
+Involving in sprint planning as part of monthly deliveries.
+
+Involving in daily scrum calls and standup meetings as part of Agile
+methodology.
+
+Good hands on experience on Version One tool to update the work details
+and working hours for a task.
+
+Involving in the designing part of views.
+
+Involving In Writing Spring Configuration Files and Business Logic based
+on Requirement.
+
+Involved in code-review sessions.
+
+Implementing Junit test’s based on the business logic w.r.t to
+assigned backlog sprint plan.
+
+Implementing the Fixtures to execute the FitNesse test tables.
+
+Good experience on creating the Jenkins CI jobs and Sonar jobs.
+
+ 
+
+# Project 2:
+
+  Title			:		 Register Portal (sarathi.nic.in)
+
+          Client			:	Ministry of Transport (Govt of India).
+
+           Environment	:	Java, Web Services, JSP, JSF1.2, JavaScript,
+Hibernate
+
+Overview: 
+
+This project provides anytime anywhere basis services like online
+application submission for issuance of Learner License or Driving
+License, online payment of tax and other fees related to vehicle
+registration. It facilitates Status Tracking of various application
+related to Driving License. It provides applications for issuance of
+National Goods Permit, for endorsement of Name, Address etc. The
+availability of free services, MIS for decision making can be endowed
+with it. Information sharing will be quick and easy to other Government
+department. The Applicant details queried can be known easily by which
+one can know to which RTO that applicant belongs and the amount paid by
+that applicant for the concerned transactions.  It makes possible to
+know the information related to tax due date, fitness due date, Driving
+License renewal due date etc. The utilities provided to a particular RTO
+office can be modified by selecting the necessary operations that an
+office should work on.
+
+Responsibilities:
+
+Developed Front-End Using JSF1.2.
+
+Developed a Web Service for fetch the Details of the Applicant which
+included the amount of Fee paid, Class of Vehicle possessed and the RTO
+at which the amount has been paid.
+
+Implementation of a utility that provides alteration of services for the
+RTOs.
+
+Implemented the Search Mechanism of License Holder by writing the web
+service.
+
+# Project 3:
+
+Title		 : 	Sarathi 2.0
+
+Client		           :	Ministry of Transport (Government of India).
+
+Environment  	 :	RMI, Swings, Hibernate3.x, Oracle 9i, SQL Server and
+DB2
+
+Period	           :	Dec 2010 – Till Date.
+
+Description	:      
+
+Sarathi is a Product developed for National Transport Division, this
+project relates with the transactions regarding issuing of Licenses in
+RTO offices of India. Sarathi deals with Learning License, Driving
+License, Conductor Licenses and Driving School Licenses. Each module
+contains some actions such as receiving Fee & Applications, Backlog Data
+and Record Full Details, capturing Biometrics, Approvals, Receipts
+generation and Reports. For Security implementation, any officer has few
+of the roles not all. Sarathi provides the ability to modify the
+authorization to the RTO officers. Whenever an application is received
+for the license, it passes through all these actions in a sequence.
+Until the higher authority approves the application then only the
+license is issued. This Sarathi Product is going to be implemented
+throughout all RTO offices in the country in stages.
+
+Responsibilities:
+
+Developed and Enhanced Approval Counters Allotment & Distribution
+module.
+
+Involved in writing the queries as the application is having the
+heterogeneous Databases.
+
+Involved in deployment activities requested for QA team.
+
+Involved in performance improvement of system in regular interval during
+the development.
+
+Involved in reviewing, prioritizing and solving the bugs in the system.
+
+Involved in Unit testing & Integration testing.
+
+Involved in Data Porting Of AP Transport Dept Driving Licenses(Sarathi)
+and Registrations (Vahan) to NR(National Register) By Providing Mapping
+Logic in both Oracle and SQL Server 2005.
+
+Involved in Data Checking Process for AP Transport Dept Data as Per NR
+Structures By writing scripts as per mapping in Both Oracle and SQL
+Server 2005.
+
+Developed Tools for checking The Ported Data and Reporting the status of
+Porting by using Java & JDBC.
+
+					
+

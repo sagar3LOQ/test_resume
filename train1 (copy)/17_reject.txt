@@ -1,0 +1,353 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate       mybatis - 3year
+
+Spring             -  3 year &
+current                                �
+�               
+
+Web
+Services      2years  &current(REsT)              
+                                
+
+Core Java                - 4 year
+
+Design Patterns       -    worked
+
+UML design              -    sequence
+
+Build Tools (Maven/Ant)          -    maven   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Eclipse/intellj,sonar/PMD/tomcat and jboss
+
+Aware of reflection/mysql/sqlserver
+
+UDAY KIRAN REDDY .DESAM
+
+uday13121986@gmail.com                                     Mobile No:   
+   9966757998
+
+   
+
+Professional Summary: 
+
+Having around 4 Years of IT experience in the development field of
+various web applications Using Core Java, Advanced Java, Spring 3.0,
+Mybatis, EJB, Struts 1.x,
+
+Web Services (SOAP, Restful), Oracle10g, MySQL.
+
+Having good knowledge in development, deployment of web based
+Applications.
+
+Experience in Software development life Cycle (SDLC) involving Analysis
+and Development of applications in Java, J2EE.
+
+Good understanding of latest Technologies & business processes.
+
+Good Knowledge on Tools like SONAR, JENKINS etc.
+
+Good Knowledge on testing frameworks like Mockito, Easy Mock, Power Mock
+etc.
+
+Good understanding of Design patterns.
+
+Experience in configuring and deploying applications in Tomcat and JBOSS
+Application servers.
+
+Employment Status
+
+Working as Senior Software Engineer at Prokarma .From June 2014 to Till
+Date.
+
+ Worked in Newgen Software from May 2012 –June 2014
+
+Worked in Ektha Software from Nov 2010 – May 2012 
+
+Qualification
+
+B.E (ECE) from SRM University, CHENNAI.With an aggregate of 69%
+
+Certifications
+
+Technical Skills
+
+	Programming Languages	Java
+
+Web Technologies 	SERVLETS,JSP,WebServices(RESTful)
+
+Distributed Technologies	EJB 2.0, 3.0
+
+Service Technologies	JMS,JAAS,JTA,JTS,JPA,Java Mail,JNDI.
+
+Frameworks	 SPRING(2.x,3.x),Struts,HIBERNATE,Mybatis,
+Mockito,EasyMock,SpringSecurity(SAML etc )
+
+
+
+Databases	Oracle, My Sql , SQL Server
+
+Scripting Languages	JavaScript, JQuery and AJAX
+
+Servers	Tomcat 7,J-Boss
+
+IDE Tools	ECLIPSE,Intellij
+
+Tools	Ant,Maven,SVN,Log4J,JUnit,Sonar,Jenkins,Visio,VP,Jira
+
+Client Side Technologies	HTML, CSS
+
+Project Experience Summary:	
+
+Description	
+
+Volkswagen is a Automotive Company.This portal is related to incentive
+management of the company for different vehicles and involves sales of
+the vehicles also 
+
+Client	AutoData Solutions(Canada)
+
+Role	Java Developer
+
+Operating System(s)	Windows XP
+
+Skills	Core Java, Spring 3.0, MyBATIS 2.3, Webservices (Restful), Jsp,
+Junit, MySQL, Maven, jQuery, KendoUI.
+
+
+
+Repository	Perforce (P4v)
+
+Contribution	
+
+Implemented business objects and business logic of the system.
+
+Development of Spring Controller, Service and DAO layer classes.
+
+Development of Junit Test Cases.
+
+Development of User Interface.
+
+
+
+Team Size	15
+
+
+
+3. Savoya
+
+Frameworks/Web Technologies	EJB2.0
+
+UI Technologies	JavaScript, CSS, HTML, XML, AJAX, JSON
+
+Development Tools	KAWA
+
+(RDBMS) Databases	Oracle
+
+Functional Areas	Automotive 
+
+Programming Languages	Java
+
+Frameworks	Ejb2.0
+
+Repositories	cvs
+
+Project Build Tools	Ant
+
+Operating Systems	Windows
+
+Servers	Jboss
+
+
+
+PERSONAL DETAILS
+
+    Name                       :  UDAY KIRAN REDDY.DESAM
+
+    Father’s name           :  D.MAHESWARA REDDY
+
+    Date of Birth             :  13.12.1986
+
+    Sex                          :  MALE
+
+Current Address         :  H.No 7 ,Gayatri Gardens, Balaji hills ,
+
+                                    Nizampet road ,Hyderabad.           
+                                                                        
+                                                                        
+                            
+
+    Address                    :  S/O D.MAHESWARAREDDY, 
+
+                                       501-H.R.T residency,
+
+                                       Siddhartha Nagar,	
+
+                                       Vijayawada,
+
+                                       Krishna Dist,
+
+                                       Andhra Pradesh.
+
+   Marital status             :  Single
+
+   Mother tongue            :  Telugu
+
+Languages known	English	Hindi	Telugu	Tamil	German
+
+Speak	Yes	Yes	Yes	Yes	Moderately
+
+Read/Write	Yes	Yes	Yes	No	Moderately
+
+
+
+HOBBIES
+
+Reading books.
+
+Collecting stamps.
+
+Meditation
+
+DECLARATION
+
+        I declare that the information and facts stated herein are true
+and correct.  I undertake to abide by the conditions of employment
+specified by the recruiters and uphold the reputation of our
+institution.
+
+Place:  Hyderabad
+
+Date:                                                                   
+                                     Signature
+
+1. South East Toyota
+
+Frameworks/Web Technologies	Spring 3.0, Mybatis3.0, Webservices(Restful)
+
+UI Technologies	Marionet, JavaScript, CSS, HTML, XML, AJAX, JSON
+
+Development Tools	Intellij
+
+(RDBMS) Databases	SQl server
+
+Functional Areas	Automotive 
+
+Programming Languages	Java
+
+Frameworks	Spring3.0, Mybatis
+
+Repositories	Perforce(P4v)
+
+Project Build Tools	Maven, Jenkins, Sonar
+
+Operating Systems	Windows
+
+Servers	Tomcat
+
+ 
+
+Description	
+
+SET is authorized distributor for Toyota vehicles in USA ,This
+application is used for automation of receiving the feeds from Toyota
+japan and adding and customizing the vehicles .
+
+Client	AutoData Solutions(Canada)
+
+Role	Java Developer
+
+Operating System(s)	Windows XP
+
+Skills	Core Java, Spring 3.0, MyBATIS 2.3, Webservices (Restful), Jsp,
+Junit, MySQL, Maven, jQuery, KendoUI.
+
+
+
+Repository	Perforce (P4v)
+
+Contribution	
+
+Implemented business objects and business logic of the system.
+
+Development of Spring Controller, Service and DAO layer classes.
+
+Development of Junit Test Cases.
+
+Development of User Interface.
+
+
+
+Team Size	30
+
+ 
+
+2. Volkswagen
+
+Frameworks/Web Technologies	Spring 3.0, Mybatis3.0, Webservices(Restful)
+
+UI Technologies	EXT-JS, JavaScript, CSS, HTML, XML, AJAX, JSON
+
+Development Tools	Ecllipse
+
+(RDBMS) Databases	SQl server
+
+Functional Areas	Automotive 
+
+Programming Languages	Java
+
+Frameworks	Spring3.0, Mybatis
+
+Repositories	Perforce(P4v)
+
+Project Build Tools	Maven, Jenkins, Sonar
+
+Operating Systems	Windows
+
+Servers	Tomcat
+
+ 
+
+ 
+
+ 
+
+Description	
+
+Savoya is a Cab provider in usa having its office in Newyork and Dallas,
+It also hastie ups with different MNC’s In Providing the shuttle
+services, It is also well known for its airport Pick up and drop
+Services.
+
+Client	Savoya(USA)
+
+Role	Java Developer
+
+Operating System(s)	Windows XP
+
+Skills	Core Java, EJB 2.0, Html, Junit,ORACLE , ANT, javaScript,Enhydra.
+
+
+
+Repository	CVS (P4v)
+
+Contribution	
+
+Implemented business objects and business logic of the system.
+
+Development of Controller, Service and DAO layer classes.
+
+Development of Junit Test Cases.
+
+Development of User Interface.
+
+
+
+Team Size	14
+
+ 
+

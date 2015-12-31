@@ -1,0 +1,283 @@
+Venkata Suresh Kumar Sunuku
+
+Contact: +91-9108876673 
+
+			E-Mail: svsk12081987@gmail.com	
+
+	
+
+	An accomplished & knowledgeable professional aiming for assignments as Senior Software Engineer with an organization of high repute; preferably in Software industry 
+
+	
+
+	Location Preference: Hyderabad
+
+	
+
+	SKILLS SET
+
+	PROFILE SUMMARY
+
+	
+
+	Application Development
+
+	Production Support
+
+	Database Management 
+
+	Testing  & Troubleshooting
+
+	Bug Fixing
+
+	Defect Management
+
+	Reporting & Documentation
+
+	Requirement Gathering & Analysis
+
+	Team Coordination 
+
+	
+
+	A competent professional with 5.5 years of experience in Software Development, Project Execution and Client Relationship Management
+
+	Skilled in developing enterprise web-based application based on Java technologies using J2EE, J2SE, Java Servlets, JDBC, Spring, Struts & Hibernate
+
+	Demonstrated abilities in ramping up projects within time, budget & quality parameters as per project management & best practice guidelines
+
+	Expertise in all the phases of Software Development Life Cycle (SDLC) entailing requirement analysis, design, development, Implementation, delivery and troubleshooting
+
+	In-depth knowledge of Spring Core & Spring MVC, SOA (Service Oriented Architecture) and IDE Eclipse Kepler
+
+	Pivotal in handling end-to-end implementation of various projects including designing, coding & execution of applications
+
+	Adept in creating stored procedures which meet the business requirements
+
+	Gained significant onsite exposure at Bangkok & Thailand country
+
+	Well versed with Automobile and HealthCare Domain
+
+	An effective communicator with good analytical, interpersonal and problem solving skills
+
+	
+
+	
+
+	WORK EXPERIENCE
+
+
+
+Oct’13 – Till Date: NIIT Technologies, Hyderabad as Senior Software Engineer
+
+	
+
+May’10 - Sep’13: Venture Softtech, Bangalore as Software Engineer 
+
+	
+
+	Key Result Areas:
+
+	Responsible for developing Jasper Reports using i-Report and client / server & web applications using Java, J2EE, J2SE Technologies & Web Technologies for enterprise applications
+
+	Looking after end-to-end management of multiple projects / programs, monitoring progress of project as per schedule and ensuring timely completion & delivery of project to the client
+
+	Performing requirement gathering and writing functional requirement specifications
+
+	Configuring maintenance plans for backups, database optimization & administration of SQL Server
+
+	Writing test cases, creating & executing automatic test scripts and reviewing logs or reports to identify errors
+
+	Tracking and preparing project documents like test plans, schedules & defect tracking reports
+
+	Undertaking design & development, testing, debugging and troubleshooting of the application
+
+	Designing web based GUIs using HTML5, jQuery, JavaScript, XML, AJAX & JSP
+
+	Ensuring timely completion and delivery of project to the client, extending production support of multiple applications
+
+	Handling configuration and deployment of multi-tier applications using servers like WebSphere & JBOSS
+
+	Developing web services  REST & SOAP using Apache Axis, WSDL, SOAP, UDDI, XML-RPC and JAXB/JAXP
+
+	
+
+	EDUCATION
+
+	
+
+	Masters of Technology from K.S.R.M College of Engineering, affiliated by JNTUA, India with 73.17% in 2012 
+
+	Bachelor of Technology from AITS College, affiliated by JNTUH, India with 63.63% in 2008
+
+	
+
+	IT SKILLS
+
+	
+
+	Well versed with:
+
+	J2EE Technologies: JDK1.4/1.5/1.6, JSP 1.2/2, Servlets, Ajax, Spring, Struts1.x, JDBC, JUnit, JNDI, XML, JMS, Web Services, WSDL, SOAP, JSP and JSTL
+
+	Languages: Java, SQL, XML, HTML5, Java Script, jQuery, Ajax and JSON
+
+	Web/App Servers: IBM Websphere 5.1/6.x and JBoss 4.x / 6.x
+
+	DBMS: Oracle 8i / 9i
+
+	Operating System: Windows  XP / 7
+
+	Development Tools: Eclipse, SQL Developer, ANT, RestClient, SOAPUI and iReport
+
+	
+
+	PERSONAL DETAILS
+
+	
+
+	Date of Birth:			12th August, 1987
+
+	Language Known:			English & Hindi 
+
+	Please refer Annexure for projects 
+
+	ANNEXURE
+
+			
+
+Title:			TOPSERV (TMT) Kaizen
+
+Period:			Oct’13 – Till Date
+
+Designation:		Senior Java Developer
+
+Environment: 	Java, J2EE, JavaBeans, Servlets, Struts, JSP, JavaScript, HTML, CSS, Oracle 9i, Windows 7/XP, JBOSS 4.x, Log4j and ANT
+
+Description:	TOPSERV stands for top service. It is a worldwide application used by Toyota dealers for vehicle servicing. It includes many modules like GS service, part ordering, warranty, admin, BP service, campaign.
+
+Role:
+
+Liaising with business & technical teams and documenting functional & technical specifications in business requirements analysis phase
+
+Responsible for:
+
+Writing the code for uploading the campaigns
+
+Using JDBC API to query database system, JDBC Thin Driver to connect to database & Eclipse IDE for developing application
+
+Conducting code & design reviews and fixing defects in all test environments
+
+Guiding team on application development and exploring on new technologies
+
+Designing Log4j logs to record application events to provide debugging, monitoring & auditing capabilities to the application
+
+Coordinating with:
+
+Test teams to support system and integration testing
+
+Users in monthly meetings; understanding requirements and enhancing the application
+
+
+
+Title:			e-CRB Next Gen – Service
+
+Period:			Oct’13 – Aug’15
+
+Designation:		Senior Java Developer
+
+Environment: 	Java, J2EE, Spring MVC, Tiles, JavaBeans, Servlets, JSP, Hibernate, RESTful Web Services, JavaScript, HTML, CSS, Oracle 10g, PL/SQL, JBOSS 6.x, Windows 7/XP, SVN, Log4j, Junit and ANT
+
+Description:	TMAP was a subsidiary of Toyota Motor Corporation of Japan for manufacture & sales of Toyota cars in Thailand. For sales of Vehicle Toyota, Dealers & Branches spread across the country. These dealers were responsible for providing sales & service to Toyota Customers. In order to streamline sales & service operation, Toyota decided to develop a new centralized Web based application called ‘TopServ’. eCRB was IPAD version of Topserv. e-CRB was a Service Based Application.
+
+Role:
+
+Accountable for:
+
+Developing I-Pad screens using JSP, JQuery, HTML5, CSS, JavaScript, AJAX and JSTL
+
+Creating application using AJAX
+
+Liaised with offshore team to fix the bugs in the application
+
+Responsible for using:
+
+Hibernate in data access layer to access and update information in the database
+
+Hibernate config.xml file for configurations and mapping entries to access database
+
+Struts config.xml file for defining Mapping Definitions and Action Forward Definitions 
+
+JDBC API & HQL (Hibernate Query Language) to query database system 
+
+Looked after configuration of tiles-defs.xml file to configure the presentation views
+
+
+
+Title:			e-CRB Next Gen – Sales
+
+Period:			Jul’14 – Aug’15
+
+Designation:		Senior Java Developer
+
+Environment: 	JDK1.6, J2EE1.4, JSP 2.0,  HTML5, jQuery, JavaScript, XML, SOAP, REST, Spring MVC, Hibernate, Eclipse Kepler, JBOSS 6.x, AJAX, Oracle 9i and i-Report 5.0.0
+
+Description:	A-card/booking creation & retail sale of vehicles was performed in DDMS System by dealers. Dealers have many branches & salesmen to perform sales operation. When customer approached dealer showroom, salesman was the person who dealt with the customer and captured A-card information in DDMS. When customer confirm dealer to purchase vehicle salesman create booking in DDMS. Once dealer receive vehicle from TMT, retail sale of the vehicle was performed in DDMS. To improve Toyota sales process & provide salesman an efficient way to interact with customer “eCRB Tablet” application was launched for dealers to create A-card/Booking (P2B-Pospect to Booking) data in tablet. Salesman could create A-card/Booking in tablet as well in DDMS application. Prospect/Booking (P2B) data in both systems was kept in synch through background interfaces. Whenever A-card/Booking was created in eCRB tablet data was send to DDMS System through interfaces and vice versa.
+
+Role:
+
+Designed I-Pad screens using JSP, JQuery, HTML5, CSS, JavaScript, AJAX and JSTL
+
+Built web tier by using Servlets, JSP, Custom Tag Libraries, Tiles, Java Script, XHTML, XSLT and XML
+
+Accountable for developing:
+
+Web services based on SOAP and REST
+
+Jasper Reports using i-Report 5.0.0 and SQL queries for database access
+
+Undertook activities related to:
+
+Bug fixing, minor enhancements for the existing application and production support
+
+Architecture of modules as per J2EE standards (Client Tier, Web Tier & Business Tier)
+
+Handled both server side and client side validations
+
+Responsible for using Hibernate for mapping objects to the relational database
+
+
+
+Title:			UHCS (United Health Care Systems)
+
+Period:			Nov’11 - Sep’13
+
+Designation:		Java Developer
+
+Environment: 		Java 1.5, Eclipse, Tomcat, Oracle 9i, Struts, JDBC, Servlets & JSP
+
+Description:	This was an internet based application for United Health Care System. Project was mainly subdivided into two separate parts, which consisted of different modules. First part was Registration Module, which was used to register the patients through online and second part was Login Module, where an individual could access the application and made payments through online. 
+
+Role:
+
+Accountable for developing JSPs and writing Struts Action Classes
+
+Analyzed functional and technical specification
+
+
+
+Title:			Kelkoo Online Shopping, UK
+
+Period:			May’10 – Oct’11
+
+Designation:		Java Developer	
+
+Environment: 		JDK 1.5, Struts, XML, JSP, Servlets, JDBC, Java Script, CSS, Eclipse & Jboss Application Server
+
+Description:	Project was an online shopping. For front-end processing Struts, HTML & JSP’s was used and Oracle was used for backend processing. Hibernate were extensively used for connection between front-end and databases. Project was an application, where in a person who opened ‘Login’ was given the option of selection the way users shops using a simple menu of dropdown menu (this gave him option of viewing the selected item also).
+
+Role:
+
+Looked after coding development of Action Forms and Action Classes
+
+Accountable for understanding & analyzing functional and technical specifications

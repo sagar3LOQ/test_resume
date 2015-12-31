@@ -1,0 +1,316 @@
+      
+
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                 -  2.5year
+
+Spring                  
+                                 - 2
+Years                                 �
+�             
+
+Web
+Services                                
+       -  
+
+Core
+Java                                  
+            -  3.8 years                
+
+Design
+Patterns                                
+   -  3 years            
+
+UML
+design                                 
+         -   2 Years
+
+Build Tools (Maven/Ant)                   -    2.5
+maven 
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+RAD,weblogic,websphere,
+
+Code: 100%coding
+
+Ok  to work with startup
+
+Objective: 
+
+Seeking a position to utilize my skills and abilities in the company
+that offers professional growth resource full, innovative and flexible.
+
+Professional Summary:
+
+3. 8 years of experience in software development includes Analysis,
+Development of Web-based Fusion web applications like Oracle Adf.
+
+Extensive experience in design and development of multi-tier
+applications using Java, J2EE,
+
+Spring, Hibernate, EJB, JPA Oracle ADF.
+
+Worked on different Application and Web Servers like   Web Logic, Tomcat
+and JBoss ,Websphere. 
+
+Extensive experience in different IDEs like Eclipse, and Oracle
+developer and Rad..
+
+Experience in web application design using open sourceSpring  Mvc.
+
+Excellent communication and interpersonal skills and involved in client
+interactions for scoping, effort estimates and status reporting 
+
+Experience with test-driven development using a unit testing framework
+such as JUnit.
+
+Working Experience on Design Patterns line
+Singleton,factory,sessionfacade,frontcontroller
+
+A team player with excellent interpersonal skills.
+
+Experience:
+
+Working  as a software engineer in    IBM   Hyderabad  since    August 
+2014 to  till Date
+
+Worked as a software engineer in   Tech   Mahindra Ltd  Bangaloore 
+since    March  2013 to  Aug  2014
+
+Worked as a software engineer in    crimsonlogic  Bangaloore  since 
+April  2011 to   March 2013
+
+Academic Profile:
+
+Bachelor of Technology   from   Jawaharlal Technology University 2010   
+                                                                        
+                                                        
+
+Technical Skills:
+
+Skills	Environment
+
+Java Technologies	Java 
+
+J2EE Technologies	ServletsJSP,EJB, JPA
+
+Frameworks	 Spring , Oracle ADF
+
+ORM Technologies	Hibernate
+
+Web Servers	Tomcat
+
+Application Server	Web Logic,Web sphere
+
+Operating Systems	Windows
+
+DB Servers	Oracle
+
+Build Tools/IDE	Eclipse,SVN, Soup UI,Jdeveloper,RAD,clear case
+
+Unit testing	 JUNIT
+
+
+
+PROJECT #1
+
+Project Name		:            Credit Assesment(October 2012 to  March 2013)
+
+Role			:	Software Developer 
+
+Team Size		:	14
+
+Environment		:	Java/J2EE, Oracle ADF, Web logic, JUNIT, MAVEN
+
+Project Description:Credit assement  which  calculates the Worthness of
+a business or organization. In other words, It is the evaluation of the
+ability of a company to honor its financial obligations. The audited
+financial statements of a large company might be analyzed when it issues
+or has issued bonds Or, a bankmay analyze the financial statements of a
+small business before making or renewing a commercial loan. The term
+refers to either case, whether the business is large or small.The
+objective of credit analysis is to look at both the borrower and the
+lending facility being proposed and to assign a risk rating. The risk
+rating is derived by estimating the probability of default by the
+borrower at a given confidence level over the life of the facility, and
+by estimating the amount of loss that the lender would suffer in the
+event of defaulCredit analysis involves a wide variety of financial
+analysis techniques, including ratio and trend analysis as well as the
+creation of projections and a detailed analysis of cash flows. Credit
+analysis also includes an examination of collateral and other sources of
+repayment as well as credit history and management ability. Analysts
+attempt to predict the probability that a borrower will default on its
+debts, and also the severity of losses in the event of default
+
+Responsibilities:
+
+Involved in coding and unit testing
+
+Understanding of functional specifications
+
+Invloved in validations using java scripts.
+
+Invloved in file uploading and downloading
+
+Involved in  security and transaction issues
+
+Involved in validations and Exception handling in ADF.
+
+Invloved  in  Development of trains and task flow parameters
+
+Development of Dependent Drop downs,Lovs.
+
+Involved in design and development of Bounded and unbounded Task Flows
+
+Designed and implemented ADF Business Components.
+
+Development of  ui using Adf rich Faces.
+
+ADF Task flow design and implementation.
+
+Involved in Internationalization of the application.
+
+Involved in Working with View Criteria’s, LOV’s.
+
+Project #2
+
+Title		:             EBanking              
+
+Role		:	Software Engineer
+
+Environment	:	Java/J2EE, Oracle ADF, JUNIT, SVN    
+
+Description:
+
+Internet banking service you can carry out banking activities from home
+/office with only your mouse for comfort of customers. Using Internet
+Banking ID and password, customer can   view accounts /do transactions
+online 24x7 without any hassle. Customer can transfer funds online to
+accounts maintained with any bank. You can also access all your Bank
+accounts from all around the world 24x7. Account/s transaction details,
+Viewing/Printing of account statement, Transfer of funds in own/third
+party bank accounts, Transfer of funds to other bank accounts through
+NEFT/RTGS, Direct/ Indirect tax payments, Utility bill payments like
+electricity bills, telephone bills, insurance premium payments, mutual
+fund payments, credit card payments, Online air ticket and railway
+ticket booking .
+
+Responsibilities:
+
+Involved in coding and unit testing
+
+Understanding of functional specifications
+
+Invloved in validations using java scripts.
+
+Invloved in file uploading and downloading
+
+Involved in  security and transaction issues
+
+Involved in validations and Exception handling in ADF.
+
+Invloved  in  Development of trains and task flow parameters
+
+Development of Dependent Drop downs,Lovs.
+
+Involved in design and development of Bounded and unbounded Task Flows
+
+Designed and implemented ADF Business Components.
+
+Development of  ui using Adf rich Faces.
+
+ADF Task flow design and implementation.
+
+Involved in Internationalization of the application.
+
+Involved in Working with View Criteria’s, LOV’s.
+
+PROJECT #3
+
+Project Name		:	Moving AVERAGES 
+
+Role			:	Software Developer 
+
+Team Size		:	14
+
+Environment		:	Java/J2EE, spring, hibernate, Oracle, Web logic, JUNIT,
+MAVEN
+
+Project Description:
+
+Moving AVERAGES can be used to evaluate securities by analyzing past
+prices and volumes. It believe that the historical performance of stock
+and markets indications of future performance of stock market shares and
+commodities. it will consider the historical data downloaded from  Stock
+Exchange’s End of Day (EOD) data from the website and localizing this
+data into database. The advantage of this project is to predict and
+suggest to stake holders about the future market activity how it will
+play. Here Technical analysts do not attempt to measure a security
+intrinsic value, but instead it uses Charts, Indicators and other tools
+to identify patterns that can suggest future market activity. 
+
+Responsibilities: 
+
+Involved in debugging and coding and   unit testing
+
+Developed in development of configuration files.
+
+Participated in development of input pages and response pages.
+
+Implementing Code changes, Unit testing and code merging. 
+
+Development of page templates in spring Tiles frame work.
+
+Involved in  Exception handling and validations in spring framework
+
+Involved in spring and hibernate integration
+
+Development of control classes and jsps .
+
+PROJECT #4
+
+Title		:              Econnect -Icomm.
+
+Client		:	DBS  Bank 
+
+Role		:	Software Engineer.	
+
+Environment	:	Java/J2EE, spring,EJB,JPA 2.2 
+
+Project Description: 
+
+It is project migrating from icommm to econnect ,it provdes sms and
+email alets to customers and non customers .for that it provides
+template Of messages, template filling , broad casting message,login
+user access ,bouncing of  message details  and dispense of messages 
+receving customer messges providing services to customer and  pro.
+
+Roles and Responsibilities:
+
+Integrating Spring with EJB.
+
+Developed in entities using JPA.
+
+Involved in transactions management using  EJB
+
+Participated in development of input pages and response pages.
+
+Developed session beans and entity bean
+
+Implementing Code changes, Unit testing and code merging. 
+
+Involved in debugging and coding.
+
+Development of Jsps and  control classes.
+
+Sravan Kumar
+
+Mobile: 9703763245
+
+  HYPERLINK "mailto:sravanwebfusiondeveloper@gmail.com" 
+sravanwebfusiondeveloper@gmail.com  
+

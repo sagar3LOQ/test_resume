@@ -1,0 +1,191 @@
+CURRICULAMVITAE
+
+VENKAT LACHI
+
+Mobile : +91-90142-58322
+
+Email   : venkatlachi11@gmail.com
+
+Experience Summary : 
+
+Having 3.5 years of experience in developing Server side components
+using J2EE technologies
+
+Good knowledge of Object Oriented  Programming concepts. 
+
+Having knowledge on J2EE Design Patterns (MVC, Singleton, DAO, Value
+Objects).
+
+Experience in development of object-oriented business applications using
+Java, JDBC, Servlets, JSP, Struts, Spring and Hibernate.
+
+Hands-on experience of working in IDEs like Eclipse, NetBeans.
+
+Working Experience with Oracle Database.
+
+Has the motivation to take independent responsibility as well as ability
+to contribute and be a productive team player.
+
+Good team member, positive attitude and result oriented Self-motivated,
+quick learner, willing to adapt to new challenges & new technologies.
+
+Achievements :  
+
+Got 90% in java certification. (company related)
+
+Got Appreciation letter from Team Lead regarding my work
+
+ Experience Profile : 
+
+Currently working as System Software Engineer for CMC Limited, Hyderabad
+from September 2010 to till date.
+
+Academic Profile: 
+
+Graduation in B.Sc Computers from  Nagarjuna University in 2010.
+
+Technical Profile:
+
+Operating Systems		:   Windows XP, Linux
+
+Languages	:   Java, J2EE
+
+Technologies	:   JDBC, Servlets, JSP
+
+FrameWorks	:   Struts , Hibernate, Spring, WebServices
+
+Application Servers	:   Web Sphere
+
+Web Servers	:   Tomcat 6.0.
+
+Java IDEs	:   Eclipse, NetBeans
+
+Databases			:   Oracle 9i, MySQL
+
+Scripting Languages		:   HTML, Java Script, XML, JQuery
+
+Project Profile :  
+
+Project #1    
+
+AP Police Intranet Portal 			                   			 (June 2013 - Till
+Date)
+
+Client			  : AP Police, India
+
+Description:
+
+Its an Open source tool, developed by eXO platform, This is the place
+where all the related applications are available, its a single sign on,
+once we log on to the application we can access any application. We can
+develop our own websites and web pages, wiki pages, forums, FAQs, we can
+give access permissions to the documents and pages, and this application
+contains chat application helps to communicate with others. we have
+groups and roles to give permissions.
+
+Roles and Responsibilities:
+
+Involved in Analysis.
+
+Involved in Installation.
+
+Involved in Portlet Development.
+
+Involved in GUI changes.
+
+Involved in Unit Testing.
+
+Project #2    
+
+AP Police Messaging System		                   			 	(May 2012 –June
+2013)
+
+Client			  : AP Police, India
+
+Description:
+
+To send a message to the people in the organization, we installed an
+Open source Messaging system called Zimbra, created a new domain in
+Linux Operating System and  Organization hierarchy of the AP Police and
+changed the look and feel of the messaging system.
+
+Roles and Responsibilities:
+
+Involved in Domain Creation
+
+Involved in Installation.
+
+Involved in GUI changes.
+
+Involved in Unit Testing.
+
+Project #3
+
+3. Online Card Activation		                             			(July 2011 -
+May 2012)
+
+Client			  : Citi Bank, Singapore
+
+Description:
+
+Debit/Credit card can be activated through online. User can activate his
+card in two ways those are Pre-Login card activation and Post-Login card
+activation. User has to enter Card Number, Expiry date, Date Of Birth
+values and user has registered mobile number to get OTP value.
+
+Roles and Responsibilities:
+
+Involved in Analysis.
+
+Involved in Coding.
+
+Involved in Unit Testing.
+
+Project #4
+
+Paperless Statements/Letters		                    				 (Sept 2010 –
+Apr 2011)
+
+Client			  	: Citi Bank, USA
+
+Description:
+
+CITI bank provides an offer to their customers, Enroll into paperless
+Statements, then customers not only receive their statements, reports in
+email and also some notification alerts are sent to their customers. At
+the time of login Paperless notification is displayed, customer can
+enroll into that offer.
+
+Roles and Responsibilities:
+
+Involved in Design
+
+Involved in Analysis.
+
+Involved in Coding.
+
+Involved in Unit Testing.
+
+Personal Profile :  
+
+Name                              		: Venkat lachi
+
+Gender				: Male
+
+Father’s Name	               	: sambasiva rao
+
+Date of Birth		               : 11th Nov, 1990
+
+Nationality		               : Indian
+
+Languages Known	               : English, Telugu
+
+Declaration:
+
+I hereby declare that the particulars given above are true to the best
+of my knowledge and belief.
+
+Date:
+
+Place:	Hyderabad							   [venkat lachi]
+

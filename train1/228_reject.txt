@@ -1,0 +1,224 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                  - 
+1years                                 
+            
+
+Spring                  
+                                  - 
+2years                                 
+               
+
+Web
+Services                                
+        - 
+                                    
+           
+
+Core
+Java                                  
+             -   3years
+
+Design
+Patterns                                
+    -    2years
+
+UML
+design                                 
+          -    3years  
+
+Build Tools (Maven/Ant)                    -   
+Maven 
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Weblogic/tomcat
+
+V V Ajay Kumar	Software Developer
+
+
+
+gvvak333@gmail.com | +91-9742346912
+
+
+
+Summary 
+
+3+ Years of extensive application programming experience on Java, J2EE,
+Hibernate, Servlets, JSP, JDBC, Springs, Struts, Oracle 10g.
+
+Excellent written & verbal communication skills. 
+
+Quick Learner and a great listener.
+
+Presently working with Deloitte.
+
+Key Roles and Achievements
+
+An excellent Team Member and a very good communicator.
+
+Responsible for Coding and Integration of Systems. 
+
+Good knowledge in coding Servlets and JSP. 
+
+Development & Peer review of Unit test plans & code reviews.
+
+Test Plan Preparation. 
+
+User Documentation. 
+
+Got appreciations for timely delivery.
+
+Technical Skills 
+
+ Technologies	Java, Basics of Ajax, Servlets, JSP, Struts Framework,
+Springs Framework Hibernate.
+
+Databases 	 Oracle10G
+
+Web/Application Servers 	Weblogic, Tomcat 5.5
+
+Tools 	Eclipse, MyEclipse, SVN, SQL Developer, Edit Plus
+
+Operating Systems 	Windows 98/2000,Linux
+
+Trained knowledge	Good knowledge in Springs Framework, Struts Framework.
+
+
+
+Professional Experience
+
+Working for Deloitte as Software Developer from September 2011 to Till
+Date
+
+Projects Undertaken 
+
+1. Project	Online Transaction Management System.
+
+Client	Procter and Gamble Co, UK.
+
+Role	Developer
+
+Duration	 Aug 2013 to till.
+
+Team size	     10
+
+Environment
+
+(with skill versions)	Software
+
+	Languages: Java/J2EE 1.6, Springs framework, Hibernate Framework.
+
+Database : Oracle 10g
+
+O/s : Windows 7
+
+Web server:  Web Logic
+
+Tools:  Eclipse3.1.
+
+
+
+Project Description:   
+
+The System main purpose is to provide online business Transaction. Using
+this System, Customers of Procter and Gamble Co, are able to submit
+their order for the products on line Client employees are able to submit
+their purchase order to their suppliers and also maintain the product
+information and stock in hand in Online. With this application they are
+able to view all the pending purchase order, sales order, stack in hand,
+received material, faulty and destroyed material. This project also
+maintains the customer and supplier information and employees
+information as well. 
+
+                            This project contains three modules they are
+Customer, Supplier, and Administrator. Customer is able to order for
+products, Supplier receives the purchase order from the administrator
+and dispatches the products and Administrator receives the purchase
+order from the customer and dispatches the order to the supplier.
+
+Responsibilities: 
+
+Interacting with the Production analysts for understanding about the
+business requirements.
+
+Involved in designing the customer and administrative modules.
+
+Design DAO and their implementation using JDBC Templates. 
+
+Creating and designing web pages using JSP, HTML.
+
+Responsible for developing view and controller components.
+
+Client side scripting using Action Script, JavaScript. 
+
+2. Project	Health Analysis System
+
+
+
+Client	NDS America Inc., USA.
+
+Role	Developer
+
+Duration	 July’12 to AUG’13
+
+Team size	     10
+
+Environment
+
+(with skill versions)	Software
+
+	Languages: Java/J2EE 1.5, Struts framework, Hibernate Framework.
+
+Database : Oracle 10g
+
+O/s : Windows 7
+
+Web server:  J boss
+
+IDE: Eclipse3.1.
+
+
+
+Project Description:
+
+      This system developed to automate the routine patient data
+captures for health organization. HEAL is a health analysis system,
+which can be implemented in major hospitals. Health analysis system
+plays a vital role to capturing of essential patient treatment
+information such as health status, treatment compliance and medication
+information.  This system suggests the remedies. This system mainly
+consists of Inpatient/Outpatient details, generates reports such as
+Cardiovascular System Report, ECG Report, ENG Report, Surgery Details,
+Prescription, Healthy heart suggestion, and Diet Suggestion. 
+
+Responsibilities: 
+
+Understanding functional requirements at Technical level. 
+
+   Developing the controller component with the ActionServlet and Action
+classes.
+
+   Using Hibernate to connect to the database and also programming
+several SQL            queries.
+
+   Creating and designing web pages using JSP, HTML.
+
+Education 
+
+B.Tech from Jawaharlal Nehru Technological University Kakinada in 2012.
+
+Declaration:
+
+I hereby declare that details above furnished are true to the best of my
+knowledge. I bear the responsibility for the authenticity of the above
+mentioned particulars.
+
+Date:
+
+Place:                                                                  
+                                           (Ajay Kumar)
+

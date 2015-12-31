@@ -1,0 +1,126 @@
+Spring:4 year& current
+hibernate:2 year
+webservices: 4 year&current
+DB:mysql/oracle
+UML design: yes
+Design pattern: 
+gradel
+
+
+
+
+Flat No. 102, Sri Lalitha Arcade,
+
+Sri Ramnagar Colony, Kondapur
+
+Hyderabad, A.P. 500084
+
+Mob: +91 8374345611
+
+https://www.linkedin.com/in/mainakmi
+
+mainak.ju@gmail.com
+
+MAINAK MITRA
+
+SUMMARY
+
+
+
+Project lead and Individual Contributor with 9 yr. experience in software development and test automation. Primarily experienced in Java-Stack development, Relational and NOSQL database, Backend API automation, Selenium, Android mobile app automation, Continuous Integration and Agile Development.
+
+Skills 
+
+
+
+	Java Stack: Java, J2EE, Scala, Spring-Core-MVC-REST, Hibernate
+
+Data Base: Mongo DB, MS SQL Server, Oracle
+
+Test Automation: TestNG, ScalaTest, Selenium, Jmeter, JMockit, Emma
+
+Mobile Technologies: Android, Selendroid
+
+Middleware: TibcoBW-EMS, Apache Tomcat, ActiveMQ, Camel
+
+CI, Build and Deployment: Maven, Gradle, SBT, Jenkins, TeamCity, Chef, Docker
+
+Others: Shell Scripting, Python, C#,  SOAP, RHEL, DS-Algorithm, Distributed and Cloud computing
+
+Experience
+
+
+
+Project Lead, BWIN.PARTY/IVYCOMPTECH – Hyderabad, Aug 2012 – Till Date
+
+Service Registry and discovery with Zookeeper: Objective of this project is to re architect 
+
+Terracotta based distributed service registry and lookup to Zookeeper based implementation.
+
+[Zookeeper, Curator, Spring]
+
+Agile Service Bus: This is a data solution for the organization, so that each team or business unit knows their velocity in agile development process. System retrieves an analyze data from different backend infrastructure systems like Version One, Sonar, Build system etc. and provided continuous monitoring and reporting mechanism to the organization.
+
+[Java, Mongo DB, Spring MVC, REST]
+
+Poker Game Play Simulation: Was involved in writing server side script for poker game play simulation. Challenges were to simulated multi-player game table for tournaments and normal poker game play.                                              
+
+[Scala, ScalaTest, Spring, RSEST]
+
+Game Platform Automation: Involved in test automation framework design for Core Platform Service. Platform group provides gaming infrastructure to poker, casino and other gaming partners. Platform has multiple core components like location, logins, bonus, wallet etc. These components expose interfaces via web service, REST and Service registry. The goal of the project is to setup a SDET team who will be responsible for developing end-to-end API automation for different backend services and UI automation for multiple components.
+
+                                                                     [Java, Spring, REST, SOAP, Selenium, Oracle, TestNG, Gradle]
+
+Tech Lead QA, Yahoo – Bangalore, June 2011 – Aug 2012
+
+Data Highway Rainbow Test Framework Design: Was part of a team for building test automation framework for yahoo cloud based platform product which processes millions of user events/day from various servers. The Goals of DH-Rainbow are Hosted multi-tenanted infrastructure, Support provisioning and on-boarding, better operability & reduce Tech Debt and Support new customers & use-cases with ease.
+
+[Java, C++, TestNG, Maven, Python, Shell, Hudson]
+
+Sr. QA Engg, CA Technologies – Hyderabad, Dec 2006 – June 2011
+
+CA Wily:  CA wily Introscope is a leading Application performance monitoring solution in the market. It provides monitoring solutions to enterprise applications, transactional systems. It enables application triage and diagnoses performance issues on middleware and enterprise products. I was involved in automation and functional testing of this product.
+
+[CA Wily, SiteMinder, Tibco, Tibco EMS, WebSphere, Java, TestNG]
+
+IPv6 Porting: Objective of this project was to enable various CA products IPv6 compliant. Responsibilities were to IPv6 lab setup for porting projects; identify vulnerable areas of the product, functional testing, integration testing and system testing.
+
+[IPv6 lab setup, AD/DNS configuration, porting, functional testing]
+
+Software engg, Infosys technologies – Hyderabad, Aug 2005 – Dec 2006
+
+CompUSA and Litigation Support Tool for Client Microsoft: Worked on different internal products of Microsoft for MSIT division.                                                 
+
+ [.NET, MS SQL Server 2005] 
+
+certification
+
+
+
+MCTS (Microsoft Certified Technology Specialist):Exam 70-431 ,SQL Server 
+
+MCITP (Microsoft Certified IT Professional):Exam 70-441 ,SQL Server
+
+Education
+
+
+
+Jadavpur University – Electrical Engg. – 2005 – 75.12%
+
+Higher Secondary – W.B. Board -2000 – 76.1%
+
+Secondary – W.B. Board – 1998 – 84.6%
+
+PerSONAL Details
+
+
+
+Date of birth: 		26th April 1982 
+
+Permanent address:	Pabna Colony, Chakdaha, Dist Nadia, WB 741222 
+
+Passport Number: 	F0599685
+
+
+
+Page 2

@@ -1,0 +1,421 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                  - 
+3years&current                             
+                  
+
+Spring                  
+                                  -  2
+years &
+current                                �
+�               
+
+Web
+Services                                
+        - 
+NA                                   
+             
+
+Core
+Java                                  
+             -  7 year
+
+Design
+Patterns                                
+    -   2year 
+
+UML
+design                                 
+          -    knowledge
+
+Build Tools (Maven/Ant)                    -   
+Ant-/Maven 
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Tomcat/InteliJ/netbean
+
+DB:oracle
+
+12/30%/30days
+
+deepthi polasa
+
+  (    HYPERLINK "mailto:deepthicse514@gmail.com" 
+deepthicse514@gmail.com 
+
+( (M) 9989801968 
+
+Objective
+
+To grow with an organization which provides exciting and challenging
+work assignment, in Java, that would stimulate me into realizing my true
+potential and in the process contribute effectively to the success of
+Organization.
+
+Personal Profile
+
+I am competent at absorbing the latest technologies in Java and I am
+convinced that learning is a skill that needs to be nourished
+constantly.
+
+I have the ability to gracefully change for the better when necessary
+and strong enough to put my thoughts and ideas in an efficient manner.
+
+ Experience Summary
+
+7+ years (May-2007 to till date) of experience in Product Development
+activities such as Design, Coding, Testing and Maintenance; with Model N
+India Software Pvt Ltd  and ADP (Automatic Data Processing) India Pvt.
+Ltd.
+
+Working as Senior Member Technical Staff -1 (SMTS-1) in ModelN India Pvt
+Ltd.
+
+Got a good experience in Agile Scrum methodology.
+
+Excellent Java development skills using core Java, Servlets, JSPs, JSF
+and Hibernate.
+
+Worked on Revenue Management product at ModelN and acquired good
+knowledge in core Java.
+
+Worked on ERM product which is developed based on Struts frame work.
+
+Worked on ADP Vantage product which is based on JSF on the UI front and
+hibernate as ORM framework for backend querying. 
+
+Good knowledge in Java Collection Frame work (JCF) and Multi Threading
+concepts.
+
+Gained knowledge on various Object Oriented Designing (OOD) patterns.
+
+Worked on developing JavaScript/Jscript code for client side validation.
+
+Sun Certified Programmer for Java 2 Platform.
+
+Trained fresh graduates on J2EE technologies.
+
+Given training to new associates on ERM product.
+
+Mentored five fresh graduates.
+
+Worked on a Proof Of Concept (POC) for Structured Query Reporting (SQR)
+programs to Java conversion.
+
+Involved in developing automations for an ERP based team.
+
+Received appreciation from the project’s Executive Manager (EM) for my
+commitment, during the year end. Won ‘Spot Award’ for the same.
+
+Received four E-Recognitions for team work.
+
+Selected for Earn Out Bonus (EOB), which is paid to 2% of the top
+performers at ADP.
+
+Created knowledge base for ERM, which includes the documentation of ERM
+Architecture.
+
+Technical Skills 
+
+Programming Languages:	Core JAVA 6, XML, HTML and C
+
+Scripting Language	JavaScript/Jscript
+
+Web Technology:	JSP 2.0, Servlets 2.5 and JSF 1.2
+
+Frame Work:	Struts 1.2 and JSF 1.2
+
+Database Technologies & Tools:	Hibernate, JDBC, SQL Server, SQL PLUS
+Oracle 11g and Toad
+
+Development Tools:	NetBeans 6.9, Eclipse 3.x, MyEclipse 8.6 and intellij
+11.X
+
+Web/App Servers:	Tomcat 6 and Web Sphere 7
+
+Operating Systems:	Linux-Gnome, Windows 2000/XP/7 and MS-DOS
+
+
+
+Certifications
+
+Certification	Score
+
+OCA - Level1  (ORACLE CERTIFIED ASSOCIATE)	100%
+
+SCJP 1.5 (Sun Certified Java Programmer)	96%
+
+
+
+Personal Strengths
+
+	
+
+Self motivated
+
+Innovative
+
+Team Player
+
+Leadership Qualities
+
+Hard working
+
+Flexible and Adaptable
+
+Achievements		
+
+Received appreciation from the project’s Executive Manager (EM) for my
+commitment, during the year end. Won ‘Spot Award’ for the same.
+
+Received four E-Recognitions for team work.
+
+Selected for Earn Out Bonus (EOB), which is paid to 2% of the top
+performers at ADP.
+
+Secured distinction in B.Tech.
+
+Participated in many essay writing and speech competitions.
+
+Participated in cultural activities presented in front of Dist.
+Collector. 
+
+Projects
+
+Title: Revenue Management   
+
+Duration			:  Feb 2013 – Till date
+
+Company                         : ModelN India Pvt Ltd.
+
+Role				:  Developer
+
+Team size			:  5
+
+Technology			:  Core JAVA and Java Script
+
+Database			:  Oracle 11g
+
+Application Server		:  Tomcat 5.5
+
+IDE                                    :  Intellij 11
+
+Version Control                 : GIT
+
+Description: 
+
+Revenue Management is the application of disciplined analytics that
+predict   HYPERLINK "http://en.wikipedia.org/wiki/Consumer_behavior" \o
+"Consumer behavior"  consumer behavior  at the micro-market level and
+optimize product availability and price to maximize   HYPERLINK
+"http://en.wikipedia.org/wiki/Revenue" \o "Revenue"  revenue  growth.
+The primary aim of Revenue Management is selling the right product to
+the right customer at the right time for the right price and with the
+right pack. The essence of this discipline is in understanding
+customers' perception of product value and accurately aligning product
+prices, placement and availability with each customer segment. 
+
+Additionally, Revenue Management techniques, in life sciences, allow
+hospitals to mitigate claim underpayments and denials, thus preventing
+significant revenue leakage.
+
+I have involved in developing and bug fixing in coreapp module. This
+module supported by UE and platform components and contains core
+business logic which is used by other modules like Incentives, PC4, DRM
+and compliance. The coreapp module has several sub modules like strategy
+designer, components, tracker, bucketing framework and calculation
+framework, etc.
+
+Responsibilities: 
+
+Involved in Agile Scrum methodology.
+
+Designing, Coding, Code Reviews and Bug Fixing.
+
+Involved in working on escalations, blockers and resolving them on time.
+
+Got hands-on experience with Git, a distributed version control system.
+
+Involved in Coding, Unit Testing and Integration Testing of bug fixes,
+and was able to deliver them on time.
+
+Preparing and coding the UTs, using JUnit, for the functionality of the
+application. 
+
+Title: ADP Vantage HCM
+
+Duration			:  Oct 2010 – Oct 2012
+
+Company                         : ADP India Pvt Ltd.
+
+Role				:  Senior Developer
+
+Team size			:  20
+
+Technology			:  JSF 1.2, Dojo 1.5, Hibernate, log4J
+
+Database			:  Oracle 10g
+
+Application Server		:  Web sphere Application Server 7.0
+
+IDE                                    :  My Eclipse Blue 8
+
+Version Control                 : SVN
+
+Description: 
+
+ADP Vantage HCM is the new HR/Payroll product from ADP that was released
+into the market in mid-2011. This product is an integration of various
+existing products of ADP in the areas of Human Resource Management,
+Benefits Administration, Payroll Services, Time and Labor management,
+Talent Management with a fresh revolution UI.
+
+Responsibilities: 
+
+Design, Development, Bug Fixing, Peer Reviews.
+
+Involved in the ideation stage of this project.
+
+Understand the core product functionality and redesign them as per the
+new UI standards.
+
+Worked closely with web service developers of the various legacy
+products and their business analysts. 
+
+Fixed several critical, major and minor defects reported by the QA team.
+
+Worked closely with the US teams to understand the client expectations.
+
+Production support for the pilot client.
+
+Trained the new associates joining the project on standards and
+different modules of product.
+
+Title: Employee Relationship Management (ERM)
+
+Duration			:  Aug 2009 – Oct 2010
+
+Company                         : ADP India Pvt Ltd.
+
+Role				:  Developer
+
+Team size			:  5
+
+Technology			:  Core JAVA, Servlet, JSP, Java Script, Struts
+
+Database			:  Oracle 9i/10g
+
+Application Server		:  Tomcat 5.5
+
+IDE                                    :  Netbeans 6.9
+
+Version Control                 : SVN
+
+Description: 
+
+ERM is a legacy system, contains BSS/ESS/MSS.  It is a web based
+application that consists of Benefit Self Service (BSS), Employee Self
+Service (ESS) and Management Self Service (MSS). ESS allows employees
+access and ability to makes change to their personal information,
+benefits, payroll, W2, W4 data, training, resume, performance
+management, retirement, etc.  MSS allows the managers to do New Hires,
+Rehires, Transfers, Pay changes, job data changes, promotions/demotions,
+etc. and run web reports, review company hierarchy and set up proxy
+roles.
+
+Responsibilities: 
+
+Designing, Coding, Code Reviews and Bug Fixing.
+
+Involved in the Coding of various Modules like Supplemental AD&D
+Enrollment, Open Enrollment and Lockout Module.
+
+Involved in the Development and Integration of modules using NetBeans
+IDE.
+
+Involved in working on Production Issues and resolving them on time.
+
+Involved in Work Estimation for Problem Logs.
+
+Involved in Requirements gathering, Analysis for Change requests.
+
+Branching and merging the code using CVS.
+
+Involved in Coding, Unit Testing and Integration Testing of Change
+requests and bug fixes, and was able to deliver them on time.
+
+Preparing the Test scenarios for the functionality of the application. 
+
+Assigning the work load to two of the associates, reporting to me.
+
+Title: General Ledger Interface (GLI)
+
+Duration		           : May 2007 – Aug 2009
+
+Company                         : ADP India Pvt Ltd.
+
+Role				:  Developer
+
+Team size			:  6
+
+Technology			:  Core JAVA, Servlet, JSP, Java Script
+
+Database			:  Oracle 9i
+
+Application Server		:  Tomcat
+
+IDE                                    :  MyEclipse
+
+Version Control                 : SVN
+
+Description: 
+
+General ledger is the heart of any organization's financial accounting
+system. Every company that has a payroll must also have a general
+ledger. General Ledger Interface (GLI) is the application that provides
+a flexible and efficient method of transferring payroll information into
+the general ledger. 
+
+Responsibilities: 
+
+Designing, Coding, Code Reviews and Bug Fixing.
+
+Involved in the Coding of various Modules like Employee Groups,
+Preferences, Account Structure and Firefox Compatibility and for many
+other features.
+
+Involved in Work Estimation for Problem Logs.
+
+Involved in working on Production Issues and resolving them on time.
+
+Involved in Requirements gathering, Analysis and Application development
+of the system
+
+Involved in Coding, Unit Testing and Integration Testing of all the
+features and report issues on time.
+
+Preparing the Test scenarios for the functionality of the application. 
+
+Fixing PLs and Cross Verification of PLs.
+
+Educational Qualifications
+
+Examination	Discipline/
+
+Specialization	School/ College	University /Board	Year of passing
+Percentage
+
+B.Tech	CSE	Jyothishmathi Institute of Technology & Science
+
+	Jawaharlal Nehru Technological University
+
+	2007	75%
+
+Intermediate	MPC	Trinity Junior College	Board of Intermediate
+
+Page No.   PAGE  1 
+

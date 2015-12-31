@@ -1,0 +1,247 @@
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate                                              -  5 year & current                                                
+
+Spring                                                     -  1 year & current                                                
+
+Web Services                                        -  3.5years   & current                                            
+
+Core Java                                               -  8.6 year
+
+Design Patterns                                    -  using  
+
+UML design                                           -    
+
+Build Tools (Maven/Ant)                    -    Ant   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+Tomcat/websphere/jboss/eclipse
+
+
+
+12/15/30days
+
+4ppl
+
+DB:oracle
+
+AJAY KUMAR SINGARAJU
+
+Contact No: 09886133511, 09885775827
+
+Email id: ajay1995@gmail.com
+
+                    sajay_2004@yahoo.co.in
+
+
+
+
+
+Having total of 8 years and 6 months of IT experience in Java/J2EE applications
+
+Having 3 months of experience in Hadoop and its components like HDFS, Map Reduce, Apache Pig, Hive, Sqoop, Hbase and Flume.
+
+Exposure to Agile Methodology.
+
+Have 3 months of onsite client management experience.
+
+Sun Certified JAVA Professional. 
+
+
+
+
+
+SKILLS:
+
+
+
+Client Development : Java, J2EE (JSP/Servlets), Web Services (SOAP & REST), Struts, Hibernate, 
+
+                                      XML, XSLT, HTML and Java Script.
+
+Messaging Services : IBM MQ series, XML Parsers and JAXB.
+
+Database : Oracle, Pl/SQL
+
+Server Technology: WebSphere Application Server, Tomcat, Google App Engine
+
+Build and Testing Tools	 : Ant, Junit
+
+Design Concepts : Knowledge on Service Oriented Architecture and design patterns.
+
+Configuration Control: Git, Subversion and Win CVS.
+
+Hadoop/Big Data :
+
+Installation and configuration of Hadoop, Hive, Pig, Hbase, Sqoop and Flume 
+
+Analysing application log files using Hadoop.
+
+Importing and exporting data from HDFS using Sqoop
+
+Written MapReduce programs to solve the business requirements. 
+
+Written Hive queries to solve the business requirements. 
+
+Knowledge on Hbase.
+
+Retrieving the tweets from the twitter using Flume.
+
+
+
+WORK EXPERIENCE:
+
+
+
+										Thomson Reuters India Pvt.Ltd.					July 2010-Present
+
+										
+
+										Project:
+
+										Project Name	Paisley Accelus GRC
+
+										Designation		Lead Software Engineer
+
+										Duration		07/2010 – Present
+
+Technologies		Java, J2EE (JSP/Servlets), Web Services (SOAP), Struts,
+
+										  			Hibernate, XML, XSLT, HTML, Java Script, JAXB, Oracle, Junit and 
+
+										                                       Tomcat.
+
+										Description:
+
+Paisley Enterprise GRC® - a governance, risk, and compliance platform, features scalability and configuration options required by most organizations. GRC is an integrated solution that addresses the business processes of financial controls management, audit management, operational risk management, enterprise risk management, IT governance and general compliance.
+
+The components of GRC include: 
+
+Enterprise Risk Management (ERM) 
+
+Financial Controls Management (FCM) 
+
+Operational Risk Management (ORM) 
+
+IT Governance 
+
+Compliance 
+
+Audit
+
+										Contribution:
+
+									Responsible for writing code to implement system deliverables as defined in business requirements documents, system architecture and design documents.
+
+									Document and unit test all code modules using standard tools.
+
+									Participated during the QA and PRODUCTION processes by modifying code to fix any Critical or High defects in order to ensure approval of the deliverable(s).
+
+									Participated as defined in any Deployment Plans for scheduled or emergency releases of the supported application.
+
+									Adopt and enforce all software development life cycle processes.
+
+									Immediately raise issues or risks to the successful and timely completion of deliverables to the Project Manager or immediate supervisor.
+
+									Utilize the source code control management systems (SVN) to tightly integrate the activities of the teams.
+
+									Day to day interaction with project stakeholders, including project manager, quality assurance, technical support, software developers and globally-based program management and software development groups.
+
+										
+
+										Virtusa India Pvt.Ltd.							      June 2006-July 2010
+
+										
+
+										Projects:
+
+										Project Name	Harley Davidson Financial Services Creditworx
+
+										Designation		Senior Software Engineer
+
+										Duration		03/2007 – 07/2010
+
+Technologies		Java, J2EE (JSP/Servlets), Struts, Hibernate, Web services (SOAP), XML, 
+
+			XSLT, HTML, Java Script, Oracle and WebSphere.
+
+Description:
+
+Harley Davidson Financial Solutions CreditWorx® is to offer a best in class, comprehensive loan origination system for HDFS Dealers. This system will include the base CreditWorx® System including the application origination, decision and underwriting, financial product selection and deal structuring, document generation and management, auditing and integration to HDFS’ existing Loan Management System. Each of these modules will be enhanced according to the requirements of HDFS including the necessary integrations with any 3rd Party Systems (Strategy ware, Legato) that need to be incorporated into the workflow and business processing.
+
+
+
+Contribution:
+
+									Responsibility of independent module for each release with sub team of different size (2 to 4) varying depending upon module complexity.
+
+									Requirements gathering and preparing Design Documents. Helping team to make use of framework at different stages of system without code duplication and ensuring that the code is adhering to framework specification.
+
+									Coding and Unit testing.
+
+									Code merging, reformatting to ensure consistent behavior, code reuse and integration testing.
+
+									Involved in design review discussion with the Onsite team.
+
+									Day to day status updates to Onsite Counterparts.
+
+									
+
+										Project Name	Recworx
+
+										Designation		Software Engineer
+
+										Duration		06/2006 – 02/2007
+
+Technologies		Java, J2EE (JSP/Servlets), Struts, Hibernate, XML, XSLT, HTML,
+
+ Java Script, Oracle and Websphere.
+
+
+
+									Description:
+
+RecWorx® system will provide automated application submittal via web to allow for automatic and   manual adjudication through HSBC, and automated document generation. 
+
+From an application perspective, a credit application will be originated via authorized Yamaha   dealers and reviewed by HSBC credit analysts utilizing the provided RecWorx® web-based interface.
+
+
+
+Contribution:
+
+									Change Requests implementation.
+
+									Defect analysis, fixing.
+
+									Weekly updates and direct following up with onsite team.
+
+									
+
+									
+
+									Education:
+
+		B.Tech. (Computers) from JNTU, Hyderabad in 2005(Secured 68.25%).
+
+		Intermediate from Board of Intermediate, Hyderabad in 2001(Secured 88.6%).
+
+		10th from Secondary School Board, Hyderabad in 1999(Secured 79.33%).
+
+		
+
+		Personal Details:
+
+		
+
+Date of Birth			29th September 1983
+
+Languages Known		English, Telugu and Hindi.
+
+Passport Details		F4723640 valid till Sep’2015
+
+				Have a B1 Visa (US-Been to US).
+
+Personal Interests		Cricket Player with team working skills and competitive flair.

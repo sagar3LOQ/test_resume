@@ -1,0 +1,313 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                 - 
+1year                                 �
+�             
+
+Spring                  
+                                 - 1.5
+Years                                 �
+�             
+
+Web
+Services                                
+       -  1
+years                                 �
+�              
+
+Core
+Java                                  
+            -  3 years                
+
+Design
+Patterns                                
+   -  1 years            
+
+UML
+design                                 
+         -   1 Years
+
+Build Tools (Maven/Ant)                   -    1.5
+maven ant 1yrs   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Eclipse/IBM RAID/Tomcat Apache, websphere
+
+Development – 100%
+
+Ok to work with a startup
+
+		
+
+											Mobile:  +91-9160718145 
+
+Harsha D Patil     							          Email   :  harshaofbelgaum@gmail.com
+
+				
+
+						
+
+PROFESSIONAL SUMMARY:
+
+Java Developer having 3 years of IT experience in coding, documenting,
+implementing, testing and maintaining and supporting applications
+
+Around 6 months experience in Calypso tool 
+
+Good knowledge of Core JAVA, J2EE, JDBC, Vaadin, Spring, JSF, Hibernate,
+MyBatis, Webservices, Swing,  JQuery, HTML, CSS and XML
+
+Good experience on developing and deploying enterprise applications on
+Apache Tomcat Servers, IBM Websphere
+
+Hands-on experience in Java programming and involved in development of
+applications using  Zkoss, Vaadin, J2EE,  Hibernate and Spring, 
+
+Hands-on experience in Oracle, MySQL, MS-SQL Server 2008 including SQL.
+
+Excellent team member with problem-solving and trouble-shooting
+capabilities
+
+Dedicated, self-motivated achiever who is committed to success and adept
+at juggling multiple tasks in a high-pressured environment.
+
+Good knowledge on Investment Banking- Equities, Fixed Income Securities,
+Foreign Exchange (FX), Interest Rate Derivatives, Equity Derivatives &
+Commodity Derivatives.
+
+Objective: 
+
+To work in a competitive environment with challenging projects which
+offers a chance to work with cutting edge technologies and progressively
+higher responsibilities.															
+
+EXPERIENCE SUMMARY:
+
+	Currently working (Oct 2011 - Till date) as Associate (Software-Java)
+for Synechron Technologies Ltd., Pune.
+
+Technical skills:
+
+Java Skill Set	Java 1.5/1.6 , J2EE (JSP/Servlet)
+
+Frameworks	Spring 3.0, Hibernate 3  Junit 4,  ZK 5.0.7 , JMockit ,
+Vaadin 6, Apache Mime 4j
+
+Programming Environment	Eclipse, STS 2.7, RAD 7.5.4
+
+Operation Systems	Windows XP, Windows 7
+
+Application Servers	Tomcat 7
+
+Configuration Management Tools	Tortoise SVN 1.7, SCM
+
+Other Tools Used	Maven 2.2.1
+
+EDUCATION:
+
+MCA from Visvesvaraya Technological University, Belgaum, in BIET
+College, Davangere with securing 76%. 
+
+B.Sc from Karnataka university Dharwad, in Kittel Science College,
+Dharwad with securing 78%
+
+PROJECT:
+
+Project #1:	Sep 2013 - Till date	
+
+Title				: DAT(Dispute Automated Tracking)
+
+Client				: Wells Fargo
+
+Role				: Developer.
+
+Description:
+
+DAT is used to it charged back dispute and fraud transaction by the
+customers and users. DAT is used in several different ways of
+transactions of Debit card like Pin based, Signature based dispute and
+fraud transaction.
+
+ 
+
+Roles and Responsibilities:
+
+Participated in development, maintenance and  customisation
+
+Developed many User Interface in Jsp, Swing, Applets
+
+Involved in charting of daily reports, weekly reports in swing
+
+Provided test cases for each significant functionality using Junit
+
+Involved in code and unit testing of the application
+
+Involved in bug fixing, production support, manual testing, regression
+testing
+
+Environment: Java/ JEE 1.6,  J2EE, Swing, Applets, JSF 2.x, Web
+services(SOAP), MS-SQL Server 2008, Web sphere.
+
+Project #2:                                                             
+                                                                        
+   Feb 2013 – Sep 2013		
+
+Title				: Customization of FX Modules 
+
+Client				: Wells Fargo
+
+Role				: Calypso Developer.
+
+	
+
+Description: Calypso is used for front and back office functions such as
+deal entry, position management, profit/loss, back office accounting
+controls, confirmations, message payments, accounting, and interfaces. 
+
+Responsibilities:
+
+Practicing on Capital Markets that include FX Module, which covers
+products such as FX Spot, FX Forward, FX NDF, FX Future, and Options
+
+Preparing several presentations on Capital Markets in synchronization
+with Calypso as a whole such as Rate Indexes, Legal Entities, and
+Messaging Framework 
+
+Involved in back office operations 
+
+Involved in production support, manual testing, regression testing
+
+Involved in customization of user interface of back office operations
+for FX modules data
+
+Environment: Calypso tool, Calypso API’s
+
+Project #3:	Jul 2012 – Feb 2013	
+
+Title				: MBox
+
+Client				: RVM
+
+Role				: Developer.
+
+Description:
+
+MBox’s files is to crawl through the Apache Mime4J and to get the
+properties by reading then mbox format and then MyBatis framework
+persist these properties into the database, with the help of Vaadin each
+and every email and its properties like attachment, child emails, to,
+cc, bcc etc showed to the user.
+
+ 
+
+Roles and Responsibilities:
+
+Participated in development.
+
+Provided test cases for each significant functionality using Junit.
+
+Extensively used STS 2.7 as an integrated development environment to
+develop application.
+
+Involved in code and unit testing of the application.
+
+Involved in manual testing
+
+Environment: Vaadin 6, Java/ JEE 1.6,  Spring 3.x, MyBatis, Apache
+Mime4J, MS-SQL Server 2008
+
+Project #4:	Jan 2012 –  Jul 2012
+
+Title				: DBMonitoring        
+
+Client				: Synechron COE
+
+Role				: Developer
+
+Description: 
+
+Synechron Database Monitor Tool to be used to monitor Oracle, SQL
+Server, MySQL, Sybase, and DB2 databases. This would be a pure
+monitoring tool with only read only privilege on client databases. It is
+intended to be used by L1/ L2 database administrators for real time
+monitoring of their databases.
+
+Responsibilities:
+
+Participated in UI design and development.
+
+Performed Unit testing for the project.
+
+Involved in manual testing
+
+ 
+
+Environment: Vaadin 6,  Spring 3.x, Hibernate 3.x, Java/ JEE 1.6, MySQL
+5.x, Apache Tomcat 7.0, Eclipse
+
+Project #5:	Oct 2011 – Jan 2012	
+
+Title				: Adaptivity
+
+Client				: Adaptivity
+
+Role				: Team Member.
+
+Description:
+
+Adaptivity's Blueprint4IT Lifecycle Suite™ enables intelligent IT
+design decisions to be integrated into repeatable actions across the
+technology build and deployment life cycle. The customized IT Blueprint
+software has been already delivered to Barclays, Fujitsu, Hitachi Data
+Systems and many other clients.
+
+Roles and Responsibilities:
+
+Developed rich web pages using ZK Ajax based framework.
+
+Provided test cases for each significant functionality using Junit.
+
+Extensively used STS 2.7 as an integrated development environment to
+develop application.
+
+Involved in code and unit testing of the application.
+
+Involved in manual testing
+
+Environment: Spring 3.x, Hibernate 3.x, MS-SQL Server 2008, ZK
+Framework, JBOSS, Tomcat, Web Service(SOAP).
+
+       
+
+Project #6:
+
+Title				: Life Guard 1.0        
+
+Client				: Uvinix Computing Solutions, Bangalore
+
+Role				: Developer
+
+Description: 
+
+The strategic aim of the project is to generate charting application for
+ ventilator it is human respirator and to store the details of
+variations of ventilator graph.
+
+Responsibilities:
+
+Participating in UI design and development.
+
+Performed Unit testing for the project.
+
+Developed charting application.
+
+Worked on database to store the details of charting.
+
+ 
+
+Environment:  Jdk1.6.0_02, Swing, Core Java, Oracle 10g.
+

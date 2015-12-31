@@ -1,0 +1,151 @@
+Pre-screening Technical Questionnaire :-
+
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate                                              -  2years & current project                                         
+
+Spring                                                     -  2years  & current project                                           
+
+Web Services                                        -  3years & current project                                                
+
+Core Java                                               -  3.5years
+
+Design Patterns                                    -    1 year
+
+UML design                                           -  1 year   
+
+Build Tools (Maven/Ant)                    -    Maven   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+Sonar,tomcat,
+
+Code,design and deployment done by him
+
+
+
+
+
+ASHOK RAO POTTA  
+
+Pimple Gurav			                                       Email ID	  :  ashokraopotta@gmail.com
+
+Pune- Maharashtra         			                    	    Mobile	  :  +917030530750
+
+
+
+OBJECTIVE
+
+To obtain a challenging position in a progressively growing organization where I can best utilize my skills and education.
+
+EDUCATION 
+
+YEAR  QUALIFICATION		 	UNIVERSITY / BOARD                               % /CGPA
+
+2011	 B. Tech.(Computer Engineering)	National Institute of Technology,Jaipur	        8.08
+
+2006	 XII				 	Board of Intermediate Education, A.P.	        94.00
+
+2004	 X				 	State Board of Secondary Education, A.P.   90.67
+
+TECHNICAL SKILLS
+
+Operating systems : Linux and Windows.
+
+Languages : C,C++,Java and J2EE
+
+Databases : MySql and MongoDB
+
+Frameworks : Struts 2.0,Spring and Hibernate.
+
+Web Server : Tomcat
+
+Others : SVN,Git,Apache Solr,Jira and Log4j.
+
+ACHIEVEMENTS / EXTRA CURRICULAR ACTIVITIES
+
+Secured All India Rank 3898 in All India Engineering Entrance Examination.
+
+Secured 1148 Rank in Andhra Pradesh State Engineering Entrance Examination.
+
+Stood District 14th in Sir C.V. Raman Council of Educational Awards  in 10th  standard.
+
+Won First prize in Quiz competition for three consecutive years at school level (8th -10th).
+
+Won First prize in Cricket in 9th standard.
+
+Shortlisted in All India Cloud 20/20 Student Technical Paper Contest 2010,this event was organized by UNISYS INDIA.
+
+Shortlisted for Consultancy Development Centre(An Autonomous Institution of DSIR, Ministry of Science & Technology)fellowship scheme.
+
+Volunteered for Electronica’08 (a national level tech fest) held at MNIT Jaipur. 
+
+Attended FOTIA workshop (workshop on open source) organized by MOSUM (MNIT Open Source User Mesh) Jaipur.
+
+Participated in several technical events like Code Matrix(coding event),Tronigma(circuit making) etc in Blitzschlag’09 held at MNIT Jaipur.
+
+
+
+PROJECTS
+
+Successfully completed a final year project on Clustering of XML documents on the basis of Content and Structure, using JAVA and SAX Parser.
+
+Successfully completed a project on Hotel Management System in ASP.NET using C# and SqlServer-2005 at Centre for Electronic Governance (Government of Rajasthan) Jaipur.
+
+Developed a working module of Online National Polling as a part of academic curriculum using PHP,MySql,HTML,Java Script and CSS.
+
+Developed a working module of Railway Reservation System as a part of academic curriculum using file handling and graphics library in C++.
+
+WORK EXPERIENCE
+
+Currently working in Talentica Software Pvt. Ltd.(Pune) as a Software Development Engineer from 24th March 2014. Developing a bidding tool for buying(Advertisers) and selling(Stations) TV,Radio ad spots that play between sports events and serials etc.
+
+Technologies Used : Java,Spring,Hibernate,JPA,Apache Solr and MicroSoft SQL Server etc.
+
+
+
+Worked as a Software Engineer in Rightster India LLP(Gurgaon) from 19th  December 2012 to 7th March 2014.Worked on Genesis project.
+
+Clients deliver their video content to Genesis platform which is called Ingest.Genesis transfers raw videos to Content Delivery Networks (Eg.Edgecast/Limelight) and encoding sites (Eg.encoding.com) for generating low,medium,high definition videos from raw videos.After that videos will be delivered to video sharing sites like Youtube,Brightcove and Daily Motion etc.This process is called Egest.
+
+Technologies Used : PHP,Java,Apache Solr,MySql and MongoDB etc.
+
+
+
+Worked as a Software Engineer in One97 Communications Pvt. Ltd.(Noida) from 13th June 2011 to 17th December 2012.Worked on various projects like Subscription Management,Pack Management, Binary Content Management System,Alert Manager,Matrix Report and Self Service Data etc. 
+
+
+
+Subscription Management is a web based application specially designed for customer care unit,to subscribe/unsubscribe value added services on mobile numbers. Billing thread runs on the background for billing purpose. Mobile numbers will be automatically unsubscribed or renewed after a specific period of time depends on the validity and type of the subscribed pack,back end scheduler checks whether to unscribe or renew the subscribed pack. Admin users can perform upload,delete,modify,view and download operations on data in bulk/normal. Bulk operations can be performed by child threads. Normal users can view and download data for auditing purpose. It has a robust user-role-feature management and session management for security purpose.
+
+Technologies Used : Struts2,Spring,MySQL and Log4j etc.
+
+
+
+Pack Management is a web based application for creating,modifying,deleting packs and their services. This module configures pack price,language,type,message pattern,expiry date,offer packs,circle,operator and billing pattern etc. Cache management is used for fast validation to minimize database hits.
+
+Technologies Used : Struts2,Spring,MySQL and Log4j etc.
+
+
+
+Binary Content Management System is a web based application used to manage mobile operators packs data(text message,audio) and it is used to perform CRUD operations on data. Delivery Engine picks these messages and sends to mobile numbers.
+
+Technologies Used : Struts2,Spring,Hibernate,Apache Lucene,MySQL and Log4j etc.
+
+Alert Manager is used to send alert messages to all active users whose subscription will be expired with in the defined number of days. We can define alert messages and sending patterns in pack management. If we define sending pattern as 1,3 then alert manager will send alert messages 3 days and 1 day before the pack expiry date. Alert Manager creates circle wise producer and consumer tasks. Producer thread fetches active base from the database. Consumer thread sends alert messages.
+
+Technologies Used : Executer framework,Spring,MySQL and Log4j etc.
+
+
+
+Matrix Report generates pack,circle,operator,channel and billing protocol wise revenue details using fresh,renewal and unsubscribed user base in daily basis.
+
+Technologies Used : Spring,MySQL and Log4j etc.
+
+
+
+Self Service Data is a web based application used to reduce data request efforts. It handles all types of huge data requests to HADOOP server,creates dynamic queries in the back end, generates zip files and sends all these zip files to users via email or saves in a shared location depends on the size of the generated zip file. User can schedule a future data request on daily/weekly/monthly/yearly basis. Producer thread creates dynamic queries,recipient lists and stores in a database. Consumer thread fetches data from server,writes to zip file and sends via email or saves in a shared location.
+
+Technologies Used : Struts2,Spring,Executer framework,MySQL,Apache Hive and Log4j etc.

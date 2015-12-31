@@ -1,0 +1,377 @@
+10.8/30%hike
+
+Pre-screening Technical Questionnaire :-
+
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate/hibertis                           
+                  - 
+2.5                                  �
+�            
+
+Spring                  
+                                  - 
+2.5years                                
+                
+
+Web
+Services                                
+        - 
+                                    
+            
+
+Core
+Java                                  
+             -  3years
+
+Design
+Patterns                                
+    -   just knowledge 
+
+UML
+design                                 
+          -    
+
+Build Tools (Maven/Ant)                    -   
+Maven   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Apache Tomcat 6.0/ eclipse
+
+Nalin Kumar                                                             
+         
+
+Male, 26 years	                                      nalinkumar87 
+HYPERLINK "mailto:mitinkkumar@gmail.com,
+p10krishanm@alumni.iimidr.ac.in"  @gmail.com                            
+                                  +91-8527937060
+
+SYNOPSIS
+
+Proactive and industrious professional with first-rate analytical and
+problem solving skills dedicated to maintaining high quality standards
+
+Quick study, with an ability to easily grasp and put into application
+new ideas, concepts, methods and best practices
+
+Persuasive communicator, strong leadership, oral/written communication
+and interpersonal skills
+
+Tendency to thrive in fluid work environments (independent as well as
+collaborative) while remaining pragmatic and focused
+
+Adroit at working effectively with a wide range of people in highly
+demanding situations
+
+Eager to contribute in a team-oriented environment having inner desire
+to gel in cohesive team and work for professional growth
+
+ACADEMIC RECORD
+
+Year
+
+Degree / Examination
+
+Institute
+
+Percentage
+
+2006 - 2011
+
+B.Tech+M.Tech(Dual Degree) – Biochemical Engineering & Biotechnology
+
+Indian Institute of Technology (IIT) Delhi
+
+6.562/10
+
+2005
+
+AISSCE [CBSE]
+
+New Era Public School, Delhi
+
+71.00% (1st Division)
+
+2003
+
+AISSE [CBSE]
+
+New Era Public School, Delhi
+
+73.60% (1st Division)
+
+Successfully Qualified GATE 2010 and was Awarded Scholarship by Ministry
+of Human Resource and Development, for pursuing higher studies in
+technology in 9th Semester                                              
+                                                                        
+      (2010)
+
+Among the very few students in the department who continued with the
+above scholarship in the 10th Semester on account of splendid academic
+performance in the previous semester                                    
+                                                                        
+(2010)
+
+Successfully completed two short term courses in Intellectual Property
+Rights by WIPO Worldwide Academy                     (2010)
+
+Amongst the top 0.02% students appeared in IIT JEE-2006                 
+                                                                        
+             (2006)
+
+Secured an All India Rank – 10 in CEE-2006 (Combined Entrance
+Examination of Delhi College of Engineering, one of the premier
+engineering institutes of India)                                        
+                                                                        
+                                  (2006)
+
+Proficiency certification for outstanding performance in Class XII
+Mathematics                                                             
+        (2004-05)
+
+3rd highest scorer in Mathematics (with 90%) in school, Class X
+Examination                                                             
+             (2002-03)
+
+Secured a seat in the highly reputed NTSE (National Talent Search
+Examination) section for 2 consecutive years on account of splendid
+academic performance                                                    
+                                                                        
+     (2001-02 and 2002-03)
+
+Qualified for Intra-school Bournvita Quiz Contest                       
+                                                                        
+                                (2000)
+
+Technical Skills
+
+Programming Languages – C, C++, Core Java, JSP, JRXML, HTML5,
+Javascript, JSON ,Visual Basic
+
+Application Software – MS Office, Image J, Adobe Photoshop, Matlab
+
+Application Development Environment- Eclipse IDE
+
+Application Server – Apache Tomcat
+
+Appilcation Database – MySQL, PostgreSQL
+
+Build Tool – Maven
+
+Reporting Tool – Jasper Reports
+
+WORK EXPERIENCE
+
+ 	Consultant, Polaris Software Lab Limited, August 2011-March 2012,
+Mumbai
+
+Polaris offers state-of-the-art, comprehensive solutions for core
+banking, corporate banking, wealth & asset management and insurance.
+
+Recruitment took place On-Campus for the profile of a consultant and
+worked in the team of Chief Technology Officer(CTO)
+
+Developed Language skills in Core Java, JSP(Servlets), Struts, HTML5,
+SQL and applied these skills to develop simple web applications on
+platforms like Eclipse IDE, Apache Tomcat server
+
+Worked as a member of Smartphone Application development team and tested
+the scope and potential of HTML5 in context of cross browser support for
+developing efficient smartphone web apps in the future
+
+Software Engineer, Ubiquity Business Solutions, March 2012-November
+2012, Delhi
+
+Ubiquity is a start-up that worked towards providing with some unique
+school management software functionalities and planned to provide
+comprehensive solutions to the schools to carry out their cumbersome day
+to day activities
+
+Worked in a small team to design and develop the application based on
+technologies like Core Java, JSP, Spring framework, MyBatis, Maven,
+MySQL and application platforms like Eclipse IDE, Apache Tomcat server
+
+Broad vision of the project was to bring almost all the school
+activities on the online platform like increasing the transparency of
+the student’s performance through online performance cards and grade
+sheets, leveraging the interaction between parents and teachers, online
+fee management system etc
+
+Presented the sample application to different schools in Delhi, Uttar
+Pradesh, Haryana, Bihar and idea was highly appreciated
+
+Software Engineer, SirionLabs, November 2012 - Present, Gurgaon
+
+SirionLabs is a product-based start-up organization which is an industry
+leader in outsourcing relationship management solutions, consulting and
+technology-enabled solutions to corporations, focused on realizing value
+in the context of strategic outsourcing.
+
+Working as one of the few developers in the mainstream product
+development team to build a business object model that breaks down
+unstructured sourcing data such as complex contracts into uniform,
+in-memory metadata that can be analyzed much faster and deeper than
+existing vendor governance or contract management technologies
+
+Initially built a sample web application for learning purpose based on
+MVC architecture that filters and parses specific mail messages, stores
+the relevant data into the database and displays specific details on a
+viewer thereby employing the basic fundamentals of Core Java, JSP,
+Struts2, Mybatis, MySQL, JSON, Javascript
+
+Part of the main product development team which started building the
+product right from the scratch and was actively involved in the initial
+discussions for designing the architecture and database
+
+Currently working in the same team to build a completely robust and
+scalable web based multitenant application for multiple Fortune-500
+Clients
+
+Application has been built based on technologies like Core Java, Spring
+MVC Framework, Maven, MyBatis(alternative to Hibernate), PostGreSQL,
+Rest API, Eclipse IDE, Apache Tomcat
+
+Also working on Information Extraction systems with a broad vision to
+extract complex information from large contracts
+
+POSITIONS OF LEADERSHIP
+
+Coordinator/ Secretary	Joint Secretary, BETA (Biochemical Engineers
+Technical Association)                                                  
+     (2010-11)
+
+BETA is a departmental organization consisting of 300 students (Ph.D.
+and Dual-Degree)
+
+Introduced the concept of Departmental Magazine
+
+Led a team of volunteers to organize events like freshers welcome and
+farewell
+
+Activity Head, I2TECH (open house event of IIT Delhi)                   
+                                                   (2009 and 2008)
+
+Youth Coordinator, Rural Youth Development, Subhi, Delhi                
+                                                      (2007-09)
+
+Subhi is an initiative aimed at rural youth empowerment
+
+Helped in setting up a library as well as a mini computer centre (with
+collected funds) at Subhi’s head office
+
+Educated rural youth about their rights and responsibilities and other
+related duties
+
+Part-time Offshore Faculty, e-tutoring group (for US companies),
+TutorVista Global Pvt Ltd, Delhi   (2009-10)
+
+Item Development projects for school children in USA
+
+INTERNSHIPS 
+
+Arbro Pharmaceuticals Ltd, Delhi	Tuberculosis Detection, Meat
+Identification using Real Time PCR and testing of food samples, herbal
+products using ELISA                                                    
+                                                                        
+     (May’10-Jul’10)
+
+TaqMan Real Time PCR technique to detect the presence of Mycobacterium
+Tuberculosis complex
+
+SYBR Green Real Time PCR technique (using buffalo and bovine specific
+primers) to accomplish meat identification based upon DNA extraction
+from the meat sample
+
+ELISA technique for the quantitative analysis of Folic Acid, Vitamin
+B12, Aflatoxin M1 and Aflatoxin Total in various food samples and herbal
+products 
+
+Project highly appreciated for good results achieved by the project
+supervisor
+
+Tohoku University, Sendai, Japan	Analyzing the effects of shear stress
+and its gradient to cultural endothelial cells morphology based on the
+extensive study of Cellular Biomechanics                                
+                                                              
+(Dec’09-Jan’10)
+
+Flow culture experiments performed on endothelial cells at a high
+pressure of 10 pascals for 24 and 72 hours, using gadolinium chloride as
+a calcium channel inhibitor, followed by immunostaining of F-actin,
+VE-cadherin and nucleus
+
+Analyzed the morphology of cells using Image J software and Confocal
+Microscopy
+
+Project highly appreciated for good results achieved and provided a good
+scope  release a research publication for technical and medical
+platforms  
+
+PROJECTS & RESEARCH PAPERS
+
+Master Thesis	Biochemical Investigation of ATP Synthesis (Supervisor –
+Jointly with Dr. Sunil Nath and Dr. Elangovan Ravikrishnan,  Department
+of Biochemical Engineering and Biotechnology, IIT Delhi)
+
+Isolation of Mitochondria from animal tissues (such as rat liver)
+
+In-Vitro ATP production from the isolated mitochondria and monitoring
+the associated vital parameters (like yield of ATP, rate of ATP
+synthesis etc.)
+
+Assessing the intactness of isolated Mitochondria to check for any
+leakages in membrane 
+
+Isolation and Purification of CFOF1 from Spinach Chloroplasts
+
+Select Academic Projects 	Present Status of Gene Therapy and Future
+Challenges                                                              
+         (Jul’09-Nov’09)
+
+To analyse the Gene Therapy technique and assess the various associated
+issues (secondary research)
+
+Primary research (sample size>100 consisting of students, research
+scholars, professors, doctors etc.) to gauge public opinion and
+awareness levels about the same
+
+Scope to release a research publication for technical and medical
+platforms
+
+Mechanical Design of Baker’s Yeast Production Plant                   
+                                                     (Jan’10-May’10)
+
+Constructing flow sheets as well as piping and instrumentation diagram
+
+Selection, specification and design of various equipments used in the
+plant 
+
+Cost estimation of the plant
+
+EXTRA CURRICULAR ACHIEVEMENTS
+
+Active participant in social welfare deeds (field visit to rural areas,
+tree plantation, blood donation)
+
+Active member of BETA (Biochemical Engineers and Technologists
+Association) 
+
+Represented the school at Literacy Week Music Competition and bagged 3rd
+prize out of 15 schools 
+
+Member, School Basketball Team for 4 continuous years
+
+ADDITIONAL INFORMATION
+
+Love to travel and explore new places (backpacked across 12 countries
+till date)
+
+Avid food enthusiast
+
+Other hobbies - listening music, singing and photography
+
+
+

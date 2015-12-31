@@ -1,0 +1,213 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                         -  2years  &
+current
+prjct                                 �
+�          
+
+Spring                                 -
+ 2 year & current
+prjct                                 �
+�                                   �
+�                   
+
+Web Services                    -  knows
+Basic                                 �
+�              
+
+Core Java                           - 
+2.5years
+
+Design
+Patterns                                
+    -    
+
+UML
+design                                 
+          -    
+
+Build Tools (Maven/Ant)                    -   
+aware,not worked   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Apache Tomcat 6 / 7
+
+ Ok to start up
+
+Code: 60% , 40% analysis
+
+Dayanand Tiwari
+
+E-Mail: dayanand.tiwari28@gmail.com
+
+Contact No.: 91-8121243013
+
+Seeking challenging assignments in Software Development with an
+organisation of high repute.
+
+Career Snapshot
+
+Qualified B.E. (Computer Science) from Rajeev Gandhi Technological
+University, Bhopal in 2011 over 2 years and 5 months of experience in
+Software Development and Project Execution.
+
+Knowledge in end-to-end development of software products from
+requirement analysis to system study, designing, coding testing,
+debugging and implementing; carried out developer testing and
+maintenance.
+
+Handling various technical aspect like software designing coding of
+modules, monitoring critical paths & developer testing.
+
+Verifying change request and defects, documenting, tracking and
+communication test plans, test results and unresolved problems.
+
+Acquired comprehensive experience of Software Development in Java
+Technology.
+
+Sound skills in developing clear, elegant, highly functional code;
+created attractive, functional user interface and provided advanced
+technology solutions that boost productivity.     
+
+Ensured the delivery of projects within the time & cost parameters.
+
+Ability to multi-task, work under tight deadlines with minimal
+supervision.
+
+Areas of Expertise
+
+Technical
+
+Programming Languages		:	Core Java, J2EE.
+
+Operating Systems		: 	Windows.
+
+App/Web Servers                           :	       Apache Tomcat.
+
+J2EE Technologies                          :		JDBC, Servlets, JSP, Web
+Services.
+
+Frameworks                                     :		Struts, Hibernate,
+spring.
+
+Software (IDE) / Tools		  :	Eclipse, Sts.
+
+Work Experience
+
+Currently working as Associate Software Developer in CGI, Hyderabad from
+June 2012 to till now.
+
+Academia
+
+B.E. (Computer Science) from Radharaman Engineering College, Bhopal in
+2011, secured 70.50 as aggregate.
+
+       Projects 	
+
+		    	 					                            	
+
+CGI Information System and Management Consultants Pvt Ltd, HYDERABD.
+
+Project Name		: IOM (Integrated Order Management) as Software Developer
+
+Environment:	 Java, JSP, Hibernate, Spring (IOC and MVC), My Eclipse.
+
+Database:	MySql Oracle and DB2.
+
+Web Server:	Tomcat7 and Websphere.
+
+Project Description: Project Description
+
+As a software developer, we have developed a Bell Canada based order
+management tool in which we used to provide the services as per the type
+of order placed by the customer. This application tool helps to provide
+various kind of services to the customer as Axis order request, IP order
+request and Path order request kind of services are being managed.
+
+Software Modules
+
+Registration Module: To facilitate online registration and complement
+the change user profile.
+
+Catalog Module: Display and maintain various products listed on the
+site.
+
+Purchase Order Module: Used to generate online purchase orders.
+
+Site Administration Module:  An interface exclusively for the site
+administrator to administer and monitor site performance and activities.
+The latter includes Client Transactions, Payments, Accounts, Inventory,
+Registrations, and Newsletter.
+
+Reporting Module: A module used to generate various reports on User
+Activity.
+
+Project Role  
+
+Designing  JSP’s as per Requirement.
+
+Responsible for writing the Controller Classes
+
+Responsible for writing  Validator Classes.
+
+Responsible for writing the Hibernate Mapping Documents and Persistence
+Classes.
+
+Responsible for writting DAO’s and their Implementations with
+Hibernate.
+
+Responsible for Developing Spring Documents.
+
+		    	 	                                                               
+                   	
+
+Project Name		: POLARIS (Agency Portal) as Software Developer
+
+Environment:   Java, JSP, Struts, Spring, Hibernate, Eclipse/Sts.
+
+Database:          DB2.
+
+Web Server:      Tomcat6 and Tomcat7.
+
+Project Description: As Software developer on the POLARIS project which
+is associated with the MAPFRE USA.MAPFRE USA Group of Companies actively
+writes Property and Casualty insurance in 16 states across the country.
+It operates in a number of insurance classes such as: Motor, Home,
+Health, Life, Retirement, Accidents Death, Assistance and Agriculture
+and livestock activities.
+
+Project Role
+
+Designing JSP’s as per the Requirement.
+
+Responsible for writing Action Classes.
+
+Responsible for writing Form Beans and their Validations.
+
+Responsible for writing Custom Validations as per the Requirement.
+
+Responsible for writing Page layouts using Tiles Framework.
+
+Writing Spring Service Interfaces and their implementations.
+
+Injecting Spring Services into Struts Action classes.
+
+Writing DAO’s and their implementations With Hibernate.
+
+Injecting Spring DAO’s into Spring Document.
+
+Self-Assessment
+
+I set high standards for myself and have my own dreams and ambitions. I
+have a flair for learning new things and persistence in problem solving.
+I strongly believe that with my skills, analytical and logical ability,
+determination, dedication, commitment and diligent efforts, I can prove
+to be an asset to any organization.
+
+Place: -										Signature:-
+
+Hyderabad									Dayanand Tiwari
+

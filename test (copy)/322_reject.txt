@@ -1,0 +1,411 @@
+VIJAYA KRISHNA P
+
+M: +91-99598-92925
+
+E: vijaykriishna@gmail.com
+
+Summary
+
+Over 6 years of work experience in designing, developing and managing
+enterprise web based J2EE applications, platform and product development
+
+Currently working on enterprise software development in BFSI domain
+
+Well-versed with Object-oriented programming using Java 7, development
+of mavenized and Ivy applications using GWT 2.0, Sencha GXT (Ext-GWT),
+JPA 1.0, EJB 3, Spring and Hibernate 3.x, MyBatis, Enterprise
+Application Integration (EAI) with Spring Integration and JMS coupled
+with WebSphere MQ MOM, SOAP web services with Oracle 10g PL/SQL and
+MySql 5.1
+
+Implemented UI modules and defect resolution using Spring MVC and jQuery
+1.10
+
+Knowledge in using Design Patterns and UML 2 using Object Oriented
+Analysis and Design principles(OOAD), Data structures and Algorithms
+
+Worked on Scrum based Agile, waterfall methodologies
+
+Technical Skills
+
+	Development:	Waterfall, Agile development using scrum
+
+	Programming:	C and Java 6 & 7
+
+	Front-End:		GWT 2.0, GXT 2.2, Google Kiyaa! XHTML Template System,
+HTML, CSS, JSON, 				jQuery 1.10
+
+	Java/J2EE Stack:	Java 7, JDBC, Servlets, JSP, EJB 3, JPA 1.0, Spring
+3.0, Hibernate 3.x,
+
+				Spring JMS-MQIntegration 2.2, SOAP Web Services, Maven 3.0, Ivy 2.3
+
+	Unit testing:	JUnit 4.x
+
+	Logging:		Log4J 1.2
+
+	Design Patterns:	Data Access Object, Transfer Object, Singleton,
+Adapter, Facade, Composite, 				Strategy & Observer
+
+	Servers:		JBoss 4.2 AS, Apache Tomcat 7.0, WebSphere AS 7.0
+
+	RDBMS:		MySQL 5.1, Oracle PL/SQL 10g
+
+	Dev Tools:		Eclipse 3.x, Oracle SQL Developer, SOAPUI, Tortoise SVN,
+Bugzilla, TRAC, HP 				Quality Center, JIRA
+
+	Code Quality:	Cobertura, Check Style, FindBugs, PMD, Sonar
+
+	CI:			Jenkins
+
+	Verticals:		Information Services, Healthcare, Banking and Financial 
+Services &Insurance(BFSI)
+
+Work Experience
+
+Senior Software Engineer, CGI from June 2014 - Present
+
+Senior Consultant, Alliance Global Services from June 2011 - June 2014
+
+Software Engineer, PlanetSoft (Now Ebix Inc.) from March 2009 - June
+2011
+
+Education
+
+2013 - 2015: Master of Technology(M.Tech) in Software Systems, Birla
+Institute of Technology and Science(BITS), Pilani; 8.54 CGPA
+
+	
+
+	Courses: Data Structures & Algorithms, Object Oriented Analysis &
+Design, Database design & applications, Software Engineering, Cloud
+computing, Computer Architecture & Operating systems, Data mining,
+Software Project Management, Pervasive Computing, Data Warehousing,
+Software Architectures.
+
+Dissertation: Descriptive & Predictive Analytics of EMO device data
+using R-Hadoop platform
+
+2004 – 2008: Bachelor of Technology (B. Tech) from Jawaharlal Nehru
+Technological University (JNTU), Hyderabad.
+
+Details of the Projects:
+
+PROJECT: PNC Financial Services, USA - PINACLE
+
+Vertical: BFSI
+
+Description: PINACLE is PNC’s corporate online and mobile banking
+portal providing a customized banking experience through treasury
+management services; helping the company securely and efficiently manage
+cash and make decisions. It enables to view the company’s transaction
+and account data through Information Reporting services whenever and
+wherever it's convenient for the user. It is an agglomerate of multiple
+services like Bank Side Admin (BSA), Client Side Admin(CSA), Funds
+Transfer(FT), Information Reporting(IR) etc., that the adminstrators,
+companies, operators and users have access to based on the roles
+assigned to these at entity levels.
+
+Information Reporting services enables search for transactions, share
+custom reports, define the period over which the user would likes
+information stored and export data for use in external programs such as
+Excel, determines entitlements by user function and account to maintain
+control over who has access to your company’s financial information,
+view account balance and information 24 hours a day.
+
+Responsibilities:
+
+Followed waterfall model of development.
+
+Individual contributor - Involved in direct client interaction
+
+Understanding user stories, Analysis, Design and Development, Testing of
+PINACLE product - Information Reporting (IR 3.0) modules
+
+Written technical specification document for Entitlement Service for IR
+and Legacy services (CDR and PDR) that is used by PINACLE Portal
+
+Worked on providing work estimates for design implementations and change
+requests
+
+Handled change requests for design and implementation changes and defect
+resolution of varying range of complexities present in various tiers
+
+Ensured on time deliverables with minimal defects
+
+Validation of the technical specification with onsite team,
+Implementation of the technical design, Integration and testing
+
+Accomplishments:
+
+Developed PL/SQL queries integrated with MyBatis
+
+Developed services with Spring Integration to process XML messages
+posted on WebSphere MQ for processing entitlements by IR
+
+Developed and executed unit tests using DbUnit and jUnit testing
+frameworks for testing DAO mappers and service delegates
+
+Configuration of MQ on WebSphere 7 application server
+
+Used Spring Integration &  JMS components - Message driven channel
+adapters, Message converters, Chains, Service activators and
+Transformers to process messages enqueued by entitlement changes in
+detail entitlements at BSA side
+
+Used JAXB for XML processing - Message Transformation
+
+Designed, Implemented and Integrated client side functionality for
+PINALCE Express using Spring MVC and jQuery - for companies and
+operators belonging to Express brand and administrators
+
+Design, Development and Defect resolution of reusable components -
+Account Control block - using jQuery datatable plugin
+
+Technologies: Java 6, Spring3 MVC, jQuery1.10, MyBatis, JAXB 2.1, SOAP
+Web Services, Spring Integration and JMS 2.2, WebSphere 7 AS, Oracle
+10g, jUnit 4.11, DbUnit 2.4, Ivy 2.3 and SOAP UI 4.1
+
+PROJECT: McKesson - Provider Manager, USA
+
+Vertical:	Healthcare
+
+Description:	McKesson Provider Manager is a highly flexible, scalable
+solution that helps store, represent and manage the rich complexities in
+provider information and relationships. It serves as an intelligent
+single source for all provider data that supports the information needs
+of plans, providers and members. As part of the McKesson Network
+Management product suite, in combination with McKesson Contract Manager
+and McKesson Reimbursement Manager, McKesson Provider Manager helps
+simplify the design, management and servicing of provider networks and
+orchestrate value-based reimbursement.
+
+Roles & Responsibilities:
+
+Individual contributor - Involved in interaction with client Solution
+Architect for understanding user stories, Analysis, Design & Development
+and Testing of Provider Manager product in reduction of technical debt
+
+Followed Kanban development
+
+Developed PL/SQL queries and stored functions
+
+Defect resolving and enhancements
+
+Developed and executed unit tests using jUnit testing framework
+
+Technologies Used: Java 7, Applets, Spring 3.x, Hibernate 3.x, Web
+Services, Tomcat 7, Oracle 10g, jUnit 4.4, Maven 3.x
+
+Center of Excellence(CoE) & Accolades:
+
+Demonstrating the use of code splitting in GWT applications, JBoss
+clustering, Session Replication, caching frameworks like ehCache and
+Distributed caching using Terracotta
+
+Android Dynamic Forms(ADF) - UI framework for developing android
+applications, uses JSON as input containing configuration, parses and
+generates output forms
+
+Development using Android SDK 14, JSON, OOAD & clean code principles
+
+Research on different chart apis to suit the needs
+
+Developed proof of concepts and demonstration
+
+Awarded Star of the Quarter Q3 - 2012
+
+PROJECT: Yellow Book (Hibu plc), USA
+
+Vertical:	Information Services
+
+Description:	Yellow Book Portal is a product consisting of a set of
+applications containing various portals interacting with each other
+based on user role. YBD myadvertising is a portal application that deals
+with registration of clients and providing various advertising related
+centric data which client can review. YBDSupport is an auditing portal
+which deals with managing the account’s blocks or unblocks status,
+bill status, password reset and audit information. YBD4e is a portal
+dedicated to YellowBook internal team which provides customer support.
+RCF portal is an independent product which is dedicated towards managing
+distribution of RCF numbers and fixing call rates using advertiser’s
+proxy call number.
+
+Responsibilities:
+
+Followed Agile methodology – Scrum participant
+
+Requirement Analysis, Design and Development, Maintenance and Testing
+
+Individual interaction with client for requirement analysis for Design,
+Development and Testing of YBD product. Provided demos using Proof of
+Concepts (POC) whenever applicable
+
+Defect resolving and enhancements
+
+Handled change requests based on requirements, code refactoring
+
+Individually contributed to Design and Development of applications, part
+of Requirement Analysis.
+
+Accomplishments:
+
+Increased code coverage using Cobertura
+
+Integrate newly developed components with existing system
+
+Unit testing, Integration testing and System testing
+
+Experience in understanding the specifications required at the UI
+implementation.
+
+Experience in design and development of client side functionality using
+GWT/GXT – Implemented role management, recording audit information,
+and rate calculation in RCF & user specific time zones in YBD. Developed
+server side functionality using EJB 3 and JPA.
+
+Developed PL/SQL queries of simple to medium complexity.
+
+Designed custom data caching strategy at UI for improving performance.
+Implemented and integrated it with existing system in RCF product.
+
+Proficient in using jUnit framework to developing unit tests for data
+converters and GWT services, server side components.
+
+Code clean up and following code standards using Check Style, PMD and
+Find Bugs.
+
+Apt and perfect in committing the deliverables on time to the client.
+
+Recommended and Implemented GWT Code Splitting feature in the project
+– aimed at improving UI rendering performance.
+
+Developed dynamic portlet construction based on the selected account
+type and portlet state in YBD myadvertising product.
+
+Technologies Used: Java 6, GWT 2.1, GXT 2.2, EJB 3, JMS, JPA 1, JAX-WS,
+Oracle 10g, JUnit 
+
+4.2, Maven 2.2,JBoss Application Server  4.2, Cobertura, Jenkins, PMD,
+CheckStyle, FindBugs
+
+PROJECT: Planet Interact Core Framework v2.0 (PICF)
+
+Vertical:	Life Insurance
+
+Description:	PICF is a services framework built for developing flexible
+and scalable n-tier
+
+enterprise products. The founding principle of this framework is to
+allow business-driven development through configuration at the
+presentation, business logic and data layers using metadata.
+
+Responsibilities:
+
+Followed Agile development methodology
+
+Development and Maintenance
+
+Understand and analyze the business requirements from the Technical Lead
+
+Code analysis, debugging and defect fixing, enhancements and maintenance
+of framework components
+
+Demonstrated new enhancements that were added to framework through POCs
+
+Accomplishments:
+
+Formulated and executed JUnit test cases for Form Widgets and Services
+of Framework 2.0
+
+Implemented Internationalization (I18N) for framework components
+
+Rolled out the application after thorough unit testing
+
+Deployment on to Tomcat web server
+
+Data Migration from MySQL 5.1 to SQL Server 2005
+
+Technologies Used: Java 6, GWT 2.0, GXT 2.2, Kiyaa Template system,
+Spring 3.0, Hibernate 3.x, Web Services, Maven 2.2, Eclipse 3.4, JBoss
+4.2, MySQL 5.1
+
+PROJECT: The Policy Processor (TPP)
+
+Vertical:	Life Insurance
+
+Description:	TPP is a new business processing and underwriting system
+developed using PICF v2 for life insurance. The information is collected
+from both the end-customer and agent through web-based e-forms, as well
+as from external data sources for background checks. TPP provides a
+means of straight through processing of underwriting information for
+medically underwritten as well as jet underwritten cases.
+
+Contributions:
+
+Development and Maintenance
+
+Understand and analyze the business requirements from the technical lead
+
+Code analysis, debugging and bug fixing
+
+Implemented UI design – using XHTML Kiyaa Template System of framework
+2.0
+
+Generation of POJOs and Hibernate Mappings from designed database schema
+using Hibernate Reverse Engineering
+
+Collaborated with the testing team in resolving technical issues and
+adhering to the prompt delivery of application according to the build
+release schedule
+
+Rolled out the application after thorough unit testing
+
+Data Migration from MySQL 5.1 to SQL Server 2005
+
+Implemented client side Internationalization(i18n) for the module
+
+Deployment on to JBoss 4.2 Application Server
+
+Developed SQL queries on MySQL 5
+
+Technologies Used: Java 6, Framework: PICF 2.0
+
+PROJECT: Producer 360° view
+
+Description:	A test application developed to test the features unused by
+the product
+
+teams, supported by PICF 2.0 and integration test scenarios developed by
+the QA. The QA are required to test this application such that the bugs
+reported on this application are used to enhance the corresponding
+features.
+
+Roles & Responsibilities:
+
+Development and Maintenance
+
+Understand and analyze the integration test scenarios
+
+Code analysis, debugging and bug fixing
+
+Implemented UI design using refactored XHTML Kiyaa Template System of
+framework 2
+
+Generation of POJOs and Hibernate Mappings from designed database schema
+using Hibernate Reverse Engineering
+
+Collaborated with the testing team in resolving technical issues
+
+Deployment on to Tomcat web server
+
+Technologies Used: Java6, Framework: PICF 2.0
+
+Vijaya Krishna P
+
+  PAGE   \* MERGEFORMAT  5 
+
+                                      TECHPOINT PROFILE
+
+  PAGE   \* MERGEFORMAT  1 
+

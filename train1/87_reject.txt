@@ -1,0 +1,213 @@
+SUJITH KUMAR KUPUNARAPU
+
+ Curriculum Vitae
+
+Work Experience (4.2 yrs - Total 
+
+@ cleartrip.com – 1.10yrs, 
+
+@ S&P Capital IQ(McGraw Hill Financial) – 2.4yrs)
+
+Address: H.No 8-5-154/4, Road No.3, Mallikarjuna Colony, Old Bowenpally,
+Hyderabad, A.P, India -500011
+
+Ph No: +918143130431
+
+
+
+
+
+                                                              March 2015
+- Present
+
+Oracle Coherence Framework @ S&P Capital IQ
+
+Technologies used: Core Java, Oracle Coherence
+
+Description:  From the scratch developing standalone java api Oracle
+Coherence framework. Oracle Coherence is an in-memory distributed data
+grid solution for clustered applications and application servers. The
+framework will be used by various teams within the organization to
+access the centralized cache for caching purposes.  
+
+ 
+
+
+
+May 2013 – March 2015
+
+Feeds Generation @ S&P Capital IQ  
+
+Technologies Used: Java, Spring, Hibernate, Unit Testing (Mockito,
+Qunit), Javascript, Jquery, SQL server etc
+
+Description: Feeds(zip files) generation by extracting data from a
+central repository.
+
+
+
+
+
+Email id:   HYPERLINK "mailto:sujjjith@gmail.com"  sujjjith@gmail.com 
+
+      sujith010987@gmail.com
+
+Jan 2014 – Jul 2014
+
+XFAdmin UI web project @ S&P Capital IQ
+
+Technologies used : Spring 3, Hibernate, Mockito, SQL Server, JQuery,
+Qunit etc
+
+Description: Internal web app which is used to generate the metadata for
+feeds development. 
+
+Education
+
+2007-2011    VIT University
+
+                        B.Tech (Comp Sc)
+
+                        9.11/10 CGPA
+
+2004-2006    AP Board of Sec Edu
+
+                       St. Patrick’s college
+
+                       93.9/100%
+
+2004             AP Board SSC
+
+                      St. Andrews School
+
+                      88.3/100%
+
+
+
+                                                                        
+Oct 2013 – Dec 2013
+
+DFAdmin Automation @ S&P Capital IQ
+
+Technologies used: SQL Server (Procedures and Views)
+
+Description: Automated the data entry process in feeds generation.
+Automatically provided the data required for feeds generation on the fly
+like feed zip file name etc 
+
+
+
+Technologies
+
+Languages: Java, JavaScript, JQuery(JavaScript Library) Ant Scripting
+
+Frameworks: Spring3, Hibernate, Selenium, Mockito, Html Unit
+
+Database: SQL Server 
+
+
+
+Jan 2013 – May 2013
+
+Bus API @ cleartrip.com
+
+Technologies Used: Java, Spring3, Unit Testing(Mockito) and Integration
+testing
+
+Description: RESTFul bus Api     
+
+
+
+Caching Tools: Redis, Oracle Coherence
+
+CI Tools: GO, Jenkins  
+
+IDE: IntelliJ Idea, Eclipse
+
+
+
+  Jun 2012 – Dec 2012
+
+Multi Modal Search @ cleartrip.com
+
+Technologies Used: Java, Spring3, Unit Testing (Mockito) and Integration
+testing
+
+Description: Multi mode search(air, rail, bus, car) from origin to
+destination
+
+Certifications:
+
+Querying Microsoft SQL SERVER 2012
+
+
+
+Jan 2012 – Mar 2012
+
+WebCheckin @ cleartrip.com
+
+Technologies Used: Java, Html Unit(Scraping tool), spring3,Unit Testing
+(Mockito) and Integration testing
+
+Description: Web Scraping of html pages using Html Unit web scraping
+tool  
+
+
+
+                                                                   Aug
+2011 – Nov 2011
+
+Hybrid Automation Framework @ cleartrip.com
+
+Technologies Used: Core Java, Selenium
+
+Description: It is both data and object driven testing framework
+
+
+
+
+
+Achievements
+
+*Hackathon: Won 1st prize in Water hackathon conducted by World Bank -
+2012
+
+*Hackathon: Won 2nd prize in Cleartrip hackathon – 2012
+
+*University  School (Comp Sc) VICE –PRESIDENT
+
+*Founder, IEEE – Computer Society of VIT University
+
+
+
+Apr 2012 – Jun 2012
+
+Auto Deployment @ cleartrip.com
+
+Technologies Used: Ant Scripting
+
+Description: Auto Deployment of web apps in Testing Environments
+
+
+
+
+
+Work Experience (4 months @ artoo.in)
+
+Jan 2011 – Apr 2011
+
+Text Free Authentication – Android app
+
+Technologies Used: Android, ZXing library
+
+Description: Text free authentication system to help micro finance
+agents. 
+
+
+
+
+
+
+
+TECHPOINT PROFILE
+

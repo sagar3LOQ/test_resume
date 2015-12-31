@@ -1,0 +1,216 @@
+Spring: 2 year & current
+
+ Hibernate: 2 year & Current
+
+web services: worked but not much
+
+Application: websphere/web logic
+
+DB: oracle/my sql
+
+Kandi. Bantraj
+
+Email: bantraj@gmail.com                                       Mob:
++919703789773
+
+To extend my challenging career with an industry offering scope to
+enhance my analytical and development skills.
+
+Diligent and resourceful professional with 2.6 years of experience in
+Information Technology.
+
+Extensive experience in the performance, development and maintenance of
+enterprise wide software products and projects.
+
+Experience and strong technical skills with Core Java, Hibernate, JPA,
+JSP, EXT JS 3/4,  DWR,Oracle Basics,Fusion Charts, Html, JavaScript,
+JBoss 4/5, Ant,Tortoise SVN, Websphere, WebLogic .
+
+Domain knowledge includes BSFI: Investment banking – Mutual Funds,
+Portfolio Analytic, Customer Relationship Management, RM Workstation,
+and Accounting.
+
+Exposure to all stages of Software Development Life Cycle.
+
+Experience in Product Methodology.
+
+Possess good analytical and problem solving skills.
+
+Work Experience
+
+Worked as a Software developer in Polaris Financial Technology Ltd,
+Hyderabad, INDIA from July 2011 to May 2014.
+
+Working as Analyst in Verizon Data Service India Pvt Ltd from May 2014
+to Till Date
+
+ I worked on multiple projects in Banking Domain and Telephone Domain
+that improved my skills and confidence in various technologies like with
+Core Java, Hibernate, JPA, JSP, EXTJS, DWR, Oracle Basics, Fusion
+Charts, High Charts, Html, and JavaScript.
+
+I played my role in performance, implementation of multiple-projects.
+
+Had good interaction with multi-site people in accomplishing the
+projects.
+
+key traits
+
+Good at analysing and developing the project as per requirements
+
+Quick and keen learner
+
+Confident and good at interacting with multi-site people.
+
+Good communication skills
+
+Technical Skill Set
+
+  
+
+Operating Systems	UNIX, AIX, Windows 9x/ XP/ 2000,Windows 7
+
+Languages	Java(Core JAVA)
+
+Framework	Hibernate JPA, DWR 
+
+Web Technology	JSP, Servlets, HTML, CSS, Java Script, EXT JS 3.x/4.x,
+Fusion Charts.
+
+Servers	Web Sphere, Web Logic, JBOSS 4.x/5.x,Apache,Tortoise SVN
+
+Database	Oracle 10g/11g
+
+Tools	 PL/SQL Developer, Ant Tool ,Oracle SQL Developer
+
+IDE	Eclipse 3.5,Hudson
+
+
+
+Education
+
+B.Tech in Chemical Engineering from NIT (National Institute of
+Technology), Rourkela, Orissa during 2007-2011.
+
+Major Projects Handled 
+
+PROJECT #1
+
+Project		: 	Intellect Wealth Product Development				             
+
+Duration 	: 	Jul 2011 – Jan 2012 
+
+Environment	:  	Java, J2EE, JPA, Ext JS, Fusion Charts, HTML, CSS, XML,
+
+		JSON, DWR, Oracle, JBOSS.
+
+Tools		:  	PL/SQL Developer, Eclipse, SQL Developer.
+
+Project Description:
+
+Intellect FABX:
+
+The objective of the product is to design and to implement the Module of
+FABX in widget-workspace and work-area model. User can create his
+workspace by his/ her own. 
+
+	 FABX was created to provide services to the RM's with aggregated
+information about their customer's portfolio and revenue with various
+parameters and also hierarchical view of his/her team.
+
+	  Product focus was to implement to showcase the aggregated information
+about the customers portfolio and revenue. The products offered were
+Complete Life Cycle of Portfolio, Revenue, Targets, Team Hierarchy,
+Alerts and Reports. It also provides latest market information. 
+
+Intellect CRM:
+
+ Customer Relationship Management (CRM) consists of 3 stages: Lead
+Capture, Prospect Creation and finally Customer (Relationship) Creation.
+An RM is required to actively prospect new potential clients and convert
+them into customers of the Bank. It provides Scheduler and Call Reports
+which are the tools used by RM and other users for their day-to-day
+work, for their scheduling and reporting of meetings. It also provides
+facilities for entering Service Requests from customers and these are
+then forwarded to the appropriate departments for resolution.
+
+Role: Developer
+
+Responsibilities: 
+
+Involved in Functional Specifications, Construction.
+
+Involved in Design and Development of Portfolio, Past Simulation and
+Monte Carlo Simulation Framework.
+
+Development of prototype, Preparation/review the Unit Test Cases.
+
+Design and development of widget and workspace framework.
+
+Design and development of widgets.
+
+Performance Tuning.
+
+PROJECT #3
+
+Project		: 	Citi Trust Platform TRAX (Trust Accounting Exchange)
+
+Client 		:  	Citi, US							             
+
+Duration 	: 	Sep 2012– Jan 2012
+
+Environment	:  	Java, J2EE, JPA, Ext JS, DWR, Oracle.
+
+Tools		:  	PL/SQL Developer, TOAD, Eclipse, SQL Developer.
+
+Project Description:	
+
+ Wealth Management System is a product that provides Accounting Module
+(AM), Asset Ledger (AL) and General Ledger (GL) modules as a part of
+GCTP implementation to provide a solution for the Citi Trust Platform.
+
+	AM module will facilitate generating accounting entries for financial
+transactions performed in any Product Processors-PP and handing off
+these entries on a transaction or a consolidated basis to the General
+Ledger. This module will facilitate the definition of Criteria (set of
+transaction attributes) with different Posting Rules for which an
+accounting entry needs to be generated. An accounting entry will then be
+defined for defined Criteria. The accounting entry corresponding to
+Criteria will be generated during transaction processing when the values
+passed by PP would match a Criteria definition. The accounting entry
+generated will be handed off as individual or consolidated entries to
+General Ledger either online or as a batch.
+
+A set of queries will also be configured for the user to view the
+accounting entries and exceptions that have occurred during generation
+or hand-off.
+
+Role: Developer
+
+Responsibilities: 
+
+Involved in construction 
+
+Involved in development Workspace Framework in Asset Ledger Module.
+
+Involved in Issues Fixing.
+
+Personal Particulars
+
+Name			: 	Kandi Bantraj
+
+Father’s Name		:	K Nageshwar Rao
+
+Date of Birth	      	: 	24th August 1989
+
+Languages Known	:	English, Telugu, Hindi, and Kannada
+
+Mobile No		:	+919703789773
+
+Address		               :	Plot No: 259, Laxmi Narsimha Nilayam, Back
+Side of Q City Building,
+
+				Secreteriat Colony, Gachibowli, Hyderabad, Andhra Pradesh -500032
+
+  						                    (Kandi Bantraj)
+

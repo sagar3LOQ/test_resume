@@ -1,0 +1,243 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+               -  2 year &
+current                                �
+�              
+
+Spring                  
+                               -  2 year &
+current                                �
+�             
+
+Web
+Services                                
+       -  basic
+
+Core
+Java                                  
+             -  3year
+
+Design
+Patterns                                
+    -   
+
+UML
+design                                 
+          -    
+
+Build Tools (Maven/Ant)                    -   
+Maven   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+JWT,tomcat,websphere
+
+                             Ok to startup
+
+Code:80% design 20%
+
+Diwakar Reddy G
+
+C/o Usha Rani	Mobile	:+91-9676892423
+
+House No: 1-8-115/E,	Email 	:diwakarreddy45@gmail.com
+
+Meclodguda,
+
+ diwakar.gudisi@ebix.com
+
+Begumpet,
+
+
+
+Hyderabad-500003.
+
+
+
+
+
+Objective
+
+
+
+To pursue a highly rewarding career, seeking for a job in challenging
+and healthy work environment where I can utilize my skills and knowledge
+efficiently for organizational growth as well as personal goals.      
+
+	
+
+Summary
+
+
+
+2+ years of IT development Experience in JAVA and J2EE technologies
+
+Good exposure in development of web applications using java technologies
+Spring and Hibernate, GWT
+
+Good Knowledge in Tomcat, Maven and Eclipse
+
+Successfully involved in a Product development named TPP which serves
+New Business and Underwriting for Insurance Industry.
+
+Energetic and self-motivated team player. Proven ability to work in both
+Individual and team environments with positive result.
+
+Has the ability to quickly adapt to new environments and technologies.
+
+Educational Profile
+
+
+
+	
+
+	B.Tech from JNTU.
+
+M.Tech from IIT-Guwahati.
+
+Organizational Experience
+
+
+
+Ebix Software pvt. Ltd, Hyderabad: December 2011 to till date, as
+Software Engineer.		
+
+Skill Set
+
+
+
+Operating System		Windows, Linux
+
+Languages	Java
+
+Application Servers	Web logic
+
+Web Servers	Apache Tomcat
+
+Data Base	MS Sql, My Sql
+
+Frameworks	Hibernate, Spring
+
+Tools	Eclipse, Maven
+
+
+
+Project  1
+
+          
+
+Product Name	   : TPP (The Policy Processor)
+
+Technologies       : Java, GWT, spring, Hibernate,  and  MS Sql Server.
+
+Description:
+
+TPP is a New Business and Underwriting Automating system for Life
+Insurance. New Business captured into TPP either by Data Entry or App
+Import. Underwriting is the process of Analyzing the Risk and making the
+decision. The Risk evaluation done through HLC (Health and Life Style
+Check).As part of Risk evaluation Financial and Reinsurance Risk also
+considered. The system takes the decision by using Preferred Class Based
+or Preferred Point Based or Rating by Standard Tables based on the Risk
+evaluated. System also has manual underwriting where underwriter can
+override system decision according to his analysis.
+
+Responsibilities:
+
+Developed Create Case Underwriting and Requirements module as per
+requirement.
+
+Written Spring Service Interfaces and their implementations.
+
+Integration testing, identifying the issues and fixing them.
+
+Code refactoring
+
+Developing use cases across modules.
+
+Project  2
+
+          
+
+Product Name		: Life Speed Plus
+
+Technologies		: Spring, Hibernante, My Sql, GWT.
+
+       		 
+
+Description: 
+
+         Life Speed Plus is an e-App system which serves the New
+Business for insurance industry. It is a distributor centric
+application, where distributor gets the business for multiple insurance
+companies. System validates the application, before sending the
+application to the corresponding carrier, it asks the e-signatures of
+the required parties through silanis e-signature system. 
+
+Responsibilities:
+
+Understanding requirements and Planning the design, development of the
+application.
+
+Ensured timelines are adhered to and status updates are completed on
+schedule.
+
+Implemented Work Flow, Work Allocation based on requirements.
+
+Implemented Business logic based on the requirements.
+
+Performing the Build activities to give the sprints to testing team.
+
+Worked on fixing and updated the Bug status as required.
+
+Project  3
+
+          
+
+Product Name     :  PICF (Planet Interactive Core Framework)
+
+Technologies        : Java, GWT, spring, Hibernate  and  My Sql Server.
+
+Description:
+
+PICF is a web service platform framework for building flexible and
+scalable n-tier enterprise solutions specifically for Insurance. The
+founding principal of this framework is to allow business-driven
+development through configuration at the presentation, business logic
+and data layers using metadata. PICF is the framework developed at
+Planet Online for the internal products like TPP (The Policy Processor),
+PSS (Producer Support System), Claims. PICF comprises of several
+components. 
+
+Responsibilities:
+
+Developing the requirements.
+
+Bug fixes across modules.             
+
+Extracurricular Activities
+
+Reading Books
+
+Solving puzzles 
+
+Personal Details
+
+
+
+         Date of Birth                            : 21st March, 1988
+
+        Gender                                      : Male
+
+        Languages known                     : English, Hindi, Telugu
+
+        Nationality                                : Indian
+
+        Marital Status                           : Single
+
+        Permanent address                   : 10-5-462, kadiri,
+Anantapur, AndhraPradesh, 515556
+

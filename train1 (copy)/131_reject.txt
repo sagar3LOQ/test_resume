@@ -1,0 +1,297 @@
+TECHPOINT PROFILE
+
+Amitabh Tiwari
+
+
+
+	SUMMARY:
+
+Dynamic and self-driven technical professional with strong work ethic and 8+ years of experience in  Java/J2EE technologies, and working knowledge in building industrial strength multi-tier enterprise applications with strong skills in the following areas:
+
+
+
+Technologies: Java/J2EE, XML, Freemarker, Jquery, Kendo, Flex, JavaScript
+
+Server: Apache Tomcat 6.0, Websphere 6.0, JBoss 4.2.3.
+
+Databases: Oracle, SQL Server, Postgre SQL.
+
+Operating Systems: Windows 2000/XP/7, Ubuntu 10.04/11.04. 
+
+Tools:	Eclipse, JUnit, Ant, Jenkins, Firebug, Erwin, Bugzilla, FogBugz, CVS, SVN, JIRA GIT.
+
+Frameworks: Hibernate, Spring.
+
+EDUCATIONAL QUALIFICATION:
+
+Degree
+
+Institute
+
+University
+
+Passed in
+
+B.Tech
+
+National Institute of Technology, Silchar, Assam
+
+NIT, Silchar
+
+2007
+
+12th
+
+K. V. No.2, AFS Tezpur, Assam
+
+CBSE
+
+2001
+
+10th
+
+K. V. No.2, AFS Tezpur, Assam
+
+CBSE
+
+1999
+
+PROFESSIONAL EXPERIENCE:
+
+Company
+
+Designation
+
+Period
+
+EFI India Pvt. Ltd.
+
+Senior Software Engineer
+
+Mar 2013 - Till Date
+
+Symphony Teleca Group
+
+Senior Product Developer
+
+Dec 2011 - Mar 2013
+
+iCreate Software India Pvt. Ltd.,
+
+Senior Product Engineer
+
+Nov 2010 - Dec 2011
+
+CSC India Pvt Ltd.,
+
+Software Engineer
+
+Aug 2007 - Nov 2010
+
+CERTIFICATIONS AND TRAININGS:
+
+Certified in Basics of Banking in 2010 by IIFB (Indian Institute of Banking and Finance).
+
+Completed ASSET (Advanced Software and Systems Training) by CSC in 2010.
+
+Attended ILog JRule training 2009 by IBM.
+
+Basics of Insurance, Banking 2008 in CSC.
+
+PROJECT SUMMARY:
+
+
+
+Organization
+
+EFI India Pvt. Ltd.
+
+
+
+Project
+
+Pace
+
+Duration: Mar 2013 – Till Date
+
+Description
+
+Pace is a browser-based, scalable and customizable print management system streamlines operations, reduces costs and helps in delivering quality customer service.
+
+Pace is a fully integrated solution for estimating, production, accounting, sales management and e-commerce. The leading edge management information system also gives you a distinct competitive advantage by offering a new level of automation and control.
+
+Technologies
+
+Java/J2EE, Springs, Kendo, Jetty, Phoenix, JQuery, Java Script, Freemarker, SQL.
+
+Responsibilities
+
+To develop end-to-end Pace functionalities.
+
+Involved in redesigning and engineering several new features in the Pace.
+
+To do code reviews.
+
+To create proposals and estimation for new feature and creating 
+
+To write integration and other tests.
+
+Organization
+
+Symphony Teleca Corporation (STC)
+
+Client: Wireless Generations 
+
+Project
+
+Beacon K-12
+
+Duration: Dec 2011 – Mar 2013
+
+Description
+
+K-12 is a product which has three sub products, one which allows teachers to create, maintain question banks and create assessments, second allows authorities to analyze results and create plans to target grey areas, and third one is for students which allow them to take test online.
+
+Technologies
+
+Java/J2EE, Springs, Hibernate, JQuery, Java Script, Freemarker, Ivy, SQL.
+
+Responsibilities
+
+To develop end-to-end K-Twelve functionalities.
+
+Involved in redesigning and engineering several new features in the K-Twelve.
+
+To do code reviews.
+
+To create proposals and estimation for new feature and creating 
+
+To write integration and web-services tests.
+
+
+
+Organization
+
+iCreate Software India Pvt. Ltd.,
+
+
+
+Project
+
+Biz$core R5
+
+Duration: Nov 2011 – Nov 2012
+
+Description
+
+Biz$core is an integrated next generation Business Intelligence, Analytics and Performance Management solution for banks that is the quickest-to-implement.
+
+Technologies
+
+Java/J2EE, Spring, Hibernate, JSP, Flex, Ant, XML, SQL.
+
+Responsibilities
+
+To develop Biz$core functionalities (From DB design to UI).
+
+Involved in redesigning and engineering several features in the Biz$core.
+
+To develop Use Case Documents.
+
+To do the Manual Unit Testing and Debugging of the Programs.
+
+
+
+Organization: CSC India Pvt. Ltd.,
+
+Client: FIS
+
+Project
+
+Default Manager (DM)
+
+Duration: Jan 2010 – Nov 2011
+
+Description
+
+Default Manager is a tool to track loan defaulters and make right decisions regarding collection and recovery. Default Manager removes paper processes from your back-office and replaces them with business rule-based workflow management.
+
+Technologies
+
+Java/J2EE, Hibernate, Ant, XML, Jboss. 
+
+Responsibilities
+
+To Develop Services for both DeBackEnd and XES if required. 
+
+To develop XML Schemas in compliance to IFX.
+
+To do the Unit Testing and Debugging of the Programs.
+
+To write HQL queries for required needs.
+
+To do the peer review.
+
+
+
+Organization
+
+CSC India Pvt. Ltd.
+
+Client: FIS
+
+Project
+
+Base 2000 (Certegy Card Services)
+
+			Duration: Apr 2008 – Dec 2009
+
+Description
+
+Base2000 is card management system. It provides one stop solution for all card needs from transaction authorization to statement generation, from card issuance to customer service. This has card management module and other module was merchant management added. We need to add or update merchants and analyze the SLA requirements.
+
+Technologies
+
+Java/J2EE, JSP, Servlets, XML, JDBC, SQL.
+
+Responsibilities
+
+As an individual contributor, was responsible to develop applications.                                                                                                                                                                                                                                           
+
+To develop SQL scripts like procedures etc and analyze SLA logs. 
+
+To develop batch files if required for automation of programs
+
+Developed the application to automate the whole merchant adding process.
+
+
+
+Organization
+
+CSC India Pvt. Ltd.
+
+Client: FIS
+
+Project
+
+eXpress Enterprise Services (XES)
+
+Duration: Oct 2007 – Mar 2008
+
+Description
+
+eXpress Enterprise Services (XES) is a Middleware, built in Java under the J2EE framework that will integrate all the products of FIS. XES is an integrated suite of standards-based banking components that provide robust functionality through a service-oriented architecture. With XES, financial services institutions can implement business process management capabilities and ensure system interoperability across the enterprise.
+
+Technologies
+
+Java/J2EE, Hibernate, Ant, XML, XSD, SQL.
+
+Responsibilities
+
+To Develop XES Services (Xes Services and Adapter Classes).
+
+To develop XML Schemas in compliance to IFX.
+
+To write JUnit test for testing framework.
+
+To do the Unit Testing and Debugging of the Programs.

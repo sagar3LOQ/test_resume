@@ -1,0 +1,310 @@
+2PM saturday
+
+Team size:6
+
+Spring:
+
+Hib:
+
+Webservice
+
+14/18/
+
+Call at 4PM
+
+Sivananda Reddy                                        
+
+    	                
+
+Phone:  +91-9620683339                                  	Email:
+shiva.mail1985@gmail.com
+
+ 
+
+Professional Summary:
+
+Having 7 Years of experience in Development of web based and Enterprise
+applications.
+
+Work Experience:
+
+Working as a Technical Lead in SocieteGenarale GSC Pvt Ltd since August
+2011.
+
+Worked as a Delivery Software Engineer in Mphasis an HP company from
+March 2010 to August 2011.
+
+Worked as a Software Engineer in ClifttonMyers Enterprises pvt Ltd from
+July 2008 to March 2010.
+
+Technical Proficiency:
+
+Involved in development of applications using Java and J2EE.
+
+Development experience in ILog JRules and ODM.
+
+Strong working knowledge in Spring IOC, MVC, ORM, Batch, AOP,
+WebServices modules.
+
+Strong working knowledge in hibernate and JPA.
+
+Strong working Experience in spring batch applications.
+
+Strong working knowledge on spring, Hibernate, Struts, JSF, FreeMarker.
+
+Good knowledge on Hadoop Map Reduce Program.
+
+Good Knowledge on Oracle database concepts and undergone training on
+EXADATA.
+
+Good working knowledge on SOAP WebServices.
+
+Written and executed test cases using JUnit and EasyMock.
+
+Good working experience on automated deployment DeployIt tool and
+configurations on DeployIt (XL Deploy).
+
+Having experience on continuous integration tools like Jenkins, Sonar
+and Hudson.
+
+Experience in using application life cycle management tools like JIRA
+
+Good knowledge on version control systems SVN, VSS.
+
+Worked on Agile software development methodology (scrum methodology).
+
+Worked on BDD and TDD environments.
+
+Involved in developing design documents and specs documents.
+
+Strong analytical, problem-solving and organizational skills.
+
+Educational Qualifications:
+
+Bachelor of Computer Science from Sri Krishnadevaraya University in
+2006.
+
+Project Experience:
+
+Project #1:
+
+Title		: TAX Allocation.
+
+Role		: Technical Lead.
+
+Technologies	: spring-batch, JPA with Hibernate, ILog JRules(ODM),
+Oracle, XLDeploy, Maven, JUnit, Easy-Mock, Jenkins, sonar.    
+
+Duration	: November 2014 to till date
+
+Description: 
+
+This project is mainly used for calculating Transfer pricing tax for the
+trades happened between the countries. Tax allocation (TA) will receive
+Trading GOP and deals information from the different upstream systems
+and TA will aggregate the data at GOP level and sharing will be
+calculated for all the levels using ODM/ILOG rules. This sharing data
+will be sent to downstream system for reporting purpose.
+
+Responsibilities:
+
+Involved in Architecture design discussion and finalization.
+
+Involved in various brainstorming sessions for the finalizing the
+topics.
+
+Implemented multiple Spring batch jobs (single threaded and
+multithreaded)
+
+Implemented business rules, workflows and rule changes in ILOG/ODM.
+
+Involved in writing SQL queries for spring batch readers.
+
+Involved in Data Model creation.
+
+Independently handled the project releases.
+
+Worked on Agile methodology and continuous delivery level1.
+
+Done the code reviews and taken sessions to the team.
+
+Used XLDeploy, Jenkins, Jira, Sonar tools.
+
+Project #2:
+
+Title		: Sales Credit Program (SCP).
+
+Role		: Technical Lead.
+
+Technologies	: spring-batch, JPA with Hibernate, ILog JRules, Oracle,
+XLDeploy, maven, JUnit, Easy-Mock, Jenkins, sonar.    
+
+Duration	: August 2011 to November 2014
+
+Description: 
+
+Sales credit program (SCP) now popularly known as SCORE has replaced the
+Legacy systems (Odyssey and Eliot sales) is used to calculate the sales
+credit of the trade deals and share the profit and loss to the different
+clients. SCORE mainly contains 3 modules. 
+
+Score Ref: ScoreRef is the entry module in the SCORE where it will
+receive all the data from upstream applications in the form on CSV
+files. Ref will validate the data and compute the sales credit. The
+calculated sales credit along with the deals information will be sent to
+Score allocation for sharing of the sales credit in the form of the JMS
+Message.
+
+Score Allocation: JMS message containing the deal information will be
+received in Score allocation and the sharing of the sales credit will be
+done with the help of ILOG – JRules. Each sharing will be done in the
+form of steps and the information of the steps will be stored in DB.
+
+Score Distribution: Distribution module will generates the extracts by
+making use of Score Ref and Allocation data by applying some processing
+rules and sends these extracts to the clients SFTB.
+
+Responsibilities:
+
+Involved in POC of the distribution project.
+
+Involved in design and development of the distribution project.
+
+Coordinated with business for understanding and documentation of
+business requirements.
+
+Developed healthy code with all probable’s of unit test case coverage
+and maintained good sonar report.
+
+Implemented business rules, workflows and rule changes in ILog JRules.
+
+Implemented critical components like JMX, SFTB, Mail distribution
+services.
+
+Implemented quartz scheduling.
+
+Written integration test cases to test the features during the dev
+phase.
+
+Independently handled the project releases.
+
+Played a major role in performance improvement by tuning SQL Queries.
+
+Taken KT sessions and on boarded all new candidates.
+
+Used DeployIt, Jenkins, Jira, Sonar tools.
+
+Project #3:
+
+Title		: Aon UKECM FileNet Migration.
+
+Role		: Developer.
+
+Technologies	: JSF, ICEfaces, WebServices, WebSphere.
+
+Duration	: April 2011 to August 2011
+
+Client		: AON
+
+Description: 
+
+This project will help’s in migrating the documents from the existing
+Aon UKECM FileNet 3.5 system to FileNet P8 4. The OOTB application,
+WorkplaceXT is to aceess and manipulates document metadata & content.
+
+The workplaceXT is a JSF application and it’s not a customizable one.
+The business requires few features to index the documents &
+functionalities to manage documents which are not available in
+WorkplaceXT. In order to overcome these issues, a custom JSF (ICEFaces)
+application is built to support all the business requirements. The Aon
+UK ECM Custom Indexing Application has Multi-Indexing and Bulk-Indexing
+Screens.
+
+Responsibilities:
+
+Preparing Specs and Design documents.
+
+Building up JSF view’s and action classes.
+
+Reading the data from the XML files using JAXB
+
+Involved in design planning and code reviewing.
+
+Executing test cases.
+
+Project #4: 
+
+Title		: KIAC
+
+Role		: Developer.
+
+Technologies	: Spring, hibernate, EJB, JSF, Junit, Weblogic and Oracle.
+
+ Duration	: March 2010 to April 2011
+
+ Client		: FedEx, USA
+
+Description: 
+
+Key Information Air Cargo (KIAC) an event driven, industry compliant,
+global automated freight shipping system for the 023 air waybill
+products and purchased lift, and provides regulatory manifesting for all
+FedEx products. It is the primary Air Cargo Shipping/Handling system
+within FedEx.  It is responsible for creating and monitoring the Air
+waybills for 023 products. This Project is not the standard development
+of a new system; rather, it is the replacement of an existing system
+(KIAC) which was developed using legacy applications. I played an
+important role in implementing print management, Jobs execution and
+Departure.
+
+Responsibilities:
+
+Preparing Design documents for the Modules.
+
+Worked on generating PDF documents using IText.
+
+Implemented Service, Helper and Dao classes.
+
+Implemented batch jobs using spring.
+
+Implemented Junit Test classes.
+
+Worked on JSF pages.
+
+Project #5: 
+
+ Title		: ThreeJars
+
+ Role		: Developer.
+
+ Technologies	: Spring MVC with Annotations, hibernate, Freemarker,  
+
+  			YUI, JavaScript, Apache Tomcat and MySQL.
+
+ Duration	: July 2008 to March 2010
+
+ Client		: ThreeJars, Norwalk U.S.A
+
+Description: 
+
+Threejars.com is a rich internet based application which helps parents
+to teach their children financial education, the value of money and most
+importantly, how to manage the money. Here the child can
+save/spend/share with their money credited in the form of allowance or
+deposited from their parent. The child can also make some friends and
+see how they are utilizing their money in the form of save/share/spend.
+
+Responsibilities:
+
+Implemented controller, service and Dao classes.
+
+Implemented batch jobs using spring.
+
+Building up views by using Freemarker.
+
+Implemented GUI sliders using YUI.
+
+Developed classes for scheduler Jobs.
+
+Validations are provided using java Script.
+

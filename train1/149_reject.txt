@@ -1,0 +1,284 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                  - 
+3year                                 �
+�              
+
+Spring                  
+                                  - 
+3years                                 
+               
+
+Web
+Services                                
+        - 
+1.5years                                
+                
+
+Core
+Java                                  
+             -  4years
+
+Design
+Patterns                                
+    -    2 years
+
+UML
+design                                 
+          -    
+
+Build Tools (Maven/Ant)                    -   
+Maven   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+             Tomcat
+
+Ok to work with startup
+
+	         
+
+	 				                                       Mobile: +91-8956679759
+
+      Devendra Modem			                                    E-mail:
+devendra.modem@gmail.com
+
+
+
+
+
+Summary of Skills:
+
+Around 4 years of experience in IT industry, specifically in Application
+and Product development using Java and J2EE technologies.
+
+Strong work experience on Spring, Struts, Hibernate and Junit
+frameworks.
+
+Strong experience on Application server such as Web logic and Web
+servers such as Apache 
+
+       Tomcat.
+
+Extensive work experience in Core Java, J2EE technologies, including
+JDBC, Servlets, JSP, 
+
+      Struts, Spring, Hibernate and SOAP and REST Web-Services Clients.
+
+Good Implementation knowledge on MVC design pattern by using Struts and
+Spring frameworks.
+
+Client-side validations using Java Script.
+
+Solid team player with very good interpersonal skills, decision making,
+well organized, resourceful     and committed to quality.
+
+Self-motivated and self-reliant, capable of working alone or as part of
+a team.
+
+Professional Experience:
+
+Currently working as a Sr. Software Engineer in Tech Mahindra Pvt Ltd.,
+Pune from Mach-‘14 to till date.
+
+Worked as a Software Engineer in Cybage Software Pvt Ltd., Pune from
+Dec-‘10 to 28-Feb-2014.
+
+Education Summary:
+
+B.Tech (CSIT) from J.N.T. University, Hyderabad.
+
+Technical Skills:
+
+Java /J2EE Skills	: Core Java, J2EE, Adobe Flex, Action Script, MXML,
+Flex Builder
+
+Frameworks		: Struts, Hibernate, Spring and JUNIT
+
+Data base		: Oracle, SQL Server2005/2008
+
+Internet Technologies	: HTML, Java Script, XML
+
+Tools			: CVS, Mercurial Hg, SVN, ANT, Sikuli
+
+Web/App servers	: Tomcat, Web logic
+
+IDE’S			: Eclipse, My Eclipse
+
+Project Details:
+
+Project #1
+
+Title		:  Unified Portal
+
+Client		:  Megapath Customer Portal, US
+
+Environment	:  Core java, Servlets, JSP, JSTL, Spring, Liferay, Tomcat,
+Web Services.
+
+Operating Systems:  Windows 7
+
+Tools	:  JUnit, Ant, Tortoise svn, Maven
+
+Database	:  Oracle
+
+Designation	:  Sr. Software Engineer
+
+Organization	      :  Tech Mahindra Pvt.Ltd.
+
+Description:
+
+                  MegaPath has identified the need for an excellent
+customer experience for their customer to achieve profit in business.
+
+A unified portal (UP) will be built to realize functionality for
+self-service of customers as well as for agent use in specific areas. 
+
+The proposed functionality of UP comprises:
+
+1.Sales agent screens for quoting and ordering products for SMB and
+enterprise segment
+
+2.Self-service screens for quoting and ordering products for SMB and
+enterprise segment
+
+Roles and Responsibilities:
+
+Analyze the existing application and then development and testing.
+
+Involved in implementation of DAO, Service, View layers using Spring
+MVC.
+
+Involved in implementation of Controllers using Spring MVC.
+
+Involved in implementation of SOAP and REST Web Services Clients.
+
+Involved in implementation of validations.
+
+Involved in Unit Testing and Bug Fixing.
+
+Project #2
+
+Title		:  PROS Revenue Management System – PROS O&D
+
+Client		:  PROS, US
+
+Environment	:  Core java, Flex, OLAP, XML, XSLT, MXML, Action Script and
+Tomcat
+
+Operating Systems:  Windows 7, Unix
+
+Tools	:  JUnit, Ant, Mercurial, CVS
+
+Databases	:  Oracle, SQL Server
+
+Designation	:  Software Engineer
+
+Organization	:  Cybage Software Pvt Ltd.
+
+                        
+
+Description:
+
+                   The highly configurable PROS O&D Solutions™ are
+revenue management tools for the airline industry. They provide
+significant incremental revenue benefits over traditional leg/segment
+solutions. Airlines that implement the PROS O&D solutions have a major
+advantage over competitors with traditional leg-based RM solutions.
+
+PROS O&D solutions provide powerful tools to address airline
+revenue-critical challenges, including:
+
+1.  Aligning the Revenue Management department with the network
+planning, pricing and sales       departments
+
+2.  Maximizing revenue opportunity for major hub-based or
+network-oriented airlines
+
+3.  Determining the optimal fare mix to maximize revenue and yield
+performance
+
+4.  Managing price-availability requests at the point-of-sale level
+
+Roles and Responsibilities:
+
+Analyze the existing application and then development and testing.
+
+Involved in Feature development, testing and bug fixing.
+
+Involved in JUnit Testing.
+
+Involved in coding for database interactions using Hibernate framework.
+
+Involved in migration of database from Oracle to SQL Server.
+
+Involved in SQL Server database schema design, testing and bug fixing.
+
+Estimate the task based on the requirements.
+
+Client communication.
+
+Prepare process related document applicable to the project.
+
+Project #3
+
+Title		:  Health Care Management System
+
+Client		:  Electra Group, US
+
+Environment	:  Core java, Servlets, JSP, JSTL, Struts, Hibernate, Tomcat
+
+Operating Systems:  Windows 7
+
+Tools	:  JUnit, Ant, Tortoise svn, Maven
+
+Database	:  Oracle
+
+Designation	:  Software Engineer
+
+Organization	:  Cybage Software Pvt. Ltd.
+
+                        
+
+Description:
+
+                  This application designed for multispecialty
+hospitals, to cover a wide range of Hospital administration and
+management processes. It is an integrated client server application uses
+Java Struts front-end GUI builder and Oracle as the database. EHMS
+contains Hospital Management system, Clinical and Education as main
+modules. This provides for enquiries about the patient, the patient’s
+location, admission and appointment scheduling, discharge details and
+public relations. Medical colleges, Libraries, Nursing, Optometry,
+Training, Master and residential doctors come under Education module.
+This information kept within a hospital information system (HIS)
+includes sensitive personal data that reveals the most intimate aspects
+of an individual’s life.
+
+Roles and Responsibilities:
+
+Analyze the existing application and then development and testing.
+
+Involved in coding for JSP pages, Form bean classes and Action classes
+in Struts framework.
+
+Involved in validations by using Struts validation framework.
+
+Involved in developing code for Database interactions using Hibernate
+framework.
+
+Involved in GUI screens using JSP and JSTL.
+
+Involved in Unit Testing and Bug Fixing.
+
+Trainings Attended:
+
+2011 - Oracle, SQL Server 2008.
+
+2011 - Unix and Operating system Concepts.
+
+2011 - Introduction to Airline Fare and Fare Loading S6/7.
+

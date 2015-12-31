@@ -1,0 +1,283 @@
+Spring: 1.10
+
+Hib: 2.11 year
+
+5/6/30days
+
+12PM
+
+Chinna Mallesh.B                                                        
+                            Email id:  chinnamalleshboya@gmail.com 
+
+ Banglore                  				                              Mobile
+:+919164474047
+
+Objective : 
+
+Seeking position as an organization contributor and developer in a
+competent and creative environment.  
+
+Experience Summary :   
+
+Presently associated with ConnectM Technology Solutions   Pvt  Ltd  ,
+Banglore  as Software Engineer.
+
+Good exposure in Healthcare,Tele Communication domain.
+
+Extensive experience in web application design using open source 
+frameworks like Struts,Spring.
+
+Worked on different application and web servers like Sun Java System
+Application Server and 
+
+Apache Tomcat , Web Logic.
+
+Extensive experience in Eclipse and NetBeans.
+
+Strong ability to learn, absorb and use new technologies quickly. 
+
+Work Experience:
+
+Working  as a Software Engineer in  ConnectM Technology Solutions  Pvt. 
+Ltd  , Banglore 
+
+from  Sep -2014 to till date(9 months ),
+
+Worked as a Software Engineer in  Bloomedha Info Solutions  Ltd  ,
+Hyderabad 
+
+from  Jul -2012  Jul -2014(2 .1 years).
+
+Technical Skills:
+
+              Programming Language	:   Java/J2EE
+
+              Web Technologies           	:   JDBC, Servlets and JSP
+
+        	Framework	            	:   Struts -1.x,
+Struts-2.x,Spring(Core,IOC,DAO,MVC), Hibernate
+
+	Scripting Language      	:   Java Script
+
+	Web Design		:   HTML
+
+               Reporting Tool                  :   Birt Report, Jasper
+Report
+
+	Database		:  Oracle, MySQL
+
+	Servers		              :  Apache Tomcat, Sun Java System Application
+Server, Web Logic
+
+	IDE and Tools		:   Eclipse, Net Beans
+
+ 	Operating Systems	:  Windows 2000/XP
+
+	Data Retrieval API	:  Lucene
+
+	Version Control		:  uberSVN	
+
+Academic Profile:
+
+MCA (Master of Computer Applications) from JNTU,Hyderabad,AP with 76%.
+
+Project 1:
+
+Title		       :	  Volunteer Management System (VMS)
+
+Clients		       : 	  Lifesan Clinical Research, Mumbai
+
+			  Micro therapeutic Research Labs Pvt Ltd, Chennai
+
+Environment	       :	  Java 1.6, JSP, Struts 2.x,Hibernate 3
+
+Application Server    :         Web Logic
+
+Database	       : 	  MySQL
+
+Duration	     	       :	 Sep 2014 to Till Date  
+
+Description: 
+
+		Volunteer Management System (VMS) is tool that would enable the
+Clinical Research division to gather volunteer information, check the
+validity and  integrity of the data and store them for future use. It is
+a tool that allows Volunteer Registration, tracking, matching,
+scheduling and reporting. It is also a Data Management Tool for study
+administrators to manage clinical data for a new drug, define protocols,
+and manage study participants (volunteers), schedule participant
+appointments.
+
+		This tool will enable the department to handle volumes of data with
+ease and hence manage information more efficiently. The tool is based on
+biometrics (fingerprint) and personal photograph for volunteer
+identification and management. Biometric Scanner and Web cam are
+integrated into the system.
+
+Responsibility: 
+
+Involved in Developing the Modules like Registration (Finger Print),
+Study, Audit Trail.
+
+Participated Requirements Analysis with product and business teams to
+understand the requirements.
+
+Coded and developed business applications based on requirement from
+marketing team using Core Java, Java2 Enterprise Edition (J2EE)
+components, Struts 2.x, AJAX and MySQL, Multi-Threading.
+
+Provided support to product management team while demo of functionality.
+
+Generate Dynamic reports using Jasper Reporting tool.
+
+Review codes to identify any basic errors.
+
+Written Unit test cases and validate QA functional test cases for all
+scenarios.
+
+Provided fixes/support issues raised by QA team on the delivered items
+during functional and integration testing.
+
+Project 2:
+
+Title		       :	  ATM Remote Monitoring System
+
+Clients		       : 	  Nelco Limited, Mumbai
+
+Environment	       :	  Java, Servelets,JSP, Spring,Hibernate
+
+Application Server    :         JBoss Application Server
+
+Database	       : 	  MySQL
+
+Data Retrieval           :	  Lucene
+
+Duration	     	       :	 Jan  2014 to Jul 2014
+
+Description: 
+
+                       ATM Remote Monitoring System is designed to help
+infrastructure management companies to reduce their operational expenses
+and improve security and safety of the ATM site or Banks. The solution
+also provides intelligent control of energy assets (ac, ups and battery)
+to save wasted energy.
+
+                     Bank management people can remotely track and
+monitor ATM’s and bank branches on security,performance by using this
+application.Main modules in this system are live dashboard, energy
+dashboard, alarm monitoring, asset management, ticketing and issue
+tracking system, video monitoring and auto report delivery and
+analytics.
+
+Responsibility: 
+
+Involved in Developing the Modules like Admin, Reports,Templates .
+
+Coded and developed business applications based on requirement from
+marketing team using Core Java, Java2 Enterprise Edition (J2EE)
+components, Spring.
+
+Participated Requirements Analysis with business teams to understand the
+requirements.
+
+Coded and developed business applications based on requirement.
+
+Generate Live Dashboard using Jasper Reporting tool.
+
+Project  3:
+
+Title		:	Lab IT
+
+Client		:	Vimta Labs Limited, Hyderabad
+
+Environment	:	Struts 1.3, JSP, Servlets,Tomcat 6
+
+Database	:	Oracle
+
+Duration		: 	Mar  2013  to  Dec  2013
+
+Description      
+
+		  
+
+             Lab IT is a laboratory information tracking system to
+automate sample management and tracking activities to ensure data
+integrity throughout the laboratory testing cycle.  Independent
+activities like sample registration, barcode management, laboratory
+activities, QA review, report generations are tightly integrated to
+ensure sample visibility at any particular point in time. The solution
+is customizable to any industry that has sample processing activity as
+part of their services.
+
+Responsibility: 
+
+Involved in coding part of the application development using Struts.
+
+Involved in design and coding part of this application .
+
+Performed unit and functionality testing.
+
+Project  4:
+
+Title		         :  	 Sentinel
+
+Client		         : 	 GVK Biosciences, Hyderabad
+
+Environment	         :   	J2SE, JSP, Servlets, Struts 1.3,Hibernate	
+
+Application Server	 : 	Sun Java System Application Server
+
+Database	         :  	MySQL
+
+Duration	     	         : 	Jul 2012 to Feb 2013
+
+Description:
+
+	 	 
+
+Sentinel is a web based application is to maintain a centralized
+repository of information related to pharmaceutical and will keep track
+of Volunteer’s participation in studies related to Clinical Research.
+The system thus enables CRO’s to track Volunteer’s cross
+participation, if practiced, by a volunteer or a group of volunteers.
+Volunteer’s fingerprint forms the basis of identification of all the
+relevant details related to volunteer’s participating in studies
+across CRO’s. This user manual describes the system features and their
+functionality in detail. Volunteer is registered fingerprint based
+biometrics in global which is registered in This Organization. 
+
+Responsibility: 
+
+Involved in Developing the Modules like Enrollment, Audit Trail,
+Reports.
+
+Developed JSP pages in STRUTS framework
+
+Involved in design and coding part of this application
+
+Performed unit and functionality testing.
+
+					
+
+Personal Details:
+
+Father Name			:	B.Thimmappa
+
+Permanent Address		:	H.No:1-160, Gundrevula, C.Belagal,
+
+                                                          	Kurnool
+(Dist), AndhraPradesh-518462		
+
+Data of Birth			:	03-06-1986	
+
+Marital Status 	           		:	Married
+
+Languages Known		:	English,Telugu	
+
+Declaration:  
+
+I  hereby declare that the above stated information is true to the best
+of my knowledge. 
+
+Place: Banglore.						     
+

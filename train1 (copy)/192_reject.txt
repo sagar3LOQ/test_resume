@@ -1,0 +1,422 @@
+Professional Summary
+
+Over 8 years and 6 months of relevant expertise in JAVA, J2EE
+technologies, web architecture design and implementation with J2EE
+framework, Integrating J2EE apps with back end systems
+
+Have designed, developed applications using various frameworks like
+Struts MVC.
+
+Have extensively worked in UI Projects involving technologies JQuery,
+JSON, HTML5, CSS3, etc. 
+
+Have lead development teams in many successful projects
+
+Have extensively worked in Multi-Threaded concurrent applications.
+
+Played various roles in onsite-offshore model projects – offshore
+developer, offshore Project lead, offshore coordinator.
+
+Well versed in Object Oriented techniques, Application server’s
+configuration, and JAVA Design Patterns.
+
+Have good working knowledge of JAVA Design Patterns.
+
+Have good domain knowledge on Financial Markets. 
+
+Effectively implemented software-engineering concepts for several
+prestigious projects.
+
+Well versed with CMM L5 processes – requirements and change
+management, configuration management, software lifecycle and product
+quality, review process, process improvement and implementing best
+practices.
+
+Have good inter personal, communication and presentation skills.
+
+Have working experience in Investment Bank.
+
+Have 4 years of working knowledge in Equities Technologies (Client
+Connectivity, Electronic Execution Systems etc.) 
+
+Well versed in integrating JAVA Application with Continuous Integration
+System Build Server (Jenkins).
+
+Professional Experience
+
+Working as Assistant Vice President (AVP) for Citicorp Services India
+Limited, Pune since April 2013.
+
+Worked as Technical Lead for HCL Technologies Ltd. Bangalore from
+January 2007 to April 2013.
+
+Educational Qualification
+
+M.Tech Post Graudate in Computer Science & Engineering from Rajiv Gandhi
+Technological University, Bhopal.
+
+B.Tech Graduation in Computer Science & Engineering from Osmania
+University, Hyderabad.
+
+Passport No.:	G2275832
+
+Expertise in Operating System / Tools & Technology / Languages, etc
+Operating System – Windows ‘95/98/2000/NT/XP, Linux, Solaris 
+
+	Tools and Technology – Eclipse Ganymede, Perforce, PMD, Aqua Studio,
+Rapid SQL, Agile/SDLC, GIT, Rational Clear Case
+
+	Languages- JAVA, Java Multi-Threading, Collections,  J2EE, Struts
+Framework, Spring Framework, JMS, JDBC 3.0, HTML5, CSS3,  XML, 
+Hibernate, AJAX, JSON, JQUERY, JTEMPLATE
+
+	Application Servers - Weblogic 10.3.3,  WASCE 3.0, Tomcat 7
+
+	Version Control Systems – GIT, Perforce, Rational ClearCase
+
+	Continuous Integration - Jenkins
+
+	Database – Sybase, Oracle
+
+Certifications	Sun Certified Java Programmer (SCJP 5.0)
+
+National Certification in Financial Markets (NCFM)
+
+
+
+Summary of Projects Experience with different Clients
+
+Employer Name	Roles & Responsibilities	Tenure of association with the
+company
+
+Organization Name: Citicorp Services India Limited.
+
+	Project : Customer Configuration Manager
+
+The Customer Configuration Management (CCM) web tool provides users the
+ability to create and manage customer configurations for a variety of
+electronic trading activities. It is an On-boarding Process for the
+customer who wants to trade through different channels across the
+various Stock Exchanges. The Local Support groups authorize the request
+and enable the customer for trading .This tool gives the user the
+ability to manage changing requirements through extensive request
+editing and control. The tool also has ability to support real-time
+updates, and many adhoc functions.
+
+Roles & Responsibilities :
+
+Involved in rolling out deliverable products to the production.
+
+Involved in collecting the requirements from the business users of the
+application globally.
+
+Proactively involved in the design, coding and the unit testing of the
+project requirements.
+
+Involved in the code-reviews.
+
+Co-ordinates with the QA Team for quality assessment.
+
+Provides production support for the application globally.
+
+Updates the status and team productivity metrics to the senior
+management.
+
+Responsible for meeting the development maturity standards for the
+projects.
+
+Executed Successful projects like GFCID Automation, Application modules
+Revamp, Global Risk Checks.
+
+Addressing regular and Ad-hoc BAU requirements.
+
+Tools and Technology used: 
+
+JAVA 6,   Java Multi-Threading, Collections, Servlets, XML, Hibernate,
+JMS, Spring 3.0, JavaScript, AJAX, JSON, JQUERY, HTML5, CSS3, JTEMPLATE,
+Sybase.
+
+Duration:  Till Date
+
+	April 2013 to Till Date.
+
+ Organization Name:  HCL Technologies Ltd.
+
+Client:  Citi Group	Project :  Global Real-time Alerts
+
+The Objective of this project is to provide real-time feedback over
+multiple distribution mechanisms (Email, IB, IM, Text, etc) upon
+significant events either in the market (stock price move, index move,
+and unusual stock volume) or with the specific order behavior (execution
+performance, benchmark slippage).
+
+The Customer Configuration Manager Application will be used to setup
+Clients and their associated preferences, thresholds for generation of
+these alerts. 
+
+Roles and responsibilities:  
+
+Involved in the requirement study, design, development and Testing
+Strategy
+
+Involved in collecting other Adhoc Maintenance Requests and Enhancement
+Requests from Business users.
+
+Assigning modules to developers in the team
+
+Performing Code Review.
+
+Involved in the Unit Testing and supporting Quality Assurance testing.
+
+Involved in defects fixing and updating the Quality Testing team on the
+defects status.
+
+Updating project status to client regularly
+
+Release Notes preparation and deployments across different regions and
+environments.
+
+Tools and Technology used: 
+
+JAVA 6, Spring 3.0,  Servlets, JSP, XML, Hibernate, JMS, JavaScript,
+AJAX, DOJO, Sybase, DNA API.
+
+Duration: 9 Months
+
+	 01/05/2012 –10/02/2013
+
+ Organization Name:  HCL Technologies Ltd.
+
+Client:  Citi Group	Project :  CFORE System Events
+
+CFore (Client Connectivity FIX Order Routing Engine) is a trading
+platform system used by Citi Traders who trade on behalf of
+institutional investors.  
+
+The purpose of this project is to support various CFORE system Events
+like Stop/Resume Trading , System Level Refresh, Skip Light house check
+from CCM. Based on the events received from CCM, CFORE system will
+accordingly executes the client orders.
+
+Roles and responsibilities:  
+
+Involved in the requirement study, design, development and Testing
+Strategy.
+
+Involved in collecting other Adhoc  Maintenance Requests and Enhancement
+Requests from Business users.
+
+Assigning modules to developers in the team.
+
+Performing Code Review.
+
+Involved in the Unit Testing and supporting Quality Assurance testing.
+
+Involved in defects fixing and updating the Quality Testing team on the
+defects status.
+
+Updating project status to client regularly.
+
+Release Notes preparation and deployments across different regions and
+environments
+
+Tools and Technology used: 
+
+JAVA 6,   Servlets, JSP, XML, Hibernate, Spring 3.0 ,JMS, JavaScript,
+AJAX, DOJO, Sybase.
+
+Duration: 6 Months
+
+	 14/10/2011 –11/04/2012
+
+ Organization Name:  HCL Technologies Ltd.
+
+Client:  Citi Group	Project :  CCM Migration 
+
+The scope of this project is to migrate the deployment of CCM from
+Solaris machines to Linux machines and migrate the Application Server
+from JRun version 4 to Websphere Application Server Community Edition
+version 2.1.1.4 . This involves the change in the build, deployment, and
+installation of the new version CCM application.
+
+The current version of CCM is hosted on Solaris machines and due to the
+EOL of the Solaris, the new version of the CCM will be hosted on Linux
+machines. The current Application Server JRun 4.0 will be replaced by
+WASCE 2.1.1.4 in order to provide premium clustering, Caching and
+messaging. 
+
+Roles and responsibilities:  
+
+Involved in the requirement study, design, development and Testing
+Strategy
+
+Involved in the Analysis and studying of various Application Server and
+presented client the synopsis of best Application server suited for CCM.
+
+Assigning modules to various developers
+
+Making necessary code changes to make build compatible to new
+Application Server.
+
+Testing and Code review
+
+Release Notes preparation and deployments.
+
+Tools and Technology used: 
+
+JAVA 6,   Servlets, JSP, XML, Hibernate, JMS, JavaScript, AJAX, DOJO,
+Sybase.
+
+Duration: 8 Months	 18/01/2011 – 10/09/2011
+
+ Organization Name:  HCL Technologies Ltd.
+
+Client:  Citi Group	Project : GCPM-CCM Integration
+
+This project is an integration of two different applications GCPM and
+CCM. The integration work is for On-boarding the new clients and
+updating the existing client details through real-time in fix farm
+database. The GCPM is a global single instance application, which
+collects clients’ data to trade in various products like CASH, DMA,
+DSA etc., across various stock exchanges and sends it to the CCM with
+client and product details to create that client in fix farm database
+thus completing the on-boarding process of client.  
+
+Roles and responsibilities: 
+
+Involved in the requirement study, design, development and Testing
+Strategy
+
+Assigning modules to various developers
+
+Developing middle tier components for Business Logic implementation. 
+
+Developing code for data access using Hibernate
+
+Testing and Code review
+
+Release Notes preparation and deployments.
+
+Tools and Technology used: 
+
+JAVA 5,   Servlets, JSP, XML, Hibernate, JMS, JavaScript, AJAX, DOJO,
+Sybase.
+
+Duration: 6 months
+
+	 05/07/2010 –24/12/2010 
+
+ Organization Name:  HCL Technologies Ltd.
+
+Client:  Citi Bank	Project : Citi Easy Pay
+
+Easy Pay is a whole cash management system for City customers. Easy Pay
+is a Citibank product that facilitates consumers to pay their utility
+bills through the medium of ‘Bill Payments Machines’ (BPM) and
+‘Drop Boxes’ termed as ‘Kiosks’ that are placed at various
+locations for clients.  The operation of Easy Pay is handled by e-Serve,
+which is an affiliate of Citibank. E-Serve handles the Cheque and Cash
+Processing of utility payments made via the BPM’s and Drop Boxes
+placed at various locations for its clients.
+
+Roles and responsibilities: 
+
+As a key developer involved in design, coding, unit testing and
+deployment of the project
+
+Involved in supporting the release process in terms of building
+Application Kits, Database kits and Release Instructions Preparation
+
+Implemented Audit Log for the entire application
+
+Implemented Pagination for the entire application
+
+Involved in the WEB CL Integration process for the application
+
+Provided technical fixes for the defects raised during SIT Process
+
+Tools and Technology used: 
+
+JAVA 5, Servlets, JSP, XML, JavaScript, AJAX, Oracle.
+
+Duration: 7 months 
+
+	 06/01/2009 –30/06/2010
+
+ Organization Name:  HCL Technologies Ltd.
+
+Client:  BT Financial Group	Project : BT Online
+
+The BTOnline application is the premier web contact and provides
+platform for BT’s Margin Lending, Corporate Super and Private
+Investment division clients. Secure login sites are provided for retail,
+margin lending, corporate super and private investment division clients
+to provide account information including balances, reports, perform
+transactions, view unit prices and facilitates to set up Regular
+Investment Plans.  
+
+Roles and responsibilities: 
+
+Involved in BAU (Business-as-Usual) Work as a key developer. 
+
+Involved in many projects like Migration project, Margin lending prepaid
+calculator project as a key lead developer.
+
+Assigning tasks to developers and updating status to client.
+
+Involved in supporting the Production release process in terms of
+building Web Kits, Database kits and Release Instructions Preparation.
+
+Executed successfully projects like Genghis to Teros Migration, BT Funds
+Administration.
+
+Tools and Technology used: 
+
+JAVA 5, Servlets, JSP, XML, XSLT, Web Services, JavaScript, AJAX, Sybase
+
+Duration:  18 months 
+
+	 02/08/2007 – 30/12/2008
+
+ Organization Name:  HCL Technologies Ltd.
+
+Client:  BT Financial Group	Project : BT WRAP
+
+ 
+
+BT Wrap, the exciting product was the first of its kind in Australia. 
+Wrap took all back office function like business accounting,
+settlements, reconciliation’s, resolutions and broking and put it
+together on the Internet. This new product allows adviser to purchase
+managed funds and shares in the one place. It provides consolidated
+reporting. Potential to save heaps and heaps of time and improve
+efficiency.
+
+Roles and responsibilities: 
+
+As a developer responsible to provide business solutions for any
+enhancement request or production incidents raised in order to run the
+business as usual.
+
+As a key developer involved in the impact analysis of Xalan-Xerces
+Library changes.
+
+Involved in supporting the Production release process in terms of
+building Web Kits, Database kits and Release Instructions Preparation
+
+Tools and Technology used: 
+
+JAVA 5, Servlets, JSP, XML, XSLT, Web Services, JavaScript, AJAX, Sybase
+
+Duration: 6 months 
+
+	01/02/2007   -  18/07/2007  
+
+
+
+Recommended by GlobalHunt India.		.
+
+Contact: 8527653300
+
+E-mail: recruitment30@globalhunt.in
+

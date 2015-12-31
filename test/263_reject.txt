@@ -1,0 +1,482 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+               -  6 month
+&current                                
+               
+
+Spring                  
+                               -  6
+months&current                             
+                   
+
+Web
+Services                                
+       -  no
+handon                                 
+               
+
+Core
+Java                                  
+             -  4.3 years
+
+Design
+Patterns                                
+    -   used design pattern  
+
+UML
+design                                 
+          -    no
+
+Build Tools (Maven/Ant)                    -   
+maven/ant   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Eclipse/weblogic
+
+					Resume
+
+						    Name : Naveen Kumar G
+
+						     e-mail:naveen11.12.89@gmail.com
+
+						     Contact No: 8099944982
+
+Summary
+
+BE (Electronics & Communications) from Chaitanya Bharathi Institute of
+Technology (CBIT) with around 4.4 years of IT experience.
+
+   
+
+Banking and Credit Card Domain Experience along with the experience in
+automotive domain.
+
+Experience in core to software development, Production issue Fixes,
+maintenance and production support using Java & J2EE.
+
+Thorough working knowledge with Software Development tools: Java, JDBC,
+J2EE, Servlets, JSP, Java Script, Struts 1.x & Web logic 11g, Log4j.
+
+Have good Knowledge on Hibernate, Spring. 
+
+Experience in leading life cycle projects through Requirement gathering,
+Designing, Developing, Integrating and Testing applications using
+advanced technologies in business engineering environment
+
+A self-starter willing to tackle new and challenging problems and able
+to work in a fast-paced environment.
+
+Has the motivation to take independent responsibility as well as ability
+to contribute and be a productive team player.
+
+Good analytical and problem solving skills and willingness to learn new
+    domain and technologies.
+
+Education
+
+AWARD	NAME OF THE INSTITUTE	YEAR OF PASSING	PERCENTAGE OF MARKS
+
+BE	CBIT(O.U)	2010	78.6
+
+INTERMEDIATE	ALPHORES JR COLLEGE	2006	96.8
+
+SSC	ZPHS SHANIGARAM	2004	89.66
+
+
+
+EAMCET RANK	:							1663
+
+Professional Experience
+
+Worked with Birla Soft Hyderabad, as a Software Engineer since
+July 2010 to July 2013
+
+Working with Accenture, As Software Engineer since July 2013 to
+till date.
+
+Technical Skills
+
+Java technologies	  :   JDBC, Servlets, JSP,  Log4j
+
+Languages	  :   Java, SQL
+
+RDBMS	  :   Oracle9i
+
+Web technologies	  :   HTML and JavaScript.
+
+IDE/Other Tools	  :   Eclipse, Edit plus.
+
+Operating systems	  :   Windows 9x &2k 
+
+Servers	  :   Web logic 9.2 & 11g, Tomcat.
+
+Frame work               	  :   Struts 1.x, Hibernate, Spring
+
+Quality Tool	  :   Quality Center
+
+Configuration Tools	  :   CVS
+
+Achievements
+
+Appreciated multiple times by business for my efficiency in coding.
+
+Stepped in as an Associate S/w Engineer in Birla soft and started
+working on one of the most critical and important applications by name
+GE, Workstation. Slowly mastered in the Workstation and grown to the
+level wherein I could independently handle critical use cases and has
+become one of the critical application members and have got many
+appreciations from the client.
+
+Could successfully handle the business (Customers) and build the trust
+in the client that BIRLASOFT team can handle their needs and grabbed few
+of the work requests in the project.
+
+Projects Handled
+
+Career Profile (starting from the most recently executed):
+
+1) BMW–SAO (BMW, Germany)		                          Sept-2014 to till
+today
+
+Organization: Accenture
+
+Team Size: 5 
+
+Description:
+
+SAO project is the IT support project for the BMW vehicle management. It
+includes applications for Ordering vehicles and spare parts, dealing
+with models and configurations, warranty systems.
+
+We are part of ordering application. It’s called as IVS-R. It’s
+basically an application where user orders the vehicles and deals with
+customer Information, modifying the orders and vehicles, transferring
+between dealers, managing dealers etc.
+
+It’s a development and enhancement project and below are the roles and
+responsibilities of the team
+
+Roles and Responsibilities:
+
+Responsible for working with team, vendors and other business partners
+and make sure that all area of the release is properly managed
+
+Requirement gathering for changes or add-ons.
+
+Make sure that all the deliverables are in line with production.
+
+Involved in the business analyst calls for requirements freezing.
+
+Writing Technical Approach as per requirements and getting them signed
+off from clients
+
+Writing Technical Design Document based on the requirement provided by
+the client and getting signoff from client.
+
+Developed Action Classes, DAO and JSP pages for the relative modules.
+
+Interaction with the other teams - Testing team, Middleware team etc.
+
+Finding the root cause of the problem and solving it.
+
+Helping maintenance team in finding out the solution by debugging the
+code
+
+Achievements:
+
+Appreciated multiple times by business for my efficiency in coding.
+
+Started working on one of the most critical and important applications
+by name IVS-R,BMW. Slowly mastered in the SAO and grown to the level
+wherein I could independently handle critical use cases and has become
+one of the critical application members and have got many appreciations
+from the client.
+
+Could successfully handle the business (Customers) and build the trust
+in the client that ACCENTURE team can handle their needs and grabbed few
+of the work requests in the project.
+
+Environment: 
+
+Software: Java/JSP, Struts, Hibernate
+
+Database: Oracle 9i
+
+Tools: Eclipse, Web Logic, Edit Plus, DB2
+
+2) GE – Workstation (GE Money, USA)		         July-2010 to till
+July-2014
+
+Organization: Birlasoft
+
+Team Size: 130 
+
+Description:
+
+GE - Workstation is a Call Center Application. This application provides
+service for credit card holders of Clients such as Wal-Mart, JC Penney
+etc. who have been financed by GE. It supports the credit cards issued
+by the giant shopping malls (around 1250 clients) in US, Canada and
+Mexico. In addition, certain non-GE financed credit cards are also
+serviced through the GE call centers. 
+
+This project is broadly classified into customer collection and customer
+service. Customer collection deals with the collection of money from the
+customer. Customer service deals all the activities that are handled at
+the workstation (call centre) to serve the customer requests. Customer
+related data is on mainframes and client information and the business
+rules are on oracle databases. Apollo workstation application and the
+mainframes are connected with the 3rd party application (Mercator). 
+
+The GE call center Agent uses the application for receiving queries from
+credit card holders (Primary, Co-Primary, Authorized users etc.) based
+on the details provided and responds to the same by checking the
+information with the Workstation application. The details given by
+Cardholder are verified and only after verification is completed CSR
+provides relevant information for getting customer requests processed.
+In addition, work requests or change controls can be raised by
+prospective customers for information that will be serviced by queuing
+the requests and service later by using workflow management.
+
+Role & Responsibility:
+
+As a Software Engineer, I am responsible for
+
+Working with the Business / Business Analysts to understand the
+requirements and use it to create technical solutions for the
+application with the technical team.
+
+Programming JDBC connectivity and interaction with middleware (Mercator
+tool).
+
+Designing layout and coding front-end using jsp
+
+JavaScript and HTML for client side scripting 
+
+Used Web Logic as application server for deployment
+
+Providing estimates for the Work requests in the module and getting
+client approvals.
+
+Preparation / Review of the Technical Design documents and client
+sign-off.
+
+Provide technical guidance to the team for development as well as
+support issues during testing and resolving the bugs/issues encountered.
+
+Interaction with the other teams - Testing team, Infra-Team (support
+services), Run team (Production support), Middleware team etc.
+
+Participated in the verification and validation and quality assurance.
+
+Worked on different API’s for the interaction of application and 3rd
+party system.
+
+Even worked as a Business Analyst for some of the work requests and
+worked on requirements gathering and prepared Business requirements
+document and Functional design document.
+
+Worked as a tester for little duration on telephony use case and
+prepared test cases also.
+
+Achievements:
+
+Appreciated multiple times by for my efficiency in coding
+
+Started working as an ASE in one of the most critical and important
+applications by name GE Workstation. Slowly mastered in the coding
+technologies and grown to the level wherein I could independently handle
+critical releases and has become one of the critical application members
+and have got many appreciations from the client.
+
+Environment: 
+
+Software: Java/JSP, Struts, Middleware.
+
+Database: Oracle 9i 
+
+Tools: Eclipse, Web Logic, Edit Plus, SQL developer, Mercator, ODS
+
+-
+
+0
+
+5
+
+<
+
+=
+
+>
+
+D
+
+H
+
+L
+
+M
+
+O
+
+]
+
+^
+
+i
+
+k
+
+l
+
+p
+
+~
+
+‰
+
+”
+
+ 
+
+ª
+
+«
+
+¬
+
+´
+
+µ
+
+h{
+
+-
+
+/
+
+0
+
+<
+
+=
+
+>
+
+^
+
+‰
+
+«
+
+¬
+
+´
+
+␃ഃ׆Ā֠愀̤摧ྜ}
+
+␃༃梄币梄愁̤摧᫆Nഀµ
+
+Ö
+
+Ü
+
+ü
+
+
+
+h"m
+
+h{
+
+h{
+
+L
+
+V
+
+X
+
+\
+
+^
+
+r
+
+y
+
+€
+
+„
+
+…
+
+‡
+
+”
+
+›
+
+œ
+
+ž
+
+´
+
+¾
+
+h"m
+
+¾
+
+Ç
+
+È
+
+É
+
+Ê
+
+h{
+
+h{
+
+h{
+
+h"m
+
+愀̤摧᫆N
+
+h{
+
+␃愃̤摧᫆N
+
+␃༃킄市킄愂̤摧系@
+
+̤̀☊ଁࡆഀ׆Ā܈愆̤摧䳹¡
+
+̤̀☊ଁࡆ愀̤摧䳹¡
+
+h{
+
+h{
+
+␃愃̤
+
+␃⨃$␱㔁Ĥ␷㠀$⑈愀̤摧壴÷
+̤̀☊଀ె⨀$␱㔁Ĥ␷㠀$⑈愀̤摧壴÷ᄀPersonal Profile
+
+Date of Birth  		:	August 11th, 1989
+
+Martial Status		:	Single
+
+Nationality			:	Indian	
+
+					
+
+	
+

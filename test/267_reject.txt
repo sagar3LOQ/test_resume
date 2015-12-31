@@ -1,0 +1,512 @@
+MR. RATNAKER KATIPALLY
+
+Mob no: +918099905149						  HYPERLINK "mailto:ratnakar.class@gmail.com"
+ratnakar.class@gmail.com 
+
+OBJECTIVE
+
+Looking for an opportunity to take up challenging responsibilities as
+Technical Architect .
+
+ 
+
+EXPERIENCE SUMMARY
+
+Around 10 Years of strong IT experience in requirement analysis, design
+and development of enterprise N-tier applications using Java, J2EE
+technologies.
+
+Functional experience spread across in Cloud (Openstack), Investment
+Banking, Financial and Telecom domains.
+
+Drafted the problem statements and designed solutions to problems.
+
+Analyzed the requirements, estimated, designed efficient solutions and
+developed applications.
+
+Very strong in Core Java worked with various data structures and
+designed and developed products run in multithreaded environment.
+
+Very strong in both Java associated design patterns and generic design
+patterns.
+
+Proficient in developing various server side applications using Core
+Java 1.6, Servlets/JSP, Webservices, RESTful, XML, Python.
+
+Developed Network management systems (NMS / EMS) using SNMP, TL1. 
+
+Experienced in using Java associated frameworks Struts, Spring 3.1,
+Hibernate 3.2.
+
+Experienced in using web/application servers. Ex Tomcat, weblogic and
+WSGI.
+
+Quick learner of the new technologies (Proven in my past experience as
+it contains various technologies in various projects), have team leading
+skills and good time management skills.
+
+Working with Android 4.4 to develop informative mobile apps. (Sworoscope
+on playstore)
+
+Published an article regarding backup and recovery on ip.com
+
+Proven as technical lead and individual contributor.
+
+QUALIFICATION
+
+Bachelor of Technology in Computer Science and Engineering from VREC,
+affiliated to Jawaharlal Nehru Technological University, Hyderabad,
+2004.
+
+TECHNICAL SUMMARY
+
+Programming Languages		: Core Java, J2ee, SQL 
+
+Web Technologies        			: Servlets, JSP, HTML, AJAX, XML, 
+
+  Webservices, RESTful, NodeJs
+
+Databases			 	: Oracle 10g, MySQL, SQLServer 2005, DB2
+
+Frameworks		 		: Struts 1.2, Spring 3.1, Hibernate 3.2
+
+Scripting Technologies			: Javascript, ANT, UNIX sh
+
+Application/web Servers	 	: WebLogic 9, Tomcat 5.5
+
+Operating Systems			: Windows, Linux, Unix, Solaris
+
+Telecom Technologies			: NMS/EMS, SNMP, TL1
+
+Mobile Technologies			: Android 4.4
+
+IDE’s					: Eclipse 3.4 
+
+Versioning tools			: CVS, SVN, GIT
+
+WORK HISTORY
+
+BLOGS AND INNOVATION
+
+Published an innovation article on 'backup and recovery' on ip.com
+http://priorart.ip.com/IPCOM/000237492D
+
+Blog post regarding PowerVC remote restart on ibm developer works.
+
+	  HYPERLINK "https://ibm.biz/pvcrrdd" https://ibm.biz/pvcrrdd 
+
+Participated and presented poster in IBM Regional Technical Exchange.
+
+Contributing to openstack community.
+
+Developed an android app with personal interest (Sworoscope).
+
+PROJECT DETAILS
+
+8. Project – PowerVC(Enterprise cloud systems)
+
+Organization	:	IBM India Software Labs
+
+	Designation	:	Staff Software Engineer
+
+	Period	:	Dec 2012 – Till Date
+
+	Technology	:	Java 1.6, J2EE, HTML, JS (DOJO), Python, Openstack 
+
+
+
+:	Eclipse 3.2  -
+
+	Team Size	:	15 +
+
+	Role	:	Design, Development, Enabling resources to proceed with Dev and
+testing.
+
+	Project Description	:	With IBM PowerVC, You can perform common public
+or private cloud operations such as: Provisioning and de-provisioning
+servers, Drafting and cloning workloads , Capturing workloads , Starting
+and stopping servers as part of a workload , Resizing existing servers.
+A flagship product for IBM in cloud, developed using openstack.
+
+	Role and Responsibilities	:	Proposing new solutions, implementing PoCs,
+writing design documents after the PoC approval and moving on to design
+and development.
+
+Implemented compute drivers for PowerVC IVM, HMC, KVM and NovaLink
+hosts. Took ownership of Onboarding, Live partition migration, Remote
+restart  functionalities apart from deploy, resize and VM specific
+operations.
+
+	
+
+7. Project – WealthStation-Trading (Formerly Automated Financial
+System)
+
+Organization	:	SUNGARD
+
+	Designation	:	Senior Engineer – Product Development
+
+	Customers	:	RBC, USBI, Mesirow,  HDVest, StockCross, SAL etc.
+
+	Period	:	Oct 2009 – Dec 2012
+
+	Databases	:	MS SQL Server 2005
+
+	Technology	:	Java 1.5, J2EE, Web services, Spring 3.2, HTML, JS, Jasper
+
+
+
+:	Tomcat 5.5, Eclipse 3.2, SVN
+
+	Team Size	:	10
+
+	Role	:	Design, Development
+
+	Project Description	:	WealthStation-Trading(Formerly AFS) is a leading
+front-office solution provider in the Investment Banking domain. AFS
+solutions deliver advanced functionality such as trading, electronic
+account opening, portfolio rebalancing and basket trading through
+browser based interface. AFS solutions can be integrated with majority
+back-offices (Phase3, ADP, BETA, SIS etc.) and market-data vendors. 
+
+	Role description:
+
+Gathering the requirements from client. Analyzing, estimating and
+designing solutions. Developing with Java associated technologies.
+Customizing the product to RBC, USBI and various clients. Successfully
+handled the design and development of PDFreport generation API using
+dynamic Jasper to Mesirow. Designed and developed Basket trading module
+for RBC. Handled the BCD module for USBI. Provided various features  to
+different clients. Worked with technologies Java 1.5, Servlets, JSP’s,
+Spring, HTML, AJAX, JavaScript, C++, Web services using Axis. Understood
+the complexity of various financial protocols as our product deals with
+most critical TRADING. Efficient algorithms for multiple financial
+calculations of different reports. Designed and Developed web services
+for the utilizing the data service with PLAID backoffice. Scrum master
+while working for client Mesirow. 
+
+6. Project – Merck-Univadis
+
+		Organization		:	Cognizant Technology Solutions.
+
+		Client		:	Merck
+
+		Role			:	Senior Java/j2ee Developer
+
+		Duration		:	Jan-2009 to Jul-2009
+
+		Team Size		:	13
+
+     Technical Environment:	
+
+Operating System	- UNIX, Windows
+
+Technologies		- Core Java 1.5, j2ee, WebServices, Struts 1.2, Hibernate
+3.2. 
+
+RDBMS			- Oracle 10g
+
+Application Servers	- Weblogic 9, Apache Tomcat 5.5
+
+IDE			- Eclipse 3.4.  
+
+			Config. Mgmt.		- CVS
+
+			CMS 			- Tibco portal builder and LDAP
+
+  HYPERLINK "http://www.univadis.com/" www.univadis.com  is a no 1
+healthcare website in Europe, Canada and USA. It was developed using
+Java, j2ee, Tibco portal builder. Tibco portal builder helps to manage
+different portlets, pages, users and roles. Core java 1.5, Servlets,
+JSP's, Oracle, UNIX, customized frameworks. Using Strusts 1.2 and
+webservices to upgrade the application. LDAP is the access protocol used
+for the user profile management. Registration, AdminUtilities,
+Portallocalization, eprints, LDAPExtracts, evalidation etc are some
+modules developed using java, j2ee technologies.  Various webservices 
+using axes2 provided utilities but on weblogic server to deal with third
+party users like esolut, jzero and cmg.
+
+Role description:
+
+Understood the complete flow of various modules (registration) which was
+developed in typical legacy java web development architecture. 
+
+Gathered requirements from clients, analysed, discussed, designed and
+Developed applications using Java 5.0, struts 2.0 and Hibernate 3.2 for
+new requirements from clients.
+
+Developed and published webservices UnivadisWebServiceAPP,
+LDAPUpdatewebservice using Axes2 on Weblogic application server.
+
+Supported the project with Tibco portal builder. Used HPSD for client
+interaction. 
+
+Interacted with clients spread over various countries in Europe like,
+Portugal, Germany, Lebanon, UK and Canada.
+
+Individually designed and developed a web application ImageExplorer
+which is associated with project, used Java, J2ee, Struts and Oracle. It
+is an application to store, retrieve and view the images using java.
+Implemented j2ee design patterns as a Designer.
+
+Lead and guide a team of 3 in developing the above web application as
+well as handling the change requests in the project.
+
+5. Project :  AFM-Location
+
+		Organization		:	Techmahindra Ltd.
+
+		Client		:	BT
+
+		Role			:	Java/j2ee Developer
+
+		Duration		:	Feb-2008 to Jan-2009
+
+		Team Size		:	12
+
+      Environment:	
+
+Operating System	- Solaris, UNIX, Windows
+
+Technologies		- Java/j2ee, WebServices, Struts1.2, Castor. 
+
+RDBMS			- MySQL
+
+Application Servers	- Weblogic 8.1
+
+IDE			-  Xemacs (UNIX), Eclipse(WINDOWS)  
+
+			Config. Mgmt.		- CCM 
+
+Anticipatory Fault Management (AFM) is a generic term used for projects
+under Access Network Improvement Program (ANIP). Anticipation of Faults
+on residential telephone lines in UK, Calculation of Fault Location for
+a given fault within Customer Support System (CSS) and support of Can Do
+/ Sustain Process is the responsibility of the AFM system. It has a with
+3-tier architecture JAVA processes as the middle layer and ORACLE 8i as
+the back end on UNIX). Location project is a UNIX based and uses JAVA
+and ORACLE 8i at the back end. Night Routinely Activated Services (NRAS)
+is also a part of the system. It acts as a bridge between third party
+line test systems which carry out the line tests and AFM which analyses
+the results of the tests. Anticipated Hard Fault (AHF) automates the
+fault generation on circuits which have been identified as hard suspects
+by AFM. It has environment similar to AFM.
+
+Responsibilities:
+
+Development using Core Java, Servlets, JSP, JDBC, Webservices, Struts
+1.2 and castor framework. Implemented Hibernate framework.
+
+Implemented multithreading in my applications which deal with extracting
+line test results.
+
+Analysing the requirements and preparing a template implementing java
+j2ee design patterns. 
+
+Developed end to end applications/services for the requirement given by
+client using Existing/new frameworks. 
+
+Coding using core java, xml parsing using castor framework, webservice
+implementation using weblogic. Deploying on solaris box.
+
+Lead a team, getting report from them and debugging on the developed.
+
+4. Project – CWM (Cisco WAN Manager) /AMS
+
+		Organization		:	TechMahindra
+
+		Client		:	Cisco
+
+		Role			:	Java/j2ee Developer
+
+		Duration		:	Nov 2006 to Dec 2007
+
+		Team Size		:	09
+
+      Environment:	
+
+Operating System	- Solaris, UNIX, Windows
+
+Technologies		- Java, Servlets, JSP’s
+
+RDBMS			- MySql 4.1
+
+Servers			- Apache Tomcat 
+
+Technologies		- NMS/EMS, Networking Technologies, Routing protocols
+
+         Cisco WAN Manager is an element- and network-management product
+for the Cisco MGX Family, Cisco BPX Family, and Cisco IGX Family of
+multiservice switches and the Cisco MGX 8880 Media Gateway. Enables
+operations, administration, and maintenance of WAN multiservice
+networks. CWM has a robust, scalable architecture that meets the demands
+of end-to-end Layer 2 configuration, fault, and performance management
+control and operation in very large networks.
+
+	AMS is an Element management system (EMS). It resides on the Element
+Management Layer of the Telecommunications Management Network Model. It
+is a GUI- based interface which provides full remote support of
+Configuration management, Fault management, Performance management and
+Security management. It mainly deals with retrieval of data from the
+Network Element using TL1 commands as an interface and the output is
+displayed to the user through GUI developed using Java Swings.
+
+Responsibilities
+
+Understanding about the MGX/BPX switches, Different Routing protocols,
+Router and Switches configuration. Given presentations on Java, NMS/EMS
+functionalities.
+
+Developed Frontend for NMS using servlets, JSP’s, Swings
+
+Completed CCNA certification for prerequisite of this project
+
+Understanding telecom technologies NMS/EMS, Preparing the design
+document.
+
+ Development of Discovery Management GUI screen using Java Swings,
+JSP’s.
+
+ Embedded required TL1 commands for Discovery mgmt, communicated through
+Telnet API
+
+Simultaneously developed intrasite for our team NetCruisers. Used
+Servlets, jsp’s as serverside technologies. JDBC to communicate to the
+database is MySql 4.1. And used Tomcat 5.0 as webserver.  Embedded
+MediaWiki webportal in our application
+
+3. Project – Marketing information system and shop online
+
+		Client		:	Spectra Marketing
+
+		Role			:	Java/j2ee Developer
+
+		Duration		:	May 2005 to Oct 2006
+
+		Team Size		:	04
+
+      Environment:	
+
+Operating System	- Windows
+
+Technologies		- Java, Servlets, JSP’s, JDBC, HTML, JAVASCRIPT
+
+Servers			- Apache Tomcat 5.0
+
+Database		- Oracle 9i
+
+IDE			- Eclipse		
+
+       Spectra marketing’s Marketing Information System is an advanced
+flexible and functional web based information of marketing. It includes
+all the functionality of a marketing system like customers, banks and
+dealers. It acts as a mediator between all those. Tracking of public
+customers, private customers, and regular dealers. Directing every
+information from banks to their customers. Database of Customer
+information on the basis of Status (Approved, Declined, not yet).having
+regular activities like home, providing day to day information of Banks.
+Giving separate info for users, customers, (public, private).
+Administrator handles regular changes. Every customer has a Username,
+Password. Customers can select banks for various loans for various
+purposes. Information of Duration for sanction, disbursement. Extra
+events like feedback  
+
+Role: Design and development. Developed web pages using Servlets, JSPs.
+Database management (update Customers), using UseBeans in JSPs.
+Implementing Taglibraries.
+
+2. Project – Stock inventory distribution
+
+       Organization		:	Reachcons IT solutions
+
+		Client		:	Real Stock Ltd.
+
+		Role			:	Java/j2ee programmer
+
+		Duration		:	Aug 2004 to May 2005
+
+		Team Size		:	10
+
+      Environment:	
+
+Operating System	- Windows
+
+Technologies		- Java, Servlets, JSP’s, JDBC, HTML, JAVASCRIPT
+
+Servers			- Apache Tomcat 5.0
+
+Database		- Oracle 9i
+
+	This project is mainly about companies that involve in Stock Inventory
+Distribution, the company maintains the stock details of various
+companies who are registered with Stock Inventory Distribution .Stock
+Inventory Distribution will maintain share values of the registered
+companies. The entrants(who are participating in betting)after entering
+the Stock Inventory Distribution site with valid password will choose a
+set of five companies and gives his predicted share values. At the end
+of the month Stock inventory Distribution will announce the actual share
+values of the companies. If the average predicted values of entrants are
+equal/match with actual avg. then the entrant will be awarded with an
+amount of $200. If more than one entrant’s avg. value matches with the
+actual avg. then system will select randomly one entrant and he/she will
+be awarded with a prize of $200.
+
+Responsibilities: Coding using HTML, Java Server pages. Database
+management and JDBC connectivity using DAO’s. Developed the Servlets,
+jsp’s and html pages.
+
+1. Project – Academic project
+
+	 	Title			:	Reportum
+
+		Organization		:	Galaxy software solutions
+
+		Software		:	jdk1.3, oracle 8i, windows 2000
+
+		Role			:	Java programmer
+
+		Team size		:	4
+
+Description:It is to promoting an existing reporting tool where reports
+can be designed using a drag and drop GUI and we are generating reports
+from databases as well as text files also.They may be run, viewed, and
+printed from the application or exported as HTML, XML, PDF, DOCBOOK or
+comma delimited text files.Providing Java features so runs
+anywhere.Report descriptions are stored as XML files. This means you not
+only use the reptool GUI but you may also edit reports using your
+favorite text editor.
+
+Role description:
+
+Retrieving data from database using JDBC.
+
+Used JDBC, to make Reportum as platform independent.
+
+Implemented the SWING to give an effective GUI to my project. 
+
+Certifications
+
+Oracle Certified Professional Java SE6 Programmer
+
+Cisco Certified Network Associate (CCNA) in June-2007. Familiar with
+networking protocols and concepts.
+
+Personal Details:
+
+Passport no			:	Z2778974(UK Visa but never travelled)
+
+Date-of-Birth			:	18-06-1983
+
+Duration	Organization	Designation	Period ( in Years)
+
+Dec 2012 to till date	IBM ISL, Hyderabad	Staff Software Engineer	2.5
+
+Oct 2009 to  Dec 2012	SUNGARD, Pune	Senior Engineer-Product Dev	3.2
+
+Jan 2009 to Jul 2009	Cognizant technology solutions, Pune	Associate	0.7
+
+Nov 2006 to Jan 2009	TechMahindra Ltd, Bangalore/Pune	Technical
+Associate	2.3
+
+ 
+

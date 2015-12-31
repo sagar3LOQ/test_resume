@@ -1,0 +1,493 @@
+Springs:4 year & current
+
+ Hibernate:3.5 year
+
+Webservices:REST and current
+
+Java: 7.5 year
+
+UML: worked
+
+Design : worked
+
+Application server: tomcat/weblogic/eclipse/netbeans
+
+Build tools: maven
+
+My sql/oracle
+
+Sreekanth Yannam
+
+Java, J2EE, Spring, Apigee, WSO2 Middleware, JPA, Hibernate, REST,
+Oracle, Agile
+
+   HYPERLINK "mailto:sreekanth.yannam@gmail.com"
+sreekanth.yannam@gmail.com    HYPERLINK
+"https://in.linkedin.com/in/syannam" LinkedIn  
+
+Objective
+
+Looking for a senior application developer/lead position where I can
+utilize my extensive experience and skills in architecting, designing,
+and developing java, middleware and related technology applications.
+
+My key strengths include systems analysis & design, business process
+rationalisation, multi-tier architecture using Java/J2ee, Strong
+server/client side experience, excellent code-testing ability and
+effective release management. 
+
+Profile
+
+7.5+ years of experience developing full lifecycle applications for
+reputed organizations like ProKarma, TOSHIBA, Nisum, Verus solutions 	.
+
+Sound technical skills in architecture, design, development, testing and
+releases of Java, JEE, JSP, servlets, Spring, Hibernate/jpa, struts 2,
+REST, web services security, OAuth2, SAML2, SSO, JMS, UML, Oracle, DB2,
+Ajax, design patterns, Weblogic, Jboss and Tomcat.
+
+Worked on end-to-end projects in e-commerce, telecommunication and
+knowledge services.  My applications include high volume and high
+availability public facing web applications, e-commerce applications and
+REST/SOA based service applications.
+
+Extensive experience using agile methodologies like scrum, TDD/BDD, pair
+programming, and continuous integration (Hudson/Jenkins).
+
+Experience of leading teams, mentoring junior members, and monitoring
+off-shore teams. Strong client facing, communication, analytical and
+problem solving skills.
+
+Won several performance awards and received appreciations for quality of
+work, and problem solving.
+
+Significant contribution in Defects Prevention activities, trend
+analysis, root-cause analysis (Mercury Quality Centre), Internal Quality
+Assurance and Software Configuration Manager Activities.
+
+Ability to learn new Technologies, Frameworks and understand Business
+requirements in quick time.
+
+Ability to liaise effectively with all levels within organization across
+geographic business units and manage relationships with key stakeholders
+within business and suppliers.
+
+Proven background of leading team in stressful, deadline-oriented
+environments.
+
+Ability to take independent responsibilities as well as to contribute as
+a team member
+
+Education
+
+MCA passed in 2007 from Andhra University with 71%.
+
+BSc passed in 2003 from Nagarjuna University with 53%.
+
+Intermediate passed in 2000 with 75%.
+
+SSC passed in 1998 with 72%.
+
+Experience Summary
+
+Skills	Expertise	Years of Experience	Last Worked
+
+Technology: Java 1.6/1.7, JEE 5, JSP, Servlet, Java Beans, JDBC, Spring
+3.x, Spring MVC, Spring Integration, Spring Security, OAuth2, SAML2,
+SSO, JPA, Hibernate, Struts 2, multithreading, XML, XSL, JMS, JUnit,
+Selenium, Mockito, AJAX (Jquery), JSON, HTML5, JavaScript, CSS, Rest web
+services, SLF4J, Quartz Job scheduler, ZKoss, Windows, Unix, Shell
+script, Linux and Android.	Strong	7+	Till Date
+
+ 
+
+Middleware: WSO2 Products hands-on: API Manager, Enterprise Service Bus
+(ESB), ESB Mediation, Identity Server, Business Activity Monitor 	Strong
+1	Till Date
+
+RDBMS : Oracle, DB2, SQL, PLSQL, MySql, PostgreSQL, Database Design
+Strong	4+	Till Date
+
+Systems Integration, SOA, Enterprise Integration Patterns, REST, J2EE
+connector architecture, JMS, Apache ActiveMQ, Web Services(SOAP/REST),
+Jenkins, Hudson, Continuous Integration	Strong	3+	Till Date
+
+Architecture and Design: Design Patterns, Architecture, rational Rose,
+Enterprise Architect, Visio, UML, Database Design	Strong	4	Till Date
+
+Development Tools: Eclipse, Net beans, Maven, Ant, CVS, SVN, GitHub,
+JBoss, Weblogic, Tomcat.	Good	7	Till Date
+
+ 
+
+Experience (reverse chrono order)
+
+1. T-Mobile, USA. (Dec. 14 – Till date)
+
+Project Name		Apigee
+
+Business Area		SOA Apigee Middleware
+
+Software	 Java 1.7, REST Web Services, Apigee, XSLT, Eclipse, Maven,
+Accurev.
+
+Project Methodology	Agile, Test driven development, continuous
+integration.
+
+Description	The scope of the project is to verify the migration has any
+impact on the services. There are 144 services that are being migrated
+from Jboss to FSW versions. And also from JDK 1.6 to JDK 1.7.From the
+Quality standpoint we need to check the migration has not impacted any
+of the services. Need to verify all the services are in place and
+working as expected. The log files generated needs to be compared with
+the legacy ones and there shouldn’t be any discrepancies. The messages
+should be properly posted to the queues. Deployments are being done
+using war files instead of ear files. Publish and Subscribe Messaging is
+being used instead of Point to Point messaging
+
+Role		I have been involved in the SOA based architecture, POCs, design
+and development of several key components in middleware.
+
+Achievements              	Achieved the smooth integration between front
+end and backend layers using robust secured middleware.
+
+2. GORDMANS, USA. (Oct. 14 – Dec. 14)
+
+Project Name		Jboss FSW upgrade
+
+Business Area		SOA Jboss FSW Middleware
+
+Software	 Java 1.7, Spring 3.0 MVC, REST Web Services, ActiveMQ, Jboss
+Fuse, Eclipse, Maven, Serena.
+
+Project Methodology	Agile, Test driven development, continuous
+integration.
+
+Description	The scope of the project is to verify the migration has any
+impact on the services. There are 144 services that are being migrated
+from Jboss to FSW versions. And also from JDK 1.6 to JDK 1.7.From the
+Quality standpoint we need to check the migration has not impacted any
+of the services. Need to verify all the services are in place and
+working as expected. The log files generated needs to be compared with
+the legacy ones and there shouldn’t be any discrepancies. The messages
+should be properly posted to the queues. Deployments are being done
+using war files instead of ear files. Publish and Subscribe Messaging is
+being used instead of Point to Point messaging
+
+Role		I have been involved in the SOA based architecture, POCs, design
+and development of several key components in middleware.
+
+Achievements              	Achieved the smooth integration between front
+end and backend layers using robust secured middleware.
+
+3. TOSHIBA Telecommunications Research Laboratory, UK. (Mar. 14 – Oct.
+14)
+
+Project Name		IceWater (ICT Solutions for Efficient Water Resources
+Management)
+
+Business Area		SOA WSO2 Middleware Research / Water management research,
+Europe
+
+Software	Java 1.7, JSP, HTML5, Spring 3.0 (MVC, spring security), WSO2
+API Manager, ESB, Identity Server, Governance Registry, Business
+Activity Monitor, Complex Event Processor, XML,SAX/DOM parsing, WaterML,
+REST Web Services, Oauth2 Security, Single Sign On (SSO) IDP, SAML2,
+MySql Server, Tomcat, Eclipse, Maven, GitHub, Linux Ubuntu.
+
+Project Methodology	Agile, Test driven development, BDD, continuous
+integration.
+
+Description	Toshiba Research Europe Limited Telecommunications Research
+Laboratory (TRL), the European subsidiary of the Company (Location:
+Bristol, UK) conducting research within Information and Communications
+Technology (ICT), is a participant in the successful bid to demonstrate
+the potential for innovative efficiency savings within water supply
+systems. The overall aim is for significant efficiency savings and will
+be achieved through reduction in leakage and energy consumption enabled
+though advanced demand management and operation and maintenance decision
+support systems
+
+Role		I have been involved in the SOA based WSO2 middleware trainings,
+prototypes, architecture, POCs, design and development of several key
+components in middleware, front-end Jquery, JSP, REST, Spring and
+integration between back end adapters. Involved in overall security of
+the modules (Middleware, front-end, REST Web Services) in the project by
+using Oauth2 security.
+
+Achievements              	Achieved single sign on, security for
+different front end web-applications, achieved the smooth integration
+between front end DSS modules and backend layers using robust secured
+middleware, leak detection and energy usage graphs using Business
+Activity Monitor. Was able to demonstrate the cost benefits and
+significant efficiency savings using this innovative solution.
+
+4. MACYS, USA (May. 12 – Feb 14)
+
+Project Names		MyOffers
+
+Business Area		e-commerce - Daily deals page on macys.com
+re-architecture
+
+Software	Java 1.6, Spring 3.5, Jersey Rest web services, JUnit and
+Selenium test cases, DB2 database, SpringDM server, Eclipse, Maven,
+Jenkins
+
+Project Methodology	Agile-Scrum, Test driven development, BDD,
+Continuous integration.
+
+Description	The My Offers page having the promotions, coupons, banners.
+We can also share the promotion through the site and the coupon can be
+applied at store. The promotions and coupons can be shared to friends
+through an email and these also displayed based on sorting order.
+
+Role		I have been involved in the prototypes, architecture, POCs, design
+and development of several key components, and managing user
+stories/tasks involving java, REST, spring (core, mvc).Continuous
+integration/deployments using Jenkins.
+
+Achievements              Shaped the projects from scratch (from both
+solution and technology perspective). Achieved extremely low defects in
+the initial phases of all projects. Established standards and process
+practices for the team. Helped the team achieve operational excellence.
+Performed role of Release Manager and Testing coordinator.
+
+5. MACYS, USA (Nov. 11 – May 12)
+
+Project Name		Flexible Templates
+
+Business Area		e-commerce
+
+Software	Java 1.6, Spring 3.0, YUI, Json, Ajax, REST, Spring MVC, DB2,
+jetty/jboss, i-Report, eclipse, Maven, Hudson
+
+Project Methodology	Agile-scrum, Test driven development, BDD,
+continuous integration.
+
+Description	The Goal of Flexible Templates is to increase conversion
+with new features such as Creation of Merchandising Widgets and PDP Ads.
+Increase conversions, driven by exposing customers to top rated
+products, best sellers & rich content. Promote more products to appeal
+to customers shopping with different needs. Allow business to create and
+update product promotions more frequently for a fresh customer
+experience. Create an engaging and interactive shopping experience for
+customers.
+
+Role	Worked as a technical & feature lead on this project.I have been
+involved in the prototypes, architecture, design and development of
+several key frameworks, components and user stories involving java, jsp,
+YUI, Ajax REST, spring(core, mvc), and TDD JUnit, Selenium Test cases
+and BDD Jasmine test cases. Designed and implemented jasper reports for
+producing PDF reports.
+
+Achievements  	Shaped the project from scratch (from both solution and
+technology perspective).Established standards and process practices for
+the team. Helped the team achieve operational excellence. Played a key
+role in delivering the product on time and with very high quality.
+
+6. MACYS, USA (Jan. 11 – Oct. 11)
+
+Project Name		DyCES Recommendations
+
+Business Area		e-commerce
+
+Software	Java 1.6, JAVA/J2EE, Spring MVC, JUnit, DB2, JBoss application
+server, eclipse, Maven, Hudson
+
+Project Methodology	Agile-scrum, Test driven development, BDD,
+continuous integration.
+
+Description	Most important feature of Macys is DyCES (Dynamic Customer
+Experience System). To keep learning customer interests from his actions
+on the website and recommend products for sale that are more relevant to
+him based upon business rules and predictive models. It uses
+Recommendation Service and Real Time Decision Engine (RTD) and Real Time
+Optimization (RTO) to provide recommendations to user. User can select
+the recommendations and user can Click, Add to Bag and Sale the
+recommended items. The user actions will be captured in RTD DB. Based on
+user actions, it will show recommendations by considering his visitor
+id, customer id and zip code information.
+
+Role		Worked as a technical & feature lead on this project. I have been
+involved in the design and development of several key components and
+user stories involving java, REST, spring, and hibernate. Fixed many
+critical or blocking issues from field or system test and making sure to
+give the RCA, workarounds and final solutions
+
+Achievements              Shown high productivity and quality in the
+design and development of several key components.  Helped reduce the
+build cycle by 35%. Introduced Selenium based integration tests for
+better unit testing and productivity. Quickly researched and
+incorporated external tools. Recommended and helped several
+architectural improvements. Attended ‘Problem Analysis’ professional
+training for support purposes.
+
+7. City Cell, Bangladesh (Mar. 09 – Dec. 10)
+
+Project Name		My Wallet
+
+Business Area		Admin Roles and rights access to track logs
+
+Software	Java 1.5, Struts 2, Hibernate 3.0,Maven Build, ExtJS,
+JavaScript, JSTL,CSS,AJAX, Weblogic 9.x, IBM DB2, MS Visio, Unix
+
+Project Methodology	Agile-Scrum, Test driven development, pair
+programming and continuous integration using Jenkins.
+
+Description	M-wallet system is the effort to enable the world to bank
+virtually and to use single system to make payments, savings account,
+buying airtime etc. with or no operating fees. The whole idea of the
+virtual account is to provide a hassle free accounting system where
+subscriber need not run for banks or ATM. He or she can just walk into a
+super market, without worrying whether the person have any cash or card
+in pocket. Client can buy airtime or transfer funds with your fingertips
+using his cell phone. The different access mediums like USSD, SMS, OTA
+and Web enable the customers to utilize the services provided by the
+system. All actors listed in this document will have an M-wallet. All
+user interfaces through every access medium (Web, STK, SMS, USSD menu)
+will have the ability to select the appropriate account/M wallet. The
+access medium will be provided as per the requirement of operator.
+
+Role		Worked as a technical lead on this project. Involved in
+requirements, technology selection, prototyping, database design, data
+modelling, estimation. Developed frameworks and components for this
+green field project. Involved in monitoring delivery from an off shore
+vendor. Established operations processes. Created various components
+using Struts 2, hibernate, ExtJS etc.
+
+Achievements             Established software development processes
+modelled around scrum, test driven development and  
+
+                                       pair programming. Focussed
+extensively on operational excellence and productivity improvement.
+
+             Introduced tools and techniques which helped improve
+developer productivity and reduce the project 
+
+                                       effort by 35%.  Helped achieve
+high quality in this complex and critical application.
+
+8. SP Soft, Hyderabad (Jul. 09 – Feb. 10)
+
+Project Name		Android Apps
+
+Business Area		Android
+
+Software		Java 1.5, Android, HTML, JavaScript, SQL.
+
+Project Methodology	Waterfall SDLC
+
+Description	SP Finger Paint: SP Finger paint is a free touch painting
+application. This is a Simple, easy, and Fun application which contains
+a cute icon menu contains functions like background color, line color &
+thickness, line patterns, eraser, clear screen, save image, take photo,
+kid mode, select image from device, undo & redo last drawn.
+
+SP Birthday tracker: The system enables user to know all the information
+about the upcoming birthday details like Name, Date of Birth, Zodiac
+signs, Age, days left for the birthday etc. The user can create a new
+list where s/he will be able to add friend’s birthday details, create
+notification date and time, set ring tones etc.
+
+Near By: Near By is location base application. Near By is find place
+around you. Place Nearby I enable you to find place in the world with
+convenience. Quickly find places nearby. Places Nearby I allow you to do
+a quick and easy search on places based on your current location. You
+can get path from your location to find location
+
+Role	Conceptualized, designed, developed and deployed mobile
+applications. Researched application acceptance and solicited feedback
+from users to boost adoption rates. Wrote technical specifications and
+maintained all reports pertaining to application development process.
+Tested the application on various carriers like AT&T, Sprint and
+T-Mobile.
+
+Achievements       	Lead the development of several applications.
+Produced several complex design solutions which had                     
+                high performance. Delivered high quality code.
+
+9. ICARDA, Italy (Sep. 08 – Jun. 09)
+
+Project Name		Library Circle
+
+Business Area		e-commerce, Education Services
+
+Software		Java 1.5, JSP, Servlets, XML, XSL, HTML, JavaScript, HQL,
+Dojo, Struts 2, Hibernate, JSTL, PostgreSQL, Spring IOC, NetBeans IDE.
+
+Project Methodology	Waterfall SDLC
+
+Description	Library Circle is a web portal which hosts your library
+Catalogue. It enables your users to search and browse through all of
+your library's resources from anywhere in the World. Library Circle
+allows more people outside the traditional library environment to
+discover your content with the Web tools they use every day—including
+Google, Google Books and Yahoo! Search. Library Circle takes data about
+items in your collection, relates it to basic institutional data such as
+the Web addresses of your catalog, electronic content servers and other
+online services, and actively spreads it all across the Web via
+strategic partnerships and distributed technologies. The result:
+Information seekers link to your catalog through search engines, browser
+toolbars, social networking sites, online booksellers and the Library
+Circle destination site.
+
+Role		I was involved in interaction with Business Users, requirement
+analysis, design (high and low level), development, design and technical
+Specs review, testing and production support.
+
+Achievements           Achieved low defect rate in the application,
+client appreciations for initiatives and active participation in 24*5
+productions/testing support.
+
+10. NewGenLib, client- Verus. (Apr. 07 – Aug. 08)
+
+Project Name		NewGenLib
+
+Business Area		Cataloguing and Holdings
+
+Software		Java 1.5, JSP, Servlets, XML, XSL, HTML, JavaScript, HQL,
+Dojo, ZKoss, Hibernate, JSTL, PostgreSQL, Spring IOC, NetBeans IDE.
+
+Project Methodology	Waterfall SDLC
+
+Description	NewGenLib is web based and standalone information and
+knowledge management system for distributed network. NewGenLib leverages
+the World Wide Web to build library, information and knowledge networks
+using international standards such as MARC-21, AACR-2R, UNICODE 3.0,
+MARC-XML, and Dublin Core. NewGenLib uses Java and J2EE based
+application server technologies and making database, operating system
+independent. Messages between client and server are compressed and
+validated using checksum algorithms (Addler-32) to reduce network
+traffic (Ideal for low-band width connections).Managerial approvals at
+different levels ensure data integrity. NewGenLib provides OPAC (Online
+Public Accessing Catalogue) for end user. NewGenLib facilitates to
+generate MIS reports using Jasper reports Technology.
+
+Role		I was involved in development as per Java coding standards,
+testing and production support. 
+
+Client URLs	ICRISAT, Hyderabad (  HYPERLINK
+"http://newgenlib.icrisat.org"  http://newgenlib.icrisat.org )
+
+	Bangalore University, Bangalore (  HYPERLINK
+"http://202.141.128.115:8080/newgenlibctxt" 
+http://202.141.128.115:8080/newgenlibctxt )
+
+	SDM Institute of Management, Mysore (  HYPERLINK
+"http://58.68.5.50:8080/newgenlibctxt" 
+http://58.68.5.50:8080/newgenlibctxt )
+
+	Vishal Informatics, Chennai (  HYPERLINK
+"http://202.71.144.140:8080/newgenlibctxt" 
+http://202.71.144.140:8080/newgenlibctxt )
+
+Certifications/training
+
+Sun Certified Java Programmer(2008)
+
+SOA WSO2 Middleware products training (Bristol, UK)
+
+Sreekanth Yannam			Page   PAGE  7  of   NUMPAGES  7 
+
+Sreekanth Yannam			Page   PAGE  1  of   NUMPAGES  7 
+

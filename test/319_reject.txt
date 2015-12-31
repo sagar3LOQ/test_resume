@@ -1,0 +1,577 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                  - 
+4years                                 
+            
+
+Spring                  
+                                  - 
+4years                                 
+               
+
+Web
+Services                                
+        - 
+   4years                              
+             
+
+Core
+Java                                  
+             -   6.9years
+
+Design
+Patterns                                
+    -    3years
+
+UML
+design                                 
+          -    2.5year 
+
+Build Tools (Maven/Ant)                    -   
+Maven & Ant   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Weblogic,websphere,oracle
+
+Last ctc:6.75/10/2 weeks	                                               
+                 
+
+ 					Swathi  		91 + 9000388746
+
+																				kurapatiswathy@gmail.com
+
+PROFESSIONAL SUMMARY: 
+
+6+ years of software development experience in Analysis, Design,
+Development, Implementation, Integration and Testing of Application
+Software in web-based environments, Enterprise systems and Client/Server
+architectures
+
+Using JAVA/J2EE technologies.
+
+Adept in programming practices like Object-Oriented programming.
+
+Expertise in designing and developing enterprise applications for J2EE
+platform using JAVA CORE, JSP 1.1/2.0, Servlets2.1/2.2/2.3/2.4, JDBC
+2.0, JNDI 1.2.
+
+Hands on experience in developing user-interfacing applications using
+HTML, DHTML, XML, JavaScript, AJAX and CSS.
+
+Expertise in various frameworks: JSF, spring3 and ORM tools like
+Hibernate 2.0/3.0.
+
+Extensive experience using spring framework (in business layer for
+Dependency Injection, AOP, transaction management), Hibernate Framework
+(as a persistence layer) , EJB and STRUTS.
+
+Expertise of Application Servers like Apache Tomcat 6.1/5.1, Web Logic
+8.1,Jboss 7.1,WAS Server.
+
+Experience working on SOA (Service Oriented Architecture). 
+
+Implemented web-services using RESTful Web services.
+
+Very Strong skills in developing Web Services using SOAP/REST, XML.
+
+Experience in Web Services using SOAP and WSDL.
+
+Experience in XML APIs that include XSLT, SOAP and WSDL, JAXB.
+
+Strong Experience in writing SQL Queries.
+
+Strong Experience in Oracle PL SQL.
+
+Good experience in using Oracle 8i/9i/10g, SQL Server 2003
+
+Strong experience on Log4j.
+
+Very good Experience in creating build scripts using Maven.
+
+Experience in development on Windows 98/NT/2000/XP, UNIX(Commands &
+Scripts), LINUX platforms.
+
+Good experience in BANKING, TRADING, MUTUAL FUNDS and HEALTH Domains.
+
+Expertise in OOAD and SDLC software development methodologies in
+developing n-tier web applications and Client/Server applications
+
+Good experience in preparing functional specification documents and
+technical specification documents
+
+Excellent communication, interpersonal and analytical skills and a
+highly motivated team player with the ability to work independently
+
+Ability to learn and adapt quickly to the emerging new technologies and
+paradigms
+
+Committed to continual performance development in the workplace, thus
+adding value to the organization.
+
+EDUCATION:
+
+Education	10th [AVV High School – Bapatla] with 72%
+
+Diploma in Computer Science [Annamallai University] with 92%
+
+Bachelor of Engineering in Information Technology [Anna University]
+(2003-2006) with 83%.
+
+
+
+
+
+Previous Employment Details:
+
+Laser Soft InfoSystems Ltd (A Polaris Group Company)	Dec- 2006 to Aug
+-2010
+
+
+
+HCL Technologies LTD	Aug -2010 to Jun 2011
+
+Meridian Soft Infosystems LTD	Aug 2011 to 30-Sep-2013
+
+
+
+TECHNICAL SKILLS:
+
+J2EE Technologies	JSP,ServletsJDBC,JTA,JMS,Java Mail,JPA,JSTL
+
+Programming languages	Java, SQL, XML, XSLT
+
+Frameworks 	JSF, Hibernate3.0, Spring3,Struts 2.x
+
+Web Technologies	CSS, JavaScript, HTML,AJAX,JQUERY
+
+Application/Web servers	Apache Tomcat 6.1/5.1/3.3, WebLogic
+8.1,WAS,JBOSS 7.1
+
+Databases	Oracle 8i/9i/10g, SQL Server 2003, MySQL 5.1
+
+IDE Tools	Eclipse 2.0/3.0/3.1/3.3.0, Netbeans 5.5/6.0,WSAD
+
+Operating Systems	Windows 98/2000/XP/NT, LINUX, UNIX.
+
+Middleware/Distributed Technologies	SOAP, Web
+Services,JAX-WS,JAX-RS,JAXB
+
+Version ControlTools	SVN, GITHUB and CVS
+
+Methodologies	Traditional waterfall & Agile
+
+
+
+PROFESIONAL EXPERIENCE:
+
+Tradier.com							          JUN 2012 – SEP 2013                       
+        Client	: Tradier, charlotte, USA.
+
+Role	: Java/J2EE Developer
+
+	
+
+Tradier.com project is a highly priority project in Online Trading. This
+Online Trading Platform will be used by the traders who has been
+registered with the ETNA Soft/First South West. This software allows the
+registered users to trade Stocks and Options of all the securities
+registered in  NASDAQ exchange. Once the User registered , he is
+provided with trade data for the security he selects to trade in this
+login Dashboard.  Then he can then start online trading with the funds
+he is holding with.Trade / Order placed by the user should be processed
+by the brokerage firm depending on the rules specified by the Exchange
+to which the traded security belongs to.User also has an provision to
+view his OrderStatus , Balances ,History of his Account in his
+Dashboard.All the account and cashiering services are  provided to
+tradier by FSW technologies in the form of web services. All the user
+and order related services are provided to tradier by ETNA Soft in the
+form of web services.So, this tradier.inc acts as an middleware
+brokerage tool between the users and the service providers who have been
+registered with the exchange NASDAQ.
+
+Responsibilities:
+
+Involved in all phases of Software Development Lifecycle including
+Requirements 
+
+Collection, Analysis of the Customer Specifications, Development
+,Handling Change Request, Bug Fixing, Code Review and Customization of
+the Application.
+
+Developed the application using J2EE architecture specification and
+Design patterns.
+
+Involved in designing of the application following Model-View-Controller
+(MVC) architecture.
+
+Implemented MVC architecture using spring3 frameworks combined with
+Hibernate for database persistence.
+
+Involved in Coding Server pages using JSP.
+
+Implemented User Interface (front-end) screens using JSP, HTML, CSS and
+JavaScript.
+
+Implemented asynchronous communication using AJAX.
+
+Using JQuery for event handling and AJAX interactions for rapid Web
+development.
+
+Developed screens using JSP, DHTML, CSS, AJAX, JavaScript, JQUERY,
+spring3 MVC, Java and XML.
+
+Created web services using Apache AXIS2, Jersy.
+
+Developed Various CRUD operations by using REST full web services.
+
+Developed Various Middleware Components by using SOAP full web services.
+
+Developed DAO interfaces & implementations for database related
+operations using Hibernate and JAXB.
+
+Implemented SQL, PL/SQL Stored Procedures.
+
+Using Jboss application server based upon the project.
+
+Created various unit test cases and integration tests for the DAO and
+Service using JUnit.
+
+Using Junit for testing the application
+
+Using SVN version controller to manage the code versions.
+
+Using Maven build tool to build and deploy the application.
+
+Environment: Core Java, JSP, Servlets,Spring3 MVC,SOAP web services,
+REST Web services, HTML, JavaScript, Ajax, HTML, JQuery Oracle, Junit,
+JBOSS application server7.1, PL-SQL.
+
+TRADEKING.COM					               AUG 2011 – JUN 2012                  
+                  Client	: TRADEKING, NEW JERSY, USA.
+
+Role	: Java Developer
+
+	
+
+TRADEKING is an website that enables online trading for the people in
+USA who has been registered with the trade king firm. This software is
+an Online Brokerage Tool which allows the registered users to trade
+Stocks and Options of all the securities registered in different
+exchanges like AMEX,NASDAQ.This site consists of SOD an EOD processes
+for retrieving the current day and previous day market price, volume
+from the exchange and Streaming module to get the up to date quotes of
+each and security from their corresponding Exchanges.Once the User is
+provided with all the exchange data for the security he selects to trade
+in this login Dashboard , he can start online trading with the funds he
+is holding with.Order placed by the user or account holder should be
+processed by the brokerage firm depending on the rules specified by the
+Exchange to which the traded security belongs to.User also has an
+provision to view his Order Status , Balances ,History of his Account in
+his Dashboard once he enter into the site.
+
+Responsibilities:
+
+Responsible for maintaining the code quality, coding and implementation
+standards by code reviews.
+
+Developed the application using J2EE architecture specification and
+Design patterns.
+
+Designed and developed MVC architecture using spring modules [Web, Core,
+DAO, and AOP].
+
+Created and used style sheets {Cascading Style Sheets [CSS]} to change
+the look & feel UI.
+
+Extremely used plain JavaScript and JQuery [JavaScript Library] to do
+the client side validations.
+
+Used AJAX to get the data from the server asynchronously by using JSON
+objects
+
+Used Spring3 Validation framework to implement the server side
+validations
+
+Used JSP Tag Libraries [JSTL] to implement the logic inside the JSPs
+
+Implemented persistence mechanism using Hibernate (ORM Mapping)
+
+Responsible for mapping the database model into persistence objects
+using Hibernate Annotations.
+
+Developed the DAO layer for the application using Spring Hibernate
+Template support
+
+Developed various business logic and reports using HQL and Hibernate
+Criteria
+
+Used Eclipse IDE to develop the application
+
+Used CVS version controller to manage the code versions
+
+Used Maven build tool to build and deploy the application.
+
+Used Oracle Database for persisting the data.
+
+Used Oracle BEA Web logic for deploying the application
+
+Created various unit test cases and integration tests for the DAO,
+Service, and Controller components using JUnit, dbUnit and Spring Test
+support.
+
+Environment:  Java 1.6, JSP, Servlets, JDBC, HTML, JavaScript, CSS 2.0,
+XML, XSLT, XHTML, jQuery Oracle, SQL, Oracle Web logic Server, Eclipse,
+log4j 1.2.16,   Maven, web services, spring, Hibernate, CVS version
+Manager
+
+RebiSmart  					                                           FEB 11 –
+AUG 2011                                     Client	: Merck
+Sereno,Germany
+
+Role	: Java Developer
+
+	
+
+RebiSmart Download Software
+
+	
+
+The RDS Software is used to transfer recorded injection data from the
+RebiSmart™ injection device to the physician’s PC, display reports,
+graphs and perform simple calculations. The data transfer makes use of
+the RebiSmart™ integrated IR port and is performed either directly to
+the PC through the IR channel or via a docking station which consists of
+an IR to USB adaptor in a custom molded support. This application is
+having main modules as User authentication, Data upload/download from
+device, patient maintenance, device settings and Reports.  Application
+should be globalized.
+
+          
+
+Responsibilities:
+
+Participated in low level design and requirement understanding with
+functional team.
+
+Used OOAD and OOP’s concept like Abstraction, Polymorphism,
+Inheritance, Encapsulation,
+
+Modularity using Java for designing Interfaces, classes and business
+methods in Java
+
+Extensively used Java Collections and Reflection API
+
+Implemented multithreading concepts for caching application data
+
+Developed the application using J2EE architecture specification and
+Design patterns
+
+Developed screens using JSP, DHTML, CSS, AJAX, JavaScript, Struts,
+spring, Java1.5, EJB3.0 and XML
+
+Implemented MVC architecture using spring and Struts frameworks combined
+with EJB 3.0 JPA for database persistence.
+
+Used Struts Tiles Framework to structure core application webpage
+layouts and to assemble the JSPs
+
+Also created various common tags that are used for handling common
+functionalities like data element filtering, Parent/Child dropdowns etc
+
+Developed test harness to test the web services which helps test teams
+to test web service components independently using various request and
+response xml
+
+Used Springs Dependency Injection feature and configured Function Action
+classes as Spring Beans for redirecting the user request to the
+appropriate class which implements corresponding business functionality.
+
+Developed Persistence Framework consisting of components like
+Persistence Code Generator, Persistence Manager and Data Access Objects
+which hides JPA complexities and offers transparent access to database.
+
+Used SQL/PLSQL to perform complex database operations and generated
+various stored procedures, functions for DML operations,
+
+Developed Junit test cases
+
+Involved with testing team to determine dependency towards removing
+bottlenecks and ensuring smooth testing process.
+
+Involved in various internal releases of the application and supported
+the application modules during testing and pre-production phases.
+
+Environment: J2EE, Spring Framework–2.5, Struts, EJB 3.0, JPA, Oracle
+10g, TOAD, AJAX, Log4J, ANT, Junit, Web Logic, Eclipse, Rational Clear
+Case, WebServices.
+
+LifeScan        				          			AUG 2010 – FEB 2011	                 
+                   
+
+Client	: [J & J] – Diabetics Management System, USA.
+
+Role	: Java/J2EE Developer
+
+	
+
+Zoom Pro Software 
+
+OneTouch® Zoom™ Pro is an easy to use tool that allows you to spend
+more time managing your patients and less time analyzing their data,
+through features such as Pattern Recognition and SnapShot®. The Program
+is designed to help your practice track and monitor blood glucose
+levels, insulin doses and other medications for your diabetes patients
+so you can help them make better informed therapy decisions about meals,
+exercise and other activities that can help improve their glycemic
+control.
+
+Responsibilities:
+
+Developed the front-end screens using HTML, CSS, JSTL, JSPs and tag
+libraries.
+
+Used various design patterns like Data Access Object and Model View
+Controller (MVC).
+
+Used spring to develop lightweight business component
+
+Used Hibernate as ORM and involved in configuring hibernate to access
+database for various modules.
+
+Used Eclipse for writing code for JSF, Servlets.
+
+Integrated Hibernate with spring also used spring for other Dependency
+Injections.
+
+Developed Interoperable Components i.e. Web Service enabled services.
+
+Developed DAO’s using Hibernate to access data from Oracle database.
+
+Developed Hibernate mapping files and classes
+
+Created build scripts for compiling and creating war, jar.
+
+Monitored the error logs using Log4j and fixed the problems.
+
+Used SVN as version control tool
+
+Environment: Hibernate 2.0/3.0, Spring, JSF, Servlets 2.5, XML,
+JavaScript, HTML, CVS, Log4J, Oracle, WAS Server.
+
+Mutual Funds         				 	 	 DEC 2007- AUG 2010                        
+        
+
+Client	: SBI MUTUALFUNDS,Hyderabad, India
+
+Role	: Java Developer
+
+	
+
+Asset Management System
+
+Mutual Fund is a trust that pools the savings of a number of investors
+who share a common financial goal. The money thus collected is then
+invested in capital market instruments such as shares, debentures and
+other securities. The incomes earned through these investments are
+shared by its unit holders in proportion to the number of units owned by
+them. The main use of Mutual funds is Professional Management,
+Diversification, Transparency, Flexibility, and Reduction in Risk, Low
+Costs, and Liquidity.
+
+The objective is to develop integrated software for the use of Asset
+Management companies to help them manage funds. The Scope of the project
+covers Front Office, Mid Office and Back Office operations and does not
+involve in collection and redemption of funds.
+
+Responsibilities:
+
+Developed components in different modules and handled change request,
+bugs.
+
+Developed UI using HTML, JavaScript, and JSP, and developed Business
+Logic and Interfacing components using Business Objects, XML, and JDBC
+
+Managed connectivity using JDBC for querying/inserting & data management
+including triggers and stored procedures
+
+Developed components using Java multithreading concept
+
+Developed various EJBs (session and entity beans) for handling business
+logic and data manipulations from database
+
+Involved in design of JSP’s and Servlets for navigation among the
+modules
+
+Designed cascading style sheets and XSLT and XML part of Order entry
+
+Hosted the application on WebSphere
+
+Environment: Java, JDBC, JSP, Servlets, Web Logic, JavaScript, MS-SQL
+Server, Windows 2000.
+
+Kiosk Banking        				 	 	 DEC 2006- NOV 2007                        
+        
+
+Client	: Corporation Bank, Mangalore, India
+
+Role	: Java Developer
+
+	
+
+Kiosk Banking is sub set of Internet Banking. This software product
+provides various information/services for the registered users. 'LASER
+TOUCH' provides quick customer access to the banking products. Using a
+touch screen workstation. This will be located in the lobby area of the
+bank branch or in an off-site location such as super markets, railway
+stations, and airports with kiosk facility. This ensures privacy and
+speedy access to all routine banking activities. LASER TOUCH thus
+provides tremendous service to the valuable customers with as many as 20
+options to customers at the
+
+touch of a button.
+
+      'LASER TOUCH' is a self-service Product, which enables the clients
+to access these facilities through a Touch Screen Monitor without the
+assistance of the Bank's staff. The client can freely
+
+execute a variety of transactions in complete privacy.
+
+Responsibilities:
+
+Developed components in different modules and handled change request,
+bugs.
+
+Developed UI using HTML, JavaScript, and JSP, and developed Business
+Logic and Interfacing components using Business Objects, XML, and JDBC
+
+Managed connectivity using JDBC for querying/inserting & data management
+including triggers and stored procedures
+
+Developed components using Java multithreading concept
+
+Developed various EJBs (session and entity beans) for handling business
+logic and data manipulations from database
+
+Involved in design of JSP’s and Servlets for navigation among the
+modules
+
+Designed cascading style sheets and XSLT and XML part of Order entry
+
+Hosted the application on WebSphere
+
+Environment: Java, JDBC, JSP, Servlets, Web Logic, JavaScript, MS-SQL
+Server, Windows 2000, WSAD IDE.
+
+Awards
+
+Best Employee of the Quarter Jun 2013 -  Meridian Soft Info System LTD.
+
+Award Of Appreciation for the Year 2010  - POLARIS Technologies.
+
+	                                                                       
+                                
+

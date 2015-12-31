@@ -1,0 +1,240 @@
+Nanda Poli
+
+Software Engineer at 3I Infotech 
+
+3 Year(s) 2 Month(s) | Hyderabad / Secunderabad 
+
+9502484005
+
+nandapoli90@gmail.com
+
+“ Java/J2EE Developer hands around 3.2 years experience 
+
+WORK SUMMARY
+
+- 3+ years of experience in developing the Web Applications using Java / J2EE- Expertise in using frameworks, Struts, Spring, Web Services & Hibernate- Hands on using servers and tools like Apache, Web logic, svn, maven- Quick learner & effectively communicate with team members as well 
+
+Industry : IT-Software/Software Services 
+
+Functional Area : IT Software - Application Programming / Maintenance 
+
+Role : Software Developer 
+
+WORK EXPERIENCE
+
+Software Engineer Sep 2014 - Till Date 
+
+3I Infotech
+
+- Discussing with business people and analyzing requirements - Technical exposure with vendors on requirements and its implementations - Developing, Deploying, Integrating and Functional Testing in our environment - Taking care of Institution and Merchant level configurations - Monitoring application and spot fixing of issues on-demand by coordinating team 
+
+Programmer Aug 2012 - Aug 2014 
+
+National Informatics Centre
+
+- Understanding the client requirements - Part of technical selection & discussion phase - Coding the GUI Forms and implementing them as per MVC - Taking care of Functional and Integration testing 
+
+PROJECT DETAILS
+
+Internet Payment Gateway
+
+Sep 2014 to Till Date
+
+Client : ICICI Bank 
+
+Role : 9 
+
+Nature of Employment : Full Time 
+
+Role Description : - Discussing with business people and analyzing requirements - Technical exposure with vendors on requirements and its implementations - Developing, Deploying, Integrating and Functional Testing - ? Monitoring application and spot fixing of issues 
+
+Team Size : 3 
+
+Skill Used : Java/J2EE, Spring MVC, JavaScript, Oracle 10g, Weblogic Server, Weblogic Integration, 
+
+Project Details:
+
+PG is router/service that receives payment messages over the net and directs them to the associated systems (switch etc.) responsible for carrying through Financial Institutions. Processes bank transactions and third party processors of registered web merchants, and which provides admin support to merchants and acquirers. Ensures integrity and privacy of all messages and adaptable for security services like VBV, SecureCode. 
+
+Unified Birth and Death Registration System
+
+Mar 2014 to Till Date
+
+Client : Andhra Pradesh Government 
+
+Role : 10 
+
+Nature of Employment : Full Time 
+
+Role Description : involved in designing forms using jsp, and implemented business logic in spring mvc, persisted the data using hibernate, unit and integrating testing. 
+
+Team Size : 5 
+
+Skill Used : Java/J2ee, spring, hibernate, tomcat, netbeans, jsp, weblogic, html/javascript css , ajax, oracle, webservices, junit, svn, maven soa jax-ws xml 
+
+Project Details:
+
+Its purely belongs to issuing of Birth, Death and Still Birth of citizens of India. Initially everything was happening manually now its computerized for easiness. 
+
+EDUCATION DETAILS
+
+U.G.
+
+B.Tech/B.E. (Electrical) 2011
+
+Jawaharlal Nehru Technological University (JNTU)
+
+IT SKILLS
+
+Skill Name
+
+Version
+
+Last Used
+
+Experience
+
+Spring
+
+3
+
+2015
+
+3 Year(s) 0 Month(s)
+
+J2EE
+
+
+
+2015
+
+3 Year(s) 1 Month(s)
+
+Struts
+
+1.x
+
+2014
+
+2 Year(s) 0 Month(s)
+
+Hibernate
+
+3.5
+
+2014
+
+2 Year(s) 0 Month(s)
+
+Oracle
+
+11g
+
+2015
+
+3 Year(s) 1 Month(s)
+
+WebLogic
+
+10
+
+2015
+
+3 Year(s) 0 Month(s)
+
+DESIRED JOB DETAILS
+
+
+
+PERSONAL DETAILS
+
+Name : Nanda Poli 
+
+Gender : Male 
+
+Marital Status : Single/unmarried 
+
+Mobile : 9502484005(M) 
+
+Email ID : nandapoli90@gmail.com 
+
+CANDIDATE TEXT RESUME
+
+P Nanda Kumar           
+Java / J2EE Developer           
+Mobile: +91 95024 84005 
+E-mail: nandapoli90@gmail.com      
+
+
+
+
+PROFILE SUMMARY 
+      
+     3+ years of experience in developing the Web Applications using Java / J2EE 
+     Expertise in using frameworks, Struts, Spring, Web Services & Hibernate 
+     Hands on using servers and tools like Apache, Web logic, svn, maven 
+     Quick learner & effectively communicate with team members 
+
+TECHNICAL EXPOSURE 
+
+     Programming Languages     : Java and C 
+     Framework Software's     : Struts, Spring, Web Services & Hibernate 
+     Servers                    : Apache, & Web logic 
+     Development Tools          : Eclipse, svn, maven, junit, & ireport 
+     Web Technologies          : HTML, JavaScript, & Ajax 
+     Database               : Oracle 
+
+EXPERIENCE 
+
+     Working as a Senior Associate for 3i Infotech Ltd., from Sep'14 
+     Worked as a Programmer for National Informatics Centre, from Aug'12 - Aug'14 
+
+
+EDUCATION 
+
+     B.Tech from Jawaharlal Nehru Technological University, Anantapur in 2011. 
+
+
+
+PROJECTS SUMMARY 
+
+Project#1: 
+
+Title     : Internet Payment Gateway 
+Client     : ICICI Bank 
+Team Size     : 3 
+Environment     : Java/J2EE, Spring MVC, JavaScript, Oracle 10g, Weblogic 
+
+Description:      
+     PG is router/service that receives payment messages over the net and directs them to the associated systems (switch etc.) responsible for carrying through Financial Institutions. Processes bank transactions and third party processors of registered web merchants, and which provides admin support to merchants and acquirers. Ensures integrity and privacy of all messages and adaptable for security services like VBV, SecureCode. 
+
+Responsibilities: 
+     Discussing with business people and analyzing requirements 
+     Technical exposure with vendors on requirements and its implementations 
+     Developing, Deploying, Integrating and Functional Testing in our environment 
+     Taking care of Institution and Merchant level configurations 
+     Monitoring application and spot fixing of issues on-demand by coordinating team 
+
+Project#2: 
+
+Title     : Unified Birth & Death Registration 
+Client     : Andhra Pradesh Government 
+Team Size     : 5 Members 
+Environment     : Java/J2EE, Struts, Spring, Hibernate, WebServices, Oracle, WebLogic 
+
+Description:      
+     This is an ongoing development and enhancement project, Computerization of Civil Registration System popularly known as Birth & Death Registration System is meant for recording of LIVE BIRTHS, DEATHS, & STILL BIRTHS as of statutory provisions on continuous and permanent basis. These records useful primarily as legal documents & statistics and secondarily as proof of Age, Identity etc. This System works according to the Registration of Births & Deaths Act, 1969 under the Govt. of Andhra Pradesh, IT&C Department. 
+
+Responsibilities: 
+     Understanding the client requirements 
+     Part of technical selection & discussion phase 
+     Coding the GUI Forms and implementing them as per MVC 
+     Taking care of Functional and Integration testing 
+
+PERSONAL DETAILS 
+
+     Name                : Poli Nanda Kumar 
+     Date of Birth      : 10-May-1990 
+     Languages Known     : English, Telugu, & Hindi 
+     Marital Status           : Single 
+     Nationality          : Indian

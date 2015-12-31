@@ -1,0 +1,212 @@
+Team Size: 6
+
+Spring: 5 yr& current
+
+Hibernate: 3 year
+
+Web services: 2 year & Current
+
+Java: 10year
+
+Build tools: gradel
+
+Eclipse
+
+20/20%/60days
+
+Rohit Bisht
+
+Hyderabad, Telangana                                                    
+                                                                        
+                             91-9959882198 (Mobile)
+
+bishtrs@gmail.com
+
+Date of Birth 2nd Aug 1981
+
+Objective:  Tech Lead / Java Architect
+
+Technical Skills:
+
+Languages: Java 7, SQL
+
+Databases: MSSQL 2008, Oracle10g
+
+Operating Systems: Windows 7, Linux
+
+Frameworks: Spring 3.0, Axis2 Web Services, Hibernate, Terracotta,
+JUnit, JMock, DBUnit
+
+Others:  JMS, JDBC, Design Patterns, XML, SOAP
+
+Web Technologies: JSP, Servlet, Spring MVC, Tomcat 
+
+Tools: Eclipse3.7, Gradle, Ant 1.6.2, Jade, Perforce P4Win, Tortoise
+SVN, Version One  
+
+Work Experience:
+
+Ivy Comptech, Hyderabad		  				       Feb 2012 – Till Date
+
+Sr Systems Analyst
+
+Project: User Account Services
+
+Technologies: Java 7, Spring 3.0, SQL, Oracle, Web Services, Terracotta,
+Spring MVC
+
+Key Responsibilities:
+
+System analysis, design and development of (using core Java, SQL,
+Spring) components like Master Data Services (MDS). MDS provides user
+information to internal & external systems and is responsible for
+managing player data. Player information includes personal details,
+gaming details, kyc details which is exposed to gaming clients as well
+as b2b partners over web services.
+
+Analyze and translate business requirements to task specifications.
+
+Estimating design and development tasks.
+
+Review and refactor legacy code.
+
+Mentoring junior team members.
+
+Code review using Code Collaborator to check for performance issues,
+code conventions.
+
+Responsible for developing new features, debugging and fixing
+operational incident.
+
+Provide recommendations to management concerning issues of programmer
+productivity and
+
+software development management.
+
+Worked on moving all the http based Java API calls to RMI that reduced
+timeouts during transactions.
+
+Bank of America, Hyderabad		  				       May 2009 – Feb2012 Date
+
+Sr Analyst
+
+Project: Global Forex Exchange
+
+Technologies: Java, Spring, JSP, SQL, Spring MVC
+
+Key Responsibilities:
+
+Development & maintenance of Java based applications like Trade Engine,
+FXT Web. Trade Engine provides trading services like handling request
+for quote, trade acceptance functions, and execution of FX trades. FXT
+Web is used to execute Spot, Forward, Swap transactions online, in 145
+currencies.
+
+Interact with users to get requirements and implementing them.
+Collaborate with QA team in helping them understand the enhancements,
+functionality.
+
+Provide technical guidance to junior team members and their code review.
+
+Provide L3 support to users.
+
+Bank of America, Hyderabad		  				        Jul2007– April 2009
+
+Analyst
+
+Technologies: Java, Spring, SQL, Hibernate 
+
+Key Responsibilities:
+
+Development & maintenance of Quixotic application which is used to allow
+trades to be queried, entered, and amended. This application is a 3-tier
+application used by around 25 traders and approximately 30-35 trades are
+booked per day. It deals with interest rate derivative products like
+Caps, FX Options Swaptions, etc.
+
+Peer code review using Crucible.
+
+Provide second line support to the traders.
+
+Managed couple of releases which includes branch creation, merging
+changes to mainline, coordinating with QA, UAT team to make sure the
+smooth transition of application from development stage to production.
+
+Fiorano Software, Hyderabad		  		      	                      May 2006
+– Jul 2007
+
+Senior Software Engineer
+
+Technologies: Java, JMS, SQL
+
+Key Responsibilities:
+
+						       
+
+Design, Development and Maintenance of Fiorano Adapters (JMS, FTP,
+MQSeries) using Java, JCA which includes bug fixing, enhancement, adding
+and executing unit tests.
+
+Development and Maintenance of EDBC (Event Driven Business Components)
+components based on JMS.
+
+Peer code review for any fix, enhancement involving whether the code
+conforms to the standard coding conventions and if performance can
+improved.
+
+Interaction with sales engineers to sort out their doubts and queries.
+Sending hot fix to sales engineering team.
+
+Coordinating with the technical writers in documenting the components
+developed.
+
+Wipro Technologies, Bangalore                                           
+                                   June 2005 – April 2006
+
+Project Engineer  
+
+Technologies: Java, JSP   		      		               		                   
+                              
+
+Key Responsibilities:
+
+Maintenance of Vitria BW 4.x application (in Java) used as the
+middleware layer to manage the lifecycle of a drop ship order across
+different systems. 
+
+Maintenance of Web Application (used for creating customer orders and
+updating their status) using JSP, Java Servlets.
+
+Interact with onshore team members to analyze the new changes required,
+prepare the estimates and suggest the modifications required in related
+applications.
+
+Interra Information Technologies, Noida                                 
+                             June 2003 – April 2005
+
+Member of Technical Staff
+
+Technologies: Java, XML			               		   		                
+
+Key Responsibilities:
+
+Development and Maintenance of SAP R/3 RFC Connectors which utilizes the
+SAP Java Connector framework called JCo to communicate will SAP Systems.
+This involved work in Java using JCo & J2EE Connector Architecture
+(JCA).
+
+Enhancement of Vitria BusinessWare unit-test framework (used by around
+50 developers), which involved modifications in the existing framework
+using Java and XML Parsers (DOM) so that user can provide
+configuration-based parameters using XML instead of hard coding them in
+Java Application.
+
+Defect fixing of various BusinessWare (BW 4.x) Connectors e.g. File
+Connector, Http Connector and verification of the same, which involves
+analysis, debugging and coding in Java.
+
+Verification of defects fixed on different BusinessWare components and
+coordinating with the other team members for any related issues.
+
+Education: B-Tech, IIT Kanpur (May 2003)
+

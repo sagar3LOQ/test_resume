@@ -1,0 +1,271 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                  -  3 year
+                                    
+            
+
+Spring                  
+                                  -  4
+year &
+current                                �
+�               
+
+Web
+Services                                
+        -  1.5
+year                                  
+             
+
+Core
+Java                                  
+             -  8 year
+
+Design
+Patterns                                
+    -    worked
+
+UML
+design                                 
+          -   worked 
+
+Build Tools (Maven/Ant)                    -   
+Maven   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Apache Tomcat 6.0/ Web Sphere Application Server
+
+6 ppl reporting to you
+
+Ok for bitchemy
+
+AVALA SRIDHAR REDDY
+
+E-Mail:avalasridhar@gmail.com
+
+Mobile: +91-9642171860
+
+SUMMARY
+
+Having around 7.5 years of experience in software development using Java
+and J2EE technologies
+
+Experience in developing web based, multi tier applications using HTML,
+JSP, JSTL, Java Script, JQuery as UI technologies and JSF, Struts,
+Wicket and Spring frameworks.
+
+Experience in using Oracle, MySQL and DB2 databases integrating with
+JDBC API, MyBatis and Hibernate frameworks. 
+
+Expertise in writing unit tests using JUnit, TestNG, Mockito frameworks
+and improving code quality using Hudson or Jenkins integrating with
+FindBugs, PMD, CPD and Cobertura tools.
+
+Good understanding of Classic and Agile life cycle methodologies and
+experience in working with Scrum and Kanban methodologies.
+
+Communicating with the users to understand the requirements, Defining
+the programming standards and conventions and Preparing program specs
+and unit tests
+
+Coding and reviewing code against program specs and coding standards,
+Executing unit test cases, log efforts and track defects to closure
+
+Define build sequence and performing the build and deployment, Involving
+in impact analysis and implementing the change request and Develop team
+members and strengthen team engagement.
+
+EMPLOYMENT HISTORY
+
+Working as a Technical Lead at Prokarma Softech, Hyderabad from July
+2011.
+
+Worked as a Sr. Software Engineer at Mastek Ltd, Mumbai from Sep 2007 to
+June 2011.
+
+Worked as a Software Engineer at ANM Soft, Mumbai from Dec 2006 to Sep
+2007.
+
+ACADAMIC QUALIFICATIONS
+
+Mater of Computer Applications from S.R.T.M. University.
+
+Bachelor of Science from Kakatiya University.
+
+TECHNICAL SKILLS
+
+Java and J2EE Technologies: Java, JDBC, JSP, Servlets, JSTL, JQuery,
+EJB, JSON, XML
+
+Frameworks: JSF, Struts, Spring , Hibernate, MyBatis, JUnit, TestNG 
+
+Relational Databases: Oracle, MySQL and DB2
+
+Web Servers: Tomcat, JBoss, Jetty, OC4J and Web Logic
+
+Development Tools: Eclipse, Toad, SQL Developer
+
+Defect Finding/Tracking Tools: BugZilla, ePMO, Find Bugs, PMD, CPD 
+
+Version Control: VSS, CVS, SVN, GIT
+
+Build systems: Ant, Maven
+
+Continuous Integration: Hudson, Jenkins
+
+ACHIEVEMENTS
+
+Project Excellence Award in RVOS, NA project, 2011.
+
+The Silent Workers Award, Mastek-Annual Awards, 2010.
+
+Client Appreciation Certificate from IDBI Fortis,2009.
+
+PROJECT PROFILE
+
+1. TITLE		: GATEWAY CONNECT
+
+Organization		: Prokarma,Hyderabad  
+
+Client                  : UP,Omaha,US
+
+Team Size		: 20
+
+Duration		: From July 2011 
+
+Role 			: Technical Lead 
+
+Technologies		: Spring, JSP, JQuery, GIT, MyBatis, JQuery, JQGrid,
+Spring, Oracle, Tomcat
+
+Description		: The gateway connect will provide a web based view and
+administration interface into the gateway connect system. In addition it
+will have some external commercial users use data entry to send messages
+into gateway connect system. Message view component will provide access
+to view messages at different stages based on roles and privileges. The
+messages view will include the components of the messages. The path they
+traversed within the system and their association with the other
+messages in the system. This includes view of the archival and billing.
+Profile management component will enable the creation of end-to-end
+profile  that includes configuration of the transport profile for the
+messages receive, the SRT profile to define the mediation and routing
+for the messages and the transport profile for the messages send.
+
+2. TITLE		: RVOS-PAS
+
+Organization		: MajescoMastek,Mumbai 
+
+Client                  : RVOS,North America
+
+Team Size		: 20
+
+Duration		: From Sep 2010 to June 2011 
+
+Role 			: Module Lead
+
+Technologies		: Struts, JSP, Java Script, Spring, Oracle, and JBoss
+
+Description		: The policy administration system developed by
+MajescoMastek for the CGL program comprises several modules like policy
+dash board, quote, application, endorsement, cancellation,
+reinstatement, rewrite, renweal, policy inquiry and masters. Commercial
+General Liability (CGL) program provides insurance for the liability
+arising out of maintaining a property, performing business operations
+and liability arising out of properties rented out to tenets. A property
+in case of commercial general liability refers to a structure with
+multiple homes/shops or single home/shop. There can be multiple
+properties covered under one policy with each property having multiple
+shops. Activity/work carried out in shops are termed as class code
+defined by ISO(Insurance Service Office).Each ISO code carries an ISO
+rate based on which the shop needs to be rated.
+
+3. TITLE		: IDBI-POLICY ADMIN SYSTEM
+
+Organization		: Mastek,Mumbai 
+
+Client			: IDBI Fortis,India
+
+Team Size		: 21
+
+Duration		: From Jul 2008 to Sep 2010
+
+Role 			: Senior Software Engineer
+
+Technologies		: Elixir, JSP, EJB, Oracle and OCRJ
+
+Description		: PAS is a product that improves operational efficiency and
+entails cost savings for the insurance company providing streamlined
+proposal-to-policy-to-claims cycle containing Masters, Proposal entry,
+Assessment, Underwriting, Payment and Policy generation, Claims,
+Reinsurance modules. Masters module provides the users to configure
+setup parameters such as Approval limits for underwriting, Proposal
+entry provides functionality to capture the information related to
+client, product. In Assessment sub module the information captured in
+earlier steps of the need analysis is transferred to the proposal
+information capture. The Underwriting sub module enables users to take
+underwriting decisions for proposals which are sent for underwriting
+after the auto approval process is triggered. The Payment sub module
+enables users to search and view proposals for which premium has been
+collected. The Policy generation sub module enables user to generate
+policies for proposals and to maintain dispatch receipts when policy was
+delivered to the client.
+
+4. TITLE		: CHANNEL MANAGEMENT SYSTEM
+
+Organization		: Mastek, Mumbai 
+
+Client			: AIG Korea, Korea
+
+Team Size		: 18
+
+Duration		: From Sep 2007 to Jul 2008 
+
+Role 			: Software Engineer
+
+Technologies		: Elixir, JSP, EJB, Oracle and OCRJ
+
+Description		: The Channel Management provides the functionality to
+manage all the operations of various distribution channels operated by
+an insurance company.  Functions like Production, Persistency,
+Commission, and Contests and Awards provide the ability to track the
+performance by sales staff, team, branch, sub-channel & channel. This
+project also maintains policy details, Agent’s registration, Agent’s
+Attendance, Agent’s movements, agent’s restriction details,
+agent’s complaint details. Also handle the additional functionality
+like Donation and Temporary Attachment etc. Apart from these modules
+some customer specific modules like Guarantee Insurance, Policy Transfer
+have been implemented.
+
+5. TITLE		: ONLINE FLIGHT BOOKING
+
+Organization		: ANM Soft, Mumbai 
+
+Client			: Omni Siberia, Portuguese
+
+Team Size		: 10
+
+Duration		: From Dec 2006 to Sep 2007 
+
+Role 			: Software Engineer 
+
+Technologies		: Servlets, JSF, Ajax, Hibernate, MySQL and Tomcat
+
+Description		: The online flight booking engine is intended to be used
+by the travel agents who have already signed up with the Tour Operator.
+This flight booking engine is interfaced with Amadeus and acts as a
+front end to create reservations on the Amadeus system. Through the
+booking engine the user can create a booking, retrieve old bookings and
+check availability of flights. The user needs to have a valid login id
+and password to the booking engine. The system also enables creation of
+new users and editing of the user profile along with the ability to
+change passwords if desired. The creation of bookings, flight
+availability search, retrieval of bookings, etc are done by interfacing
+with the Amadeus Global Distribution System. The user can generate a
+booking in 5 steps. Flight Search, Flight Select, Passenger Details,
+Payment details and confirmation.
+
+(Avala Sridhar Reddy)
+

@@ -1,0 +1,136 @@
+TECHPOINT PROFILE
+
+Akhil Gupta
+
+Senior Development Engineer at Pramati Technologies
+
+  HYPERLINK "mailto:akkhil2012@gmail.com"  akkhil2012@gmail.com         
+                                                      Contact Number:
+8297540671
+
+Summary
+
+Techie who enjoys building great products with great teams. Innovative
+professional with proven ability to identify, analyze and solve problems
+to increase customer satisfaction and control costs. Strong knowledge of
+Object-Oriented software engineering methodologies,UML, Agile Software
+development and full Software Development Life Cycle. Excellent in
+managing, mentoring, and coaching team members.
+
+Experience
+
+Role: Senior Development Engineer at  Pramati Technologies
+
+Duration: January 2013  -  Present (2 years 7 months)
+
+Product: WaveMaker
+
+Working as the Senior Development Engineer oversees the community for
+the product wavemaker, a RAD tool.Developed the features for the product
+ using AngularJS+OAuth and Spring Security.
+
+Involved in various roles as Development and migration of the Production
+sites to EC2 instances. Looking after the DevOps operations so as to
+make the development and release of the products go smooth as played
+crucial role in various aspects of SDLC as integration of Continous
+Integration tools as Jenkins.
+
+Responsible for addressing the wavemaker community in terms of
+implementation (solving the technical queries for the existing
+userbase)and roadmap for wavemaker Product Responsible for the migration
+of the Product website to amazon cloud environment(AWS) and as owner for
+the product.  Maintainance of the wavemaker Blog
+
+Client:Leantaas
+
+Working as a Java Developer for the Analytics/Report generating
+application using Spring, JavaScript and Fusion Chart API. 
+
+Client: AJG:IBA:International Brokerage Application
+
+Working on the maintenance and enhancements of the legacy Insurance
+Brokerage and Accounting Application running for London Insurance Market
+
+In house Development and Research:
+
+Deployment Configuration tools as Ansible. Basics of Apache Cassandra,
+Map Reduce..
+
+Role:Software Engineer Professional Services at  eGain Communications
+
+Duration: March 2012  -  December 2012  (10 months)
+
+Worked on the front end technologies as jquery,javascript,css and server
+side technologies as JSP,Servlets for
+
+multiple clients as , SuperValu, Telephonica Peru. Implemented
+application features, prototyped solutions, designed UI, and wrote
+documentation for several clients.
+
+MTN, a tele gaint of South Africa was prominent.
+
+Role:System Engineer at  TCS
+
+Duration: October 2008  -  March 2012  (3 years 6 months)
+
+Client:General Electric (Capital and Financial Services) The Application
+called Minerva is the Financial Leasing Tool developed for GE used by
+the different vendors like DELL etc to sell their Assets across the
+various European Countries, broadly classified as UK and non-UK
+platform. The leasing contracts involves the third party application
+called PACE where the pricing decisions regarding the deals are made as
+per
+
+the norms defined in the respective country for that particular Deal.
+CPE i.e. Central Processing Engine is used for the Credit Check for the
+customer 
+
+Client: Tata Sky To maintain two web applications namely EVD(Electronic
+Voucher Distribution) and tatasky.com They are developed using J2EE
+technologies., using Struts 2 Framework. EVD is an in house solution to
+cater to Tata Sky's requirement for electronic top-ups.Currently 62% of
+the total top-ups happen through the route of electronic top-ups. As
+this is a critical system and directly impacts the revenue of Tata Sky
+EVD, a TCS product is being implemented. The application is implemented
+in two modes namely, Firstly, EVDWeb throgh the Internet Secondly,
+EVDCore in order to do electronic TopUps through Short
+MessagingService(SMS) Role:Quaity Assurance Engineer:
+
+Client:EMC(www.emc.com) Worked as the Test Engineer( Quality Assurance)
+which involves the execution of the testcases manually for the
+datastorage devices hosted remotely in Hopkinton,US. It involved the
+testcases to ensure the sinking of the Data stores in various type of
+devices manually.
+
+Skills & Expertise
+
+	Programming Languages	Java , DataStructures and Algorithms
+
+Frame Works	Spring
+
+Cloud Computing	Cloud Computing Amazon Web Services(Configuration) ,
+OAuth , Drupal(CMS)
+
+
+
+IDEs/Tools	Talend(an ETL Tool) , UML(Star UML)
+
+
+
+Institute	Education
+
+NIT Srinagar	Bachelor of Technology (BTech), Electronics and
+Communications Engineering, 2004 - 2008
+
+
+
+Govt. School, Solan	SSC, 2002
+
+ST. Lukes' Solan
+
+	HSC, science, Maths, 1997 - 2000
+
+
+
+
+

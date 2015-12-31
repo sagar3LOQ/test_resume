@@ -1,0 +1,125 @@
+Sunil Kumar Chidara
+Personal Details:
+Date of Birth: 24th March, 1986
+Address: Plot­314, House­11­12­31, Road­1, RK 
+Puram, Hyderabad Pin­500035
+Academic Details:
+Education
+B.Tech (Civil Engineering)
+Intermediate
+Matriculation
+
+Sex: Male
+
+Institute/Board
+Indian Institute of Technology, Bombay
+A.P State Board
+A.P State Board
+
+Year of Passing
+2007
+2003
+2001
+
+CPI/%
+8.25/10
+89.8%
+87.3%
+
+Work Experience:
+Company: Global Analytics India Pvt. Ltd.                                         Duration: Mar ’11 – Apr ‘12
+I  Worked  as  manager  of  the  R&D  team.  I  lead  the  team  in  developing  several  cutting  edge  analytics 
+tools.  My   team  has   developed  applications   of  the  newer   analytics  methods,  to  be  used  by  various 
+teams  (predictive  analytics  team,  marketing  analytics  team  and  others)  across  the  organization   allowing 
+them to harness the additional predictive power. 
+Projects that provided high value addition were,
+1. Automated Modelling in case of a real time decisioning system for an online lender­ (Platform: R, 
+python, C++, MySQL)
+Aim­  To  be  able  to  build  models  on various  targets  in a near  real time manner  with minimum human 
+interaction.  The  platform  also  covered  the  real  time  implementation  of  the  models  along  with  the  decision 
+logic.  Once  ready  this  project  has  the  potential  to  reduce  the  existing  workload  of  analytics  and software 
+teams by as much as 50% while also giving much quicker results than otherwise.
+I lead the R&D team in preparing the initial version which covered,
+1.  A generic variable building  module  consisting of  code and  data libraries with flexibility to  create  all 
+types  of  static  variables,  summary  variables,  dynamic  filters,  bayesian  risk  tables   using  data  from  various 
+stages of loans.
+2. Model building module covering a variety of models and automatic finetuning of the models.
+3.  Validation  and  reporting  module  to  assess  the  performance  of  the  models  on  various  targets  and 
+performance metrics relevant to the profits of the business.
+4.  Decision  logic  module  covering  various  score  combination  modules,  champion  challenger 
+engines which could be placed in the real time decisioning system.
+The  version  reduced  the  model  development   time  by  more  than  40%,  saving  analysts’  quality  time  in 
+generating  valuable  business  insights.  It  also  eliminated  the  duplication  of   work  by  analytics  and 
+softwares teams on different platforms.
+I  was  also  part  of  the  team  involved  in  designing  the  architecture  of  the  automated  modelling  and 
+decisioning system.
+2. Behavioural Variables­
+We  developed  variables  using  the  behavioural  data  of  the  customer  on  the  loan  application  website.  
+These variables were highly predictive of the risk, fraud and other targets.
+
+I  also  lead  the  team  in  developing  models  using  techniques  like  random  forest,  blending,  ensembling, 
+clustering,   bootstrapping,  SVD,  boosting,  residual  modeling,  generalised   linear  models  etc. We 
+prepared  framework   and  started  working  on  optimizing  the  bid  price  in  online  pay  per  click 
+ad­campaigns  for  short   term  loans.  We  also  explored  the  possibility  of  implementing  map­reduce 
+algorithms to optimize utilisation of computing resources.
+Company: Novartis Healthcare Pvt. Ltd.                                              Duration: Jan ’10 – Mar ‘11
+I  worked  for  the  team  providing  analytics  solutions  to  US  marketing  division.  The  team  worked  on 
+analysing  the  effectiveness  of  the  various  kinds  of  promotions  of  the  portfolio  of  the  drugs  and  in 
+generating recommendations to maximize the sales for a given spend on promotions.
+PromoMix Model­ (Platform: SAS)
+The  hierarchical  mixed  model  aims  to  find  effectiveness  of  a  mix  of  promotions  in  generating  drug 
+sales.  I  suggested  changes   to  the  existing  methodology of  aggregating  the  historical promotions.  With 
+the  new  method  the  effectiveness  of   promotions  increased,  especially  for drugs  new to  the  market or 
+for  those  with  fluctuating  trends  in  promotional  spend.  Being  part  of  the  team,  I  worked  on  periodic 
+application  of  the  model  to  various  drug  markets  and  on  selling  our  recommendations  to  the 
+marketing team.
+Bayesian Model­ (Platform: C++, python)
+We  worked  with  a  team  from an Ivy  league  university in  the  US to  design and implement promotion mix 
+model  in  the  bayesian  framework.  This  project  was  an  excellent   learning   experience  in  the  field  of 
+statistics and model building.
+Company: Global Analytics India Pvt. Ltd.                                          Duration: Jun ’07 – Dec ‘09
+I  developed  modeling,  analytical,  data  interpretation,  software,  problem­solving  and 
+communication  skills  at  the  company.   I  had  a  steep  growth  and  became  a  part  of  the  CORE 
+TECHNICAL  team   that   addresses  the  tough  technical  (Modeling  and  Software)  problems  in  various 
+projects. I was part of following projects,
+Health Care Sector ­ (Platform: Microsoft Excel)
+I  successfully   developed  the  excel  based  tool leading a  team of two. The  work consisted  of  understanding 
+the  business  problem,  conducting  market  research  and  formulating  the  optimization  problem  with  the 
+available data, constraints and the future possibilities.
+Lead Harmony – (Platform: Modeling in SAS and Software deployment in Python)
+Aim­  Optimize  the  pricing and selling  of  leads  (online loan  applications) to  lenders using  historical purchase 
+behaviour.
+My work consisted of (among other things):
+1. Data processing using SAS/shell
+2. Conducting various analysis to understand the data and to observe the dominant trends.
+3.  Creation  of  the  predictive  variables  for  the  models  which  should  also  be  easily  implementable  in 
+the   real  time  decisioning  environment.  We  had  devised  algorithms  (similar  to  pagerank)  to  capture 
+the  interactions  among  different  lenders  in  terms  of  their  purchase  behavior  and  converted  them into 
+predictive variables for the model.
+4.  Development  of  statistical   models  (logistic,  linear,  residual  and  Classification  and  Regression 
+Trees) to predict the purchase of the leads by the lender.
+
+5.  Formulation  and  implementation  of  the  decision  logic,  for  the  real­time  system.  It   takes  the  
+probabilities  of  lenders  as  input  and  produces  the  optimal  order  of  lenders to  maximize  the profit within 
+a given time. 
+Academic Projects:
+B.Tech Project: Integration of Global Positioning System (GPS) and Inertial Navigation System (INS) ­
+The  work  consisted  of  development  of  a  software   platform  for  integration  of  navigational  data  of  the 
+vehicle  obtained  from  GPS  and  INS,  through  the  implementation  of  kalman  filter.  The  error  of  the 
+combined estimate decreased significantly as compared to the individual estimates.
+Softwares Used:
+SAS, MySQL, Python, MATLAB, EXCEL, Perl (basic), C++ (basic), R, Shell scripting
+Extracurricular Activities:
+1. I worked as Coordinator of Techfest­05, technological festival held at IIT Bombay
+2.  I  won  the  West­Point  Bridge  Designing  Competition  held  at  Techfest­06.  It  was  an  online  bridge  
+designing  contest   to  build  a   cost  efficient  bridge  taking  given  load  conditions  and  using  a  variety  of 
+materials.
+3. I was instrumental in organizing the Performance Arts Festival at IIT Bombay
+Other Information:
+1. I Cleared the Advanced Programming Course, held at IIT as part of continuing education program in 
+the summers, with a good grade.
+2. I am a Recipient of Pratibha Scholarship from government of A.P
+3. I enjoy mountaineering, swimming, cooking and reading books on Statistics, Economics, Philosophy, and 
+Data analysis
+
+

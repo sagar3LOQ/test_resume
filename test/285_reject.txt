@@ -1,0 +1,287 @@
+Abhijeet Singh Rathaur
+
+
+
+  Ph: 91-9850571849   email:Abhijeet.rathaur@gmail.com
+
+
+
+	  Summary 
+
+	12+ years of experience in software product development.
+
+Over 8+ years of experience in Product Development.
+
+Expertise in developing product using Agile Methodology.
+
+Hands on experience in Design, Development and Architecture of products.
+
+
+
+Technical Expertise
+
+Enterprise Softwares :J2EE, Hibernate, Struts,Ajax,Dojo,MySQL,Db2,WAS,Jboss
+
+Project Management Tools: VSS, CVS, SVN, Rational Tools., Rally, JIRA
+
+Open Source: OSGI,Ant,
+
+
+
+Adrenalin IPTV Back Office						Aug 2013- Till Now
+
+Client : SeaChange International Inc.
+
+Persistent Systems Ltd., Pune					
+
+Technical Specialist
+
+	
+
+	Description:
+
+	Adrenalin is leading multi-screen and advertising solution for television service providers of any size. Publisher is a component that holds the metadata for contents, customer, devices, subscription and many more. Publisher is heart of Adrenalin product which provides the necessary information to all Adrenalin components over Restful API’s. 
+
+	
+
+Rave: Rave empowers media companies, studios, broadcasters, sports leagues and service providers to manage, deliver, and analyze any type of content across any platform.
+
+
+
+Hosted content and advertising services, including preparation, management, protection, monitoring and delivery, provide multiscreen consumers with an individualized, TV quality experience that includes on-demand, live, time-shifted, nPVR, pay-per-view to downloaded to own.
+
+
+
+
+
+Responsibilities:
+
+			Understanding and Analysis of requirements.
+
+			Design and Development of product components/ Features/ Improvements
+
+			Involved in code writing.
+
+			Handling a team of 5 for Publisher
+
+			Handling team of 9 for Rave
+
+	
+
+	Publisher Environment:
+
+Java, Cassandra 1.2.13, Zookeeper 3.4.5, Rest Services.
+
+Rave Environment: Restful web services using Play framework, Akka (toolkit) {Actor Implementation}, Java, SBT
+
+xMES (Manufacturing Execution System) Product			June 2010-Aug-2013
+
+Performix Solutions Pvt. Ltd., Pune					
+
+Client: Product Development
+
+Associate Technical Manager
+
+
+
+Description:
+
+Performix, Inc. provides a suite of manufacturing solutions for SAP clients in the Life Sciences, Consumer Products, and Process Manufacturing verticals. By providing industry focused solutions that extend the value of your SAP investment; the Performix Manufacturing Solutions suite accelerates manufacturing visibility and control by connecting the enterprise to the shop floor.
+
+	
+
+	Environment:
+
+		JAVA, EJB, Hibernate, Jboss 5.1.0 GA
+
+
+
+
+
+Tivoli Role Governance						 Jan 2009 – June 2010
+
+India Software Labs, IBM, Pune					
+
+Client: IBM
+
+Developer 
+
+
+
+Description:
+
+This is a new product development. The focus of this product is to help customer to manage different activities related to the organizational roles. It involves activities like role lifecycle management, role mining etc. This product leverages java/j2ee related technologies which are latest in today’s market like Context Data Model. It also utilizes combination of different advanced java/j2ee related technologies like OSGi architecture, Eclipse plug-in architecture, EMF, AOP. This also involves different design patterns like service locator, factory etc.
+
+
+
+	Environment:
+
+		Java, JSP, Servlet), EJB 2.0, Ajax (dojo), AspectJ, OSGi, eclipse plug-in model, IdAS, WebSphere Application Server (Integrated solution console), Junit
+
+		
+
+		Tivoli Directory Server							   Nov 2005 – Dec 2008
+
+	India Software Labs, IBM, Pune					
+
+	Client: IBM
+
+		Developer
+
+	
+
+	Description:
+
+		Tivoli Directory Server is a powerful, security-rich and standards-compliant enterprise directory for corporate intranets and the Internet. Tivoli Directory Server provides a powerful Lightweight Directory Access Protocol (LDAP) identity infrastructure that is the foundation for deploying comprehensive identity management applications.
+
+		Web Administration tool, White Pages and Config utility is Java based applications which gives administrators a comfort to perform administrative tasks using Java/ J2ee based tools.
+
+		Installer has been created using ISMP 11.5 which, uses Java classes.
+
+Environment:
+
+Core Java 1.5, JSP, Servlets, Struts 1.1 and Install Shield multiplatform 11.5, AUIML 7.0.1, Tomcat 5.5, eWAS 6.1
+
+
+
+Dealer Finance System (DFS) Web Application				  June 2004 – Oct 2005
+
+Patni Computer Systems Ltd, Pune					
+
+Client: Electrolux, USA. 				
+
+Developer, GL, Configuration Manager
+
+
+
+Description:
+
+EFC (Electrolux Finance Corporation), a wholly owned subsidiary of AB/Electrolux, is one of three inventory financing companies in the appliance industry (the other two are Transamerica and GE Capital).  EFC has differentiated itself in the marketplace due to a commitment to service.  Many customers are loyal to EFC due to the level of service they receive.  This competitive advantage is at risk due to the adoption of web technology by the industry, and the increasing acceptance of it by the dealer base. The proposed Dealer Finance System– DFS Web application would allow dealers to view their accounts themselves and by applying their own payments and credit memos, would reduce manual adjustments. It is likely that a well-done web based dealer interface will reduce the substantial workload involved with business volume increases.
+
+	
+
+	Environment:
+
+	Java, JSP, JDBC, EJB 2.0, log4j, IBM WebSphere Application Developer 5.0, AS/400 on Windows 2000.
+
+	
+
+	
+
+	Barnard Haldane Online.					            April 2004 – June 2004
+
+	Patni Computer Systems Ltd.,Pune
+
+	Client: Bernard Haldane Associates, USA.
+
+	Developer, Group Leader, CM
+
+	
+
+	Description:
+
+	BHA Career is a web based job hunt site through which different recruiters can see the candidate’s profile and workbook and can generate the Resource book, which suits the recruiter’s criteria. Also candidates can generate their workbook in PDF format and upload their resumes, profile and other info that can be later used by the different recruiters. It has two phases one is the administration module and other one is related to the web site. A very crucial aspect was the stringent timelines for the project delivery with very little documentation available for the development team. It also involves the development of the official website http://www.bhacareeradvantage.com . This Project got the CSS (Customer Satisfaction Survey) rating 5(Max) and team got the Excellent Performance Certificate from client.
+
+	
+
+	Environment:
+
+	Resin 3.0.6 on Windows2000 using IntellijIdea as IDE for Development, J2EE (JSP,
+
+	Servlets, Java etc), and Apache Struts framework 1.1, SQLServer
+
+	
+
+	
+
+	Thus EChannel.							  Nov 2003 –April 2004
+
+	Patni Computer Systems Ltd., Pune
+
+	Client: Thus EChannel, UK.
+
+	Developer, Configuration Manager
+
+	
+
+	Description:
+
+	eChannel is web-based application, which is split into two phases. The first phase will give the www.Demon.net site a fresh look and build revenue with improved online purchase processes, usability, content presentation and marketing. The second phase will expand the capability of the Demon eChannel and redevelop the Thus website www.thus.net. The project is developed using Struts framework, with multi-tiered architecture for scalability. Aim of project is to provide a stable, scalable platform for future consolidation of all Internets, Extranet and possible Intranet environments, provide a new “look and feel” and create a customer-focused merchandising approach where Thus and Demon customers are presented products in a logical, consistent, and personalized manner.
+
+	
+
+	Environment:
+
+	JBoss 3.2.1 on Windows2000 using IntellijIdea as IDE for Development, J2EE (JSP, Servlets, Java etc), Apache Struts framework 1.1, Oracle 8i.
+
+	
+
+	
+
+	
+
+	Xchanging Agency Service.					                July2003 – Nov2003
+
+	Patni Computer Systems Ltd., Pune
+
+	Client: Xchanging, UK.
+
+	Developer, Configuration Manager
+
+	
+
+	
+
+	Description:
+
+		Agency Service is a web portal which allows the customers of Xchanging to place their employee requirements and agencies working for Xchanging to fulfill these requirements by maintaining candidate CVs, changing their status and fulfilling the customer requirements. It also provides recruitment services to NOVAR and BAE in UK.
+
+
+
+Environment:
+
+OC4J, J2EE (JSP, Servlets, JDBC, XML, Java Mail API), Oracle 8i.
+
+
+
+
+
+AWARDS:
+
+
+
+		Commitment and Dedication Award from CEO, Performix Inc.
+
+		Received IBM BRAVO! For the significant contribution to improve the usability of online backup feature in TDS 6.2 webadmin tool.
+
+		“Excellent Performance” certificate from the client for the Barnard Haldane Project.
+
+		
+
+
+
+
+
+EDUCATION:
+
+
+
+Masters of Computer Application, 2003.
+
+Bachelor of Computer Science, 1999.
+
+
+
+
+
+PERSONAL DETAILS:
+
+
+
+Date of Birth    	:  	07-08-1979
+
+Sex                  	:  	Male
+
+Marital Status  	:  	Married  
+
+Languages      	:       	English(R/W/S), Hindi(R/W/S)

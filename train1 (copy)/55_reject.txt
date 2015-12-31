@@ -1,0 +1,575 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+               - 
+6months                                �
+�              
+
+Spring                  
+                               -  2.5years&
+current(IOC,JDBC)
+
+Web
+Services                                
+       -  knowledge
+
+Core
+Java                                  
+             -  6 years
+
+Design
+Patterns                                
+    -   proxy design,factory
+
+UML
+design                                 
+          -    
+
+Build Tools (Maven/Ant)                    -   
+maven/ant   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Weblogic/tomcat/websphere
+
+Ok to startup
+
+Code:80% design 20%
+
+Kishor Kumar. Kethineni
+
+Ph.: (M) +919849430993, E-Mail:kethinenijava@gmail.com
+
+OBJECTIVE
+
+Seeking a challenging role in the area of IT to contribute towards
+organizational success and grow to as a Java Architect.
+
+SYNOPSIS
+
+Meticulous and highly accomplished professional with 6.8 Years of
+experience in Software Industry as Team member. Proficient in Core Java,
+J2ee, Android ,Struts, Spring, Hibernate, Servlets and Jsp, Sql, Junit,
+Jquery and Ajax deep understanding of technology with focus on
+delivering business solutions; Persuasive communicator with exceptional
+relationship management skills with the ability to relate to people at
+any level of business and management; Highly ethical, trustworthy and
+discreet.
+
+Possessing valuable insights, keen analysis and team approach to
+implement best practices to achieve excellence.
+
+Adopt at working in high pressure environments with strict deadlines and
+multiple deliverables 
+
+Proven skills in enhancing overall Operations. Demonstrated ability to
+manage human, financial and material resources towards the achievement
+of stated targets, to lead, motivate and provide effective guidance to a
+team of professional and support staff. 
+
+Superior communications and interpersonal skills, multitasking with an
+ability to interact with a wide range of people.
+
+Excellent Communication and Organizational skills with zeal to learn new
+technologies.
+
+CORE COMPENTENCIES 
+
+Business Development
+
+Proactive and industrious
+
+Team Management
+
+Problem Solving
+
+Coordination 
+
+Developing & Designing
+
+EDUCATIONAL QUALIFICATIONS
+
+M.C.A from CMR college of Engineering and Technology in 2007.
+
+B.Sc (M.P.C’s) with specialization in Computers from Chundi
+Ranganayakulu Degree College in 2004.
+
+Intermediate with specialization in M.P.C from Modern Junior College in
+2001.
+
+SSC from ZPPH School ,Vellore in 2000.
+
+TECHNICAL SKILLS
+
+Languages:		Java.
+
+ Database:		Oracle.
+
+Java Technologies:	JSP, Servlets, Struts, Hibernate, Ajax, Spring, and
+Junit.
+
+Mobile Technologies    Android & J2me.
+
+Web Technologies	HTML, Java Script, Jquery, High Charts, Fusion Charts
+and XML.
+
+Middleware		MQ series and Tibco.
+
+Domain Knowledge:	Insurance, Retail, Health Care & FX Trading.
+
+WORK EXPERIENCE
+
+Have been working as Team Lead in “Polaris Financial Technologies
+Ltd”, Hyderabad.
+
+Worked in “Cognizant Technology Solutions”, Chennai.  
+
+Worked in “3i-infotech limited”, Mumbai. 	      
+
+ 				
+
+PROJECTS HANDLED
+
+# Project: 1
+
+Client:		Citi
+
+Name:                 Confirmation Management System
+
+Location:	Hyderabad.
+
+Role:                   Team Lead.
+
+Domain:	Fx.
+
+Team Size:	8 Members.
+
+Environment:	Core java,Spring Ioc,mvc,jdbc,jsp,linux, weblogic server 
+and Oracle.
+
+Description:
+
+CMS is a Confirmation Management System for Remote Processing Centers.
+CMS is a back office system. CMS have two modules CVD and MDMS. Cvd is
+citi valuation direct.It is basically process  Fixed
+Income,Equities,Commodites and Fx trades booked in different front
+office systems.Deal information in .txt format from different source
+systems likes oasys and eqrms etc.Once files are available at this
+system, it can process them and storing into the database. From web
+modules end users can see their trades data and reports. MDMS is margin
+dispute management system it is also feed processing system. But in mdms
+end user can check their trades are matched or not.
+
+Key Deliverables:  
+
+Involving in CVD and MDMS applications.
+
+Playing role as a Lead for offshore team & interacting with onsite.
+
+Involving  in Feed processing system in cvd and mdms.
+
+Sit,uat and Production support at client location.
+
+Closely working  with production support team  to clarify issues
+
+# Project: 2
+
+Client:		Citi
+
+Name:                 Citi Direct BE 1.3 b.
+
+Location:	Chennai.
+
+Role:                   Team Lead.
+
+Domain:	Banking.
+
+Team Size:	10 Members.
+
+Environment:	Spring IOC, Webservice, XSLT, RAD8.0, Websphere 7.0, Soap
+UI, Oracle.
+
+Description:
+
+The Main objective of this project is to migrate  the applet based
+CitiDirect Classic application.This CitiDirect BE13B migrates the
+Reports & Inquiries of CD Classic application to enriched web based
+application using .Net framework,Java(WebServices) & reusing the
+existing CitiDirect Components. .Net framework front end arise the
+webservice request to UI Service.UI  Service is an intermediate
+system,which converts Soap Request  to CD Classic application
+understandable CFC Request using XSLT Transformation.The  CD Classic
+application process the CFC Request & send back CFC Response to UI
+Service and UI Service  converts received  CFC Response to SoapResponse
+which will be rendered in the front-end by .NET.
+
+Key Deliverables:  
+
+Requirements and Analysis: Understanding the requirements of the client
+and act as a sole functional resource.
+
+Playing role as a Lead for offshore team & interacting with onsite team.
+
+Developed Services for Reports& Inquiry Module.
+
+Developed base XSLT’s for Reports & Inquiry Modules.
+
+Closely worked with FRD team to get the required inputs for
+Reports/Inquiry.
+
+Interacting with the client for requirement gathering, status reporting
+and issue tracking.
+
+# Project: 3
+
+Client:		Citi. 
+
+Name:                 Citi Velocity.
+
+Location:	Chennai.
+
+Role:                   Team Lead.
+
+Domain:	FX Trading. 
+
+Team Size:	5 Members.
+
+Environment:	Struts, Spring, JDBC, XML, AJAX, Jquery, Fusion Charts,
+High Charts, Json, Oracle 10g, Web Logic 9.2 and Tomcat.
+
+Description:  
+
+		Citi Velocity provides  information about  the FX trading and  also 
+it  gives  currency  Exchange information with stop loss , max gain  and
+max loss  charts  with  percentages. Citi Velocity provides info about
+market strategy information like daily, weekly, monthly and yearly basis
+to the end users. 
+
+Key Deliverables:
+
+Developed java components for the business logic.
+
+UAT, STG and Production support at client location.
+
+Providing root cause analysis and fixing the production issues.
+
+Involved in various modules like Portfolio, Techamentals, and
+publications.
+
+# Project: 4
+
+Client:		Ingenix.
+
+Name:                 Contract Manager.
+
+Location:	Chennai.
+
+Team Size:	4 Members.
+
+Role:		Team member.
+
+Domain:	Health Care.
+
+Environment:	Struts, Hibernate, Jboss application server, Ejb, Web
+Service and    
+
+                                 Oracle and Agile (Scrum model).
+
+Description:  
+
+Contract manager is an application that tells about the contract that
+exists between any two parties. Here the parties are payers and
+providers. Payers: Insurance companies, Providers: Hospitals. Contract
+manager application is used by providers (in hospitals). The
+provider’s gives treatment to the people (covers under some health
+policy) and based on the details they are having, the providers will
+raise claim for reimbursement of payments.  Remittance is given by
+payers. Based on the variance of their invoice lines, the providers can
+generate appeal to recover their variances.
+
+Key Deliverables:
+
+Coordinating with onsite leads on day to day basis.
+
+Involved in Junit Testing for Contract Manager.
+
+Involved in contracts module.
+
+Followed Scrum model.
+
+# Project: 5
+
+Client:		US Health Care.
+
+Name:		All Scripts.
+
+Location:	Chennai.
+
+Team Size:	5 Members.
+
+Role:		Team Member.
+
+Domain:	Health Care.
+
+Environment:	Struts, Jpa, Jboss Portal Server, Web Service and Oracle.
+
+Description:  
+
+The All scripts is the clear leader in software, services, information
+and connectivity solutions
+
+that empower physicians and other healthcare providers to deliver
+best-in-class patient safety, 
+
+clinical outcomes and financial results. Nationwide, more than 160,000
+physicians, 
+
+800 hospitals and thousands of other healthcare providers in clinics,
+post-acute care facilities, 
+
+and homecare agencies utilize All scripts solutions to automate and
+connect their clinical and business operations. Clients. All scripts is
+transforming our disconnected 'healthcare' system into a connected
+system of 'health'.
+
+Key Deliverables:
+
+Worked as incident coordinator.
+
+Worked in Generic portal User Creation module.
+
+Worked in Junit Testing for Generic Portal module.
+
+Supported  for QA team while did manual testing.
+
+ 
+
+# Project: 6
+
+Client:		Ebay. 
+
+Name:		Carad Part Center.
+
+Location:	Chennai.
+
+Team Size:	4 Members.
+
+Role:		Team Member.
+
+Domain:	Retail.
+
+Environment:	Core java, EBay framework and Oracle.
+
+Description:	EBay CarAd is one of the eBay’s listing tools which
+onboard bulk listing merchandisers and posts their vehicle listings at
+eBay motors. CarAd environment as a whole consists of a variety of
+applications all focused on the same overall objective – to enable
+users to manage vehicles easily on eBay Motors and make them more
+successful at the same time. Individually these applications automate
+key functions for our users, so that they don’t have to perform them.
+Featured includes getting up-to-date auction information, auto-launching
+of scheduled auctions, catching re-listed items that did not go through
+the CarAd application, the retrieval of bidder’s contact information
+as a lead generator and a web application as the primary interface to
+manage items on eBay Motors.
+
+Key Deliverables:
+
+Worked in DAL layer.
+
+Worked in Product Feed Data Feed Batch.
+
+Worked in Inventory and Fitment DataFeedBatch.
+
+Worked updating batches Status UI Screen.
+
+Worked in Purge Task batch.
+
+ # Project: 7
+
+Client:		Cognizant Android COE. 
+
+Name:		Android GPS Locator POC.
+
+Location:	Chennai.
+
+Team Size:	4 Members.
+
+Role:		Team Member.
+
+Platform:	 Mobile.
+
+Environment:	Java and Android.
+
+Description:	                       GPS locator which provides the
+functionalities Geocode and sending messages to other mobile about the
+position of the Geocode. Geocode will store into Data base about the
+place and position of you stand. 
+
+Key Deliverables:
+
+Involved in develop UI screens.
+
+ Involved in shared preferences and SQLite database.
+
+Involved in  Facebook UI screens for Cognizant POC
+
+# Project: 8
+
+Client:		Alfa TM Insurance.
+
+Name:		Alfa Internet Strategy
+
+Location:	Chennai
+
+Team Size:	4 Members
+
+Role:		Team Member.
+
+Domain:	Insurance.
+
+Environment:	Java, JSF, Web Services, Web logic Portal, Web logic
+server, 
+
+Description:	                       The client and its affiliates
+provide insurance and other financial services for more than 50 years to
+1 million customers in 13 states of US. The client wanted to increase
+its market share of profitable business, improve customer service and
+provide a platform for customer self service functionality, through the
+use of an internet portal. To accomplish this, an efficient means of
+registering existing members/customers in a secure, understandable and
+user-friendly format was created.  Cognizant was involved in designing,
+developing, testing and implementing an On-Line Existing Member/Customer
+Registration facility on the client’s portal which caters to industry,
+regulatory and consumer requirements. 
+
+Post registration, the customer logs into the client’s portal using
+their registered email address. On successful login including Password
+authentication, the user is presented with a welcome page. The customer
+can then select and proceed to view his/ her policy/ loan details,
+categorized under various products and print their auto ID cards.
+
+Additionally, existing customers have the ability to Request a Change on
+any  of their current policies using  a Request a Change Form process.
+This form would capture the information as entered by the user and send
+this information to the SAAS providers’ system in the appropriate
+format so that the Call Center can make any changes as requested by the
+user as well as get in touch with the customer if required.
+
+Key Deliverables:
+
+Involved in User Registration module  
+
+End to End unit testing and system Testing.
+
+Involved in Browsers Compatibility issues.
+
+Involved in Implementing JSF pages based on wireframes and HTML mockups.
+
+Involved in View Policy application.
+
+Developed on web logic workshop and deployed on web logic Server.
+
+# Project: 9
+
+Client:		Cognizant Mobile COE
+
+Name:		Location Based Service
+
+Location:	Chennai
+
+Team Size:	4 Members
+
+Role:		Team Member.
+
+Platform:	 Mobile.
+
+Environment:	J2SE, J2ME, Web Services, Tomcat 5.5, Eclipse and SWTK
+2.5.1 
+
+Description:	                    Location Based Service is java based
+web service which provides two functionalities Route Map and GeoCode.
+These functionalities will internally use geo spatial provider to get
+the GeoCode and route map details. The functionality is abstracted at
+the server side and is consumed from different client devices from
+respective client applications like iPhone, Nokia N91 etc.
+
+Key Deliverables:
+
+Involved in develop client to test the WSC is giving response.
+
+Involved in develop J2ME screens.
+
+Involved in develop J2ME Mobiles to consume WSC.
+
+Involved in Low Level API Application for Graphics using Canvas in j2me.
+
+Involved in analysis on Different JSR on Graphics like JSR 184, JSR 209,
+and JSR 234 etc.
+
+ Involved in develop Zoom In and Zoom Out concept   for Location Based
+maps using j2me.
+
+# Project: 10
+
+Client:		ICICI Bank Ltd.
+
+Name:		Logical Access Management
+
+Location:	Mumbai
+
+Team Size:	10 Members
+
+Role:		Team Member.
+
+Domain:	Finance.
+
+Environment:	Core Java, JDBC, Oracle, Sql server, Hibernate.
+
+Description:	Lam is a Logical Access Management project. The main aim of
+the application is Automization the applications of ICICI Bank. This
+project deals with creating a User to a particular application, Updating
+and Deleting a User for the applications. A User can put a request for a
+user either creation or updation or deletion of a user through Lam
+Interface. Requests for ICICI Group employees ID creation / deletion /
+modification should be requested by the employee himself/herself or for
+another user. Since sharing of user id is prohibited and users must not
+allow others to perform any activity with their user ids, proper
+justification should be provided in case you are requesting on behalf of
+somebody. The Main use of this Application reduces the time to create
+Ids for each Application, reduce the Cost and reduces the Resources.
+
+Key Deliverables:
+
+Developed Stand Alone Application using JDBC
+
+Dealing with appropriate Databases according to the application.
+
+Involved in ACM module (Access control matrix).
+
+Involved in Lam Interface Request Form.
+
+Coding for Hibernate classes
+
+This is developed on Eclipse and deployed on web logic Server.
+
+PERSONAL VITAE
+
+Date of Birth:			6th April 1984
+
+Gender:				Male
+
+Nationality:			Indian
+
+Languages Known:			English, Telugu and Hindi
+
+Preferred Location:			Hyderabad,Chennai or Onsite.
+
+Passport			G2419771
+
+(Kishor Kumar.K)
+
+	
+

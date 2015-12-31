@@ -1,0 +1,393 @@
+Tulshekar Gangireddy
+
+Technical Summary
+
+Over 17 years of experience in Managing, Architecting, Designing,
+Development and deployment of Products and Projects (Solutions).
+
+Significant Strengths -- Quick Learner, Adaptable, Excellent teamwork
+skills backed up with creative thinking, good communication and problem
+solving skills. 
+
+Language:	Java and J2EE, Perl, SDL, Shell Scripting, XML Technologies,
+Webservices, C, C++
+
+Technology:	CORBA, High Availability Clusters (RAC), VoIP, J2EE, UML
+Methodology, SOA
+
+Telecom Domain:	IN, SS7, H323, WAP, SIP, CCXML, and VXML
+
+Operating System:	HP-UX, Linux, Solaris, and Windows
+
+Tools:	Telelogic SDL, Rational Rose, and TogetherJ
+
+Backend Databases: 	Oracle, Mysql
+
+NoSQL systems:	Cassandra
+
+Application Servers: 	Weblogic Server, Apache Tomcat 
+
+EAI products:	Weblogic Integration, Aqualogic Service Bus and other
+opensource ESBs 
+
+Knowledge:	OpenSource Frameworks like Spring, Struts, Struts 2, Flex,
+ICEfaces etc. Zachman EA Framework.
+
+Big Data :	Hadoop.
+
+Education:	-Master of Engineering (Computer Science) – 8.6 CGPA
+
+                                                              PSG
+College of Technology.
+
+	-Pursuing Senior Management Program from IIM Calcutta.
+
+Experience
+
+Director of Engineering, Cafyne R&D India Ltd – Mar 15 – now.
+
+Head of Engineering responsible for the End to End Product Development,
+Quality Assurance and Development Operations of the Product. Product
+deals with Real Time Analytics and Social Media Compliance using Storm
+based systems, NLP based ontology implementations. 
+
+Engineering Manager, Juniper Networks India Ltd ..Jan’14- Mar’15
+
+Head their engineering Team for Security Insights group building Device
+Data Analytics applications for Juniper products. 
+
+Engineering Manager, Apigee India Pvt Ltd.,   Aug’ 12–  Jan 2014
+
+Build, Manage and Enhance their API platform engineering. 90-95% of API
+customers were served by this platform and was chaotic with a lot of
+production issues when it took the ownership of the same. Completely
+streamlined a chaotic situation of the old platform and made sure it is
+a smooth sail for customers on the platform and their move to the new
+platform. Responsibility of this team is to provide enhancements, help
+customers in their application implementation and issue resolution on
+the API platform. 
+
+Build, Manage the Apigee’s on-premise self-service multi-tenant cloud
+platform.  My team is responsible for enhancing the self-service cloud
+platform to work for On-premise customers i.e., developing custom
+adapters, building diagnostic capabilities for easy integration into
+customer environments, build an installation capability for the
+on-premise complex network deployment topologies. 
+
+Engineering Manager, Yahoo SDC India Ltd.,   Jun’ 10– Apr’12
+
+Architect, Build and Manage the Migration Platform product (Many-to-Many
+Service Mediation Platform). Contribute to Yahoo! Messenger, Yahoo! Mail
+backend engineering.
+
+Build and Manage a team responsible for providing migration engineering
+services to the Yahoo! Distribution Partners across the world.Build and
+Enhance the features of Yahoo! Messenger and Yahoo! Mail platforms. 
+
+Engineering Manager, Akamai Technologies India Ltd.,   Mar’ 07 –
+Jun’10.
+
+Architect and Manage their Download Analytics Product line from
+Bangalore office. End-to-End product development for this analytics
+product is the responsibility of my team in Bangalore. 
+
+I manage a small team who are responsible for design, development of
+Download Analytics products for various HTTP Content Delivery Mechanisms
+of Akamai.  It is a Techno-managerial role. 
+
+My roles and responsibilities are form/grow the team, Architect and
+guide them through the dev process and getting them to understand the
+‘Big Picture’, Make them Self Sufficient and grow them technically
+and as an individual. 
+
+The team has contributed to beta release of the product, on the way to
+be LA (Limited Availability).
+
+Technical Architect, FCG Software Services India Ltd., Sept’06 –
+Mar’07.
+
+ Define Reference Architectures for FCG SOA initiative. 
+
+Currently working to create a Reference Architecture for ECM (Enterprise
+Content Management) using Enterprise Service Bus(BEA Aqualogic, Mule
+etc), Drools (Jboss Rules Engine), Documentum and J2EE technologies. 
+
+Architecture Creation/Validation Services
+
+As an Architect, I help FCG to create new architectures and proposal for
+new projects and new customers. I do Architecture validations etc
+wherever required in case of already existing projects and
+re-engineering projects.
+
+PoCs for a New Clients and New Partnerships 
+
+Lead new client initiatives and created PoC for a telecom application
+which uses technologies like J2EE(JSP/Struts), Hibernate, Flux, Jbpm. We
+have won the project based on the work done on the same. 
+
+Technical Lead, Sonus Networks India Pvt Ltd., JAN.’06 -Sept’06
+
+Role :- Architect /Lead role –
+
+Architecting the Solution, design and manage the effort till the
+delivery of the project.
+
+Assist in analysis of scope, estimation and planning of the projects.
+
+Responsible for the design, development and deployment of the projects.
+
+Fixed Mobile Convergence (FMC): FMC is Fixed Mobile Convergence enables
+a user to continue in the call with cheaper alternatives when he has
+access to the same. An example would be a person continues his call on
+the Landline (cheaper than mobile) when he reaches home instead of
+continuing his call on his mobile phone by a simple click. 
+
+J2EE, CCXML, VXML, IMX(sonus voice platform), SIP, Jboss environment
+
+Digital Avatar: Digital Avatar enables a user to establish conference
+with his outlook contacts. A user's outlook contacts are obtained using
+the API and then a meeting invite is sent to the selected contacts. On
+acceptance of the same, a notification is sent to the initiator
+regarding the same. A conference call is initiated with all the parties
+at the scheduled time of the conference and all are joined into the
+conference.
+
+J2EE, CCXML, VXML, IMX (sonus voice platform), SIP, Jboss environment.
+
+Click To Dial: Click To dial application enables a user to talk another
+user in Sonus by click of a button in the web browser. This application
+provides additional flexibilities of configuring CanBeReach (CBR)
+numbers and Mobile numbers. Integration with Share Point Portal provides
+employee to employee calling across regions very simple.
+
+J2EE, CCXML, IMX (sonus voice platform), SIP, Jboss environment.
+
+Dev Relations Engineer-II, BEA, 	Dec.’04 to Jan.’06
+
+Role:-
+
+Provide design and product related consultancy for Weblogic Server and
+Weblogic Integration with respect to Critical design issues of
+Customers.
+
+Address problems and provide alternate design strategies for Customer
+while using Weblogic Server and Weblogic Integration.
+
+Provide in-depth technical feedback to the product team regarding the
+new features/enhancements to be added to the product.
+
+It involves lot of analysis with respect to technical specifications
+(J2EE majorly) and help the customer in reaching a best possible
+solution.
+
+Weblogic Integration 8.1, Weblogic Server 8.1, Weblogic Workshop, J2EE.
+
+Specialist (Project Lead/Tech Lead), Hewlett Packard,	
+
+Dec.’00 to Dec.’04
+
+Role: – Project Lead/Technical Lead
+
+Responsible for Requirement Analysis and Design of the solution. 
+
+Assist in analysis of scope, estimation and planning of the projects.
+
+Responsible for the development and delivery of the projects.
+
+Responsible for Architect, Design and Develop the High Availability
+Solution into the WITS product. The solution is for a Telecom Service
+Provider where 5 nines (99.999) availability was the main goal. 
+
+Served as a Deployment Lead onsite interacting with the Customer
+whenever required.
+
+Mobile Number Portability: The project is to develop a solution which
+will support an MNP Service with appropriate data. These MNP requests
+need to be authenticated and appropriately communicated to other
+operators for their local DB updation. The complete mediation for all
+the authentication interactions with Government and Supervision
+Authorities and DB Update of other operators is managed by this Solution
+through XML Messaging. 
+
+Weblogic platform 8.1 (WLI (Workflow engine), Weblogic Server, Weblogic
+Workshop), Java and Enterprise Java Beans 2.0, XML Schemas environment.
+
+OA&M Solution of HP OCIN platform: The project is to develop a
+management solution for HP Opencall platform using TeMIP. TeMIP is
+management software used for managing Switches and Telecom equipment.
+This project is mainly to demonstrate the ability of TeMIP in managing
+Network Elements like OpenCall Servers.
+
+SDL, HP-UX, HP OCIN platform, Oracle, TeMIP, Perl , Shell Scripting
+
+Routing Plan Service for IN platform: The project is to develop the
+Routing Plan Service for 800 numbers for a Service Provider. This
+solution is provided for big corporate as a service for routing their
+800 calls based on SLAs. A Plan Builder tool enables the administrator
+to create various routing plans which is like a tree wiring various
+nodes/functionality. The IN Service implements the control/message flow
+between the various nodes in this tree.
+
+SDL, HP-UX, HP OCIN platform, Oracle environment, Telelogic SDT
+
+Extended Administration Facility for HP OpenView: A Web based Enhanced
+Administration Facility for HP OpenView Vantage Point Operations. The
+work was to create a web based interface that provides the same
+functionality of the VPO (Motif) Client. The EAFW interfaces only to
+EAFC (command-line interface) and does not have any control on the
+background operations.
+
+HP OpenView, Perl, PHP, Solaris, Apache-SSL (Apache+Openssl)
+environment.
+
+VoIP Service Framework Development: Develop a VoIP Service Framework
+which does overall service flow control. The Framework does the handling
+of Basic Call Setup Messages like GRQ, RRQ, ARQ, BRQ etc relieving the
+Services of the same. Framework thus helps Services like Call
+Forwarding, Call Screening, Advanced GW Routing etc concentrate on the
+business logic instead of worrying about the Call Setup messages. 
+
+H.323, Telelogic SDL, OpenCall MultiService Controller environment (HP
+VoIP Platform).
+
+VoIP VPN Deployment: This Project is mainly aimed at providing VoIP
+Virtual Private Network Service for corporate across their various
+branches through a Service Provider. Work involved deploying a StarVox
+VPN over the available IP network for a service provider (ISP/PSTN
+provider) and test VoIP VPN service on HP Opencall Multiservice
+Controller (OCMC), which is based on HP's OC platform..
+
+Deployment Lead for the Solution in Taiwan and responsible for System
+Testing, Integration and Acceptance onsite. 
+
+HP-UX, C, SQL, WML and WAP environment.
+
+Wireless Internet Total Solution Enhancement: The work was to add High
+Availability to the WITS product. The WITS solution was productized
+using HP-UX Servers. The work was to design and implement High
+Availability into the WITS Solution on HP-UX Servers using HP’s own
+MC-Service Guard Software. 
+
+Environment: Unix Shell Scripting.
+
+ESC Technet Collaboration Tool: It is a simple collaboration tool where
+tech savvy's can perform discussions, search discussion archives(partial
+keywords etc), store view and modify project profile information, upload
+and view project related documents from a project repository, It is an
+internal project and done as an additional work out of personal interest
+for the internal company use.
+
+Apache, cgi, perl, XML environment.
+
+Senior Engineer/Specialist, TATA ELXSI Ltd., 	Feb.’99 to Dec.’00
+
+Role: – Tech Lead.
+
+Responsible for all Customer Requirement Analysis. 
+
+Responsible for the Design and Development of the projects.
+
+Responsible for the testing and the deployment of the projects.
+
+Echogent Firewall Servicing System: The project is mainly to design and
+develop a Firewall management system. The System provides the user a Web
+based configuration tool for configuring and managing this firewall. 
+The firewall is built using the Linux based ipchains utility. Scripts
+running on the Central Webserver resident at Echogent Systems will do
+all the configuration and management. This is mainly to have control and
+to provide continuous security service for the Echogent Client NAT
+boxes.
+
+RedHat and Debian Linux 6.1+kernel 2.2.16, OpenSSH, fsh, Apache+SSL,
+Perl, HTML, XML environment.
+
+Safe Com Element Manager-NEC Conversion: The project is basically to
+provide support for a Network (Device)Manager implemented by a Telecom
+company. This project is intended to design a data structure and perform
+an interconversion between a tree-structure file. This helps the manager
+in the offline configuration of the telecom equipment.
+
+Java, WindowsNT, PC-Pentium, Advent Net NMS API, Rational Rose OO
+modeling Tool.
+
+Personal Network Agent for Mobile Computing: The project is mainly to
+design and develop an agent, which provides a service to the user
+through his mobile phone. He can check his financial status at various
+important life plan stages (the stages which he marked as important
+stages of his life) at any time through his mobile phone.
+
+JDK 1.2, Java Servlets, XML, Windows NT environment.
+
+Test Automation System: The project is mainly to design and develop
+automated testing environment for different stages in the design process
+of the hardware or ASIC design.
+
+Perl 5, HP-UX, Solaris environment.
+
+NetObjectsArchitecture: Design and Development of NOA, which is
+basically a network computer based architecture implementation in Java.
+A central server stores all the java applications, applets etc. Any
+client who needs to use these applications, applets etc can connect to
+the server and invoke them dynamically, use them and dispose them
+without loading them onto the local system harddrive.
+
+Java 1.2,Servlets, CORBA(Visibroker for Java), Windows NT, Rational Rose
+OO Modeling tool
+
+Project Assistant, CDAC,	May.’98 to Feb.’99
+
+Role :- Individual contributor performing study and research ORB from
+WUSTL (ACE ORB).
+
+Real-time Extensions to CORBA for Distributed Real -time Fault Tolerance
+Implementation:  This is a project intended for development of generic
+Fault tolerance implementation in industrial environments. It is meant
+for real-time industrial requirements implemented in a distributed
+sense. CORBA was chosen for the purpose being the best in the
+distributed technologies packaged with language and platform
+independence. 
+
+Responsible to analyse requirements for Distributed Real-time Systems,
+identify the features to be implemented into CORBA for real-time
+response. 
+
+Provided Idl interfaces for a few and Compare the performance of
+Visibroker for java and c++.
+
+Significant Achievements (Awards received)
+
+Received special contribution awards from HP for various projects.
+(WITS-TAIWAN, WITS-ISRAEL, EAF for HP Open View and Mobile Number
+Portability)
+
+Received Lab level award for solely managing the complete High
+Availability Solution for the WITS product in Taiwan and for the core
+product (WITS 2.0).
+
+Received an IPOD from BEA during my tenure with them for excellent
+managing a customer design problem and helping in getting a Huge Deal
+with them.
+
+Training Programs
+
+Attended a professional Training program in CORBA (Visibroker for Java
+3.4 and 4.0 and Orbix) from a member of the OMG.
+
+Attended a practical training for J2EE (Advanced Java and Enterprise
+Java Beans (EJB)) using weblogic application server.
+
+Attended a training program in Microsoft.NET platform and C#.
+
+Personal Details
+
+     Address :- SB-203, Purva Sunshine, Sarjapur road, Kaikondrahalli,
+Bangalore - 560035
+
+	Phone – 9980164676. Email – tulasig@yahoo.com
+
+Page   PAGE  1  of   NUMPAGES \*Arabic  6 
+
+RESUME – TULSHEKAR GANGIREDDY
+
+Page   PAGE  6  of   NUMPAGES \*Arabic  6 
+

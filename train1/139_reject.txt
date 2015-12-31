@@ -1,0 +1,356 @@
+								Sudheer Maddukuri
+
+                                   				  	  
+sudheermaddukuri.java@gmail.com                   Professional Summary 	
+		   	         Mobile No:  91-9701663135                                
+                                                             
+
+Almost 9 years of experience in the design and development of software
+applications.
+
+Expertise in development of Web based, Client/Server and Distributed
+Applications by using Java, JDBC, Servlets, JSP, Struts, and spring
+framework.
+
+Experience involves the development of ‘N-tier’ architecture based
+applications and J2EE Design Patterns.
+
+Sound experience in using Eclipse, ANT, Maven and Apache-Log4j
+frameworks.
+
+Proficient in Deploying application using Jboss, Weblogic and Tomcat
+servers.
+
+Experience in Software Development with Object Oriented technologies
+using J2S and J2E Editions.
+
+Good implementation knowledge on MVC Architecture using Action (Struts)
+framework.
+
+Strong knowledge of Java webservices and RESTful webservices.
+
+Strong experience in executing test cases using JUnit for unit testing
+frameworks.
+
+Hands-on-Experience on Web scripting languages such as JavaScript and
+HTML.
+
+Good knowledge of database programming using JDBC and Hibernate.
+
+Strong analytical, Solid Work Ethics, Effective Communication,
+Innovative, Organizational and Problem solving skills.
+
+Certification
+
+Sun Certified Java Programmer (SCJP) 
+
+  HYPERLINK
+"http://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_
+id=322"  Sun Certified Web Component Developer  (SCWCD)
+
+Professional Experience
+
+Working as Senior Software Engineer with CA Technologies, Hyderabad from
+Dec 2012 till date.
+
+Worked as Senior Consultant with EMC Corporation, Bangalore from March
+2012 till Dec 2012.
+
+Worked as Technology Consultant with Hewlett Packard, Bangalore from
+June 2010 till March 2012.
+
+Worked as Software Engineer with HCL Technologies, Bangalore from 2009
+October till 2010 June.
+
+Worked as Software Engineer with FOUR-SOFT LIMITED, Hyderabad from 2006
+July till 2009 September.
+
+Technical Summary
+
+Java Technologies		:   Java, J2EE, Webservices.
+
+Frameworks			:   Struts, Hibernate, spring, JUnit.
+
+Integration			:   Apache ActiveMQ 5.x, Apache Camel 1.x.
+
+Build Tools			:   Apache Ant, Maven.
+
+Tools/IDE			:   Eclipse, TOAD,  
+
+				    IReport, XMLSpy, JBPM5, Axis2, Flux.	    
+
+Databases 			:   MySql 4.0 & Oracle 10g.
+
+Web Technologies		:   XML, XSL, HTML, Java Script, AJAX.
+
+Web/App/LDAP servers   	:   JBoss 5, Weblogic 8.1, Oracle 10g, 
+
+    Tomcat, Apache, iPlanet Directory Server.
+
+Versioning Tool	  	:   CVS, CMSynergy, CSSynergy, WinCVS, VSS, SVN.
+
+Projects Summary 
+
+1. CA Platform:
+
+Role: Senior Developer
+
+CA Platform is a next generation cloud platform and saas solution for CA
+Technologies to host its different products on SaaS model. This is one
+of the most on-demand products within CA and growing very aggressively. 
+
+Requirements gathering and refinement.
+
+Participating in Cross Functional discussions with architects for
+understanding of requirements. 
+
+Unit testing based on JUnit
+
+Handled direct reports successfully delivered different modules for CA
+Platform.
+
+Evaluation (POC implementation) of technologies for implementation in
+project
+
+Managed configuration and releases.
+
+Environment: Java/J2EE, Odata4j,  RESTful Webservices, MySQL, Maven,
+Spring, Hibernate, AWS, Openshift, Teamcity.
+
+2. Senior Consultant at EMC Corporation, Bangalore		Mar 2012 till Dec
+2012
+
+Been part of an excellent team which worked on a product called EMC
+Blackhawk which is a data center consolidation tool. This was also a
+kind of use case which the company wanted to use for showcasing its
+latest stack going to release at that time. This was a unique solution
+which used VMware vFabric Cloud Application Platform, VMware
+virtualization products and followed a cloud development and release
+approach then. I have been part of this project from scratch.
+
+Environment: Java/J2EE, Backbone js, bootstrap,  RESTful Webservices,
+MySQL, Maven, Spring, Hibernate, AWS, Openshift, Teamcity.
+
+3. Media Core Backend Services (MCBS), Walt Disney.
+
+Role: Technology Consultant
+
+MCBS will function as the media repository for all NGE-generated media
+files, including as-captured native formats and MCBS-created proxies. 
+Further, the MCBS will signal each “Media Event” to the NGE message
+bus as each new media set (essence and metadata) is ingested.  The
+following is a high-level depiction of the various roles, functions,
+communications pathways and media flows into and out of MCBS.
+
+MCBS exposes both RESTful and non-RESTful interfaces to its clients. As
+a part of non-RESTful interfaces, it provides a loosely coupled
+mechanism for external modules and other Media components to ‘drop’
+media files to a ‘landing zone’ so that media can be detected and
+ingested into MCBS.
+
+Requirements gathering and refinement.
+
+Designing JBPM workflows based on JPDL (Java Process Definition
+Language).
+
+Participating in Cross Functional discussions with architects for
+understanding of requirements. Develop business workflows based on Flux
+(A licensed workflow management software).
+
+Unit testing based on JUnit
+
+Environment: Java/J2EE, RESTful Webservices, XML, XSL, Javascript,
+Tomcat, Oracle 11g, Maven, Apache CXF, Spring, Hibernate.
+
+4. Media on Cloud: RS DVR Solution which aims at time & place shifting
+(June 2010 to March 2011).
+
+
+
+Role: Technology Consultant
+
+The days of planning your time around your favorite television program
+are long gone. Consumers of visual media have shifted habits to an
+“anytime, anywhere” expectation. And providers of television and
+video programming are looking for new ways to deliver accordingly. This
+application uses most of the cloud computing concepts to ensure that all
+the components can be used “anytime, anywhere”.
+
+This RS-DVR solution eliminates the equipment in the home and provides a
+managed service for the storage and play-out of broadcast content.
+Capabilities are similar to the DVR; they include recording and
+play-out, quota management, pausing of live TV, and permanent locker
+boxes for users agreed upon during contract. Another innovative aspect
+allows multiple ingest sources and the ability to deliver to multiple
+devices (television set-top box, personal computer, mobile phone)
+efficiently and quickly. The solution can also create a “media
+chain” that allows the addition of value-added services during the
+delivery process, such as advertising insertion, real-time trans-coding
+and scaling, and interactive overlays. 
+
+Requirements gathering and refinement.
+
+Designing JBPM workflows based on JPDL (Java Process Definition
+Language).
+
+Taking change request implementations to completion. 
+
+Unit testing based on JUnit
+
+Environment: Java/J2EE, Webservices, XML, XSL, Javascript, PL/SQL, Jboss
+5, Oracle 10g, Ant, Spring, Hibernate.
+
+
+
+5. Risk Management (dbDERiC) and dbOne (Oct 2009 to June 2010), Deutsche
+Bank, Germany.
+
+
+
+Role: Software Engineer
+
+dbDERiC: It’s a Intraday Risk Monitoring system. Risk-based margining
+covers the entire process of measuring, calculating and settling margins
+payable on all open trade positions to cover any risks arising from
+market trades. Haircut calculation is based on historical performance
+and expected volatilities of securities. 
+
+Calculation of a single risk amount for each PECC client including the
+current balance 
+
+  of the central Target account and any centrally deposited collateral
+
+ Introduction of a new credit line: PECC-Margin-Requirements, to be
+setup in Paragon 
+
+  as Overnight Limit
+
+ Haircuts for “stand alone” positions and pendings for stock
+(5%-100%), 
+
+  cash (2.5%, if not Euro), stock lendings (5%) – agreed with CRM EM
+
+dbOnE :- is the clearing and settlement platform used by Deutsche Bank
+Frankfurt, Germany for the CBF & Eurexchange markets. This includes
+functionality in Trade Clearing activities such as Trade Matching,
+Blocking/ Unblocking i.e disposition, Client Reporting etc. It supports
+Netting functionality on trade clearing and settlement as well as in
+corporate event handling. dbOnE supports different data and business
+validation manual capture of instructions, enquiry and repair
+functionality. dbOnE communicates and handles trades from different
+stock exchange such as XETRA,  XONTRO,EEX European energy exchange as
+well as new MTF’s such as (CHI-X, Turquoise).
+
+Requirements gathering and refinement.
+
+Taking change request implementations to completion. 
+
+Unit testing based on Test NG 
+
+Refinement/optimization of reporting layer
+
+Evaluation (POC implementation) of technologies for implementation in
+project
+
+Maintain configuration management and release management
+
+Environment: Java/J2EE, XML, XSL, Javascript, AJAX, PL/SQL, Weblogic 10,
+Oracle 10g, Ant, Spring, Hibernate.
+
+
+
+6. TMS (Transportation Management System), PTTPL. 
+
+Role: Software Engineer
+
+	TMS is a very flexible web based application which helps the freight
+service providers in moving their customer’s shipments across various
+geographical locations. It is a complete B2B enterprise application
+(ERP) and handles all operational, customer relations, financial,
+marketing and sales information needs of Air, Ocean and Trucking.
+
+Roles and Responsibilities:
+
+Involved in development of various modules related to Air, Sea, Truck  
+and accounts using Jsps, servlets.
+
+Involved in implementation of EJB Components for modules related to Air,
+Sea, Truck and accounting modules. 
+
+Involved in preparation of Detail Technical Design Documents.
+
+Involved in discussions for freezing of Change Request (CR) Document and
+done impact analysis.
+
+Involved in preparation of unit test cases and unit testing of the
+product.
+
+Involved in EDI Implementations for Integration of more than one system.
+
+Involved in Code Review of Change Requests developed by team members.
+
+Environment: Java, Servlets, JSP, Javascript, AJAX, OC4J 1013, Oracle
+10g, Ant, Eclipse, CVS, JDBC.
+
+7. ETrans, Reliance Logistics Limited. 
+
+Role: Software Engineer 
+
+E-Trans product is designed for requirements of freight service
+providers in moving their customer’s shipments across various
+geographical locations. It is a complete B2B enterprise application
+(ERP) and handles all operational, customer relations, financial,
+marketing and sales information needs of Air, Ocean and Trucking. 
+
+This application is designed to support every operational activity of an
+international freight forwarder. Single shipments and consolidations are
+processed including the production of all required Transport and custom
+documents.
+
+Roles and Responsibilities:
+
+Involved in development of various modules related to Air, Sea, Truck  
+and accounts using jsp, servlets.
+
+Involved in implementation of EJB Components for modules related to Air,
+Sea, Truck and accounting modules. 
+
+Involved in preparation of Detail Technical Design Documents.
+
+Involved in discussions for freezing of Change Request (CR) Document and
+done impact analysis.
+
+Involved in preparation of unit test cases and unit testing of the
+product.
+
+Environment: Java, JDBC, Servlets, JSP, Javascript, AJAX, OC4J 1013,
+Oracle 10g, Ant, Eclipse, CVS
+
+Education and Training
+
+Xth	
+
+ICSE, 2000 passed out with 62.6%.
+
+XIIth	BIE, Andhra Pradesh, 2002 passed out with 85.8%.
+
+B.E in (Electronics & Communications Engineering)	Anna University, 2006
+passed out with 69.7%
+
+
+
+Well trained and experienced in Supply Chain Management.
+
+Worked in Trade & Trade Management domain (Clearing and Settlement, Risk
+management).
+
+Working on Video Services Implementation on the cloud.
+
+             
+
+                                            TECHPOINT PROFILE
+
+sudheermaddukuri.java@gmail.com		Mob: +91-9701663135
+
+		
+

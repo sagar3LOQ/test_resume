@@ -1,0 +1,249 @@
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate                              -  2.5 year&current                                            
+
+Spring                                        -  2.5years   & current                                              
+
+Web Services                                        not worked                                                
+
+Core Java                                               -  3.8 year
+
+Design Patterns                                    -    factory,singletom
+
+UML design                                           -    
+
+Build Tools (Maven/Ant)                    -    Maven/vertigron   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+Tomcat/eclipse/
+
+
+
+DB:mysql/hpvertica
+
+
+
+Gaurav Tamhankar 
+
+Flat No 301,Plot 7,Sai Enclave,Road No.12,Banjara Hills
+
+Hyderabad, [T.S]            
+
+Mobile: 0-9452118501
+
+E-mail: g11tamhankar@gmail.com 
+
+	
+
+Objective:
+
+To achieve a challenging position where I can effectively contribute my technical skills as Software Professional and increase my knowledge with proper hard work and dedication.
+
+Technical Skills:
+
+Technologies		: J2EE, Hibernate, Spring (Beginner)
+
+Databases		: DB2,MySQL
+
+Frameworks		: Spring 
+
+Operating Systems	: Windows, Linux(Beginner)
+
+Languages		: Core Java(Collections,MultiThreading,Generics),SQL,Javascript
+
+Concepts		: Data Strcutures and Algorithms
+
+
+
+Professional Experience:
+
+Organization: Pramati Technologies
+
+Designation: Product Developer (Track: Development)
+
+Work Experience: 4  months
+
+Problem Domain: Retail,IT.
+
+Responsibilities: Design,Development, Bug Fixing, 
+
+
+
+Organization: Computer Sciences Corporation
+
+Designation: Product Developer (Track: Development)
+
+Work Experience: 2 years 11 months
+
+Problem Domain: Insurance.
+
+Responsibilities: Development, Bug Fixing, Unit and Functional testing.
+
+
+
+Certifications:
+
+Oracle Certified Professional, Java SE 6 Programmer
+
+Education Qualification:
+
+Year
+
+Qualification
+
+Name Of Institute/Board
+
+Major Field Of Study
+
+Percentage
+
+2011
+
+Bachelor of Engineering
+
+I.E.S I.P.S Academy, Indore (M.P.) / Rajiv Gandhi Technical University, Bhopal
+
+Computer Science Engineering
+
+74.2%
+
+
+
+2007
+
+XII
+
+Gyan Ganga Academy,Bhopal
+
+PCM
+
+72%
+
+2005
+
+X
+
+Modern Public School,Lalitpur(U.P)
+
+
+
+83.6%
+
+
+
+
+
+Projects Undertaken: 
+
+Druid
+
+Druid is data analytics product , which consists of many utilities and tools which we need while developing any customer specific solutions.It integrates it with liferay framework as well.
+
+ Duration –  4 months 
+
+Team Size – 30
+
+Skills used – Core java, Hibernate, Spring(Beginner).JavaScript,Jquery,CSC
+
+Responsibilities –   Feature design, implementation and bug fixing.
+
+
+
+
+
+Exceed
+
+Exceed is an Insurance product targeted for the customers which sell there products related to Property & Casualty Insurance .It is based on the insurance standards of US .It is divided into several sub-systems ,which are classified on basis of insurance needs.
+
+ Duration – 2 year 9 months 
+
+Team Size – 15
+
+Skills used – Core java, Hibernate, Spring(Beginner).
+
+Responsibilities –   Feature design, implementation and bug fixing.
+
+Conversion Tool
+
+It is small tool which automatically converts the COBOL structure to Java class files.
+
+
+
+Academic Projects:
+
+Corral- A Continuum Connectivity
+
+CORRAL is a blend of community site, grouping sites and college site. The main       Objective behind building a social networking system is to ease how people of IES IPS Academy    communicate.
+
+Web Application Scanner
+
+Web Application Scanner is a tool which fetches all the web pages from a web-sites.
+
+
+
+Academic Training:
+
+RH 033 : RedHat Linux Essentials
+
+RH 133 : RedHat Linux System Administration
+
+RH 253 : RedHat Linux Network Services And Security Administration 
+
+
+
+Achievements:
+
+Got “Employee of the month” award  in Computer Sciences Corporation.
+
+Achieved AIR 212 in Cyber Olympiad(2003).
+
+ 
+
+Personal Information:
+
+Hobbies			: Playing Table Tennis, Cooking food
+
+Strengths			: Good team player, sincere, smart-worker.
+
+
+
+Personal Information:
+
+Date of Birth
+
+11th October 1989
+
+Nationality
+
+Indian
+
+Languages Known
+
+English, Hindi, Marathi
+
+Marital Status
+
+Single
+
+Father’s Name
+
+Mr. Udai Tamhankar
+
+Mother’s Name
+
+Mrs. Shubhada Tamhankar
+
+Permanent Address
+
+C-59,In front of DRM office,Railway Colony,Jhansi(U.P)
+
+
+
+I, hereby declare that all above information is true and correct to the best of my knowledge and belief.
+
+Date: - 15-Dec-2013                                                                          	Gaurav Tamhankar
+
+Place: - Indore

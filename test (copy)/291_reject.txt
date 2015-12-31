@@ -1,0 +1,297 @@
+MUKUL BUDANIA			
+
+Male, Indian, 26 Years
+
+A110, Green Thumb Society,
+
+Balewadi Phata, Baner,
+
+Pune - 411045
+
+email: <mukul.k.budania@gmail.com>
+
+Phone No.: 9765368662
+
+
+
+	PERSONAL DETAILS	
+
+Father’s Name:  Mahesh Kumar Budania			
+
+Date of Birth: 29th February 1988
+
+Languages Known: Hindi, English, Gujarati, Marwadi
+
+EDUCATION 
+
+
+
+B.Tech (CSE)
+
+2010
+
+National Institute Of Technology, Tiruchirapalli
+
+7.45/10
+
+Class XII (CBSE)
+
+2006
+
+Navarachana Higher Secondary School,Vadodara
+
+86.6%
+
+Class X    (CBSE)
+
+2004
+
+Navarachana Higher Secondary School,Vadodara
+
+92.4%
+
+
+
+WORK EXPERIENCE
+
+
+
+Talentica Software Pvt. Ltd.
+
+Designation:Senior Software Engineer
+
+
+
+Period:May-2015 - Current
+
+Client:Invoke ( Survey Taking platform)
+
+Projects: 
+
+CourseEval(Release): 
+
+Config-Distribution Framework:
+
+Purpose: To add dynamic properties on-the-fly with expiry logic.
+
+Technologies Used: Java, Guice, Mongo, dropwizard, Sundial schedular
+
+Roles and Responsibility: Implemented this feature using a pull logic. (Microservices architecture).
+
+Question-Library: 
+
+Purpose: To implement a question library with recommended questions.
+
+Technologies Used: Java, Mophia, Mongo
+
+Roles and Responsibility: Added category logic using which the recommendations were given to the user.
+
+Search and Pagination Framework: 
+
+Purpose: To implement criteria based searches and pagination of the apis.
+
+Technologies Used: Java, Mophia, Mongo
+
+Roles and Responsibility: Implemented the framework and added all possible criterias using Builder Pattern. Implemented Pagination with minimal signature changes.
+
+Design Discussions and Bug Fixes.
+
+
+
+
+
+
+
+
+
+Period:March 2015 - May 2015
+
+Client:Home Union.(Online property dealings and investment portal)
+
+Projects: 
+
+Right-Bid App: 
+
+Backend Rest APIs: 
+
+Purpose: To expose the main functionality of the app.
+
+Technologies Used: Java, Spring Hibernate, Spring JPA, Spring Security.
+
+Roles and Responsibility: Implemented the complete functionality single-handedly from scratch to finally deliverable API.
+
+Integration of R Java API: 
+
+Purpose: Integrate R based prediction model with the Backend APIs
+
+Technologies Used: RServe, Java, Super-CSV, RStudio
+
+Roles and Responsibility: Data cleanup, followed by feeding data in R and building up a model(linear model) to predict the right bid. Finally integrating it with Java APIs to run on a periodic basis using Quartz Schedular.
+
+Apple Push Notifications:
+
+Purpose: POC and Integration of Apple Push notifications in the Right-Bid App
+
+Technologies Used: Java
+
+Roles and Responsibility: Understanding the framework on how the push notifications work and exposing it via RestAPI for the app to send push notification to devices.
+
+.
+
+Period:Nov 2014 - March 2015
+
+Client:Viewics Inc.(HealthCare BI Analytics)
+
+Projects:
+
+Pulse: 
+
+Spring LDAP Integration: 
+
+Purpose: To delegate the authentication scheme 
+
+Technologies Used: Java, Spring LDAP, Spring Authentication.
+
+Roles and Responsibility: Did a POC to integrate Spring LDAP and listed all the the pros and cons of integrating LDAP with the existing Pulse authentication management.
+
+Fuzzy Logic implementation: 
+
+Purpose: Use Fuzzy matching to match records coming from the customer.
+
+Technologies Used: Java, Spring Boot, Second String Library.
+
+Roles and Responsibility: Did a POC and built a Standalone Spring Boot app to give fuzzy matched records from a given TSV file.
+
+Dashboard Feature Implementation[Partial]: 
+
+Purpose: BI Dashboards consisting of reports, texts and images.
+
+Technologies Used: MySQL, AWS, Spring Hibernate, Spring JPA, Jersey Rest APIs, Spring MVC. 
+
+Roles and Responsibility: Design and Implementation of feature. 
+
+Validation and Transformation Engine: 
+
+Purpose: To validate data coming from a TSV File and transform it and store it in DataWarehouse.
+
+Technologies Used: MySQL,, Spring Hibernate, Spring JPA, Jersey Rest APIs, Spring MVC, Super CSV. 
+
+Roles and Responsibility: Designed the complete app for uploading file to transforming and saving it in Vertica DataWarehouse. Implemented the Validation And transformation engine based on a master set. 
+
+Oracle India Pvt. Ltd:
+
+Designation:Member Technical Staff (Server Technologies, Development) 
+
+Period: August 2012 – Current
+
+Projects:
+
+Oracle Public Cloud:
+
+TAS-Rest API: 
+
+Purpose: To provide the REST API Layer for the Project.
+
+Technologies Used: Java, JSON, Jersey APIs, Jackson APIs, Spring DATA Api, PL/SQL.
+
+Roles and Responsibility: Provided Coupon Management service, Trial Validation Service, Discovery Service, Communications Service.
+
+
+
+Rest Compliance Tool: 
+
+Purpose: The purpose of this tool is to check if the Rest Apis developed by all the teams in Oracle are compliant to certain standards like Camel Casing, having canonical links. It crawls down through all the get requests. 
+
+Technology Used: Servlets, JSP, HTML, jQuery, Java, Ant, Weblogic Application Server, Jersey and Jackson APIs.
+
+Roles and Responsibility: Single handedly developed the complete project from scratch along with the deployment profile.
+
+
+
+OPC Infra Admin UI:
+
+Purpose: To Provide DevOPs people with a UI for Administrative services.
+
+Technologies Used: ADF, Java, Jersey Client, Shell Scripting, Weblogic Scripting(Python).
+
+Roles and Responsibilities: Developed the REST Clients and the complete deployment profile.
+
+
+
+Beehive: Email, User Directory Service
+
+Purpose:  Beehive is a collaboration suite which combines all components like mail server, messaging service, document management, Wiki Service, etc. for better productivity.
+
+Technologies used: Java, J2EE
+
+Roles and Responsibilities: Bug Fixes and Enhancement Requests    
+
+
+
+Oracle India Pvt. Ltd:
+
+Designation:Member Technical Staff (Server Technologies, TestDev) 
+
+Period: July 2010 – August 2012
+
+Projects:
+
+Beehive (A Collaboration Suite): 
+
+Built a Rest Test Framework for testing the REST APIs.
+
+Wrote JUnit Testcases.
+
+
+
+WebCenter RTC(A Collaboration Suite for Real Time Communication): 
+
+Built the Rest Test Framework for testing Rest APIs using Jersey Client.
+
+Implemented Code coverage using EMMA Tool. 
+
+Implemented testing framework(testng) for J2ee APIs
+
+Technologies Used: Perl, Shell scripting, Ant scripting, Java, J2EE(Servlets) 
+
+
+
+
+
+
+
+
+
+PROJECT WORK/ TRAINING
+
+	.
+
+Worked on a self made Project “Neural Network based Prediction System using Standard BackPropogation Algortihm” (in C#) under the guidance of Dr. Pushpak Bhattacharya(Professor, Mathematics Department, IIT Bombay) in Nov 2008
+
+Made a small Trainee Management program using ASP.net at IT Dept, Grasim Industries, Nagda in June 2009 
+
+Worked on “Search Query Optimization using VIPS and Relevance FeedBack” as my Final year project (in C#) under Prof. V. GopalaKrishnan ( Visiting Professor at NIT Trichy) in May 2010.
+
+SOFTWARE SKILL SET
+
+Languages   	:C, Java
+
+Frameworks		       :    Guice, Dropwizard, Spring, J2EE, ADF
+
+Scripting 		       :    JavaScript, HTML, Python, Perl, Shell Scripting
+
+Servers			       :    BEA Weblogic , Tomcat Server
+
+IDE  :   Eclipse, IntelliJ,  JDeveloper, RoboMongo, MySQL Workbench
+
+Certifications      	       :  	 Certificate from APTECH for a course in C# and WinForms
+
+EXTRA CURRICULAR ACTIVITIES 
+
+Member of the Design Team of PRAGYAN (National Level Technical Festival of NITT).
+
+Member of Technical Team of VORTEX’ 09 (The National level symposium of our Department).
+
+Member of Choreo Team, NITTFEST '09 & '10 (Dance Group) for Computer Science And Engineering Department .
+
+Played Chess For West Zone in 2005.

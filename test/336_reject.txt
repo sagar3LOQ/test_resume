@@ -1,0 +1,416 @@
+Hibernate                           
+                 -  3
+year                                  
+             
+
+Spring                  
+                                 - 3
+Years                                 �
+�             
+
+Web
+Services                                
+       - 
+1year                                 �
+�              
+
+Core
+Java                                  
+            -  4.5year 
+
+Design
+Patterns                                
+   -   2year
+
+UML
+design                                 
+         -   6 month
+
+Build Tools (Maven/Ant)                   -    
+Maven & Ant 
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.] 
+
+eclipse,weblogic,jboss,tomcat
+
+Code : 70% code 30%
+
+Ready to work for startup
+
+Leelakrishna Dakarapu
+
+			Role: IT-Engineer. 
+
+Ph: +91-9885425828.	 							Email: leelakrishna5@hotmail.com
+
+Career Objective
+
+PROFILE
+
+ Having 6.8 years of overall  experience in core java & J2EE 
+
+ Experienced in agile methodologies 
+
+ Development and maintenance of Client-Server applications in Java-J2EE
+Technology
+
+ Keen knowledge in Java,  HTML, XML, JavaScript, Oracle 9i,  Struts, 
+Java Beans, JSP, Servlets, Jsf, Hibernate, and JDBC  Spring .
+
+ Always delivered projects or modules on time adhering to schedule
+
+Good Knowledge  in Middleware technologies like oracle SOA, EAI.
+
+Thorough understanding of the SDLC with proficiency in mapping business
+requirements, technical documentation, application design, development,
+integration, testing, support and troubleshooting for information
+systems management. 
+
+An effective team member with proven abilities to be a part of the team
+during any SDLC phase, Mentoring team members to improve their skills.
+
+Involved in design, development and warranty support of projects.
+
+Experience in application/web servers like Apache, Jboss, Web Sphere ,
+Web logic ,Glassfish AppServer and Tomcat.
+
+KEY ACHIEVEMENTS
+
+ Sun certified Professional Java SE 5 Programmer with very strong Core
+Java Concepts.
+
+TECHNICAL SKILLS
+
+Operating System	Windows XP, Unix.
+
+Languages	Core JAVA, J2EE.
+
+Scripting Languages	JavaScript, Ajax, Basics of Ext Js.
+
+Web Technologies
+
+Frameworks	JSP, Servlet, HTML, XML, XSD, XSLT, XPATH, CSS, Basics of Web
+services .
+
+Struts, Basics of  Spring and JSF .
+
+IDE/ Tools	Eclipse ,Net Beans, PL/SQL Developer.
+
+Web Server
+
+DB Programming
+
+DB Languages
+
+Application Servers
+
+Unit Testing 
+
+Version Control Tool	Apache Tomcat .
+
+ JDBC, Hibernate.
+
+Oracle, Mysql .
+
+Jboss , Web Sphere , Web logic and Glassfish AppServer .
+
+Knowledge on Junit.
+
+PROFESSIONAL EXPERIENCE:	
+
+CMC  LTD (Tata Enterprise.) - Hyderabad                                 
+	                 MAY’11 TO TILL DATE.
+
+AppLabs Technologies Pvt. Ltd(A CSC company) - Hyderabad	   FEB’10  TO
+APR’11.			
+
+Prime Technology Group Inc - Hyderabad	               	   	  OCT’07 TO
+JAN’10  .
+
+                                                                    
+
+Key Projects Undertaken
+
+GOLD ESP---(Boeing formerly MIRO Technologies, USA)				Dec’12 – till
+date
+
+MIRO project is related to aero space domain. Providing the services
+like maintaining, repairing , and ordering of products. Miro
+Technologies provides advanced software solutions that manage
+maintenance, repair and overhaul (MRO) for high value, complex assets
+for air space, sea and ground. Our service-enabled maintenance and
+logistics management technology facilitates logistics enterprise
+integration and innovation to ensure organizational agility, optimize
+supply chain management and reduce sustainment costs. Since 1981, Miro
+Technologies has been a trusted partner to major aerospace and defense
+companies, commercial airlines and military forces across five
+continents
+
+
+
+	Platform	Windows XP
+
+Technologies	Java, Servlets, JSP,   Hibernate, Spring MVC, Ext JS 3.2,
+Struts1.2,Ant.
+
+Tools
+
+Frameworks
+
+Server	Eclipse, 
+
+JAFFA (Java Application Framework for All).
+
+Jboss 4.2
+
+Team size 	15
+
+
+
+Responsibilities:
+
+Effectively participated in requirement analysis, application, design,
+coding and post release support of delivered versions.
+
+Designing and reviewing of the front end screens with high usability
+through which user can design the process with minimal number of steps.
+
+Identifying functional and technical gaps,  estimating work.
+
+Involved in design and implementing Product using latest technology with
+high quality and on time delivery using optimized processes and agile
+methodologies.
+
+Resolving the bugs encountered and Involved in the writing the test
+cases.
+
+Marine Container Handling system (MACH)-CMC India			  May’11 –
+Nov‘12
+
+Marine Container Handling system (MACH) is a comprehensive, proven
+container  management system, integrating all the varied and complex
+activities of the container terminal and container freight station
+(CFS).  MACH streamlines and accelerates the operation of these
+facilities, resulting in Faster vessel turnaround times, Effective
+resource planning, Optimal utilization of yard, quay, equipment and
+personnel. MACH is based on information technology architecture that
+enables terminals to implement state-of-the-art solutions in an
+incremental manner, with minimum disturbance to other connected systems.
+For maximizing the efficiency of the container terminal, MACH implements
+functionalities that fully take into account the complexities of gate,
+vessel, yard and rail operations, as well as the container planning
+exercises.
+
+MACH. Yard Planning: This GUI based module helps the container terminal
+optimize the use of yard space and equipment utilization. This module
+interfaces with MACH.OPS for streamlined, real time operations.
+
+A Standalone product used for administrating the Container process. This
+is used by the Container administrators to perform multiple operations
+of Container/cargo on Ship, yard planning and manage their flow.
+
+
+
+	Platform	Windows XP,Unix
+
+Technologies	Java, Swing, Servlets , EJB, Jdbc ,Eclipse, Oracle,Maven.
+
+Tools
+
+server	Eclipse,
+
+JBoss
+
+Team size 	12
+
+Responsibilities:
+
+Involving in customer demos
+
+Development, Bug Fixing, Unit testing, Maintenance.
+
+Maintaining the Server configuration and Troubleshooting the Application
+server.
+
+JBOSS Clustering setup and administration, Install, Configure and
+maintained JBOSS  servers .
+
+Involved Testing of  Export and import Cycle of Container
+
+Working as a key team player I have effectively participated in
+requirements analysis, design and coding
+
+Have good knowledge in writing functional and unit test cases using
+JUnit
+
+I involved in Code analysis for enhancement requirements, development of
+Yard Planning module for Different Client PENANG PORT SDN BHD  (PPSB),
+L&T SHIPBUILDING LIMITED(LTSB), ADANI HAZIRA PORT LIMITED(ADANI),
+CHENNAI INTERNATIONAL TERMINALS PRIVATE LIMITED(CITPL).
+
+Involved in Weekly client meetings, and updating the status of assigned
+tasks
+
+  
+
+AppCloud Manager(AppLabs,India)							Sep’10 – Mar‘11
+
+The main objective of this project is to generate performance test
+reports. This tool generate the performance test reports from Jmeter log
+files, it will  generate the reports in different formats like Graphs,
+word document, Excel sheet, and html format. This project contains
+different types of modules like.
+
+1. Performance Test Results Wizard  2. Configurations Module   3. Admin
+4. Questionnaire .
+
+Platform	Windows XP
+
+Technologies	JSP, Struts, Hibernate,
+
+Tools	Eclipse, , Web Logic
+
+Team size 	8
+
+Responsibilities:
+
+Development,  Maintenance, Handling Customer Cases
+
+Involved in designing and coding the  modules to generate test reports
+from Jmeter log files. 
+
+IBA(AppLabs ,India)								             Mar’10 – Sep‘11
+
+IBA means Internal Business Application, The main objective of the IBA
+is provide the internal applications like attendance regularization,
+resource tracking ,cab booking.
+
+Platform	Windows XP
+
+Technologies	Java,Spring,Hibernate
+
+Tools
+
+server	Eclipse,
+
+Tomcat 6.0
+
+Team size 	6
+
+Responsibilities:
+
+Development, Bug Fixing, Unit testing, Maintenance, Handling Customer
+Cases
+
+Involved in UI design development.
+
+Involved in designing and coding the  modules like attendance
+regularization , resource tracking ,cab booking .
+
+Involved in integrating my module with the framework. 
+
+Actively involved in deploying the application in Client server and 
+fixing the issues.
+
+Maintaining the Server configuration and Troubleshooting the Application
+server.
+
+Happier.com (Reflective Learning INC, USA)						Feb’09 – Jan‘10
+
+Happier.com is leading distributor of research-backed online solutions
+to make people happier and more resilient. They are leveraging
+partnerships with universities and thought-leaders to identify and
+develop products which respond to market demand for self-enhancement
+solutions. Consumers have an untapped affinity for the product line and
+will subscribe for access to fresh, approved content, affinity
+communities with user-generated material, and access to experts. The
+main features in application are exercises and assignments for users to
+improve their happiness day by day. The application facilitates the
+representation of day in graph and most frequently done activities in
+the form of cloud and facilitates the saving his future plans and
+thoughts.
+
+
+
+	Platform	Windows XP
+
+Technologies	Java,Jsp,Spring MVC , Hibernate,AJAX.
+
+Tools
+
+server	Eclipse, 
+
+Glass Fish server
+
+Team size 	8
+
+Responsibilities:
+
+Involved in requirement gathering and analysis for enhancements.
+
+Involved in UI design development as per Reflective Learning standards.
+
+Involved in designing and coding the Assessments module.
+
+Involved in integrating my module with the framework. 
+
+Actively involved in deploying the application in Client server.
+
+Wireless Directory Network (Flat wire, USA)				Jan’08 – Jan‘09
+
+The main objective of this project is to design, develop and
+commercialize the first global directory assistance database for mobile
+telephone numbers. This is a scratch development project and uses Front
+controller design pattern. It is developed on JSF framework which is
+advance in technology. It also uses Face lets for the presentation
+layer. The persistence layer is incorporated with JPA.  
+
+
+
+	Platform	Windows XP
+
+Technologies	Java,Jsp, Servlet , JSF,  DHTML,
+
+Tools
+
+server	Net Beans.
+
+Web logic Server
+
+Team size 	8
+
+Responsibilities:
+
+Developed the UI screens for Signup, and admin module using JSF.
+
+Understood all the components in JSF which are useful in project.
+
+Involved in designing client side validations by using JavaScript.
+
+Deploying and troubleshooting of Application On Web Logic Server. 
+
+EDUCATIONAL & PROFESSIONAL DEVELOPMENT
+
+B.TECH (Information Technology), 2007
+
+Andhra University, 73%
+
+Higher Secondary, 2003
+
+State Board, 77%
+
+High School, 2001
+
+State Board of Andhra Pradesh, 71%        
+
+OTHER DETAILS
+
+Date of Birth: 19th May 1985
+
+Languages Known: English, Telugu
+
+Marital Status: Single.
+
+Nationality: Indian.
+

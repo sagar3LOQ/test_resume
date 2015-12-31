@@ -1,0 +1,639 @@
+Naveen Reddy Mangapuram
+
+naveenreddym545@gmail.com
+Mobile: +91 7799006960
+
+Objective
+To take up a challenging position to utilize my skills and abilities in the software industry that offers
+professional growth while being resourceful, innovative and flexible.
+
+P r o f e s s i o n a l S u m m a r y - --------- -
+
+-------- ------------------
+
+
+
+Software engineering consultant with above 6 years of progressive experience in J2EE
+technology sphere and good exposure across all stages of Software Development Life Cycle
+(SDLC) including Requirement Gathering & Analysis, Functional and Technical Specification
+Preparation, Estimating, Unit Testing,Coding, Build, Deployment & Support Phases of the projects.
+
+
+
+Experience in OOP and developing server side applications using Servlets, JSP, JMS, JDBC &
+EJB (Message Driven Beans).
+
+
+
+Experience in using HTML, XML, JavaScript, jQuery,AngularJS and AJAX.
+
+
+
+Hands on experience with Web Frameworks - Struts, Spring (IOC, AOP, DAO, MVC) and
+Persistence Framework - Hibernate.
+
+
+
+Hands on experience writing Web Services using JAX-WS, JAX-RS, SOAP, REST, WSDL.
+
+
+
+Proficient experience in applying Design Patterns of J2EE Architecture.
+
+
+
+Experience in Deploying and Managing applications on different servers like Tomcat, JBoss,
+Websphere & Weblogic Application Servers.
+
+
+
+Reputation for strong organizational skills, excellent communication skills, dedicated teamwork,
+attention to details, ability to work under pressure to balance competing priorities and meet
+deadlines.
+
+
+
+Earned Technical leadership status by providing solutions to technical issues, and are
+responsible for meeting development schedules and ensuring the delivered solution meets the
+technical specifications and design requirements.
+
+Work Experience
+
+- --------- -
+
+-------- ------------------
+
+
+
+Working as a Senior Software Engineer at Prokarma Softech Pvt. Ltd., Hyderabad from
+November 2013 to till date.
+
+
+
+Worked as a Senior Software Engineer at HSBC Software Development (India) Pvt. Ltd.,
+Hyderabad from July 2010 to November 2013.
+
+
+
+Worked as a Software Engineer at Maxis Software Therapeutics Pvt. Ltd., Hyderabad from
+July 2008 to June 2010.
+
+Education Background
+
+- --------- -
+
+-------- ------------------
+
+
+
+B.E in ECE (Electronics and Communication Engineering) with 68% from VTU Belgaum, 2006.
+
+
+
+Intermediate with an aggregate of 90% from Board of Intermediate Education, AP, 2002.
+
+
+
+S.S.C with an aggregate of 79% from Board of Secondary Education, AP, 2000.
+
+Technical Skills
+
+- --------- -
+
+-------- ------------------
+
+Operating Systems
+
+Windows (XP,7), SUSE Linux, MS-DOS, Unix.
+
+Programming languages
+
+Java, HTML, XML, SQL, JDBC 2.0, Log 4J, Junit 4.0, Maven2
+
+Scripting Languages
+
+JavaScript 2.0, jQuery, AngularJS, AJAX, JSON
+
+Server Side Technologies
+Application Framework
+
+Servlets 2.4/2.5,JSP 1.2/2.0, JMS, EJB(Message
+Beans)
+Struts 1.x, Spring 3(IOC, AOP, DAO, MVC)
+
+Persistence Framework
+
+Hibernate 3.2
+
+SOA Languages
+Databases
+Servers
+Message Oriented Middleware
+
+JAX-WS 2.0, JAX-RS, SOAP, REST, WSDL.
+Oracle 10g/11g, MySQL 5.0
+Websphere Application Server 6.1/7.0, Weblogic 10.3, JBoss
+5.0/6.0, Apache Tomcat 6.0/7.0
+Web sphere MQ 7.0
+
+IDE
+
+Rational Application Developer 7.0/7.5, Eclipse, IntelliJ
+
+Source Control
+Test Management
+
+CVS, SVN, MKS Integrity Client 2009, IBM RTC
+HP Quality Center
+
+Misc. Development Tools
+
+Interwoven Teamsite, iReports, TOAD,SQL Developer,SOAP UI
+
+Driven
+
+Professional Experience
+
+1.
+
+Project
+:
+Employer
+:
+Client
+:
+Team size
+:
+Domain
+:
+Role
+:
+Environment : :
+::
+Description
+
+--------- -
+
+-------- ------------------
+
+Comverse ONE. (Nov 2013 – till date)
+Prokarma Softech Pvt. Ltd., Hyderabad.
+Comverse.
+20.
+Telecom - Billing.
+Developer.
+Java, J2EE 5, Spring 3, Hibernate 3.2, Webservices, SOAP UI, jQuery, AngularJS,
+AJAX,XML,JSON, Unix, Oracle 11g, SQL developer, Weblogic 10.3, IntelliJ, SVN.
+
+:
+
+The Comverse ONE offering postpaid, prepaid usage and includes functionalities like Rating, Billing ,
+Payments and Collection. Subscriber acquisition and Order Management via the Customer Center and
+service definition via Product Catalogue are also supported. The Unified Platform provides the
+Security, Process Management, Monitoring and other Platform Management capabilities.
+Its salient features involve:
+
+
+
+
+
+
+Single API (SAPI): Holds the complete business logic to be used by all the front end applications
+of ComverseONE to be performed for processing client requests.
+Customer Care Centre (CCC): CCC is a Real Time deployment mode, which is used to manage
+pre-paid users Account, Subscribers, vouchers and Calling circles.
+Customer Care Batch (CCBatch): Front end application used for both creation and modification of
+Subscribers and vouchers.
+Card Generator (CardGen): CardGen application is a front end application which used to create
+recharge voucher cards with random serial numbers.
+Customer and Subscriber Management (CSM): CSM is a converged deployment mode, which
+manages accounts, subscribers, balances, promotions and discounts, payments, refunds, voucher
+and non voucher recharges.
+
+Technical / Functional responsibilities:
+
+2.
+
+
+
+Worked on Full Cycle of Software Development from Analysis through Design, Development and
+Integration phases.
+
+
+
+Handled the critical and complex modules of the project independently and have
+the modules assigned with highest quality.
+
+
+
+Involved in designing of the application following Model-View-Controller (MVC) architecture and
+Spring Framework. Also developed the service, domain, data model layers coding following the
+architecture guidelines.
+
+
+
+Implemented User Interface (front-end) and developed client validations and processing using
+JavaScript, jQuery, AngularJS and AJAX.
+
+
+
+Created Data Access Objects for retrieval of information, creation, updating and archiving based
+on DAO design pattern.
+
+
+
+Provided the support in developing the Web services to expose as a service to the client.
+
+
+
+Actively involved in different levels of development using J2EE Architecture with Spring
+Framework and Oracle as backend.
+
+
+
+Involved in Coding, Unit Testing and critical bug fixing in production support.
+
+
+
+Used SVN for version control of source codes.
+
+
+
+Perform end to end connectivity testing with all the core teams with effective defect management
+and resolution.
+
+
+
+Providing the technical support and guidance for team members.
+
+Project
+Employer
+Client
+Team size
+Domain
+Role
+Environment
+
+:
+:
+
+delivered all
+
+Integrated Customer Communication Module. (Sep 2011 – Nov 2013)
+HSBC Software Development (India) Pvt. Ltd., Hyderabad.
+: HSBC Group.
+: 30.
+: Banking & Financial.
+: Developer.
+: ::: Java,J2EE,Spring,Hibernate, EJB(MDB), Websphere MQ v7,Brickstreet Connect, :
+;;l WAS 7,Interwoven Teamsite,XML, Unix,SQL developer, RAD 7.5,MKS,IBM RTC.
+
+Description
+
+:
+
+Integrated Customer Communication (ICCM) module falls under the umbrella of One HSBC suite of
+product. The purpose of ICCM is to become the group solution for inbound/outbound communication
+to customer, regardless of the geographical location and business unit. It promotes product based
+solutions that focus on standardization and reduce cost of ownership and IT Spending.
+It includes following functionalities:
+
+
+
+
+
+
+
+
+Enabling business users to send both communications and documents to customers and prospects
+of their language choice via multiple delivery channels Internet, E-mail, SMS, Print, and PIB
+encapsulating email, SMS, Secure email & messages.
+Interfacing with various product/service systems or data stores of the Group to enable marketers
+and customer engagement teams to deliver personalized cross-channel marketing and
+debit/credit transactional messages.
+Rendering document in pre-defined format in real-time or in batch.
+Storing documents and communication records with appropriate access controls.
+Acting as a single source for templates and content for merging communications to customers
+and providing straight processing of customer communication.
+
+Technical / Functional responsibilities:
+
+3.
+
+
+
+Performed a pivotal role in the project, functionally and technically. As the only resource with
+experience in both WMQ and WAS solely responsible for analyzing the existing systems and
+developing a detailed road map for integrating both the systems, in multiple phases.
+
+
+
+Worked on Full Cycle of Software Development from Analysis through Design, Development and
+Integration phases.
+
+
+
+Hands on experience with third party outbound communication tool Brickstreet Connect for
+customers to get personalized, targeted, and timely communications.
+
+
+
+Responsible for retrieving & archiving the Email/SMS messages content which are processed from
+Brickstreet Connect & send the archived files to HDFS.
+
+
+
+Involved in integrating Spring and Hibernate integration.
+
+
+
+Created Data Access Objects for retrieval of information, creation, updating and archiving based
+on DAO design pattern.
+
+
+
+Responsible for creating Layouts, templates, images for different countries, regions and
+languages using Interwoven Teamsite content management system.
+
+
+
+Involved in the Analysis, Estimations, creation of Unit Test cases, coding of server side
+components, development and deployment of the application on server, peer code reviews,
+construction of Panel Specifications.
+
+
+
+Perform end to end connectivity testing with all the core teams with effective defect management
+and resolution.
+
+
+
+Develop business logic coding, content and deploying same through Interwoven Teamsite on DIT,
+SIT Production environments.
+
+Project
+: Common Electronic System for Kana Response(CESKAN) (Jul 2010 to Aug 2011)
+Employer
+: HSBC Software Development (India) Pvt. Ltd., Hyderabad.
+Client
+: HSBC Group.
+Team size
+: 14.
+Domain
+: Banking & Financial.
+Role
+: Developer.
+Environment :::: JDK/J2EE1.5,Spring,Hibernate,Webservices(JAX-WS),Log4J,Websphere application
+:: server 6.1,RAD 7.5, Unix, MKS, Kana Response 10.4.2,Websphere MQ v7.
+Description
+
+:
+
+CESKAN is a middleware application supporting Kana Response system. It does not have any web
+interface / website. This system have been deployed and running live across the globe successfully,
+managing and automating all inbound(Customer to Bank) and outbound (Bank to Customer)
+communications of customers & HSBC Bank respectively.It is based on SOAP and Java Web
+Services. It is able to support EBCDIC, BASE64, PLAIN text Message, COPYBOOK message and ISM
+headers message.Secure messages that are submitted are read by customers from the Internet
+Banking website, rather than through email. Since customers log into our secure website to send
+and read messages, we have an advantage over email in that we can exchange customer’s personal
+information.
+Technical / Functional responsibilities:
+
+
+Handled the critical and complex modules of the project independently and have
+the modules assigned with highest quality.
+
+delivered all
+
+4.
+
+
+
+Worked on Full Cycle of Software Development from Analysis through Design, Development and
+Integration phases.
+
+
+
+Involved in Coding, Unit Testing and critical bug fixing in production support.
+
+
+
+Perform end to end connectivity testing with all the core teams with effective defect management
+and resolution.
+
+
+
+Provide suggestive approach on planning and design of various functionalities and enhancements.
+
+
+
+Developed application as per the requirements and design required by clients.
+
+
+
+Involved in creating technical, functional specifications and also test case execution.
+
+
+
+Deploying the application at the various testing environments.
+
+Project
+Employer
+Client
+Team size
+Domain
+Role
+Environment ::
+Description
+
+:
+:
+
+:
+:
+:
+
+:
+:
+::
+
+eDOC (Electronic Document Management System) (May 2009 to June 2010).
+Maxis Software Therapeutics Pvt. Ltd., Hyderabad.
+American Express (Export Blue), USA.
+12.
+Banking & Financial.
+Developer.
+Java, Servlets, JSP 2.1, Struts 1.2, Ajax, XML, JavaScript, Spring, Hibernate, ::
+JAX-WS, Log4J, MySQL 5.0, Tomcat, Unix, Eclipse, SQL Developer, SVN.
+
+:
+
+An eDOC Application provides a complete solution for a specific area of Document Management (DM).
+The eDOC Repository provides a set of reusable cross-cutting Content Management Services Such as
+Content Storage, Query, Versioning and Content Transformation. It has Centralized Repository which
+is built on intelligent workflows to allow it to negotiate through Business Process Management or
+integrate it Quality Management Solution.
+eDOC enables users to effectively manage their documents create (or) update by different
+people at different times through a single common platform that is both secure and unfriendly. The
+Application allows unrestricted document sharing and free interaction among users through message
+Emails.
+Technical / Functional responsibilities:
+
+5.
+
+
+
+Handled the critical and complex modules of the project independently and have delivered all the
+modules assigned with highest quality.
+
+
+
+Worked on Full Cycle of Software Development from Analysis through Design, Development and
+Integration phases.
+
+
+
+Involved in designing of the application following Model-View-Controller (MVC) architecture and
+Struts Framework.
+
+
+
+Implemented Graphical User Interface (front-end) using JSP, HTML, JavaScript, and AJAX.
+
+
+
+Developed client validations and processing using JavaScript and HTML.
+
+
+
+Handled Transactions, Security and Exceptional Handling using Spring AOP.
+
+
+
+Involved in integrating Spring and Hibernate integration.
+
+
+
+Created Data Access Objects for retrieval of information, creation, updating and archiving based
+on DAO design pattern.
+
+
+
+Writing the Web Services and providing it to Flex Client using JAX-WS.
+
+
+
+Used SVN for version control of source codes.
+
+
+
+Involved in Coding, Unit Testing and critical bug fixing in production support.
+
+Project
+: WINS (Aug 2008 to Apr 2009)
+Employer
+: Maxis Software Therapeutics Pvt. Ltd., Hyderabad.
+Client
+: American Express (Export Blue), USA.
+Team size
+: 10.
+Domain
+: Banking & Financial.
+Role
+: Developer.
+Environment ::: J2SE, JSP 1.2, Servlets2.4, Struts, Ajax,XML1.0,JavaScript, Spring :2.0.8,
+:::Hibernate 3.2, Oracle10g, JBoss Server, Ant, Eclipse, SQL Developer, SVN.
+
+::
+
+Description
+
+:
+
+WINS is a workflow system to transmit internal requests in a controlled electronic environment
+between different departments of the Private Bank. This workflow application has been developed to
+automate the business processes in American Express. The primary goal of the initiative was to
+eliminate manual compensating controls, to reduce cycle time and to improve quality, as well as
+offering great potential for increased productivity through Business Process Management Automation.
+WINS has multiple external interfaces with:
+1)
+
+Document Management System (DMS) to get Clients Account and demographic information
+and for document storage.
+
+2)
+
+Straight Through Processing (STP) with External Host systems for External Wire Transfers.
+
+Technical / Functional responsibilities:
+
+
+Requirement gathering, analysis and study of impact.
+
+
+
+Involved in designing of the application following Model-View-Controller (MVC) architecture and
+Struts Framework.
+
+
+
+UI Development using JSP,JavaScript and AJAX.
+
+
+
+Develop data access using Spring and Hibernate.
+
+
+
+Involved in designing and deploying workflow process using Jboss JBPM Plugin.
+
+
+
+Provided sensitive-data securing using Secure Sockets Layer (SSL).
+
+
+
+Deployed the Application build using Ant.
+
+
+
+Used SVN for version control of source codes.
+
+
+
+Deployed the builds of the developed application on JBoss Application Server.
+
+
+
+Involved in Coding, Unit Testing and Bug Fixing.
+
+
+
+Involved in Developing, Client interaction, Production Support and Maintenance.
+
+A c h i e v e m e n t s ---------------------------------------------------
+
+---------
+
+
+
+Received Bravo Award in Maxis Software Therapeutics for outstanding performance at work and
+displaying strong analytical skills and business understanding in the month May 2009
+
+
+
+Received Recognition of Individual Superior Efforts RISE Award in HSBC for outstanding
+performance at work, displaying strong analytical skills with business understanding and managed
+individually offshore team in the first quarter of 2012
+
+Declaration
+
+-----------------------------------------------------------I hereby declare that all the information furnished above is true.
+
+Date:
+Place:
+
+Naveen Reddy. M
+
+

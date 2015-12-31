@@ -1,0 +1,645 @@
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate                                              -  2 year & current                                                
+
+Spring                                                     -  2 year & current                                                
+
+Web Services                                        -  2years                                                
+
+Core Java                                               -  6 year
+
+Design Patterns                                    -  using  
+
+UML design                                           -    
+
+Build Tools (Maven/Ant)                    -    nope   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+Websphere/eclipse
+
+
+
+10.35/40%/60days
+
+
+
+Telephonic next week.
+
+			
+
+		
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Satish Nallabheem
+
+		
+
+		Email: nallabheem.satish@gmail.com, Mobile:                                                                                           07675976075
+
+		Career Objective
+
+		Seeking acareerwithanestablished organization in JAVA/J2EE/Web Services. I'm looking for a challenging position where my developmentskillsare utilizedandwherea platform isprovidedtoimprovemyskills.Seekingacompanythat encourages allround development of an employee and provideaconductiveworkculture.
+
+		Specialties
+
+		Strong application Development skills.
+
+		Implemented the web-services using Java/J2ee , JAX-WS& JAX-RS
+
+		Developed servlets, jsps and java classes.
+
+		Data queryingusingSQL through jdbc.
+
+		Developed a small internal application to generate the weekly status report.
+
+		Strong debugging and problem solving skills.
+
+		Client interaction.
+
+		
+
+		Career Profile
+
+		
+
+		Organization
+
+		Designation
+
+		Experience
+
+		Konylabs
+
+		Senior Software Engineer
+
+		September-2013 to till date
+
+		Tata Consultancy Services
+
+		IT - Analyst
+
+		4.10 Years as on 1-September-2013
+
+		
+
+		Total
+
+		6.2 Years
+
+		
+
+		Certifications:
+
+			Sun Certified JAVA Programmer 1.6, July 2010.
+
+		Awards &Appreciations
+
+		
+
+		TCS Star of the month,June2010. “Goodteamplayerwith exemplary analytical skills.Appreciated by clients andTCSaccount managers fordeliveriesand dedication” 
+
+		
+
+		ExperienceSummary
+
+		
+
+		Project#5
+
+		TaylorUTC
+
+		Client
+
+		United States
+
+		Date
+
+		September2014 to till date
+
+		Role
+
+		Senior Software Engineer
+
+		Project Location
+
+		Kony Labs, Hyderabad
+
+		ProjectDescription
+
+TaylorUTC is a B2E app which is targeted for the Taylor employees . These employees everyday has to resolve few customer issues , to do this they will travel to different parts of the US. As of now users have to go by a vehicle and do the service and collect all the necessary data to submit at the supervisor for billing and further approvals. 
+
+TaylorUTC app resolves this cumbersome task using Kony Sync. Using sync user can work online/offline and submit the data. This way user need not worry about the work orders that he was assigned. User can accept/reject/update the orders using this app.
+
+		Responsibilities
+
+		Requirement gathering and analysis
+
+	Created Sync Attributes/Mappings
+
+	Used Object Oriented JS to query the SQLite database
+
+	
+
+		Technologies
+
+		OO JS, KonyStudio 5.6, KonySync
+
+		Database
+
+		SQLite
+
+		App Servers
+
+		 Tomcat
+
+		IDE & Version Control System
+
+		Eclipse Helios, SVN, KonyIDE
+
+		Development Methodology
+
+		Agile Development ( SCRUM Methodology )
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		Project#5
+
+		TMB
+
+		Client
+
+		Thailand Military Bank-- Thailand
+
+		Date
+
+		September2013to till date
+
+		Role
+
+		Senior Software Engineer
+
+		Project Location
+
+		Kony Labs, Hyderabad
+
+		ProjectDescription
+
+TMB is a multi channel Banking system which provides its services on different channels like Internet Banking, Mobile Banking and also through thick client. In this application, handled modules called Recipients and customer authentication. Customer authentication allows the end user to get into the system where as recipients allows the user to add his /her recipients to whom the money/funds can be transferred. 
+
+Developed SOAP (Apache - CXF) services for these two modules which can be consumed be all 3 channels.
+
+		Responsibilities
+
+		Requirement gatheringandanalysis
+
+	Create DTOs to represent inputs to the service
+
+	Create business rules to apply on the domain objects
+
+	Convert Core Mobile Domain Objects to output DTOs in the composite application service
+
+	Annotate the composite application service methods as Webserviceendpoints
+
+	
+
+		Technologies
+
+		JAVA, J2EE, XML, Unix, JAX-WS, JS, KonyStudio 5.0
+
+		Database
+
+		Oracle 10, SQL Developer
+
+		App Servers
+
+		 WebSphere7 
+
+		IDE & Version Control System
+
+		Eclipse Helios, SVN, KonyIDE
+
+		Development Methodology
+
+		Agile Development ( SCRUM Methodology )
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		Project#4
+
+		Wallet Portal
+
+		Client
+
+		Citi Bank -- Citi Mobility,USA
+
+		Date
+
+		September2012to September-2013
+
+		Role
+
+		Module Lead  - PayPass
+
+		Project Location
+
+		Tata Consultancy Services, Hyderabad
+
+		ProjectDescription
+
+Wallet portal brings the advantage of paying the bills and wallet maintenance capabilities for the end user. When a user completes all his shopping online and when the user is ready to make a payment he/she can choose his desired wallet to pay the bill, for this user has to choose click on the wallet thru which he wants to pay the bill. 
+
+When user clicks on the Citi-Wallet he will be redirected to the wallet-portal where the user has to enter the required credentials to get into the wallet-portal then he can pay with the wallet or he can choose the card that he want to associate it with wallet and continue with the transaction.
+
+If the user already in the CBOL(Citi Bank Online) he/she can come to the wallet-portal by clicking on the link provided then a SSO happens by verifying the SAML and the user can associate/dissociate , deactivate the wallet, change the shipping address.
+
+		Responsibilities
+
+		Requirement gatheringandanalysis
+
+	Create DTOs to represent inputs to the service
+
+	Create Core Mobile Domain Objects that map to the ESB response for  the service
+
+	Create request mappers to convert the request to ESB request XML
+
+	Create  response mapper to convert ESB response XML to Core Mobile  Domain Objects
+
+	Create business rules to apply on the domain objects
+
+	Create the FTLs to feed the request to the ESB service.
+
+	Convert Core Mobile Domain Objects to output DTOs in the composite application service
+
+	Create Xpath mappers to get the response data to the domain objects.
+
+	Annotate the composite application service methods as Webservice & WebMethod endpoints
+
+	Wire the services, mapper together in spring configuration
+
+		Technologies
+
+		JAVA, J2EE, XML, Unix, Springs ( IOC,DI ), Hibernate, JAX-WS, JAX-RS, FTL, SOAP UI, Ajax
+
+		
+
+		Database
+
+		Oracle 10, SQL Developer
+
+		App Servers
+
+		 WebSphere7
+
+		IDE & Version Control System
+
+		Eclipse Helios, RTC (Rational Team Concert)
+
+		Development Methodology
+
+		Agile Development ( SCRUM Methodology )
+
+		
+
+		
+
+		Project#3
+
+		Hutch WALLET  (3HK)
+
+		Client
+
+		Citi Bank -- Citi Mobility,USA
+
+		Date
+
+		January2012toAugust 2012
+
+		Role
+
+		Module Lead  - eCoupons
+
+		Project Location
+
+		Tata Consultancy Services, Hyderabad
+
+		ProjectDescription
+
+The Hutch Wallet is a new consumer product which combines mobile payments with traditional checking/saving and credit card product in order to be ready for changes in the Mobile Payments space with the anticipated entry of new players such as Google and I-phone.   Citi Wallet aims to facilitate convenient payments and transfers to and from Citibank accounts within a wider network of customers and merchants.   
+
+From business perspectiveHutchWallet is a combination of an Electronic Wallet on a mobile telephone funded through a CASA or Credit card account. HutchWallet is envisioned to enable an easy-to-use peer-to-peer (P2P) mobile payment function. HutchWallet can be downloaded and used by anyone, whether or not they are existing Citibank customers. The download process can be initiated from both smartphones and feature phones. This is to ensure a wide reach within all markets. 
+
+A Hutchwallet user can send and receive the money from other Hutch-Wallet users. The Hutch-Wallet user can also send the money to the other bank customers. 
+
+In this process a Hutch-Wallet user only need to choose the phone number to whom he has to send the money. This enables the user to send the money from his/her mobile by selecting the phone number and the money transfer happens seamlessly, reliably without any hassles. This way Hutch-Wallet ensures the smooth way of mobile payments.
+
+When compared with Citi-Wallet , Hutch Wallet supports NFC & Non-NFC devices. Here NFC stands for Near Field communicators, basically these smartphones come with an extra chip to support the NFC feature. This enables the end user to show his mobile at the POS and the transaction gets initiated.
+
+As mentioned above an Hutch wallet user can do the online shopping and as part of this feature the user is entitled to have set of coupons. User can use these coupons to avail the discounts offered by 3HK. User also can browse through the available coupons and he can clip (save) the coupons to his wallet. User can view the coupons and also he can unclip the coupons. User can check the loyalty points that are with the wallet.
+
+		Responsibilities
+
+		Requirement gatheringandanalysis
+
+	Create DTOs to represent inputs to the service
+
+	Create Core Mobile Domain Objects that map to the ESB response for  the service
+
+	Create request mapper to convert the request to ESB request XML
+
+	Create  response mapper to convert ESB response XML to Core Mobile  Domain Objects
+
+	Create business rules to apply on the domain objects
+
+	Create the composite application service 
+
+	Convert Core Mobile Domain Objects to output DTOs in the composite application service
+
+	Annotate the composite application service methods as Webservice endpoints
+
+	Wire the services, mapper together in spring configuration
+
+		Technologies
+
+		JAVA, J2EE, XML, Unix, Springs ( IOC,DI ), JAX-WS, JAX-RS(Conceptual Knowledge), FTL, SOAP UI
+
+		
+
+		Database
+
+		Oracle 10, SQL Developer
+
+		App Servers
+
+		 WebSphere6.1 
+
+		IDE & Version Control System
+
+		Eclipse Galileo, Clearcase
+
+		Development Methodology
+
+		Agile Development ( SCRUM Methodology)
+
+		
+
+		
+
+		Project#2
+
+		CITI WALLET 
+
+		Client
+
+		Citi Bank -- Citi Mobility,USA
+
+		Date
+
+		January2010toJanuary 2011
+
+		Role
+
+		TeamMember
+
+		Project Location
+
+		Tata Consultancy Services, Hyderabad
+
+		ProjectDescription
+
+The Citi Wallet is a new consumer product which combines mobile payments with traditional checking/saving and credit card product in order to be ready for changes in the Mobile Payments space with the anticipated entry of new players such as Google and I-phone.   Citi Wallet aims to facilitate convenient payments and transfers to and from Citibank accounts within a wider network of customers and merchants.   
+
+From business perspective Citi Wallet is a combination of an Electronic Wallet on a mobile telephone funded through a CASA or Credit card account. Citi Wallet is envisioned to enable an easy-to-use peer-to-peer (P2P) mobile payment function. Citi Wallet can be downloaded and used by anyone, whether or not they are existing Citibank customers. The download process can be initiated from both smartphones and feature phones. This is to ensure a wide reach within all markets. 
+
+A Citi wallet user can send and receive the money from other Citi-Wallet users. The Citi-Wallet user can also send the money to the other bank customers. 
+
+In this process a Citi-Wallet user only need to choose the phone number to whom he has to send the money. This enables the user to send the money from his/her mobile by selecting the phone number and the money transfer happens seamlessly, reliably without any hassles. This way Citi-Wallet ensures the smooth way of mobile payments.
+
+		Responsibilities
+
+		Requirement gatheringandanalysis
+
+	Create DTOs to represent inputs to the service
+
+	Create Core Mobile Domain Objects that map to the ESB response for  the service
+
+	Create request mapper to convert the request to ESB request XML
+
+	Create  response mapper to convert ESB response XML to Core Mobile  Domain Objects
+
+	Create business rules to apply on the domain objects
+
+	Create the composite application service 
+
+	Convert Core Mobile Domain Objects to output DTOs in the composite application service
+
+	Annotate the composite application service methods as Webservice endpoints
+
+	Wire the services, mapper together in spring configuration
+
+		Technologies
+
+		JAVA, J2EE, XML, Unix, Springs ( IOC,DI ), JAX-WS, JAX-RS(Conceptual Knowledge), FTL, SOAP UI
+
+		
+
+		Database
+
+		Oracle 10, SQL Developer
+
+		App Servers
+
+		 WebSphere6.1 
+
+		IDE & Version Control System
+
+		Eclipse Galileo, Clearcase
+
+		
+
+		
+
+		
+
+		Project#1
+
+		Global Atlas
+
+		Client
+
+		WoltersKluwer,USA
+
+		Date
+
+		November2008to December 2009
+
+		Role
+
+		TeamMember
+
+		Project Location
+
+		Tata Consultancy Services, Chennai
+
+		ProjectDescription
+
+Atlas is a search engine based application which gives its users the capabilities to search the content, browse through the content, get the daily tracker mails based on their subscription. 
+
+		From a business perspective, Global Atlas (GA) is a Wolters Kluwer system responsible for accepting content and configuration from editorial and product management groups and delivering it to customers for research and integration, in exchange for payment.  GA provides support for delivery of content to any channel, including, but not limited to, research applications, practice management applications and knowledge management systems. GA is the common, underlying platform that WK businesses will leverage to build research site solutions for their customers.  Research sites provide the delivery and navigation of online content for WK customers.  A research site includes:  user interface, site functionality, back office interfaces, content loading/exporting, third-party application integration, deployment, hosting, etc. 
+
+		Responsibilities
+
+			Requirement gatheringandanalysis
+
+			Application development and DB querying through JDBC
+
+			Implementation
+
+			Maintenance&Code fixing
+
+		Technologies
+
+		JAVA, J2EE( JDBC, Servlets, JSPs ), Unix
+
+		Database
+
+		SQLServer 2005
+
+		Search Engines
+
+		Microsoft FAST ESP
+
+		Web / App Servers
+
+		Apache Tomcat, Bea Weblogic10
+
+		IDE& Version Control System
+
+		Eclipse Galileo, CVS, GIT
+
+
+
+		
+
+		
+
+		
+
+		EducationalQualifications
+
+		
+
+		Degree and Date
+
+		Institute
+
+		Major/Specialization
+
+		Percentage
+
+		M.Tech – IT
+
+		October-2008
+
+		Jawaharlal Nehru Technological University(JNTU Hyderabad)
+
+		IT
+
+		74.50
+
+		B.Tech  - CSE,
+
+		June – 2005
+
+		University college of engineering and technology (KakatiyaUniversity)
+
+		Computer Science
+
+		64.50%
+
+		Intermediate
+
+		May 2001
+
+		SVSJunior college
+
+		Maths, Physics and
+
+		Chemistry
+
+		87.50%
+
+		SSC 1999
+
+		Sri saraswathi shishu mandir
+
+		NA
+
+		80.00%
+
+		
+
+		PersonalDetails
+
+		
+
+		Date ofBirth
+
+		09 March 1984
+
+		Nationality
+
+		Indian
+
+		Gender
+
+		Male
+
+		Marital Status
+
+		Married
+
+		Location
+
+		Hyderabad
+
+		Mobile
+
+		+917675976075
+
+		Email
+
+		nallabheem.satish@gmail.com

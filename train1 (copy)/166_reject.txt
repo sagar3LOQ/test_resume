@@ -1,0 +1,240 @@
+Call at 6
+
+Prakash Kumar Chandra
+Contact No: +91-9581544806
+Email id:prakashchandra1986@gmail.com   
+        
+        
+        
+        
+        
+
+
+ŹŹŹŹŹŹŹŹŹŹŹŹŹŹŹŹŹ
+Experience summary:
+
+        
+Having around 5 years of experience in software development and implementation of web based, distributed applications using Java & J2EE, Scala  Play framework, Web Services.
+        
+Exposure of most of the phases of SDLC, including, Coding, Unit Testing and Implementation. 
+        
+Experience in developing web based application using Enterprise Technologies pertaining to J2EE paradigm like JAVA, JSP, XHTML, and Servlets.
+        
+Having good exposure to Unit testing. 
+        
+Having good exposure UNIX, putty and Web sphere.
+        
+Having good exposure to DB2, SQL developer.
+        
+Documenting, tracking, & communicating test plans, results, analysis, & unresolved problems using test management tool i.e.: share point.
+        
+Identifying business needs and providing the best possible solutions to their utmost satisfaction.
+Technical Skills:
+
+Operating Systems       
+: Windows2000/XP, Windows7
+Web Technologies        
+: JSP-Servlets, HTML, XML
+Framework       
+        
+: Spring 3.1 with Hibernate, JSF 2.0 (Prime faces)
+Languages       
+: Java-J2EE, Core Java (Multithreading, Collections), Scala 2.3, Web Services
+Database        
+        
+: DB 2 8.1, SQL Server 2005. 
+IDE     
+        
+        
+: RAD, Eclipse 3.3.
+Others  
+        
+        
+: UNIX (basics)
+Application Server      
+: WAS, Tomcat 7.0, JBoss 3.0
+
+Currently Working:
+
+        
+Working as Senior Analyst in Wells Fargo India Solution Ltd, Hyderabad from June 2013 to till date.
+        
+Worked as Associate Consultant in Capgemini India Pvt Ltd, Hyderabad from Aug 2010 to May 2013.
+
+Educational Qualification:
+
+        
+MCA from CSVTU, Bhilai in 2009.
+        
+B.Sc(Computer Science)
+
+
+Certifications:
+
+        
+SCJP (Sun Certified Java Programmer)
+        
+SCWCD (Sun Certified Web Component Developer)
+
+Project Experience:
+
+I. Project Name 
+:       
+ Cross Channel printing (XCP)
+Client  
+        
+        
+:       
+Internal Project-Wells Fargo India Solution
+Environment     
+        
+:       
+Java-J2EE, Scala  2.3.0, Hibernate with SQL Server 2005.
+Domain  
+        
+:       
+Banking (Print Services)
+Tools   
+        
+        
+:       
+Eclipse-Juno, Tomcat 7.0, Hibernate-hbm2java.
+OS      
+        
+        
+:       
+Windows 7/XP
+Duration        
+        
+:       
+ From June 2013 to till date
+Role    
+        
+        
+:       
+Java Developer.
+Description     
+        
+:
+This application basically provides a facility of sending documents to users of the bank, the services provided to the customer is classified into two categorys PSSP product services and Custom package product services.
+As a part of PSSP products application maintains Invoice, Letters, Tax document and Statement, this are the pre-defined products which application offers and for which # of BW Print Images, # of Color Images,# of pages, # of return envelope,# pdf image volume ,postage dollars etc. are per-defined into the system.
+Now if the customer wants to go for a custom product which is not available within the system than application has facility of creating new custom products , the count of usage of # of BW Print Images, # of Color Images,# of pages , # of return envelope,# pdf image volume ,postage dollars etc would be coming from upstream applications.
+There are two main frame applications L2/XN and MRDF from where this application receives feed which contains actual usage of contents, this application parses those feeds and updates its database, this application has the facility to do manual adjustments in those feed data.
+After doing all the adjustments finally a file is created and sent to ACO (Super admin), ACO will review this file and charge back the customers.
+ 
+Responsibilities:-
+        
+Working in the team.
+        
+Low level Design with document. 
+        
+Creating new screens.
+        
+Writing business logic.
+        
+Writing DB Scripts to fulfill the requirement.
+        
+Extending the Tables and Columns for fulfilling of Business requirements.
+        
+Unit testing to test efficiency of the application.
+        
+Releasing the source.
+        
+Bug fixing.
+
+
+II. Project Name        
+:       
+WC-EDI (Workers Compensation Electronic Data Interface)
+Client  
+        
+        
+:       
+CNA-Continental Assurance Company-USA
+Environment     
+        
+:       
+Core Java, Oracle SQL Developer, UNIX, Control-M
+Domain  
+        
+:       
+Insurance
+Tools   
+        
+        
+:       
+RAD, WinSCP, Putty.
+OS      
+        
+        
+:       
+Windows 7/XP
+Duration        
+        
+:       
+ From Dec 2011 to May 2013
+Role    
+        
+        
+:       
+Java Developer.
+Description     
+        
+:
+
+Functional Flow:-The main Objective of WC-EDI to reduce the Manual claim processing and reduces the rejection of reports from the existing application only Florida State automated till now this application will deliver the electronic reporting of Workers Compensation data to State bureaus. WC EDI Support is the system that processes the claim related information and formats it into electronic reports to be submitted to the state. The type of reports and their content is mandated by the states. 
+
+Technical overview:-This is a Batch (Job) processing tool in which jobs are configured in Control-M, this jobs will be processing the Non- Financial as well as Financial data coming from upstream application like Claim center and ACT (Mainframe system), all the non-financial data will be coming from claim center, out which some are new claims, some are updating on existing ones like policy renewal, plan renewal, premium payment duration change etc.
+
+The Financial data includes Payment related information; Payment which the insurance company needs to pay to their insurance holder this includes Payee name, Coverage code, Issue date, End date, Payment code, Transaction amount, Aggregate amount , Aggregate weeks, Aggregate days etc
+
+All the Non-Financial data along with its corresponding financial data will be merged and stored in one oracle table, An xml has been generated with this data and finally that xml has been sent to Vendor system (Florida state government), vendor extracts this xml data in to their database, the data will be populated in to their application from this database, Finally they will verify this data and send the acknowledgement back to us.
+ 
+Responsibilities:-
+        
+Working in the team
+        
+Low level Design with document.
+        
+Unit test case preparation 
+        
+Writing business logics (creation/modification in existing code)
+        
+Extending the Tables, Columns and Writing DB Scripts for fulfilling of Business requirements.
+        
+Unit testing to test efficiency of the application.
+        
+Releasing the source.
+        
+Deployment and bug fixing.
+        
+Batch Run using Control-M
+        
+File transfer and merge using Unix commands
+
+
+Personal Information:
+
+Fathers Name : Shri I.R.Chandra
+Sex and marital status : Male, Single.
+Date of Birth : 25th June 1986.
+Language Known : English, Hindi.
+Passport No.    
+        
+ : H4350323.
+
+
+Declaration:
+
+I do here by declare that the information furnished above is true to the best of my knowledge.
+
+Date:
+Place: Hyderabad        
+        
+        
+        
+        
+        
+        
+ Prakash Kumar Chandra 
+

@@ -1,0 +1,340 @@
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate                      -1 year & current                                                 
+
+Spring                            -  2years& current                                                
+
+Web Services                 -  used in project
+
+Core Java                       -  7years
+
+Design Patterns               -MVC    
+
+UML design                                         
+
+Build Tools (Maven/Ant)        Maven   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+Weblogic/tomcat
+
+
+
+DB:oracle
+
+
+
+
+
+
+
+                                            CURRICULUM VITAE	
+
+
+
+	
+
+
+
+D. RAVI KUMAR		                        Mobile: 07799557456
+
+Hyderabad 					Email: damarlaravi533@gmail.com
+
+
+
+Career Objective
+
+
+
+Having 7+ years of experience in PRODUCT BASED industry, willing to associate with an organization that provides me an opportunity to show my techno-proficient skills, to improve my knowledge with the latest trends and to be a part of the team that works dynamically towards the growth of the organization.
+
+
+
+Professional profile
+
+	Extensive experience in application development with specialization in Flex, Cairngorm architecture and Java from past SEVEN years.
+
+	Efficient skills in using J2ee Technologies like Servlet, JSP, spring, Hibernet, and JDBC.
+
+	Application development in Flex, such as MXML and Action Script syntax, creating applications using Custom Flex components, Binding, Result and Fault handling, analyzing, designing, building and deploying a Flex application.
+
+	Extensive experiences in flex mobile application development using flash builder4.6, in flex sdk4.6.
+
+	Experience in Developing Enterprise Applications on Eclipse and Flex Builder.
+
+	Good Knowledge in HTML5 Animations, to publish Adobe Flash IDE, Adobe Muse.
+
+	Good Experience in JavaScript API, AngularJS and EmberJS frameworks. 
+
+
+
+Academic Qualification
+
+
+
+Graduation: B.Tech in Computer Science and Engineering from JNTU Hyderabad, Andhra Pradesh.
+
+
+
+
+
+
+
+
+
+Professional Experience
+
+
+
+Working as a Software Engineer in Prokarma Softech, from April 2012 to till Date.
+
+Worked as a Software Engineer in V-M Software from November 2010 to January 2012.
+
+Worked as a Software Engineer in Excel Soft from October 2007 to November 2010.
+
+
+
+				Project #1
+
+
+
+Title                        : QuikView
+
+Client                      : T-Mobile U.S.A
+
+				Position			: Developer
+
+Team Size		: 5
+
+Duration		: April 2013 – till date
+
+Environment          : Flex 3.6 SDK, AIR 2.6 SDK, Java 1.6, LCES  3.1, Spring,    Hibernate, Parsley, Intelli J IDE.
+
+Description:      
+
+The goal of this project is to develop a simple frontline desktop “QuikView” that is universal for all Care and Retail frontline employees of T-Mobile. This “QuikView” brings functional parity between service channels (care) and the retail frontline employees, simplifies the interface, thus helping both to focus on the customer rather than the expend valuable time on the systems.
+
+ 
+
+Roles and responsibilities:
+
+Analysis of Code and maintenance of applications.
+
+Used Remote Objects, HTTP Services to handle the server side functionalities in Flex.
+
+Understanding and implementing Customer Requirements based on user stories.
+
+				Project #2
+
+				Title			: EHR (Electronic Health Records)	
+
+		Client			: GreenClinical systems
+
+				Position			: Developer
+
+Team Size		: 9
+
+Duration		: April 2012 – April 2013
+
+Environment	: Flex4.5, Flash Builder, Spring, Hibernet, BlazeDS, SQLServer,                      parsley framework.         	                           		 
+
+
+
+Description:
+
+
+
+			   GreenClinical systems is a US based operating company at all stages of the value-added chain. Electronic Health Records (EHR) software for the physiciens and hospitals, is an ONC meaning full Use Complete EHR Certifie Product. This will be soon replaces the tradition method of maintaining paper record for patient information with electronically maintien Heath record. This application is an interactive interface with a complete intuitive UI powered by the latest in RIA technology. Physicians and doctors will be able to record/transmit health related information, order labs, prescribe medication etc. Over devices like ipad, iphone and any android based devices thus eliminating task of maintaining paper record.
+
+	
+
+Roles and responsibilities:
+
+As a team member to design and develop the solutions for the project.
+
+Designing strong Flex UI components as well as development of custom Flex components. Flex development exposure of Flex Layout and Navigation containers, Event Handling, Behaviors, View states.
+
+Design and developed modules like Scheduler, Patient history, Messages and Labs.
+
+
+
+		Project #3
+
+
+
+				Title			: Document Builder 2.0	
+
+		Client			: Flozio
+
+				Position			: Developer
+
+Team Size		: 7
+
+Duration		: November 2010 – April 2012
+
+Environment	: Flex4.0, Cairngorm Architecture, Flash Builder, DotNet,
+
+			  SQLServer.         	                           		 
+
+
+
+Description:
+
+
+
+			   Flozio leads the cloud printing movement with good revolutionary, game-changing web2print software as a service (SaaS). In 2010, business interns rated as #1 in the web2print industry. Flozio were unpaid interns too. Joined Flozio to develop/grow their business like a virus. Organization has expert software developers who also love print, so that yields one heck of an online printing my experience. 
+
+
+
+Roles and responsibilities:
+
+As a team member to design and develop the solutions for the project.
+
+Designing strong Flex UI components as well as development of custom Flex components. Flex development exposure of Flex Layout and Navigation containers, Event Handling, Behaviors, View states.
+
+Applying Cairngorm Architecture to design flex screens and related configuration for each use-case.
+
+
+
+		Project #4
+
+
+
+				Title			: QAMS	
+
+		Client			: Excel Soft
+
+				Position			: Developer	
+
+Team Size		: 3
+
+Duration		: February 2009 - November 2010
+
+Environment	: Flex3.0, Cairngorm Architecture, Flex Builder3, Servlets,   Eclipse3.4, Jdbc, BlazeDS.	                           		 
+
+
+
+
+
+Description:
+
+
+
+			   QAMS stands for Question Authoring and Management System. QAMS is a part of SkillSharp. SkillSharp is a next generation online skills assessment tool that bridges the gaps between the available and the required talent pool for a corporate or a large staffing company. SkillSharp facilitates multi-dimensional assessment of a job seeker by allowing employers to create custom tests to suit specific job requirement. In QAMS QuestionAuthor will author/add questions to the SkillSharp database, the QuestionReviewer would review this question. Question Reviewer can approve/reject the question. For adding and reviewing questions Question Author/Question Reviewer would get money as per payment instructions.
+
+	
+
+Roles and responsibilities:
+
+
+
+As a team member to design and develop the solutions for the project.
+
+Designing strong Flex UI components as well as development of custom Flex components. Flex development exposure of Flex Layout and Navigation containers, Event Handling, Behaviors, View states.
+
+Applying Cairngorm Architecture to design flex screens and related configuration for each use-case.
+
+
+
+
+
+		Project #5
+
+
+
+Title			: My Video Resume
+
+Client			: NetPixel
+
+Position			: Developer
+
+Team Size		: 5
+
+Duration		: August 2008 - January 2009
+
+																	Environment	     : Flex3.0, FMS (Flash Media Server), Cairngorm Architecture,
+
+																					  Flex Builder3, Servlets, Eclipse, Jdbc, LCDS.	 
+
+
+
+Description:
+
+
+
+	                   The project MyVideoResume is a job portal deals with multimedia. In MyVideoResume candidate can record his own Video/Audio resume otherwise he can upload Video/Audio file. MVR allows a job seeker to showcase their talent in the form of high definition videos and broadcast it to their choice of employees. This platform allows the user to create multiple video/audio/textual profiles for their dream jobs. 
+On the other hand, MVR as a common platform, allows the employers to create and publish their job requirements along with a video specific to the job and the organization.
+
+	
+
+Roles and responsibilities: 
+
+
+
+As a team member to design and develop the solutions for the project
+
+To develop presentation logic with Flex Team. Flex development exposure of Flex Layout and Navigation containers, Event Handling, Behaviors, View states.
+
+Worked on FMS to Record and Play videos.
+
+Applying Cairngorm Architecture to design flex screens and related configuration for each use-case.
+
+		
+
+		
+
+		Project #6
+
+		   
+
+		Title			:  Contact Relationship Management 
+
+		Client			:  Di-Tech, USA
+
+		Role			:  Developer
+
+		Duration 		:  January 2008 - July 2008
+
+		Environment		:  Struts Framework, Servlet, JSP, JDBC, TOMCAT
+
+		Tools			:  Eclipse (my eclipse),
+
+		
+
+Description:
+
+		
+
+				The system should maintain individual database for each country so that the maintenance of large data can be easily managed. The system must include web based front end where users can access the intranet application from different places. This application provides an interface between organization and consultancy and students, which manages student’s details in institute, it maintains all the details of students, employees and consultant, appointment time with student consultancy and management has records in the database and retrieves whenever it required.
+
+		
+
+		Roles and Responsibilities: 
+
+		
+
+As a part of team to design and develop the solutions for the project.
+
+Applying Struts Framework to design Actions, Action Forms and related configuration files.
+
+Using My Eclipse to rapidly generate JSP, Action Forms, Actions, Struts-Config.
+
+Involved in performing validations using Struts validation framework.
+
+		
+
+
+
+Declaration:
+
+
+
+            I here by declare that the information furnished above is true to the best of my knowledge.
+
+
+
+Date: 
+
+Place: Hyderabad     							(D. Ravi Kumar)

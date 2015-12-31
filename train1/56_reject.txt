@@ -1,0 +1,363 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                  -  2 year n&
+current                                �
+�               
+
+Spring                  
+                                  -  2
+year n&
+current                                �
+�              
+
+Web
+Services                                
+        - 
+No                                   
+           
+
+Core
+Java                                  
+             -  4 years
+
+Design
+Patterns                                
+    -    2 year
+
+UML
+design                                 
+          -   No 
+
+Build Tools (Maven/Ant)                    -   
+Maven/Ant   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Tomcat/eclipse
+
+DB-oracle
+
+curriculam vitae
+
+B KIRAN KUMAR
+
+Email: mail2kiraan@gmail.com 						Hno. 8-3-231/A/33/1, 
+
+Mobile: +918106724202								Krishna Nagar
+
+Hyderabad - 500 047.
+
+________________________________________________________________________
+__________________
+
+Synopsis
+
+Exposure to a gamut of technical environments coupled with boundless
+energy and zeal helps me pursue my goals with confidence. Also, strong
+inter-personal skills and ability to adapt to different situations make
+me a very good team player. A strong ability to take up a new problem,
+study it in the context of the domain, analyze and find solutions.
+Translate academic knowledge to execution go along with excellent team
+skills.
+
+Work Experience 
+
+Organization			: Prokarma Software PvtLtd							  HYPERLINK
+"http://www.google.co.in/imgres?imgurl=http://www.c2clive.com/images/Fou
+r%2520Soft%2520logo.gif&imgrefurl=http://www.c2clive.com/latestnewsdetai
+l.php%3Fid%3D3984&usg=__KFW5Z2kuyk9RpLvCHSz30-Kiq30=&h=44&w=227&sz=7&hl=
+en&start=6&zoom=1&tbnid=OvzvPgFS6jU_pM:&tbnh=21&tbnw=108&prev=/images%3F
+q%3Dfoursoft%2Blogo%26um%3D1%26hl%3Den%26sa%3DN%26biw%3D1224%26bih%3D518
+%26tbs%3Disch:1&um=1&itbs=1" . .
+
+Tenure			: July’11 to  tilldate
+
+About the Organization	: ProKarma has evolved along with the changing IT
+landscape in the past decade to emerge as one of the fastest-growing IT
+Services Company in the US (Inc. 500 list of Fastest Growing IT Services
+Company in America in 2009).
+
+.
+
+Tenure			: Nov’10 to  Jun’11
+
+About the Organization	: Four Soft is the world's largest transportation
+and logistics software products company providing innovative and
+integrated enterprise solutions ensuring customer satisfaction.
+
+As Software Engineer — November 2010 to Till Date
+
+Worked extensively in Web, Intranet applications in J2EE
+
+Experienced the development and implementation of Real Time applications
+using 
+
+                  Java, J2ee, Spring, Hibernate. 
+
+Understanding the client mission and goals.
+
+Comprehensive Knowledge Management.
+
+Projects Done
+
+#1    ShipCarsNow  (04.02.2012 to Tilldate)
+
+	TeamSize              : 30
+
+            Client                     : UPRR (USA).
+
+Abstract:
+
+ShipCarsNow offers reliable, nationwide auto transport. It provides new
+and used car shippers with a robust and responsive auto transport
+network to handle both local and long distance auto shipments.SCN
+multimodal (truck-rail) car hauling resources across the U.S. enable
+auto traders to reach more markets, lower auto transport costs, and
+improve profits. Its customers include auto manufacturers, auto
+remarketers, up fitters, auto auctions, fleet managers, finance
+companies, rental car companies, and used car dealers. ShipCarsNow is a
+subsidiary of Union Pacific Railroad. Formed in 2006, ShipCarsNow was
+created to provide the used car industry with safe and affordable
+multimodal auto transport. It brings advanced logistics technology to
+the auto remarketing industry as a natural extension of Union
+Pacific’s business model for new car distribution.
+
+Role                       	         :  Software Engineer
+
+Technical Environment    :  Java, spring (IoC), Spring (AOP), Hibernate,
+Oracle, Jboss, Jms, Jpa, Windows2000    
+
+Contribution
+
+Requirement gathering from business analyst
+
+Low level designing
+
+Improving performance and reliability of the Price Engine
+
+Tested, debugged and implemented the application using JUnit for unit
+testing.
+
+Train, guide and supervise Junior Developers in coding methodologies.
+
+Review codes to identify any basic errors.
+
+analyzed and developing a business logic of the Price Engine;
+
+#2    Venice Test Portal  (18.07.2011 to 01.02.2012)
+
+	TeamSize              : 6
+
+            Client                     : Hughes Telematics (USA).
+
+            
+
+Abstract:
+
+The Hughes Telematics comprehensive set of services is designed to
+satisfy the ever growing in-vehicle telematics demand for improved
+safety, security, convenience, maintenance and information services. Web
+portal provide convenient access to many of these services. The
+Telematics services bundle ultimately strengthens a customer’s
+connection to the vehicle while enhancing the driving experience through
+personalized connected services. Service Include speed alerts,
+Geofencing, Battery charging, Remote climatisation are intercepted to
+the device which is fitted in the vehicle. 
+
+Role                       	         :  Software Engineer
+
+Technical Environment    :  Java, spring (IoC), Spring (MVC), Hibernate,
+Oracle, Jboss, Windows2000    
+
+Contribution
+
+Implemented Controller, Service, DAO and Delegate layers using spring,
+JPA and Web Services.
+
+Worked on  Ajax calls, Client side validation using JQuery
+
+Writing JUnit test cases for API’s coded in Service, DAO layers in the
+application.
+
+Implement QC defects, Change Requests and issue tracks.
+
+Attending daily scrum calls to update daily status and get
+clarifications on new requirements and Defects.
+
+#3    VisiLogplus            (02.11.2010 to 17.06.2011)
+
+         TeamSize              : 12
+
+Abstract:
+
+VisiLogplus (Supply chain management) is the management of a network of
+interconnected businesses involved in the ultimate provision of product
+and service packages required by end customers. VisiLogplus spans all
+movement and order management system, storage of materials (Warehouse
+Management System), and goods from point of origin to point of
+destination (Freight management system).
+
+Role                       	         :  Software Engineer 
+
+Technical Environment    :  Java, Servlet, Jsp, PL/SQL, Oc4j10.1.3,
+WindowsXp
+
+Contribution	
+
+ 
+
+Understanding & Analyzing  the functional requirement 
+
+Involved in coding and development.
+
+Involved in Product Performance Tuning using 4s Customization PMD Tool.
+
+Involved in UnitTesting.
+
+________________________________________________________________________
+__________________ aCCOMPLISHMENTS
+
+Operating Systems                :    Windows 98, 2000, XP.
+
+Languages                        	:    Java 
+
+Server Side Technologies     	:    Servlets, Java Server Pages (JSP)
+
+Project Management Tools  :    Servlets, Code Collaborator, Bamboo,
+Jenkins
+
+Middleware                          	:    Javabeans 
+
+Servers                                    :    Apache Tomcat, Jboss
+
+Framework                            :    Spring
+
+Script Languages                  	:    HTML, Javascript.
+
+Database                          	:    MySQL, Oracle8
+
+IDE                               	:    Netbeans, Eclipse
+
+Academic PROFILE
+
+Master of Computer Applications. (M.C.A)	        C.V.S.R Engg College 	
+J.N.TU                                         
+†††††††††††††††††††ഠ䈍捡敨潬
+⁲景䌠浯異整⁲捓敩据⁥䈨匮⁣潃灭瑵牥⥳†††䜠癯
+⁴敄牧敥䌠汯敬敧ठ匉䬮售 †††ഠ䄍卓呅൳
+
+	Good Analytical and Communication skills.
+
+	Ability to learn and deliver.
+
+	Adaptive to dynamic situations. 
+
+Languages known
+
+	English, Hindi and Telugu.
+
+References
+
+Can provide as per demand
+
+PERSONAL PROFILE
+
+	Father Name	:   	Sri B.Rajanna 
+
+&
+
+'
+
+(
+
+9
+
+G
+
+M
+
+N
+
+c
+
+j
+
+€
+
+‡
+
+•
+
+–
+
+&'}
+
+~
+
+Õ
+
+Ö
+
+EH
+
+'
+
+(
+
+9
+
+G
+
+€
+
+«
+
+À
+
+␃愁Ĥ
+
+%&'Ô
+
+Õ
+
+Ö
+
+×
+
+è
+
+é
+
+ê
+
+␃愃̤
+
+᠀Ö
+
+×
+
+è
+
+é
+
+ê
+
+û
+
+-
+
+␃愃̤Ѐ#␃愃̤
+
+ÿÿÿÿ
+
+* of Birth	:   	20th Sep 1985
+
+	Nationality	:      	INDIAN -Hindu
+
+	Hobbies	:	Reading Articles in newspapers. 
+
+	Holding a Valid Passport 
+

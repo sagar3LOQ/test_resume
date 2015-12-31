@@ -1,0 +1,373 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                 -  Only Basic
+Knowledge                               �
+�               
+
+Spring                  
+                                 - 
+3.6year&current                            �
+�                  
+
+Web
+Services                                
+       -  3.6 year &
+c  urrent                              �
+�               
+
+Core
+Java                                  
+            -  4 years                
+
+Design
+Patterns                                
+   -  3 Years            
+
+UML
+design                                 
+         -   No
+
+Build Tools (Maven/Ant)                   -   
+Maven   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Tomcat/websphere/eclipise
+
+DB:oracle/SQL
+
+Srikalidindi VK SuryaVarma
+
+Mobile: +91-9959558185 			            	           
+
+E-mail: varma.surya2@gmail.com
+
+A competent IT professional with 3.6 years of experience on Java, J2ee,
+JavaScript, Spring  Webservices,Prpc.
+
+Good Experience in Core Java Programming.
+
+Experience in Development & Production Support applications in Banking.
+
+Very flexible and can work independently as well as in a team
+environment.
+
+Developed and maintained productive relationships through individual
+contacts and group meetings.
+
+Interacted with various process owners and multiple levels of
+management.
+
+Exercised excellent judgment and initiative in handling business issues
+of significance to appropriate management.
+
+Excellent problem solving skills with good analytical & analyzing
+capability. 
+
+Good Analytical and problem solving ability.
+
+PROFESSIONAL EXPERIENCE   
+
+Working as Solutions Engineer for Pega Systems Worldwide India Private
+Limited – (Jan 2014 to present).
+
+Worked as a Programmer analyst for Cognizant – (Dec-10 to Dec-13). 
+
+PROFICIENCY FORTE 
+
+TECHNICAL 
+
+Programming		:  Java, J2ee, Spring, Jquery,Spring core and
+MVC,Ajax,Json,  Webservices(JAXWS and JAXRS),Javascript,PRPC.
+
+Operating Systems	:   Windows 2000, XP, Vista 
+
+Tools			:  TOAD 9.2,Eclipse,Tomcat,Maven,WAS 8,Putty.
+
+Databases		:  Oracle 10g.
+
+EDUCATION
+
+B.Tech Electronics from JNTU, Kakinada, India.
+
+PROJECT PROFILE
+
+Organisation:Pega Systems Worldwide India Private Limited.
+
+Project #1
+
+Title:Network Contract and Incentives
+
+Technologies:Prpc,Java,Webservices
+
+Team :4
+
+Role:Developer
+
+Period:jan 2014-present
+
+Project Description:
+
+The main aim of this project is to develope a product for Helathcare
+which focusses on amount that must be paid to patient when he is
+hospitalized and other benefits.
+
+Role and Responsibilities:
+
+Requirement Analysis	 
+
+High level design of the project.
+
+Coding the Required tasks.
+
+Unit testing of Code.
+
+Responsible for fixing bugs that come in code.
+
+Releasing the product and selling it to customers.
+
+Organization:   Cognizant Technology Solutions
+
+Project #1
+
+Title 			: CIUMC (Can I Use my Card)
+
+Client 	            	: American Express.
+
+Operating System	: Windows XP
+
+Tools			: Eclipse, WAS 8,Maven
+
+Team Size 		: 3
+
+Role			: Developer
+
+Period		           : June 13-Present.
+
+Technologies Used    :Spring Mvc,Spring
+Core,Webservices,CoreJava,Ajax,Javascript,Json.
+
+Project Objective:		
+
+The main objective of the project is to create a intermediary webservice
+to contact the original service.
+
+Project Description:
+
+The main aim of this project is to integrate present webservice with
+Datapower webservice which uses DATA POWER X150 devcie to contact the
+service and render back the reply to the customer from the service.
+
+.
+
+Role and Responsibilities:
+
+Requirement Analysis	 
+
+High level design of the project.
+
+Coding the Required tasks.
+
+Unit testing of Code.
+
+Responsible for fixing bugs that come in code.
+
+Deploying the code on Production Environment.
+
+Commercialization of Product. 
+
+Project #2
+
+Title 			: MCE (New user Administration Functionality)
+
+Client 	            	: Royal Bank of Scotland.
+
+Operating System	: Windows XP
+
+Tools			: Eclipse 3.2, Toad, Tomcat.
+
+Team Size 		: 20
+
+Role			: Developer
+
+Period		           : Sep12-May 13.
+
+Technologies Used    :Spring
+Core,Webservices,CoreJava,JQuery,Javascript,Hibernate,.
+
+Project Objective:		
+
+The main objective of the project is to create users and assign roles,
+create Accounts, Create counterparties.
+
+Project Description:
+
+The access online system has New User Administration functionality for
+the user. Through NUA  we can create roles and rights for users by
+designing an user Interface with the help of struts.
+
+Role and Responsibilities:
+
+Requirement Analysis	 
+
+High level design of the project.
+
+Coding the Required tasks.
+
+Unit testing of Code.
+
+Responsible for fixing bugs that come in code.
+
+Deploying the code on Production Environment
+
+Project #3
+
+Title 		          : SEPA (File format optimization)
+
+Client 	        	          : Royal Bank of Scotland.
+
+Operating System     : Windows XP
+
+Tools		          : Eclipse 3.2, Toad.
+
+Team Size 	          :	2
+
+Role		          :	Developer
+
+Period		          : May2012-Sep12
+
+Technologies Used    :Spring Core,Core Java
+
+Project Objective:		
+
+The main objective of the project is to reduce the amount of time for
+uploading a particular file.
+
+Project Description:
+
+It has been found that the time required to upload SCT specific files in
+Access online Functionality is more and hence it is hampering the
+existing functionality. So there was a move to reduce the time taken to
+upload a file by reducing the number of DB calls and implementing the
+above functionality using a cache. The performance of the SCT files have
+been improved a lot. The time taken to upload a file has reduced to
+half.
+
+Role and Responsibilities:
+
+Requirement Analysis	 
+
+High level design of the project.
+
+Coding the Required tasks.
+
+Unit testing of Code.
+
+Responsible for fixing bugs that come in code.
+
+Deploying the code on Production Environment.
+
+Commercialization of Product. 
+
+Project #4
+
+Title 		          :	MCE (CZSK File Format and OPP).
+
+Client 	                      :  Royal Bank of Scotland.
+
+Operating System     :	Windows XP
+
+Tools		          :	Eclipse 3.2, Toad.
+
+Team Size 	          :	8
+
+Role		          :	Developer
+
+Period		          : Dec2011 – April2012
+
+Technologies Used    :Spring Core,Core Java,
+JQuery,Javascript,Hibernate,.
+
+Project Objective:		
+
+The main objective of the project is to parse, validate and the Enriched
+data for Czech Republic and Slovakia CFD, CFU, SKI, SKU file formats
+also implements validation engine address into structured format for
+R804 file formats.
+
+Project Description:
+
+The access online system has upload functionality for the user. The
+uploads are available for different file formats. R804 file format has
+unstructured address and also contains umlaut characters. Address logic
+provides the functionality to convert unstructured Address in file into
+structured.
+
+Role and Responsibilities:
+
+Requirement Analysis	 
+
+High level design of the project.
+
+Coding the Required tasks.
+
+Unit testing of Code.
+
+Responsible for fixing bugs that come in code.
+
+Deploying the code on Production Environment.
+
+Commercialization of Product. 
+
+Project #5
+
+            Title 		        : MCE (Poland File Format and Opp)
+
+Client 	                    : Royal Bank of Scotland.
+
+Operating System   :	Windows XP
+
+Tools		         : Eclipse 3.2, Toad.
+
+Team Size 	          : 8
+
+Role		         : Developer
+
+Period		         : Mar 2011 – Dec 2011
+
+          Technologies Used   :Spring Core,Core Java,
+JQuery,Javascript,Hibernate,.
+
+Project Objective:		
+
+The main objective of the project is to parse, validate and the Enriched
+data for Poland PLI, PLE, PLD file format also implements validation
+engine address into structured format for R804 file formats.
+
+Project Description:
+
+The access online system has upload functionality for the user. The
+uploads are available for different file formats. R804 file format has
+unstructured address and also contains umlaut characters. Address logic
+provides the functionality to convert unstructured Address in file into
+structured.
+
+Role and Responsibilities:
+
+Requirement Analysis	 
+
+High level design of the project.
+
+Coding the Required tasks.
+
+Unit testing of Code.
+
+Responsible for fixing bugs that come in code.
+
+Deploying the code on Production Environment.
+
+Commercialization of Product. 
+

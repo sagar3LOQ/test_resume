@@ -1,0 +1,191 @@
+  Resume
+
+ Madhu Sudhan B, Mobile no - +919491050459 • madhubk@gmail.com•
+Hyderabad                                                 
+
+6 years of experience as Product Developer, can develop Java, C++,J2EE.
+
+Experience in developing scalable software systems with efficient 
+datastructures and strong design principles.
+
+Software Development Skills                                             
+                                                                        
+                                                                        
+                                                                        
+                   
+
+• Languages		: Java, C++, J2EE
+
+• J2EE Frameworks	: Hibernate, Spring
+
+• Web Servers      	: Tomcat
+
+• C++ Libraries	            : MySQL C++ API,  LibXml2,  STL, Boost
+C++, Boost Threads, Embedding  			  Python and Extending Python         
+                           
+
+• Databases		: Oracle, MySQL                                          
+                      
+
+• Scripting Languages	: Python
+
+• Operating Systems	: Linux, Windows
+
+• Testing frame works	: CPP Unit, Junit, Amadeus MockServer
+
+• Big Data		: Hbase, Elastic Search
+
+Academic Summary                                                        
+                                                                        
+                                                                        
+
+Master of Technology in Computer Science and Engineering                
+                Jul 2004 to Aug 2006
+
+Indian Institute of Technology Kanpur
+
+(CGPA: 10/10 for 40 units of research work and 6.7/10 for 29 units of
+course work. Total Units - 69)	
+
+------------------------------------------------------------------------
+---------------------------------------------------------
+
+Bachelor of Engineering in Computer Science and Engineering             
+             Aug 2000 to May 2004
+
+University College of Engineering (Autonomous) at Hyderabad,            
+                                    
+
+Osmania University			 
+
+(Percentage 70.2 awarded with Distinction)
+
+------------------------------------------------------------------------
+---------------------------------------------------------
+
+Intermediate from Little Flower Junior College,  Uppal, Hyderabad       
+            Jul 1998 to May 2000
+
+(Percentage 70.5)
+
+------------------------------------------------------------------------
+---------------------------------------------------------
+
+Matriculation from The Indo English High School, Santhoshnagar          
+       Completed in May 1998 
+
+Hyderabad, (Percentage 77.8)
+
+Professional Summary                                                    
+                                                                   
+
+Sarnoff Innovative Technologies Private Ltd (Sitpl),                    
+   	     	      Sep 2006 to Apr 2009
+
+Bangalore 
+
+Wholly owned subsdiary of Sarnoff Corporation, parent company Stanford
+Research Institute International. 
+
+(Later transited to Serial Innovations Technologies Pvt Ltd in September
+2008)
+
+________________________________________________________________________
+______________
+
+Textual Analytics Solutions Private Ltd                                	
+                    Apr 2009 to Dec 2009
+
+Bangalore.
+
+(A Bangalore based startup company.)
+
+________________________________________________________________________
+______________
+
+Amadeus Labs, Ness Technologies Private Ltd		                	    Mar 
+2010 to Feb 2011 
+
+Bangalore.
+
+Amadeus is a computer reservation system for airlines owned by the
+Amadeus IT Group. 
+
+________________________________________________________________________
+______________
+
+Gemcom Software (India) Private Ltd.                                    
+                              Mar 2011 to Feb 2012 
+
+Hyderabad.
+
+(Is a well known company in mining industry all over the world and has a
+great mining product Surpac, Surpac is the top recommended product by
+mining solutions engineers.  It is a product like autocad for mining
+engineers.)
+
+________________________________________________________________________
+______________
+
+Personagraph, 47Billion India Pvt Ltd.                                  
+                                  Sep 2014 to Mar 2015 
+
+Hyderabad.
+
+Personagraph is a big data analytics startup company.
+
+________________________________________________________________________
+______________
+
+						      
+
+Professional Achievements                                               
+                                                                    
+
+• I released award winning  Cable Format Bit Streams product as part
+of Sarnoff Bit Streams Team,  the Bit Streams have been standardized by
+Cable Labs of US Govt. 
+
+• Developed world class font matching algorithm at Textual Analytics
+for improving look and feel of PDF document when rendered as HTML
+document.
+
+• Developed one of the important plugins, MicroStation for Surpac
+Product at Gemcom and increased the sales of Surpac world wide.
+
+International Publications and Book Chapters
+
+• Learning a Language for Spatial Terms in a Community of Agents, in
+2nd Int. Conf. on Cognitive
+
+ Science (ICCS2006), Allahabad, India, December 10-12, 2006, Harish
+Karnick, B Madhu Sudan.
+
+ [Artificial Intelligence, Machine Learning, Cognitive Sciences]
+
+• A book has been published on H.264 and VC1 encoding “The VC-1 and
+H.264 Video Compression
+
+ Standards for Broadband Video” by our Sarnoff Corporation Team and
+me. [Digital Video
+
+ Compression, Image Compression]
+
+Academic Achievements                                                   
+                                                               
+
+• Recipient of ONGC  Award for years 2000-02, 2002-03, 2003-04 (during
+my BE).
+
+Trainings Attended                                                      
+                                                                   
+
+• I have participated in Oracle Corporate training conducted by
+Amadeus Labs through Almaz Software Solutions, Koramangala, Bangalore.
+
+• I have participated in Advanced C++, Boost C++ training conducted by
+Amadeus Labs through facilitator Jean Paul Rigault [Professor of
+Computer Science at ESSI University of Nice Sophia Antipolis, France].  
+                                                                        
+                                                                  
+

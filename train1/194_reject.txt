@@ -1,0 +1,290 @@
+Team size:7
+
+Spring & hibernate: 4 years
+
+Webservices: SOAP
+
+Build tools: mAven
+
+Oracle sql
+
+Application : websphere
+
+Design patter : yes
+
+     
+
+  Krishna V
+
+Mobile: +91-9014440556							         vidalakris77@gmail.com
+
+========================================================================
+==========
+
+ Professional Summary
+
+6.6 Years of IT experience with expertise in Analysis, Design, and
+Development of Applications in different environments (Web Applications,
+Client Server Solutions) with emphasis on Java, and J2EE.
+
+3 years of experience in Telecom domain using the IBM tool Selectica –
+Order Management Tool.
+
+Solid management skills, demonstrated proficiency in leading and
+mentoring individuals to maximize levels of productivity while
+performing cohesive team environments.
+
+Technology expertise in Java, Java Enterprise Technologies, Spring
+Framework, JSF Framework, Hibernate Framework, SQL, web services and
+JUnit testing.
+
+Possess expertise in Object-Oriented Analysis/Design and Java
+Development, skilled at progressing from problem statement to
+well-documented designs.
+
+Analytical thinker that consistently resolves ongoing issues, often
+called upon to consult on problems that have eluded resolution by
+others, and skilled in all aspects of the software development life
+cycle (design to release).
+
+Good exposure to AGILE Scrum methodology
+
+ EXPERIENCE IN CONCISE
+
+Working with Prolifics Corporation Pvt Ltd (Formely known as
+SemanticsSpace technologies Ltd), Hyderabad: May 2012 - till date
+
+Worked with Reliance Tech Services Pvt Ltd, Hyderabad: Aug 2007 - April
+2012.
+
+Worked with ESN Technologies Pvt Ltd, Hyderabad: September 2005 - April
+2007.
+
+Worked with SEEC Technologies Asia Pvt Ltd, Hyderabad: June 2004 - June
+2005 as Customer Support- Engineer.
+
+ EDUCATION
+
+Master of Computer Applications from Madurai Kamaraj University with
+First Division.
+
+Bachelor of Science from Osmania University with First Division.
+
+Intermediate from Board of Intermediate with First Division.
+
+S.S.C from Board of secondary Education with First Division. 
+
+ CERIFICATION
+
+GNIIT from NIIT.
+
+ TECHNICAL ACQUAINTANCE 
+
+Technologies	: JAVA, JDBC, Servlets, JSP.
+
+Web Technologies	: HTML, JavaScript, XML, AJAX, Primefaces
+
+Frameworks	: JSF2.0, Hibernate 3.0, Spring3.0
+
+Databases				: Oracle 9i, MySQL 4.1, PostgreSQL
+
+Servers				: Tomcat 6.x, BEA WebLogic 8.1, IBM Websphere 7
+
+Platforms				: Windows 2000/XP, Solaris
+
+IDE					: Eclipse 3.1, MyEclipse4.0, NetBeans6.0
+
+Build Tools				: Maven
+
+Tools					: Selectica 6.7/8.2, Win CVS, Rational - Clear Case, Clear 
+
+  Quest
+
+ WORK EXPERIENCE
+
+Sr Software Engineer – Application development, Component design and
+development
+
+Project:	WJB Enterprise Post Closing
+
+Client:	WJB (William J Bradley)
+
+Duration:	December 2013 to till date
+
+W. J. Bradley is a mortgage banking organization that originates loans
+for residential mortgages and also purchases loans from other mortgage
+originators through their Correspondent Lending business, for resale to
+secondary market investors. The Correspondent Lending business desires
+to develop a Correspondent Lending application to manage and facilitate
+the loan purchase review process, enable their correspondent lending
+customers to easily do business with them, and deliver loans to
+secondary market investors.
+
+Responsibilities
+
+Involved in requirements gathering discussions
+
+Responsible for giving the estimates
+
+HLD and LLD preparation for the components
+
+Prepared initial environment and configuration
+
+Coding & unit testing
+
+Handled key components
+
+Integration with other modules
+
+Working as off shore coordinator to deal with daily technical issues and
+queries for off shore and on shore. 
+
+Environment:
+
+Java 1.7, Spring Core, Spring MVC, Hibernate3.0, JPA 2.0, Oracle, Maven,
+Web sphere Application Server 8.x and DOJO.
+
+Project:	ESS (Enterprise Sales and Service)
+
+Client:	HNB (Huntington National Bank), USA
+
+Duration:	June 2011 to Nov'13
+
+Enterprise Service System (ESS) is an enterprise front-end portal that
+enables bankers to service customers efficiently and effectively by
+centralizing all business functions in one location. It provides an
+integrated single point of access to a large number of existing
+Huntington IT Online Services. ESS supports a number of business areas,
+each having different presentation and service requirements.
+
+Responsibilities
+
+Participate in technical design, development of the application. 
+
+Coding & unit testing for the assigned components
+
+Consumed web services in service layer
+
+Integration with other modules
+
+Implemented cache component
+
+Handled multiple CRs
+
+Environment:
+
+Java 1.5, Spring Core, Spring MVC, Hibernate, Web Service, Oracle,
+Maven, Web sphere Application Server and DOJO.
+
+Project:	Rgold (Gold Saving Plan)
+
+Employer:	Surat Diamond and Gitanjali Lifestyle Limited      
+
+Gold Savings Plan (GSP) which will offer customers a plan to accumulate
+Gold Grams in small quantities at periodic intervals and at the end of
+the term offers them redemption in Gold Coins & jeweler.
+
+GLL & RMIL will use this software. This is basically sales/outlet
+activities/back office operation software, which will keep control on
+all sales, outlet activities & back office operation. In GSP Module,
+Gold accumulation and and Payment transfer to RMIL entry done through
+GLL Store In charge
+
+GSP RMIL Login where the gold grams purchase through vendor on the basis
+of GLL Gold request & sale to GLL with VAT invoice.
+
+ GSP will be major components such as new Customer module, Payment
+module, Redemption Module, PIS generation, Price updating, Conversion
+and Reports.
+
+Responsibilities
+
+Involved in BRS, SRS & Design Documentation
+
+Responsible for implementing Development, Code-Review and release
+process for the project.
+
+Involved technically in leading the development team along with tracking
+the projects on a daily basis.
+
+Responsible for writing process related documents for each phase of the
+project
+
+Responsible for release process and extensive support to System
+Acceptance Test Team & Production team.
+
+Environment: Java, JSP, JDBC, Spring, XML, HTML, CSS, JavaScript, AJAX,
+log 4j, Websphere 6 & Oracle 9i 
+
+Project	: 	Wireline Order Entry Management System (Selectica)
+
+Employer	:	Reliance Communications
+
+This application is designed for capturing customer details pertaining
+to personal, contact, payment, service and many other entities during
+customer acquisition process for various wireline voice and data
+services provided by service provider, Reliance Communications. While
+providing the required details, application will facilitate the customer
+for subscribing the services provided by the service provider through
+the CAF entry process. The application acts as an Internet Selling
+System (ISS) where user can derive the required options from the list of
+quotes available.  During the selection process of required options,
+user will be made available with all the attributes defined by the
+service provider.  Based on the applicability of service subscription by
+the customer, the system applies certain business logic/rules for
+deriving the final attribute by narrowing down the selection.  Different
+logical filters are applied at multiple levels on the available quotes
+and final applicable value is derived which is required by the customer.
+During the CAF entry process, various validations will be applied on the
+user data in order to acquire refined information from the customer to
+avoid any future ambiguity and also to abide with all the business
+rules. The integration with other external systems such as eNIMS, OMS is
+also established by this application to validate certain subscriber
+numbers and validating the existing customers respectively.  Also, the
+application will generate critical numbers such as Customer Account
+Number (CAN), Billing Account Number (BAN), Order Tracking Number (OTN)
+which are further used by other external systems such as ADC Billing,
+CRM and OMS down the line for final service order generation and for
+processing future customer requests.  The final output will be a
+generated refined XML which contains multiple Profiles viz., CUSTOMER
+PROFILE, SERVICE PROFILE, PAYMENT PROFILE, LOCATION PROFILE and each
+profile containing various attributes. 
+
+Currently the application supports 25+ services/products viz., ACS, ELL,
+LL, MPLS VPN, LCO, VCN, VCB, IPLC, FMC VPN, DIA, FLP, RAMPLS, RBO, RSN,
+PRS, ITFN, IPTV, EWAN, VTS, VSS, IVS, SME, PBX TRUNKS, ISDN PRI,
+Summary, Proposals.  All the above process is applicable for an
+Individual customer as well as Enterprise customers.  Some of the above
+products are also provided to Global customers who subscribe for the
+services out of India.  
+
+Role and Responsibilities: 
+
+Analyzing and understanding the Business Requirements
+
+Reviewing the Functional Requirements
+
+Providing the feasibility & impact  analysis of the Requirements
+
+Technical Design, Development of CRs / BRs (new / maintenance Products)
+
+Reviews at different stages of SDLC
+
+Technical Support to Team Members
+
+Support to Internal Testing, SAT/SIT (System Acceptance/Integration
+Testing), UAT(User Acceptance Testing) Environments
+
+Deployment and post deployment support to Production (Real Time
+Application)
+
+Analyzing and fixing of the critical issues found at Development,
+Testing and Production environments
+
+Maintaining the version controls during the maintenance of the
+application
+
+Environment : Tomcat 5.5, Solaris 10, Oracle 10g, Selectica 9.2, Java
+1.5, Allaire HomeSite Webbuilder, Eclipse 3.1, Javascript, HTML,
+Selectica Configurator Server, Selectica Quoter Server, SMC
+

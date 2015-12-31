@@ -1,0 +1,332 @@
+ 
+
+ASHOK KUMAR  BOLISETTI
+
+Senior Software Engineer  				Permanent Address
+
+								7-44-125,
+
+Old Local Office Street,
+
+Email:  HYPERLINK "mailto:bak.040@gmail.com" bak.040@gmail.com 				
+Thagarapuvalasa-531162
+
+Contact Number:09000456818				Visakhapatnam (Dist), A.P.                
+                     
+
+
+
+Objective
+
+	To pursue long term career and work in a challenging and competitive
+environment where I can utilize my analytical and problem solving
+skills.
+
+Professional Summary
+
+6.5 years of work experience in Software Development
+
+Currently working as a Lead Software Engineer in PAREXEL ,Hyderabad
+since May 2015 to till date
+
+Worked as a Senior Software Engineer in PAREXEL ,Hyderabad since June
+2012 to Apr 2015
+
+Worked as a Software Engineer with CA Technologies R&D Centre,
+
+Hyderabad, since July 2008 to June 2011 and as a Senior Software
+Engineer with E-Data Experts, Hyderabad, India from Feb2012 to June 2012
+
+Exposure to all stages of Software Development  and Agile methodologies
+
+Technical Skill Set                                                     
+                                                                        
+       
+
+Areas Of Expertise   	JAVA, Servlets, JSP, JDBC, Design Patterns, DS and
+Algorithms
+
+Frameworks	Spring MVC Portlet ,Spring, Restful Web Services and
+Hibernate
+
+Web Technologies	AngularJS, JavaScript, XML, AJAX, and Webservices
+
+RDBMS	PL/SQL on  ORACLE 11g ,SQL Server
+
+Tools	SVN,Jenkins,Ant,Maven,Eclipse,Intellij 
+
+Application Server	Tomcat,Jboss,IBM WebSphere Portal Server
+
+
+
+Education                                                               
+                                                                     
+
+M.Tech, Visual Information & Embedded Systems 
+
+Indian Institute of Technology, Kharagpur, W.B, India
+
+Passed out in –May 2008, C.G.P.A:  9.17/10 
+
+B.E, Electrical & Electronics Engineering 
+
+ ANITS, Andhra University, Waltair, A.P, India 
+
+ Passed out in – May 2005, Aggregate percentage: 88.61
+
+D.E.E.E, Polytechnic diploma in Electrical & Electronics Engineering
+
+  Sir C.R.R. polytechnic, SBTET, A.P, India 
+
+ Passed out in – May 2001, Aggregate percentage: 85.31
+
+S.S.C, Secondary School Of Certificate
+
+ Board of Secondary Education, Hyderabad, Andhra Pradesh, India
+
+ Passed out in – Apr 1998, Aggregate percentage: 80.6
+
+Work Experience                                                         
+                                                                        
+
+
+Product: Tracking, MyQueries and MyImages 
+
+Organization: PAREXEL, Hyderabad, India
+
+Tech Stack: Java, J2EE, Hibernate, Spring, SpringMVC Portlets , Rest
+WebServices ,AngularJS ,Tomcat, Maven, Eclipse IDE, log4j, IBM WebSphere
+
+ 	PAREXEL is a leading global CRO that helps clients expedite
+time-to-market through our development and launch services which
+includes a broad range of clinical development capabilities, integrated
+advanced technologies, regulatory affairs consulting, and
+commercialization services.
+
+Project Release: Tracking and MyImages
+
+Duration: January2014 –  Current date
+
+Role: Senior Software Engineer 
+
+The tracking product helps researchers, and imaging research staff with
+a means to track, review and assess images and clinical data gathered
+from study subjects during the course of a clinical trial.
+
+  	The MyImages is a portal component of the eClinical “MyTrials”
+service. The MyImages portlet allows Site users (doctors) to Navigate,
+download and view  the Medical Imaging (MI) Images.
+
+ 	RESTful Web Services developed in Tracking module to provide the
+Images information.SpringMVC Portlet calls tracking WebServices to
+download, display the Images and Images Information in IBM WebSphere
+Portlet.
+
+Responsibilities:
+
+Developed POC on Spring MVC Portlet with AngularJS,Restful Webservices
+and KT to the team
+
+Developed Restful Web Services to provide Communication between the
+tracking application and MyImages Portlet
+
+Written Oracle SQL queries for developing the Restful WebServices in
+tracking
+
+Developed Myimages Portlet and dynamic UI experience with AngularJS with
+AJAX.
+
+Followed best practices while development i.e. unit test cases, code
+reviews and architectural discussions before implementing
+
+Project Release: Tracking and MyQueries
+
+Duration: June 2012 –  January2014
+
+Role: Senior Software Engineer 
+
+The MyQueries is a portal component of the eClinical “MyTrials”
+service. The MyQueries portlet allows Site users (doctors) to receive,
+view, track, and respond to Medical Imaging (MI) queries.
+
+Restful Web Services Provides communication between tracking and
+MyQueries Portlet.
+
+Responsibilities:
+
+Developed POC on  Spring MVC Portlet technologies integrated with 
+Webservices and KT to the team
+
+Responsible for designing the project architecture 
+
+Responsible for providing the team with a vision of project objectives
+
+Involved in designing the UI component using Spring MVC portlets and
+AJAX.
+
+Written Oracle SQL queries for developing the WebServices in tracking
+
+Developed Restful Web Services to provide Communication between the
+tracking application  and MyQueries Portlet
+
+Fixed issues in tracking application relating to Business rules
+
+Product: Nextgen
+
+Organization: E-Data Experts, Hyderabad, India
+
+Tech Stack: Java, J2EE, Hibernate, Spring, WebServices ,Tomcat, Maven,
+TestNG, Eclipse IDE, log4j, Dozer
+
+NextGen is a software product that is being developed internally by
+Experian (Global leader in consumer and business credit Services) for
+the geographic expansion of Experian Credit Bureaus  around the world.
+NextGen works on 3 different modules. The process starts with
+registration of a Bureau Member which facilitates them to contribute
+data to the Bureau or to obtain products (i.e. Consumer/Commercial
+Credit reports) from it. This will be handled by Bureau Orchestration
+Studio (BOS). Later, the supplied data will be re-formatted into the
+NextGen pre-configured input format and stored in a database using
+Information Management System (IMS) then, the user/client can request
+the required Experian on-line product using an end-user interface called
+Online Product Delivery System (PDS). 
+
+Project Release: NextGenAustralia
+
+Duration: Feb 2012 –  June2012
+
+Role: Senior Software Engineer 
+
+Module worked on: Accumatch
+
+  	NextGen, performs search based on PIN/BIN. If the requester is
+unaware of the PIN/BIN, then he/she uses Identity search and inputs the
+parameters like first name, last name, address etc. where accumatch
+performs the required normalization of name/address and retrieves the
+best matching candidate available in DB. 
+
+Responsibilities
+
+Performed Database Tuning to improve DB performance
+
+Developed feature “TestApp” which is helpful to understand the
+Accumatch functionality for Business Team.
+
+Performed unit testing and functional testing
+
+Fixed few issues related to  Dozer mapping and Accumatch
+
+Product: CA Service Desk Manager
+
+Organization: CA Technologies, Hyderabad, India
+
+Tech Stack: C, C++, Java, Majic, Spell, SLUMP, HTMPL, Java Scripts, XML,
+SQL Server 2005                    
+
+	It is a core of enterprise IT service support. CA Service Desk manager
+unifies IT’s management of core business services, increases end user
+productivity and raises customer satisfaction.
+
+	It provides a single point of contact with in an organization and acts
+as control point for governance initiatives. As the first line of
+response is mitigating service destructions, CA service Desk Manager
+aids in discovering the root cause of outages and initiating change
+management processes resulting in high quality, consistent service
+delivery. 
+
+	It provides advanced knowledge management for support, interactive
+online support, self service and advanced root cause analysis through CA
+CMDB, as well as comprehensive reporting tools which informs the
+business. It also integrates and extends many other IT solutions to
+unify and simplify IT service management.
+
+Project Release: Service Desk r12.5 (Anderson)
+
+Duration: Sep 2009 – June 2011
+
+Role: Software Engineer
+
+Responsibilities
+
+Developed a part of Automatic priority calculation feature 
+
+Developed and re-factored PDM macros 
+
+Feature made adherence with 508 compliance
+
+Feature made applicable to PDA, Text API and Email interfaces
+
+Performed  Execution of Unit Test cases and Functional Test Cases
+
+Updated DDS for the implemented features
+
+Prepared test plans for the complete feature 
+
+Fixed QA bugs and extended help for fixing customer issues
+
+Shared Knowledge to team through Subject matter expert (SME) program
+
+Initiated and addressed best practice measures in development
+environment
+
+Project Release: Service Desk r 12.1
+
+Duration: Aug 2008 – Aug 2009
+
+Role: Associate Software Engineer 
+
+Responsibilities
+
+Developed general change order updates feature
+
+Performed unit testing and functional testing
+
+Feature made 508 Compliance 
+
+Fixed issues related to  PDA & Text API interfaces
+
+Fixed few Web Services related issues 
+
+Academic Projects Profile
+
+Enhancement of QOS in IEEE 802.11 Multimedia Networks (M.Tech)
+
+QoS support for internet multimedia applications is necessary to meet
+stringent end-to-end requirements such as bandwidth, delay, and packet
+loss. In this project, IEEE 802.11e std is analyzed and proposed QoS
+enhancement for IEEE 802.11e std.
+
+Performance Improvement of an Antenna Position Control System(B.E)
+
+In this project, compensator was designed to enhance the performance of
+position control system. R-L design, S-plane synthesis techniques were
+used for designing the compensator.
+
+Achievements                                                            
+                                                                        
+
+Awarded with a Going above Award, Dec-2010 in CA technologies.
+
+Awarded with a Going above Award, Mar-2009 in CA technologies.
+
+Received Thank You appreciations for my work deliverables 
+
+Secured 99.93 percentile (AIR 13) in GATE (EE)-2005
+
+Topped Rank 1 at Andhra University in Engineering (may 2005)
+
+Personal                                                                
+                                                                    
+
+DOB			: 30/03/1983
+
+Gender 		: Male
+
+Martial status		: Unmarried
+
+Father’s Name	: Yerribabu .B
+
+Passport no		: S4652628
+
+Languages known	: Telugu, English and Hindi
+

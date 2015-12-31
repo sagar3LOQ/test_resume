@@ -1,0 +1,551 @@
+3 people – team size
+
+Springs:2 year & current
+
+Hibernate: 4 year & current
+
+Webservices: REST
+
+Build tools:Maven
+
+DB: oracle/mysql
+
+Application: weblogic/websphere/tomcat
+
+UMLDesign: yes
+
+Design patter: yes
+
+RAMESH ELKATURI
+
+  HYPERLINK "mailto:ramesh.elkaturi@gmail.com" 
+ramesh.elkaturi@gmail.com 					+91-9848818752
+
+Summary:	
+
+Having 8 Years of experience in Software Development, working on
+distributed applications in N-Tier J2EE Architecture.
+
+Have 1 years Domain experience and conceptual knowledge on Life science
+& Healthcare sector.
+
+Have 2 years Domain experience and conceptual knowledge on Banking &
+Financial sector.
+
+Have 3 years Domain experience and conceptual knowledge on e-retailing
+sector and search logic like Google using Lucene API.
+
+Have 2 years Domain experience and conceptual knowledge on e-learning
+sector.
+
+Good experience in developing and maintaining project life cycle through
+all phases (SDLC) and development methodologies.
+
+Having excellent understanding of the QUALITY measurements and their
+importance for a successful project.
+
+Excellent Communication and Inter-personal skills and goal oriented.
+
+Worked in Onsite/Offshore model for different projects.
+
+Recognition for successful delivery of the Western Union based project
+and received a performer of the month Award.
+
+Professional Experience:
+
+Working as Team Leader in   HYPERLINK "http://www.persistent.com/" 
+Persistent , Hyderabad from Nov 2013. Persistent is a global company
+specializing in software product development and technology services.
+For more than 20 years, we’ve partnered closely with pioneering
+start-ups, leading enterprises and the world's largest technology
+brands.
+
+Worked as Sr IT Engineer in   HYPERLINK "http://www.cmcltd.com/" CMC
+Limited  a CMMI Level 5 company, CMC Limited is a leading IT solutions
+company and a subsidiary of Tata Consultancy Services Limited ( 
+HYPERLINK "http://www.tcs.com/" \n _blank TCS Ltd  ), one of the world's
+leading information technology consulting, services and business process
+outsourcing organizations, Hyderabad from Dec 2010 to Nov 2013.
+
+Worked as Senior Software Developer in   HYPERLINK
+"http://www.ereasoning.com/" reasoning , Hyderabad from Aug 2007 to Dec
+2010. Which build multi-channel retail solutions that enable retailers
+to leverage Internet and Mobile platforms to enhance their business; it
+enable them to build a strong online identity, increase online as well
+as in-store sales.
+
+Educational Qualification:
+
+       
+
+Master of Computer Applications from Kakatiya University, A.P in 2005.
+
+Technical Skill Sets:
+
+Platform	Windows, Linux
+
+Languages	JAVA 2.0(jdk1.5), jdk 1.6, J2EE (Servlet, JSP, JDBC)
+
+Web Technologies	JSP, HTML, XML, JAVA SCRIPT, Ext Js 2.2, JQuery, CSS,
+Web Services
+
+Frame Works	Struts 1.x, Spring 3.x and JAFFA
+
+ORM Tools	Hibernate 3.0
+
+IDE	NetBeans 7.0, Eclipse3.0. And RAD (IBM)
+
+Application Server	JBoss4.0.5 GA, IBM Web sphere Application server,
+Tomcat 6.0
+
+Project Management	Tortoise CVS, SVN, Bugzilla, JIRA, Redmine, Maven,
+Sonar Cube
+
+Back End	Oracle 10 g , SQL server 200X, MySQL
+
+Integration Tools	Jenkins
+
+Design Tool 	Visual Paradigm 8.2, Rational Rose
+
+
+
+Project Profile:
+
+Project #1
+
+Title			Electronic Laboratory Notebooks (ELN)
+
+Client		 	Agilent Technologies
+
+Duration	 	July -2014 to till date
+
+Team size	9
+
+Role		Team  Lead
+
+Environment		 	J2EE, Spring 3.0, Hibernate 3.0, AgularJS, CSS, MySql
+Server and AWS Cloud
+
+Description	Electronic Laboratory Notebooks (ELN) nowadays has become a
+commodity product amongst the academic and research circles of the
+life-sciences and pharmaceuticals industry. For many years ELNs have
+been used by the community in a traditional (on-premise) way, where the
+ELN environment is setup in the company’s private data center
+environment. The on-premise way of delivering ELN, however, introduces
+significant challenges for the end users in terms of incurring initial
+investment and maintenance costs.
+
+Responsibilities	Served as a Team Lead and developer for an application
+consisting of Java, Spring, Hibernate, Mysql.
+
+Designed architecture of the Application.
+
+Managed bug tracking & Fixing using JIRA.
+
+Acted as Scrum Master.
+
+Involved in code reviews using sonar cube.
+
+
+
+Project #2
+
+Title			Napier HIS 3.0
+
+Client		 	Napier
+
+Duration	 	Dec -2013 to Jun 2014
+
+Team size	5
+
+Role		Developer, Module Lead
+
+Environment		 	J2EE, Spring 3.0, Hibernate, Struts, ExtJs, CSS, SQL
+Server. 
+
+Description	Napier’s Hospital information system delivers a web based,
+modular, scalable and tightly integrated system that built around the
+core functions supporting hospital administration, financial and patient
+management. It also allows organization to achieve electronic health
+record, patient safety, revenue cycle management and more…
+
+Responsibilities	Technical Consultant to the project
+
+Served as a mentor and developer for an Emergency Trauma Care Module.
+
+Bug fixing & tracking using Bugzilla.
+
+Developed unit test cases using JUnit for Module code coverage.
+
+Involved in code reviews.
+
+
+
+Project #3
+
+Title			Agent Registration & Configuration
+
+Client		 	Western Union
+
+Duration	 	June -2012 to till Nov - 2013
+
+Team size	4
+
+Project size	7
+
+Role		Developer, Module Lead
+
+Environment		 	J2EE, Quartz, Spring 3.0, Hibernate, Struts, Servlet,
+JSP, JQuery, Web Services, CSS3, SQL Server and Oracle.
+
+Description	Agent Registration & Configuration console that allows
+agents and SSE to easily register new locations/terminals, download
+certificates and to configure them.
+
+Responsibilities	Technical Consultant to the project
+
+Served as a mentor and developer for a comprehensive application
+consisting of Java, Spring, Quartz, JavaScript, JQuery, Web Services,
+CSS3, SQL Server and Oracle.
+
+
+
+Project #4
+
+Title			BPAY
+
+Client		 	Western Union
+
+Duration	 	Aug-2011 to June - 2012
+
+Team size	4
+
+Project size	16
+
+Role		Developer, Module Lead
+
+Environment		 	J2EE, JAXB, Struts, Spring, Hibernate, Servlet, JSP,
+JQuery, WebService, CSS3, Ant1.6.5, SQL Server, web sphere and DWR
+
+Description	BPAY is the most popular bill payment service in Australia, 
+ BPay as an alternate payment option, the AU WU.com site will appeal to
+a far broader customer segment and along with debit cards will be a key
+driver to open the AU WU.com service to the mainstream market in
+Australia
+
+
+
+Responsibilities	Wrote the Use Case Documents
+
+Wrote the High-level Design Documents 
+
+Served as a mentor and developer for a comprehensive application
+consisting of Java, Spring, Hibernate, Struts, JAXB 2.1, Servlet, JSP,
+JavaScript JQuery, WebService, CSS3 and SQL Server.
+
+Worked as team lead to distribute the work to team members and getting
+done them with the specified time frame. Interact with team members and
+cleared the issue which they have and traced the status of the each
+member on the team.
+
+Preparing Impact analysis for customer raised issues.
+
+Defect Tracking
+
+
+
+Project #5
+
+Title			GOLDesp
+
+Client		 	Miro Technologies/RSAF
+
+Duration	 	Dec -2010 to March -2011
+
+Team size	10
+
+Project size	30
+
+Role		 Developer
+
+Environment		 	J2EE, Jaffa, JAXB, Struts, JSF, Hibernate, Servlet, JSP,
+Ant1.6.5,    Oracle9i, JBoss 4.05GA, ExtJS 2.2, WebService and CSS3.
+
+Description	GOLDesp is our Any Asset, Anywhere, Anytime solution that
+supports maintenance, supply, repair, and operations for total lifecycle
+support management of complex assets for air, land, sea and space. The
+web-based GOLDesp suite merges global asset visibility with complete
+product life-cycle management into a commercial, off-the-shelf (COTS)
+application that can be configured to support:
+
+Responsibilities	Worked as developer for a comprehensive application
+consisting of Java, Struts, JSF, Hibernate, JAXB 2.1, Servlet, JSP,
+JavaScript, ExtJs, WebService, CSS3 and Oracle.
+
+Designed and implemented user-friendly WebPages using ExtJs and CSS.
+
+Worked on the cross-browser issues between(Mozilla 3.6 and IE 8)
+
+Preparing Impact analysis for customer raised issues.
+
+Defect Tracking
+
+
+
+Project #6
+
+Title			Assets (GoldEsp)
+
+Client		 	Miro Technologies/Boeing
+
+Duration	 	March -2011 to Aug 2011
+
+Team size	10
+
+Project size	30
+
+Role		Developer
+
+Environment		 	J2EE, Jaffa, JAXB, Struts, JSF, Hibernate, Servlet, JSP,
+Ant1.6.5,    Oracle9i, JBoss 4.05GA, ExtJS 2.2 and CSS3.
+
+Description	This Modification is undertaken in support to track the
+Boeing’s High Value Assets. Assets are items which form parts of
+Aircraft. An Aircraft is made up of several Assets. The Assets are which
+have been tracked in GOLDesp are being handled by this Software.
+
+Assets Module is being undertaken to have inquiries, create a new Asset
+and to convert To Asset from existing Item record, Transactions on Asset
+and maintaining Asset Structures
+
+The Transactions on Assets are designed by using JMS messaging
+Architecture. Based on this Architecture the Asset Transactions are
+configured using xml configuration file. The Asset Structures are
+developed using rich GUI ExtJS 2.2. 
+
+
+
+Responsibilities	Served as a developer for a comprehensive application
+consisting of Java, Struts, JSF, Hibernate, JAXB 2.1, Servlet, JSP,
+JavaScript, CSS3 and Oracle.
+
+Designed and implemented user friendly web pages using ExtJs and CSS.
+
+Worked on the cross-browser issues between(Mozilla 3.6 and IE 8)
+
+Preparing Impact analysis for customer raised issues.
+
+Defect Tracking
+
+
+
+Project #7
+
+Title			Parent Communication System
+
+Client		 	Reasoning
+
+Duration	 	Aug -2009 to Dec 2010
+
+Team size	12
+
+Project size	12
+
+Role		Developer
+
+Environment		 	J2EE, Servlet, JSP, Struts, WebService, Flex, SQL Server,
+JBoss 4.05GA and CSS. 
+
+Description	pcom is the ultimate online communication solution for
+educational institutions. We have implemented following features to
+bridge gap among children, parent and school management.
+
+•    Online School Portal 
+
+•    Academic reports, mark sheets, activities update 
+
+•    Academic calendars, holiday calendars, attendance sheet 
+
+•    Updates and routine information 
+
+•    Complete information of the Child and Parents 
+
+•    Transport System online 
+
+•    Online Fee Payment 
+
+•    Two way SMS 
+
+•    Parents-Teachers direct communication by email
+
+•    Forum for interaction between Parents
+
+Responsibilities	 Implemented Login and Authentication process using
+Front Controller Servlet.
+
+Validations of forms are done using JavaScript and Struts Frame work.
+
+Developed User Friendly using CSS
+
+Handled main specifications like payments.
+
+Developed Report Generators using Java IO for generating periodical
+reports of Students.
+
+Involved in implementation of DAO layer using JDBC API.
+
+Implemented SMS integration with pcom.
+
+
+
+Project #8
+
+Title			Mbhav
+
+Client		 	Reasoning
+
+Duration	 	Mar-2009 to Aug 2009
+
+Team size	2
+
+Role		 Developer
+
+Environment		 	J2EE, Struts, Servlet, JSP, WAP, SQL Server, Tomcat5.    
+
+Description	mbhav is a unique mobile-based service devised for customers
+to have anywhere, anytime access to product information & local price
+comparisons before actually heading for an in store purchase. mbhav
+comparison service offers greater utility with its location-dependent
+capabilities.
+
+
+
+Responsibilities	Started with design of Value Objects and Views.
+
+Implemented search using Lucene, Advanced Product Cache mechanism to
+make its search faster.
+
+Implemented “Did you mean” search facility to make its search
+appropriate.
+
+Implemented area specific search.
+
+
+
+Project #9
+
+Title			Mapping Escort 
+
+Client		 	Reasoning
+
+Duration	 	Sep-2008 to Feb 2009
+
+Team size	2
+
+Role		Developer
+
+Environment		 	Java, JSP, ExtJs, Servlet, Struts, Lucene and SQL Server.
+   
+
+Description	Mapping Escort is plays back end support (admin) role to
+ebhav. Mapping operator maps external products (crawled products) with
+our Databank products if the products are already available with
+databank. These mapped products will come into picture of search module
+in ebhav. Mapping operator can also add new products to databank with
+product images using http Client protocols.
+
+
+
+Responsibilities	Started with design of Value Objects and Views.
+
+Implemented search using Lucene, Advanced Product Cache mechanism to
+make its search faster.
+
+Implemented “Did you mean” search facility to make its search
+appropriate.
+
+Implemented area specific search.
+
+
+
+Project #10
+
+Title			Ebhav
+
+Client		 	Reasoning
+
+Duration	 	Aug -2007 to Sep-2008
+
+Team size	7
+
+Role		Developer
+
+Environment		 	Java, JSP, Flex, Servlet, Struts, JavaScript, JQuery,
+CSS, Lucene, Log4J and SQL Server. 
+
+Description	ebhav is a free web based local comparison-shopping search
+engine. It focus more on helping end user to find his exact product
+within his reach, it also give end user the complete product information
+with the live price which the retailers near him are offering. It will
+search products in near and best stores of an end user using his geo
+information rather than showing unrelated stores to him. Search
+filtering is provided based on category, brand, product, distance,
+online or offline store type.
+
+Responsibilities	Started with design of Value Objects and Views, Vendor
+Registration and Store Creation.
+
+Implemented search using Lucene, Advanced Product Cache mechanism to
+make its search faster.
+
+Implemented “Did you mean” search facility to make its search
+appropriate.
+
+Implemented URL Rewriting mechanism for Search Engine Optimization.
+
+Implemented logging mechanism using Log4J to created log file separately
+for each module.
+
+Developed Index Creation Automation tool for creating product, brand,
+category and attribute indexes automatically in given intervals using
+Quartz Scheduler, for making its search faster.
+
+
+
+			
+
+Personal Information
+
+Name	Ramesh Elkaturi
+
+Father’s Name	Posham Elkaturi
+
+Date of Birth	11th June 1980.
+
+Sex	Male
+
+Marital Status	Married
+
+Address
+
+	Flat-No :– 101,
+
+Bommarillu Residency,
+
+Opp: Tennis court, 
+
+Adjacent: Godavari Homes,
+
+Suchitra Circle, Hyderabad,
+
+Telangana-500055.
+
+Ph-No	9848818752 (Mobile)
+
+Office	040 – 67442210 {Persistent}
+
+E –mail	Ramesh.elkaturi  HYPERLINK "mailto:pavitra.mohanb@gmail.com"
+@gmail.com 
+
+
+

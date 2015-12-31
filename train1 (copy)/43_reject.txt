@@ -1,0 +1,433 @@
+	
+
+Venkata Sreedhar P
+
+Mobile: +91 9642668111      
+
+Spring :4 year & current
+
+Hibernate: 5 year& current
+
+Web services:5 year (REST)
+
+DB: oracle
+
+UML Design: No
+
+Design Pattern:yes
+
+App server: jboss/tomcat
+
+Java: 8 year
+
+13/30%/30 days
+
+
+
+	E-mail:   HYPERLINK "mailto:venkatasridhar.p@gmail.com"
+venkatasridhar.p@gmail.com 
+
+	
+
+Summary:
+
+8 years of technical expertise in complete software development life
+cycle process that includes Analysis, Design, Development, Testing and
+Implementation in Java/J2EE technologies.
+
+Experience in Spring Framework and JPA.
+
+Extensive expertise in Model View Controller (MVC) Architecture and
+Struts framework.
+
+Extensive experience in developing applications using Java, J2EE,
+Struts, EJB, JSP, Servlets, Java Beans, JDBC, HTML,XML,XSLT, Java
+Script.
+
+Experience on Linux environment.
+
+Proficient in applying various design patterns like Singleton, Value
+Objects, DAO, and Facades.
+
+Experience on using WinScp, Quality Center and putty etc.
+
+Having strong analytical skills with proficiency in debugging, problem
+solving. 
+
+Experience in interacting with clients, business analysts and
+developers.
+
+Ability to deliver projects on time with high quality.
+
+Ability to lead teams and provide assistance when need arises.
+
+Hands on experience on Product Development.
+
+Hands on experience on production support.
+
+Experience on Google Web Tool Kit (GWT) using RPC mechanism.
+
+Valid USA B1 Visa till 2022
+
+Technical Skills:
+
+Education:
+
+Master of Computer Applications (M.C.A), from Sri Venkateshwara College
+of engineering, Nagarjuna University during the year 2001 – 2004.
+
+Organisational Experience
+
+Working as System Analyst with Cybage Software Pvt.Ltd., from Nov 2010
+to till date.
+
+Worked as Technical Lead with Infinite Compute Solutions from March 2009
+to Nov 2010.
+
+Worked as Team Lead with SOPHOI Technologies Pvt. Ltd, (Acquired by
+Oracle Corporation in September 09) Pune from April 2006 to March 2009.
+
+Since Nov’10 – till date at Cybage Software Pvt.Ltd., as System
+Analyst
+
+Project: TravelClick - Interfaces                      		 
+
+System Analyst
+
+Environment: Spring IOC, JBOSS Messaging service, RESTful Web Services
+(RESTEasy), XML, XSLT, JUnit, SVN, JBOSS Application Server and Linux.
+
+Client: TravelClick 
+
+Duration: Feb’12 to till date.
+
+Description: 
+
+TravelClick provides innovative solutions for hotels around the globe
+that increase revenue, reduce cost, and improve performance. It provides
+Reservation Solutions which increases Hotel Bookings, generates more
+revenue, and provides support for across all channels. TravelClick holds
+the CRS (Central Reservation System) data base. Expedia, GDS,
+Booking.com etc booking engines get the data from TravelClick CRS
+database and we process the ARI updates and reservations from CRS to
+PMS.
+
+Interfaces team provides middle ware solutions for TravelClick
+applications. When reservation made on any booking engine, Interface
+team gets the xml files and convert those to xmls based on PMS
+specification.
+
+Role and Responsibilities:
+
+Analyzing and understanding the BRDs. 
+
+Providing solutions for middle layer.
+
+Task estimations and breaking down the User Stories.
+
+Reviewing the code of team members.
+
+Communicating with Client and participating in Scrum calls
+
+Providing production support for production issues
+
+Project: Nightingale on Demand                      		 
+
+System Analyst
+
+Environment: Java, GWT, Spring IOC, Hibernate JPA, JUnit, SVN and
+Windows XP.
+
+Clients: Nightingale 
+
+Duration: June ’11 to Nov’ 11
+
+Description: 
+
+Nightingale Health care system provides online solutions for Hospitals
+to create appointments, encounters and admin details. 
+
+Role and Responsibilities:
+
+Analyzing and understanding the SRS documents. 
+
+Preparing the LLDs and designing the DB schema.
+
+Task estimations and task break ups.
+
+Allocating the tasks to the team and making decisions if required.
+
+Developing the Code using Nexia framework (GWT/Spring/Hibernate)
+
+Guiding the Nexia team towards deliverables.
+
+Reviewing the code of team members.
+
+Communicating with client for requirement clarifications and daily
+update calls.
+
+Project: DISH Networks                      		 
+
+System Analyst
+
+Environment: Java, JSP, EJB, JUnit, AS 400 screens, ICOMS, IML, SVN and
+Windows XP.
+
+Clients: DISH Networks
+
+Duration: Dec’10 to Feb’11.
+
+Description: 
+
+Dish Networks is a direct broadcast satellite TV, Audio Programing and
+Internet provider in USA. This project automates creation of house,
+finding the free technician, installation of the device, updating the
+installation process, billing system, invoice generation. 
+
+Role and Responsibilities:
+
+Analyzing the requirements.
+
+Preparing JUnit Testing cases and fixing the failure cases. 
+
+Execution of tasks as per schedule.
+
+Implementing the IML structure that will help to generate web services
+and pojos (business classes).
+
+Handled the team of 5 resources.
+
+Monitoring and guiding the team.
+
+Since Mar’09 – Nov’10 at Infinite Computer Solutions., as Senior
+Software Engineer
+
+Project: PFS (Program Funding System)                     		 
+
+Senior Software Engineer
+
+Environment: Struts, Java, JSP, PL/SQL, PL/SQL Developer, CVS, Tomcat
+and Windows XP.
+
+Clients: GE (Consumer and Industrial). 
+
+Duration: April’09 to Nov’10.
+
+Description: 
+
+GE Appliances and Lighting uses the PFS application. PFS used to
+generate Invoices and reports for the Programs. PFS allows the users to
+create programs and allocates the funding amount as investment and
+expenses. Each program will have different roles like Program Manager,
+Deck Coordinator, Finance Manager, Technical Lead, Program Initiator,
+RFM Requestor etc. Program Initiator will create or initiate the program
+and RFM requestor/approver will raise ‘Request For Material’ (RFMs)
+and allocate funding to each RFM. PFS generate reports and Invoices for
+all Programs based on GE Calendar.
+
+Role and Responsibilities:
+
+Analyzing the requirements.
+
+Designed high-level Design documents.
+
+Developed the web application framework using MVC Design patterns.
+
+Developed the front end using HTML, JSP and Business Components.
+
+Organizing and planning of tasks.
+
+Execution of tasks as per schedule.
+
+Preparing Unit Testing cases. 
+
+Support for Production issues.
+
+Project: TACDIS                     		 
+
+Senior Software Engineer
+
+Environment: Java, JSF, PL/SQL, PL/SQL Developer, WinCVS, Oracle App
+Server, Windows XP.
+
+Clients: VOLVO 
+
+Duration: Mar’09 to April’09.
+
+Description: 
+
+TACDIS provides information relating to Volvo vehicles (and Ford,
+Renault, etc.), both before and after they are sold. It helps the
+purchaser to choose the right model, color, engine, equipments,
+financing solutions, insurance etc. At workshop it helps to provide
+support with booking service appointments, carrying out repairs,
+ordering spare parts, and administrating delivery and invoice.
+
+Client side code developed in Centura windows, with Foundation One class
+library should be replaced with J2EE web application. There should not
+be any changes to server side code developed in PL/SQL on Oracle
+database objects like packages and procedures.
+
+Role and Responsibilities:
+
+Analyzing the requirements.
+
+Developed the web application framework using MVC Design patterns.
+
+Allocating resources to complete tasks as per Schedule.
+
+Organizing and planning of tasks.
+
+Execution of tasks as per schedule.
+
+April’06- Mar 09 at Sophoi Technologies Pvt. Ltd., as Senior Software
+Engineer
+
+Project: Intellectual Property Licensing Suite (IPLS 3.1)               
+     		 
+
+Senior Software Engineer
+
+Environment: Java, J2EE (JSP, Servlets, Struts, EJB, JDBC), AJAX, J2EE
+Design patterns, Oracle Database, PL/SQL, TOAD, CVS, Log4J, Weblogic,
+Windows XP.
+
+Clients: Paramount, CBS, Star. 
+
+Description: IPLS 3.1 (Intellectual Property Licensing Suite) is an
+enterprise-wide business solution for intellectual property management
+and licensing. iPLS™ 3.1 enables companies to identify, organize, and
+license rights - structure complex licensing contracts - and manage
+royalties - streamlining the process of intellectual property management
+and licensing. iPLS™ 3.1 efficiently and effectively handles the
+dynamic intricacies of Intellectual Property Management, allowing
+companies to achieve the highest returns from their Intellectual
+Property asset investments. 
+
+Involved in developing various modules like 
+
+Materials Request
+
+Invoice
+
+Role and Responsibilities:
+
+Analyzing the requirements
+
+Developed the web application framework using MVC Design patterns
+
+Developed the front end using HTML, JSP, Struts tag library
+
+Implemented MVC architecture using Struts framework
+
+Organizing and planning of tasks
+
+Execution of tasks as per schedule
+
+Coding the Business Logic in Service Beans
+
+Maintaining the quality of code
+
+Reviewing and committing the code of team members.
+
+Project: IPLS 3.0                     		
+
+Senior Software Engineer
+
+Environment: Java, J2EE (JSP, Servlets, Struts, EJB, JDBC), AJAX, J2EE
+Design patterns, Oracle Database, PL/SQL, TOAD, CVS, Log4J, Weblogic,
+Windows XP.
+
+Clients	: Paramount, CBS, Star. 
+
+Description:
+
+IPLS 3.0 is a Product is a suite of Applications for managing
+Intellectual Property Rights.
+
+This is being developed using the J2EE framework. The IPLS provides the
+services in the areas of Television Sales, Product Planning &
+Acquisitions, and Workflow Management for Media and Entertainment
+Industries.
+
+Involved in developing various modules like 
+
+Deals Right Out 
+
+Rights
+
+Roles && Responsibilities: 
+
+Analyzing the requirements
+
+Developed the front end using HTML, JSP, Struts tag library
+
+Implemented MVC architecture using Struts framework
+
+Organizing and planning of tasks 
+
+Execution of tasks as per schedule 
+
+Interacting with DB team regarding Stored Procedures and Functions
+
+Maintaining the quality of code
+
+Project: IPLS 2.0                     							 
+
+Software Engineer
+
+Environment: Java, J2EE (JSP, Servlets, Struts 1.1, EJB, JDBC), AJAX,
+J2EE Design patterns, Oracle Database, PL/SQL, TOAD, CVS, Log4J,
+Weblogic, Windows XP.
+
+Clients	: Paramount, CBS, Star. 
+
+						  
+
+Description: IPLS 2.0 is a Product is a suite of Applications for
+managing Intellectual Property Rights. This is being developed using the
+J2EE framework. The IPLS provides the services in the areas of
+Television Sales, Product Planning & Acquisitions, and Workflow
+Management for Media and Entertainment Industries. Involved in
+developing various modules like 
+
+Business Entities.
+
+Roles && Responsibilities: 
+
+Developed EJB components (Session Beans).
+
+Developed the web application framework using MVC Design patterns
+
+Developed the front end using HTML, JSP, Struts tag library
+
+Implemented MVC architecture using Struts framework
+
+Involved in the business layer development using Service Beans.
+
+Implemented Data Access Layer using JDBC and Session Beans.
+
+Involved in Unit testing.
+
+Frameworks	Struts, Spring (IOC), Hibernate, RESTFul WebServices  and TSF
+(GE Internal Framework)
+
+Languages	Java, J2EE, SQL, Ajax, XML, JUnit.
+
+Web/Distributed Technologies	J2EE, Servlets, JSP, EJB, JDBC.
+
+Scripting	 Java Script, HTML.
+
+RDBMS	Oracle 8i/9i, MySQL.
+
+Web Servers	Apache Tomcat, Jetty 
+
+Application Servers	WebLogic, Jboss.
+
+IDE/Tools	My Eclipse, Toad, PL/SQL Developer, SQLYog, CVS, SVN, WinScp,
+Putty, QC, MS Visio, MPP, Rally, Github
+
+Operating Systems	Windows, Linux.
+
+ 
+

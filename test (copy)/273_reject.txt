@@ -1,0 +1,490 @@
+Spring: 4 years& current
+
+Hibernate: 4 year& current
+
+Web services: REST(1 year)
+
+Java: 7.10 Years
+
+Maven
+
+Application: Jboss/weblogic
+
+UMl Design: Yes
+
+Design Pattern: Yes
+
+DB: oracle/Mysql
+
+                     Objective:
+
+              To work in progressive environment using latest Java/J2EE
+technologies. A growth oriented position utilizing my technical,
+analytical, designing, programming and implementation skills. To
+contribute in growth of self and organization by achieving new level of
+success in the Java/J2EE technical sector. 
+
+Summary :
+
+Having 7.10 years of IT experience and technical proficiency in
+Java/J2EE technologies, & 4 years Corporate Training and programmer
+experience ( Total 11+ Years experience).
+
+Exposure to Java, J2EE, Spring , JSF & Struts and Hibernate Frameworks. 
+
+
+Expertise in Web Technologies (Java/J2EE) and Windows Applications
+(Swings).
+
+Involved in technology modernization/tool project. (From
+Forte/PowerBuilder to Java)
+
+Successfully delivered various client POCs.
+
+Extensive involvement in all stages of Application development life
+cycle including requirements gathering, design, development,
+implementation and support.
+
+Strong expertise in various industries like Health Care, Manufacturing
+domain, Traffic Management, Financial and Banking Applications and
+Migration Applications.
+
+Extensive knowledge in designing and tuning Database tables, Stored
+Procedures / Packages, Functions and Triggers in Oracle 9i/10g/11g. 
+
+Expertise in OOPS, Design Patterns.
+
+Excellent ability to learn and adapt to new technology with emerging
+trends.
+
+Have good communication and interpersonal skills.
+
+Multi tasking attitude and ability to motivate the team members as well
+as extensive knowledge of advanced technical tools and applications.
+
+Strong analytical skills and ability to communicate with the clients.
+
+Have played the roles of  Lead, Programmer and Training Consultant at
+various points in time during the course of the career. Actively
+involved in training project team members.
+
+Has experience of executing projects at client locations 
+
+( Infosys-Banglore, Infor-QVC-Germany, Mphasis-Bangalore).
+
+Education :
+
+Master of Computer Applications from Osmania University.
+
+Bachelor of Science with Maths, Statistics and Computer Science from
+O.U.
+
+Intermediate from Board of Intermediate Education A.P.
+
+S.S.C from G.H.S.M.L.
+
+Certifications
+
+Sun Certified Programmer for the Java Platform, SE 5.0
+
+Salesforce.com Certified Force.com Developer  ( Dev401 )
+
+Technical Skills  :
+
+Operating Systems	Windows 7, XP, NT, 2000 , MS DOS, Unix and Linux
+
+Application Servers	Tomcat 5.0/6.0/7.0,  WebSphere 6.0, Jboss-4.0.5.GA
+
+Programming Languages	Java, C, C++, SQL,  Power Builder, FORTE
+
+J2SE Technologies	JDBC,  JDBC, Swings, Collections, RMI, JMS
+
+Web Technologies 	HTML 4.0.1, DHTML, Servlets, JSP, JSF, Java Script,
+Ajax
+
+IDE/Tool	Eclipse , My Eclipse,  RAD 6, Oracle, SQL Developer, Win Merge,
+Power Builder 11. Sonar, JProfile
+
+RDBMS		Oracle,  MySQL, MS-SQL Server 2008
+
+Version Control	CVS, SVN, Git.
+
+Frame Works	MVC, Spring,  Hibernate, Struts, JSF.
+
+Build Tools	Ant, Maven
+
+Work Experience :
+
+Working as Technical Lead with Softsol India Ltd., Info City, Hyderabad
+from
+
+ June 2007 to Till Date
+
+Worked as an external corporate trainer at Tendrils System from Apr-2006
+to May-2007. ( Client :  Satyam Learning Center [SLC] , Bahaddurpally
+,Hyderabad – Trained more than 800 associates in Java/J2EE/C/C++/Data
+Structures ).
+
+Worked as Programmer at Stanford PG College, Bhongir  - from Jul 2003 to
+May – 2007.
+
+Current Project : CGI Trade 360 Global Transaction Platform 
+
+Jan-2014 to till Date
+
+Client	CGI - USA
+
+Company Name 	Soft Sol India  Ltd
+
+Role & Responsibilities	Technical Lead
+
+Involved in the design phase
+
+Involved in writing various utility/helper classes to automate the code
+conversion.
+
+Lead the team in the process of  code error free, Query tuning and code
+walk through on top of the converted code
+
+Power builder application debugging, code walkthrough.
+
+Interaction with client.
+
+
+
+Summary	
+
+CGI Trade360 delivers all of the software, infrastructure and support
+resources necessary to power a bank’s global trade business. CGI
+Trade360 enables banks to provide the full range of traditional trade,
+payables, receivables and cash management services to their customers
+anywhere, anytime on a single, integrated and global platform. It also
+drives significant savings by reducing internal operating costs and
+allows banks to focus on growing their business.
+
+The CGI Trade360 platform is comprised of a corporate portal, an
+efficient back-office trade processing system with sophisticated imaging
+and workflow, an advanced reporting utility, and XML-based integration
+architecture.
+
+Technologies Used	Core  JAVA, Spring, Spring JPA, REST, Hibernate, HTML,
+AngularJS,
+
+Power Builder, Oracle.
+
+
+
+Project#2 – ICare ( LongTerm Care Partners ) -  Jun'12  to Dec-13.
+
+Client	Infosys, Bangalore
+
+Company Name 	Soft Sol India  Ltd
+
+Role & Responsibilities	Team Lead - System Analyst :
+
+Converted PowerBuilder code into Java ( Struts)
+
+Task Assignment to team and Code Repository Management.
+
+Taking part in Framework Integration at client location Infosys -
+Bangalore.Developed and integrated the transactions like Change Bill
+Freeze Code, Alter Cap Amount, Re-Instatement, Billing History
+Maintenance, Maintain Billing Location Schedule, Reverse Refund and
+Payment Reversal.
+
+Done JSON implementation and Exception handling management.
+
+
+
+Summary	ICare application is an intranet application for insurance
+managed by Customer Service Representatives. This application belongs to
+a client Long Term Care partners, U.S.A. and is maintained by Infosys
+Limited. Through this application new members can be created, enrolled
+in different insurance plans, searched, details can be edited, claims
+processing can be done, payment could be made, and many more. This
+project is a re-engineering project which is to be converted from Power
+builder to Java. The project is divided into 5 phases depending upon the
+functionality and dependency on other modules. Out of these phases
+phase-1 and phase-2 were converted manually from PB code to Java code.
+For Phase-3, PB code was converted to Java code automatically by a tool
+maintained by a company named Softsol. The converted code is again wired
+upto functioning modules and framework related changes are merged.
+Phases 4 and 5 are under process.
+
+Technologies Used	Java, Struts2, JSON, DB2
+
+
+
+Project # 3 – Cyberabad Traffic Challan System (CTCS)   -  Sep'11  to
+May’12
+
+Client	Hyderabad Traffic Police , Cyberabad Traffic Police
+
+Company Name 	Soft Sol India  Ltd
+
+Role & Responsibilities	Team Lead - System Analyst
+
+Requirement gathering at client location.
+
+Database design.
+
+Task Assignment to team and Code Repository Management.
+
+Coding and Bug fixing.
+
+
+
+
+
+Summary	CTCS is an application which will Integrate all the Cyberabad
+Traffic Police Challan application developed in MS Dos based FoxPro and
+Reports into one single Web application, Cyberabad Traffic  Police(CTP)
+presently using MS Dos based application for Spot Challan/Crane
+Challan/Photo Challan and to generate reports HTP collects all the 12
+Police Station information through Phone call and prepares a Excel
+report.
+
+The following are the main modules of the system:
+
+Photo Challan
+
+Spot Challan
+
+Crane Challan
+
+PDA Device Servers
+
+Photo Challan Printing
+
+Accident Information system
+
+Reports
+
+Administration
+
+
+
+Technologies Used	Java, JSF, XML, MySQL
+
+
+
+
+
+Project # 4 - Tool Designing for PowerBuilder to Java Conversion -
+Dec'09  to Aug’11
+
+Client	Soft Sol India  Ltd
+
+Company Name 	Soft Sol India  Ltd
+
+Role & Responsibilities	Team Lead
+
+Designed Java wrapper functions for the PowerBuilder functions..
+
+Handled Architectural issues like Message Object.
+
+Handled the Generation of managed beans.
+
+Involved in the upgradation to Trinidad Framework from Sun
+Implementation of Jsf.
+
+Involved in Coding and Bug fixing.
+
+R&D on latest technologies like Rich Faces,Ice Faces,Oracle ADF etc.
+
+
+
+Summary	This is the PowerBuilder to Java conversion tool which converts
+the PowerBuilder application to Java application. Tool reads the
+PowerBuilder objects like Application, Window, DataWindow, user Objects,
+Menu, Functions and Structures and converts into XML files. Those XML
+files contain Object property tags and attributes. After creating the
+XML files, tools reads XML files and load the data into classes and
+generate java files using Apache Velocity template. Conversion tool also
+handles SQL statements, cursors and procedures. It also generates same
+GUI in JSF which is similar to PowerBuilder objects with control events.
+
+Technologies Used	JSF, Struts 1.2, Core Java, Velocity Templates, XML
+
+
+
+ONSITE EXPERIENCE: ( November – 2009 )
+
+Exceed 3.4 Customized Warehouse Management System
+
+Client	Infor Global Solutions (Germany)
+
+QVC., HuckelHoven, Germany
+
+Company Name 	Soft Sol India  Ltd
+
+Role & Responsibilities	Had given knowledge transfer session on Java
+Technology like JDBC,EJB,RMI,Using Eclipse IDE, ANT etc and gathered the
+business requirements.
+
+
+
+Summary	The Warehouse Management System, for controlling and managing
+inventory in QVC warehouse Germany. The system consists of inventory
+control and supports processes for receive, putaway, move, adjustment,
+transfer, allocation, release of tasks, task manager directed tasks such
+as replenishment, picking, reorg, shipping.
+
+Technologies Used	EJB 3.0, ANT 6, AST 6.0(WebSphere).
+
+
+
+Project # 5 - Exceed 3.4 Customized Warehouse Management System,
+
+Aug 2009 – Nov 2009
+
+Client	Infor Global Solutions (Germany)
+
+Company Name 	SoftSol India Ltd.
+
+Role & Responsibilities	Senior Software Engineer.
+
+Involved in coding for Exceed Services using EJB3.0 and Server Socket
+Connection listener using java.net.Socket.
+
+Writing Build Script using Ant to make EAR for deploying into
+WebSphere6.0 Server. 
+
+Execution of Test Cases given by Client to test the Functionality of
+Exceed Services from the PowerBuilder Client.
+
+
+
+
+
+Summary	The Warehouse Management System, for controlling and managing
+inventory in QVC warehouse Germany. The system consists of inventory
+control and supports processes for receive, putaway, move, adjustment,
+transfer, allocation, release of tasks, task manager directed tasks such
+as replenishment, picking, reorg, shipping.
+
+	The system runs against an oracle database containing inventory
+information and the documents for the different processes (such as
+purchase orders, receipts and shipment orders).
+
+	The application consists of a number of partitions. Technically there
+is a part1 replicated partition picking up processes, there is a socket
+communication client for connecting to the server and in particular
+sending requests to the part1 transactionserviceso and there are several
+other partitions for handling things like multi threaded allocation,
+multi threaded cartonization, multi threaded mot calculation and
+release. Also a number of these partitions are replicated for better
+performance.
+
+Users use a Powerbuilder front end application to connect to the backend
+through the socket interface. Also there is a c++ application which is
+used for RF handheld devices which runs processes on the server and also
+connects through the socket interface. Finally there is a forte
+interface application which handles the interfaces from/to external
+systems including host system, high bay storage, automatic belts and
+other automated parts of the warehouse.
+
+Technologies Used	EJB 3.0, ANT 6, AST 6.0(WebSphere), Oracle 9i
+
+
+
+Project # 6 - PathLIMS (Pathological Laboratory Integrated Management
+System)
+
+	          - July 2008 to July 2009
+
+Client	Genentech
+
+Company Name 	Soft Sol India  Ltd
+
+Role & Responsibilities	Software Engineer
+
+Involved in development of code for various modules.
+
+Involved in implementing MVC with Struts
+
+Bug Fixing
+
+Testing-unit Testing and Integration Testing
+
+Maintenance of wrapper code
+
+
+
+Summary	PathLIMS (“Pathology  Laboratory Integrated Management
+System”) is used by the Genentech  team for their Laboratory work flow
+the PathLIMS Application is used to record experimental Studies of
+Pathology. The entire system consists of a few applications and
+Interfaces to Laboratory Instruments. The PathLIMS is the heart of the
+system. 
+
+ 	PathLIMS Project is divided in to 8 Modules Administration,CPLabs,
+APLabs, IHC, HTB ,TMA ,Path Requests,ISH. The main objective of this
+project is to generate reports and maintain the information about the
+experiments conducted in different labs. The Users of this project are
+the Lab Supervisors,Pathologists,Investigators and Lab Technicians each
+users are assigned with different access privileges based on their role
+.
+
+        	PathLIMS application is for preventing redundant data entry and
+efficient management of system which is used to maintain laboratory
+activities. This application is used to service the customers through
+online and track the activities through online. 
+
+
+
+Technologies Used	JDK 1.5,Struts,JSP,AJAX,Tomcat 6.0.7,Oracle,Eclipse
+3.4,Windows XP
+
+
+
+Project # 7 -  DOMAIN, Sep’ 07 –  Jun'08
+
+Client	Superior Court of California, County of Alameda, US.
+
+Company Name 	Soft Sol India  Ltd
+
+Role & Responsibilities	Software Engineer.
+
+Implementation of Front-end (UI)
+
+Functionality related to UI
+
+Involved in development of code for various modules
+
+Bug Fixing, Testing-unit Testing and Integration Testing
+
+Maintenance of wrapper code
+
+
+
+Summary	DOMAIN is an integrated case management and decision support
+system for the Superior Court of California, County of Alameda.  An
+acronym for Decision Support and Operations Management Information
+System, the application standardizes procedures, definitions, and
+statistical reporting to support the legal process and help judicial
+officers, court staff, attorneys, and the public to manage court
+information more efficiently.
+
+This Windows-based application runs in a client/server environment,
+using HP 9000 UNIX servers and Windows clients on Pentium workstations.
+Built in a distributed environment, DOMAIN utilizes object-oriented
+design methodologies, the Informix relational database, the Forte
+application integrated development environment, and MSF&W imaging
+software.
+
+Technologies Used	Java1.6, swing, EJB3.0, Eclipse Lomboz 3.3,  Jboss-
+4.2.3.GA, 
+
+Ant Script (ant-1.6.5), Forte.
+
+Reference: Details provide upon your request.
+
+Mohammed Riyaz
+
+Mobile : +91 9440948394
+
+
+
+
+

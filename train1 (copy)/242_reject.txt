@@ -1,0 +1,303 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                  -  3+ year &
+current                                �
+�               
+
+Spring                  
+                                  -  2
+year&current
+
+Web
+Services                                
+        - 
+aware                                 �
+�              
+
+Core
+Java                                  
+             -  4.5year
+
+Design
+Patterns                                
+    -    worked
+
+UML
+design                                 
+          -    worked
+
+Build Tools (Maven/Ant)                    -   
+Maven   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Eclipse/datastudio/tomcat/websphere
+
+DB- oracle
+
+Ajay Kumar	                                              	Mobile:
++91-9573044054
+
+							Email ID:   HYPERLINK "mailto:slmailraj2@gmail.com" 
+slmailraj2@gmail.com 
+
+Profile Overview
+
+A dynamic professional with around  years of rich experience in Project
+Operations, Process Design / Implementation and Operations.
+
+Managing providing Support to Prepaid Billing Platform of Alcatel,
+Telecordia and Altamira (Ericsson) Intelligent Network, including System
+Provisioning, customization, deployment, technical support, service
+support, trouble shooting and error resolution.
+
+Participated in the migration activities from Alcatel to Altamira IN at
+Dublin Ireland in Nov-Dec 2012.
+
+Good Concepts in GSM ( IN ) Call Flows.
+
+Making acceptance test of newly installed equipments by following
+different criteria.
+
+Good exposure on Number Management System (NMS) application and Computer
+Interface to Message Distribution (CIMD2) Protocol.
+
+Good Knowledge in Client Server Technology.
+
+Providing support to the client ( level 2 Support ) on E// system
+
+Working on the E// SDP and SG.
+
+Worked on the small modules using java, j2ee and oracle to automate the
+daily routine activities.
+
+Good Exposure to Java, J2ee technologies (Hibernate , Springs )
+
+Work Experience Summary
+
+Designation	Organization	Duration
+
+Sofware Development Engineer	Amazon India Development Center, Hyderabad
+July 2013 to till date
+
+Industry Consultant In Telecommunication	IBM India Private Limited,
+Hyderabad	Aug 2010 to July 2013
+
+
+
+Skill Set-Domain Knowledge
+
+GSM Skills- Intelligent Network, CIMD2 (SMSC Protocol).
+
+Strong Knowledge in Telecom Prepaid.
+
+Management of CDR which are generated in the Database (DRS).
+
+GSM Protocol- Good understanding of SS7 layer. 
+
+Operating system- Windows, UNIX
+
+Database- Oracle 
+
+Programming Language – Java, J2EE 
+
+Web Technologies ( Jsp,Servlets)
+
+Framework (Springs)
+
+Current Job Profile
+
+Software Developer Engineer at Amazon India Development Center,
+Hyderabad
+
+Client : MarksAndSpencer (  July 2013 to Feb 2014 ) 
+
+Responsibilities:
+
+Providing end to end support for world’s leading ecommerce portal
+
+Making changes in the existing application 
+
+As part of migration, extracting the data from the database and
+providing the data to the end client at regular intervals of time so
+that their business goes smooth.
+
+Projects:
+
+    1)	Holiday-Messaging-2013 
+
+          The crux of this project to display Christmas Messages on the
+Website, ISA tool and PCA tool. This enables the customers of M&S to
+determine whether will be delivered before the holiday(25th Dec) or
+after. 
+
+           This required building of Pagelet, Layout , backend Java
+Logic and co-ordination with three teams and M&S Product team.
+
+Environment:
+
+	Oracle, Red Hat Linux, Java, Springs, Hibernate
+
+SMS-Capture
+
+ 
+
+                       The projects aims to enable M&S to send missed
+Promise and payment decline SMS to corresponding customers. 
+
+            Created two pagelets that returns data in JSON format in
+Santana platform. 
+
+1) NotResolved OrderDetails:Call an API of CASE service to get the NoT
+resolved orderIds. 
+
+2) OrderDetails : Use the data received from the first pagelet to get
+the order details of the customers. 
+
+Prepared the order details in XML format and upload in MarksandSpencer
+specified SFTP server 
+
+Environment:
+
+	Oracle, Red Hat Linux, Java, Servlets, Hibernate
+
+
+
+
+
+Fincron Data Migration
+
+
+
+                                     Fincron is a collection of perl and
+sql scripts that extract, transform and load data from and to various
+GFS data sources and systems. All data originates from source system
+databases, such as COW, FCSW, Tax, Digital, GC and more. Data is
+extracted from over 100 database tables. This data initially enters
+Fincron domain by means of an ETL process owned by the Enterprise Data
+Warehouse platform group. All data from source databases is extracted,
+transformed and loaded to the GFS FSREV database.Fincron will be
+considered deprecated once we are able to stop extracting and loading
+data to the FSREV database without impacting end users who consume the
+data downstream. This requires moving all remaining use cases to future
+systems.
+
+
+
+Environment:
+
+	Oracle, Red Hat Linux, Java, Servlets, Hibernate, Springs
+
+Payments System
+
+                             Amazon Payments is a way for customers to
+purchase goods and services from US based websites using the payment
+methods in their Amazon.com accounts, such as their Visa or MasterCard.
+(Currently Amazon.com and Amazon Payments will not accept payment
+methods such as PayPal or Google Wallet.) At participating vendors,
+which include Patagonia and Jockey, users can check out using their
+Amazon account information without needing to re-enter credit card
+numbers or shipping addresses. Users can also check out with Amazon's 1
+Click.
+
+
+
+Roles and Responsibilities:
+
+Own the intake experience, iterate with clients on requirements for new
+platform features, identify work packages, differentiate existing vs new
+platform feature work in requests.
+
+ provide input on design solution for new platform features and
+self-service capabilities and call out external dependencies if any
+(especially around Payments Operation, Payments Acceptance and FLASH).
+
+Manage intake triage and update meetings i.e follow up with PMs on their
+action items while requirements are getting flushed out for intake
+requests.
+
+  
+
+Previous Job Profile
+
+Worked as Industry Consultant in Telecommunication at IBM India Private
+Limited
+
+Client: Telefonica Ireland
+
+Responsibilities:
+
+First level support and developer to team for troubleshooting of faults
+and critical alarms, SDP subscriber data point, SCP Service control
+Point, Tariff Configuration and various VAS products on VOICS and and
+DATA [GPRS] from the Vendor side
+
+Configuring automated Oracle Procedures to support marketing promotions
+on various activities like recharges, Calls and SMS on a real time basis
+
+Verify heath Check and system statistics reports performed daily by team
+member, handling escalated customer complaints, raising SR with Comverse
+on malfunctions of IN System.
+
+Working as a second level support from the client side and performing
+the tuning of the applications, Deliveries and deployment of the patches
+on demand.
+
+Played a major role Migration of the IN system from the Alcatel IN to
+Altamira IN
+
+Coordinating with the internal development how to communicate and make
+clarity what the parameters needs to be passed to IN ( SDP ) and what
+are the possible failures from the application.
+
+Responsible for Project planning for activities like Upgrades,
+Expansion, Integration, Conversion. Establishing technical Method of
+Procedures (MOP) through Release Description Documents (RDD), internal
+reference Memos (IRM), TAC alerts and field change orders. Acquire
+activity approvals.
+
+Providing on-Call technical support to O2 Telefonica Ireland for all
+kinds issues affecting call processing, revenue and Service.
+
+Involved in Preventive maintenance, Upgrades and Deployment of new
+releases/Patch fixing. Installation, Commissioning.
+
+Coordinating between client and vendor, while escalating software bugs
+or hardware issue, performing failure analysis and categorizing the
+same.
+
+Ability to perform under time constraint depending upon the business
+requirements.
+
+Assisting customer to run data patches across whole customer base.
+Creating scripts to provide daily traffic reporting. Developing custom
+scripts used in Migration activities 
+
+Configuration for New Level Opening
+
+Participated in the development of the modules using Java,Springs
+
+Deployment and Commissioning of the services over IN
+
+Executing projected related planning ( Any changes in the existing / new
+services ) 
+
+Routine maintenance and support over the IN products
+
+Resolving the problems ( Tracks ) in the provided SLA and following the
+service management process.
+
+Environment:
+
+	Oracle, Red Hat Linux, Java, Servlets, Hibernate, Jsp’s
+
+Educational Qualifications
+
+Master Of Computer Application from Jawaharlal Nehru Technological
+University.
+
+ Bachelor Of Computer Application from Kakatiya University.
+

@@ -1,0 +1,345 @@
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                 -  3month
+
+Spring                  
+                                 - 2
+Years &current                            �
+�                 
+
+Web
+Services                                
+       -  1 years  &
+current                                �
+�             
+
+Core
+Java                                  
+            -  5 years                
+
+Design
+Patterns                                
+   -   
+
+UML
+design                                 
+         -   
+
+Build Tools (Maven/Ant)                   -   
+Maven   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+Tomcat/weblogic/eclipse/sonar
+
+DB:oracle
+
+6.3/10/30days
+
+M.PRAVEEN KUMAR		                  Email: praveen_miryala@yahoo.co.in
+
+                                                        	               
+  Contact no.: 9959976990.                                              
+
+
+                                                                        
+
+
+Work Experience:	
+
+   5+ Years of experience in IT Industry in Applications Development
+and Customization.
+
+ Good Experience in java,j2ee servlets, jsp’s, Struts, Ajax,PLSQL.
+
+ Good Experience in Web Technologies –HTML, JavaScript, JQuery.
+
+
+
+Employment History:		
+
+Working as Software Engineer in Prokarma Softech India Pvt Ltd from
+Dec’ 12 to till Date.
+
+Worked as Software Engineer in Nucleus Software Exports Ltd from Sep
+’10 to Dec’ 12.
+
+Worked as Associative Programmer in Progen Business Sol. from oct '09 to
+April ‘10.
+
+Worked as software Engineer in Darien Software Sol. from Jan’09 to oct
+’09. 
+
+Technical Skills:  
+
+Operating System                        :    windows XP.
+
+Programming Languages             :    Java, J2ee,Struts,Springs.
+
+Scripting Languages                    :    Java Script, Query,Angular
+Js.
+
+Web Technologies                       :    HTML.
+
+Database                                      :     Mysql, Oracle10g &
+Oracle11g,PLSQL      (Functins,Procedures,Packages..etc.).
+
+Programming tools                      :     Eclipse, Dream weaver, Net
+Beans,Jdev.
+
+Application Servers                     :     Oracle OC4J(10GR2,10GR3).
+
+Professional Experience:
+
+Project#1
+
+Title		 : ITOS Intermodal Terminal Operating System.
+
+Date		 : Feb’12 to till date.
+
+Client		 : Union Pacific Rail Roads.
+
+Role		 : Developer.	
+
+Description:
+
+For International facility employees and management who need efficient
+work processes the Intermodal Terminal Opertating System(iTOS) is an
+information system that will provide work order management,gating
+operations,planning,forecasting, and yard inventory management of
+containers and chassis. The system will replace the existing system
+OASIS and integrate with handheld devices.
+
+Role and Responsibilities:
+
+Understanding the requirements and implementation.
+
+Developing jaxb services to interact between multiple apps.
+
+Involved in Production deployments.
+
+Involved in tuning the SQL queire JVM Heap. 
+
+Developing mobile applications using Angular .
+
+Project#2s
+
+Title		 : FinnOne Connect 2.0.
+
+Date		 : Jun’12 to till date.
+
+Client		 : BMI Bank(Bahrain).
+
+Role		 : Developer.	
+
+Description:
+
+FinnOneTM Connect 2.0 interfaces with heterogeneous systems for
+functional requirements. Interface is a bridge across two independent
+and heterogeneous systems where they communicate with each other for
+sharing and updating information. 
+
+FinnOneTM Connect 2.0 is a middleware solution for sharing and updating
+information between FinnOne Suite and an External System. The system is
+capable of publishing generic services for easy and ready third party
+interfacing. FinnOneTM Connect 2.0 provides the user the flexibility to
+create a new service as per the requirement. The service can be used as
+and when required.
+
+Role and Responsibilities:
+
+PLSQL programming to execute the string into appropriate tables.
+
+Developed interfacing between Siebel and FinnOne.
+
+Involved in Production Support based on the priority of the ticket.
+
+Involved in tuning the Oracle Application Server parameters, JVM Heap. 
+
+Involved in Preparation of UD,BRD based on the customer requirements.
+
+Project#3
+
+Title		 : FINNONE CAS (Customer Acquisition System).
+
+Date		 : Sep10 to till date.
+
+Client		 : National Bank of Uma Ual Quain(Dubai), BMI Bank(Bahrain).
+
+Role		 : Developer
+
+Description	 : 
+
+FinnOne CAS enables the banks to design new products and offerings,
+improve workflows to make the needs of speed and control integrate
+functions of various business partners in the loan origination process
+such as field investigator, collateral appraisal agencies, credit
+burros’ ,document verifiers and dealers and among others. FinnOne CAS
+is impeccably integrated with FinnOne Loan Management System, and can
+integrated with other Loan Servicing systems also allowing the
+origination to service applications faster and with minimum rework to
+ensure intelligent risk and management without any scope of any human
+error.
+
+ Salient Features:
+
+Comprehensive HTML reports and PDF, XLS reports.
+
+IT team connects to the system through admin login they can create users
+and provide roles for those users.
+
+Users are the one who faces the customers and gathers their data.
+
+User inputs the data provided by customer into our CAS System according
+to the workflow.
+
+Systems stops the user from moving one stage to another stage to process
+a loan while doing the change stages of the stage.
+
+After completing the entire stages user will move the application to
+Underwriter stage which makes approval of a loan. Then underwriter will
+disburse the loan to customer.
+
+Data sources supported by CAS are Oracle.
+
+Role and Responsibilities:
+
+Involved in Production Support based on the priority of the ticket.
+
+Involved in performing RCA for the core system bugs.
+
+Involved in developing Jsp, Servlets,Action Classes, DAO based on the
+Enhancement/CR.
+
+Involved in performance tuning of the application.
+
+Involved in tuning the Oracle Application Server parameters, JVM Heap.
+Involved in Preparation of UD,BRD based on the customer requirements.
+
+Environment	 : Java, jsp, struts 1.3, AJAX and oracle 10g as the
+database.
+
+Achievements:
+
+Achieved Best employee of the month for April 2011.
+
+Onsite to Bahrain for implementing Enhancements and moved to production
+without any iterations.   
+
+Project#4
+
+Title		 : pi 1.0(Web based BI Platform Tool).
+
+Client		 : Nero lac Paints, Indicus Analytics
+
+Team size	 : 7
+
+Role		 : Developer
+
+Description	 : 
+
+pi 1.0 is a complete web based Business Intelligence & Analytics Suite
+that takes care of all data integration & analytical reporting
+requirements. It is based on Open Industry Standard technologies and
+leverages on the J2EE architecture. End-to-End features, Ease of use &
+Quick deployment capabilities.
+
+Salient Features:
+
+Comprehensive Graphical and Analytical reports.
+
+IT team connects to Data sources & Creates Business Groups and Business
+Roles and can assign Groups, Roles to users.
+
+Users can create Dashboards & Reports with pi Intuitive interface i.e.,
+Report Designer based on the Business Roles assigned to them.
+
+Users can share Reports and Dashboards & schedule Emails in PDF and can
+have snapshots of Reports.
+
+Data sources supported by pi are Oracle, My SQL , Postgre SQL and Excel.
+
+Environment	 : Java, jsp, struts 1.3, AJAX, j Query for the Application
+layer    and oracle 10g as the database.
+
+Project#5
+
+Title:-Restaurant Data Analysis.
+
+Date:- Oct09 to Nov09
+
+Role: - Software Developer.
+
+Description:
+
+This project is based on Restaurant Origin those who maintain
+restaurant. It basically collects the data of restaurant visitors those
+who came but left restaurant due to unavailability of tables. So if a
+restaurant is full he can check the availability and waiting time for
+the required tables by submitting mandatory fields .After submitting the
+on line form, visitor will be able to know the status of his requirement
+and we utilize the data by storing it in database. Using this database
+we can use BI tools.
+
+Responsibilities:
+
+This project was completed by me within an estimate of time starting
+with  review research problem, functional specification, coding and
+module testing with documentation.
+
+Environment	 : Java, jsp, struts 1.3, AJAX, j Query for the Application
+layer and oracle 10g as the database.
+
+Project#6
+
+Title:-Created a web site   HYPERLINK "http://www.schoolstones.com/"
+www.schoolstones.com   
+
+Dates :-  Jul 09 to Sep 09.
+
+Role:-  Software Developer.
+
+Description:
+
+In this site we have the rankings of every international school and
+their students who scored well and those who are not registered they can
+register in this site and only for CBSE international schools.
+
+Responsibilities:
+
+In this project I created the main page using jsp and a registration
+form to register by user and I done validations using struts form bean
+validations which are server side validations. 
+
+If they forget their password so they can get the user name and password
+by sending the mail id which they used to register with us. 
+
+Project#7
+
+Project:- Alumni.
+
+Date: - Jan 09 to Jul 09.
+
+Role:- Software Developer.
+
+Description:
+
+This is the one where the old student’s data will be collected and
+stored for the institution and who are passed outs of the institution.
+
+Responsibilities:
+
+In this prodject I created a page where they can send their details and
+register with the institution alumni and if they were give any wrong
+information while registering so they can login in login page and they
+can edit their details or update their details if any changes are there.
+
+
+     
+
+Place: HYD		                                                        
+(M.PRAVEEN KUMAR)
+

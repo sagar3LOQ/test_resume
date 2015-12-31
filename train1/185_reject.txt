@@ -1,0 +1,132 @@
+Krishna Vineela Adada
+
+E-Mail:   HYPERLINK "mailto:takkellapati@yahoo.com"
+vineela.adada@gmail.com 
+
+Mobile:9985213244
+
+
+
+Professional Summary
+
+4+ years of experience in Information Technology in terms of Object
+Oriented Design, Development, Deployment, Documentation and Maintenance
+in a web based environment, Distributed n-tier architecture and Client
+Server architecture.
+
+Good domain knowledge in Banking and Manufacturing.
+
+Specialized in Java / J2EE technologies like JSP, Servlets, JDBC Spring
+framework and Webservices.
+
+Work Experience in Scripting languages such as Javascript, HTML, CSS and
+Jquery.
+
+Work Experience includes designing and developing of object oriented
+software.
+
+Sound knowledge of developing applications based on architectures like
+Spring Framework and MVC architecture.
+
+Having experience in developing Agile methodologies and all stages of
+SDLC.
+
+Excellent communication & interpersonal skills with proven abilities in
+resolving complex software issues.
+
+Education
+
+GITAM University, Visakhapatnam, India, Electronics and Communication
+Engineering, 2005-2009.
+
+Professional Organizations
+
+Prokarma, Hyderabad, June 2014 – Till Date
+
+Tata Consultancy Services, Hyderabad, Feb 2010 – June 2014	
+
+Skills Profile
+
+Technical
+
+Skill Type	Skill Description
+
+Programming Languages	JAVA/J2EE (JSP, SERVLETS, JDBC),WEBSERVICES
+
+Database Technologies	PL/SQL
+
+Scripting Language	JavaScript, HTML,CSS,JQUERY
+
+Frameworks	SPRINGS
+
+Web &Application Servers	Tomcat, Web Sphere ,JBOSS
+
+Tools	Eclipse, Net Beans, RAD
+
+Build 	Maven, ANT BUILD
+
+
+
+Certifications
+
+Done OCJP Certification. 
+
+Done Foundation Certification in Financial Services. 
+
+Done Payment Cards Certification under Banking and Financial Services
+domain.
+
+Done certification on MANUFACTURING CONCEPTS.
+
+
+
+Professional Experience
+
+S. No	Client Name / Project Name	From	To	Role	Location
+
+1	Verizon – Weblogic Migration 	July 2014	Till Date	Senior Developer
+Hyderabad / India
+
+2	Chrysler – SIPM Validation Hub	April 2013	June  2014	Senior
+Developer	Hyderabad / India
+
+3	Chrysler – Login and Registration Web service	December 2012	March
+2013	Developer	Hyderabad / India
+
+4	Chrysler – VINRecall Canada	October 2012	December 2012	Developer
+Hyderabad / India
+
+5	Chrysler – Login and Registration API	August 2012	October 2012
+Developer	Hyderabad / India
+
+6	Chrysler – CCNA	June 2012	August 2012	Developer	Hyderabad / India
+
+7	Amex – NGI Test Bed Tools	September 2010	December 2011	Developer
+Hyderabad / India
+
+
+
+Major Responsibilities handled in the last 4 years: 
+
+Understanding the client functional requirements.
+
+Communicating with the third party applications for Integration.
+
+Preparation of HLD’s, LLD’s and Test plans. 
+
+Mentor the team and perform the coding and unit testing on complex
+programs to meeting the schedule.
+
+Backup of project lead on updating the Handbooks.
+
+Client interactions, Knowledge management and sharing.
+
+Developing the code and UI(Html/css) and involved in unit testing
+
+Supporting the testing team and updating the tracker to communicate to
+the testing team.
+
+Query log inferences, Issue and Risk log maintenance.
+
+Krishna Vineela Adada		
+

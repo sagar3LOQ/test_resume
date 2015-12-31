@@ -1,0 +1,316 @@
+KARTHIK RACHAPUDI
+
+Mobile: 7569408130
+
+E-mail: rachapudikarthik@gmail.com
+
+An accomplished Software Engineer specialized in Object-Oriented
+Programming with extensive experience in the Life Cycle of Software
+Design Process especially in Requirement Gathering, Design, Development,
+and Build.
+
+CAREER OBJECTIVE
+
+To utilize my Software Development skills and excel in a challenging and
+a leading edge organization which provides opportunities for career
+growth and innovation.
+
+                    
+
+PROFESSIONAL SYNOPSIS
+
+
+
+ 4 years of experience in IT field and skill set includes Core Java,
+JAVA-J2EE, JSP,   Ajax, Jquery, Adobe Flex, Hibernate Framework, Spring
+Framework, Struts Framework, MySQL6, Oracle10g.
+
+Played an active role in development and enhancement of various
+applications using Java, J2EE  Frameworks.
+
+Exposed to software development life cycle including requirement
+analysis, program design and development.	
+
+Strong Problem Solving and Technical Skills coupled with confident
+decision making for enabling effective solutions leading to high
+customer satisfaction as well as low operational cost.
+
+TECHNICAL EXPERTISE
+
+
+
+Infosys Technical Certification for Java Developer.
+
+Programming Languages	Java-J2EE, Flex, C, SQL, PL/SQL.
+
+Framework			Hibernate 3.0, Struts2, Spring3, Axis2 for Webservice
+
+Databases			Oracle 10g, MySQL 6.
+
+Web Technologies		HTML, JSP, JSF, Flex, Ajax, JQuery, Dojo.
+
+Servers                                        Weblogic 8, Tomcat-7,
+JBoss, Websphere App Server 6
+
+Other Utilities			Eclipse, Adobe Flash Builder. Toad for Oracle 9.0,
+
+                                                    Microsoft VSS,
+Perforce, SVN, AquaStudio , RAD 7.5 .
+
+DOMAIN EXPERTISE
+
+Infosys Certification for Capital Market and Securities.
+
+Bank of America’s Internal Certifications.
+
+PROFFESIONAL DETAILS
+
+
+
+Infosys Technologies Limited                         November 2009 –
+February 2013
+
+Company Brief: 
+
+Infosys is a global management consulting, technology services and
+outsourcing company. Infosys defines, designs and delivers
+technology-enabled business solutions for Global 2000 companies. Infosys
+also provides a complete range of services by leveraging our domain and
+business expertise and  HYPERLINK
+"http://www.infosys.com/about/alliances/pages/index.aspx" \o "strategic
+alliances"  strategic alliances  with leading technology providers.
+
+Project-I Description: 
+
+Client: Bank of America.                                  August 2010-
+September 2011
+
+Played an active role in the development of an enterprise application
+which monitors and reports performance of the bank in different areas
+and provides input to the business users in re-investment strategies.
+
+Environment/Technology/Database/Server: Java, Hibernate 3.0, Spring3,
+Flex 4, Oracle 10g, JBoss4.
+
+	
+
+Tools: Eclipse, Adobe Flash Builder, Rational Rose, Toad for Oracle 9.0,
+Microsoft VSS.
+
+Project-II Description:
+
+Client: Bank of America.                                   September
+2011 – March 2012
+
+Played an active role in the development of an enterprise application
+which is used for management of confidential reports.                   
+                                       
+
+Environment/Technology/Database/Server: JAVA-J2EE, Struts2, JSP, JDBC,
+Oracle, Weblogic server.
+
+Tools: Eclipse, Toad for Oracle, Microsoft VSS.
+
+Project-III Description:
+
+Client: Bank of America.                                          April
+2012- February 2013
+
+Played an active role in the development of an enterprise application
+that on-boards individuals and legal entities to the system so that they
+can do business with the bank.
+
+Environment/Technology/Database/Server: Java, Spring, Struts2, JSP,
+AJax, Oracle 10g.
+
+Tools: Eclipse, Toad for Oracle 9.0, Perforce, JBoss.
+
+Cognizant Technologies Solution                                         
+        February 2013 - Till Date
+
+Company Brief: 
+
+Cognizant is a global management consulting, technology services and
+outsourcing company. Cognizant defines, designs and delivers
+technology-enabled business solutions for Global 2000 companies.
+Cognizant also provides a complete range of services by leveraging our
+domain and business expertise and  HYPERLINK
+"http://www.infosys.com/about/alliances/pages/index.aspx" \o "strategic
+alliances"  strategic alliances  with leading technology providers.
+
+Project-I Description: 
+
+Client: American Express.                                               
+ March 2013- December 2013
+
+Developed an enterprise application for project management operations.
+
+Environment/Technology/Database/Server: Core Java, Hibernate 3.0,
+Spring3, Struts 2.0, JSP, MySQL 6, Ajax, JQuery, Dojo, JSON,
+Webservices(Java), LDAP Authentication.
+
+Tools: Eclipse, Aqua Studio for MySQL-6, SVN.
+
+Project-II Description: 
+
+Client: American Express.                                               
+ March 2013- December 2013
+
+Played an active role in the development of an enterprise application
+that personalizes offers for an american express card user.
+
+Environment/Technology/Database/Server: Java, Spring, JSP, Oracle 10g,
+IBM DB2, X-Query, Drools, JSON, Webservices(Java).
+
+Tools: Eclipse, Toad for Oracle 9.0, SVN, Websphere Application Server
+6.1, Aqua Studio for DB2.
+
+ Roles/ Responsibilities: 
+
+Requirement Analysis and Use case Discussion
+
+Prepared HLDs and LLDs for the assigned Modules.
+
+Development of the assigned modules.
+
+Prepared UTPs and ITPs for the Assigned Modules.
+
+Fixed the Bugs of the respective modules.
+
+Value Additions: 
+
+	
+
+1. Optimized the process and minimized the Cost for the Client.
+
+2. Handled crisis situation effectively.
+
+3. Improved the Performance of the Application. 
+
+4. Worked as release anchor.
+
+Wipro Infotech                                                          
+                      December 2013 - Till Date
+
+Company Brief: 
+
+Wipro is a global management consulting, technology services and
+outsourcing company. Wipro defines, designs and delivers
+technology-enabled business solutions for Global 2000 companies. Wipro
+also provides a complete range of services by leveraging our domain and
+business expertise and  HYPERLINK
+"http://www.infosys.com/about/alliances/pages/index.aspx" \o "strategic
+alliances"  strategic alliances  with leading technology providers.
+
+Project-I Description: 
+
+Client: Al Ansari Exchange                                            
+December 2013- Till Date
+
+Played an actie role in the deelopment of an Enterprise application
+which is used for transferring funds from one agent to another.
+
+Environment/Technology/Database/Server: Core Java, Hibernate 3.0, Struts
+2.0, JSP, Oracle 10g, Ajax, JQuery, Webservices (Axis2 – Service
+Producing and Service Consuming).
+
+Tools: Eclipse, Oracle SQL Developer, SVN.
+
+Training Description: 
+
+Duration: November 2009 – May 2010.
+
+Undergone Extensive Training at Infosys Global Education Centre in
+Mysore.
+
+The Training Includes Generic Training, Intermediate Training and Stream
+Training with Extensive Training on JAVA/JPA/JSF.
+
+Trained at Infosys Leadership Institute on Various Soft Skills.
+
+Worked on Projects which involve complete Software Development Life
+Cycle and includes requirement gathering, analysis, design, development,
+unit testing and integration testing of modules.
+
+Strengths
+
+A team player with strong analytical, reasoning, problem solving &
+management abilities.
+
+Driven to learn and apply new ideas and technologies.
+
+Enthusiastic, Creative and willing to shoulder increased
+responsibilities.
+
+Ability to adapt quickly to changing environment.
+
+Experience in prioritizing short time and long time goals.
+
+EDUCATIONAL DETAILS
+
+Pre Engineering:
+
+Examination	Year	Institution	%Marks secured	Class
+
+
+
+SSC	
+
+2003	YMK High School, Adoni	
+
+80.5	
+
+1st 
+
+
+
+
+
+       HSC	
+
+2005	Viswanarayana Junior College, Adoni	
+
+88.2	
+
+1st 
+
+
+
+
+
+Engineering: B.E in Electrical and Electronics engineering from NBKR
+Institute of Science and Technolgy, Vidyanagar
+
+
+
+Percentage marks secured in BTech	
+
+65.20%
+
+
+
+Personal DetailsETAIL
+
+
+
+Date of Birth		: 	13 February 1988
+
+Linguistic Proficiency	:	English, Hindi, Telugu and Kannada.
+
+Notice Period                        :            1 month (Max &
+Negotiable)
+
+Declaration:
+
+I hereby declare that the above information is true to the best of my
+knowledge & belief.
+
+Date and Place:                                                         
+                                 
+
+Karthik Rachapudi
+
+	
+
+	Page   PAGE  1  of   NUMPAGES  5 
+

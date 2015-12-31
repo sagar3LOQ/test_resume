@@ -1,0 +1,169 @@
+Mudit Dixit[Mudit_dixit@rediffmail.com, +91 9881835523]
+Senior software engineer specialized in Java/J2EE (Windows, Linux)
+Experience Synopsis
+• 9+ years of experience in in Java J2EE
+• Working as a Scrum Master (acting team lead).
+• Experience in design and developing large scale, multi-threaded and high performance application on
+windows, Linux.
+• Good understanding of data structures, algorithms and object oriented design.
+• Experience in Web application development.
+Skills (Recent/extended exposure highlighted in bold)
+• Languages: Java, XML, Javascript , HTML
+• Frameworks/Libraries: Spring, Hibernate, Hadoop ,Web Services, Apache Solr ,Apache-cxf
+• Design: UML, Rational rose
+• Operating systems: Windows, Ubuntu, Fedora, Centos, Red Hat.
+• Database: MYSQL, Cassandra, MongoDB,Oracle 10G, Elasticsearch.
+• Tools: Eclipse, Edit Plus, IBM RAD, Spring-sts, MYSQL workbench, putty, Javamelody, Jira, Jenkins,
+Nagios, TOAD
+• Project management: Jira, Agile/scrum, CI, TDD.
+Work History
+• Talentica Software Pvt. Ltd, Pune: Nov 2012 – Till date (3 yrs.)
+• Pitney Bowes Software Ltd, Noida: Aug 2010 – Nov 2012 (2 yrs.)
+• Sopra Group, Noida: Nov 2009 – Aug 2010 (9 months)
+• HCL Technologies Ltd, Noida: June 2006 – Nov 2009 (3.5 yrs.)
+Professional Certification
+•
+
+•
+
+Sun Certified Java Programmers: SCJP 1.4 certification exam by Sun Microsystems on 23rd May 2007
+with 86%.
+Sun Certified Web Component Developer SCWCD 1.4 certification exam by Sun Microsystems with 81%.
+
+Career Progression
+
+
+
+Senior Software Engineer, I3(acting TL) Talentica Software
+
+Duration: Sep 2012 – Till date ( 3 yrs.)
+
+Principal Accountabilities:
+• Worked as a scrum master involved in sprint planning.
+• Gather high level feature requirements/specifications.
+• feature requirements
+• Participate in high level and low level design, review design by team members.
+• Provide technical guidance to team members.
+• Ensure quality of release deliverable.
+Projects:
+• Admarvel : AdMarvel is a Premium Mobile Ad-Server, providing generic ad-serving solutions for different
+mobile environment as well as dedicated solution SDKs for widely popular Operating Systems iOS and
+Android. The platform serves over 15Bn+ ads per day with over 1Bn active unique users.
+Responsibility: To design and build a solution to facilitate real time dashboard for audience
+management platform.
+•
+
+Droover– This platform is built from scratch is a social networking platform where blogs, images and
+videos can be shared and categorized, it has functionality where a user can follow another user of same
+interest group, can view the follow feed of the user’s he is following. A user in Droover can comment, like
+and recommend blog, news, images and videos to his follower’s, User can start a discussion or interest
+group. Droover also have search functionality for blogs videos and images, user can also navigate blogs,
+images and videos in hierarchy.
+
+Tools and Technologies: Spring 4, apache-solrj 4.7.2, hibernate 4 ,apache-tomcat-8.0.3, MySQL Server
+5.1, maven 3.0.5, apache-cassandra-2.0.10, javamelody , jira, jenkins, nagios , apache-maven 3.0.5,
+eclipse-luna, putty.
+Responsibilities: Requirement gathering, designing, sprint planning, distributing/assigning task, team
+management, development , code review , system admin.
+•
+
+Vuclip – Using a model platform that is re-usable for different carriers enabling rapid application development
+the platform uses technology that enables the system to seamlessly stream video over a variable network
+speed.
+Tools and Technologies: Java, Apache-cxf, Spring 3, Hibernate 4, mysql, maven, apache-tomcat, Nagios,
+
+Jenkins continuous integration server, svn, Agile project management Jira.
+Responsibilities: Leading a team to develop platform over which carrier integration can be done in a short
+span of two weeks.
+
+
+
+Consultant, Pitney Bowes Software India Pvt Ltd.
+
+Duration: Aug 2010 – Nov 2012(2 yrs.)
+
+Projects:
+• GECO Management Portal– GMP is a platform to provide a new corporate GIS solution to SPL (Sweden
+Postcode Lotteries).
+Tools and Technologies:
+
+Core Java, Rest, JSON, GEOJSON, JQuery, Spring 3, Oracle Spatial.
+
+Responsibilities: Designing, Developing, Client support .
+•
+
+MTS – The Electronic Bill Presentment and Payment is a solution to implement Document Composition
+Platform to design and generate Physical Invoice statements for customers, Archival and retrieval of the
+bills being sent to the customers, online presentment and payment of the bills, Customer Web Self Care
+portal to engage customers online.is a platform to provide a new corporate GIS solution to SPL (Sweden
+Postcode Lotteries).
+Tools and Technologies: J2SE 5, Struts 2, EJB 3, Webservice, jboss 4, Eclipse, SQL Developer, SOAP
+UI, fiddler
+
+•
+
+Madinah Municipality– Madinah Municipality project to provide a new corporate GIS solution to AlMadinah Municipality that replaces the current multiple disparate and redundant departmental GIS
+applications and datasets. The new solution will provide a unified database model, shared business logic
+codebase, and enterprise grade services architecture for scalability, expandability and future-proofing.
+Tools and Technologies: Core Java, SOAP, REST, JSON, GEOJSON, DOJO, Oracle Spatial
+Responsibilities: Designing, Developing, Client support .
+
+
+
+Senior Software Engineer, Sopra Group.
+
+Duration: Nov 2009 – Aug 2012( 9 months.)
+
+Projects:
+• Societe General Consumer Finance– SGCF is a configurable Information Technology system that
+supports all the operations for loans It manages entire life cycle of loan contracts – provides security
+features.
+Responsibilities: Resolved many issues in an application,implemented business logic for new
+functionalities in the project, created JSP pages and made them reusable using struts tiles,responsible for
+the delivery of an application to the client.
+
+
+
+Member Technical Staff, HCL Technologies
+
+Duration: June 2006 – Nov 2009 (3.5 yrs.)
+
+Projects:
+• Direct Connect API of Air Canada– GMP Direct Connect API is set of Web Services which are
+accessed by Air Canada Travel Agents, Booking Agencies and/or individual users of Air Canada. Direct
+Connect is Travel domain project in which Open Travel Alliance compliance XML is sent from third party
+containing data to server and received by web service exposed method via HTTP request in SOAP
+envelop.
+Responsibilities: Performing Requirement Analysis from the Functional Specification,preparing
+High/Low Level designs, implementing the requirements through coding by creating Web Services and
+using a combination of latest XML & JAVA Technologies & coding standards,schema designing &
+modifications as per requirements, and making use of XSL to transform XML to XML or XML to
+HTML,development of component for XML Parsing & binding component using JAXB,packaging and
+deployment of Release on the Air Canada UAT Server.
+•
+
+Priceline.com – Priceline.com's travel research site MyTravelGuide.com provides comprehensive
+information about attractions, locations, possible travel options besides user reviews for the visitors.
+Responsibilities: Played the role of Developer for the project,involved in modifying and creating JSP’s
+and Servlets, developed and enforced standards to ensure the quality assurance achievement in all
+phases of SDLC, prepared Daily status reports for clients.
+
+•
+
+ATG-ROAD – Development and Maintenance of ATG Products Installer for Windows and Unix,Makes
+patches,Road builds ATG's products, Improves Dynamo's database, Manages the bug tracking system
+(Bugzilla), Maintains ATG's source files (Perforce).
+Responsibilities: Configured ATG2006.3 with different Application Servers on different Operating
+Systems, developed different Installer using Install Anywhere. Developed installer of product like ATG
+Site Analytics 2006.5 and launched pith, developed Swing UI Panel which is used to configure WAS6.0.1
+with ATG Platform Installer Development of Swing UI Panel which is used to configure WAS6.0.1 with
+ATG Platform Installer Panel for Select WAS AppServer with ATG2006.5,developed a GUI interface to
+read an xml file and configure ATG according to specification given in XML using Swing and DOM
+parsing and collection,developed a GUI interface to select a product from a GUI and read the necessary
+product from the XML and copy it into a XML using DOM parsing and File Input Output, developed ecommerce portal on ATG Platform.
+
+Education
+• Talentica Software Pvt. Ltd, Pune: Nov 2012 – Till date (3 yrs.)
+• B.E(Electronics Engineering) ,2002-2006, NIT-Surat
+
+

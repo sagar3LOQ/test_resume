@@ -1,0 +1,366 @@
+                         
+
+From last how many  years, the candidate has been using (experience)
+the following technologies?  
+
+Hibernate                           
+                  -  4 YEAR &
+CURRENT                                �
+�              
+
+Spring                  
+                                  -  4
+YEAR &
+CURRENT                                �
+�               
+
+Web
+Services                                
+        -  USED(NOT
+MUCH)                                 �
+�              
+
+Core
+Java                                  
+             -  5years
+
+Design
+Patterns                                
+    -    YES
+
+UML
+design                                 
+          -    
+
+Build Tools (Maven/Ant)                    -   
+Ant- 
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools
+etc.]
+
+WEBLOGIC/WEBSPHERE/ECLIPSE
+
+Db: ORACLE
+
+ 
+
+Mobile No: +91-9028584112                         	             E-mail:
+vipulshelar@gmail.com
+
+				                   
+
+OBJECTIVE: 
+
+To work in an enterprise and strive through industrious hard work to
+achive the vision of the organization, that reflects the individual
+growth.
+
+PROFILE:
+
+Six plus Year of IT experience in Designing, Development and
+Maintenance.
+
+Good exposure to J2EE, Core Java, Spring, Struts, Hibernate, SQL,
+PL/SQL, PHP, Joomla, Apache Tomcat, IBM Websphere.
+
+Familiar with all aspects of Software Development Life Cycle (SDLC) and
+have been extensively involved in Design and Development phases.
+
+Good Team player.
+
+EDUCATIONAL QUALIFICATION:
+
+C-DAC in Feb-2007 from IET Kothrud, Pune.
+
+Bachelor of Engineering (B.E. Electrical) in May 2006 from P.E.S. Modern
+College of Engineering, Pune.
+
+Diploma in Electrical Engineering from Institute of Petrochemical
+Engineering, Lonere, Raigad.
+
+CERTIFICATIONS:
+
+Sun Certified Java Programmer SCJP.
+
+Oracle Certified Associate for oracle 9i (SQL, PL/SQL).
+
+SKILLS
+
+Language                   	:  Java (jdk 1.5, 1.6)
+
+Web Technologies	: J2EE (JDBC, JSP, Servlet), Spring, Struts, Hibernate,
+PHP, HTML, JavaScript, GWT
+
+Reporting Tool	:  Cognos 8.2
+
+Database			:  Oracle, MYSQL.
+
+Servers                      	:  Apache Tomcat, IBM Websphere
+
+Tools                          	:  NetBean, Eclipse, Toad, IBM RAD
+
+EXPERIENCE
+
+Working as Senior Software Engineer with Synerzip, Pune from 3rd Sep
+2012 to till date.
+
+Worked as Senior Software Engineer with United Health Group, Gurgaon
+from 14th June 2010 to 30th Aug 2012.
+
+Worked as Software Engineer with Rainbow InfoTech (India) Pvt. ltd, Pune
+from 10th Dec 2007 to 07th June 2010.
+
+PROJECTS 
+
+1. Tangoe:
+
+ Environment: Struts, IBATIS, Oracle 11g, JSP, Servlet, JQuery, JBoss.
+
+Team size: 11
+
+Description: Tangoe is a leading global provider of Communications
+Lifecycle Management (CLM) software and services to a wide range of
+global enterprises. CLM encompasses the entire lifecycle of an
+enterprise’s communications assets and services, including planning
+and sourcing, procurement and provisioning, inventory and usage
+management, mobile device management, invoice processing, expense
+allocation and accounting, and asset decommissioning and disposal.
+Tangoe’s Communications Management Platform (CMP) is an on-demand
+suite of software designed to manage and optimize the complex processes
+and expenses associated with this lifecycle for both fixed and mobile
+communications assets and services. Tangoe’s customers can also manage
+their communications assets and services by engaging Tangoe’s client
+service group.
+
+Methodology Followed: Agile
+
+Responsibilities:
+
+Developing code using JSP on client side and using Struts with IBATIS on
+server side.
+
+Discussions with clients.
+
+Maintaining and Enhancing the functionalities of application.
+
+2. FuelQuest:
+
+ Environment: Spring, Hibernate, Oracle 11g, GWT, JBoss.
+
+Team size: 20
+
+Description: FuelQuest provides on-demand, web-based supply chain
+management and tax automation software and services for fuel suppliers,
+distributors and buyers in global downstream energy. FuelQuest’s Fuel
+Management System (FMS) automates all aspects of the fuel management
+process from procurement, inventory management, demand forecasting,
+strategic sourcing and financial reconciliation to margin analysis and
+environmental compliance monitoring.
+
+Methodology Followed: Agile
+
+Responsibilities:
+
+Developing code using JSP on client side and using Spring with Hibernate
+on server side.
+
+Discussions with clients.
+
+Maintaining and Enhancing the functionalities of application.
+
+3. Strawberry:
+
+Environment: Spring, Hibernate, Flex, JSP, HTML, Oracle 10g, IBM RAD,
+Toad, Websphere.
+
+Team size: 23
+
+Description: Health care related social networking application. It
+provides a social networking platform for healthcare professionals and
+is also a platform where multiple applications can be hosted that can be
+accessed by the users. The complete project is hosted on CISCO cloud.
+
+Methodology Followed: Agile
+
+Responsibilities:
+
+Preparing technical design document.
+
+Writing the SQL, PL/SQL queries and required database objects. Optimize
+them where possible.
+
+Developing code using Flex on client side and using Spring with
+Hibernate on server side.
+
+Exposing APIs as web service using CXF.
+
+Implementing the logging mechanism in the application including security
+logging. 
+
+Discussions with clients.
+
+Mentoring junior resource and help then to complete their tasks in time.
+
+4. Marketplace Admin:
+
+Environment: Spring, Hibernate, Flex, Oracle 10g, IBM RAD, Toad.
+
+Team size: 5
+
+Description: Heath care related marketplace application. (Rest
+information highly confidential).
+
+Methodology Followed: Agile
+
+Responsibilities:
+
+Requirement analysis.
+
+Designing the application.
+
+Developing code on the client side using Flex and server side with
+spring and hibernate.
+
+Code reviews and technical issue analysis. 
+
+5.  Workflow Management:
+
+Environment: Spring, Hibernate, Flex, Oracle 10g, IBM RAD, Toad.
+
+Team size: 11
+
+Description: Workflow management is the tool, through which user can
+define processing steps as activities and complete process in terms of
+these activities. 
+
+Methodology Followed: Agile
+
+Responsibilities:
+
+Requirement analysis.
+
+Designing the application.
+
+Developing code on the client side using Flex.
+
+Code reviews and technical issue analysis. 
+
+Client discussions
+
+6.  Connected Care
+
+Environment: Spring, Hibernate, Flex, Oracle 10g, IBM RAD, Toad,
+Websphere.
+
+Team size: 15
+
+Description: Connected Care, is a new, convenient way for people in
+rural areas to get specialized medical care, where access to a
+specialist isn't always easy. Connected Care uses sophisticated
+high-definition audio/video technology to deliver a telehealth
+experience remarkably similar to an in-person visit with a doctor.
+
+Methodology Followed: Waterfall
+
+Contribution:
+
+Responsible for designing the application and prepare technical design
+document.
+
+Responsible for writing the optimized SQL, PL/SQL queries and required
+database objects.
+
+Develop code using Flex on client side and using Spring with Hibernate
+on server side.
+
+Contribute to the build and deployment of the application in Websphere
+application server.
+
+Technical problem analysis and coming up with multiple solutions.
+
+Involved in the discussions with the client team.
+
+Providing KT to the new members in the team.
+
+Responsible for mentoring junior resources
+
+7. Team Force Application 
+
+Environment: Swing, Oracle 9i, NetBean, Toad, ANT.
+
+Team size: 6
+
+Description: The project involves the requirements for custom developing
+a locally deployable Resource Management Application, ‘Team Force
+Application’. This project manages the complete lifecycle of resources
+from recruitment to staff management and closure as per the stated
+workflow.
+
+Methodology Followed: Waterfall
+
+Contribution:
+
+Responsible for requirement analysis.
+
+Responsible for designing the application
+
+Responsible for writing the optimized SQL, PL/SQL queries and required
+database objects.
+
+Develop code using Swings.
+
+Contributed in code reviews.
+
+Involved in the technical discussions and provided multiple solutions
+for the technical issues.
+
+8. VR Library
+
+Environment: Joomla 1.5, PHP 5.0, Apache, MySQL.
+
+Team size: 2
+
+Description: VRLibrary is the most innovative way to connect true Web
+2.0 with curriculum content.  This innovative application provides
+students with a hosted web space to upload their videos, audio files,
+pictures, and text content, allowing your students to become “push
+button” publishers.  A shared learning environment is created which
+allows others in the district to utilize the published content for other
+educational purposes.  In addition, students are able to rate other's
+uploaded multimedia and the more a person’s videos, images, and other
+uploaded content is viewed by fellow classmates, teachers and/or
+administrators, the higher that student’s membership level will be. By
+creating their own unique entries and videos and having them published
+online, students are recognized not only for the work they are doing,
+but for their status on VRLibrary. 
+
+Methodology Followed: Waterfall
+
+Contribution:
+
+Responsible for requirement analysis.
+
+Responsible for designing and maintaining the application.
+
+Created components as per client requirement using PHP.
+
+Responsible for writing the SQL queries and required database objects.
+
+Develop code using PHP.
+
+Contribute to the deployment and support of the product.
+
+Personal Information:
+
+Name			: Vipul Vijay Shelar.
+
+	Date of Birth	: 05/04/1984.
+
+	Marital Status	: Married.
+
+	Passport Number	: G6586137
+
+	Address	: 804, Vakil Nagar, Erandwane, Pune.
+
+	Current Location         : Pune.
+

@@ -1,0 +1,254 @@
+From last how many  years, the candidate has been using (experience) the following technologies?  
+
+
+
+Hibernate                                              -  2 year&current                                              
+
+Spring                                                     -  1 year& current                                                
+
+Web Services                                        -        3.5 years                                        
+
+Core Java                                               -   3.5years
+
+Design Patterns                                    -    2 years
+
+UML design                                           -     
+
+Build Tools (Maven/Ant)                    -    Ant   
+
+Others if any, specify [Application Servers, IDE, Code Quality Tools etc.]
+
+  Apache ,weblogic,tomcat
+
+		
+
+		Siva Sankar Reddy B
+
+Mobile   : +91 9248708087
+
+E-Mail   : shankar.shiva1010@yahoo.in
+
+
+
+
+
+Experience Summery
+
+
+
+
+
+					Around 3.5 years of experience on Java and J2EE Technologies.
+
+					Expertise in Multi-tier, client/server and Web Enabled development with JAVA 6.0 and related technologies like JSP, Servlets, JDBC, JavaScript, jQuery Design patterns, Spring Frame Work, Hibernate etc.
+
+					Exposure to domains like campus and Retail etc.
+
+					Expertise in developing applications using Weblogic  and Tomcat servers.
+
+					Expertise in developing applications using Eclipse and MyEclipse.
+
+					Working experience with Oracle, MYSQL, Postgres.
+
+					Conversant with XML, DOM and SAX parsers and Webservices.
+
+
+
+
+
+Technical Skills
+
+						
+
+Operating System		:     Windows XP, Ubuntu.
+
+Languages			:     JAVA
+
+Web based Utilities		:    JavaScript, jQuery, AJAX, JSON
+
+J2EE Technology		:    JSP, Servlets, Struts, Spring, Hibernate
+
+Web Technologies		:    HTML, XML, Log4j
+
+RDBMS			:    Oracle, MYSQL
+
+Web Server			:    Tomcat 6.0
+
+Application Server		:    Web Logic.
+
+    Tools				:    SVN, Maven, JUNIT
+
+    IDEs				:    Eclipse, MyEclipse
+
+Academic profile
+
+
+
+		Master in Computer Applications from  Vignana Bharathi Institute Of Technology, Hyderabad affiliated to JNTU University in 2011 with distinction
+
+		Bachelor of commerce from Reddy College, Guntur affliiated to Acharya Nagarjuna University in 2008 with First class.
+
+		IPCC from Sri Chaitanya Junior College, Guntur in 2005 with distinction.
+
+		SSC from Viswa Jyothi Public School, Guntur in 2003 with  distinction.
+
+
+
+Work Experience
+
+	
+
+	Working as a Software Engineer in Astute Business Solutions, Hyderabad from October 2011 to till date. (Client : Regenesys Business School Johneesburg)
+
+	Worked as a Software Engineer in Nacre Software Services, Hyderabad from June 2011 to Sep 2011.
+
+
+
+																																										
+
+
+
+
+
+Projects Summery
+
+
+
+
+#Project 1	: OpeneCampus
+
+Role		: Consultant
+
+Period		: From October 2011 to till date
+
+Environment	: Java, J2EE,Spring, Hibernate, JavaScript, jQuery, XML.
+
+
+
+Description: Openecampus is the campus solution software targeted to meet the needs of Universities, Colleges,schools on a worldwide scale. It address the business functions of any educational entity . Admissions, Enrollments, Curriculum Management, Grading and Graduation, Logistics -Hostel , Mess and Transport , Library , Assets, Campus Financial s, Campus HR
+
+
+
+Responsibilities: 
+
+
+
+Participated in cross-functional teams.
+
+Interacted with client about the requirement.
+
+Involved in deployment, release and support.
+
+Coordinated with the QA team.
+
+Involved in Unit testing
+
+
+
+
+
+Client:
+
+Regenesys Business School is one of the leaders in its field in Southern Africa. Over the past 14 years, we have educated over 65 000 students from over 1000 of the most reputable organizations in South Africa and around the world. Amongst these are the EU, The Presidency, Standard Bank, Ned bank, the JSE, Anglo American and many other major corporate, government and development sector organizations.
+
+
+
+On Site : I have been to South Africa 3 times for enhancements and developing new requirements at crucial times. 
+
+
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Project 2	:  Moodle Integartion
+
+Client		:  Regenesys
+
+Role		:  Software Engineer.
+
+Period		:  From January 2012 to March 2012
+
+																															Environment	:  Eclipse, Java1.5, Rest full webservices.
+
+																															
+
+Description:
+
+
+
+       Moodle is a learning platform designed to provide educators, administrators and learners with a single robust, secure and integrated system to create personalized learning environments.
+
+
+
+Responsibilities:
+
+
+
+		Integrated Moodle and Openecampus
+
+		Involved in the development of Client Webservices. 
+
+		Involved in the development of Rest full Webservices.
+
+		
+
+		
+
+		
+
+#Project 3	:  Automation Software for Naresh I Technologies
+
+Client		:  Naresh
+
+Role		:  Software Engineer.
+
+Period		:  From June 2011 to till Oct 2011
+
+Environment		:  Java 5.0, Servlets, Weblogic, Webservices.
+
+
+
+             
+
+Description :The Project is to develop an intranet application for Naresh I Technologies which is a software training institute offering varied technical courses. The project automates the process of enquiry and admission details of courses and facilitates the counselor, operator, admin by making their process easy in adding, deleting and updating course, package, technologies & faculty information. In addition, it will also facilitate the higher management to search the number of enquiries and admissions depending upon automation system to reduce the paperwork and increase accuracy in number of enquiries and admission details in a period of time.
+
+
+
+Responsibilities:
+
+
+
+Gathering the complete Functional Requirements for the module and documenting them.
+
+Preparing the Module Understanding Document /Design Document.
+
+Ownership of the Admissions module which includes end-to-end designing, developing and testing the module.
+
+Followed Three Tier architecture to develop this module.
+
+Proactive participation in integration, Functional Testing and Deployment.
+
+Daily interaction with the team and report generation as per the need basis.
