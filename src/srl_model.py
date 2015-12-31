@@ -125,6 +125,14 @@ class genSRLVec():
 
 		self.result = self.getAnalysis(self.Y_test,self.Y_pred)
 
+
+	def trainTotal(self):
+
+		td = TrainData()
+
+		self.x_wt, self.Ylabels,self.fn_train = td.train_model(self.train_dirname, self.w2v_model_path,self.size)
+
+
 ## Print results 
 	def printAnalysis(self,true_pred,y_pred1):
 
@@ -188,6 +196,8 @@ class genSRLVec():
 			for i in test:			
 				fn_test.append(fn_total[i])
 			fn = "Output_srl_" + str(j) + ".tsv"
+			print "\n\nCase:: " + str(j) + "\n"
+			self.printAnalysis(y_test,y_pred)
 			self.saveNFoldResult2file(y_test,y_pred,fn_test,fn)
 
 
@@ -195,15 +205,15 @@ class genSRLVec():
 
 
 if __name__ == '__main__': 
-	train_dirname = '/home/viswanath/workspace/resume_data/res_dir/train'
-	test_dirname = '/home/viswanath/workspace/resume_data/res_dir/test'
-	w2v_model_path = '/home/viswanath/workspace/resume_data/res_dir/model/w2v_model.mod'
+	train_dirname = '/home/viswanath/workspace/test_resume/train'
+	test_dirname = '/home/viswanath/workspace/test_resume/test'
+	w2v_model_path = '/home/viswanath/workspace/test_resume/model/w2v_model_100.mod'
 	size = 100
 
 	gsl = genSRLVec(train_dirname,test_dirname,w2v_model_path,size)
-	gsl.start()
-	gsl.printResult()
-	gsl.saveResult2file("srl_result.tsv")
+	gsl.trainTotal()
+#	gsl.printResult()
+#	gsl.saveResult2file("srl_result_v5.tsv")
 	gsl.NFoldTest()
 	print gsl.getResult()
 
