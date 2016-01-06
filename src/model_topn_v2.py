@@ -48,7 +48,7 @@ def cleanse_data(text):
 	for c in wF:
         	text =text.replace(c," ")	
 
-	return text
+	return text.lower()
 
 
 ## Training data class
@@ -107,7 +107,7 @@ class TrainData():
 # find top N words from TFIDF model
 	def top_n_words_doc(self,text,tfidf_model,topn=20):
 		
-		token = text.lower().split()
+		token = text.split()
 		words = {}
 	
 		for w in token:
@@ -115,12 +115,12 @@ class TrainData():
 			words[w] = wt
 
 		lenw = len(words)
-	#	print lenw, len(token)
+
 		if (lenw < topn): topn = lenw
 
 		sorted_x = sorted(words.items(), key=operator.itemgetter(1),reverse=True)
 		listd = sorted_x[0:topn]
-	#	print listd
+
 		word= []
 		for i in range((topn)):
 			word.append(listd[i][0])
@@ -140,17 +140,16 @@ class TrainData():
 		X = X1 + X2
 		
 		y = [1] * len(X1) + [0] * len(X2)
-	
 
 		regr = LogisticRegression().fit(X, y)
 		docvector = matutils.unitvec(regr.coef_)
 		return docvector
-#		pprint(get_closest_words_to_vec(docvector,model,50))
+
 
 # Generate wieghts from Logistic Regression Model
 	def gen_LR_weight(self, words,text, w2v_model,tfidf_model, ndim):
 		model = self.load_w2vmodel(w2v_model)
-		text = text.lower().split()
+		text = text.split()
 
 		notfound = 0
 		denom = 0
@@ -207,7 +206,7 @@ class PredictData():
 	def predict_model(self, dirname, w2v_model_path,topN,ndim):
 		tfidf_model = self.get_tfidf_model(dirname)
 		X = []
-	#	label_data = []
+	
 		fn = []
 		for fname in os.listdir(dirname):
 			print "Procession = " + fname
@@ -216,13 +215,10 @@ class PredictData():
 			text = cleanse_data(raw_text)
 			nword = self.top_n_words_doc(text,tfidf_model,topN)
 			X_coeff = self.gen_LR_weight( nword,text, w2v_model_path,tfidf_model, ndim)
-	#		if fname[-10:-4] == 'accept':
-	#			label = 1
-	#		else:
-	#			label = 0
+
 			fn.append(fname)
 			X.append(X_coeff[0])
-	#		label_data.append(label)
+	
 		return X, fn
 
 
@@ -252,7 +248,7 @@ class PredictData():
 # Generate wieghts from Logistic Regression Model
 	def gen_LR_weight(self, words,text, w2v_model,tfidf_model, ndim):
 		model = self.load_w2vmodel(w2v_model)
-		text = text.lower().split()
+		text = text.split()
 
 		notfound = 0
 		denom = 0
@@ -442,7 +438,7 @@ if __name__ == '__main__':
 #	total_dirname = '/home/viswanath/workspace/resume_data/res_dir/total'
 	test_dirname = ''
 	predict_dirname = '/home/viswanath/workspace/test_resume/predict'
-	w2v_model_path = '/home/viswanath/workspace/test_resume/model/w2v_model_100.mod'
+	w2v_model_path = '/home/viswanath/workspace/test_resume/model/w2v_model_100v2.mod'
 	size = 100
 	topNA = [300]  
 	for topN in topNA:
