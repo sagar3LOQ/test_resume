@@ -40,11 +40,15 @@ def cleanse_data(text):
 	temp = re.sub(r'[\w\.-]+@[\w\.-]+'," EMAIL ",temp)
 	temp = re.sub(r'(((\+91|0)?( |-)?)?\d{10})',' MOBILE ',temp)
 	temp = re.sub(r"[\r\n]+[\s\t]+",'\n',temp)	
+
+	temp = re.sub(r"\.[\s\t\n]+",'\n',temp)	
+
 	wF = set(string.punctuation) - set(["+"])
+
 	for c in wF:
         	temp =temp.replace(c," ")	
 
-	return temp
+	return temp.lower()
 
 
 class TrainData():
