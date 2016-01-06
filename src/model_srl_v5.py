@@ -40,11 +40,12 @@ def cleanse_data(text):
 	temp = re.sub(r'[\w\.-]+@[\w\.-]+'," EMAIL ",temp)
 	temp = re.sub(r'(((\+91|0)?( |-)?)?\d{10})',' MOBILE ',temp)
 	temp = re.sub(r"[\r\n]+[\s\t]+",'\n',temp)	
+	temp = re.sub(r"\.[\s\t\n]+",'\n',temp)	
 	wF = set(string.punctuation) - set(["+"])
 	for c in wF:
         	temp =temp.replace(c," ")	
-
-	return temp
+	
+	return temp.lower()
 
 
 class TrainData():
@@ -178,7 +179,7 @@ class genSRLVec():
 		input_filename.close()
 
 
-	def NFoldTest(self, iter_N=5,split =0.20,random_state=0):
+	def NFoldTest(self, iter_N=5,split =0.40,random_state=0):
 
 		x_total = self.x_wt #+ self.xTest_wt
 		y_total = self.Ylabels #+ self.Y_test
