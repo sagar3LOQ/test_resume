@@ -87,7 +87,7 @@ class TrainData():
 			f = open(os.path.join(dirname, fname),"r")
 			raw_text = str.decode(f.read(), "UTF-8", "ignore")
 			text = cleanse_data(raw_text)
-			nword = self.top_n_words_doc(text,tfidf_model,topN)
+			nword = self.top_n_words_doc( w2v_model_path,text,tfidf_model,topN)
 		#	print nword
 
 	#		X_coeff = self.gen_LR_weight( nword,text, w2v_model_path,tfidf_model, ndim)
@@ -105,14 +105,15 @@ class TrainData():
 
 
 # find top N words from TFIDF model
-	def top_n_words_doc(self,text,tfidf_model,topn=20):
-		
+	def top_n_words_doc(self,w2v_model,text,tfidf_model,topn=20):
+		model = self.load_w2vmodel(w2v_model)
 		token = text.split()
 		words = {}
 	
 		for w in token:
-			wt = tfidf_model.idf_[tfidf_model.vocabulary_[w]] if w in tfidf_model.vocabulary_ else 0
-			words[w] = wt
+			if w in model.vocab:
+				wt = tfidf_model.idf_[tfidf_model.vocabulary_[w]] if w in tfidf_model.vocabulary_ else 0
+				words[w] = wt
 
 		lenw = len(words)
 
@@ -135,7 +136,9 @@ class TrainData():
 		X1 = [tfidf_model.idf_[tfidf_model.vocabulary_[i]]* model[i] for i in pos_words if i in model_vocab if i in model.vocab]
 		if len(neg_words) == 0:
 			n_neg = 150
+			sim_pos_words = [x[0] for x in model.most_similar(pos_words, topn=300)]
 			neg_vocab = set(model_vocab) - set(pos_words)
+			neg_vocab = set(neg_vocab) - set(sim_pos_words)
 			neg_words = set(random.sample(neg_vocab,n_neg)) 
 		X2 = [tfidf_model.idf_[tfidf_model.vocabulary_[i]]* model[i] for i in neg_words if i in model.vocab]
 		X = X1 + X2
