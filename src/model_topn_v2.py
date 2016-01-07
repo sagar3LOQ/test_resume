@@ -49,7 +49,7 @@ def cleanse_data(text):
         	text =text.replace(c," ")	
 
 	return text.lower()
-
+#	return text
 
 ## Training data class
 
@@ -66,7 +66,7 @@ class TrainData():
 
 ## get tfidf model trained from given directory 'dirname' 
 	def get_tfidf_model(self, dirname):
-		dirname = "/home/viswanath/Downloads/total_resume/temp_files"
+		#dirname = "/home/viswanath/Downloads/total_resume/temp_files"
 		data = Sentences(dirname)
 		tfidf_vectorizer = TfidfVectorizer(stop_words='english')
 		tfidf_matrix = tfidf_vectorizer.fit_transform(data)
@@ -112,8 +112,9 @@ class TrainData():
 	
 		for w in token:
 			if w in model.vocab:
-				wt = tfidf_model.idf_[tfidf_model.vocabulary_[w]] if w in tfidf_model.vocabulary_ else 0
-				words[w] = wt
+				if w in tfidf_model.vocabulary_:
+					wt = tfidf_model.idf_[tfidf_model.vocabulary_[w]] 
+					words[w] = wt
 
 		lenw = len(words)
 
@@ -132,21 +133,27 @@ class TrainData():
 	def get_docvec(self,w2v_model,tfidf_model, pos_words, text,neg_words=[]):
 		model = self.load_w2vmodel(w2v_model)
 		model_vocab =  tfidf_model.vocabulary_
-
+		tokens = text.split()
 		X1 = [tfidf_model.idf_[tfidf_model.vocabulary_[i]]* model[i] for i in pos_words if i in model_vocab if i in model.vocab]
 		if len(neg_words) == 0:
-			n_neg = 150
-			sim_pos_words = [x[0] for x in model.most_similar(pos_words, topn=300)]
-			neg_vocab = set(model_vocab) - set(pos_words)
+			n_neg = 200
+#			sim_pos_words = [x[0] for x in model.most_similar_cosmul(pos_words, topn=200)]
+			sim_pos_words = []
+			for word in pos_words:
+				sim_pos_words += [x[0] for x in model.most_similar(word, topn=15)]
+			neg_vocab = set(model.vocab) - set(pos_words)
+			neg_vocab = set(neg_vocab) - set(tokens)
 			neg_vocab = set(neg_vocab) - set(sim_pos_words)
 			neg_words = set(random.sample(neg_vocab,n_neg)) 
-		X2 = [tfidf_model.idf_[tfidf_model.vocabulary_[i]]* model[i] for i in neg_words if i in model.vocab]
+		#	print neg_words
+		X2 = [tfidf_model.idf_[tfidf_model.vocabulary_[i]]* model[i] for i in neg_words if i in model_vocab]
 		X = X1 + X2
 		
 		y = [1] * len(X1) + [0] * len(X2)
 
 		regr = LogisticRegression().fit(X, y)
-		docvector = matutils.unitvec(regr.coef_)
+#		docvector = matutils.unitvec(regr.coef_)
+		docvector = regr.coef_
 		return docvector
 
 
@@ -181,7 +188,7 @@ class TrainData():
 		
 		logit = LogisticRegression(C=1.0).fit(doc_vec, label)
 
-		return matutils.unitvec(logit.coef_)
+		return logit.coef_
 
 
 
@@ -411,7 +418,7 @@ class genTopNVec:
 		
 		j =0
 		fn_test = []
-		fnRes = "Output_topN_" + str(self.topN)+"_split_"+str(split*100) + ".tsv"
+		fnRes = "Output_topN_" + str(self.topN)+"_split_"+str(split*100) + "_mostSim_more_individual_15.tsv"
 		fp = open(fnRes,"wb")
 		fp.write("matthews_corrcoef\troc_auc_score\tprecision[0]\tprecision[1]\trecall[0]\trecall[1]\tfscore[0]\tfscore[1]\tsupport_0\tsupport_1\n")
 		for train, test in kf_total:
@@ -442,9 +449,9 @@ if __name__ == '__main__':
 #	total_dirname = '/home/viswanath/workspace/resume_data/res_dir/total'
 	test_dirname = ''
 	predict_dirname = '/home/viswanath/workspace/test_resume/predict'
-	w2v_model_path = '/home/viswanath/workspace/test_resume/model/w2v_model_100.mod'
+	w2v_model_path = '/home/viswanath/workspace/test_resume/model/w2v_model_100v2.mod'
 	size = 100
-	topNA = [100]  
+	topNA = [200]  
 	for topN in topNA:
 		print "\nFor TopN N=" + str(topN) + "\n"
 		gt = genTopNVec(train_dirname,test_dirname,predict_dirname,w2v_model_path,size,topN)
