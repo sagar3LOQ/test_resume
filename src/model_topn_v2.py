@@ -134,8 +134,9 @@ class TrainData():
 
 		X1 = [tfidf_model.idf_[tfidf_model.vocabulary_[i]]* model[i] for i in pos_words if i in model_vocab if i in model.vocab]
 		if len(neg_words) == 0:
-			n_neg = 300
-			neg_words = set(random.sample(model_vocab,n_neg)) - set(pos_words)
+			n_neg = 150
+			neg_vocab = set(model_vocab) - set(pos_words)
+			neg_words = set(random.sample(neg_vocab,n_neg)) 
 		X2 = [tfidf_model.idf_[tfidf_model.vocabulary_[i]]* model[i] for i in neg_words if i in model.vocab]
 		X = X1 + X2
 		
@@ -177,7 +178,7 @@ class TrainData():
 		
 		logit = LogisticRegression(C=1.0).fit(doc_vec, label)
 
-		return logit.coef_
+		return matutils.unitvec(logit.coef_)
 
 
 
@@ -438,13 +439,13 @@ if __name__ == '__main__':
 #	total_dirname = '/home/viswanath/workspace/resume_data/res_dir/total'
 	test_dirname = ''
 	predict_dirname = '/home/viswanath/workspace/test_resume/predict'
-	w2v_model_path = '/home/viswanath/workspace/test_resume/model/w2v_model_100v2.mod'
+	w2v_model_path = '/home/viswanath/workspace/test_resume/model/w2v_model_100.mod'
 	size = 100
-	topNA = [300]  
+	topNA = [100]  
 	for topN in topNA:
 		print "\nFor TopN N=" + str(topN) + "\n"
 		gt = genTopNVec(train_dirname,test_dirname,predict_dirname,w2v_model_path,size,topN)
-		gt.NFoldTest(iter_N=10,split =0.40)
+		gt.NFoldTest(iter_N=10,split =0.27)
 
 #	gt.printResult()
 #	gt.saveResult2file("topN_result.tsv")
