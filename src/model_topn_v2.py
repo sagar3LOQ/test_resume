@@ -66,13 +66,13 @@ class TrainData():
 
 ## get tfidf model trained from given directory 'dirname' 
 	def get_tfidf_model(self, dirname):
-		#dirname = "/home/viswanath/Downloads/total_resume/temp_files"
+
 		data = Sentences(dirname)
 		tfidf_vectorizer = TfidfVectorizer(stop_words='english')
 		tfidf_matrix = tfidf_vectorizer.fit_transform(data)
 		mat_array = tfidf_matrix.toarray()
 		fn = tfidf_vectorizer.get_feature_names()
-	#	print fn
+
 		return tfidf_vectorizer
 
 
@@ -88,9 +88,6 @@ class TrainData():
 			raw_text = str.decode(f.read(), "UTF-8", "ignore")
 			text = cleanse_data(raw_text)
 			nword = self.top_n_words_doc( w2v_model_path,text,tfidf_model,topN)
-		#	print nword
-
-	#		X_coeff = self.gen_LR_weight( nword,text, w2v_model_path,tfidf_model, ndim)
 			X_coeff = self.get_docvec( w2v_model_path,tfidf_model, nword, text)
 
 
@@ -106,12 +103,12 @@ class TrainData():
 
 # find top N words from TFIDF model
 	def top_n_words_doc(self,w2v_model,text,tfidf_model,topn=20):
-		model = self.load_w2vmodel(w2v_model)
+		w2vModel = self.load_w2vmodel(w2v_model)
 		token = text.split()
 		words = {}
 	
 		for w in token:
-			if w in model.vocab:
+			if w in w2vModel.vocab:
 				if w in tfidf_model.vocabulary_:
 					wt = tfidf_model.idf_[tfidf_model.vocabulary_[w]] 
 					words[w] = wt
@@ -131,64 +128,32 @@ class TrainData():
 
 
 	def get_docvec(self,w2v_model,tfidf_model, pos_words, text,neg_words=[]):
-		model = self.load_w2vmodel(w2v_model)
-		model_vocab =  tfidf_model.vocabulary_
+		w2vModel = self.load_w2vmodel(w2v_model)
+		tfidf_model_vocab =  tfidf_model.vocabulary_
 		tokens = text.split()
-		X1 = [tfidf_model.idf_[tfidf_model.vocabulary_[i]]* model[i] for i in pos_words if i in model_vocab if i in model.vocab]
+		X1 = [tfidf_model.idf_[tfidf_model.vocabulary_[i]]* w2vModel[i] for i in pos_words if i in tfidf_model_vocab if i in w2vModel.vocab]
 		if len(neg_words) == 0:
 			n_neg = 200
-#			sim_pos_words = [x[0] for x in model.most_similar_cosmul(pos_words, topn=200)]
+#			sim_pos_words = [x[0] for x in w2vModel.most_similar_cosmul(pos_words, topn=200)]
 			sim_pos_words = []
 			for word in pos_words:
-				sim_pos_words += [x[0] for x in model.most_similar(word, topn=10)]
-			neg_vocab = set(model.vocab) - set(pos_words)
+				sim_pos_words += [x[0] for x in w2vModel.most_similar(word, topn=10)]
+			neg_vocab = set(w2vModel.vocab) - set(pos_words)
 			neg_vocab = set(neg_vocab) - set(tokens)
 			neg_vocab = set(neg_vocab) - set(sim_pos_words)
 			neg_words = set(random.sample(neg_vocab,n_neg)) 
-		#	print neg_words
-		X2 = [tfidf_model.idf_[tfidf_model.vocabulary_[i]]* model[i] for i in neg_words if i in model_vocab]
+		
+		X2 = [tfidf_model.idf_[tfidf_model.vocabulary_[i]]* w2vModel[i] for i in neg_words if i in tfidf_model_vocab]
 		X = X1 + X2
 		
 		y = [1] * len(X1) + [0] * len(X2)
 
 		regr = LogisticRegression().fit(X, y)
-#		docvector = matutils.unitvec(regr.coef_)
+
 		docvector = regr.coef_
 		return docvector
 
 
-# Generate wieghts from Logistic Regression Model
-	def gen_LR_weight(self, words,text, w2v_model,tfidf_model, ndim):
-		model = self.load_w2vmodel(w2v_model)
-		text = text.split()
-
-		notfound = 0
-		denom = 0
-		nvecs = 0
-		label = []
-		doc_vec = []
-		wt =0
-	#	print len(text), len(words)
-		for w in text:
-			if w in model:
-				wt = tfidf_model.idf_[tfidf_model.vocabulary_[w]] if w in tfidf_model.vocabulary_ else 0
-				ve = np.multiply(model[w], wt)
-
-				doc_vec.append(ve)				
-				if w in words: 
-					label.append(1)
-				else: 
-					label.append(0)
-				nvecs += 1
-				denom += wt
-			else:
-				notfound += 1
-		if denom == 0:
-			return []
-		
-		logit = LogisticRegression(C=1.0).fit(doc_vec, label)
-
-		return logit.coef_
 
 
 
@@ -220,12 +185,12 @@ class PredictData():
 	
 		fn = []
 		for fname in os.listdir(dirname):
-			print "Procession = " + fname
+			print "Processing :: " + fname
 			f = open(os.path.join(dirname, fname),"r")
 			raw_text = str.decode(f.read(), "UTF-8", "ignore")
 			text = cleanse_data(raw_text)
 			nword = self.top_n_words_doc(text,tfidf_model,topN)
-			X_coeff = self.gen_LR_weight( nword,text, w2v_model_path,tfidf_model, ndim)
+			X_coeff = self.get_docvec( w2v_model_path,tfidf_model, nword, text)
 
 			fn.append(fname)
 			X.append(X_coeff[0])
@@ -233,17 +198,23 @@ class PredictData():
 		return X, fn
 
 
+
+
+
 # find top N words from TFIDF model
-	def top_n_words_doc(self,text,tfidf_model,topn=20):
-		
+	def top_n_words_doc(self,w2v_model,text,tfidf_model,topn=20):
+		w2vModel = self.load_w2vmodel(w2v_model)
 		token = text.split()
 		words = {}
-
+	
 		for w in token:
-			wt = tfidf_model.idf_[tfidf_model.vocabulary_[w]] if w in tfidf_model.vocabulary_ else 0
-			words[w] = wt
+			if w in w2vModel.vocab:
+				if w in tfidf_model.vocabulary_:
+					wt = tfidf_model.idf_[tfidf_model.vocabulary_[w]] 
+					words[w] = wt
 
 		lenw = len(words)
+
 		if (lenw < topn): topn = lenw
 
 		sorted_x = sorted(words.items(), key=operator.itemgetter(1),reverse=True)
@@ -257,38 +228,31 @@ class PredictData():
 
 
 # Generate wieghts from Logistic Regression Model
-	def gen_LR_weight(self, words,text, w2v_model,tfidf_model, ndim):
-		model = self.load_w2vmodel(w2v_model)
-		text = text.split()
+	def get_docvec(self,w2v_model,tfidf_model, pos_words, text,neg_words=[]):
+		w2vModel = self.load_w2vmodel(w2v_model)
+		tfidf_model_vocab =  tfidf_model.vocabulary_
+		tokens = text.split()
+		X1 = [tfidf_model.idf_[tfidf_model.vocabulary_[i]]* w2vModel[i] for i in pos_words if i in tfidf_model_vocab if i in w2vModel.vocab]
+		if len(neg_words) == 0:
+			n_neg = 200
+#			sim_pos_words = [x[0] for x in w2vModel.most_similar_cosmul(pos_words, topn=200)]
+			sim_pos_words = []
+			for word in pos_words:
+				sim_pos_words += [x[0] for x in w2vModel.most_similar(word, topn=10)]
+			neg_vocab = set(w2vModel.vocab) - set(pos_words)
+			neg_vocab = set(neg_vocab) - set(tokens)
+			neg_vocab = set(neg_vocab) - set(sim_pos_words)
+			neg_words = set(random.sample(neg_vocab,n_neg)) 
+		
+		X2 = [tfidf_model.idf_[tfidf_model.vocabulary_[i]]* w2vModel[i] for i in neg_words if i in tfidf_model_vocab]
+		X = X1 + X2
+		
+		y = [1] * len(X1) + [0] * len(X2)
 
-		notfound = 0
-		denom = 0
-		nvecs = 0
-		label = []
-		avg_vec = []
-		wt =0
-		for w in text:
+		regr = LogisticRegression().fit(X, y)
 
-			if w in model:
-
-				wt = tfidf_model.idf_[tfidf_model.vocabulary_[w]] if w in tfidf_model.vocabulary_ else 0
-				ve = np.multiply(model[w], wt)
-
-				avg_vec.append(ve)				
-				if w in words: 
-					label.append(1)
-				else: 
-					label.append(0)
-				nvecs += 1
-				denom += wt
-			else:
-				notfound += 1
-		if denom == 0:
-			return []
-
-		logit = LogisticRegression(C=1.0).fit(avg_vec, label)
-
-		return logit.coef_
+		docvector = regr.coef_
+		return docvector
 
 		
 		
