@@ -140,7 +140,7 @@ class TrainData():
 #			sim_pos_words = [x[0] for x in model.most_similar_cosmul(pos_words, topn=200)]
 			sim_pos_words = []
 			for word in pos_words:
-				sim_pos_words += [x[0] for x in model.most_similar(word, topn=15)]
+				sim_pos_words += [x[0] for x in model.most_similar(word, topn=10)]
 			neg_vocab = set(model.vocab) - set(pos_words)
 			neg_vocab = set(neg_vocab) - set(tokens)
 			neg_vocab = set(neg_vocab) - set(sim_pos_words)
@@ -449,7 +449,7 @@ if __name__ == '__main__':
 #	total_dirname = '/home/viswanath/workspace/resume_data/res_dir/total'
 	test_dirname = ''
 	predict_dirname = '/home/viswanath/workspace/test_resume/predict'
-	w2v_model_path = '/home/viswanath/workspace/test_resume/model/w2v_model_100v2.mod'
+	w2v_model_path = '/home/viswanath/workspace/test_resume/model/w2v_model_100v3.mod'
 	size = 100
 	topNA = [200]  
 	for topN in topNA:
